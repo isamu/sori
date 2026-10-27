@@ -1,0 +1,297 @@
+{
+ "date": "2025-01-01",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 503,
+ "residence_min": 2,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "10:16",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "10:26",
+   "label": "佳子夫人とともに新年祝賀の儀に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:08",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:18",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "11:20",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "11:27",
+   "label": "東京・紀尾井町 ホテルニューオータニ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "13:23",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:42",
+   "label": "坂井学防災担当相、馳浩石川県知事",
+   "place": "能登空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:55",
+   "label": "能登半島地震遺族の小林由紀子さんと面会。坂井、馳両氏同席",
+   "place": "能登空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:22",
+   "label": "移動",
+   "place": "能登空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:42",
+   "label": "能登半島地震・豪雨の犠牲者追悼式に出席し、追悼の辞。献花",
+   "place": "同県輪島市 日本航空学園能登空港キャンパス",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:34",
+   "label": "移動",
+   "place": "同県輪島市 日本航空学園能登空港キャンパス",
+   "category": "移動"
+  },
+  {
+   "time": "16:37",
+   "label": "能登空港",
+   "place": "能登空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:05",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:12",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・紀尾井町 ホテルニューオータニ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・紀尾井町 ホテルニューオータニ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:16",
+   "category": "個人",
+   "label": "東京・紀尾井町 ホテルニューオータニ宿泊",
+   "minutes": 616
+  },
+  {
+   "start": "10:16",
+   "end": "10:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "10:26",
+   "end": "11:08",
+   "category": "式典・行事",
+   "label": "佳子夫人とともに新年祝賀の儀に出席",
+   "minutes": 42
+  },
+  {
+   "start": "11:08",
+   "end": "11:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "11:18",
+   "end": "11:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 2
+  },
+  {
+   "start": "11:20",
+   "end": "11:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "11:27",
+   "end": "12:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 85
+  },
+  {
+   "start": "12:52",
+   "end": "13:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "13:23",
+   "end": "13:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "13:43",
+   "end": "14:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "14:42",
+   "end": "14:54",
+   "category": "移動",
+   "label": "坂井学防災担当相、馳浩石川県知事",
+   "minutes": 12
+  },
+  {
+   "start": "14:54",
+   "end": "14:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:55",
+   "end": "15:13",
+   "category": "面会・会談",
+   "label": "能登半島地震遺族の小林由紀子さんと面会。坂井、馳両氏同席",
+   "minutes": 18
+  },
+  {
+   "start": "15:13",
+   "end": "15:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "15:22",
+   "end": "15:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "15:26",
+   "end": "15:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "15:42",
+   "end": "16:30",
+   "category": "式典・行事",
+   "label": "能登半島地震・豪雨の犠牲者追悼式に出席し、追悼の辞。献花",
+   "minutes": 48
+  },
+  {
+   "start": "16:30",
+   "end": "16:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:34",
+   "end": "16:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:37",
+   "end": "17:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "17:08",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "18:05",
+   "end": "18:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "18:12",
+   "end": "18:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "18:41",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 319
+  }
+ ],
+ "alloc_min": {
+  "個人": 935,
+  "移動": 249,
+  "式典・行事": 90,
+  "居所": 2,
+  "公務（内容未詳）": 146,
+  "面会・会談": 18
+ }
+}

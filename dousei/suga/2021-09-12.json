@@ -1,0 +1,158 @@
+{
+ "date": "2021-09-12",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 137,
+ "residence_min": 1303,
+ "meetings": 3,
+ "first_work": "13:46",
+ "events": [
+  {
+   "time": "13:46",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "13:52",
+   "label": "市橋亮一医療法人かがやき理事長、菊池亮ファストドクター代表取締役・医師、佐々木淳医療法人社団悠翔会理事長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:55",
+   "label": "和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:26",
+   "label": "和泉洋人首相補佐官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:41",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:42",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "16:14",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 826
+  },
+  {
+   "start": "13:46",
+   "end": "13:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:49",
+   "end": "13:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:52",
+   "end": "14:52",
+   "category": "面会・会談",
+   "label": "市橋亮一医療法人かがやき理事長、菊池亮ファストドクター代表取締役・医師、佐々木淳医療法人社団悠翔会理事長",
+   "minutes": 60
+  },
+  {
+   "start": "14:52",
+   "end": "14:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 3
+  },
+  {
+   "start": "14:55",
+   "end": "15:25",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官",
+   "minutes": 30
+  },
+  {
+   "start": "15:25",
+   "end": "15:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "15:26",
+   "end": "15:29",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官",
+   "minutes": 3
+  },
+  {
+   "start": "15:29",
+   "end": "15:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 12
+  },
+  {
+   "start": "15:41",
+   "end": "15:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 32
+  },
+  {
+   "start": "16:14",
+   "end": "16:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "16:19",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 461
+  }
+ ],
+ "alloc_min": {
+  "居所": 1303,
+  "移動": 9,
+  "公務（内容未詳）": 35,
+  "面会・会談": 93
+ }
+}

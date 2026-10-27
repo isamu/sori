@@ -1,0 +1,180 @@
+{
+ "date": "2021-06-19",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 197,
+ "residence_min": 1243,
+ "meetings": 3,
+ "first_work": "13:49",
+ "events": [
+  {
+   "time": "13:49",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "13:57",
+   "label": "東京都議選に向けたビデオメッセージ収録",
+   "place": "自民党本部",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:51",
+   "label": "都議選の選挙対策本部であいさつ",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "14:53",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "15:15",
+   "label": "小池百合子東京都知事",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:11",
+   "label": "和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:46",
+   "label": "和泉洋人首相補佐官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:26",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 829
+  },
+  {
+   "start": "13:49",
+   "end": "13:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "13:57",
+   "end": "14:51",
+   "category": "官邸執務",
+   "label": "東京都議選に向けたビデオメッセージ収録",
+   "minutes": 54
+  },
+  {
+   "start": "14:51",
+   "end": "14:52",
+   "category": "党務",
+   "label": "都議選の選挙対策本部であいさつ",
+   "minutes": 1
+  },
+  {
+   "start": "14:52",
+   "end": "14:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:53",
+   "end": "14:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "14:56",
+   "end": "15:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "15:15",
+   "end": "16:10",
+   "category": "面会・会談",
+   "label": "小池百合子東京都知事",
+   "minutes": 55
+  },
+  {
+   "start": "16:10",
+   "end": "16:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "16:11",
+   "end": "16:45",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官",
+   "minutes": 34
+  },
+  {
+   "start": "16:45",
+   "end": "16:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "16:46",
+   "end": "17:03",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官",
+   "minutes": 17
+  },
+  {
+   "start": "17:03",
+   "end": "17:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 23
+  },
+  {
+   "start": "17:26",
+   "end": "17:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "17:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 389
+  }
+ ],
+ "alloc_min": {
+  "居所": 1243,
+  "移動": 16,
+  "官邸執務": 54,
+  "党務": 1,
+  "公務（内容未詳）": 20,
+  "面会・会談": 106
+ }
+}

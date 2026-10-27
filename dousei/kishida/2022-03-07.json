@@ -1,0 +1,287 @@
+{
+ "date": "2022-03-07",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 684,
+ "residence_min": 756,
+ "meetings": 3,
+ "first_work": "08:24",
+ "events": [
+  {
+   "time": "08:24",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:25",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会",
+   "category": "国会"
+  },
+  {
+   "time": "11:58",
+   "label": "移動",
+   "place": "国会 参院第１委員会",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会",
+   "category": "国会"
+  },
+  {
+   "time": "17:12",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:32",
+   "label": "関口昌一自民党参院議員会長",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:37",
+   "label": "自民党の麻生太郎副総裁、茂木敏充幹事長",
+   "place": "国会 自民党幹事長会議室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:01",
+   "label": "移動",
+   "place": "国会 自民党幹事長会議室",
+   "category": "移動"
+  },
+  {
+   "time": "18:07",
+   "label": "松野博一官房長官 木原誠二副官房長官 磯崎仁彦副官房長官 栗生俊一副官房長官 秋葉剛男国家安全保障局長 滝沢裕昭内閣情報官 森健良事務次官 宇山秀樹欧州局長 増田和夫防衛政策局長 阪田渉関税局長 新井ゆたか審議官 保坂伸資源エネルギー庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:47",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:24",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 504
+  },
+  {
+   "start": "08:24",
+   "end": "08:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 21
+  },
+  {
+   "start": "08:46",
+   "end": "08:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:48",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:55",
+   "end": "11:55",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 180
+  },
+  {
+   "start": "11:55",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:58",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 51
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:53",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "17:09",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 249
+  },
+  {
+   "start": "17:09",
+   "end": "17:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:12",
+   "end": "17:31",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 19
+  },
+  {
+   "start": "17:31",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:32",
+   "end": "17:34",
+   "category": "面会・会談",
+   "label": "関口昌一自民党参院議員会長",
+   "minutes": 2
+  },
+  {
+   "start": "17:34",
+   "end": "17:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:37",
+   "end": "17:59",
+   "category": "面会・会談",
+   "label": "自民党の麻生太郎副総裁、茂木敏充幹事長",
+   "minutes": 22
+  },
+  {
+   "start": "17:59",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:01",
+   "end": "18:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:03",
+   "end": "18:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:07",
+   "end": "18:34",
+   "category": "面会・会談",
+   "label": "松野博一官房長官 木原誠二副官房長官 磯崎仁彦副官房長官 栗生俊一副官房長官 秋葉剛男国家安全保障局長 滝沢裕昭内閣情報官 森健良事務次官 宇山秀樹欧州局長 増田和夫防衛政策局長 阪田渉関税局長 新井ゆたか審議官 保坂伸資源エネルギー庁長官",
+   "minutes": 27
+  },
+  {
+   "start": "18:34",
+   "end": "19:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 73
+  },
+  {
+   "start": "19:47",
+   "end": "19:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 252
+  }
+ ],
+ "alloc_min": {
+  "居所": 756,
+  "移動": 10,
+  "官邸執務": 72,
+  "公務（内容未詳）": 103,
+  "国会": 429,
+  "党務": 19,
+  "面会・会談": 51
+ }
+}

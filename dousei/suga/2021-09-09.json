@@ -1,0 +1,162 @@
+{
+ "date": "2021-09-09",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 646,
+ "residence_min": 670,
+ "meetings": 1,
+ "first_work": "07:51",
+ "events": [
+  {
+   "time": "07:51",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:56",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "10:00",
+   "label": "佐藤勉自民党総務会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "17:01",
+   "label": "新型コロナウイルス感染症対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:33",
+   "label": "武田良太総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:01",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:35",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 471
+  },
+  {
+   "start": "07:51",
+   "end": "07:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "07:56",
+   "end": "10:00",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 124
+  },
+  {
+   "start": "10:00",
+   "end": "10:20",
+   "category": "党務",
+   "label": "佐藤勉自民党総務会長",
+   "minutes": 20
+  },
+  {
+   "start": "10:20",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 401
+  },
+  {
+   "start": "17:01",
+   "end": "17:25",
+   "category": "官邸執務",
+   "label": "新型コロナウイルス感染症対策本部",
+   "minutes": 24
+  },
+  {
+   "start": "17:25",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:33",
+   "end": "17:38",
+   "category": "面会・会談",
+   "label": "武田良太総務相",
+   "minutes": 5
+  },
+  {
+   "start": "17:38",
+   "end": "19:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 83
+  },
+  {
+   "start": "19:01",
+   "end": "20:00",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 59
+  },
+  {
+   "start": "20:00",
+   "end": "20:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "20:35",
+   "end": "20:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "20:41",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 199
+  }
+ ],
+ "alloc_min": {
+  "居所": 670,
+  "移動": 11,
+  "個人": 124,
+  "党務": 20,
+  "公務（内容未詳）": 527,
+  "官邸執務": 24,
+  "面会・会談": 5,
+  "取材・会見": 59
+ }
+}

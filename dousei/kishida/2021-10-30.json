@@ -1,0 +1,426 @@
+{
+ "date": "2021-10-30",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 795,
+ "residence_min": 645,
+ "meetings": 0,
+ "first_work": "08:01",
+ "events": [
+  {
+   "time": "08:01",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:13",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "09:01",
+   "label": "ＪＲ熊谷駅",
+   "place": "ＪＲ熊谷駅",
+   "category": "移動"
+  },
+  {
+   "time": "09:06",
+   "label": "移動",
+   "place": "ＪＲ熊谷駅",
+   "category": "移動"
+  },
+  {
+   "time": "09:35",
+   "label": "街頭演説",
+   "place": "埼玉県東松山市 東武東上線東松山駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "09:59",
+   "label": "移動",
+   "place": "埼玉県東松山市 東武東上線東松山駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "10:30",
+   "label": "休憩",
+   "place": "同県所沢市 東日本高速道路所沢管理事務所",
+   "category": "移動"
+  },
+  {
+   "time": "10:33",
+   "label": "移動",
+   "place": "同県所沢市 東日本高速道路所沢管理事務所",
+   "category": "移動"
+  },
+  {
+   "time": "11:08",
+   "label": "街頭演説",
+   "place": "ＪＲ南浦和駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "11:26",
+   "label": "移動",
+   "place": "ＪＲ南浦和駅西口",
+   "category": "移動"
+  },
+  {
+   "time": "12:56",
+   "label": "秘書官と昼食。支援者らと記念撮影",
+   "place": "東京都調布市 そば店「青木屋　深大寺店」",
+   "category": "会食"
+  },
+  {
+   "time": "13:11",
+   "label": "移動",
+   "place": "東京都調布市 そば店「青木屋　深大寺店」",
+   "category": "移動"
+  },
+  {
+   "time": "13:23",
+   "label": "街頭演説",
+   "place": "同市 京王線調布駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "13:40",
+   "label": "移動",
+   "place": "同市 京王線調布駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "15:05",
+   "label": "街頭演説",
+   "place": "相模原市南区 小田急小田原線相模大野駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "15:24",
+   "label": "移動",
+   "place": "相模原市南区 小田急小田原線相模大野駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "15:33",
+   "label": "街頭演説",
+   "place": "東京都町田市 商業施設「レミィ町田」前",
+   "category": "党務"
+  },
+  {
+   "time": "15:53",
+   "label": "移動",
+   "place": "東京都町田市 商業施設「レミィ町田」前",
+   "category": "移動"
+  },
+  {
+   "time": "16:53",
+   "label": "街頭演説",
+   "place": "横浜市港北区の東急東横線日吉駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:09",
+   "label": "移動",
+   "place": "横浜市港北区の東急東横線日吉駅前",
+   "category": "移動"
+  },
+  {
+   "time": "17:56",
+   "label": "街頭演説",
+   "place": "東京・太子堂 キャロットタワー前",
+   "category": "党務"
+  },
+  {
+   "time": "18:13",
+   "label": "移動",
+   "place": "東京・太子堂 キャロットタワー前",
+   "category": "移動"
+  },
+  {
+   "time": "18:29",
+   "label": "街頭演説",
+   "place": "ＪＲ四ツ谷駅麹町口前",
+   "category": "党務"
+  },
+  {
+   "time": "18:44",
+   "label": "移動",
+   "place": "ＪＲ四ツ谷駅麹町口前",
+   "category": "移動"
+  },
+  {
+   "time": "19:22",
+   "label": "街頭演説",
+   "place": "東京・大井 阪急大井町ガーデン前",
+   "category": "党務"
+  },
+  {
+   "time": "19:50",
+   "label": "移動",
+   "place": "東京・大井 阪急大井町ガーデン前",
+   "category": "移動"
+  },
+  {
+   "time": "20:55",
+   "label": "２０カ国・地域首脳会議（Ｇ２０サミット）にテレビ会議方式で出席",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:11",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 481
+  },
+  {
+   "start": "08:01",
+   "end": "08:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "08:13",
+   "end": "08:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "08:24",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "09:01",
+   "end": "09:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "09:06",
+   "end": "09:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "09:35",
+   "end": "09:59",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "09:59",
+   "end": "10:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "10:30",
+   "end": "10:33",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "10:33",
+   "end": "11:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "11:08",
+   "end": "11:26",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 18
+  },
+  {
+   "start": "11:26",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 90
+  },
+  {
+   "start": "12:56",
+   "end": "13:11",
+   "category": "会食",
+   "label": "秘書官と昼食。支援者らと記念撮影",
+   "minutes": 15
+  },
+  {
+   "start": "13:11",
+   "end": "13:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "13:23",
+   "end": "13:40",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 17
+  },
+  {
+   "start": "13:40",
+   "end": "15:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 85
+  },
+  {
+   "start": "15:05",
+   "end": "15:24",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 19
+  },
+  {
+   "start": "15:24",
+   "end": "15:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:33",
+   "end": "15:53",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 20
+  },
+  {
+   "start": "15:53",
+   "end": "16:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 60
+  },
+  {
+   "start": "16:53",
+   "end": "17:09",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 16
+  },
+  {
+   "start": "17:09",
+   "end": "17:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 47
+  },
+  {
+   "start": "17:56",
+   "end": "18:13",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 17
+  },
+  {
+   "start": "18:13",
+   "end": "18:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "18:29",
+   "end": "18:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 15
+  },
+  {
+   "start": "18:44",
+   "end": "19:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 38
+  },
+  {
+   "start": "19:22",
+   "end": "19:50",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "19:50",
+   "end": "20:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "20:08",
+   "end": "20:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "20:55",
+   "end": "21:04",
+   "category": "取材・会見",
+   "label": "２０カ国・地域首脳会議（Ｇ２０サミット）にテレビ会議方式で出席",
+   "minutes": 9
+  },
+  {
+   "start": "21:04",
+   "end": "21:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "21:11",
+   "end": "21:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "21:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 164
+  }
+ ],
+ "alloc_min": {
+  "居所": 645,
+  "移動": 495,
+  "公務（内容未詳）": 102,
+  "党務": 174,
+  "会食": 15,
+  "取材・会見": 9
+ }
+}

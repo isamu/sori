@@ -1,0 +1,274 @@
+{
+ "date": "2021-08-25",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 1199,
+ "residence_min": 119,
+ "meetings": 2,
+ "first_work": "00:29",
+ "events": [
+  {
+   "time": "00:29",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "00:32",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "08:20",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "08:23",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "10:25",
+   "label": "荒井勝喜商務情報政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:00",
+   "label": "自民党の二階俊博幹事長、林幹雄幹事長代理",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:29",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:33",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:40",
+   "label": "小泉進次郎環境相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:03",
+   "label": "新型コロナウイルス感染症対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "21:01",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 29
+  },
+  {
+   "start": "00:29",
+   "end": "00:31",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "00:31",
+   "end": "00:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "00:32",
+   "end": "00:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "00:37",
+   "end": "08:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 463
+  },
+  {
+   "start": "08:20",
+   "end": "08:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "08:23",
+   "end": "10:25",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 122
+  },
+  {
+   "start": "10:25",
+   "end": "10:40",
+   "category": "面会・会談",
+   "label": "荒井勝喜商務情報政策局長",
+   "minutes": 15
+  },
+  {
+   "start": "10:40",
+   "end": "10:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "10:56",
+   "end": "10:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:59",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:00",
+   "end": "11:28",
+   "category": "党務",
+   "label": "自民党の二階俊博幹事長、林幹雄幹事長代理",
+   "minutes": 28
+  },
+  {
+   "start": "11:28",
+   "end": "11:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:29",
+   "end": "11:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "11:33",
+   "end": "12:40",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 67
+  },
+  {
+   "start": "12:40",
+   "end": "13:10",
+   "category": "面会・会談",
+   "label": "小泉進次郎環境相",
+   "minutes": 30
+  },
+  {
+   "start": "13:10",
+   "end": "18:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 293
+  },
+  {
+   "start": "18:03",
+   "end": "18:22",
+   "category": "官邸執務",
+   "label": "新型コロナウイルス感染症対策本部",
+   "minutes": 19
+  },
+  {
+   "start": "18:22",
+   "end": "21:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 159
+  },
+  {
+   "start": "21:01",
+   "end": "21:57",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 56
+  },
+  {
+   "start": "21:57",
+   "end": "22:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "22:26",
+   "end": "22:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "22:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 90
+  }
+ ],
+ "alloc_min": {
+  "居所": 119,
+  "取材・会見": 125,
+  "公務（内容未詳）": 963,
+  "移動": 19,
+  "個人": 122,
+  "面会・会談": 45,
+  "党務": 28,
+  "官邸執務": 19
+ }
+}

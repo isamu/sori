@@ -1,0 +1,225 @@
+{
+ "date": "2021-05-04",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 145,
+ "residence_min": 1156,
+ "meetings": 5,
+ "first_work": "12:16",
+ "events": [
+  {
+   "time": "12:16",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "12:20",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "12:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "松田公太クージューＣＥＯ、北見尚之横浜セントラルタウンフェスティバル実行委員会委員長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:00",
+   "label": "高橋洋一参与",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:34",
+   "label": "岡部信彦参与",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:58",
+   "label": "和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:27",
+   "label": "和泉洋人首相補佐官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:49",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:51",
+   "label": "同ホテル内の「カージュラジャ　ティアド」で散髪",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "個人"
+  },
+  {
+   "time": "18:35",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 736
+  },
+  {
+   "start": "12:16",
+   "end": "12:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:20",
+   "end": "12:55",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 35
+  },
+  {
+   "start": "12:55",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "13:30",
+   "category": "面会・会談",
+   "label": "松田公太クージューＣＥＯ、北見尚之横浜セントラルタウンフェスティバル実行委員会委員長",
+   "minutes": 30
+  },
+  {
+   "start": "13:30",
+   "end": "14:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 30
+  },
+  {
+   "start": "14:00",
+   "end": "14:33",
+   "category": "面会・会談",
+   "label": "高橋洋一参与",
+   "minutes": 33
+  },
+  {
+   "start": "14:33",
+   "end": "14:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "14:34",
+   "end": "15:03",
+   "category": "面会・会談",
+   "label": "岡部信彦参与",
+   "minutes": 29
+  },
+  {
+   "start": "15:03",
+   "end": "15:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 55
+  },
+  {
+   "start": "15:58",
+   "end": "16:26",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "minutes": 28
+  },
+  {
+   "start": "16:26",
+   "end": "16:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "16:27",
+   "end": "16:37",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官",
+   "minutes": 10
+  },
+  {
+   "start": "16:37",
+   "end": "16:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 12
+  },
+  {
+   "start": "16:49",
+   "end": "16:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:51",
+   "end": "18:35",
+   "category": "個人",
+   "label": "同ホテル内の「カージュラジャ　ティアド」で散髪",
+   "minutes": 104
+  },
+  {
+   "start": "18:35",
+   "end": "18:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "18:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 321
+  }
+ ],
+ "alloc_min": {
+  "居所": 1156,
+  "移動": 11,
+  "個人": 139,
+  "公務（内容未詳）": 4,
+  "面会・会談": 130
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "date": "2012-04-08",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.04.08",
+ "work_min": 75,
+ "residence_min": 1365,
+ "meetings": 2,
+ "first_work": "13:05",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "13:05",
+   "label": "民主党の城島国対委員長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:20",
+   "label": "城島氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 785
+  },
+  {
+   "start": "13:05",
+   "end": "14:20",
+   "category": "面会・会談",
+   "label": "民主党の城島国対委員長",
+   "minutes": 75
+  },
+  {
+   "start": "14:20",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 580
+  }
+ ],
+ "alloc_min": {
+  "居所": 1365,
+  "面会・会談": 75
+ }
+}

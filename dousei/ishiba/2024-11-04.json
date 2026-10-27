@@ -1,0 +1,77 @@
+{
+ "date": "2024-11-04",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 88,
+ "residence_min": 1352,
+ "meetings": 0,
+ "first_work": "11:54",
+ "events": [
+  {
+   "time": "11:54",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "12:03",
+   "label": "同ホテル内の宴会場「コスモスホール」で東京鳥取県人会の懇親会に出席。あいさつ",
+   "place": "東京・平河町 都市センターホテル",
+   "category": "会食"
+  },
+  {
+   "time": "13:17",
+   "label": "移動",
+   "place": "東京・平河町 都市センターホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 714
+  },
+  {
+   "start": "11:54",
+   "end": "12:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "12:03",
+   "end": "13:17",
+   "category": "会食",
+   "label": "同ホテル内の宴会場「コスモスホール」で東京鳥取県人会の懇親会に出席。あいさつ",
+   "minutes": 74
+  },
+  {
+   "start": "13:17",
+   "end": "13:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "13:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 638
+  }
+ ],
+ "alloc_min": {
+  "居所": 1352,
+  "移動": 14,
+  "会食": 74
+ }
+}

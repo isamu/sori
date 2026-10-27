@@ -1,0 +1,333 @@
+{
+ "date": "2024-10-20",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 826,
+ "residence_min": 400,
+ "meetings": 0,
+ "first_work": "06:40",
+ "events": [
+  {
+   "time": "06:40",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:01",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "08:34",
+   "label": "関西空港",
+   "place": "関西空港",
+   "category": "移動"
+  },
+  {
+   "time": "08:45",
+   "label": "移動",
+   "place": "関西空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:26",
+   "label": "街頭演説",
+   "place": "和歌山県海南市 ＪＲ海南駅前",
+   "category": "党務"
+  },
+  {
+   "time": "10:10",
+   "label": "移動",
+   "place": "和歌山県海南市 ＪＲ海南駅前",
+   "category": "移動"
+  },
+  {
+   "time": "11:17",
+   "label": "街頭演説",
+   "place": "堺市西区 ＪＲ鳳駅前",
+   "category": "党務"
+  },
+  {
+   "time": "11:59",
+   "label": "移動",
+   "place": "堺市西区 ＪＲ鳳駅前",
+   "category": "移動"
+  },
+  {
+   "time": "12:32",
+   "label": "街頭演説",
+   "place": "堺市北区 南海中百舌鳥駅前",
+   "category": "党務"
+  },
+  {
+   "time": "13:03",
+   "label": "移動",
+   "place": "堺市北区 南海中百舌鳥駅前",
+   "category": "移動"
+  },
+  {
+   "time": "13:29",
+   "label": "街頭演説",
+   "place": "大阪市住之江区 大阪メトロ・ポートタウン東駅前",
+   "category": "党務"
+  },
+  {
+   "time": "14:06",
+   "label": "移動",
+   "place": "大阪市住之江区 大阪メトロ・ポートタウン東駅前",
+   "category": "移動"
+  },
+  {
+   "time": "14:42",
+   "label": "街頭演説",
+   "place": "大阪府守口市 京阪守口市駅前",
+   "category": "党務"
+  },
+  {
+   "time": "15:14",
+   "label": "移動",
+   "place": "大阪府守口市 京阪守口市駅前",
+   "category": "移動"
+  },
+  {
+   "time": "15:43",
+   "label": "街頭演説",
+   "place": "大阪市淀川区 「ニッセイ新大阪ビル」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:19",
+   "label": "移動",
+   "place": "大阪市淀川区 「ニッセイ新大阪ビル」前",
+   "category": "移動"
+  },
+  {
+   "time": "16:52",
+   "label": "街頭演説",
+   "place": "兵庫県尼崎市 ＪＲ尼崎駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:25",
+   "label": "移動",
+   "place": "兵庫県尼崎市 ＪＲ尼崎駅前",
+   "category": "移動"
+  },
+  {
+   "time": "18:13",
+   "label": "街頭演説",
+   "place": "神戸市長田区 若松公園",
+   "category": "党務"
+  },
+  {
+   "time": "18:40",
+   "label": "移動",
+   "place": "神戸市長田区 若松公園",
+   "category": "移動"
+  },
+  {
+   "time": "18:59",
+   "label": "街頭演説",
+   "place": "同市中央区 公園「東遊園地」",
+   "category": "党務"
+  },
+  {
+   "time": "19:38",
+   "label": "移動",
+   "place": "同市中央区 公園「東遊園地」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "大阪市北区 帝国ホテル大阪",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 400
+  },
+  {
+   "start": "06:40",
+   "end": "07:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "07:01",
+   "end": "07:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "07:40",
+   "end": "08:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "08:34",
+   "end": "08:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "08:45",
+   "end": "09:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "09:26",
+   "end": "10:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 44
+  },
+  {
+   "start": "10:10",
+   "end": "11:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 67
+  },
+  {
+   "start": "11:17",
+   "end": "11:59",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 42
+  },
+  {
+   "start": "11:59",
+   "end": "12:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "12:32",
+   "end": "13:03",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "13:03",
+   "end": "13:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "13:29",
+   "end": "14:06",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 37
+  },
+  {
+   "start": "14:06",
+   "end": "14:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "14:42",
+   "end": "15:14",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "15:14",
+   "end": "15:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "15:43",
+   "end": "16:19",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "16:19",
+   "end": "16:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "16:52",
+   "end": "17:25",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "17:25",
+   "end": "18:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 48
+  },
+  {
+   "start": "18:13",
+   "end": "18:40",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "18:40",
+   "end": "18:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "18:59",
+   "end": "19:38",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 39
+  },
+  {
+   "start": "19:38",
+   "end": "20:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 48
+  },
+  {
+   "start": "20:26",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 214
+  }
+ ],
+ "alloc_min": {
+  "居所": 400,
+  "移動": 451,
+  "公務（内容未詳）": 54,
+  "党務": 321,
+  "個人": 214
+ }
+}

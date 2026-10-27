@@ -1,0 +1,309 @@
+{
+ "date": "2025-07-04",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 862,
+ "residence_min": 578,
+ "meetings": 0,
+ "first_work": "07:34",
+ "events": [
+  {
+   "time": "07:34",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:00",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:15",
+   "label": "福島空港",
+   "place": "福島空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:22",
+   "label": "移動",
+   "place": "福島空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:53",
+   "label": "地元農家と車座対話。記念撮影。利用客らと握手",
+   "place": "福島県白河市 ＪＡ夢みなみ農産物直売所「り菜あん」",
+   "category": "移動"
+  },
+  {
+   "time": "10:27",
+   "label": "移動",
+   "place": "福島県白河市 ＪＡ夢みなみ農産物直売所「り菜あん」",
+   "category": "移動"
+  },
+  {
+   "time": "10:31",
+   "label": "街頭演説。聴衆と握手",
+   "place": "同市 城山公園",
+   "category": "党務"
+  },
+  {
+   "time": "11:09",
+   "label": "移動",
+   "place": "同市 城山公園",
+   "category": "移動"
+  },
+  {
+   "time": "12:54",
+   "label": "同空港内の会議室で能登半島地震被災者らと車座対話。記念撮影。馳浩石川県知事同席",
+   "place": "能登空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:02",
+   "label": "同空港敷地内の駐車場で街頭演説。聴衆と握手",
+   "place": "能登空港",
+   "category": "党務"
+  },
+  {
+   "time": "16:54",
+   "label": "那覇空港",
+   "place": "那覇空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:10",
+   "label": "移動",
+   "place": "那覇空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:19",
+   "label": "同ホテル内の宴会場「万座の間」で自民党参院選候補者の演説会に出席。演説",
+   "place": "那覇市 パシフィックホテル沖縄",
+   "category": "党務"
+  },
+  {
+   "time": "18:21",
+   "label": "移動",
+   "place": "那覇市 パシフィックホテル沖縄",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "那覇空港",
+   "place": "那覇空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:18",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:36",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 454
+  },
+  {
+   "start": "07:34",
+   "end": "08:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "08:00",
+   "end": "08:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "08:37",
+   "end": "09:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "09:15",
+   "end": "09:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "09:22",
+   "end": "09:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "09:50",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:53",
+   "end": "10:26",
+   "category": "移動",
+   "label": "地元農家と車座対話。記念撮影。利用客らと握手",
+   "minutes": 33
+  },
+  {
+   "start": "10:26",
+   "end": "10:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:27",
+   "end": "10:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "10:31",
+   "end": "11:09",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 38
+  },
+  {
+   "start": "11:09",
+   "end": "11:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "11:39",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 75
+  },
+  {
+   "start": "12:54",
+   "end": "13:51",
+   "category": "移動",
+   "label": "同空港内の会議室で能登半島地震被災者らと車座対話。記念撮影。馳浩石川県知事同席",
+   "minutes": 57
+  },
+  {
+   "start": "13:51",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "14:02",
+   "end": "14:28",
+   "category": "党務",
+   "label": "同空港敷地内の駐車場で街頭演説。聴衆と握手",
+   "minutes": 26
+  },
+  {
+   "start": "14:28",
+   "end": "16:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 146
+  },
+  {
+   "start": "16:54",
+   "end": "17:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "17:10",
+   "end": "17:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "17:19",
+   "end": "18:21",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「万座の間」で自民党参院選候補者の演説会に出席。演説",
+   "minutes": 62
+  },
+  {
+   "start": "18:21",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:30",
+   "end": "19:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "19:05",
+   "end": "21:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 133
+  },
+  {
+   "start": "21:18",
+   "end": "21:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "21:36",
+   "end": "21:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:56",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 124
+  }
+ ],
+ "alloc_min": {
+  "居所": 578,
+  "移動": 329,
+  "公務（内容未詳）": 407,
+  "党務": 126
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "date": "2013-07-26",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2013.07.26",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間26日）午前、政府専用機でマレーシアのクアラルンプール国際空港発",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "シンガポールのチャンギ国際空港着",
+   "place": "チャンギ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "イスタナ（大統領府）で歓迎式典",
+   "place": "チャンギ国際空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "タン大統領を表敬",
+   "place": "チャンギ国際空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "リー・シェンロン首相と首脳会談",
+   "place": "チャンギ国際空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "共同記者会見",
+   "place": "チャンギ国際空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "午後、リー首相主催の昼食会",
+   "place": "チャンギ国際空港",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "リッツカールトンホテルでバイデン米副大統領と会談",
+   "place": "チャンギ国際空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同ホテルで講演",
+   "place": "チャンギ国際空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "政府専用機でチャンギ国際空港発",
+   "place": "チャンギ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "フィリピン・マニラのニノイ・アキノ国際空港着",
+   "place": "ニノイ・アキノ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "インターコンチネンタルホテルで比日協会主催のレセプション",
+   "place": "ニノイ・アキノ国際空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ホテル「ザ・ペニンシュラマニラ」泊",
+   "place": "ホテル「ザ・ペニンシュラマニラ」",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "date": "2022-08-19",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 192,
+ "residence_min": 568,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "11:20",
+   "label": "移動",
+   "place": "静岡県伊豆の国市 旅館「三養荘」",
+   "category": "移動"
+  },
+  {
+   "time": "11:27",
+   "label": "買い物",
+   "place": "同市 ドライブイン「いちごプラザ」",
+   "category": "移動"
+  },
+  {
+   "time": "11:43",
+   "label": "移動",
+   "place": "同市 ドライブイン「いちごプラザ」",
+   "category": "移動"
+  },
+  {
+   "time": "12:06",
+   "label": "裕子夫人ら家族と昼食",
+   "place": "同県三島市 「うなぎすみの坊本町店」",
+   "category": "会食"
+  },
+  {
+   "time": "13:01",
+   "label": "移動",
+   "place": "同県三島市 「うなぎすみの坊本町店」",
+   "category": "移動"
+  },
+  {
+   "time": "13:06",
+   "label": "ＪＲ三島駅",
+   "place": "ＪＲ三島駅",
+   "category": "移動"
+  },
+  {
+   "time": "14:17",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "14:21",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:20",
+   "category": "個人",
+   "label": "公務（内容未詳）",
+   "minutes": 680
+  },
+  {
+   "start": "11:20",
+   "end": "11:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "11:27",
+   "end": "11:43",
+   "category": "移動",
+   "label": "買い物",
+   "minutes": 16
+  },
+  {
+   "start": "11:43",
+   "end": "12:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "12:06",
+   "end": "13:01",
+   "category": "会食",
+   "label": "裕子夫人ら家族と昼食",
+   "minutes": 55
+  },
+  {
+   "start": "13:01",
+   "end": "13:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "13:06",
+   "end": "13:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "13:24",
+   "end": "14:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "14:17",
+   "end": "14:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "14:21",
+   "end": "14:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "14:32",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 568
+  }
+ ],
+ "alloc_min": {
+  "個人": 680,
+  "移動": 80,
+  "会食": 55,
+  "公務（内容未詳）": 57,
+  "居所": 568
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "date": "2025-09-07",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 471,
+ "residence_min": 969,
+ "meetings": 4,
+ "first_work": "13:26",
+ "events": [
+  {
+   "time": "13:26",
+   "label": "岩屋毅外相 村上誠一郎総務相",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:04",
+   "label": "赤沢亮正経済再生担当相",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:54",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:30",
+   "label": "赤沢亮正経済再生担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:00",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:50",
+   "label": "林芳正官房長官 青木一彦副官房長官 赤沢経済再生担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:53",
+   "label": "同ホテル内の中国料理店「大観苑」で、青木副長官らと会食",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "会食"
+  },
+  {
+   "time": "21:38",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 806
+  },
+  {
+   "start": "13:26",
+   "end": "16:01",
+   "category": "面会・会談",
+   "label": "岩屋毅外相 村上誠一郎総務相",
+   "minutes": 155
+  },
+  {
+   "start": "16:01",
+   "end": "16:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 3
+  },
+  {
+   "start": "16:04",
+   "end": "16:30",
+   "category": "面会・会談",
+   "label": "赤沢亮正経済再生担当相",
+   "minutes": 26
+  },
+  {
+   "start": "16:30",
+   "end": "16:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 24
+  },
+  {
+   "start": "16:54",
+   "end": "16:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:55",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "17:30",
+   "end": "17:57",
+   "category": "面会・会談",
+   "label": "赤沢亮正経済再生担当相",
+   "minutes": 27
+  },
+  {
+   "start": "17:57",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:00",
+   "end": "18:48",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 48
+  },
+  {
+   "start": "18:48",
+   "end": "18:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:50",
+   "end": "19:38",
+   "category": "面会・会談",
+   "label": "林芳正官房長官 青木一彦副官房長官 赤沢経済再生担当相",
+   "minutes": 48
+  },
+  {
+   "start": "19:38",
+   "end": "19:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "19:46",
+   "end": "19:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "19:53",
+   "end": "21:38",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「大観苑」で、青木副長官らと会食",
+   "minutes": 105
+  },
+  {
+   "start": "21:38",
+   "end": "21:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "21:44",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 136
+  }
+ ],
+ "alloc_min": {
+  "居所": 969,
+  "面会・会談": 256,
+  "移動": 14,
+  "公務（内容未詳）": 48,
+  "取材・会見": 48,
+  "会食": 105
+ }
+}

@@ -1,0 +1,429 @@
+{
+ "date": "2025-08-23",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 675,
+ "residence_min": 765,
+ "meetings": 2,
+ "first_work": "08:51",
+ "events": [
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:52",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:26",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "神奈川県横須賀市 海上自衛隊横須賀基地内の護衛艦「かが」",
+   "category": "移動"
+  },
+  {
+   "time": "09:30",
+   "label": "同艦内を視察。中谷元防衛相、斎藤聡防衛省海上幕僚長同行",
+   "place": "神奈川県横須賀市 海上自衛隊横須賀基地内の護衛艦「かが」",
+   "category": "視察"
+  },
+  {
+   "time": "10:40",
+   "label": "移動",
+   "place": "神奈川県横須賀市 海上自衛隊横須賀基地内の護衛艦「かが」",
+   "category": "移動"
+  },
+  {
+   "time": "10:59",
+   "label": "同艦内を視察。中谷防衛相、斎藤海幕長同行",
+   "place": "米海軍横須賀基地内 英海軍航空母艦「プリンス・オブ・ウェールズ」",
+   "category": "視察"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "米海軍横須賀基地内 英海軍航空母艦「プリンス・オブ・ウェールズ」",
+   "category": "移動"
+  },
+  {
+   "time": "12:27",
+   "label": "海自幹部らと写真撮影",
+   "place": "海自横須賀基地内 護衛艦「かが」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:36",
+   "label": "海自幹部らと昼食",
+   "place": "海自横須賀基地内 護衛艦「かが」",
+   "category": "会食"
+  },
+  {
+   "time": "13:29",
+   "label": "海自隊員に訓示",
+   "place": "海自横須賀基地内 護衛艦「かが」",
+   "category": "移動"
+  },
+  {
+   "time": "13:49",
+   "label": "報道各社のインタビュー",
+   "place": "海自横須賀基地内 護衛艦「かが」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:19",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:59",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "15:52",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:53",
+   "label": "韓国の李在明大統領を出迎え",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:55",
+   "label": "李大統領と首脳会談少人数会合",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:59",
+   "label": "李大統領と首脳会談拡大会合",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:02",
+   "label": "共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:15",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:16",
+   "label": "石破茂首相夫妻主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:57",
+   "label": "李大統領夫妻を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 531
+  },
+  {
+   "start": "08:51",
+   "end": "08:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "08:58",
+   "end": "09:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "09:26",
+   "end": "09:28",
+   "category": "移動",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 2
+  },
+  {
+   "start": "09:28",
+   "end": "09:30",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:30",
+   "end": "10:36",
+   "category": "視察",
+   "label": "同艦内を視察。中谷元防衛相、斎藤聡防衛省海上幕僚長同行",
+   "minutes": 66
+  },
+  {
+   "start": "10:36",
+   "end": "10:40",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:40",
+   "end": "10:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "10:58",
+   "end": "10:59",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:59",
+   "end": "12:06",
+   "category": "視察",
+   "label": "同艦内を視察。中谷防衛相、斎藤海幕長同行",
+   "minutes": 67
+  },
+  {
+   "start": "12:06",
+   "end": "12:07",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:07",
+   "end": "12:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "12:22",
+   "end": "12:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:27",
+   "end": "12:29",
+   "category": "式典・行事",
+   "label": "海自幹部らと写真撮影",
+   "minutes": 2
+  },
+  {
+   "start": "12:29",
+   "end": "12:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "12:36",
+   "end": "13:18",
+   "category": "会食",
+   "label": "海自幹部らと昼食",
+   "minutes": 42
+  },
+  {
+   "start": "13:18",
+   "end": "13:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "13:29",
+   "end": "13:41",
+   "category": "移動",
+   "label": "海自隊員に訓示",
+   "minutes": 12
+  },
+  {
+   "start": "13:41",
+   "end": "13:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:49",
+   "end": "13:52",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "13:52",
+   "end": "14:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 40
+  },
+  {
+   "start": "14:59",
+   "end": "15:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:00",
+   "end": "15:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 52
+  },
+  {
+   "start": "15:52",
+   "end": "15:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:53",
+   "end": "16:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "16:53",
+   "end": "16:54",
+   "category": "式典・行事",
+   "label": "韓国の李在明大統領を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "16:54",
+   "end": "16:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:55",
+   "end": "17:57",
+   "category": "面会・会談",
+   "label": "李大統領と首脳会談少人数会合",
+   "minutes": 62
+  },
+  {
+   "start": "17:57",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:59",
+   "end": "18:51",
+   "category": "面会・会談",
+   "label": "李大統領と首脳会談拡大会合",
+   "minutes": 52
+  },
+  {
+   "start": "18:51",
+   "end": "19:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "19:02",
+   "end": "19:13",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 11
+  },
+  {
+   "start": "19:13",
+   "end": "19:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:15",
+   "end": "19:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:16",
+   "end": "20:57",
+   "category": "会食",
+   "label": "石破茂首相夫妻主催の夕食会",
+   "minutes": 101
+  },
+  {
+   "start": "20:57",
+   "end": "20:58",
+   "category": "式典・行事",
+   "label": "李大統領夫妻を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "20:58",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 182
+  }
+ ],
+ "alloc_min": {
+  "居所": 765,
+  "移動": 51,
+  "官邸執務": 46,
+  "公務（内容未詳）": 162,
+  "視察": 141,
+  "式典・行事": 4,
+  "会食": 143,
+  "取材・会見": 14,
+  "面会・会談": 114
+ }
+}

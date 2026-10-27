@@ -1,0 +1,159 @@
+{
+ "date": "2021-05-08",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 115,
+ "residence_min": 1252,
+ "meetings": 3,
+ "first_work": "11:55",
+ "events": [
+  {
+   "time": "11:55",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "12:01",
+   "label": "眼科の定期検診",
+   "place": "東京・西新橋 東京慈恵会医大付属病院",
+   "category": "個人"
+  },
+  {
+   "time": "13:14",
+   "label": "移動",
+   "place": "東京・西新橋 東京慈恵会医大付属病院",
+   "category": "移動"
+  },
+  {
+   "time": "13:30",
+   "label": "東京大大学院の仲田泰祐准教授、藤井大輔特任講師",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:01",
+   "label": "経済財政諮問会議議員の新浪剛史サントリーホールディングス社長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:53",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:32",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 715
+  },
+  {
+   "start": "11:55",
+   "end": "12:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "12:01",
+   "end": "13:14",
+   "category": "個人",
+   "label": "眼科の定期検診",
+   "minutes": 73
+  },
+  {
+   "start": "13:14",
+   "end": "13:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "13:23",
+   "end": "13:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:30",
+   "end": "14:00",
+   "category": "面会・会談",
+   "label": "東京大大学院の仲田泰祐准教授、藤井大輔特任講師",
+   "minutes": 30
+  },
+  {
+   "start": "14:00",
+   "end": "14:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "14:01",
+   "end": "14:38",
+   "category": "面会・会談",
+   "label": "経済財政諮問会議議員の新浪剛史サントリーホールディングス社長",
+   "minutes": 37
+  },
+  {
+   "start": "14:38",
+   "end": "16:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 135
+  },
+  {
+   "start": "16:53",
+   "end": "17:15",
+   "category": "面会・会談",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長",
+   "minutes": 22
+  },
+  {
+   "start": "17:15",
+   "end": "17:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 17
+  },
+  {
+   "start": "17:32",
+   "end": "17:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "17:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 384
+  }
+ ],
+ "alloc_min": {
+  "居所": 1252,
+  "移動": 19,
+  "個人": 73,
+  "公務（内容未詳）": 7,
+  "面会・会談": 89
+ }
+}

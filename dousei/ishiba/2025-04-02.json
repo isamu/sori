@@ -1,0 +1,286 @@
+{
+ "date": "2025-04-02",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 556,
+ "residence_min": 821,
+ "meetings": 4,
+ "first_work": "08:31",
+ "events": [
+  {
+   "time": "08:31",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:34",
+   "label": "書籍の閲覧",
+   "place": "国立国会図書館",
+   "category": "個人"
+  },
+  {
+   "time": "09:37",
+   "label": "移動",
+   "place": "国立国会図書館",
+   "category": "移動"
+  },
+  {
+   "time": "11:26",
+   "label": "松山政司自民党参院幹事長。青木一彦官房副長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:00",
+   "label": "岡野正敬国家安全保障局長 金井正彰アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:41",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:45",
+   "label": "森山裕同党幹事長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "15:01",
+   "label": "元宿仁党本部事務総長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "15:34",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "15:49",
+   "label": "鈴木敦夫国家安全保障局次長 村瀬佳史資源エネルギー庁長官 大和太郎防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:20",
+   "label": "鈴木敦夫国家安全保障局次長 河辺賢裕総合外交政策局長 大和太郎防衛政策局長 吉田圭秀統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:20",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:21",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "18:47",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 511
+  },
+  {
+   "start": "08:31",
+   "end": "08:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "08:34",
+   "end": "09:37",
+   "category": "個人",
+   "label": "書籍の閲覧",
+   "minutes": 63
+  },
+  {
+   "start": "09:37",
+   "end": "09:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:39",
+   "end": "11:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 107
+  },
+  {
+   "start": "11:26",
+   "end": "12:04",
+   "category": "面会・会談",
+   "label": "松山政司自民党参院幹事長。青木一彦官房副長官同席",
+   "minutes": 38
+  },
+  {
+   "start": "12:04",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 116
+  },
+  {
+   "start": "14:00",
+   "end": "14:30",
+   "category": "面会・会談",
+   "label": "岡野正敬国家安全保障局長 金井正彰アジア大洋州局長",
+   "minutes": 30
+  },
+  {
+   "start": "14:30",
+   "end": "14:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "14:41",
+   "end": "14:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "14:44",
+   "end": "14:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:45",
+   "end": "15:00",
+   "category": "党務",
+   "label": "森山裕同党幹事長",
+   "minutes": 15
+  },
+  {
+   "start": "15:00",
+   "end": "15:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:01",
+   "end": "15:30",
+   "category": "党務",
+   "label": "元宿仁党本部事務総長",
+   "minutes": 29
+  },
+  {
+   "start": "15:30",
+   "end": "15:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:34",
+   "end": "15:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "15:37",
+   "end": "15:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "15:49",
+   "end": "16:19",
+   "category": "面会・会談",
+   "label": "鈴木敦夫国家安全保障局次長 村瀬佳史資源エネルギー庁長官 大和太郎防衛政策局長",
+   "minutes": 30
+  },
+  {
+   "start": "16:19",
+   "end": "16:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:20",
+   "end": "16:54",
+   "category": "面会・会談",
+   "label": "鈴木敦夫国家安全保障局次長 河辺賢裕総合外交政策局長 大和太郎防衛政策局長 吉田圭秀統合幕僚長",
+   "minutes": 34
+  },
+  {
+   "start": "16:54",
+   "end": "18:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 86
+  },
+  {
+   "start": "18:20",
+   "end": "18:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 26
+  },
+  {
+   "start": "18:47",
+   "end": "18:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:50",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 310
+  }
+ ],
+ "alloc_min": {
+  "居所": 821,
+  "移動": 15,
+  "個人": 63,
+  "公務（内容未詳）": 365,
+  "面会・会談": 132,
+  "党務": 44
+ }
+}

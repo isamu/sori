@@ -1,0 +1,83 @@
+{
+ "date": "2012-07-22",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.07.22",
+ "work_min": 156,
+ "residence_min": 1284,
+ "meetings": 2,
+ "first_work": "13:08",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "13:08",
+   "label": "手塚首相補佐官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:38",
+   "label": "東京・戸塚町の早稲田大学大隈講堂で鎌田薫早大総長ら",
+   "place": "戸塚町",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:06",
+   "label": "早大主催の講演会に出席し、講演",
+   "place": "戸塚町",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:44",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 788
+  },
+  {
+   "start": "13:08",
+   "end": "13:38",
+   "category": "面会・会談",
+   "label": "手塚首相補佐官",
+   "minutes": 30
+  },
+  {
+   "start": "13:38",
+   "end": "14:06",
+   "category": "面会・会談",
+   "label": "東京・戸塚町の早稲田大学大隈講堂で鎌田薫早大総長ら",
+   "minutes": 28
+  },
+  {
+   "start": "14:06",
+   "end": "15:44",
+   "category": "式典・行事",
+   "label": "早大主催の講演会に出席し、講演",
+   "minutes": 98
+  },
+  {
+   "start": "15:44",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 496
+  }
+ ],
+ "alloc_min": {
+  "居所": 1284,
+  "面会・会談": 58,
+  "式典・行事": 98
+ }
+}

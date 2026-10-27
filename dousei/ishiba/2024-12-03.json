@@ -1,0 +1,495 @@
+{
+ "date": "2024-12-03",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 970,
+ "residence_min": 470,
+ "meetings": 7,
+ "first_work": "06:13",
+ "events": [
+  {
+   "time": "06:13",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "06:17",
+   "label": "青木一彦官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:34",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:43",
+   "label": "青木一彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:58",
+   "label": "橘慶一郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:17",
+   "label": "能登半島地震復旧・復興支援本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "09:59",
+   "label": "林芳正官房長官",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:58",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:02",
+   "label": "自民党の星野剛士外交部会長、中曽根弘文外交調査会長らから外交力の抜本的強化を求める決議書受け取り",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "13:01",
+   "label": "橘慶一郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:54",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "18:06",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "18:21",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:11",
+   "label": "ブレンデ世界経済フォーラム総裁の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:30",
+   "label": "青木一彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:31",
+   "label": "森山裕同党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:19",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 373
+  },
+  {
+   "start": "06:13",
+   "end": "06:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "06:16",
+   "end": "06:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "06:17",
+   "end": "07:33",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 76
+  },
+  {
+   "start": "07:33",
+   "end": "07:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "07:34",
+   "end": "07:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:35",
+   "end": "07:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "07:43",
+   "end": "07:57",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 14
+  },
+  {
+   "start": "07:57",
+   "end": "07:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:58",
+   "end": "08:56",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官",
+   "minutes": 58
+  },
+  {
+   "start": "08:56",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:01",
+   "end": "09:12",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "09:12",
+   "end": "09:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:17",
+   "end": "09:28",
+   "category": "官邸執務",
+   "label": "能登半島地震復旧・復興支援本部",
+   "minutes": 11
+  },
+  {
+   "start": "09:28",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "09:52",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:53",
+   "end": "09:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "09:57",
+   "end": "09:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:59",
+   "end": "10:00",
+   "category": "国会",
+   "label": "林芳正官房長官",
+   "minutes": 1
+  },
+  {
+   "start": "10:00",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:01",
+   "end": "11:56",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 115
+  },
+  {
+   "start": "11:56",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:58",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:00",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:02",
+   "end": "12:18",
+   "category": "党務",
+   "label": "自民党の星野剛士外交部会長、中曽根弘文外交調査会長らから外交力の抜本的強化を求める決議書受け取り",
+   "minutes": 16
+  },
+  {
+   "start": "12:18",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "13:01",
+   "end": "13:25",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官",
+   "minutes": 24
+  },
+  {
+   "start": "13:25",
+   "end": "13:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "13:51",
+   "end": "13:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:53",
+   "end": "13:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "14:00",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:02",
+   "end": "18:04",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 242
+  },
+  {
+   "start": "18:04",
+   "end": "18:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:06",
+   "end": "18:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:08",
+   "end": "18:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "18:21",
+   "end": "19:02",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 41
+  },
+  {
+   "start": "19:02",
+   "end": "19:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "19:11",
+   "end": "19:26",
+   "category": "面会・会談",
+   "label": "ブレンデ世界経済フォーラム総裁の表敬",
+   "minutes": 15
+  },
+  {
+   "start": "19:26",
+   "end": "19:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "19:30",
+   "end": "20:30",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 60
+  },
+  {
+   "start": "20:30",
+   "end": "20:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:31",
+   "end": "20:38",
+   "category": "面会・会談",
+   "label": "森山裕同党幹事長",
+   "minutes": 7
+  },
+  {
+   "start": "20:38",
+   "end": "22:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 101
+  },
+  {
+   "start": "22:19",
+   "end": "22:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "22:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 96
+  }
+ ],
+ "alloc_min": {
+  "居所": 470,
+  "移動": 16,
+  "公務（内容未詳）": 255,
+  "面会・会談": 254,
+  "官邸執務": 63,
+  "国会": 366,
+  "党務": 16
+ }
+}

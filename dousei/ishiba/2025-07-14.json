@@ -1,0 +1,344 @@
+{
+ "date": "2025-07-14",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 875,
+ "residence_min": 130,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "07:15",
+   "label": "移動",
+   "place": "東京都大田区 羽田エクセルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "07:20",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "08:35",
+   "label": "秋田空港",
+   "place": "秋田空港",
+   "category": "移動"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "秋田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:37",
+   "label": "同所内の宴会場「羽衣の間」で地元農家との意見交換。御法川信英自民党県連会長同席",
+   "place": "秋田県大仙市 催事場「グランドパレス川端」",
+   "category": "党務"
+  },
+  {
+   "time": "10:52",
+   "label": "同所内の宴会場「大会場」で同党参院選候補者の演説会に出席。演説",
+   "place": "秋田県大仙市 催事場「グランドパレス川端」",
+   "category": "党務"
+  },
+  {
+   "time": "11:22",
+   "label": "移動",
+   "place": "秋田県大仙市 催事場「グランドパレス川端」",
+   "category": "移動"
+  },
+  {
+   "time": "11:25",
+   "label": "ＪＲ大曲駅",
+   "place": "ＪＲ大曲駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:57",
+   "label": "ＪＲ新青森駅",
+   "place": "ＪＲ新青森駅",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "移動",
+   "place": "ＪＲ新青森駅",
+   "category": "移動"
+  },
+  {
+   "time": "14:14",
+   "label": "街頭演説。聴衆と握手",
+   "place": "青森市 青森駅前公園",
+   "category": "党務"
+  },
+  {
+   "time": "14:44",
+   "label": "移動",
+   "place": "青森市 青森駅前公園",
+   "category": "移動"
+  },
+  {
+   "time": "15:38",
+   "label": "街頭演説。聴衆と握手",
+   "place": "青森県弘前市 「さくら野百貨店弘前店」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:17",
+   "label": "移動",
+   "place": "青森県弘前市 「さくら野百貨店弘前店」前",
+   "category": "移動"
+  },
+  {
+   "time": "17:04",
+   "label": "青森空港",
+   "place": "青森空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:40",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:00",
+   "label": "同党の菅義偉副総裁、森山裕幹事長、木原誠二選対委員長、岡田直樹参院幹事長代行",
+   "place": "自民党本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:48",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:15",
+   "category": "個人",
+   "label": "公務（内容未詳）",
+   "minutes": 435
+  },
+  {
+   "start": "07:15",
+   "end": "07:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "07:20",
+   "end": "07:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "07:51",
+   "end": "08:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "08:35",
+   "end": "08:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:49",
+   "end": "09:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 45
+  },
+  {
+   "start": "09:34",
+   "end": "09:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:37",
+   "end": "10:18",
+   "category": "党務",
+   "label": "同所内の宴会場「羽衣の間」で地元農家との意見交換。御法川信英自民党県連会長同席",
+   "minutes": 41
+  },
+  {
+   "start": "10:18",
+   "end": "10:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "10:52",
+   "end": "11:12",
+   "category": "党務",
+   "label": "同所内の宴会場「大会場」で同党参院選候補者の演説会に出席。演説",
+   "minutes": 20
+  },
+  {
+   "start": "11:12",
+   "end": "11:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "11:22",
+   "end": "11:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:25",
+   "end": "11:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "11:43",
+   "end": "13:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 134
+  },
+  {
+   "start": "13:57",
+   "end": "14:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "14:00",
+   "end": "14:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "14:14",
+   "end": "14:44",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 30
+  },
+  {
+   "start": "14:44",
+   "end": "15:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 54
+  },
+  {
+   "start": "15:38",
+   "end": "16:17",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 39
+  },
+  {
+   "start": "16:17",
+   "end": "17:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 47
+  },
+  {
+   "start": "17:04",
+   "end": "17:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "17:30",
+   "end": "18:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 70
+  },
+  {
+   "start": "18:40",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "18:56",
+   "end": "19:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "19:17",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "20:00",
+   "end": "21:31",
+   "category": "面会・会談",
+   "label": "同党の菅義偉副総裁、森山裕幹事長、木原誠二選対委員長、岡田直樹参院幹事長代行",
+   "minutes": 91
+  },
+  {
+   "start": "21:31",
+   "end": "21:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "21:48",
+   "end": "21:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "21:50",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 130
+  }
+ ],
+ "alloc_min": {
+  "個人": 435,
+  "移動": 299,
+  "公務（内容未詳）": 355,
+  "党務": 130,
+  "面会・会談": 91,
+  "居所": 130
+ }
+}

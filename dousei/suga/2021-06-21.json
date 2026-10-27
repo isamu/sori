@@ -1,0 +1,340 @@
+{
+ "date": "2021-06-21",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 514,
+ "residence_min": 781,
+ "meetings": 6,
+ "first_work": "07:56",
+ "events": [
+  {
+   "time": "07:56",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:59",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "10:24",
+   "label": "大島一博官房長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:03",
+   "label": "ジャーナリストの田原総一朗氏",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:22",
+   "label": "阿達雅志首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:02",
+   "label": "小泉進次郎環境相と会食",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "13:10",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:20",
+   "label": "新型コロナウイルスワクチンの職域接種会場を視察",
+   "place": "東京・大手町 日本郵政本社",
+   "category": "視察"
+  },
+  {
+   "time": "13:28",
+   "label": "増田寛也同社社長と意見交換",
+   "place": "東京・大手町 日本郵政本社",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:53",
+   "label": "移動",
+   "place": "東京・大手町 日本郵政本社",
+   "category": "移動"
+  },
+  {
+   "time": "14:05",
+   "label": "新型コロナウイルスワクチンの職域接種会場を視察",
+   "place": "東京・虎ノ門 虎ノ門ヒルズ森タワー",
+   "category": "視察"
+  },
+  {
+   "time": "14:11",
+   "label": "辻慎吾森ビル社長と意見交換",
+   "place": "東京・虎ノ門 虎ノ門ヒルズ森タワー",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:32",
+   "label": "報道各社のインタビュー",
+   "place": "東京・虎ノ門 虎ノ門ヒルズ森タワー",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:40",
+   "label": "移動",
+   "place": "東京・虎ノ門 虎ノ門ヒルズ森タワー",
+   "category": "移動"
+  },
+  {
+   "time": "15:30",
+   "label": "河野太郎規制改革担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:13",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:14",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "18:50",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 476
+  },
+  {
+   "start": "07:56",
+   "end": "07:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "07:59",
+   "end": "10:24",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 145
+  },
+  {
+   "start": "10:24",
+   "end": "10:54",
+   "category": "面会・会談",
+   "label": "大島一博官房長",
+   "minutes": 30
+  },
+  {
+   "start": "10:54",
+   "end": "11:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "11:03",
+   "end": "11:21",
+   "category": "面会・会談",
+   "label": "ジャーナリストの田原総一朗氏",
+   "minutes": 18
+  },
+  {
+   "start": "11:21",
+   "end": "11:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:22",
+   "end": "11:52",
+   "category": "面会・会談",
+   "label": "阿達雅志首相補佐官",
+   "minutes": 30
+  },
+  {
+   "start": "11:52",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "12:02",
+   "end": "12:46",
+   "category": "会食",
+   "label": "小泉進次郎環境相と会食",
+   "minutes": 44
+  },
+  {
+   "start": "12:46",
+   "end": "13:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "13:10",
+   "end": "13:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "13:20",
+   "end": "13:28",
+   "category": "視察",
+   "label": "新型コロナウイルスワクチンの職域接種会場を視察",
+   "minutes": 8
+  },
+  {
+   "start": "13:28",
+   "end": "13:47",
+   "category": "面会・会談",
+   "label": "増田寛也同社社長と意見交換",
+   "minutes": 19
+  },
+  {
+   "start": "13:47",
+   "end": "13:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:53",
+   "end": "14:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "14:05",
+   "end": "14:11",
+   "category": "視察",
+   "label": "新型コロナウイルスワクチンの職域接種会場を視察",
+   "minutes": 6
+  },
+  {
+   "start": "14:11",
+   "end": "14:27",
+   "category": "面会・会談",
+   "label": "辻慎吾森ビル社長と意見交換",
+   "minutes": 16
+  },
+  {
+   "start": "14:27",
+   "end": "14:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "14:32",
+   "end": "14:38",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 6
+  },
+  {
+   "start": "14:38",
+   "end": "14:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:40",
+   "end": "14:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:47",
+   "end": "15:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "15:30",
+   "end": "15:54",
+   "category": "面会・会談",
+   "label": "河野太郎規制改革担当相",
+   "minutes": 24
+  },
+  {
+   "start": "15:54",
+   "end": "18:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 139
+  },
+  {
+   "start": "18:13",
+   "end": "18:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 36
+  },
+  {
+   "start": "18:50",
+   "end": "18:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:55",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 305
+  }
+ ],
+ "alloc_min": {
+  "居所": 781,
+  "移動": 38,
+  "個人": 145,
+  "面会・会談": 137,
+  "公務（内容未詳）": 275,
+  "会食": 44,
+  "視察": 14,
+  "取材・会見": 6
+ }
+}

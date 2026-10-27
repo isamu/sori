@@ -1,0 +1,95 @@
+{
+ "date": "2020-10-21",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 1335,
+ "residence_min": 28,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "献花",
+   "place": "カリバタ英雄墓地",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "日系企業関係者と懇談",
+   "place": "「フェアモント・ジャカルタ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "「フェアモント・ジャカルタ」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "元日本留学生による表敬",
+   "place": "「フェアモント・ジャカルタ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "インドネシア・ジャカルタ郊外のスカルノ・ハッタ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:52",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "21:52",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "22:20",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "21:52",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1312
+  },
+  {
+   "start": "21:52",
+   "end": "22:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 28
+  },
+  {
+   "start": "22:20",
+   "end": "22:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "22:43",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 77
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1312,
+  "居所": 28,
+  "移動": 23,
+  "個人": 77
+ }
+}

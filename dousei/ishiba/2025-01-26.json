@@ -1,0 +1,139 @@
+{
+ "date": "2025-01-26",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 106,
+ "residence_min": 1334,
+ "meetings": 1,
+ "first_work": "16:31",
+ "events": [
+  {
+   "time": "16:31",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "日本相撲協会の八角理事長",
+   "place": "東京・横網 両国国技館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:53",
+   "label": "表彰式で優勝した大関豊昇龍関に表彰状と内閣総理大臣杯を授与",
+   "place": "東京・横網 両国国技館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:55",
+   "label": "移動",
+   "place": "東京・横網 両国国技館",
+   "category": "移動"
+  },
+  {
+   "time": "18:14",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "19:55",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 991
+  },
+  {
+   "start": "16:31",
+   "end": "16:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "16:52",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:00",
+   "end": "17:10",
+   "category": "面会・会談",
+   "label": "日本相撲協会の八角理事長",
+   "minutes": 10
+  },
+  {
+   "start": "17:10",
+   "end": "17:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "17:53",
+   "end": "17:54",
+   "category": "式典・行事",
+   "label": "表彰式で優勝した大関豊昇龍関に表彰状と内閣総理大臣杯を授与",
+   "minutes": 1
+  },
+  {
+   "start": "17:54",
+   "end": "17:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:55",
+   "end": "18:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "18:14",
+   "end": "19:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 101
+  },
+  {
+   "start": "19:55",
+   "end": "19:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "19:58",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 242
+  }
+ ],
+ "alloc_min": {
+  "居所": 1334,
+  "移動": 43,
+  "公務（内容未詳）": 52,
+  "面会・会談": 10,
+  "式典・行事": 1
+ }
+}

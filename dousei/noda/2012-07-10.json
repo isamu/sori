@@ -1,0 +1,203 @@
+{
+ "date": "2012-07-10",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.07.10",
+ "work_min": 732,
+ "residence_min": 708,
+ "meetings": 7,
+ "first_work": "06:32",
+ "events": [
+  {
+   "time": "06:32",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:00",
+   "label": "長浜氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:13",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:14",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:16",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:24",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:04",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:34",
+   "label": "民主党の輿石幹事長",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:26",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:27",
+   "label": "松原消費者相、内閣府の後藤副大臣、郡政務官、本多首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "竹歳官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:12",
+   "label": "斎藤官房副長官、手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:45",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 392
+  },
+  {
+   "start": "06:32",
+   "end": "08:13",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 101
+  },
+  {
+   "start": "08:13",
+   "end": "08:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "08:14",
+   "end": "08:16",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:16",
+   "end": "08:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:24",
+   "end": "09:04",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 40
+  },
+  {
+   "start": "09:04",
+   "end": "12:34",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 210
+  },
+  {
+   "start": "12:34",
+   "end": "13:00",
+   "category": "面会・会談",
+   "label": "民主党の輿石幹事長",
+   "minutes": 26
+  },
+  {
+   "start": "13:00",
+   "end": "17:26",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 266
+  },
+  {
+   "start": "17:26",
+   "end": "17:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:27",
+   "end": "18:02",
+   "category": "面会・会談",
+   "label": "松原消費者相、内閣府の後藤副大臣、郡政務官、本多首相補佐官",
+   "minutes": 35
+  },
+  {
+   "start": "18:02",
+   "end": "18:12",
+   "category": "面会・会談",
+   "label": "竹歳官房副長官",
+   "minutes": 10
+  },
+  {
+   "start": "18:12",
+   "end": "18:45",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、手塚補佐官",
+   "minutes": 33
+  },
+  {
+   "start": "18:45",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 315
+  }
+ ],
+ "alloc_min": {
+  "居所": 708,
+  "面会・会談": 205,
+  "移動": 2,
+  "公務（内容未詳）": 9,
+  "官邸執務": 40,
+  "国会": 476
+ }
+}

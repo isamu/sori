@@ -1,0 +1,56 @@
+{
+ "date": "2013-10-14",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2013.10.14",
+ "work_min": 167,
+ "residence_min": 1273,
+ "meetings": 1,
+ "first_work": "19:16",
+ "events": [
+  {
+   "time": null,
+   "label": "東京・富ケ谷の自宅で過ごす",
+   "place": "富ケ谷",
+   "category": "居所"
+  },
+  {
+   "time": "19:16",
+   "label": "自民党の岸信夫衆院議員ら親族と食事",
+   "place": "富ケ谷",
+   "category": "会食"
+  },
+  {
+   "time": "22:03",
+   "label": "岸氏ら出る",
+   "place": "富ケ谷",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "19:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1156
+  },
+  {
+   "start": "19:16",
+   "end": "22:03",
+   "category": "会食",
+   "label": "自民党の岸信夫衆院議員ら親族と食事",
+   "minutes": 167
+  },
+  {
+   "start": "22:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 117
+  }
+ ],
+ "alloc_min": {
+  "居所": 1273,
+  "会食": 167
+ }
+}

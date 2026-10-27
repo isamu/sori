@@ -1,0 +1,57 @@
+{
+ "date": "2025-08-13",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 47,
+ "residence_min": 1393,
+ "meetings": 2,
+ "first_work": "18:00",
+ "events": [
+  {
+   "time": "18:00",
+   "label": "岡野正敬国家安全保障局長 鯰博行審議官 北川克郎欧州局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "23:33",
+   "label": "ウクライナに関する有志連合オンライン首脳会合",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "18:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1080
+  },
+  {
+   "start": "18:00",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "岡野正敬国家安全保障局長 鯰博行審議官 北川克郎欧州局長",
+   "minutes": 20
+  },
+  {
+   "start": "18:20",
+   "end": "23:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 313
+  },
+  {
+   "start": "23:33",
+   "end": "24:00",
+   "category": "面会・会談",
+   "label": "ウクライナに関する有志連合オンライン首脳会合",
+   "minutes": 27
+  }
+ ],
+ "alloc_min": {
+  "居所": 1393,
+  "面会・会談": 47
+ }
+}

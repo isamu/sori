@@ -1,0 +1,286 @@
+{
+ "date": "2021-06-28",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 584,
+ "residence_min": 788,
+ "meetings": 3,
+ "first_work": "07:52",
+ "events": [
+  {
+   "time": "07:52",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:56",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "09:04",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:28",
+   "label": "新型コロナウイルスワクチンの職域接種会場や検疫検査場などを視察",
+   "place": "羽田空港",
+   "category": "視察"
+  },
+  {
+   "time": "10:45",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:51",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:42",
+   "label": "井上信治宇宙政策担当相 和泉洋人首相補佐官 松尾剛彦宇宙開発戦略推進事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:01",
+   "label": "井上信治宇宙政策担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:09",
+   "label": "宮田年耕首都高速道路前社長。和泉首相補佐官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:55",
+   "label": "ラジオ番組収録で森田健作前千葉県知事と対談",
+   "place": "東京・有楽町 ニッポン放送",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:11",
+   "label": "移動",
+   "place": "東京・有楽町 ニッポン放送",
+   "category": "移動"
+  },
+  {
+   "time": "17:17",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:13",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "18:38",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 472
+  },
+  {
+   "start": "07:52",
+   "end": "07:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "07:56",
+   "end": "09:04",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 68
+  },
+  {
+   "start": "09:04",
+   "end": "09:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "09:28",
+   "end": "10:45",
+   "category": "視察",
+   "label": "新型コロナウイルスワクチンの職域接種会場や検疫検査場などを視察",
+   "minutes": 77
+  },
+  {
+   "start": "10:45",
+   "end": "10:50",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 5
+  },
+  {
+   "start": "10:50",
+   "end": "10:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:51",
+   "end": "11:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "11:16",
+   "end": "11:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "11:42",
+   "end": "12:00",
+   "category": "面会・会談",
+   "label": "井上信治宇宙政策担当相 和泉洋人首相補佐官 松尾剛彦宇宙開発戦略推進事務局長",
+   "minutes": 18
+  },
+  {
+   "start": "12:00",
+   "end": "12:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:01",
+   "end": "12:03",
+   "category": "面会・会談",
+   "label": "井上信治宇宙政策担当相",
+   "minutes": 2
+  },
+  {
+   "start": "12:03",
+   "end": "14:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 126
+  },
+  {
+   "start": "14:09",
+   "end": "14:19",
+   "category": "面会・会談",
+   "label": "宮田年耕首都高速道路前社長。和泉首相補佐官同席",
+   "minutes": 10
+  },
+  {
+   "start": "14:19",
+   "end": "15:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 89
+  },
+  {
+   "start": "15:48",
+   "end": "15:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "15:55",
+   "end": "17:11",
+   "category": "取材・会見",
+   "label": "ラジオ番組収録で森田健作前千葉県知事と対談",
+   "minutes": 76
+  },
+  {
+   "start": "17:11",
+   "end": "17:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 55
+  },
+  {
+   "start": "18:12",
+   "end": "18:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 25
+  },
+  {
+   "start": "18:38",
+   "end": "18:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:44",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 316
+  }
+ ],
+ "alloc_min": {
+  "居所": 788,
+  "移動": 73,
+  "個人": 68,
+  "視察": 77,
+  "取材・会見": 81,
+  "公務（内容未詳）": 268,
+  "面会・会談": 30,
+  "官邸執務": 55
+ }
+}

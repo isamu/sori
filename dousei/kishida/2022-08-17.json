@@ -1,0 +1,98 @@
+{
+ "date": "2022-08-17",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 104,
+ "residence_min": 784,
+ "meetings": 0,
+ "first_work": "13:04",
+ "events": [
+  {
+   "time": "13:04",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:16",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "14:17",
+   "label": "ＪＲ三島駅",
+   "place": "ＪＲ三島駅",
+   "category": "移動"
+  },
+  {
+   "time": "14:19",
+   "label": "移動",
+   "place": "ＪＲ三島駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "静岡県伊豆の国市 旅館「三養荘」",
+   "place": "静岡県伊豆の国市 旅館「三養荘」",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 784
+  },
+  {
+   "start": "13:04",
+   "end": "13:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "13:16",
+   "end": "13:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "13:27",
+   "end": "14:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "14:17",
+   "end": "14:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:19",
+   "end": "14:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "14:48",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 552
+  }
+ ],
+ "alloc_min": {
+  "居所": 784,
+  "移動": 43,
+  "公務（内容未詳）": 61,
+  "個人": 552
+ }
+}

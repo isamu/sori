@@ -1,0 +1,473 @@
+{
+ "date": "2025-05-09",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 807,
+ "residence_min": 633,
+ "meetings": 5,
+ "first_work": "08:06",
+ "events": [
+  {
+   "time": "08:06",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:21",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:30",
+   "label": "赤沢亮正経済再生担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:20",
+   "label": "春の叙勲大綬章親授式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:58",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "12:38",
+   "label": "山口那津男公明党元代表",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "13:29",
+   "label": "木原誠二自民党選対委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:08",
+   "label": "春の叙勲重光章伝達式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:29",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "14:39",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:00",
+   "label": "衆院文部科学委員会",
+   "place": "国会 衆院第１７委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:05",
+   "label": "移動",
+   "place": "国会 衆院第１７委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:15",
+   "label": "岡野正敬国家安全保障局長 原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:30",
+   "label": "原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:37",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:41",
+   "label": "同ホテル内の宴会場「オーチャード」でバッハ国際オリンピック委員会（ＩＯＣ）会長らの２０２５年春の叙勲受章祝賀会に出席",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:00",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": "18:10",
+   "label": "地元経済界関係者ら",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:54",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "19:01",
+   "label": "同ホテル内の西洋料理店「ベッラ・ヴィスタ」で元駐米大使の佐々江賢一郎日本国際問題研究所理事長、岡野国家安全保障局長らと会食",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "会食"
+  },
+  {
+   "time": "21:20",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "21:29",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "21:48",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 486
+  },
+  {
+   "start": "08:06",
+   "end": "08:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:07",
+   "end": "08:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "08:21",
+   "end": "08:28",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 7
+  },
+  {
+   "start": "08:28",
+   "end": "08:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:30",
+   "end": "08:40",
+   "category": "面会・会談",
+   "label": "赤沢亮正経済再生担当相",
+   "minutes": 10
+  },
+  {
+   "start": "08:40",
+   "end": "10:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 92
+  },
+  {
+   "start": "10:12",
+   "end": "10:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:20",
+   "end": "10:58",
+   "category": "式典・行事",
+   "label": "春の叙勲大綬章親授式",
+   "minutes": 38
+  },
+  {
+   "start": "10:58",
+   "end": "11:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:06",
+   "end": "12:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 92
+  },
+  {
+   "start": "12:38",
+   "end": "12:58",
+   "category": "党務",
+   "label": "山口那津男公明党元代表",
+   "minutes": 20
+  },
+  {
+   "start": "12:58",
+   "end": "13:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "13:29",
+   "end": "13:45",
+   "category": "面会・会談",
+   "label": "木原誠二自民党選対委員長",
+   "minutes": 16
+  },
+  {
+   "start": "13:45",
+   "end": "13:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "13:57",
+   "end": "14:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "14:08",
+   "end": "14:29",
+   "category": "式典・行事",
+   "label": "春の叙勲重光章伝達式",
+   "minutes": 21
+  },
+  {
+   "start": "14:29",
+   "end": "14:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 73
+  },
+  {
+   "start": "15:52",
+   "end": "15:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:53",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:00",
+   "end": "17:03",
+   "category": "国会",
+   "label": "衆院文部科学委員会",
+   "minutes": 63
+  },
+  {
+   "start": "17:03",
+   "end": "17:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:05",
+   "end": "17:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:07",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:15",
+   "end": "17:29",
+   "category": "面会・会談",
+   "label": "岡野正敬国家安全保障局長 原和也内閣情報官",
+   "minutes": 14
+  },
+  {
+   "start": "17:29",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:30",
+   "end": "17:35",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 5
+  },
+  {
+   "start": "17:35",
+   "end": "17:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:37",
+   "end": "17:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "17:41",
+   "end": "18:00",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「オーチャード」でバッハ国際オリンピック委員会（ＩＯＣ）会長らの２０２５年春の叙勲受章祝賀会に出席",
+   "minutes": 19
+  },
+  {
+   "start": "18:00",
+   "end": "18:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:05",
+   "end": "18:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:10",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "地元経済界関係者ら",
+   "minutes": 10
+  },
+  {
+   "start": "18:20",
+   "end": "18:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "18:54",
+   "end": "19:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "19:01",
+   "end": "21:20",
+   "category": "会食",
+   "label": "同ホテル内の西洋料理店「ベッラ・ヴィスタ」で元駐米大使の佐々江賢一郎日本国際問題研究所理事長、岡野国家安全保障局長らと会食",
+   "minutes": 139
+  },
+  {
+   "start": "21:20",
+   "end": "21:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "21:29",
+   "end": "21:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 19
+  },
+  {
+   "start": "21:48",
+   "end": "21:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "21:52",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 128
+  }
+ ],
+ "alloc_min": {
+  "居所": 633,
+  "移動": 70,
+  "公務（内容未詳）": 302,
+  "官邸執務": 80,
+  "面会・会談": 55,
+  "式典・行事": 78,
+  "党務": 20,
+  "国会": 63,
+  "会食": 139
+ }
+}

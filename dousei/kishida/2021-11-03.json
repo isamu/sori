@@ -1,0 +1,70 @@
+{
+ "date": "2021-11-03",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 848,
+ "residence_min": 592,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "発",
+   "place": "英北部グラスゴー郊外のグラスゴー空港",
+   "category": "移動"
+  },
+  {
+   "time": "13:25",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "13:45",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:25",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 805
+  },
+  {
+   "start": "13:25",
+   "end": "13:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "13:45",
+   "end": "14:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "14:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 592
+  }
+ ],
+ "alloc_min": {
+  "外遊": 805,
+  "移動": 43,
+  "居所": 592
+ }
+}

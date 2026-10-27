@@ -1,0 +1,64 @@
+{
+ "date": "2025-02-08",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 1329,
+ "residence_min": 111,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "21:35",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:45",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "21:35",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1295
+  },
+  {
+   "start": "21:35",
+   "end": "21:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "21:45",
+   "end": "22:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "22:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 111
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1295,
+  "移動": 34,
+  "居所": 111
+ }
+}

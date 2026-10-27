@@ -1,0 +1,294 @@
+{
+ "date": "2022-01-19",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 676,
+ "residence_min": 764,
+ "meetings": 6,
+ "first_work": "08:57",
+ "events": [
+  {
+   "time": "08:57",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:02",
+   "label": "木原誠二官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:02",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "秋葉剛男国家安全保障局長 森健良事務次官 島田和久事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:41",
+   "label": "新型コロナウイルス感染症対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:00",
+   "label": "桜田謙悟経済同友会代表幹事",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:23",
+   "label": "宇都隆史自民党参院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:38",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:10",
+   "label": "松野博一官房長官 磯崎仁彦副官房長官 秋葉剛男国家安全保障局長 森健良事務次官 山田重夫審議官 市川恵一北米局長 鈴木浩審議官 小野啓一経済局長 広瀬直審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 537
+  },
+  {
+   "start": "08:57",
+   "end": "08:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:58",
+   "end": "09:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:02",
+   "end": "11:13",
+   "category": "面会・会談",
+   "label": "木原誠二官房副長官",
+   "minutes": 131
+  },
+  {
+   "start": "11:13",
+   "end": "12:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 97
+  },
+  {
+   "start": "12:50",
+   "end": "12:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:02",
+   "end": "16:01",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 179
+  },
+  {
+   "start": "16:01",
+   "end": "16:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:02",
+   "end": "16:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:04",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "17:00",
+   "end": "17:30",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 森健良事務次官 島田和久事務次官",
+   "minutes": 30
+  },
+  {
+   "start": "17:30",
+   "end": "17:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "17:41",
+   "end": "17:54",
+   "category": "官邸執務",
+   "label": "新型コロナウイルス感染症対策本部",
+   "minutes": 13
+  },
+  {
+   "start": "17:54",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:00",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "桜田謙悟経済同友会代表幹事",
+   "minutes": 20
+  },
+  {
+   "start": "18:20",
+   "end": "18:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:23",
+   "end": "18:37",
+   "category": "面会・会談",
+   "label": "宇都隆史自民党参院議員",
+   "minutes": 14
+  },
+  {
+   "start": "18:37",
+   "end": "18:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:38",
+   "end": "18:57",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 19
+  },
+  {
+   "start": "18:57",
+   "end": "19:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "19:10",
+   "end": "19:59",
+   "category": "面会・会談",
+   "label": "松野博一官房長官 磯崎仁彦副官房長官 秋葉剛男国家安全保障局長 森健良事務次官 山田重夫審議官 市川恵一北米局長 鈴木浩審議官 小野啓一経済局長 広瀬直審議官",
+   "minutes": 49
+  },
+  {
+   "start": "19:59",
+   "end": "20:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "20:12",
+   "end": "20:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "20:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 227
+  }
+ ],
+ "alloc_min": {
+  "居所": 764,
+  "移動": 6,
+  "公務（内容未詳）": 208,
+  "面会・会談": 263,
+  "国会": 186,
+  "官邸執務": 13
+ }
+}

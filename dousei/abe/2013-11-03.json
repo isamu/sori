@@ -1,0 +1,70 @@
+{
+ "date": "2013-11-03",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2013.11.03",
+ "work_min": 65,
+ "residence_min": 1375,
+ "meetings": 0,
+ "first_work": "10:04",
+ "events": [
+  {
+   "time": "10:04",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:13",
+   "label": "皇居着",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:13",
+   "label": "皇居。文化勲章親授式に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:09",
+   "label": "公邸。公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 604
+  },
+  {
+   "start": "10:04",
+   "end": "10:13",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 9
+  },
+  {
+   "start": "10:13",
+   "end": "11:09",
+   "category": "式典・行事",
+   "label": "皇居。文化勲章親授式に出席",
+   "minutes": 56
+  },
+  {
+   "start": "11:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 771
+  }
+ ],
+ "alloc_min": {
+  "居所": 1375,
+  "移動": 9,
+  "式典・行事": 56
+ }
+}

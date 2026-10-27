@@ -1,0 +1,92 @@
+{
+ "date": "2021-02-27",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 243,
+ "residence_min": 1197,
+ "meetings": 1,
+ "first_work": "13:46",
+ "events": [
+  {
+   "time": "13:46",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "16:58",
+   "label": "小泉進次郎環境相",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:04",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 826
+  },
+  {
+   "start": "13:46",
+   "end": "13:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:49",
+   "end": "16:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 189
+  },
+  {
+   "start": "16:58",
+   "end": "17:45",
+   "category": "面会・会談",
+   "label": "小泉進次郎環境相",
+   "minutes": 47
+  },
+  {
+   "start": "17:45",
+   "end": "18:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 19
+  },
+  {
+   "start": "18:04",
+   "end": "18:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "18:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 352
+  }
+ ],
+ "alloc_min": {
+  "居所": 1197,
+  "移動": 7,
+  "公務（内容未詳）": 189,
+  "面会・会談": 47
+ }
+}

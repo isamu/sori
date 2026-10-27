@@ -1,0 +1,43 @@
+{
+ "date": "2013-11-10",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2013.11.10",
+ "work_min": 460,
+ "residence_min": 980,
+ "meetings": 1,
+ "first_work": "16:20",
+ "events": [
+  {
+   "time": null,
+   "label": "東京・富ケ谷の自宅で過ごす",
+   "place": "富ケ谷",
+   "category": "居所"
+  },
+  {
+   "time": "16:20",
+   "label": "岸信介元首相秘書の松岡敬祐氏",
+   "place": "富ケ谷",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 980
+  },
+  {
+   "start": "16:20",
+   "end": "24:00",
+   "category": "面会・会談",
+   "label": "岸信介元首相秘書の松岡敬祐氏",
+   "minutes": 460
+  }
+ ],
+ "alloc_min": {
+  "居所": 980,
+  "面会・会談": 460
+ }
+}

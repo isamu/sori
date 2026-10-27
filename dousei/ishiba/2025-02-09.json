@@ -1,0 +1,265 @@
+{
+ "date": "2025-02-09",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 371,
+ "residence_min": 1069,
+ "meetings": 0,
+ "first_work": "08:29",
+ "events": [
+  {
+   "time": "08:29",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "討論番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:45",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "09:52",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "10:17",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "11:01",
+   "label": "日本経済新聞のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:28",
+   "label": "小野寺五典政調会長",
+   "place": "公邸",
+   "category": "党務"
+  },
+  {
+   "time": "16:02",
+   "label": "読売新聞のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:01",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "17:14",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "報道番組に出演",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:01",
+   "label": "移動",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 509
+  },
+  {
+   "start": "08:29",
+   "end": "08:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "08:33",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "09:00",
+   "end": "09:25",
+   "category": "取材・会見",
+   "label": "討論番組に出演",
+   "minutes": 25
+  },
+  {
+   "start": "09:25",
+   "end": "09:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "09:45",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "09:52",
+   "end": "10:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 25
+  },
+  {
+   "start": "10:17",
+   "end": "10:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:19",
+   "end": "11:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "11:01",
+   "end": "11:21",
+   "category": "取材・会見",
+   "label": "日本経済新聞のインタビュー",
+   "minutes": 20
+  },
+  {
+   "start": "11:21",
+   "end": "14:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 187
+  },
+  {
+   "start": "14:28",
+   "end": "15:32",
+   "category": "党務",
+   "label": "小野寺五典政調会長",
+   "minutes": 64
+  },
+  {
+   "start": "15:32",
+   "end": "16:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 30
+  },
+  {
+   "start": "16:02",
+   "end": "16:30",
+   "category": "取材・会見",
+   "label": "読売新聞のインタビュー",
+   "minutes": 28
+  },
+  {
+   "start": "16:30",
+   "end": "17:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 31
+  },
+  {
+   "start": "17:01",
+   "end": "17:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 12
+  },
+  {
+   "start": "17:14",
+   "end": "17:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "17:35",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "18:00",
+   "end": "18:34",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 34
+  },
+  {
+   "start": "18:34",
+   "end": "19:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "19:01",
+   "end": "19:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "19:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 287
+  }
+ ],
+ "alloc_min": {
+  "居所": 1069,
+  "移動": 47,
+  "公務（内容未詳）": 153,
+  "取材・会見": 107,
+  "党務": 64
+ }
+}

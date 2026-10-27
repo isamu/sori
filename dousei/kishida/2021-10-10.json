@@ -1,0 +1,298 @@
+{
+ "date": "2021-10-10",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 588,
+ "residence_min": 852,
+ "meetings": 0,
+ "first_work": "06:55",
+ "events": [
+  {
+   "time": "06:55",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:29",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": "09:09",
+   "label": "黒岩祐治神奈川県知事、手代木功塩野義製薬社長と新型コロナウイルス感染症の宿泊療養施設を視察",
+   "place": "横浜市港北区 ホテル「東横イン新横浜駅前新館」",
+   "category": "視察"
+  },
+  {
+   "time": "10:05",
+   "label": "報道各社のインタビュー",
+   "place": "横浜市港北区 ホテル「東横イン新横浜駅前新館」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:15",
+   "label": "移動",
+   "place": "横浜市港北区 ホテル「東横イン新横浜駅前新館」",
+   "category": "移動"
+  },
+  {
+   "time": "11:01",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:01",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:14",
+   "label": "「カレッタスタジオ」で衆院選の政見放送収録",
+   "place": "東京・東新橋 複合施設「カレッタ汐留」",
+   "category": "党務"
+  },
+  {
+   "time": "14:34",
+   "label": "移動",
+   "place": "東京・東新橋 複合施設「カレッタ汐留」",
+   "category": "移動"
+  },
+  {
+   "time": "15:08",
+   "label": "自民党の甘利明幹事長、遠藤利明選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "16:31",
+   "label": "遠藤利明選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:28",
+   "label": "報道各社のインタビュー",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:31",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "17:33",
+   "label": "衆院第１議員会館",
+   "place": "衆院第１議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "17:39",
+   "label": "移動",
+   "place": "衆院第１議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 415
+  },
+  {
+   "start": "06:55",
+   "end": "07:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "07:08",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "07:30",
+   "end": "08:23",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 53
+  },
+  {
+   "start": "08:23",
+   "end": "08:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:29",
+   "end": "09:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 40
+  },
+  {
+   "start": "09:09",
+   "end": "10:05",
+   "category": "視察",
+   "label": "黒岩祐治神奈川県知事、手代木功塩野義製薬社長と新型コロナウイルス感染症の宿泊療養施設を視察",
+   "minutes": 56
+  },
+  {
+   "start": "10:05",
+   "end": "10:14",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 9
+  },
+  {
+   "start": "10:14",
+   "end": "10:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:15",
+   "end": "11:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 46
+  },
+  {
+   "start": "11:01",
+   "end": "12:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 60
+  },
+  {
+   "start": "12:01",
+   "end": "12:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "12:14",
+   "end": "14:34",
+   "category": "党務",
+   "label": "「カレッタスタジオ」で衆院選の政見放送収録",
+   "minutes": 140
+  },
+  {
+   "start": "14:34",
+   "end": "14:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "14:46",
+   "end": "15:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "15:08",
+   "end": "16:30",
+   "category": "党務",
+   "label": "自民党の甘利明幹事長、遠藤利明選対委員長",
+   "minutes": 82
+  },
+  {
+   "start": "16:30",
+   "end": "16:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:31",
+   "end": "17:20",
+   "category": "党務",
+   "label": "遠藤利明選対委員長",
+   "minutes": 49
+  },
+  {
+   "start": "17:20",
+   "end": "17:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:28",
+   "end": "17:30",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "17:30",
+   "end": "17:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:31",
+   "end": "17:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "17:39",
+   "end": "17:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "17:43",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 377
+  }
+ ],
+ "alloc_min": {
+  "居所": 852,
+  "移動": 130,
+  "公務（内容未詳）": 67,
+  "取材・会見": 64,
+  "視察": 56,
+  "党務": 271
+ }
+}

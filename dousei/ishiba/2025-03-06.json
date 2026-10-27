@@ -1,0 +1,393 @@
+{
+ "date": "2025-03-06",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 880,
+ "residence_min": 560,
+ "meetings": 6,
+ "first_work": "05:55",
+ "events": [
+  {
+   "time": "05:55",
+   "label": "青木一彦官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:40",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:51",
+   "label": "青木一彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "加藤勝信財務相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:01",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:50",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:14",
+   "label": "原宏彰審議官 笹川武賞勲局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:30",
+   "label": "岡野正敬国家安全保障局長 船越健裕事務次官 金井正彰アジア大洋州局長 北川克郎欧州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:12",
+   "label": "三村淳財務官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:32",
+   "label": "杉本達治福井県知事、山口由紀あわら温泉女将の会会長の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:25",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:26",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "19:28",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:33",
+   "label": "自民党の冨樫博之、国場幸之助両衆院議員ら全国の衆院１区を選挙区とする議員と会食",
+   "place": "東京・赤坂 中国料理店「過門香　赤坂溜池山王店」",
+   "category": "会食"
+  },
+  {
+   "time": "20:36",
+   "label": "移動",
+   "place": "東京・赤坂 中国料理店「過門香　赤坂溜池山王店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "05:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 355
+  },
+  {
+   "start": "05:55",
+   "end": "07:39",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 104
+  },
+  {
+   "start": "07:39",
+   "end": "07:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "07:40",
+   "end": "07:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:41",
+   "end": "07:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "07:51",
+   "end": "08:24",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 33
+  },
+  {
+   "start": "08:24",
+   "end": "08:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "08:51",
+   "end": "08:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:52",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:58",
+   "end": "09:00",
+   "category": "国会",
+   "label": "加藤勝信財務相",
+   "minutes": 2
+  },
+  {
+   "start": "09:00",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:01",
+   "end": "11:54",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 173
+  },
+  {
+   "start": "11:54",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:57",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 52
+  },
+  {
+   "start": "12:50",
+   "end": "12:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:52",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:00",
+   "end": "15:48",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 168
+  },
+  {
+   "start": "15:48",
+   "end": "15:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:50",
+   "end": "15:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:51",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 83
+  },
+  {
+   "start": "17:14",
+   "end": "17:29",
+   "category": "面会・会談",
+   "label": "原宏彰審議官 笹川武賞勲局長",
+   "minutes": 15
+  },
+  {
+   "start": "17:29",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:30",
+   "end": "17:55",
+   "category": "面会・会談",
+   "label": "岡野正敬国家安全保障局長 船越健裕事務次官 金井正彰アジア大洋州局長 北川克郎欧州局長",
+   "minutes": 25
+  },
+  {
+   "start": "17:55",
+   "end": "18:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "18:12",
+   "end": "18:27",
+   "category": "面会・会談",
+   "label": "三村淳財務官",
+   "minutes": 15
+  },
+  {
+   "start": "18:27",
+   "end": "18:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:32",
+   "end": "18:53",
+   "category": "面会・会談",
+   "label": "杉本達治福井県知事、山口由紀あわら温泉女将の会会長の表敬",
+   "minutes": 21
+  },
+  {
+   "start": "18:53",
+   "end": "19:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "19:25",
+   "end": "19:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:26",
+   "end": "19:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 2
+  },
+  {
+   "start": "19:28",
+   "end": "19:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:33",
+   "end": "20:36",
+   "category": "会食",
+   "label": "自民党の冨樫博之、国場幸之助両衆院議員ら全国の衆院１区を選挙区とする議員と会食",
+   "minutes": 63
+  },
+  {
+   "start": "20:36",
+   "end": "20:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "20:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 202
+  }
+ ],
+ "alloc_min": {
+  "居所": 560,
+  "面会・会談": 213,
+  "移動": 14,
+  "公務（内容未詳）": 195,
+  "国会": 343,
+  "官邸執務": 52,
+  "会食": 63
+ }
+}

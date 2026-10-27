@@ -1,0 +1,77 @@
+{
+ "date": "2013-09-27",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2013.09.27",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間26日）午前、米ニューヨークのインターコンチネンタルホテルでジャーナリストのチャーリー・ローズ氏によるインタビュー",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "午後、国連本部で国連総会の一般討論演説",
+   "place": "—",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": null,
+   "label": "アッシュ国連総会議長と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "コートジボワールのワタラ大統領、マラウイのバンダ大統領らと会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "インターコンチネンタルホテルで米国人女性、日本人女性、国連日本人職員とそれぞれ懇談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "吉川元偉国連大使の公邸で食事",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "同ホテル泊",
+   "place": "同ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間27日）午前、同ホテルで内外記者会見",
+   "place": "同ホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ニューヨーク近代美術館",
+   "place": "同ホテル",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

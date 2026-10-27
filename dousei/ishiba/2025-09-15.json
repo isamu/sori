@@ -1,0 +1,44 @@
+{
+ "date": "2025-09-15",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 157,
+ "residence_min": 1283,
+ "meetings": 1,
+ "first_work": "15:00",
+ "events": [
+  {
+   "time": "15:00",
+   "label": "秘書官と打ち合わせ",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 900
+  },
+  {
+   "start": "15:00",
+   "end": "17:37",
+   "category": "面会・会談",
+   "label": "秘書官と打ち合わせ",
+   "minutes": 157
+  },
+  {
+   "start": "17:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 383
+  }
+ ],
+ "alloc_min": {
+  "居所": 1283,
+  "面会・会談": 157
+ }
+}

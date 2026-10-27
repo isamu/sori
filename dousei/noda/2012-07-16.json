@@ -1,0 +1,84 @@
+{
+ "date": "2012-07-16",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.07.16",
+ "work_min": 227,
+ "residence_min": 1213,
+ "meetings": 1,
+ "first_work": "14:55",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:55",
+   "label": "手塚首相補佐官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:28",
+   "label": "東京・台場のフジテレビ",
+   "place": "台場",
+   "category": "移動"
+  },
+  {
+   "time": "16:50",
+   "label": "報道番組に出演",
+   "place": "台場",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:42",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 895
+  },
+  {
+   "start": "14:55",
+   "end": "16:28",
+   "category": "面会・会談",
+   "label": "手塚首相補佐官",
+   "minutes": 93
+  },
+  {
+   "start": "16:28",
+   "end": "16:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "16:50",
+   "end": "18:42",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 112
+  },
+  {
+   "start": "18:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 318
+  }
+ ],
+ "alloc_min": {
+  "居所": 1213,
+  "面会・会談": 93,
+  "公務（内容未詳）": 22,
+  "取材・会見": 112
+ }
+}

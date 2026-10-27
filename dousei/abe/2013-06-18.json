@@ -1,0 +1,119 @@
+{
+ "date": "2013-06-18",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2013.06.18",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 8,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間17日）午後、主要国首脳会議（Ｇ8サミット）セッション1「世界経済」",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "記者団のインタビュー",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ドイツのメルケル首相と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "欧州連合（ＥＵ）のファンロンパイ首脳会議常任議長と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "イタリアのレッタ首相と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "Ｇ8首脳と「外交政策」に関するワーキングディナー",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ロシアのプーチン大統領と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ロックアーン（アーン湖）のリゾート施設「ロックアーン・リゾート」泊",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間18日）午前、セッション2「テロとの闘い」",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "首脳と記念撮影",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "セッション3「税」",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "午後、ランチゲストの歓迎",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "3Ｔ（貿易、税、透明性）に関するアウトリーチ・ランチ",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "総括セッション",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "アルダーグローブ空軍基地へ向け、ヘリコプターでロックアーン・リゾート発",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "アルダーグローブ空軍基地着",
+   "place": "アルダーグローブ空軍基地",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

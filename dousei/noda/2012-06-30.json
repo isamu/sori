@@ -1,0 +1,56 @@
+{
+ "date": "2012-06-30",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.06.30",
+ "work_min": 69,
+ "residence_min": 1371,
+ "meetings": 0,
+ "first_work": "12:26",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:26",
+   "label": "東京・内幸町の帝国ホテル。読売国際経済懇話会で講演",
+   "place": "帝国ホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:35",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 746
+  },
+  {
+   "start": "12:26",
+   "end": "13:35",
+   "category": "取材・会見",
+   "label": "東京・内幸町の帝国ホテル。読売国際経済懇話会で講演",
+   "minutes": 69
+  },
+  {
+   "start": "13:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 625
+  }
+ ],
+ "alloc_min": {
+  "居所": 1371,
+  "取材・会見": 69
+ }
+}

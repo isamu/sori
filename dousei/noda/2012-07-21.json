@@ -1,0 +1,89 @@
+{
+ "date": "2012-07-21",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.07.21",
+ "work_min": 103,
+ "residence_min": 1337,
+ "meetings": 2,
+ "first_work": "16:28",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "16:28",
+   "label": "斎藤官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "斎藤氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:38",
+   "label": "東京・神南の国立代々木競技場第一体育館",
+   "place": "神南",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ロンドン五輪日本選手団壮行会であいさつ",
+   "place": "神南",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:11",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 988
+  },
+  {
+   "start": "16:28",
+   "end": "17:00",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官",
+   "minutes": 32
+  },
+  {
+   "start": "17:00",
+   "end": "17:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "17:38",
+   "end": "18:11",
+   "category": "面会・会談",
+   "label": "ロンドン五輪日本選手団壮行会であいさつ",
+   "minutes": 33
+  },
+  {
+   "start": "18:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 349
+  }
+ ],
+ "alloc_min": {
+  "居所": 1337,
+  "面会・会談": 65,
+  "公務（内容未詳）": 38
+ }
+}

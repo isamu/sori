@@ -1,0 +1,132 @@
+{
+ "date": "2021-05-01",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 129,
+ "residence_min": 1311,
+ "meetings": 3,
+ "first_work": "13:54",
+ "events": [
+  {
+   "time": "13:54",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "島村大自民党参院議員",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:52",
+   "label": "大島一博官房長",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:28",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:58",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 834
+  },
+  {
+   "start": "13:54",
+   "end": "13:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "13:58",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:00",
+   "end": "14:35",
+   "category": "面会・会談",
+   "label": "島村大自民党参院議員",
+   "minutes": 35
+  },
+  {
+   "start": "14:35",
+   "end": "14:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "14:52",
+   "end": "15:27",
+   "category": "面会・会談",
+   "label": "大島一博官房長",
+   "minutes": 35
+  },
+  {
+   "start": "15:27",
+   "end": "15:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:28",
+   "end": "15:46",
+   "category": "面会・会談",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長",
+   "minutes": 18
+  },
+  {
+   "start": "15:46",
+   "end": "15:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "15:58",
+   "end": "16:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "16:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 477
+  }
+ ],
+ "alloc_min": {
+  "居所": 1311,
+  "移動": 9,
+  "公務（内容未詳）": 32,
+  "面会・会談": 88
+ }
+}

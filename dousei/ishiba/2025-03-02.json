@@ -1,0 +1,44 @@
+{
+ "date": "2025-03-02",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 193,
+ "residence_min": 1247,
+ "meetings": 1,
+ "first_work": "15:11",
+ "events": [
+  {
+   "time": "15:11",
+   "label": "橘慶一郎官房副長官ら",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 911
+  },
+  {
+   "start": "15:11",
+   "end": "18:24",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官ら",
+   "minutes": 193
+  },
+  {
+   "start": "18:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 336
+  }
+ ],
+ "alloc_min": {
+  "居所": 1247,
+  "面会・会談": 193
+ }
+}

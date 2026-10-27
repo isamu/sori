@@ -1,0 +1,537 @@
+{
+ "date": "2021-10-26",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 852,
+ "residence_min": 580,
+ "meetings": 5,
+ "first_work": "08:01",
+ "events": [
+  {
+   "time": "08:01",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:12",
+   "label": "新しい資本主義実現会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:33",
+   "label": "同会議出席者と名刺交換",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:47",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:11",
+   "label": "後藤茂之厚生労働相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:36",
+   "label": "森美樹夫領事局長 浅沼一成危機管理・医務技術総括審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:47",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:55",
+   "label": "内奏",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:34",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:40",
+   "label": "衆院選の不在者投票",
+   "place": "東京・九段南 千代田区役所",
+   "category": "個人"
+  },
+  {
+   "time": "11:48",
+   "label": "移動",
+   "place": "東京・九段南 千代田区役所",
+   "category": "移動"
+  },
+  {
+   "time": "12:06",
+   "label": "気候変動対策推進のための有識者会議の報告書受け取り",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:18",
+   "label": "秋葉剛男国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:47",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "街頭演説",
+   "place": "茨城県つくば市 商業施設「トナリエ・クレオ」前",
+   "category": "党務"
+  },
+  {
+   "time": "14:25",
+   "label": "移動",
+   "place": "茨城県つくば市 商業施設「トナリエ・クレオ」前",
+   "category": "移動"
+  },
+  {
+   "time": "14:53",
+   "label": "休憩",
+   "place": "同県守谷市 常磐自動車道守谷サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:57",
+   "label": "移動",
+   "place": "同県守谷市 常磐自動車道守谷サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "15:41",
+   "label": "街頭演説",
+   "place": "さいたま市浦和区 ＪＲ浦和駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "16:04",
+   "label": "移動",
+   "place": "さいたま市浦和区 ＪＲ浦和駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "16:31",
+   "label": "休憩",
+   "place": "埼玉県和光市 東京外環自動車道和光北集約料金所",
+   "category": "移動"
+  },
+  {
+   "time": "16:34",
+   "label": "移動",
+   "place": "埼玉県和光市 東京外環自動車道和光北集約料金所",
+   "category": "移動"
+  },
+  {
+   "time": "17:14",
+   "label": "街頭演説",
+   "place": "東京都西東京市 西武新宿線田無駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "17:34",
+   "label": "移動",
+   "place": "東京都西東京市 西武新宿線田無駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "18:08",
+   "label": "街頭演説",
+   "place": "東京都東村山市 西武新宿線久米川駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "18:34",
+   "label": "移動",
+   "place": "東京都東村山市 西武新宿線久米川駅南口",
+   "category": "移動"
+  },
+  {
+   "time": "19:09",
+   "label": "休憩",
+   "place": "東京都立川市 立川警察署",
+   "category": "移動"
+  },
+  {
+   "time": "19:12",
+   "label": "移動",
+   "place": "東京都立川市 立川警察署",
+   "category": "移動"
+  },
+  {
+   "time": "19:15",
+   "label": "街頭演説",
+   "place": "同市 ＪＲ立川駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "19:37",
+   "label": "移動",
+   "place": "同市 ＪＲ立川駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "21:03",
+   "label": "ＢＳフジの報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:02",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 481
+  },
+  {
+   "start": "08:01",
+   "end": "08:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "08:05",
+   "end": "08:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:12",
+   "end": "09:32",
+   "category": "官邸執務",
+   "label": "新しい資本主義実現会議",
+   "minutes": 80
+  },
+  {
+   "start": "09:32",
+   "end": "09:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:33",
+   "end": "09:36",
+   "category": "面会・会談",
+   "label": "同会議出席者と名刺交換",
+   "minutes": 3
+  },
+  {
+   "start": "09:36",
+   "end": "09:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "09:47",
+   "end": "10:07",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 20
+  },
+  {
+   "start": "10:07",
+   "end": "10:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:11",
+   "end": "10:35",
+   "category": "面会・会談",
+   "label": "後藤茂之厚生労働相",
+   "minutes": 24
+  },
+  {
+   "start": "10:35",
+   "end": "10:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:36",
+   "end": "10:44",
+   "category": "面会・会談",
+   "label": "森美樹夫領事局長 浅沼一成危機管理・医務技術総括審議官",
+   "minutes": 8
+  },
+  {
+   "start": "10:44",
+   "end": "10:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:47",
+   "end": "10:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:55",
+   "end": "11:34",
+   "category": "式典・行事",
+   "label": "内奏",
+   "minutes": 39
+  },
+  {
+   "start": "11:34",
+   "end": "11:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "11:40",
+   "end": "11:48",
+   "category": "個人",
+   "label": "衆院選の不在者投票",
+   "minutes": 8
+  },
+  {
+   "start": "11:48",
+   "end": "12:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "12:01",
+   "end": "12:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:06",
+   "end": "12:17",
+   "category": "面会・会談",
+   "label": "気候変動対策推進のための有識者会議の報告書受け取り",
+   "minutes": 11
+  },
+  {
+   "start": "12:17",
+   "end": "12:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:18",
+   "end": "12:31",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長",
+   "minutes": 13
+  },
+  {
+   "start": "12:31",
+   "end": "12:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "12:47",
+   "end": "14:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 73
+  },
+  {
+   "start": "14:00",
+   "end": "14:25",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "14:25",
+   "end": "14:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "14:53",
+   "end": "14:57",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 4
+  },
+  {
+   "start": "14:57",
+   "end": "15:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 44
+  },
+  {
+   "start": "15:41",
+   "end": "16:04",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 23
+  },
+  {
+   "start": "16:04",
+   "end": "16:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "16:31",
+   "end": "16:34",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "16:34",
+   "end": "17:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 40
+  },
+  {
+   "start": "17:14",
+   "end": "17:34",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 20
+  },
+  {
+   "start": "17:34",
+   "end": "18:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "18:08",
+   "end": "18:34",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "18:34",
+   "end": "19:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "19:09",
+   "end": "19:12",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "19:12",
+   "end": "19:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "19:15",
+   "end": "19:37",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "19:37",
+   "end": "20:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 70
+  },
+  {
+   "start": "20:47",
+   "end": "21:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "21:03",
+   "end": "21:53",
+   "category": "取材・会見",
+   "label": "ＢＳフジの報道番組に出演",
+   "minutes": 50
+  },
+  {
+   "start": "21:53",
+   "end": "22:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "22:02",
+   "end": "22:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "22:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 99
+  }
+ ],
+ "alloc_min": {
+  "居所": 580,
+  "移動": 414,
+  "公務（内容未詳）": 74,
+  "官邸執務": 100,
+  "面会・会談": 59,
+  "式典・行事": 39,
+  "個人": 8,
+  "党務": 116,
+  "取材・会見": 50
+ }
+}

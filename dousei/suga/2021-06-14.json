@@ -1,0 +1,179 @@
+{
+ "date": "2021-06-14",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 1130,
+ "residence_min": 310,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "14:16",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:52",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:17",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:27",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "16:30",
+   "label": "自民党の二階俊博幹事長、森山裕国対委員長、林幹雄幹事長代理",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:30",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:23",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:25",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "18:45",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:16",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 856
+  },
+  {
+   "start": "14:16",
+   "end": "14:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "14:52",
+   "end": "15:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "15:17",
+   "end": "15:27",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 10
+  },
+  {
+   "start": "15:27",
+   "end": "15:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:36",
+   "end": "16:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "16:30",
+   "end": "16:47",
+   "category": "面会・会談",
+   "label": "自民党の二階俊博幹事長、森山裕国対委員長、林幹雄幹事長代理",
+   "minutes": 17
+  },
+  {
+   "start": "16:47",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "17:30",
+   "end": "17:51",
+   "category": "面会・会談",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "minutes": 21
+  },
+  {
+   "start": "17:51",
+   "end": "18:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "18:23",
+   "end": "18:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 20
+  },
+  {
+   "start": "18:45",
+   "end": "18:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:50",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 310
+  }
+ ],
+ "alloc_min": {
+  "外遊": 856,
+  "移動": 77,
+  "式典・行事": 10,
+  "公務（内容未詳）": 149,
+  "面会・会談": 38,
+  "居所": 310
+ }
+}

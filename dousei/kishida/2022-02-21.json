@@ -1,0 +1,381 @@
+{
+ "date": "2022-02-21",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 832,
+ "residence_min": 608,
+ "meetings": 6,
+ "first_work": "08:24",
+ "events": [
+  {
+   "time": "08:24",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:25",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:45",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:06",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:07",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "15:42",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "16:00",
+   "label": "衆院財務金融委員会",
+   "place": "国会 衆院第１５委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:12",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:31",
+   "label": "自民党の麻生太郎副総裁、茂木敏充幹事長",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:52",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "18:13",
+   "label": "小林鷹之経済安全保障担当相 秋葉剛男国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:19",
+   "label": "秋葉剛男国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:30",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:45",
+   "label": "森昌文首相補佐官 大村慎一新型コロナウイルス感染症対策地方連携総括官 片岡宏一郎総括審議官 伯井美徳初等中等教育局長 深沢雅貴統合幕僚監部総括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:11",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "22:05",
+   "label": "秋葉剛男国家安全保障局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:24",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 504
+  },
+  {
+   "start": "08:24",
+   "end": "08:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 20
+  },
+  {
+   "start": "08:45",
+   "end": "08:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:47",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "08:58",
+   "end": "12:03",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 185
+  },
+  {
+   "start": "12:03",
+   "end": "12:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:06",
+   "end": "12:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 44
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:53",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "15:37",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 157
+  },
+  {
+   "start": "15:37",
+   "end": "15:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 10
+  },
+  {
+   "start": "15:52",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "16:00",
+   "end": "17:04",
+   "category": "国会",
+   "label": "衆院財務金融委員会",
+   "minutes": 64
+  },
+  {
+   "start": "17:04",
+   "end": "17:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:12",
+   "end": "17:28",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 16
+  },
+  {
+   "start": "17:28",
+   "end": "17:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:31",
+   "end": "17:49",
+   "category": "面会・会談",
+   "label": "自民党の麻生太郎副総裁、茂木敏充幹事長",
+   "minutes": 18
+  },
+  {
+   "start": "17:49",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:52",
+   "end": "17:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:55",
+   "end": "18:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "18:13",
+   "end": "18:18",
+   "category": "面会・会談",
+   "label": "小林鷹之経済安全保障担当相 秋葉剛男国家安全保障局長",
+   "minutes": 5
+  },
+  {
+   "start": "18:18",
+   "end": "18:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:19",
+   "end": "18:28",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長",
+   "minutes": 9
+  },
+  {
+   "start": "18:28",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:30",
+   "end": "18:44",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 14
+  },
+  {
+   "start": "18:44",
+   "end": "18:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:45",
+   "end": "18:55",
+   "category": "面会・会談",
+   "label": "森昌文首相補佐官 大村慎一新型コロナウイルス感染症対策地方連携総括官 片岡宏一郎総括審議官 伯井美徳初等中等教育局長 深沢雅貴統合幕僚監部総括官",
+   "minutes": 10
+  },
+  {
+   "start": "18:55",
+   "end": "19:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "19:11",
+   "end": "19:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:12",
+   "end": "22:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 173
+  },
+  {
+   "start": "22:05",
+   "end": "22:16",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長",
+   "minutes": 11
+  },
+  {
+   "start": "22:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 104
+  }
+ ],
+ "alloc_min": {
+  "居所": 608,
+  "移動": 10,
+  "官邸執務": 64,
+  "公務（内容未詳）": 259,
+  "国会": 416,
+  "党務": 16,
+  "面会・会談": 67
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "date": "2025-09-30",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 961,
+ "residence_min": 479,
+ "meetings": 2,
+ "first_work": "07:59",
+ "events": [
+  {
+   "time": "07:59",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:25",
+   "label": "岡野正敬国家安全保障局長 長島昭久首相補佐官 鯰博行審議官 金井正彰アジア大洋州局長 渡辺洋一審議官 松尾剛彦審議官 加野幸司審議官 橘慶一郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:02",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:47",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:56",
+   "label": "皇室経済会議に出席",
+   "place": "皇居",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:14",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "11:45",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "11:48",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "12:09",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ロッテホテル釜山",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "ホテル「ウェスティン朝鮮釜山」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "献花",
+   "place": "韓国人留学生の李秀賢さんの墓",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "韓国・釜山の金海国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "李在明大統領主催の夕食会",
+   "place": "ホテル「ウェスティン朝鮮釜山」",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "李在明大統領と会談",
+   "place": "国際会議場「ヌリマルＡＰＥＣハウス」",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:59",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 479
+  },
+  {
+   "start": "07:59",
+   "end": "08:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:00",
+   "end": "09:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 85
+  },
+  {
+   "start": "09:25",
+   "end": "09:50",
+   "category": "面会・会談",
+   "label": "岡野正敬国家安全保障局長 長島昭久首相補佐官 鯰博行審議官 金井正彰アジア大洋州局長 渡辺洋一審議官 松尾剛彦審議官 加野幸司審議官 橘慶一郎官房副長官",
+   "minutes": 25
+  },
+  {
+   "start": "09:50",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "10:02",
+   "end": "10:11",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "10:11",
+   "end": "10:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "10:47",
+   "end": "10:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "10:56",
+   "end": "11:14",
+   "category": "官邸執務",
+   "label": "皇室経済会議に出席",
+   "minutes": 18
+  },
+  {
+   "start": "11:14",
+   "end": "11:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "11:23",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "11:45",
+   "end": "11:47",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "11:47",
+   "end": "11:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:48",
+   "end": "12:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "12:09",
+   "end": "12:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "12:38",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 682
+  }
+ ],
+ "alloc_min": {
+  "居所": 479,
+  "移動": 69,
+  "公務（内容未詳）": 156,
+  "面会・会談": 25,
+  "官邸執務": 27,
+  "取材・会見": 2,
+  "外遊": 682
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "date": "2025-01-12",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 100,
+ "residence_min": 1340,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "00:44",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "00:57",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "01:20",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "17:28",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:44",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 44
+  },
+  {
+   "start": "00:44",
+   "end": "00:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "00:57",
+   "end": "01:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "01:20",
+   "end": "17:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 968
+  },
+  {
+   "start": "17:28",
+   "end": "17:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "17:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 372
+  }
+ ],
+ "alloc_min": {
+  "外遊": 44,
+  "移動": 56,
+  "居所": 1340
+ }
+}

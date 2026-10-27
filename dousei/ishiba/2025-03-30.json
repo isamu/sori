@@ -1,0 +1,64 @@
+{
+ "date": "2025-03-30",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 71,
+ "residence_min": 1369,
+ "meetings": 2,
+ "first_work": "14:09",
+ "events": [
+  {
+   "time": "14:09",
+   "label": "ヘグセス米国防長官の表敬。中谷元防衛相同席",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:59",
+   "label": "中谷元防衛相 大和太郎防衛政策局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:09",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 849
+  },
+  {
+   "start": "14:09",
+   "end": "14:56",
+   "category": "面会・会談",
+   "label": "ヘグセス米国防長官の表敬。中谷元防衛相同席",
+   "minutes": 47
+  },
+  {
+   "start": "14:56",
+   "end": "14:59",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 3
+  },
+  {
+   "start": "14:59",
+   "end": "15:23",
+   "category": "面会・会談",
+   "label": "中谷元防衛相 大和太郎防衛政策局長",
+   "minutes": 24
+  },
+  {
+   "start": "15:23",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 517
+  }
+ ],
+ "alloc_min": {
+  "居所": 1369,
+  "面会・会談": 71
+ }
+}

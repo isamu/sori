@@ -1,0 +1,301 @@
+{
+ "date": "2012-06-05",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.06.05",
+ "work_min": 591,
+ "residence_min": 849,
+ "meetings": 9,
+ "first_work": "08:17",
+ "events": [
+  {
+   "time": "08:17",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:19",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:24",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:38",
+   "label": "民主党の近藤洋介衆院議員",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:53",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "民主党の松野信夫参院議員に法務政務官、若泉征三衆院議員に財務兼復興政務官の辞令交付",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:15",
+   "label": "玄葉外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:10",
+   "label": "斎藤官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:33",
+   "label": "斎藤氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:58",
+   "label": "森本防衛相、防衛省の渡辺副大臣、下条、神風両政務官、金沢事務次官との昼食会。長島首相補佐官同席",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "12:31",
+   "label": "昼食会終了",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "13:30",
+   "label": "復興推進委員会",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:08",
+   "label": "東京・大手町の経団連会館",
+   "place": "大手町",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "経団連の定時総会に出席し、あいさつ",
+   "place": "大手町",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:43",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:25",
+   "label": "斎藤副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:40",
+   "label": "斎藤氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:55",
+   "label": "斎藤副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:29",
+   "label": "大串内閣府政務官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:40",
+   "label": "手塚首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:08",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 497
+  },
+  {
+   "start": "08:17",
+   "end": "08:19",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:19",
+   "end": "08:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:24",
+   "end": "08:38",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 14
+  },
+  {
+   "start": "08:38",
+   "end": "08:53",
+   "category": "面会・会談",
+   "label": "民主党の近藤洋介衆院議員",
+   "minutes": 15
+  },
+  {
+   "start": "08:53",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:00",
+   "end": "09:15",
+   "category": "式典・行事",
+   "label": "記念撮影",
+   "minutes": 15
+  },
+  {
+   "start": "09:15",
+   "end": "10:10",
+   "category": "面会・会談",
+   "label": "玄葉外相",
+   "minutes": 55
+  },
+  {
+   "start": "10:10",
+   "end": "10:33",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官",
+   "minutes": 23
+  },
+  {
+   "start": "10:33",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 85
+  },
+  {
+   "start": "11:58",
+   "end": "12:31",
+   "category": "会食",
+   "label": "森本防衛相、防衛省の渡辺副大臣、下条、神風両政務官、金沢事務次官との昼食会。長島首相補佐官同席",
+   "minutes": 33
+  },
+  {
+   "start": "12:31",
+   "end": "13:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "13:30",
+   "end": "14:08",
+   "category": "官邸執務",
+   "label": "復興推進委員会",
+   "minutes": 38
+  },
+  {
+   "start": "14:08",
+   "end": "14:43",
+   "category": "式典・行事",
+   "label": "経団連の定時総会に出席し、あいさつ",
+   "minutes": 35
+  },
+  {
+   "start": "14:43",
+   "end": "15:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "15:25",
+   "end": "15:40",
+   "category": "面会・会談",
+   "label": "斎藤副長官",
+   "minutes": 15
+  },
+  {
+   "start": "15:40",
+   "end": "16:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 75
+  },
+  {
+   "start": "16:55",
+   "end": "17:29",
+   "category": "面会・会談",
+   "label": "斎藤副長官",
+   "minutes": 34
+  },
+  {
+   "start": "17:29",
+   "end": "17:40",
+   "category": "面会・会談",
+   "label": "大串内閣府政務官",
+   "minutes": 11
+  },
+  {
+   "start": "17:40",
+   "end": "18:08",
+   "category": "面会・会談",
+   "label": "手塚首相補佐官",
+   "minutes": 28
+  },
+  {
+   "start": "18:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 352
+  }
+ ],
+ "alloc_min": {
+  "居所": 849,
+  "移動": 2,
+  "公務（内容未詳）": 273,
+  "官邸執務": 52,
+  "面会・会談": 181,
+  "式典・行事": 50,
+  "会食": 33
+ }
+}

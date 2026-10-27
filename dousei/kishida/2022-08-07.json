@@ -1,0 +1,65 @@
+{
+ "date": "2022-08-07",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 96,
+ "residence_min": 1344,
+ "meetings": 1,
+ "first_work": "15:27",
+ "events": [
+  {
+   "time": "15:27",
+   "label": "萩生田光一経済産業相",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:57",
+   "label": "茂木敏充自民党幹事長",
+   "place": "公邸",
+   "category": "党務"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 927
+  },
+  {
+   "start": "15:27",
+   "end": "16:07",
+   "category": "面会・会談",
+   "label": "萩生田光一経済産業相",
+   "minutes": 40
+  },
+  {
+   "start": "16:07",
+   "end": "16:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 50
+  },
+  {
+   "start": "16:57",
+   "end": "17:53",
+   "category": "党務",
+   "label": "茂木敏充自民党幹事長",
+   "minutes": 56
+  },
+  {
+   "start": "17:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 367
+  }
+ ],
+ "alloc_min": {
+  "居所": 1344,
+  "面会・会談": 40,
+  "党務": 56
+ }
+}

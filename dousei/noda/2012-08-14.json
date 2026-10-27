@@ -1,0 +1,56 @@
+{
+ "date": "2012-08-14",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.08.14",
+ "work_min": 32,
+ "residence_min": 1408,
+ "meetings": 2,
+ "first_work": "16:52",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "16:52",
+   "label": "米村内閣危機管理監",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:24",
+   "label": "米村氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1012
+  },
+  {
+   "start": "16:52",
+   "end": "17:24",
+   "category": "面会・会談",
+   "label": "米村内閣危機管理監",
+   "minutes": 32
+  },
+  {
+   "start": "17:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 396
+  }
+ ],
+ "alloc_min": {
+  "居所": 1408,
+  "面会・会談": 32
+ }
+}

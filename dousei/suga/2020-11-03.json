@@ -1,0 +1,130 @@
+{
+ "date": "2020-11-03",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 262,
+ "residence_min": 1178,
+ "meetings": 0,
+ "first_work": "10:02",
+ "events": [
+  {
+   "time": "10:02",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:11",
+   "label": "文化勲章親授式に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:02",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:11",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "13:12",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "13:18",
+   "label": "同ホテル内の中国料理店「大観苑」で秘書官と食事。打ち合わせ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "会食"
+  },
+  {
+   "time": "16:18",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 602
+  },
+  {
+   "start": "10:02",
+   "end": "10:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "10:11",
+   "end": "11:02",
+   "category": "式典・行事",
+   "label": "文化勲章親授式に出席",
+   "minutes": 51
+  },
+  {
+   "start": "11:02",
+   "end": "11:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "11:11",
+   "end": "13:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 121
+  },
+  {
+   "start": "13:12",
+   "end": "13:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "13:18",
+   "end": "16:18",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「大観苑」で秘書官と食事。打ち合わせ",
+   "minutes": 180
+  },
+  {
+   "start": "16:18",
+   "end": "16:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "16:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 455
+  }
+ ],
+ "alloc_min": {
+  "居所": 1178,
+  "移動": 31,
+  "式典・行事": 51,
+  "会食": 180
+ }
+}

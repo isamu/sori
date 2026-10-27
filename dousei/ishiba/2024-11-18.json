@@ -1,0 +1,65 @@
+{
+ "date": "2024-11-18",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 5,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "第１セッション",
+   "place": "ブラジルのリオデジャネイロ現代美術館",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "２０カ国・地域（Ｇ２０）首脳会議 飢餓と貧困に関するイベント",
+   "place": "ブラジルのリオデジャネイロ現代美術館",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「リオ・オットン・パレス」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "第２セッション",
+   "place": "ブラジルのリオデジャネイロ現代美術館",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "英国のスターマー首相と会談",
+   "place": "ブラジルのリオデジャネイロ現代美術館",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "２０カ国・地域（Ｇ２０）首脳会議の写真撮影",
+   "place": "ブラジルのリオデジャネイロ現代美術館",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "カナダのトルドー首相と会談",
+   "place": "ブラジルのリオデジャネイロ現代美術館",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

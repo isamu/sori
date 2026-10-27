@@ -1,0 +1,77 @@
+{
+ "date": "2012-05-13",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.05.13",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 4,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間13日）午前、北京市内の人民大会堂で温家宝中国首相、李明博韓国大統領と3カ国首脳会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "3首脳共同記者会見",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "午後、日中韓ビジネスサミット",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ホテル「長富宮飯店」で李大統領と会談",
+   "place": "ホテル「長富宮飯店」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "人民大会堂で温首相と会談",
+   "place": "ホテル「長富宮飯店」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "長富宮飯店で報道各社のインタビュー",
+   "place": "ホテル「長富宮飯店」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "人民大会堂で「キャンパス・アジア」開幕式",
+   "place": "ホテル「長富宮飯店」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "温首相主催の歓迎晩餐（ばんさん）会",
+   "place": "ホテル「長富宮飯店」",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "長富宮飯店泊",
+   "place": "ホテル「長富宮飯店」",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

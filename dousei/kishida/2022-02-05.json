@@ -1,0 +1,152 @@
+{
+ "date": "2022-02-05",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 94,
+ "residence_min": 1243,
+ "meetings": 0,
+ "first_work": "11:01",
+ "events": [
+  {
+   "time": "11:01",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:29",
+   "label": "弔問",
+   "place": "東京・田園調布 故石原慎太郎元東京都知事宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:34",
+   "label": "報道各社のインタビュー",
+   "place": "東京・田園調布 故石原慎太郎元東京都知事宅",
+   "category": "取材・会見"
+  },
+  {
+   "time": "11:36",
+   "label": "移動",
+   "place": "東京・田園調布 故石原慎太郎元東京都知事宅",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "13:45",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:03",
+   "label": "マッサージ",
+   "place": "東京・銀座 リラクセーションサロン「クイーンズウェイ銀座並木通り店」",
+   "category": "個人"
+  },
+  {
+   "time": "15:46",
+   "label": "移動",
+   "place": "東京・銀座 リラクセーションサロン「クイーンズウェイ銀座並木通り店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 661
+  },
+  {
+   "start": "11:01",
+   "end": "11:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "11:29",
+   "end": "11:34",
+   "category": "面会・会談",
+   "label": "弔問",
+   "minutes": 5
+  },
+  {
+   "start": "11:34",
+   "end": "11:35",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "11:35",
+   "end": "11:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:36",
+   "end": "12:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "12:04",
+   "end": "13:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 101
+  },
+  {
+   "start": "13:45",
+   "end": "14:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "14:03",
+   "end": "15:46",
+   "category": "個人",
+   "label": "マッサージ",
+   "minutes": 103
+  },
+  {
+   "start": "15:46",
+   "end": "15:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "15:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 481
+  }
+ ],
+ "alloc_min": {
+  "居所": 1243,
+  "移動": 87,
+  "面会・会談": 5,
+  "取材・会見": 1,
+  "公務（内容未詳）": 1,
+  "個人": 103
+ }
+}

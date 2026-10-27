@@ -1,0 +1,248 @@
+{
+ "date": "2012-03-23",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.03.23",
+ "work_min": 784,
+ "residence_min": 656,
+ "meetings": 9,
+ "first_work": "06:33",
+ "events": [
+  {
+   "time": "06:33",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:47",
+   "label": "長浜氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:53",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:54",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:55",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:10",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:53",
+   "label": "中塚内閣府副大臣",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:56",
+   "label": "安住財務相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:28",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:42",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:51",
+   "label": "行政改革実行本部・国家公務員制度改革推進本部合同会合",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:16",
+   "label": "北村内閣情報官、防衛省の西防衛政策局長、木野村情報本部長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:30",
+   "label": "西、木野村両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:42",
+   "label": "北村氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:43",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:38",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 393
+  },
+  {
+   "start": "06:33",
+   "end": "07:53",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 80
+  },
+  {
+   "start": "07:53",
+   "end": "07:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "07:54",
+   "end": "07:55",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "07:55",
+   "end": "08:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "08:10",
+   "end": "08:53",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 43
+  },
+  {
+   "start": "08:53",
+   "end": "08:56",
+   "category": "面会・会談",
+   "label": "中塚内閣府副大臣",
+   "minutes": 3
+  },
+  {
+   "start": "08:56",
+   "end": "09:00",
+   "category": "面会・会談",
+   "label": "安住財務相",
+   "minutes": 4
+  },
+  {
+   "start": "09:00",
+   "end": "12:28",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 208
+  },
+  {
+   "start": "12:28",
+   "end": "13:00",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 32
+  },
+  {
+   "start": "13:00",
+   "end": "17:42",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 282
+  },
+  {
+   "start": "17:42",
+   "end": "17:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "17:51",
+   "end": "18:16",
+   "category": "官邸執務",
+   "label": "行政改革実行本部・国家公務員制度改革推進本部合同会合",
+   "minutes": 25
+  },
+  {
+   "start": "18:16",
+   "end": "18:42",
+   "category": "面会・会談",
+   "label": "北村内閣情報官、防衛省の西防衛政策局長、木野村情報本部長",
+   "minutes": 26
+  },
+  {
+   "start": "18:42",
+   "end": "18:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:43",
+   "end": "19:38",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 55
+  },
+  {
+   "start": "19:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 262
+  }
+ ],
+ "alloc_min": {
+  "居所": 656,
+  "面会・会談": 168,
+  "移動": 1,
+  "公務（内容未詳）": 25,
+  "官邸執務": 68,
+  "国会": 522
+ }
+}

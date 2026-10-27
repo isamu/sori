@@ -1,0 +1,562 @@
+{
+ "date": "2022-01-21",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 1046,
+ "residence_min": 394,
+ "meetings": 9,
+ "first_work": "06:29",
+ "events": [
+  {
+   "time": "06:29",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "06:35",
+   "label": "磯崎仁彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:12",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:23",
+   "label": "磯崎仁彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:38",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:45",
+   "label": "磯崎仁彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "12:59",
+   "label": "林芳正外相",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:02",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "16:15",
+   "label": "青山繁晴自民党参院議員",
+   "place": "国会 参院第１委員会室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:35",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:50",
+   "label": "根本匠衆院予算委員長",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:02",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "17:11",
+   "label": "秋葉剛男国家安全保障局長 滝沢裕昭内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:45",
+   "label": "金子恭之総務相 松野博一官房長官 木原誠二副官房長官 磯崎仁彦副官房長官 栗生俊一副官房長官 藤井健志官房副長官補 森昌文首相補佐官 迫井正深新型コロナウイルス等感染症対策推進室長 黒田武一郎事務次官 大村慎一新型コロナウイルス感染症対策地方連携総括官 吉田学事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:13",
+   "label": "古賀篤自民党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:34",
+   "label": "同ホテル内の中国料理店「桃花林」で木原誠二官房副長官と会食",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "会食"
+  },
+  {
+   "time": "19:51",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": "22:02",
+   "label": "バイデン米大統領とのテレビ会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "23:43",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "23:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 389
+  },
+  {
+   "start": "06:29",
+   "end": "06:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "06:30",
+   "end": "06:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "06:35",
+   "end": "09:07",
+   "category": "面会・会談",
+   "label": "磯崎仁彦官房副長官",
+   "minutes": 152
+  },
+  {
+   "start": "09:07",
+   "end": "09:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:12",
+   "end": "09:18",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 6
+  },
+  {
+   "start": "09:18",
+   "end": "09:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:23",
+   "end": "09:40",
+   "category": "面会・会談",
+   "label": "磯崎仁彦官房副長官",
+   "minutes": 17
+  },
+  {
+   "start": "09:40",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "09:51",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:36",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 95
+  },
+  {
+   "start": "11:36",
+   "end": "11:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:38",
+   "end": "11:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:40",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "11:45",
+   "end": "11:57",
+   "category": "面会・会談",
+   "label": "磯崎仁彦官房副長官",
+   "minutes": 12
+  },
+  {
+   "start": "11:57",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "12:51",
+   "end": "12:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "12:57",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "国会",
+   "label": "林芳正外相",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:01",
+   "end": "15:55",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 174
+  },
+  {
+   "start": "15:55",
+   "end": "16:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:02",
+   "end": "16:12",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 10
+  },
+  {
+   "start": "16:12",
+   "end": "16:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:15",
+   "end": "16:16",
+   "category": "面会・会談",
+   "label": "青山繁晴自民党参院議員",
+   "minutes": 1
+  },
+  {
+   "start": "16:16",
+   "end": "16:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "16:35",
+   "end": "16:46",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 11
+  },
+  {
+   "start": "16:46",
+   "end": "16:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:50",
+   "end": "17:00",
+   "category": "面会・会談",
+   "label": "根本匠衆院予算委員長",
+   "minutes": 10
+  },
+  {
+   "start": "17:00",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:02",
+   "end": "17:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:05",
+   "end": "17:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:11",
+   "end": "17:22",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 滝沢裕昭内閣情報官",
+   "minutes": 11
+  },
+  {
+   "start": "17:22",
+   "end": "17:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "17:45",
+   "end": "18:07",
+   "category": "面会・会談",
+   "label": "金子恭之総務相 松野博一官房長官 木原誠二副官房長官 磯崎仁彦副官房長官 栗生俊一副官房長官 藤井健志官房副長官補 森昌文首相補佐官 迫井正深新型コロナウイルス等感染症対策推進室長 黒田武一郎事務次官 大村慎一新型コロナウイルス感染症対策地方連携総括官 吉田学事務次官",
+   "minutes": 22
+  },
+  {
+   "start": "18:07",
+   "end": "18:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:13",
+   "end": "18:23",
+   "category": "面会・会談",
+   "label": "古賀篤自民党衆院議員",
+   "minutes": 10
+  },
+  {
+   "start": "18:23",
+   "end": "18:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:26",
+   "end": "18:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:34",
+   "end": "19:51",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「桃花林」で木原誠二官房副長官と会食",
+   "minutes": 77
+  },
+  {
+   "start": "19:51",
+   "end": "19:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "19:57",
+   "end": "22:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 125
+  },
+  {
+   "start": "22:02",
+   "end": "23:24",
+   "category": "面会・会談",
+   "label": "バイデン米大統領とのテレビ会談",
+   "minutes": 82
+  },
+  {
+   "start": "23:24",
+   "end": "23:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "23:43",
+   "end": "23:53",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 10
+  },
+  {
+   "start": "23:53",
+   "end": "23:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "23:54",
+   "end": "23:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "23:55",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 5
+  }
+ ],
+ "alloc_min": {
+  "居所": 394,
+  "移動": 24,
+  "公務（内容未詳）": 315,
+  "面会・会談": 317,
+  "官邸執務": 6,
+  "国会": 297,
+  "会食": 77,
+  "取材・会見": 10
+ }
+}

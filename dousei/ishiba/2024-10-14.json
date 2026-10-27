@@ -1,0 +1,305 @@
+{
+ "date": "2024-10-14",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 520,
+ "residence_min": 920,
+ "meetings": 0,
+ "first_work": "11:46",
+ "events": [
+  {
+   "time": "11:46",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "12:06",
+   "label": "岩屋毅外相 中谷元防衛相",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:44",
+   "label": "小野寺五典同党政調会長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "13:00",
+   "label": "同党の菅義偉副総裁、森山裕幹事長、小泉進次郎選対委員長、元宿仁党本部事務総長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "14:44",
+   "label": "報道各社のインタビュー",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:47",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "14:50",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "15:13",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "15:30",
+   "label": "東京国際映画祭向けビデオメッセージなどを収録",
+   "place": "公邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:21",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "報道番組の収録",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:28",
+   "label": "移動",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "移動"
+  },
+  {
+   "time": "19:41",
+   "label": "報道番組の収録",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:12",
+   "label": "移動",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "移動"
+  },
+  {
+   "time": "21:54",
+   "label": "報道番組に出演",
+   "place": "東京・六本木 テレビ朝日",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:39",
+   "label": "移動",
+   "place": "東京・六本木 テレビ朝日",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 706
+  },
+  {
+   "start": "11:46",
+   "end": "11:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "11:53",
+   "end": "12:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "12:06",
+   "end": "12:44",
+   "category": "党務",
+   "label": "岩屋毅外相 中谷元防衛相",
+   "minutes": 38
+  },
+  {
+   "start": "12:44",
+   "end": "12:57",
+   "category": "党務",
+   "label": "小野寺五典同党政調会長",
+   "minutes": 13
+  },
+  {
+   "start": "12:57",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:00",
+   "end": "14:35",
+   "category": "党務",
+   "label": "同党の菅義偉副総裁、森山裕幹事長、小泉進次郎選対委員長、元宿仁党本部事務総長",
+   "minutes": 95
+  },
+  {
+   "start": "14:35",
+   "end": "14:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "14:44",
+   "end": "14:46",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "14:46",
+   "end": "14:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:47",
+   "end": "14:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 23
+  },
+  {
+   "start": "15:13",
+   "end": "15:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:15",
+   "end": "15:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "15:30",
+   "end": "16:00",
+   "category": "官邸執務",
+   "label": "東京国際映画祭向けビデオメッセージなどを収録",
+   "minutes": 30
+  },
+  {
+   "start": "16:00",
+   "end": "18:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 141
+  },
+  {
+   "start": "18:21",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:30",
+   "end": "19:28",
+   "category": "取材・会見",
+   "label": "報道番組の収録",
+   "minutes": 58
+  },
+  {
+   "start": "19:28",
+   "end": "19:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "19:41",
+   "end": "21:12",
+   "category": "取材・会見",
+   "label": "報道番組の収録",
+   "minutes": 91
+  },
+  {
+   "start": "21:12",
+   "end": "21:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "21:25",
+   "end": "21:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "21:54",
+   "end": "22:35",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 41
+  },
+  {
+   "start": "22:35",
+   "end": "22:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "22:39",
+   "end": "22:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "22:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 73
+  }
+ ],
+ "alloc_min": {
+  "居所": 920,
+  "移動": 55,
+  "公務（内容未詳）": 97,
+  "党務": 146,
+  "取材・会見": 192,
+  "官邸執務": 30
+ }
+}

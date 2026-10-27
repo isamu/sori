@@ -1,0 +1,292 @@
+{
+ "date": "2025-07-06",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 886,
+ "residence_min": 405,
+ "meetings": 0,
+ "first_work": "06:45",
+ "events": [
+  {
+   "time": "06:45",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:25",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "報道番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:36",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "ＪＲ新宿駅",
+   "place": "ＪＲ新宿駅",
+   "category": "その他"
+  },
+  {
+   "time": "12:32",
+   "label": "同駅前で街頭演説。聴衆と握手",
+   "place": "ＪＲ甲府駅",
+   "category": "党務"
+  },
+  {
+   "time": "14:42",
+   "label": "ＪＲ新宿駅",
+   "place": "ＪＲ新宿駅",
+   "category": "移動"
+  },
+  {
+   "time": "14:48",
+   "label": "移動",
+   "place": "ＪＲ新宿駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:37",
+   "label": "街頭演説。聴衆と握手",
+   "place": "横浜市都筑区 横浜市営地下鉄センター南駅前",
+   "category": "党務"
+  },
+  {
+   "time": "16:26",
+   "label": "移動",
+   "place": "横浜市都筑区 横浜市営地下鉄センター南駅前",
+   "category": "移動"
+  },
+  {
+   "time": "16:47",
+   "label": "斉藤鉄夫公明党代表と街頭演説。聴衆と握手",
+   "place": "ＪＲ桜木町駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:26",
+   "label": "移動",
+   "place": "ＪＲ桜木町駅前",
+   "category": "移動"
+  },
+  {
+   "time": "19:00",
+   "label": "動画配信サイト「ニコニコ生放送」の党首討論会に出演",
+   "place": "東京・銀座 歌舞伎座タワー",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:05",
+   "label": "移動",
+   "place": "東京・銀座 歌舞伎座タワー",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "東京都大田区 羽田エクセルホテル東急",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 405
+  },
+  {
+   "start": "06:45",
+   "end": "06:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "06:59",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "07:30",
+   "end": "08:23",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 53
+  },
+  {
+   "start": "08:23",
+   "end": "08:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:25",
+   "end": "08:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "08:41",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "09:00",
+   "end": "10:20",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 80
+  },
+  {
+   "start": "10:20",
+   "end": "10:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "10:36",
+   "end": "10:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "10:45",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "11:00",
+   "end": "12:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 92
+  },
+  {
+   "start": "12:32",
+   "end": "13:17",
+   "category": "党務",
+   "label": "同駅前で街頭演説。聴衆と握手",
+   "minutes": 45
+  },
+  {
+   "start": "13:17",
+   "end": "14:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 85
+  },
+  {
+   "start": "14:42",
+   "end": "14:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "14:48",
+   "end": "15:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 49
+  },
+  {
+   "start": "15:37",
+   "end": "16:26",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 49
+  },
+  {
+   "start": "16:26",
+   "end": "16:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "16:47",
+   "end": "17:26",
+   "category": "党務",
+   "label": "斉藤鉄夫公明党代表と街頭演説。聴衆と握手",
+   "minutes": 39
+  },
+  {
+   "start": "17:26",
+   "end": "18:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "18:01",
+   "end": "19:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "19:00",
+   "end": "20:13",
+   "category": "取材・会見",
+   "label": "動画配信サイト「ニコニコ生放送」の党首討論会に出演",
+   "minutes": 73
+  },
+  {
+   "start": "20:13",
+   "end": "21:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "21:05",
+   "end": "21:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "21:31",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 149
+  }
+ ],
+ "alloc_min": {
+  "居所": 405,
+  "移動": 176,
+  "公務（内容未詳）": 371,
+  "取材・会見": 206,
+  "党務": 133,
+  "個人": 149
+ }
+}

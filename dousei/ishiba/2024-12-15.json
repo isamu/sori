@@ -1,0 +1,164 @@
+{
+ "date": "2024-12-15",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 284,
+ "residence_min": 1156,
+ "meetings": 2,
+ "first_work": "08:51",
+ "events": [
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "同ホテル内の客室で富山新聞の企画用に橘慶一郎官房副長官、新田八朗富山県知事と対談",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "13:57",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "14:03",
+   "label": "加藤勝信財務相 新川浩嗣事務次官 宇波弘貴主計局長 青木孝徳主税局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:20",
+   "label": "青木一彦官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:49",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 531
+  },
+  {
+   "start": "08:51",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "08:55",
+   "end": "09:51",
+   "category": "移動",
+   "label": "同ホテル内の客室で富山新聞の企画用に橘慶一郎官房副長官、新田八朗富山県知事と対談",
+   "minutes": 56
+  },
+  {
+   "start": "09:51",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "09:55",
+   "end": "13:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 242
+  },
+  {
+   "start": "13:57",
+   "end": "14:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "14:00",
+   "end": "14:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:03",
+   "end": "15:12",
+   "category": "面会・会談",
+   "label": "加藤勝信財務相 新川浩嗣事務次官 宇波弘貴主計局長 青木孝徳主税局長",
+   "minutes": 69
+  },
+  {
+   "start": "15:12",
+   "end": "15:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 8
+  },
+  {
+   "start": "15:20",
+   "end": "17:41",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 141
+  },
+  {
+   "start": "17:41",
+   "end": "17:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 8
+  },
+  {
+   "start": "17:49",
+   "end": "17:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "17:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 367
+  }
+ ],
+ "alloc_min": {
+  "居所": 1156,
+  "移動": 71,
+  "公務（内容未詳）": 3,
+  "面会・会談": 210
+ }
+}

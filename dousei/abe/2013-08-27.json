@@ -1,0 +1,95 @@
+{
+ "date": "2013-08-27",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2013.08.27",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "ジャビル首相と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同首相主催の晩餐（ばんさん）会",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "同宮殿泊",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間27日）午前、ジブチに向けて政府専用機でクウェート国際空港発",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ジブチのジブチ国際空港着",
+   "place": "ジブチ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同空港近くの自衛隊活動拠点",
+   "place": "ジブチ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "自衛隊員らと昼食",
+   "place": "ジブチ国際空港",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "午後、視察。同行記者団のインタビュー",
+   "place": "ジブチ国際空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ジブチ市の大統領府でゲレ大統領と会談",
+   "place": "大統領府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日本大使公邸で日本人学校校長による表敬",
+   "place": "大統領府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "カタールに向けて政府専用機でジブチ国際空港発",
+   "place": "大統領府",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "カタールのドーハ国際空港着",
+   "place": "ドーハ国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊。（現地時間26日）午後、クウェート市内のバヤン宮殿で同行経済人と懇談",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

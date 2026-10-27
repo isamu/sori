@@ -1,0 +1,476 @@
+{
+ "date": "2024-10-23",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 734,
+ "residence_min": 698,
+ "meetings": 4,
+ "first_work": "08:15",
+ "events": [
+  {
+   "time": "08:15",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:23",
+   "label": "秋葉剛男国家安全保障局長 原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:33",
+   "label": "原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:39",
+   "label": "秋葉剛男国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:22",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:35",
+   "label": "同ホテル内の控室で地球環境行動会議（ＧＥＡ）実行委員会の山口俊一会長、小渕優子会長代理",
+   "place": "東京・芝公園 東京プリンスホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:00",
+   "label": "同ホテル内の宴会場「鳳凰の間」でＧＥＡ国際会議２０２４。あいさつ",
+   "place": "東京・芝公園 東京プリンスホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:19",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "10:22",
+   "label": "衆院選の不在者投票",
+   "place": "東京・芝公園 港区役所",
+   "category": "個人"
+  },
+  {
+   "time": "10:30",
+   "label": "移動",
+   "place": "東京・芝公園 港区役所",
+   "category": "移動"
+  },
+  {
+   "time": "10:41",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:01",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:13",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "12:43",
+   "label": "ＪＲ水戸駅",
+   "place": "ＪＲ水戸駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:47",
+   "label": "移動",
+   "place": "ＪＲ水戸駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:49",
+   "label": "街頭演説",
+   "place": "水戸市 「水戸駅南口さくら東公園」",
+   "category": "党務"
+  },
+  {
+   "time": "13:23",
+   "label": "移動",
+   "place": "水戸市 「水戸駅南口さくら東公園」",
+   "category": "移動"
+  },
+  {
+   "time": "14:23",
+   "label": "街頭演説",
+   "place": "茨城県つくば市 大清水公園",
+   "category": "党務"
+  },
+  {
+   "time": "15:01",
+   "label": "移動",
+   "place": "茨城県つくば市 大清水公園",
+   "category": "移動"
+  },
+  {
+   "time": "15:26",
+   "label": "街頭演説",
+   "place": "同県牛久市 牛久運動公園",
+   "category": "党務"
+  },
+  {
+   "time": "15:57",
+   "label": "移動",
+   "place": "同県牛久市 牛久運動公園",
+   "category": "移動"
+  },
+  {
+   "time": "16:25",
+   "label": "休憩。利用者と握手",
+   "place": "同県守谷市 常磐自動車道守谷サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "16:28",
+   "label": "移動",
+   "place": "同県守谷市 常磐自動車道守谷サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "16:59",
+   "label": "街頭演説",
+   "place": "千葉県柏市 ＪＲ柏駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "17:32",
+   "label": "移動",
+   "place": "千葉県柏市 ＪＲ柏駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "18:20",
+   "label": "街頭演説",
+   "place": "同県鎌ケ谷市 北総鉄道北総線新鎌ケ谷駅前",
+   "category": "党務"
+  },
+  {
+   "time": "18:54",
+   "label": "移動",
+   "place": "同県鎌ケ谷市 北総鉄道北総線新鎌ケ谷駅前",
+   "category": "移動"
+  },
+  {
+   "time": "19:26",
+   "label": "街頭演説",
+   "place": "同県船橋市 ＪＲ船橋駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "20:02",
+   "label": "移動",
+   "place": "同県船橋市 ＪＲ船橋駅南口",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:15",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 495
+  },
+  {
+   "start": "08:15",
+   "end": "08:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "08:19",
+   "end": "08:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:23",
+   "end": "08:32",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 原和也内閣情報官",
+   "minutes": 9
+  },
+  {
+   "start": "08:32",
+   "end": "08:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:33",
+   "end": "08:38",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 5
+  },
+  {
+   "start": "08:38",
+   "end": "08:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:39",
+   "end": "08:54",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長",
+   "minutes": 15
+  },
+  {
+   "start": "08:54",
+   "end": "09:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "09:22",
+   "end": "09:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "09:32",
+   "end": "09:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:35",
+   "end": "09:36",
+   "category": "面会・会談",
+   "label": "同ホテル内の控室で地球環境行動会議（ＧＥＡ）実行委員会の山口俊一会長、小渕優子会長代理",
+   "minutes": 1
+  },
+  {
+   "start": "09:36",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "10:00",
+   "end": "10:18",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「鳳凰の間」でＧＥＡ国際会議２０２４。あいさつ",
+   "minutes": 18
+  },
+  {
+   "start": "10:18",
+   "end": "10:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:19",
+   "end": "10:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:22",
+   "end": "10:30",
+   "category": "個人",
+   "label": "衆院選の不在者投票",
+   "minutes": 8
+  },
+  {
+   "start": "10:30",
+   "end": "10:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 20
+  },
+  {
+   "start": "11:01",
+   "end": "11:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "11:13",
+   "end": "11:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "11:23",
+   "end": "12:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 80
+  },
+  {
+   "start": "12:43",
+   "end": "12:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:47",
+   "end": "12:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:49",
+   "end": "13:23",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "13:23",
+   "end": "14:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 60
+  },
+  {
+   "start": "14:23",
+   "end": "15:01",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "15:01",
+   "end": "15:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "15:26",
+   "end": "15:57",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "15:57",
+   "end": "16:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "16:25",
+   "end": "16:28",
+   "category": "移動",
+   "label": "休憩。利用者と握手",
+   "minutes": 3
+  },
+  {
+   "start": "16:28",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "16:59",
+   "end": "17:32",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "17:32",
+   "end": "18:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 48
+  },
+  {
+   "start": "18:20",
+   "end": "18:54",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "18:54",
+   "end": "19:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "19:26",
+   "end": "20:02",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "20:02",
+   "end": "20:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "20:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 203
+  }
+ ],
+ "alloc_min": {
+  "居所": 698,
+  "移動": 308,
+  "公務（内容未詳）": 152,
+  "面会・会談": 30,
+  "式典・行事": 18,
+  "個人": 8,
+  "官邸執務": 20,
+  "党務": 206
+ }
+}

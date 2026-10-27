@@ -1,0 +1,300 @@
+{
+ "date": "2024-12-01",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 537,
+ "residence_min": 898,
+ "meetings": 1,
+ "first_work": "08:32",
+ "events": [
+  {
+   "time": "08:32",
+   "label": "移動",
+   "place": "同市 自宅",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "参拝。佳子夫人同行",
+   "place": "鳥取県八頭町 和多理神社",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:03",
+   "label": "支援者らに演説",
+   "place": "鳥取県八頭町 和多理神社",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:19",
+   "label": "報道各社のインタビュー",
+   "place": "鳥取県八頭町 和多理神社",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:32",
+   "label": "支援者らと握手",
+   "place": "鳥取県八頭町 和多理神社",
+   "category": "移動"
+  },
+  {
+   "time": "09:41",
+   "label": "移動",
+   "place": "鳥取県八頭町 和多理神社",
+   "category": "移動"
+  },
+  {
+   "time": "09:46",
+   "label": "父石破二朗元同県知事らの墓参り",
+   "place": "同町 石破家の墓",
+   "category": "個人"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "09:52",
+   "label": "同町 自身の生家",
+   "place": "同町 自身の生家",
+   "category": "移動"
+  },
+  {
+   "time": "10:05",
+   "label": "移動",
+   "place": "同町 自身の生家",
+   "category": "移動"
+  },
+  {
+   "time": "10:47",
+   "label": "鳥取空港",
+   "place": "鳥取空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:29",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:44",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "13:27",
+   "label": "自民党の木原誠二選対委員長、小泉進次郎政治改革本部事務局長。橘慶一郎官房副長官同席",
+   "place": "公邸",
+   "category": "党務"
+  },
+  {
+   "time": "14:43",
+   "label": "橘慶一郎官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:31",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 512
+  },
+  {
+   "start": "08:32",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "08:55",
+   "end": "09:03",
+   "category": "式典・行事",
+   "label": "参拝。佳子夫人同行",
+   "minutes": 8
+  },
+  {
+   "start": "09:03",
+   "end": "09:12",
+   "category": "式典・行事",
+   "label": "支援者らに演説",
+   "minutes": 9
+  },
+  {
+   "start": "09:12",
+   "end": "09:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:19",
+   "end": "09:31",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 12
+  },
+  {
+   "start": "09:31",
+   "end": "09:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:32",
+   "end": "09:40",
+   "category": "移動",
+   "label": "支援者らと握手",
+   "minutes": 8
+  },
+  {
+   "start": "09:40",
+   "end": "09:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:41",
+   "end": "09:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "09:46",
+   "end": "09:51",
+   "category": "個人",
+   "label": "父石破二朗元同県知事らの墓参り",
+   "minutes": 5
+  },
+  {
+   "start": "09:51",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:52",
+   "end": "10:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "10:05",
+   "end": "10:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "10:47",
+   "end": "11:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 43
+  },
+  {
+   "start": "11:30",
+   "end": "12:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "12:29",
+   "end": "12:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "12:44",
+   "end": "13:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "13:04",
+   "end": "13:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "13:27",
+   "end": "14:42",
+   "category": "党務",
+   "label": "自民党の木原誠二選対委員長、小泉進次郎政治改革本部事務局長。橘慶一郎官房副長官同席",
+   "minutes": 75
+  },
+  {
+   "start": "14:42",
+   "end": "14:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "14:43",
+   "end": "17:28",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官",
+   "minutes": 165
+  },
+  {
+   "start": "17:28",
+   "end": "17:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 3
+  },
+  {
+   "start": "17:31",
+   "end": "17:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "17:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 382
+  }
+ ],
+ "alloc_min": {
+  "居所": 898,
+  "移動": 177,
+  "式典・行事": 17,
+  "公務（内容未詳）": 91,
+  "取材・会見": 12,
+  "個人": 5,
+  "党務": 75,
+  "面会・会談": 165
+ }
+}

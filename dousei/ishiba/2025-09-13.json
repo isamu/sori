@@ -1,0 +1,103 @@
+{
+ "date": "2025-09-13",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 174,
+ "residence_min": 1266,
+ "meetings": 0,
+ "first_work": "11:47",
+ "events": [
+  {
+   "time": "11:47",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:53",
+   "label": "同ホテル内の日本料理店「千羽鶴」で日本総合研究所の寺島実郎会長と会食",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "会食"
+  },
+  {
+   "time": "14:31",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "14:38",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "15:04",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 707
+  },
+  {
+   "start": "11:47",
+   "end": "11:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "11:53",
+   "end": "14:31",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「千羽鶴」で日本総合研究所の寺島実郎会長と会食",
+   "minutes": 158
+  },
+  {
+   "start": "14:31",
+   "end": "14:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:38",
+   "end": "15:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 26
+  },
+  {
+   "start": "15:04",
+   "end": "15:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "15:07",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 533
+  }
+ ],
+ "alloc_min": {
+  "居所": 1266,
+  "移動": 16,
+  "会食": 158
+ }
+}

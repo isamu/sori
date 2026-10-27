@@ -1,0 +1,59 @@
+{
+ "date": "2021-06-12",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "Ｇ７サミットの第２セッション",
+   "place": "カービスベイ・ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ドイツのメルケル首相と会談",
+   "place": "カービスベイ・ホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "フランスのマクロン大統領と会談",
+   "place": "カービスベイ・ホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "第３セッション",
+   "place": "カービスベイ・ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "首脳夫妻夕食会",
+   "place": "カービスベイ・ホテル",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "先進７カ国首脳会議（Ｇ７サミット）参加者の集合写真撮影",
+   "place": "カービスベイ・ホテル",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

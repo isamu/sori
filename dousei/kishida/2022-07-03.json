@@ -1,0 +1,323 @@
+{
+ "date": "2022-07-03",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 715,
+ "residence_min": 639,
+ "meetings": 0,
+ "first_work": "08:26",
+ "events": [
+  {
+   "time": "08:26",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "報道番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:21",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "10:35",
+   "label": "街頭演説",
+   "place": "ＪＲ渋谷駅ハチ公口",
+   "category": "党務"
+  },
+  {
+   "time": "11:00",
+   "label": "移動",
+   "place": "ＪＲ渋谷駅ハチ公口",
+   "category": "移動"
+  },
+  {
+   "time": "11:34",
+   "label": "街頭演説",
+   "place": "東京・浅草 雷門前",
+   "category": "党務"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "東京・浅草 雷門前",
+   "category": "移動"
+  },
+  {
+   "time": "12:31",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:28",
+   "label": "新千歳空港",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:40",
+   "label": "移動",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:38",
+   "label": "街頭演説",
+   "place": "札幌市中央区 複合ビル「札幌国際ビルディング」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:11",
+   "label": "移動",
+   "place": "札幌市中央区 複合ビル「札幌国際ビルディング」前",
+   "category": "移動"
+  },
+  {
+   "time": "16:18",
+   "label": "街頭演説",
+   "place": "同区 大通公園",
+   "category": "党務"
+  },
+  {
+   "time": "16:47",
+   "label": "移動",
+   "place": "同区 大通公園",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "岸田文雄札幌後援会の岩田圭剛最高顧問、古野重幸会長ら。渡辺孝一総務政務官、橋本聖子自民党参院議員同席",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:31",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:50",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:12",
+   "label": "散髪",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "個人"
+  },
+  {
+   "time": "21:38",
+   "label": "移動",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 506
+  },
+  {
+   "start": "08:26",
+   "end": "08:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "08:32",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "09:00",
+   "end": "10:15",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 75
+  },
+  {
+   "start": "10:15",
+   "end": "10:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "10:21",
+   "end": "10:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "10:35",
+   "end": "11:00",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "11:00",
+   "end": "11:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "11:34",
+   "end": "12:04",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "12:04",
+   "end": "12:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "12:31",
+   "end": "13:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "13:13",
+   "end": "14:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 75
+  },
+  {
+   "start": "14:28",
+   "end": "14:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "14:40",
+   "end": "15:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 58
+  },
+  {
+   "start": "15:38",
+   "end": "16:11",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "16:11",
+   "end": "16:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "16:18",
+   "end": "16:47",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "16:47",
+   "end": "17:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 57
+  },
+  {
+   "start": "17:44",
+   "end": "17:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:47",
+   "end": "17:51",
+   "category": "移動",
+   "label": "岸田文雄札幌後援会の岩田圭剛最高顧問、古野重幸会長ら。渡辺孝一総務政務官、橋本聖子自民党参院議員同席",
+   "minutes": 4
+  },
+  {
+   "start": "17:51",
+   "end": "19:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 100
+  },
+  {
+   "start": "19:31",
+   "end": "19:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "19:50",
+   "end": "20:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "20:12",
+   "end": "21:38",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 86
+  },
+  {
+   "start": "21:38",
+   "end": "21:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "21:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 133
+  }
+ ],
+ "alloc_min": {
+  "居所": 639,
+  "移動": 311,
+  "公務（内容未詳）": 212,
+  "取材・会見": 75,
+  "党務": 117,
+  "個人": 86
+ }
+}

@@ -1,0 +1,407 @@
+{
+ "date": "2021-10-29",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 904,
+ "residence_min": 536,
+ "meetings": 0,
+ "first_work": "07:19",
+ "events": [
+  {
+   "time": "07:19",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:41",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:32",
+   "label": "鹿児島空港",
+   "place": "鹿児島空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:40",
+   "label": "移動",
+   "place": "鹿児島空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:17",
+   "label": "街頭演説",
+   "place": "鹿児島市 ＪＲ鹿児島中央駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "10:55",
+   "label": "移動",
+   "place": "鹿児島市 ＪＲ鹿児島中央駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "11:29",
+   "label": "街頭演説",
+   "place": "鹿児島県姶良市 ＪＡあいら姶良統括支店駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "12:01",
+   "label": "移動",
+   "place": "鹿児島県姶良市 ＪＡあいら姶良統括支店駐車場",
+   "category": "移動"
+  },
+  {
+   "time": "12:33",
+   "label": "休憩",
+   "place": "同県湧水町 九州自動車道吉松パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "12:36",
+   "label": "移動",
+   "place": "同県湧水町 九州自動車道吉松パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:45",
+   "label": "街頭演説",
+   "place": "宮崎市 ＪＲ宮崎駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "14:10",
+   "label": "移動",
+   "place": "宮崎市 ＪＲ宮崎駅西口",
+   "category": "移動"
+  },
+  {
+   "time": "14:33",
+   "label": "宮崎空港",
+   "place": "宮崎空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:11",
+   "label": "成田空港",
+   "place": "成田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:25",
+   "label": "移動",
+   "place": "成田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:59",
+   "label": "街頭演説",
+   "place": "千葉県成田市 ＪＲ成田駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "17:13",
+   "label": "移動",
+   "place": "千葉県成田市 ＪＲ成田駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "18:25",
+   "label": "街頭演説",
+   "place": "同県佐倉市 京成本線ユーカリが丘駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "18:40",
+   "label": "移動",
+   "place": "同県佐倉市 京成本線ユーカリが丘駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "18:44",
+   "label": "休憩",
+   "place": "同市 佐倉市八街市酒々井町消防組合志津消防署",
+   "category": "移動"
+  },
+  {
+   "time": "18:46",
+   "label": "移動",
+   "place": "同市 佐倉市八街市酒々井町消防組合志津消防署",
+   "category": "移動"
+  },
+  {
+   "time": "19:18",
+   "label": "街頭演説",
+   "place": "同県印西市 北総鉄道北総線千葉ニュータウン中央駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "19:34",
+   "label": "移動",
+   "place": "同県印西市 北総鉄道北総線千葉ニュータウン中央駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "21:00",
+   "label": "インターネット番組に出演",
+   "place": "東京・赤坂 ジャーナリスト桜井よしこ氏の事務所",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:13",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "22:23",
+   "label": "西村康稔前経済再生担当相",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 439
+  },
+  {
+   "start": "07:19",
+   "end": "07:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "07:41",
+   "end": "08:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "08:07",
+   "end": "09:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 85
+  },
+  {
+   "start": "09:32",
+   "end": "09:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "09:40",
+   "end": "10:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "10:17",
+   "end": "10:55",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "10:55",
+   "end": "11:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "11:29",
+   "end": "12:01",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "12:01",
+   "end": "12:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "12:33",
+   "end": "12:36",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "12:36",
+   "end": "13:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 69
+  },
+  {
+   "start": "13:45",
+   "end": "14:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "14:10",
+   "end": "14:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "14:33",
+   "end": "14:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "14:49",
+   "end": "16:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 82
+  },
+  {
+   "start": "16:11",
+   "end": "16:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "16:25",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "16:59",
+   "end": "17:13",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 14
+  },
+  {
+   "start": "17:13",
+   "end": "18:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 72
+  },
+  {
+   "start": "18:25",
+   "end": "18:40",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 15
+  },
+  {
+   "start": "18:40",
+   "end": "18:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "18:44",
+   "end": "18:46",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "18:46",
+   "end": "19:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "19:18",
+   "end": "19:34",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 16
+  },
+  {
+   "start": "19:34",
+   "end": "20:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 73
+  },
+  {
+   "start": "20:47",
+   "end": "21:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "21:00",
+   "end": "22:08",
+   "category": "取材・会見",
+   "label": "インターネット番組に出演",
+   "minutes": 68
+  },
+  {
+   "start": "22:08",
+   "end": "22:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "22:13",
+   "end": "22:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "22:21",
+   "end": "22:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "22:23",
+   "end": "22:24",
+   "category": "居所",
+   "label": "西村康稔前経済再生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "22:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 96
+  }
+ ],
+ "alloc_min": {
+  "居所": 536,
+  "移動": 509,
+  "公務（内容未詳）": 187,
+  "党務": 140,
+  "取材・会見": 68
+ }
+}

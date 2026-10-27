@@ -1,0 +1,272 @@
+{
+ "date": "2025-01-19",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 693,
+ "residence_min": 747,
+ "meetings": 2,
+ "first_work": "08:27",
+ "events": [
+  {
+   "time": "08:27",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "報道番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:30",
+   "label": "稲葉延雄ＮＨＫ会長",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:59",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "10:23",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:01",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:10",
+   "label": "移動",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:47",
+   "label": "パビリオンや「大屋根リング」などを視察。伊東良孝万博担当相、吉村洋文大阪府知事ら同行",
+   "place": "大阪市此花区 大阪・関西万博会場",
+   "category": "視察"
+  },
+  {
+   "time": "16:17",
+   "label": "同所内の「大阪ヘルスケアパビリオン」で吉村知事と意見交換",
+   "place": "大阪市此花区 大阪・関西万博会場",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:55",
+   "label": "報道各社のインタビュー",
+   "place": "大阪市此花区 大阪・関西万博会場",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:08",
+   "label": "移動",
+   "place": "大阪市此花区 大阪・関西万博会場",
+   "category": "移動"
+  },
+  {
+   "time": "17:49",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:30",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:42",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 507
+  },
+  {
+   "start": "08:27",
+   "end": "08:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "08:30",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "09:00",
+   "end": "09:26",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 26
+  },
+  {
+   "start": "09:26",
+   "end": "09:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:30",
+   "end": "09:45",
+   "category": "面会・会談",
+   "label": "稲葉延雄ＮＨＫ会長",
+   "minutes": 15
+  },
+  {
+   "start": "09:45",
+   "end": "09:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "09:59",
+   "end": "10:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "10:23",
+   "end": "11:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 52
+  },
+  {
+   "start": "11:15",
+   "end": "12:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "12:01",
+   "end": "12:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "12:10",
+   "end": "12:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "12:47",
+   "end": "16:17",
+   "category": "視察",
+   "label": "パビリオンや「大屋根リング」などを視察。伊東良孝万博担当相、吉村洋文大阪府知事ら同行",
+   "minutes": 210
+  },
+  {
+   "start": "16:17",
+   "end": "16:45",
+   "category": "面会・会談",
+   "label": "同所内の「大阪ヘルスケアパビリオン」で吉村知事と意見交換",
+   "minutes": 28
+  },
+  {
+   "start": "16:45",
+   "end": "16:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "16:55",
+   "end": "17:05",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 10
+  },
+  {
+   "start": "17:05",
+   "end": "17:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:08",
+   "end": "17:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "17:49",
+   "end": "18:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 53
+  },
+  {
+   "start": "18:42",
+   "end": "19:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "19:30",
+   "end": "19:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "19:42",
+   "end": "20:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "20:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 240
+  }
+ ],
+ "alloc_min": {
+  "居所": 747,
+  "移動": 249,
+  "公務（内容未詳）": 155,
+  "取材・会見": 36,
+  "面会・会談": 43,
+  "視察": 210
+ }
+}

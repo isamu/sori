@@ -1,0 +1,433 @@
+{
+ "date": "2024-10-24",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 883,
+ "residence_min": 557,
+ "meetings": 0,
+ "first_work": "07:26",
+ "events": [
+  {
+   "time": "07:26",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:51",
+   "label": "小泉進次郎自民党選対委員長",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:49",
+   "label": "ＮＨＫのインタビュー",
+   "place": "広島空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:32",
+   "label": "街頭演説",
+   "place": "広島市安佐南区 広島広域公園",
+   "category": "党務"
+  },
+  {
+   "time": "11:10",
+   "label": "移動",
+   "place": "広島市安佐南区 広島広域公園",
+   "category": "移動"
+  },
+  {
+   "time": "11:35",
+   "label": "ＪＲ広島駅",
+   "place": "ＪＲ広島駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:18",
+   "label": "ＪＲ岡山駅",
+   "place": "ＪＲ岡山駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:23",
+   "label": "移動",
+   "place": "ＪＲ岡山駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:29",
+   "label": "自民党衆院選候補者の演説会に出席し、演説",
+   "place": "岡山市中区 岡山プラザホテル",
+   "category": "党務"
+  },
+  {
+   "time": "13:22",
+   "label": "移動",
+   "place": "岡山市中区 岡山プラザホテル",
+   "category": "移動"
+  },
+  {
+   "time": "13:29",
+   "label": "ＪＲ岡山駅",
+   "place": "ＪＲ岡山駅",
+   "category": "移動"
+  },
+  {
+   "time": "14:15",
+   "label": "ＪＲ新神戸駅",
+   "place": "ＪＲ新神戸駅",
+   "category": "移動"
+  },
+  {
+   "time": "14:17",
+   "label": "移動",
+   "place": "ＪＲ新神戸駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:01",
+   "label": "街頭演説",
+   "place": "神戸市垂水区 兵庫県立舞子公園",
+   "category": "党務"
+  },
+  {
+   "time": "15:24",
+   "label": "移動",
+   "place": "神戸市垂水区 兵庫県立舞子公園",
+   "category": "移動"
+  },
+  {
+   "time": "16:37",
+   "label": "街頭演説",
+   "place": "同県川西市 キセラ川西せせらぎ公園",
+   "category": "党務"
+  },
+  {
+   "time": "17:11",
+   "label": "移動",
+   "place": "同県川西市 キセラ川西せせらぎ公園",
+   "category": "移動"
+  },
+  {
+   "time": "17:54",
+   "label": "街頭演説",
+   "place": "大阪府茨木市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "18:20",
+   "label": "移動",
+   "place": "大阪府茨木市役所前",
+   "category": "移動"
+  },
+  {
+   "time": "18:42",
+   "label": "街頭演説",
+   "place": "同府吹田市 阪急南千里駅前",
+   "category": "党務"
+  },
+  {
+   "time": "19:04",
+   "label": "移動",
+   "place": "同府吹田市 阪急南千里駅前",
+   "category": "移動"
+  },
+  {
+   "time": "19:30",
+   "label": "同党衆院選候補者の演説会に出席し、演説",
+   "place": "同府豊中市 同市立文化芸術センター",
+   "category": "党務"
+  },
+  {
+   "time": "19:57",
+   "label": "移動",
+   "place": "同府豊中市 同市立文化芸術センター",
+   "category": "移動"
+  },
+  {
+   "time": "20:08",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:26",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:40",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 446
+  },
+  {
+   "start": "07:26",
+   "end": "07:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "07:50",
+   "end": "07:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:51",
+   "end": "07:55",
+   "category": "移動",
+   "label": "小泉進次郎自民党選対委員長",
+   "minutes": 4
+  },
+  {
+   "start": "07:55",
+   "end": "09:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 114
+  },
+  {
+   "start": "09:49",
+   "end": "09:50",
+   "category": "取材・会見",
+   "label": "ＮＨＫのインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:50",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:51",
+   "end": "10:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "10:32",
+   "end": "11:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "11:10",
+   "end": "11:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "11:35",
+   "end": "11:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "11:44",
+   "end": "12:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "12:18",
+   "end": "12:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "12:23",
+   "end": "12:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "12:29",
+   "end": "13:22",
+   "category": "党務",
+   "label": "自民党衆院選候補者の演説会に出席し、演説",
+   "minutes": 53
+  },
+  {
+   "start": "13:22",
+   "end": "13:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "13:29",
+   "end": "13:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "13:40",
+   "end": "14:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "14:15",
+   "end": "14:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:17",
+   "end": "15:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 44
+  },
+  {
+   "start": "15:01",
+   "end": "15:24",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 23
+  },
+  {
+   "start": "15:24",
+   "end": "16:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 73
+  },
+  {
+   "start": "16:37",
+   "end": "17:11",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "17:11",
+   "end": "17:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 43
+  },
+  {
+   "start": "17:54",
+   "end": "18:20",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "18:20",
+   "end": "18:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "18:42",
+   "end": "19:04",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "19:04",
+   "end": "19:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "19:30",
+   "end": "19:57",
+   "category": "党務",
+   "label": "同党衆院選候補者の演説会に出席し、演説",
+   "minutes": 27
+  },
+  {
+   "start": "19:57",
+   "end": "20:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "20:08",
+   "end": "20:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "20:36",
+   "end": "21:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "21:26",
+   "end": "21:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "21:40",
+   "end": "22:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "22:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 111
+  }
+ ],
+ "alloc_min": {
+  "居所": 557,
+  "移動": 424,
+  "公務（内容未詳）": 235,
+  "取材・会見": 1,
+  "党務": 223
+ }
+}

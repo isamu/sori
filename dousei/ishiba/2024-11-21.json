@@ -1,0 +1,274 @@
+{
+ "date": "2024-11-21",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 1157,
+ "residence_min": 283,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "10:35",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:48",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:12",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "13:02",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "加藤勝信財務相 新川浩嗣事務次官 宇波弘貴主計局長 青木孝徳主税局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:29",
+   "label": "赤沢亮正経済再生担当相 井上裕之事務次官 林幸宏審議官 木村聡政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:50",
+   "label": "自民党の小野寺五典、松本洋平正副政調会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "15:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:33",
+   "label": "政治改革本部",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:33",
+   "label": "森山裕同党幹事長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:49",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "17:53",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:00",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:35",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 635
+  },
+  {
+   "start": "10:35",
+   "end": "10:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "10:48",
+   "end": "11:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "11:12",
+   "end": "13:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 110
+  },
+  {
+   "start": "13:02",
+   "end": "13:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "13:07",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "14:00",
+   "end": "14:28",
+   "category": "面会・会談",
+   "label": "加藤勝信財務相 新川浩嗣事務次官 宇波弘貴主計局長 青木孝徳主税局長",
+   "minutes": 28
+  },
+  {
+   "start": "14:28",
+   "end": "14:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:29",
+   "end": "14:49",
+   "category": "面会・会談",
+   "label": "赤沢亮正経済再生担当相 井上裕之事務次官 林幸宏審議官 木村聡政策統括官",
+   "minutes": 20
+  },
+  {
+   "start": "14:49",
+   "end": "14:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:50",
+   "end": "15:02",
+   "category": "党務",
+   "label": "自民党の小野寺五典、松本洋平正副政調会長",
+   "minutes": 12
+  },
+  {
+   "start": "15:02",
+   "end": "15:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "15:26",
+   "end": "15:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "15:32",
+   "end": "15:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:33",
+   "end": "17:31",
+   "category": "党務",
+   "label": "政治改革本部",
+   "minutes": 118
+  },
+  {
+   "start": "17:31",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:33",
+   "end": "17:47",
+   "category": "党務",
+   "label": "森山裕同党幹事長",
+   "minutes": 14
+  },
+  {
+   "start": "17:47",
+   "end": "17:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:49",
+   "end": "17:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:52",
+   "end": "17:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:53",
+   "end": "17:55",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "17:55",
+   "end": "21:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 185
+  },
+  {
+   "start": "21:00",
+   "end": "21:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "21:07",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 173
+  }
+ ],
+ "alloc_min": {
+  "外遊": 635,
+  "移動": 58,
+  "居所": 283,
+  "公務（内容未詳）": 270,
+  "面会・会談": 48,
+  "党務": 144,
+  "取材・会見": 2
+ }
+}

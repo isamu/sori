@@ -1,0 +1,77 @@
+{
+ "date": "2024-11-24",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 68,
+ "residence_min": 1372,
+ "meetings": 0,
+ "first_work": "17:26",
+ "events": [
+  {
+   "time": "17:26",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "17:36",
+   "label": "三笠宮邸で故三笠宮妃百合子さまの通夜に参列",
+   "place": "東京・元赤坂 赤坂御用地",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:26",
+   "label": "移動",
+   "place": "東京・元赤坂 赤坂御用地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1046
+  },
+  {
+   "start": "17:26",
+   "end": "17:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "17:36",
+   "end": "18:26",
+   "category": "式典・行事",
+   "label": "三笠宮邸で故三笠宮妃百合子さまの通夜に参列",
+   "minutes": 50
+  },
+  {
+   "start": "18:26",
+   "end": "18:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:34",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 326
+  }
+ ],
+ "alloc_min": {
+  "居所": 1372,
+  "移動": 18,
+  "式典・行事": 50
+ }
+}

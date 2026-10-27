@@ -1,0 +1,222 @@
+{
+ "date": "2021-03-18",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 655,
+ "residence_min": 629,
+ "meetings": 1,
+ "first_work": "07:20",
+ "events": [
+  {
+   "time": "07:20",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:24",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "10:00",
+   "label": "鈴木修スズキ会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "衆院議院運営委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "16:00",
+   "label": "参院議院運営委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:56",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:32",
+   "label": "新型コロナウイルス感染症対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:00",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 440
+  },
+  {
+   "start": "07:20",
+   "end": "07:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "07:24",
+   "end": "10:00",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 156
+  },
+  {
+   "start": "10:00",
+   "end": "10:10",
+   "category": "面会・会談",
+   "label": "鈴木修スズキ会長",
+   "minutes": 10
+  },
+  {
+   "start": "10:10",
+   "end": "14:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 282
+  },
+  {
+   "start": "14:52",
+   "end": "14:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:54",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "15:00",
+   "end": "15:47",
+   "category": "国会",
+   "label": "衆院議院運営委員会",
+   "minutes": 47
+  },
+  {
+   "start": "15:47",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "16:00",
+   "end": "16:54",
+   "category": "国会",
+   "label": "参院議院運営委員会",
+   "minutes": 54
+  },
+  {
+   "start": "16:54",
+   "end": "16:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:56",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:59",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "17:32",
+   "end": "17:57",
+   "category": "官邸執務",
+   "label": "新型コロナウイルス感染症対策本部",
+   "minutes": 25
+  },
+  {
+   "start": "17:57",
+   "end": "19:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "19:00",
+   "end": "19:55",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 55
+  },
+  {
+   "start": "19:55",
+   "end": "20:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "20:46",
+   "end": "20:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "20:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 189
+  }
+ ],
+ "alloc_min": {
+  "居所": 629,
+  "移動": 14,
+  "個人": 156,
+  "面会・会談": 10,
+  "公務（内容未詳）": 450,
+  "国会": 101,
+  "官邸執務": 25,
+  "取材・会見": 55
+ }
+}

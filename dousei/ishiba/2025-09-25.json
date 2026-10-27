@@ -1,0 +1,106 @@
+{
+ "date": "2025-09-25",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 1121,
+ "residence_min": 319,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "15:13",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:31",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:33",
+   "label": "長島昭久首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:13",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 913
+  },
+  {
+   "start": "15:13",
+   "end": "15:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "15:31",
+   "end": "15:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "15:51",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 102
+  },
+  {
+   "start": "17:33",
+   "end": "17:43",
+   "category": "面会・会談",
+   "label": "長島昭久首相補佐官",
+   "minutes": 10
+  },
+  {
+   "start": "17:43",
+   "end": "18:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "18:40",
+   "end": "18:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:41",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 319
+  }
+ ],
+ "alloc_min": {
+  "外遊": 913,
+  "移動": 39,
+  "公務（内容未詳）": 159,
+  "面会・会談": 10,
+  "居所": 319
+ }
+}

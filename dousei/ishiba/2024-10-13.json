@@ -1,0 +1,289 @@
+{
+ "date": "2024-10-13",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 864,
+ "residence_min": 576,
+ "meetings": 0,
+ "first_work": "06:41",
+ "events": [
+  {
+   "time": "06:41",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:25",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "報道番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:23",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "11:52",
+   "label": "同ホテル内の宴会場「プリンスホール」で自民党衆院選候補者の決起大会に出席し、あいさつ",
+   "place": "埼玉県川越市 川越プリンスホテル",
+   "category": "党務"
+  },
+  {
+   "time": "12:30",
+   "label": "移動",
+   "place": "埼玉県川越市 川越プリンスホテル",
+   "category": "移動"
+  },
+  {
+   "time": "13:29",
+   "label": "石井啓一公明党代表と街頭演説。同党の広報用動画撮影",
+   "place": "同県草加市 東武伊勢崎線草加駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "13:58",
+   "label": "移動",
+   "place": "同県草加市 東武伊勢崎線草加駅西口",
+   "category": "移動"
+  },
+  {
+   "time": "14:42",
+   "label": "石井同党代表と街頭演説",
+   "place": "ＪＲ日暮里駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "15:14",
+   "label": "移動",
+   "place": "ＪＲ日暮里駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "16:23",
+   "label": "石井同党代表と街頭演説",
+   "place": "ＪＲ武蔵境駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "17:04",
+   "label": "移動",
+   "place": "ＪＲ武蔵境駅南口",
+   "category": "移動"
+  },
+  {
+   "time": "18:01",
+   "label": "自民党本部",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "18:59",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "19:13",
+   "label": "動画配信サイト「ニコニコ動画」の党首討論会に出演",
+   "place": "東京・銀座 歌舞伎座タワー",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:56",
+   "label": "移動",
+   "place": "東京・銀座 歌舞伎座タワー",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 401
+  },
+  {
+   "start": "06:41",
+   "end": "06:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "06:58",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "07:30",
+   "end": "08:23",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 53
+  },
+  {
+   "start": "08:23",
+   "end": "08:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:25",
+   "end": "08:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "08:43",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "09:00",
+   "end": "10:14",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 74
+  },
+  {
+   "start": "10:14",
+   "end": "10:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "10:23",
+   "end": "11:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 89
+  },
+  {
+   "start": "11:52",
+   "end": "12:30",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「プリンスホール」で自民党衆院選候補者の決起大会に出席し、あいさつ",
+   "minutes": 38
+  },
+  {
+   "start": "12:30",
+   "end": "13:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 59
+  },
+  {
+   "start": "13:29",
+   "end": "13:58",
+   "category": "党務",
+   "label": "石井啓一公明党代表と街頭演説。同党の広報用動画撮影",
+   "minutes": 29
+  },
+  {
+   "start": "13:58",
+   "end": "14:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 44
+  },
+  {
+   "start": "14:42",
+   "end": "15:14",
+   "category": "党務",
+   "label": "石井同党代表と街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "15:14",
+   "end": "16:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 69
+  },
+  {
+   "start": "16:23",
+   "end": "17:04",
+   "category": "党務",
+   "label": "石井同党代表と街頭演説",
+   "minutes": 41
+  },
+  {
+   "start": "17:04",
+   "end": "18:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 57
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "党務",
+   "label": null,
+   "minutes": 58
+  },
+  {
+   "start": "18:59",
+   "end": "19:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "19:13",
+   "end": "20:56",
+   "category": "取材・会見",
+   "label": "動画配信サイト「ニコニコ動画」の党首討論会に出演",
+   "minutes": 103
+  },
+  {
+   "start": "20:56",
+   "end": "21:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "21:05",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 175
+  }
+ ],
+ "alloc_min": {
+  "居所": 576,
+  "移動": 376,
+  "公務（内容未詳）": 60,
+  "取材・会見": 230,
+  "党務": 198
+ }
+}

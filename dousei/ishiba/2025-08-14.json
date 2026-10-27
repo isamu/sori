@@ -1,0 +1,50 @@
+{
+ "date": "2025-08-14",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 4,
+ "residence_min": 1436,
+ "meetings": 0,
+ "first_work": "20:04",
+ "events": [
+  {
+   "time": "20:04",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "20:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1204
+  },
+  {
+   "start": "20:04",
+   "end": "20:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "20:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 232
+  }
+ ],
+ "alloc_min": {
+  "居所": 1436,
+  "移動": 4
+ }
+}

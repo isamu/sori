@@ -1,0 +1,537 @@
+{
+ "date": "2021-04-26",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 623,
+ "residence_min": 714,
+ "meetings": 11,
+ "first_work": "07:42",
+ "events": [
+  {
+   "time": "07:42",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:47",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "09:30",
+   "label": "西村康稔経済財政担当相 和泉洋人首相補佐官 山崎重孝事務次官 田和宏審議官 林幸宏政策統括官 井上裕之政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:59",
+   "label": "阿達雅志首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:33",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 真鍋純地方創生推進事務局長 内藤尚志自治財政局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:52",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:57",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "11:23",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "11:30",
+   "label": "秋葉剛男事務次官 市川恵一北米局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:56",
+   "label": "河野太郎規制改革担当相と昼食",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "14:00",
+   "label": "都倉俊一文化庁長官 平田竹男参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:23",
+   "label": "平田竹男参与同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:41",
+   "label": "小此木八郎国家公安委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:08",
+   "label": "宇波弘貴主計局次長 樽見英樹事務次官 田中誠二職業安定局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:46",
+   "label": "インドのモディ首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:11",
+   "label": "北村滋国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:45",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:50",
+   "label": "自民党国際局主催の国際政治・外交論文コンテストの授賞式",
+   "place": "国会 自民党幹事長会議室",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:57",
+   "label": "国会 自民党総務会長室",
+   "place": "国会 自民党総務会長室",
+   "category": "国会"
+  },
+  {
+   "time": "17:02",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:17",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:46",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:28",
+   "label": "武田良太総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:04",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:43",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 462
+  },
+  {
+   "start": "07:42",
+   "end": "07:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "07:47",
+   "end": "09:30",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 103
+  },
+  {
+   "start": "09:30",
+   "end": "09:57",
+   "category": "面会・会談",
+   "label": "西村康稔経済財政担当相 和泉洋人首相補佐官 山崎重孝事務次官 田和宏審議官 林幸宏政策統括官 井上裕之政策統括官",
+   "minutes": 27
+  },
+  {
+   "start": "09:57",
+   "end": "09:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:59",
+   "end": "10:13",
+   "category": "面会・会談",
+   "label": "阿達雅志首相補佐官",
+   "minutes": 14
+  },
+  {
+   "start": "10:13",
+   "end": "10:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "10:33",
+   "end": "10:43",
+   "category": "面会・会談",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 真鍋純地方創生推進事務局長 内藤尚志自治財政局長",
+   "minutes": 10
+  },
+  {
+   "start": "10:43",
+   "end": "10:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "10:52",
+   "end": "10:54",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "10:54",
+   "end": "10:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:55",
+   "end": "10:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 26
+  },
+  {
+   "start": "11:23",
+   "end": "11:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:25",
+   "end": "11:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "11:30",
+   "end": "11:55",
+   "category": "面会・会談",
+   "label": "秋葉剛男事務次官 市川恵一北米局長",
+   "minutes": 25
+  },
+  {
+   "start": "11:55",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:56",
+   "end": "12:25",
+   "category": "会食",
+   "label": "河野太郎規制改革担当相と昼食",
+   "minutes": 29
+  },
+  {
+   "start": "12:25",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 95
+  },
+  {
+   "start": "14:00",
+   "end": "14:22",
+   "category": "面会・会談",
+   "label": "都倉俊一文化庁長官 平田竹男参与",
+   "minutes": 22
+  },
+  {
+   "start": "14:22",
+   "end": "14:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:23",
+   "end": "14:35",
+   "category": "面会・会談",
+   "label": "平田竹男参与同席",
+   "minutes": 12
+  },
+  {
+   "start": "14:35",
+   "end": "14:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "14:41",
+   "end": "15:07",
+   "category": "面会・会談",
+   "label": "小此木八郎国家公安委員長",
+   "minutes": 26
+  },
+  {
+   "start": "15:07",
+   "end": "15:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:08",
+   "end": "15:16",
+   "category": "面会・会談",
+   "label": "宇波弘貴主計局次長 樽見英樹事務次官 田中誠二職業安定局長",
+   "minutes": 8
+  },
+  {
+   "start": "15:16",
+   "end": "15:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "15:46",
+   "end": "16:10",
+   "category": "面会・会談",
+   "label": "インドのモディ首相と電話会談",
+   "minutes": 24
+  },
+  {
+   "start": "16:10",
+   "end": "16:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:11",
+   "end": "16:12",
+   "category": "面会・会談",
+   "label": "北村滋国家安全保障局長",
+   "minutes": 1
+  },
+  {
+   "start": "16:12",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "16:45",
+   "end": "16:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:47",
+   "end": "16:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:50",
+   "end": "16:55",
+   "category": "式典・行事",
+   "label": "自民党国際局主催の国際政治・外交論文コンテストの授賞式",
+   "minutes": 5
+  },
+  {
+   "start": "16:55",
+   "end": "16:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "16:58",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:02",
+   "end": "17:16",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 14
+  },
+  {
+   "start": "17:16",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:17",
+   "end": "17:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:19",
+   "end": "17:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "17:46",
+   "end": "18:27",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 41
+  },
+  {
+   "start": "18:27",
+   "end": "18:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:28",
+   "end": "18:36",
+   "category": "面会・会談",
+   "label": "武田良太総務相",
+   "minutes": 8
+  },
+  {
+   "start": "18:36",
+   "end": "19:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "19:04",
+   "end": "19:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 38
+  },
+  {
+   "start": "19:43",
+   "end": "19:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 252
+  }
+ ],
+ "alloc_min": {
+  "居所": 714,
+  "移動": 19,
+  "個人": 103,
+  "面会・会談": 177,
+  "公務（内容未詳）": 335,
+  "取材・会見": 2,
+  "会食": 29,
+  "式典・行事": 5,
+  "国会": 1,
+  "党務": 14,
+  "官邸執務": 41
+ }
+}

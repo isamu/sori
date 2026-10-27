@@ -1,0 +1,44 @@
+{
+ "date": "2025-01-25",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 73,
+ "residence_min": 1367,
+ "meetings": 0,
+ "first_work": "10:59",
+ "events": [
+  {
+   "time": "10:59",
+   "label": "ネットメディア「ＲｅＨａｃＱ（リハック）」の番組収録",
+   "place": "公邸",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:59",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 659
+  },
+  {
+   "start": "10:59",
+   "end": "12:12",
+   "category": "取材・会見",
+   "label": "ネットメディア「ＲｅＨａｃＱ（リハック）」の番組収録",
+   "minutes": 73
+  },
+  {
+   "start": "12:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 708
+  }
+ ],
+ "alloc_min": {
+  "居所": 1367,
+  "取材・会見": 73
+ }
+}

@@ -1,0 +1,441 @@
+{
+ "date": "2024-11-14",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 909,
+ "residence_min": 509,
+ "meetings": 4,
+ "first_work": "08:29",
+ "events": [
+  {
+   "time": "08:29",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:35",
+   "label": "歯科診療所で歯の治療",
+   "place": "参院第２別館",
+   "category": "個人"
+  },
+  {
+   "time": "08:57",
+   "label": "移動",
+   "place": "参院第２別館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "給油",
+   "place": "米ロサンゼルス国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:11",
+   "label": "「奈良の柿ＰＲレディ」の小林香乃さんから柿の贈呈",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:28",
+   "label": "秋葉剛男国家安全保障局長 川上高司参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:38",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:41",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "11:00",
+   "label": "第２１５特別国会開会式",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:09",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:11",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "同ホテル内の日本料理店「水簾」で、自民党の森山裕幹事長、坂本哲志国対委員長、林芳正官房長官と会食",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "12:58",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ペルーのカヤオ空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:59",
+   "label": "江藤拓農林水産相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:08",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "14:15",
+   "label": "橘慶一郎官房副長官 森昌文首相補佐官 船越健裕審議官 中村亮南部アジア部長 有馬裕北米局長 野口泰中南米局長 片平聡経済局長 石月英雄国際協力局長 森重樹輸出・国際局長 中嶋浩一郎審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:20",
+   "label": "長島昭久首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:55",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:59",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:21",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 509
+  },
+  {
+   "start": "08:29",
+   "end": "08:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "08:35",
+   "end": "08:57",
+   "category": "個人",
+   "label": "歯科診療所で歯の治療",
+   "minutes": 22
+  },
+  {
+   "start": "08:57",
+   "end": "08:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:59",
+   "end": "09:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "09:11",
+   "end": "09:27",
+   "category": "面会・会談",
+   "label": "「奈良の柿ＰＲレディ」の小林香乃さんから柿の贈呈",
+   "minutes": 16
+  },
+  {
+   "start": "09:27",
+   "end": "09:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:28",
+   "end": "09:52",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 川上高司参与",
+   "minutes": 24
+  },
+  {
+   "start": "09:52",
+   "end": "10:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "10:38",
+   "end": "10:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:40",
+   "end": "10:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 10
+  },
+  {
+   "start": "10:51",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "11:00",
+   "end": "11:05",
+   "category": "国会",
+   "label": "第２１５特別国会開会式",
+   "minutes": 5
+  },
+  {
+   "start": "11:05",
+   "end": "11:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:09",
+   "end": "11:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 46
+  },
+  {
+   "start": "11:57",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:00",
+   "end": "12:58",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「水簾」で、自民党の森山裕幹事長、坂本哲志国対委員長、林芳正官房長官と会食",
+   "minutes": 58
+  },
+  {
+   "start": "12:58",
+   "end": "13:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 55
+  },
+  {
+   "start": "13:55",
+   "end": "13:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:56",
+   "end": "13:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:59",
+   "end": "14:00",
+   "category": "国会",
+   "label": "江藤拓農林水産相",
+   "minutes": 1
+  },
+  {
+   "start": "14:00",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:02",
+   "end": "14:06",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 4
+  },
+  {
+   "start": "14:06",
+   "end": "14:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:08",
+   "end": "14:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:09",
+   "end": "14:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "14:15",
+   "end": "15:09",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官 森昌文首相補佐官 船越健裕審議官 中村亮南部アジア部長 有馬裕北米局長 野口泰中南米局長 片平聡経済局長 石月英雄国際協力局長 森重樹輸出・国際局長 中嶋浩一郎審議官",
+   "minutes": 54
+  },
+  {
+   "start": "15:09",
+   "end": "16:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "16:20",
+   "end": "16:25",
+   "category": "面会・会談",
+   "label": "長島昭久首相補佐官",
+   "minutes": 5
+  },
+  {
+   "start": "16:25",
+   "end": "16:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "16:55",
+   "end": "16:58",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "16:58",
+   "end": "16:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:59",
+   "end": "17:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "17:21",
+   "end": "17:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "17:45",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 375
+  }
+ ],
+ "alloc_min": {
+  "居所": 509,
+  "移動": 65,
+  "個人": 22,
+  "公務（内容未詳）": 188,
+  "面会・会談": 99,
+  "国会": 20,
+  "官邸執務": 101,
+  "会食": 58,
+  "取材・会見": 3,
+  "外遊": 375
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "date": "2021-02-20",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 10,
+ "residence_min": 1430,
+ "meetings": 0,
+ "first_work": "00:40",
+ "events": [
+  {
+   "time": "00:40",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "00:44",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 40
+  },
+  {
+   "start": "00:40",
+   "end": "00:43",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "00:43",
+   "end": "00:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "00:44",
+   "end": "00:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "00:50",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1390
+  }
+ ],
+ "alloc_min": {
+  "居所": 1430,
+  "取材・会見": 3,
+  "公務（内容未詳）": 1,
+  "移動": 6
+ }
+}

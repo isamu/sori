@@ -1,0 +1,119 @@
+{
+ "date": "2013-05-03",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2013.05.03",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間2日）午後、トルコのエセンボーア国際空港着",
+   "place": "エセンボーア国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "アンカラヒルトン泊",
+   "place": "エセンボーア国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間3日）午前、日トルコ合同経済委員会",
+   "place": "エセンボーア国際空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "アンカラ市内のアタチュルク廟（びょう）で献花",
+   "place": "エセンボーア国際空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "土日基金文化センター",
+   "place": "エセンボーア国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "展示場のテープカット",
+   "place": "エセンボーア国際空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "午後、大使公邸。米倉弘昌経団連会長ら同行経済人とのレセプション",
+   "place": "公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "首相府",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "公式歓迎式典",
+   "place": "公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "エルドアン首相と会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "アンカラヒルトン",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "マリオットホテル",
+   "place": "マリオットホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "エルドアン首相、両国の経済人との会合",
+   "place": "マリオットホテル",
+   "category": "官邸執務"
+  },
+  {
+   "time": null,
+   "label": "原子力協定などの署名式、共同記者発表",
+   "place": "マリオットホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "同首相主催の晩餐（ばんさん）会",
+   "place": "マリオットホテル",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

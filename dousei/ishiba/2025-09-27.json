@@ -1,0 +1,266 @@
+{
+ "date": "2025-09-27",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 639,
+ "residence_min": 801,
+ "meetings": 1,
+ "first_work": "06:47",
+ "events": [
+  {
+   "time": "06:47",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:13",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "08:29",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "海上保安庁のヘリコプター",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:57",
+   "label": "鴨田秋津舞鶴市長、同校の松浦あずさ学校長らと懇談",
+   "place": "京都府舞鶴市 海上保安学校",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:17",
+   "label": "同校卒業生らの行進を視察",
+   "place": "京都府舞鶴市 海上保安学校",
+   "category": "視察"
+  },
+  {
+   "time": "11:02",
+   "label": "卒業式に出席し、祝辞",
+   "place": "京都府舞鶴市 海上保安学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:27",
+   "label": "植樹。卒業生と記念撮影",
+   "place": "京都府舞鶴市 海上保安学校",
+   "category": "移動"
+  },
+  {
+   "time": "12:50",
+   "label": "実習場や練習船「みうら」を視察。船内で松浦学校長らと昼食",
+   "place": "京都府舞鶴市 海上保安学校",
+   "category": "視察"
+  },
+  {
+   "time": "14:11",
+   "label": "海上保安庁のヘリコプター",
+   "place": "京都府舞鶴市 海上保安学校",
+   "category": "移動"
+  },
+  {
+   "time": "14:48",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:47",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 407
+  },
+  {
+   "start": "06:47",
+   "end": "07:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "07:13",
+   "end": "07:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "07:44",
+   "end": "08:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "08:29",
+   "end": "08:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "08:58",
+   "end": "09:38",
+   "category": "移動",
+   "label": "海上保安庁のヘリコプター",
+   "minutes": 40
+  },
+  {
+   "start": "09:38",
+   "end": "09:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "09:57",
+   "end": "10:11",
+   "category": "面会・会談",
+   "label": "鴨田秋津舞鶴市長、同校の松浦あずさ学校長らと懇談",
+   "minutes": 14
+  },
+  {
+   "start": "10:11",
+   "end": "10:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "10:17",
+   "end": "10:25",
+   "category": "視察",
+   "label": "同校卒業生らの行進を視察",
+   "minutes": 8
+  },
+  {
+   "start": "10:25",
+   "end": "11:02",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "11:02",
+   "end": "12:07",
+   "category": "式典・行事",
+   "label": "卒業式に出席し、祝辞",
+   "minutes": 65
+  },
+  {
+   "start": "12:07",
+   "end": "12:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "12:27",
+   "end": "12:36",
+   "category": "移動",
+   "label": "植樹。卒業生と記念撮影",
+   "minutes": 9
+  },
+  {
+   "start": "12:36",
+   "end": "12:50",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "12:50",
+   "end": "13:56",
+   "category": "視察",
+   "label": "実習場や練習船「みうら」を視察。船内で松浦学校長らと昼食",
+   "minutes": 66
+  },
+  {
+   "start": "13:56",
+   "end": "14:11",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "14:11",
+   "end": "14:48",
+   "category": "移動",
+   "label": "海上保安庁のヘリコプター",
+   "minutes": 37
+  },
+  {
+   "start": "14:48",
+   "end": "15:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 55
+  },
+  {
+   "start": "15:43",
+   "end": "16:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 64
+  },
+  {
+   "start": "16:47",
+   "end": "17:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "17:02",
+   "end": "17:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "17:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 394
+  }
+ ],
+ "alloc_min": {
+  "居所": 801,
+  "移動": 266,
+  "公務（内容未詳）": 154,
+  "面会・会談": 14,
+  "視察": 140,
+  "式典・行事": 65
+ }
+}

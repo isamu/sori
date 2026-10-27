@@ -1,0 +1,89 @@
+{
+ "date": "2022-03-20",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "ラッフルズ・ホテル・ル・ロワイヤル",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "フン・セン首相主催の夕食会",
+   "place": "首相府",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "首相府",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "署名式に立ち会い",
+   "place": "首相府",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "フン・セン首相と会談",
+   "place": "首相府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "公式歓迎式典",
+   "place": "首相府",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "国連ボランティアの故中田厚仁さんの慰霊碑に献花",
+   "place": "ウナロム寺院",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "献花",
+   "place": "独立記念塔と故シアヌーク国王像",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "故高田晴行警視の慰霊碑に献花",
+   "place": "プノンペン市内のタン・コーサン寺院",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "カンボジア・プノンペン国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "インド・ニューデリーのパラム空軍基地",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

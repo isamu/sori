@@ -1,0 +1,77 @@
+{
+ "date": "2025-08-24",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 181,
+ "residence_min": 1259,
+ "meetings": 0,
+ "first_work": "16:37",
+ "events": [
+  {
+   "time": "16:37",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:44",
+   "label": "同ホテル内の日本料理店「和田倉」で小泉純一郎元首相、自民党の山崎拓元副総裁、武部勤元幹事長、赤沢亮正経済再生担当相と会食",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "会食"
+  },
+  {
+   "time": "19:31",
+   "label": "移動",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:37",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 997
+  },
+  {
+   "start": "16:37",
+   "end": "16:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "16:44",
+   "end": "19:31",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「和田倉」で小泉純一郎元首相、自民党の山崎拓元副総裁、武部勤元幹事長、赤沢亮正経済再生担当相と会食",
+   "minutes": 167
+  },
+  {
+   "start": "19:31",
+   "end": "19:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "19:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 262
+  }
+ ],
+ "alloc_min": {
+  "居所": 1259,
+  "移動": 14,
+  "会食": 167
+ }
+}

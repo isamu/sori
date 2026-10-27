@@ -1,0 +1,145 @@
+{
+ "date": "2025-02-15",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 199,
+ "residence_min": 1241,
+ "meetings": 0,
+ "first_work": "10:29",
+ "events": [
+  {
+   "time": "10:29",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:49",
+   "label": "原子力総合防災訓練",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "同所内の会員制クラブ「アークヒルズクラブ」で日本総合研究所の寺島実郎会長と会食",
+   "place": "東京・赤坂 アーク森ビル",
+   "category": "会食"
+  },
+  {
+   "time": "13:41",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "13:45",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "14:28",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 629
+  },
+  {
+   "start": "10:29",
+   "end": "10:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "10:30",
+   "end": "10:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "10:49",
+   "end": "11:15",
+   "category": "官邸執務",
+   "label": "原子力総合防災訓練",
+   "minutes": 26
+  },
+  {
+   "start": "11:15",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "11:56",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:00",
+   "end": "13:41",
+   "category": "会食",
+   "label": "同所内の会員制クラブ「アークヒルズクラブ」で日本総合研究所の寺島実郎会長と会食",
+   "minutes": 101
+  },
+  {
+   "start": "13:41",
+   "end": "13:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "13:45",
+   "end": "14:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 43
+  },
+  {
+   "start": "14:28",
+   "end": "14:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "14:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 569
+  }
+ ],
+ "alloc_min": {
+  "居所": 1241,
+  "移動": 12,
+  "公務（内容未詳）": 60,
+  "官邸執務": 26,
+  "会食": 101
+ }
+}

@@ -1,0 +1,379 @@
+{
+ "date": "2021-10-23",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 798,
+ "residence_min": 642,
+ "meetings": 0,
+ "first_work": "08:18",
+ "events": [
+  {
+   "time": "08:18",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:45",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:44",
+   "label": "福岡空港",
+   "place": "福岡空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:56",
+   "label": "移動",
+   "place": "福岡空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:03",
+   "label": "街頭演説",
+   "place": "佐賀県武雄市 ショッピングセンター「ゆめタウン武雄」の駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "12:29",
+   "label": "移動",
+   "place": "佐賀県武雄市 ショッピングセンター「ゆめタウン武雄」の駐車場",
+   "category": "移動"
+  },
+  {
+   "time": "12:31",
+   "label": "小松政市長出迎え。近年の水害で被害を受けた個人事業主らと車座で意見交換。昼食",
+   "place": "同市 飲食店「居食亭　豊」",
+   "category": "会食"
+  },
+  {
+   "time": "13:23",
+   "label": "移動",
+   "place": "同市 飲食店「居食亭　豊」",
+   "category": "移動"
+  },
+  {
+   "time": "14:08",
+   "label": "街頭演説",
+   "place": "ＪＲ佐賀駅前",
+   "category": "党務"
+  },
+  {
+   "time": "14:31",
+   "label": "移動",
+   "place": "ＪＲ佐賀駅前",
+   "category": "移動"
+  },
+  {
+   "time": "14:54",
+   "label": "休憩",
+   "place": "佐賀市 長崎自動車道金立サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:57",
+   "label": "移動",
+   "place": "佐賀市 長崎自動車道金立サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "15:39",
+   "label": "街頭演説",
+   "place": "福岡県大野城市 西鉄白木原駅前",
+   "category": "党務"
+  },
+  {
+   "time": "15:52",
+   "label": "移動",
+   "place": "福岡県大野城市 西鉄白木原駅前",
+   "category": "移動"
+  },
+  {
+   "time": "16:19",
+   "label": "街頭演説",
+   "place": "福岡市中央区 西鉄福岡駅前",
+   "category": "党務"
+  },
+  {
+   "time": "16:41",
+   "label": "移動",
+   "place": "福岡市中央区 西鉄福岡駅前",
+   "category": "移動"
+  },
+  {
+   "time": "17:07",
+   "label": "休憩",
+   "place": "福岡県古賀市 九州自動車道古賀サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:09",
+   "label": "移動",
+   "place": "福岡県古賀市 九州自動車道古賀サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:46",
+   "label": "街頭演説",
+   "place": "北九州市八幡西区 「黒崎ひびしんホール」前",
+   "category": "党務"
+  },
+  {
+   "time": "18:06",
+   "label": "移動",
+   "place": "北九州市八幡西区 「黒崎ひびしんホール」前",
+   "category": "移動"
+  },
+  {
+   "time": "18:27",
+   "label": "自民党衆院選候補者の演説会に出席し、演説",
+   "place": "同市小倉北区 「北九州ソレイユホール」",
+   "category": "党務"
+  },
+  {
+   "time": "18:46",
+   "label": "移動",
+   "place": "同市小倉北区 「北九州ソレイユホール」",
+   "category": "移動"
+  },
+  {
+   "time": "19:12",
+   "label": "北九州空港",
+   "place": "北九州空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:50",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:09",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 498
+  },
+  {
+   "start": "08:18",
+   "end": "08:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "08:45",
+   "end": "09:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "09:14",
+   "end": "10:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 90
+  },
+  {
+   "start": "10:44",
+   "end": "10:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "10:56",
+   "end": "12:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 67
+  },
+  {
+   "start": "12:03",
+   "end": "12:29",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "12:29",
+   "end": "12:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:31",
+   "end": "13:23",
+   "category": "会食",
+   "label": "小松政市長出迎え。近年の水害で被害を受けた個人事業主らと車座で意見交換。昼食",
+   "minutes": 52
+  },
+  {
+   "start": "13:23",
+   "end": "14:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 45
+  },
+  {
+   "start": "14:08",
+   "end": "14:31",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 23
+  },
+  {
+   "start": "14:31",
+   "end": "14:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "14:54",
+   "end": "14:57",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "14:57",
+   "end": "15:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "15:39",
+   "end": "15:52",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 13
+  },
+  {
+   "start": "15:52",
+   "end": "16:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "16:19",
+   "end": "16:41",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "16:41",
+   "end": "17:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "17:07",
+   "end": "17:09",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "17:09",
+   "end": "17:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "17:46",
+   "end": "18:06",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 20
+  },
+  {
+   "start": "18:06",
+   "end": "18:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "18:27",
+   "end": "18:46",
+   "category": "党務",
+   "label": "自民党衆院選候補者の演説会に出席し、演説",
+   "minutes": 19
+  },
+  {
+   "start": "18:46",
+   "end": "19:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "19:12",
+   "end": "19:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "19:43",
+   "end": "20:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "20:50",
+   "end": "21:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "21:09",
+   "end": "21:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "21:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 144
+  }
+ ],
+ "alloc_min": {
+  "居所": 642,
+  "移動": 466,
+  "公務（内容未詳）": 157,
+  "党務": 123,
+  "会食": 52
+ }
+}

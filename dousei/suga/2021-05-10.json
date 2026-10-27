@@ -1,0 +1,353 @@
+{
+ "date": "2021-05-10",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 765,
+ "residence_min": 675,
+ "meetings": 3,
+ "first_work": "06:53",
+ "events": [
+  {
+   "time": "06:53",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:00",
+   "label": "坂井学官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:38",
+   "label": "岡田直樹官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:45",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:43",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:12",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "16:15",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:23",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "樽見英樹事務次官 迫井正深医政局長 田中誠二職業安定局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:59",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:01",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:33",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 413
+  },
+  {
+   "start": "06:53",
+   "end": "06:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "06:56",
+   "end": "07:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "07:00",
+   "end": "07:37",
+   "category": "面会・会談",
+   "label": "坂井学官房副長官",
+   "minutes": 37
+  },
+  {
+   "start": "07:37",
+   "end": "07:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:38",
+   "end": "07:59",
+   "category": "面会・会談",
+   "label": "岡田直樹官房副長官",
+   "minutes": 21
+  },
+  {
+   "start": "07:59",
+   "end": "08:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "08:45",
+   "end": "08:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:47",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "08:58",
+   "end": "12:04",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 186
+  },
+  {
+   "start": "12:04",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:07",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 35
+  },
+  {
+   "start": "12:43",
+   "end": "12:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:45",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "12:59",
+   "end": "16:09",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 190
+  },
+  {
+   "start": "16:09",
+   "end": "16:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:12",
+   "end": "16:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 39
+  },
+  {
+   "start": "16:54",
+   "end": "16:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:56",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:01",
+   "end": "17:22",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 21
+  },
+  {
+   "start": "17:22",
+   "end": "17:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:23",
+   "end": "17:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:26",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "18:00",
+   "end": "18:16",
+   "category": "面会・会談",
+   "label": "樽見英樹事務次官 迫井正深医政局長 田中誠二職業安定局長",
+   "minutes": 16
+  },
+  {
+   "start": "18:16",
+   "end": "18:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "18:59",
+   "end": "19:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 32
+  },
+  {
+   "start": "19:33",
+   "end": "19:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 262
+  }
+ ],
+ "alloc_min": {
+  "居所": 675,
+  "移動": 23,
+  "公務（内容未詳）": 197,
+  "面会・会談": 74,
+  "国会": 376,
+  "官邸執務": 74,
+  "党務": 21
+ }
+}

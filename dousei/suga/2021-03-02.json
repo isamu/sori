@@ -1,0 +1,447 @@
+{
+ "date": "2021-03-02",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 854,
+ "residence_min": 586,
+ "meetings": 5,
+ "first_work": "06:23",
+ "events": [
+  {
+   "time": "06:23",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "06:31",
+   "label": "坂井学官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:23",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:34",
+   "label": "茂木敏充外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "13:04",
+   "label": "衆院財務金融委員会",
+   "place": "国会 衆院第１５委員室",
+   "category": "国会"
+  },
+  {
+   "time": "14:11",
+   "label": "移動",
+   "place": "国会 衆院第１５委員室",
+   "category": "移動"
+  },
+  {
+   "time": "14:13",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:53",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:39",
+   "label": "山口泰明自民党選対委員長",
+   "place": "国会 衆院本会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:45",
+   "label": "衆院の大島理森、赤松広隆正副議長、高木毅議院運営委員長、与野党各会派にあいさつ回り。麻生太郎副総理兼財務相、自民党の森山裕、公明党の高木陽介両国対委員長同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "18:00",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "18:05",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "18:08",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:30",
+   "label": "田村憲久厚生労働相 赤羽一嘉国土交通相 加藤勝信官房長官 西村康稔経済再生担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:22",
+   "label": "藤井健志官房副長官補 田和宏審議官 新川浩嗣総括審議官 荒井勝喜総括審議官 新原浩朗経済産業政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:18",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:20",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "20:30",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 383
+  },
+  {
+   "start": "06:23",
+   "end": "06:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "06:26",
+   "end": "06:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "06:31",
+   "end": "07:31",
+   "category": "面会・会談",
+   "label": "坂井学官房副長官",
+   "minutes": 60
+  },
+  {
+   "start": "07:31",
+   "end": "08:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "08:23",
+   "end": "08:33",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 10
+  },
+  {
+   "start": "08:33",
+   "end": "08:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:34",
+   "end": "08:36",
+   "category": "面会・会談",
+   "label": "茂木敏充外相",
+   "minutes": 2
+  },
+  {
+   "start": "08:36",
+   "end": "08:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "08:51",
+   "end": "08:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:52",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:00",
+   "end": "12:45",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 225
+  },
+  {
+   "start": "12:45",
+   "end": "13:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "13:04",
+   "end": "14:09",
+   "category": "国会",
+   "label": "衆院財務金融委員会",
+   "minutes": 65
+  },
+  {
+   "start": "14:09",
+   "end": "14:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:11",
+   "end": "14:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 37
+  },
+  {
+   "start": "14:50",
+   "end": "14:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:52",
+   "end": "14:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "15:00",
+   "end": "15:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:02",
+   "end": "16:39",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 97
+  },
+  {
+   "start": "16:39",
+   "end": "16:42",
+   "category": "面会・会談",
+   "label": "山口泰明自民党選対委員長",
+   "minutes": 3
+  },
+  {
+   "start": "16:42",
+   "end": "17:44",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 62
+  },
+  {
+   "start": "17:44",
+   "end": "17:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:45",
+   "end": "17:59",
+   "category": "国会",
+   "label": "衆院の大島理森、赤松広隆正副議長、高木毅議院運営委員長、与野党各会派にあいさつ回り。麻生太郎副総理兼財務相、自民党の森山裕、公明党の高木陽介両国対委員長同行",
+   "minutes": 14
+  },
+  {
+   "start": "17:59",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "18:04",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:05",
+   "end": "18:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:07",
+   "end": "18:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:08",
+   "end": "18:10",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "18:10",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "18:30",
+   "end": "19:16",
+   "category": "面会・会談",
+   "label": "田村憲久厚生労働相 赤羽一嘉国土交通相 加藤勝信官房長官 西村康稔経済再生担当相",
+   "minutes": 46
+  },
+  {
+   "start": "19:16",
+   "end": "19:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "19:22",
+   "end": "19:57",
+   "category": "面会・会談",
+   "label": "藤井健志官房副長官補 田和宏審議官 新川浩嗣総括審議官 荒井勝喜総括審議官 新原浩朗経済産業政策局長",
+   "minutes": 35
+  },
+  {
+   "start": "19:57",
+   "end": "20:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "20:18",
+   "end": "20:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 10
+  },
+  {
+   "start": "20:30",
+   "end": "20:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "20:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 203
+  }
+ ],
+ "alloc_min": {
+  "居所": 586,
+  "移動": 19,
+  "公務（内容未詳）": 166,
+  "面会・会談": 146,
+  "官邸執務": 47,
+  "国会": 474,
+  "取材・会見": 2
+ }
+}

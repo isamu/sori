@@ -1,0 +1,139 @@
+{
+ "date": "2021-07-10",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 206,
+ "residence_min": 1234,
+ "meetings": 2,
+ "first_work": "12:48",
+ "events": [
+  {
+   "time": "12:48",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "九州７県と沖縄県の同党県連役員らとテレビ電話で意見交換",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:16",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "15:25",
+   "label": "棚橋泰文防災担当相 沖田芳樹内閣危機管理監 井上智夫水管理・国土保全局長 長谷川直之気象庁長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:40",
+   "label": "岡部信彦参与",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:28",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 768
+  },
+  {
+   "start": "12:48",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "12:53",
+   "end": "15:16",
+   "category": "取材・会見",
+   "label": "九州７県と沖縄県の同党県連役員らとテレビ電話で意見交換",
+   "minutes": 143
+  },
+  {
+   "start": "15:16",
+   "end": "15:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:18",
+   "end": "15:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "15:25",
+   "end": "15:36",
+   "category": "面会・会談",
+   "label": "棚橋泰文防災担当相 沖田芳樹内閣危機管理監 井上智夫水管理・国土保全局長 長谷川直之気象庁長官",
+   "minutes": 11
+  },
+  {
+   "start": "15:36",
+   "end": "15:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 4
+  },
+  {
+   "start": "15:40",
+   "end": "16:14",
+   "category": "面会・会談",
+   "label": "岡部信彦参与",
+   "minutes": 34
+  },
+  {
+   "start": "16:14",
+   "end": "16:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 14
+  },
+  {
+   "start": "16:28",
+   "end": "16:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "16:32",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 448
+  }
+ ],
+ "alloc_min": {
+  "居所": 1234,
+  "移動": 11,
+  "取材・会見": 143,
+  "公務（内容未詳）": 7,
+  "面会・会談": 45
+ }
+}

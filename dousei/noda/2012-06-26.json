@@ -1,0 +1,236 @@
+{
+ "date": "2012-06-26",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.06.26",
+ "work_min": 698,
+ "residence_min": 742,
+ "meetings": 5,
+ "first_work": "07:16",
+ "events": [
+  {
+   "time": "07:16",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:06",
+   "label": "両氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:12",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:20",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院消費増税関連特別委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:54",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:29",
+   "label": "政府・民主三役で打ち合わせ",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:43",
+   "label": "衆院の横路、衛藤正副議長、与野党各会派にあいさつ回り。岡田副総理、民主党の城島国対委員長ら同行",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:02",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "民主党の鹿野道彦衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:12",
+   "label": "斎藤副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:00",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:23",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:54",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 436
+  },
+  {
+   "start": "07:16",
+   "end": "08:06",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "minutes": 50
+  },
+  {
+   "start": "08:06",
+   "end": "08:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:12",
+   "end": "08:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:20",
+   "end": "09:00",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 40
+  },
+  {
+   "start": "09:00",
+   "end": "11:54",
+   "category": "国会",
+   "label": "衆院消費増税関連特別委員会",
+   "minutes": 174
+  },
+  {
+   "start": "11:54",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 61
+  },
+  {
+   "start": "12:55",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:02",
+   "end": "15:29",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 147
+  },
+  {
+   "start": "15:29",
+   "end": "15:43",
+   "category": "官邸執務",
+   "label": "政府・民主三役で打ち合わせ",
+   "minutes": 14
+  },
+  {
+   "start": "15:43",
+   "end": "16:02",
+   "category": "官邸執務",
+   "label": "衆院の横路、衛藤正副議長、与野党各会派にあいさつ回り。岡田副総理、民主党の城島国対委員長ら同行",
+   "minutes": 19
+  },
+  {
+   "start": "16:02",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "17:01",
+   "end": "17:12",
+   "category": "面会・会談",
+   "label": "民主党の鹿野道彦衆院議員",
+   "minutes": 11
+  },
+  {
+   "start": "17:12",
+   "end": "18:00",
+   "category": "面会・会談",
+   "label": "斎藤副長官",
+   "minutes": 48
+  },
+  {
+   "start": "18:00",
+   "end": "18:23",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 23
+  },
+  {
+   "start": "18:23",
+   "end": "18:54",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 31
+  },
+  {
+   "start": "18:54",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 306
+  }
+ ],
+ "alloc_min": {
+  "居所": 742,
+  "面会・会談": 140,
+  "公務（内容未詳）": 141,
+  "官邸執務": 73,
+  "国会": 321,
+  "取材・会見": 23
+ }
+}

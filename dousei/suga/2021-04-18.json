@@ -1,0 +1,126 @@
+{
+ "date": "2021-04-18",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 989,
+ "residence_min": 451,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "14:41",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:59",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:30",
+   "label": "和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:17",
+   "label": "和泉洋人首相補佐官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:27",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:41",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 881
+  },
+  {
+   "start": "14:41",
+   "end": "14:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "14:59",
+   "end": "15:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "15:25",
+   "end": "15:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "15:30",
+   "end": "16:16",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "minutes": 46
+  },
+  {
+   "start": "16:16",
+   "end": "16:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "16:17",
+   "end": "16:26",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官",
+   "minutes": 9
+  },
+  {
+   "start": "16:26",
+   "end": "16:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "16:27",
+   "end": "16:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "16:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 449
+  }
+ ],
+ "alloc_min": {
+  "外遊": 881,
+  "移動": 48,
+  "公務（内容未詳）": 5,
+  "面会・会談": 55,
+  "居所": 451
+ }
+}

@@ -1,0 +1,447 @@
+{
+ "date": "2025-04-14",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 756,
+ "residence_min": 684,
+ "meetings": 6,
+ "first_work": "06:52",
+ "events": [
+  {
+   "time": "06:52",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "06:59",
+   "label": "橘慶一郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:51",
+   "label": "岩屋毅外相 加藤勝信財務相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:30",
+   "label": "シンガポールのローレンス・ウォン首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:00",
+   "label": "アラブ首長国連邦（ＵＡＥ）のジャベル産業・先端技術相兼日本担当特使の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:38",
+   "label": "鯰博行審議官 有馬裕北米局長 大和太郎防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:12",
+   "label": "同党の橋本聖子、宮本周司両参院議員。青木一彦官房副長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:29",
+   "label": "井上裕之事務次官 堀内俊彦アフリカ部長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:58",
+   "label": "斉藤鉄夫公明党代表とともにユーチューブ番組「公明党のサブチャンネル」の収録",
+   "place": "衆院第１議員会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:43",
+   "label": "移動",
+   "place": "衆院第１議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "16:46",
+   "label": "国会 衆院第１４控室",
+   "place": "国会 衆院第１４控室",
+   "category": "国会"
+  },
+  {
+   "time": "16:50",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "17:01",
+   "label": "党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:16",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:02",
+   "label": "政労会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:02",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:03",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:27",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 412
+  },
+  {
+   "start": "06:52",
+   "end": "06:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "06:53",
+   "end": "06:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "06:59",
+   "end": "07:47",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官",
+   "minutes": 48
+  },
+  {
+   "start": "07:47",
+   "end": "08:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "08:46",
+   "end": "08:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:47",
+   "end": "08:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:51",
+   "end": "08:52",
+   "category": "国会",
+   "label": "岩屋毅外相 加藤勝信財務相",
+   "minutes": 1
+  },
+  {
+   "start": "08:52",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:59",
+   "end": "12:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 182
+  },
+  {
+   "start": "12:01",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:04",
+   "end": "12:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:05",
+   "end": "12:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "12:30",
+   "end": "12:53",
+   "category": "面会・会談",
+   "label": "シンガポールのローレンス・ウォン首相と電話会談",
+   "minutes": 23
+  },
+  {
+   "start": "12:53",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "14:00",
+   "end": "14:24",
+   "category": "面会・会談",
+   "label": "アラブ首長国連邦（ＵＡＥ）のジャベル産業・先端技術相兼日本担当特使の表敬",
+   "minutes": 24
+  },
+  {
+   "start": "14:24",
+   "end": "14:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "14:38",
+   "end": "15:08",
+   "category": "面会・会談",
+   "label": "鯰博行審議官 有馬裕北米局長 大和太郎防衛政策局長",
+   "minutes": 30
+  },
+  {
+   "start": "15:08",
+   "end": "15:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:12",
+   "end": "15:24",
+   "category": "面会・会談",
+   "label": "同党の橋本聖子、宮本周司両参院議員。青木一彦官房副長官同席",
+   "minutes": 12
+  },
+  {
+   "start": "15:24",
+   "end": "15:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "15:29",
+   "end": "15:49",
+   "category": "面会・会談",
+   "label": "井上裕之事務次官 堀内俊彦アフリカ部長",
+   "minutes": 20
+  },
+  {
+   "start": "15:49",
+   "end": "15:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "15:57",
+   "end": "15:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:58",
+   "end": "16:43",
+   "category": "取材・会見",
+   "label": "斉藤鉄夫公明党代表とともにユーチューブ番組「公明党のサブチャンネル」の収録",
+   "minutes": 45
+  },
+  {
+   "start": "16:43",
+   "end": "16:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:45",
+   "end": "16:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "16:49",
+   "end": "16:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 8
+  },
+  {
+   "start": "16:58",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:01",
+   "end": "17:14",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 13
+  },
+  {
+   "start": "17:14",
+   "end": "17:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:16",
+   "end": "17:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:18",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "18:02",
+   "end": "18:53",
+   "category": "取材・会見",
+   "label": "政労会見",
+   "minutes": 51
+  },
+  {
+   "start": "18:53",
+   "end": "19:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "19:02",
+   "end": "19:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 24
+  },
+  {
+   "start": "19:27",
+   "end": "19:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 272
+  }
+ ],
+ "alloc_min": {
+  "居所": 684,
+  "移動": 10,
+  "公務（内容未詳）": 286,
+  "面会・会談": 157,
+  "国会": 194,
+  "取材・会見": 96,
+  "党務": 13
+ }
+}

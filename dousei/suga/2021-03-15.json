@@ -1,0 +1,327 @@
+{
+ "date": "2021-03-15",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 749,
+ "residence_min": 691,
+ "meetings": 4,
+ "first_work": "06:51",
+ "events": [
+  {
+   "time": "06:51",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "06:59",
+   "label": "岡田直樹官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:04",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:25",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:36",
+   "label": "下村博文同党政調会長らから新型コロナウイルスによる生活困窮者支援に関する提言書受け取り",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:44",
+   "label": "竹内譲公明党政調会長らから経済対策に関する提言書受け取り",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:52",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "18:11",
+   "label": "高橋憲一官房副長官補 滝沢裕昭内閣情報官 秋葉剛男事務次官 小林賢一南部アジア部長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:55",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:14",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 411
+  },
+  {
+   "start": "06:51",
+   "end": "06:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "06:54",
+   "end": "06:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "06:59",
+   "end": "07:29",
+   "category": "面会・会談",
+   "label": "岡田直樹官房副長官",
+   "minutes": 30
+  },
+  {
+   "start": "07:29",
+   "end": "08:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 77
+  },
+  {
+   "start": "08:46",
+   "end": "08:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:47",
+   "end": "09:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "09:04",
+   "end": "11:53",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 169
+  },
+  {
+   "start": "11:53",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:56",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 54
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:53",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "17:22",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 262
+  },
+  {
+   "start": "17:22",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:25",
+   "end": "17:34",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 9
+  },
+  {
+   "start": "17:34",
+   "end": "17:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:36",
+   "end": "17:43",
+   "category": "面会・会談",
+   "label": "下村博文同党政調会長らから新型コロナウイルスによる生活困窮者支援に関する提言書受け取り",
+   "minutes": 7
+  },
+  {
+   "start": "17:43",
+   "end": "17:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:44",
+   "end": "17:50",
+   "category": "面会・会談",
+   "label": "竹内譲公明党政調会長らから経済対策に関する提言書受け取り",
+   "minutes": 6
+  },
+  {
+   "start": "17:50",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:52",
+   "end": "17:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:54",
+   "end": "18:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "18:11",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "高橋憲一官房副長官補 滝沢裕昭内閣情報官 秋葉剛男事務次官 小林賢一南部アジア部長",
+   "minutes": 9
+  },
+  {
+   "start": "18:20",
+   "end": "18:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "18:53",
+   "end": "18:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 19
+  },
+  {
+   "start": "19:14",
+   "end": "19:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "19:20",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 280
+  }
+ ],
+ "alloc_min": {
+  "居所": 691,
+  "移動": 17,
+  "公務（内容未詳）": 186,
+  "面会・会談": 52,
+  "国会": 431,
+  "官邸執務": 54,
+  "党務": 9
+ }
+}

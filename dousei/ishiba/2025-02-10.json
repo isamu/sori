@@ -1,0 +1,280 @@
+{
+ "date": "2025-02-10",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 659,
+ "residence_min": 781,
+ "meetings": 3,
+ "first_work": "09:30",
+ "events": [
+  {
+   "time": "09:30",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:31",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:49",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:56",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "14:05",
+   "label": "岡野正敬国家安全保障局長 船越健裕事務次官 鯰博行審議官 赤堀毅審議官 中村仁威軍縮不拡散・科学部長 有馬裕北米局長 安藤俊英中東アフリカ局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:50",
+   "label": "大和太郎防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:25",
+   "label": "橘慶一郎官房副長官 鈴木敦夫官房副長官補 鯰博行審議官 石月英雄国際協力局長 渡辺洋一審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:16",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:18",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:42",
+   "label": "慶応大の法律サークル「律法会」の同期らと会食",
+   "place": "東京・六本木 会員制社交クラブ「東京倶楽部」",
+   "category": "会食"
+  },
+  {
+   "time": "20:23",
+   "label": "移動",
+   "place": "東京・六本木 会員制社交クラブ「東京倶楽部」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 570
+  },
+  {
+   "start": "09:30",
+   "end": "09:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 69
+  },
+  {
+   "start": "10:40",
+   "end": "10:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "10:49",
+   "end": "10:56",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 7
+  },
+  {
+   "start": "10:56",
+   "end": "11:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "11:06",
+   "end": "14:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 179
+  },
+  {
+   "start": "14:05",
+   "end": "14:45",
+   "category": "面会・会談",
+   "label": "岡野正敬国家安全保障局長 船越健裕事務次官 鯰博行審議官 赤堀毅審議官 中村仁威軍縮不拡散・科学部長 有馬裕北米局長 安藤俊英中東アフリカ局長",
+   "minutes": 40
+  },
+  {
+   "start": "14:45",
+   "end": "14:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "14:50",
+   "end": "15:17",
+   "category": "面会・会談",
+   "label": "大和太郎防衛政策局長",
+   "minutes": 27
+  },
+  {
+   "start": "15:17",
+   "end": "15:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "15:25",
+   "end": "15:59",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官 鈴木敦夫官房副長官補 鯰博行審議官 石月英雄国際協力局長 渡辺洋一審議官",
+   "minutes": 34
+  },
+  {
+   "start": "15:59",
+   "end": "16:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "16:56",
+   "end": "16:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:57",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:02",
+   "end": "17:12",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 10
+  },
+  {
+   "start": "17:12",
+   "end": "17:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:16",
+   "end": "17:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 78
+  },
+  {
+   "start": "18:36",
+   "end": "18:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:42",
+   "end": "20:23",
+   "category": "会食",
+   "label": "慶応大の法律サークル「律法会」の同期らと会食",
+   "minutes": 101
+  },
+  {
+   "start": "20:23",
+   "end": "20:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "20:29",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 211
+  }
+ ],
+ "alloc_min": {
+  "居所": 781,
+  "移動": 35,
+  "官邸執務": 147,
+  "式典・行事": 7,
+  "公務（内容未詳）": 258,
+  "面会・会談": 101,
+  "党務": 10,
+  "会食": 101
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "date": "2022-01-22",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 0,
+ "residence_min": 1440,
+ "meetings": 0,
+ "first_work": "—",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "公邸に滞在",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "居所": 1440
+ }
+}

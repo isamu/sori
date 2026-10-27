@@ -1,0 +1,130 @@
+{
+ "date": "2025-09-20",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 95,
+ "residence_min": 1284,
+ "meetings": 0,
+ "first_work": "08:52",
+ "events": [
+  {
+   "time": "08:52",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:01",
+   "label": "同ホテル内の「ヒロ銀座パレスホテル東京店」で散髪",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "個人"
+  },
+  {
+   "time": "10:02",
+   "label": "移動",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": "10:10",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:03",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:14",
+   "label": "公益社団法人「ふるさと回帰・移住交流推進機構」の組織統合記念レセプションに出席。あいさつ。記念撮影",
+   "place": "東京・丸の内 東京国際フォーラム",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:14",
+   "label": "移動",
+   "place": "東京・丸の内 東京国際フォーラム",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 532
+  },
+  {
+   "start": "08:52",
+   "end": "09:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "09:01",
+   "end": "10:02",
+   "category": "個人",
+   "label": "同ホテル内の「ヒロ銀座パレスホテル東京店」で散髪",
+   "minutes": 61
+  },
+  {
+   "start": "10:02",
+   "end": "10:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:10",
+   "end": "18:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 473
+  },
+  {
+   "start": "18:03",
+   "end": "18:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:14",
+   "end": "19:14",
+   "category": "式典・行事",
+   "label": "公益社団法人「ふるさと回帰・移住交流推進機構」の組織統合記念レセプションに出席。あいさつ。記念撮影",
+   "minutes": 60
+  },
+  {
+   "start": "19:14",
+   "end": "19:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "19:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 279
+  }
+ ],
+ "alloc_min": {
+  "居所": 1284,
+  "移動": 35,
+  "個人": 61,
+  "式典・行事": 60
+ }
+}

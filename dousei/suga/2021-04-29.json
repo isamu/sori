@@ -1,0 +1,92 @@
+{
+ "date": "2021-04-29",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 225,
+ "residence_min": 1215,
+ "meetings": 1,
+ "first_work": "12:53",
+ "events": [
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "14:57",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:32",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 773
+  },
+  {
+   "start": "12:53",
+   "end": "12:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:57",
+   "end": "14:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 120
+  },
+  {
+   "start": "14:57",
+   "end": "15:55",
+   "category": "面会・会談",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官",
+   "minutes": 58
+  },
+  {
+   "start": "15:55",
+   "end": "16:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "16:32",
+   "end": "16:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "16:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 442
+  }
+ ],
+ "alloc_min": {
+  "居所": 1215,
+  "移動": 10,
+  "公務（内容未詳）": 157,
+  "面会・会談": 58
+ }
+}

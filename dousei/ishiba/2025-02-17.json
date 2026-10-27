@@ -1,0 +1,355 @@
+{
+ "date": "2025-02-17",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 735,
+ "residence_min": 705,
+ "meetings": 4,
+ "first_work": "08:16",
+ "events": [
+  {
+   "time": "08:16",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:17",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:47",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:52",
+   "label": "加藤勝信財務相 中谷元防衛相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "稲田朋美元防衛相",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:08",
+   "label": "元財務省近畿財務局職員の故赤木俊夫さんの妻雅子さん",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:09",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:56",
+   "label": "岩屋毅外相 加藤勝信財務相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:04",
+   "label": "党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:15",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:41",
+   "label": "全国高校生政策甲子園最優秀チームの表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:06",
+   "label": "城内実経済安全保障担当相 阪田渉官房副長官補 中石斉孝健康・医療戦略推進事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "斉藤鉄夫公明党代表ら同党役員と会食。林芳正、橘慶一郎、青木一彦正副官房長官同席",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 496
+  },
+  {
+   "start": "08:16",
+   "end": "08:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 30
+  },
+  {
+   "start": "08:47",
+   "end": "08:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:48",
+   "end": "08:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:52",
+   "end": "08:55",
+   "category": "国会",
+   "label": "加藤勝信財務相 中谷元防衛相",
+   "minutes": 3
+  },
+  {
+   "start": "08:55",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:59",
+   "end": "12:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 182
+  },
+  {
+   "start": "12:01",
+   "end": "12:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "12:05",
+   "end": "12:06",
+   "category": "面会・会談",
+   "label": "稲田朋美元防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "12:06",
+   "end": "12:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:08",
+   "end": "12:09",
+   "category": "国会",
+   "label": "元財務省近畿財務局職員の故赤木俊夫さんの妻雅子さん",
+   "minutes": 1
+  },
+  {
+   "start": "12:09",
+   "end": "12:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 42
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:53",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:56",
+   "end": "12:57",
+   "category": "国会",
+   "label": "岩屋毅外相 加藤勝信財務相",
+   "minutes": 1
+  },
+  {
+   "start": "12:57",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:00",
+   "end": "17:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 241
+  },
+  {
+   "start": "17:01",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:04",
+   "end": "17:13",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 9
+  },
+  {
+   "start": "17:13",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:15",
+   "end": "17:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:17",
+   "end": "17:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "17:41",
+   "end": "18:05",
+   "category": "面会・会談",
+   "label": "全国高校生政策甲子園最優秀チームの表敬",
+   "minutes": 24
+  },
+  {
+   "start": "18:05",
+   "end": "18:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:06",
+   "end": "18:19",
+   "category": "面会・会談",
+   "label": "城内実経済安全保障担当相 阪田渉官房副長官補 中石斉孝健康・医療戦略推進事務局長",
+   "minutes": 13
+  },
+  {
+   "start": "18:19",
+   "end": "18:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "18:26",
+   "end": "18:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:27",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:30",
+   "end": "20:31",
+   "category": "会食",
+   "label": "斉藤鉄夫公明党代表ら同党役員と会食。林芳正、橘慶一郎、青木一彦正副官房長官同席",
+   "minutes": 121
+  },
+  {
+   "start": "20:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 209
+  }
+ ],
+ "alloc_min": {
+  "居所": 705,
+  "移動": 7,
+  "官邸執務": 72,
+  "公務（内容未詳）": 60,
+  "国会": 428,
+  "面会・会談": 38,
+  "党務": 9,
+  "会食": 121
+ }
+}

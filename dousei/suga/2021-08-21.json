@@ -1,0 +1,104 @@
+{
+ "date": "2021-08-21",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 144,
+ "residence_min": 1269,
+ "meetings": 0,
+ "first_work": "09:44",
+ "events": [
+  {
+   "time": "09:44",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:02",
+   "label": "人間ドックのフォローアップ",
+   "place": "東京・代々木 ＪＲ東京総合病院",
+   "category": "個人"
+  },
+  {
+   "time": "10:29",
+   "label": "移動",
+   "place": "東京・代々木 ＪＲ東京総合病院",
+   "category": "移動"
+  },
+  {
+   "time": "10:48",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "12:29",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 584
+  },
+  {
+   "start": "09:44",
+   "end": "10:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "10:02",
+   "end": "10:29",
+   "category": "個人",
+   "label": "人間ドックのフォローアップ",
+   "minutes": 27
+  },
+  {
+   "start": "10:29",
+   "end": "10:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 101
+  },
+  {
+   "start": "12:29",
+   "end": "12:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "12:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 685
+  }
+ ],
+ "alloc_min": {
+  "居所": 1269,
+  "移動": 43,
+  "個人": 27,
+  "公務（内容未詳）": 101
+ }
+}

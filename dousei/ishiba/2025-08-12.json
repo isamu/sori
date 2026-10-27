@@ -1,0 +1,151 @@
+{
+ "date": "2025-08-12",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 376,
+ "residence_min": 1064,
+ "meetings": 0,
+ "first_work": "09:00",
+ "events": [
+  {
+   "time": "09:00",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:19",
+   "label": "弔問。佳子夫人同席",
+   "place": "千葉県勝浦市 海上自衛隊イージス艦衝突事故の遺族宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:31",
+   "label": "近隣住民らと握手。写真撮影",
+   "place": "千葉県勝浦市 海上自衛隊イージス艦衝突事故の遺族宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:36",
+   "label": "移動",
+   "place": "千葉県勝浦市 海上自衛隊イージス艦衝突事故の遺族宅",
+   "category": "移動"
+  },
+  {
+   "time": "11:39",
+   "label": "遺族らと会食。佳子夫人同席",
+   "place": "同市 すし店「勝美」",
+   "category": "会食"
+  },
+  {
+   "time": "13:15",
+   "label": "移動",
+   "place": "同市 すし店「勝美」",
+   "category": "移動"
+  },
+  {
+   "time": "15:10",
+   "label": "国立国会図書館",
+   "place": "国立国会図書館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "15:13",
+   "label": "移動",
+   "place": "国立国会図書館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 540
+  },
+  {
+   "start": "09:00",
+   "end": "11:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 139
+  },
+  {
+   "start": "11:19",
+   "end": "11:31",
+   "category": "式典・行事",
+   "label": "弔問。佳子夫人同席",
+   "minutes": 12
+  },
+  {
+   "start": "11:31",
+   "end": "11:35",
+   "category": "式典・行事",
+   "label": "近隣住民らと握手。写真撮影",
+   "minutes": 4
+  },
+  {
+   "start": "11:35",
+   "end": "11:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:36",
+   "end": "11:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:39",
+   "end": "13:15",
+   "category": "会食",
+   "label": "遺族らと会食。佳子夫人同席",
+   "minutes": 96
+  },
+  {
+   "start": "13:15",
+   "end": "15:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 115
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "15:13",
+   "end": "15:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "15:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 524
+  }
+ ],
+ "alloc_min": {
+  "居所": 1064,
+  "移動": 260,
+  "式典・行事": 16,
+  "公務（内容未詳）": 4,
+  "会食": 96
+ }
+}

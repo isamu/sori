@@ -1,0 +1,399 @@
+{
+ "date": "2025-06-23",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 904,
+ "residence_min": 536,
+ "meetings": 1,
+ "first_work": "06:51",
+ "events": [
+  {
+   "time": "06:51",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:15",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "伊東良孝沖縄・北方担当相、池田竹州沖縄県副知事が出迎え",
+   "place": "那覇空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:24",
+   "label": "移動",
+   "place": "那覇空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:59",
+   "label": "同公園内の国立沖縄戦没者墓苑で献花",
+   "place": "同県糸満市 平和祈念公園",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:04",
+   "label": "同公園内の島守の塔着。献花",
+   "place": "同県糸満市 平和祈念公園",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:30",
+   "label": "同公園内の沖縄平和祈念堂で玉城デニー沖縄県知事。伊東沖縄・北方担当相同席",
+   "place": "同県糸満市 平和祈念公園",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:47",
+   "label": "同公園内の沖縄全戦没者追悼式会場着。追悼式に出席し、献花。あいさつ",
+   "place": "同県糸満市 平和祈念公園",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:17",
+   "label": "移動",
+   "place": "同県糸満市 平和祈念公園",
+   "category": "移動"
+  },
+  {
+   "time": "13:23",
+   "label": "昼食",
+   "place": "同市 「沖縄食堂にじや　南山カントリー店」",
+   "category": "会食"
+  },
+  {
+   "time": "14:00",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "14:10",
+   "label": "献花",
+   "place": "同市 ひめゆりの塔",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:16",
+   "label": "普天間朝佳館長の案内で視察",
+   "place": "ひめゆり平和祈念資料館",
+   "category": "視察"
+  },
+  {
+   "time": "14:59",
+   "label": "報道各社のインタビュー",
+   "place": "ひめゆり平和祈念資料館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:14",
+   "label": "移動",
+   "place": "ひめゆり平和祈念資料館",
+   "category": "移動"
+  },
+  {
+   "time": "16:34",
+   "label": "利用客らと握手",
+   "place": "那覇空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:13",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:31",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:53",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "20:11",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:01",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:11",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 411
+  },
+  {
+   "start": "06:51",
+   "end": "07:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "07:15",
+   "end": "07:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "07:50",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 126
+  },
+  {
+   "start": "09:56",
+   "end": "10:24",
+   "category": "移動",
+   "label": "伊東良孝沖縄・北方担当相、池田竹州沖縄県副知事が出迎え",
+   "minutes": 28
+  },
+  {
+   "start": "10:24",
+   "end": "10:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "10:59",
+   "end": "11:02",
+   "category": "式典・行事",
+   "label": "同公園内の国立沖縄戦没者墓苑で献花",
+   "minutes": 3
+  },
+  {
+   "start": "11:02",
+   "end": "11:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:04",
+   "end": "11:07",
+   "category": "式典・行事",
+   "label": "同公園内の島守の塔着。献花",
+   "minutes": 3
+  },
+  {
+   "start": "11:07",
+   "end": "11:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "11:30",
+   "end": "11:35",
+   "category": "面会・会談",
+   "label": "同公園内の沖縄平和祈念堂で玉城デニー沖縄県知事。伊東沖縄・北方担当相同席",
+   "minutes": 5
+  },
+  {
+   "start": "11:35",
+   "end": "11:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "11:47",
+   "end": "13:17",
+   "category": "式典・行事",
+   "label": "同公園内の沖縄全戦没者追悼式会場着。追悼式に出席し、献花。あいさつ",
+   "minutes": 90
+  },
+  {
+   "start": "13:17",
+   "end": "13:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "13:23",
+   "end": "14:00",
+   "category": "会食",
+   "label": "昼食",
+   "minutes": 37
+  },
+  {
+   "start": "14:00",
+   "end": "14:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "14:10",
+   "end": "14:16",
+   "category": "式典・行事",
+   "label": "献花",
+   "minutes": 6
+  },
+  {
+   "start": "14:16",
+   "end": "14:48",
+   "category": "視察",
+   "label": "普天間朝佳館長の案内で視察",
+   "minutes": 32
+  },
+  {
+   "start": "14:48",
+   "end": "14:59",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "14:59",
+   "end": "15:10",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 11
+  },
+  {
+   "start": "15:10",
+   "end": "15:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:14",
+   "end": "15:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "15:34",
+   "end": "16:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "16:34",
+   "end": "16:36",
+   "category": "移動",
+   "label": "利用客らと握手",
+   "minutes": 2
+  },
+  {
+   "start": "16:36",
+   "end": "19:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 157
+  },
+  {
+   "start": "19:13",
+   "end": "19:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "19:31",
+   "end": "19:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "19:53",
+   "end": "20:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 18
+  },
+  {
+   "start": "20:11",
+   "end": "20:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "20:12",
+   "end": "21:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "21:01",
+   "end": "21:48",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 47
+  },
+  {
+   "start": "21:48",
+   "end": "22:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "22:11",
+   "end": "22:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "22:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 107
+  }
+ ],
+ "alloc_min": {
+  "居所": 536,
+  "移動": 203,
+  "公務（内容未詳）": 456,
+  "式典・行事": 102,
+  "面会・会談": 5,
+  "会食": 37,
+  "視察": 43,
+  "取材・会見": 58
+ }
+}

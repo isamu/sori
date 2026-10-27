@@ -1,0 +1,92 @@
+{
+ "date": "2021-01-02",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 60,
+ "residence_min": 1380,
+ "meetings": 1,
+ "first_work": "13:45",
+ "events": [
+  {
+   "time": "13:45",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:07",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 825
+  },
+  {
+   "start": "13:45",
+   "end": "13:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:48",
+   "end": "13:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:55",
+   "end": "14:40",
+   "category": "面会・会談",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "minutes": 45
+  },
+  {
+   "start": "14:40",
+   "end": "17:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 147
+  },
+  {
+   "start": "17:07",
+   "end": "17:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "17:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 408
+  }
+ ],
+ "alloc_min": {
+  "居所": 1380,
+  "移動": 8,
+  "公務（内容未詳）": 7,
+  "面会・会談": 45
+ }
+}

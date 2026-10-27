@@ -1,0 +1,388 @@
+{
+ "date": "2021-07-09",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 626,
+ "residence_min": 762,
+ "meetings": 9,
+ "first_work": "07:53",
+ "events": [
+  {
+   "time": "07:53",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:58",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "08:50",
+   "label": "沖田芳樹内閣危機管理監 長谷川直之気象庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:49",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:13",
+   "label": "西村康稔経済再生担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:15",
+   "label": "茂木敏充外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:45",
+   "label": "北村新司千葉県八街市長。秋本真利自民党衆院議員同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:01",
+   "label": "神田真人国際局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:02",
+   "label": "武田良太総務相と会食",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "14:00",
+   "label": "大雨に関する非常災害対策本部会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:30",
+   "label": "宮家邦彦参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:46",
+   "label": "梶山弘志経済産業相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:10",
+   "label": "日米学生会議向けのビデオメッセージ収録",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:00",
+   "label": "滝沢裕昭内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:12",
+   "label": "平田竹男参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:28",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:29",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:05",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 473
+  },
+  {
+   "start": "07:53",
+   "end": "07:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "07:58",
+   "end": "08:50",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 52
+  },
+  {
+   "start": "08:50",
+   "end": "09:07",
+   "category": "面会・会談",
+   "label": "沖田芳樹内閣危機管理監 長谷川直之気象庁長官",
+   "minutes": 17
+  },
+  {
+   "start": "09:07",
+   "end": "09:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "09:49",
+   "end": "09:52",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "09:52",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "10:01",
+   "end": "10:12",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "10:12",
+   "end": "10:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:13",
+   "end": "10:14",
+   "category": "面会・会談",
+   "label": "西村康稔経済再生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "10:14",
+   "end": "10:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:15",
+   "end": "10:17",
+   "category": "面会・会談",
+   "label": "茂木敏充外相",
+   "minutes": 2
+  },
+  {
+   "start": "10:17",
+   "end": "10:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "10:45",
+   "end": "11:00",
+   "category": "面会・会談",
+   "label": "北村新司千葉県八街市長。秋本真利自民党衆院議員同席",
+   "minutes": 15
+  },
+  {
+   "start": "11:00",
+   "end": "11:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:01",
+   "end": "11:15",
+   "category": "面会・会談",
+   "label": "神田真人国際局長",
+   "minutes": 14
+  },
+  {
+   "start": "11:15",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "12:02",
+   "end": "12:32",
+   "category": "会食",
+   "label": "武田良太総務相と会食",
+   "minutes": 30
+  },
+  {
+   "start": "12:32",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 88
+  },
+  {
+   "start": "14:00",
+   "end": "14:20",
+   "category": "官邸執務",
+   "label": "大雨に関する非常災害対策本部会議",
+   "minutes": 20
+  },
+  {
+   "start": "14:20",
+   "end": "14:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "14:30",
+   "end": "14:45",
+   "category": "面会・会談",
+   "label": "宮家邦彦参与",
+   "minutes": 15
+  },
+  {
+   "start": "14:45",
+   "end": "14:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:46",
+   "end": "14:54",
+   "category": "面会・会談",
+   "label": "梶山弘志経済産業相",
+   "minutes": 8
+  },
+  {
+   "start": "14:54",
+   "end": "15:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "15:10",
+   "end": "15:18",
+   "category": "官邸執務",
+   "label": "日米学生会議向けのビデオメッセージ収録",
+   "minutes": 8
+  },
+  {
+   "start": "15:18",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "16:00",
+   "end": "16:10",
+   "category": "面会・会談",
+   "label": "滝沢裕昭内閣情報官",
+   "minutes": 10
+  },
+  {
+   "start": "16:10",
+   "end": "18:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 122
+  },
+  {
+   "start": "18:12",
+   "end": "18:27",
+   "category": "面会・会談",
+   "label": "平田竹男参与",
+   "minutes": 15
+  },
+  {
+   "start": "18:27",
+   "end": "18:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:28",
+   "end": "18:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 36
+  },
+  {
+   "start": "19:05",
+   "end": "19:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "19:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 289
+  }
+ ],
+ "alloc_min": {
+  "居所": 762,
+  "移動": 12,
+  "個人": 52,
+  "面会・会談": 97,
+  "公務（内容未詳）": 445,
+  "取材・会見": 3,
+  "官邸執務": 39,
+  "会食": 30
+ }
+}

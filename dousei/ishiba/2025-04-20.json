@@ -1,0 +1,170 @@
+{
+ "date": "2025-04-20",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 96,
+ "residence_min": 1344,
+ "meetings": 0,
+ "first_work": "08:33",
+ "events": [
+  {
+   "time": "08:33",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "報道番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "10:29",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:33",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "20:23",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:27",
+   "label": "自民党の森山裕幹事長、小野寺五典政調会長と面会",
+   "place": "同議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "22:12",
+   "label": "移動",
+   "place": "同議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 513
+  },
+  {
+   "start": "08:33",
+   "end": "08:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "08:36",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "09:00",
+   "end": "09:26",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 26
+  },
+  {
+   "start": "09:26",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "09:52",
+   "end": "09:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "09:58",
+   "end": "10:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 31
+  },
+  {
+   "start": "10:29",
+   "end": "10:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "10:33",
+   "end": "20:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 590
+  },
+  {
+   "start": "20:23",
+   "end": "20:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "20:27",
+   "end": "22:12",
+   "category": "居所",
+   "label": "自民党の森山裕幹事長、小野寺五典政調会長と面会",
+   "minutes": 105
+  },
+  {
+   "start": "22:12",
+   "end": "22:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "22:15",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 105
+  }
+ ],
+ "alloc_min": {
+  "居所": 1344,
+  "移動": 20,
+  "公務（内容未詳）": 50,
+  "取材・会見": 26
+ }
+}

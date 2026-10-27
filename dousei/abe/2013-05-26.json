@@ -1,0 +1,89 @@
+{
+ "date": "2013-05-26",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2013.05.26",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間26日）午前、政府専用機でヤンゴン国際空港発",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ネピドー国際空港着",
+   "place": "ネピドー国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ネピドーの大統領官邸で歓迎式典",
+   "place": "ネピドー国際空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "テインセイン大統領と会談",
+   "place": "ネピドー国際空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日ミャンマー官民会合に出席",
+   "place": "ネピドー国際空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "午後、交換公文署名式",
+   "place": "ネピドー国際空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "テインセイン大統領と共同記者会見",
+   "place": "ネピドー国際空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "国際会議場で大統領主催の昼食会",
+   "place": "ネピドー国際空港",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "政府専用機でネピドー国際空港発",
+   "place": "ネピドー国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ヤンゴン国際空港着",
+   "place": "ヤンゴン国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "政府専用機で同空港発",
+   "place": "ヤンゴン国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

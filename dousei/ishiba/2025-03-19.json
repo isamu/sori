@@ -1,0 +1,340 @@
+{
+ "date": "2025-03-19",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 821,
+ "residence_min": 619,
+ "meetings": 5,
+ "first_work": "06:27",
+ "events": [
+  {
+   "time": "06:27",
+   "label": "青木一彦官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:30",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:36",
+   "label": "青木一彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:53",
+   "label": "岩屋毅外相 加藤勝信財務相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "08:58",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:59",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:18",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:31",
+   "label": "北朝鮮による拉致被害者の地村保志さん、「北朝鮮に拉致された日本人を救う福井の会」顧問の杉本和範福井県小浜市長から要望書、署名簿受け取り。林芳正官房長官兼拉致問題担当相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:56",
+   "label": "欧州大使会議出席者",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:29",
+   "label": "田中弥生会計検査院長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:40",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "20:07",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 387
+  },
+  {
+   "start": "06:27",
+   "end": "07:29",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 62
+  },
+  {
+   "start": "07:29",
+   "end": "07:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "07:30",
+   "end": "07:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "07:32",
+   "end": "07:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "07:36",
+   "end": "08:38",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 62
+  },
+  {
+   "start": "08:38",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:50",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:53",
+   "end": "08:55",
+   "category": "国会",
+   "label": "岩屋毅外相 加藤勝信財務相",
+   "minutes": 2
+  },
+  {
+   "start": "08:55",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:58",
+   "end": "11:54",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 176
+  },
+  {
+   "start": "11:54",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:57",
+   "end": "11:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 53
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:53",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "17:15",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 255
+  },
+  {
+   "start": "17:15",
+   "end": "17:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:18",
+   "end": "17:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:20",
+   "end": "17:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "17:31",
+   "end": "17:55",
+   "category": "面会・会談",
+   "label": "北朝鮮による拉致被害者の地村保志さん、「北朝鮮に拉致された日本人を救う福井の会」顧問の杉本和範福井県小浜市長から要望書、署名簿受け取り。林芳正官房長官兼拉致問題担当相同席",
+   "minutes": 24
+  },
+  {
+   "start": "17:55",
+   "end": "17:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:56",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "欧州大使会議出席者",
+   "minutes": 24
+  },
+  {
+   "start": "18:20",
+   "end": "18:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "18:29",
+   "end": "18:39",
+   "category": "面会・会談",
+   "label": "田中弥生会計検査院長",
+   "minutes": 10
+  },
+  {
+   "start": "18:39",
+   "end": "18:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:40",
+   "end": "18:56",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 16
+  },
+  {
+   "start": "18:56",
+   "end": "20:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "20:07",
+   "end": "20:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "20:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 231
+  }
+ ],
+ "alloc_min": {
+  "居所": 619,
+  "面会・会談": 182,
+  "移動": 11,
+  "公務（内容未詳）": 126,
+  "国会": 433,
+  "官邸執務": 69
+ }
+}

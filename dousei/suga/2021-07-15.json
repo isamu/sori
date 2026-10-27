@@ -1,0 +1,281 @@
+{
+ "date": "2021-07-15",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 662,
+ "residence_min": 714,
+ "meetings": 2,
+ "first_work": "07:22",
+ "events": [
+  {
+   "time": "07:22",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:26",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "08:30",
+   "label": "ダグラス・ピーターソン米日経済協議会会長らとテレビ会議方式で意見交換",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "11:50",
+   "label": "野口聡一宇宙飛行士の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:00",
+   "label": "関口昌一自民党参院議員会長と会食",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "14:05",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:29",
+   "label": "東京五輪・パラリンピック関係者に対する新型コロナウイルスの水際対策の状況などを視察",
+   "place": "成田空港",
+   "category": "視察"
+  },
+  {
+   "time": "16:45",
+   "label": "報道各社のインタビュー",
+   "place": "成田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:51",
+   "label": "移動",
+   "place": "成田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:55",
+   "label": "同署員を激励",
+   "place": "成田空港警察署",
+   "category": "視察"
+  },
+  {
+   "time": "17:09",
+   "label": "移動",
+   "place": "成田空港警察署",
+   "category": "移動"
+  },
+  {
+   "time": "18:21",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:30",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:34",
+   "label": "木村弥生自民党衆院議員",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:23",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 442
+  },
+  {
+   "start": "07:22",
+   "end": "07:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "07:26",
+   "end": "08:30",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 64
+  },
+  {
+   "start": "08:30",
+   "end": "08:54",
+   "category": "取材・会見",
+   "label": "ダグラス・ピーターソン米日経済協議会会長らとテレビ会議方式で意見交換",
+   "minutes": 24
+  },
+  {
+   "start": "08:54",
+   "end": "11:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 176
+  },
+  {
+   "start": "11:50",
+   "end": "11:58",
+   "category": "面会・会談",
+   "label": "野口聡一宇宙飛行士の表敬",
+   "minutes": 8
+  },
+  {
+   "start": "11:58",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:00",
+   "end": "12:29",
+   "category": "会食",
+   "label": "関口昌一自民党参院議員会長と会食",
+   "minutes": 29
+  },
+  {
+   "start": "12:29",
+   "end": "14:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 96
+  },
+  {
+   "start": "14:05",
+   "end": "15:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 84
+  },
+  {
+   "start": "15:29",
+   "end": "16:45",
+   "category": "視察",
+   "label": "東京五輪・パラリンピック関係者に対する新型コロナウイルスの水際対策の状況などを視察",
+   "minutes": 76
+  },
+  {
+   "start": "16:45",
+   "end": "16:50",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 5
+  },
+  {
+   "start": "16:50",
+   "end": "16:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:51",
+   "end": "16:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "16:55",
+   "end": "17:09",
+   "category": "視察",
+   "label": "同署員を激励",
+   "minutes": 14
+  },
+  {
+   "start": "17:09",
+   "end": "18:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 72
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 9
+  },
+  {
+   "start": "18:30",
+   "end": "18:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:31",
+   "end": "18:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:34",
+   "end": "18:45",
+   "category": "面会・会談",
+   "label": "木村弥生自民党衆院議員",
+   "minutes": 11
+  },
+  {
+   "start": "18:45",
+   "end": "19:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "19:23",
+   "end": "19:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 272
+  }
+ ],
+ "alloc_min": {
+  "居所": 714,
+  "移動": 170,
+  "個人": 64,
+  "取材・会見": 29,
+  "公務（内容未詳）": 316,
+  "面会・会談": 19,
+  "会食": 29,
+  "視察": 90,
+  "官邸執務": 9
+ }
+}

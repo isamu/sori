@@ -1,0 +1,108 @@
+{
+ "date": "2025-04-27",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 848,
+ "residence_min": 592,
+ "meetings": 0,
+ "first_work": "09:52",
+ "events": [
+  {
+   "time": "09:52",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:56",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:16",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "「ホテル・デュ・パルク・ハノイ」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "トー・ラム氏主催夕食会",
+   "place": "共産党本部",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "トー・ラム共産党書記長と会談",
+   "place": "共産党本部",
+   "category": "党務"
+  },
+  {
+   "time": null,
+   "label": "日本企業関係者と車座対話",
+   "place": "ハノイ近郊のタンロン工業団地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "視察",
+   "place": "ハノイ近郊のタンロン工業団地",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ベトナム・ハノイのノイバイ国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 592
+  },
+  {
+   "start": "09:52",
+   "end": "09:56",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 4
+  },
+  {
+   "start": "09:56",
+   "end": "10:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "10:16",
+   "end": "10:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "10:37",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 803
+  }
+ ],
+ "alloc_min": {
+  "居所": 592,
+  "取材・会見": 4,
+  "移動": 41,
+  "外遊": 803
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "date": "2021-07-12",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 627,
+ "residence_min": 757,
+ "meetings": 3,
+ "first_work": "07:53",
+ "events": [
+  {
+   "time": "07:53",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:57",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "08:53",
+   "label": "沖田芳樹内閣危機管理監 榊真一政策統括官 長谷川直之気象庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:56",
+   "label": "井上信治科学技術担当相 和泉洋人首相補佐官 田中茂明知的財産戦略推進事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:08",
+   "label": "井上信治科学技術担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:22",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "13:14",
+   "label": "ＪＲ熱海駅",
+   "place": "ＪＲ熱海駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:20",
+   "label": "移動",
+   "place": "ＪＲ熱海駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:48",
+   "label": "川勝平太静岡県知事、斉藤栄熱海市長出迎え。土石流災害の現場を視察",
+   "place": "静岡県熱海市伊豆山地区",
+   "category": "視察"
+  },
+  {
+   "time": "14:16",
+   "label": "移動",
+   "place": "静岡県熱海市伊豆山地区",
+   "category": "移動"
+  },
+  {
+   "time": "14:42",
+   "label": "避難所を視察。川勝静岡県知事、斉藤熱海市長と意見交換",
+   "place": "同市の熱海ニューフジヤホテル",
+   "category": "視察"
+  },
+  {
+   "time": "15:43",
+   "label": "報道各社のインタビュー",
+   "place": "同市の熱海ニューフジヤホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:52",
+   "label": "移動",
+   "place": "同市の熱海ニューフジヤホテル",
+   "category": "移動"
+  },
+  {
+   "time": "15:58",
+   "label": "ＪＲ熱海駅",
+   "place": "ＪＲ熱海駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:19",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "17:23",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:36",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:28",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:11",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 473
+  },
+  {
+   "start": "07:53",
+   "end": "07:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "07:57",
+   "end": "08:53",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 56
+  },
+  {
+   "start": "08:53",
+   "end": "09:05",
+   "category": "面会・会談",
+   "label": "沖田芳樹内閣危機管理監 榊真一政策統括官 長谷川直之気象庁長官",
+   "minutes": 12
+  },
+  {
+   "start": "09:05",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "09:56",
+   "end": "10:07",
+   "category": "面会・会談",
+   "label": "井上信治科学技術担当相 和泉洋人首相補佐官 田中茂明知的財産戦略推進事務局長",
+   "minutes": 11
+  },
+  {
+   "start": "10:07",
+   "end": "10:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:08",
+   "end": "10:09",
+   "category": "面会・会談",
+   "label": "井上信治科学技術担当相",
+   "minutes": 1
+  },
+  {
+   "start": "10:09",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 118
+  },
+  {
+   "start": "12:07",
+   "end": "12:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "12:22",
+   "end": "12:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:27",
+   "end": "13:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "13:14",
+   "end": "13:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "13:20",
+   "end": "13:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "13:48",
+   "end": "14:16",
+   "category": "視察",
+   "label": "川勝平太静岡県知事、斉藤栄熱海市長出迎え。土石流災害の現場を視察",
+   "minutes": 28
+  },
+  {
+   "start": "14:16",
+   "end": "14:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "14:42",
+   "end": "15:43",
+   "category": "視察",
+   "label": "避難所を視察。川勝静岡県知事、斉藤熱海市長と意見交換",
+   "minutes": 61
+  },
+  {
+   "start": "15:43",
+   "end": "15:49",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 6
+  },
+  {
+   "start": "15:49",
+   "end": "15:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:52",
+   "end": "15:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "15:58",
+   "end": "16:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "16:35",
+   "end": "17:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "17:19",
+   "end": "17:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:23",
+   "end": "17:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 50
+  },
+  {
+   "start": "18:26",
+   "end": "18:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 43
+  },
+  {
+   "start": "19:11",
+   "end": "19:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 284
+  }
+ ],
+ "alloc_min": {
+  "居所": 757,
+  "移動": 142,
+  "個人": 56,
+  "面会・会談": 24,
+  "公務（内容未詳）": 316,
+  "視察": 89,
+  "取材・会見": 6,
+  "官邸執務": 50
+ }
+}

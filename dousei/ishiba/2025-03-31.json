@@ -1,0 +1,583 @@
+{
+ "date": "2025-03-31",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 815,
+ "residence_min": 625,
+ "meetings": 3,
+ "first_work": "07:46",
+ "events": [
+  {
+   "time": "07:46",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:56",
+   "label": "「核兵器のない世界」に向けた国際賢人会議の白石隆座長ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:33",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "09:57",
+   "label": "ボスト米下院退役軍人問題委員長ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:04",
+   "label": "矢田稚子首相補佐官と昼食",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:29",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "14:32",
+   "label": "自民党の小泉進次郎・政治改革本部事務局長。林芳正、橘慶一郎正副官房長官同席",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "15:23",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:26",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:34",
+   "label": "参院の関口昌一議長、牧野京夫議院運営委員長、自民党、公明党などにあいさつ回り。加藤勝信財務相、林氏、青木一彦官房副長官、石井準一自民党参院国対委員長ら同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:55",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "16:22",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "16:32",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:52",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "17:54",
+   "label": "衆院の額賀福志郎、玄葉光一郎正副議長、浜田靖一議院運営委員長、自民党、公明党などにあいさつ回り。加藤財務相、林、橘正副官房長官、坂本哲志自民党国対委員長ら同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "18:14",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "18:17",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:35",
+   "label": "長橋和久復旧・復興支援総括官 高橋謙司政策統括官 野村竜一気象庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:01",
+   "label": "「若者・女性にも選ばれる地方」に関する車座対話",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "20:07",
+   "label": "「地方女子プロジェクト」の山本蓮代表のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:14",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:18",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "21:54",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 466
+  },
+  {
+   "start": "07:46",
+   "end": "07:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:47",
+   "end": "07:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "07:56",
+   "end": "08:36",
+   "category": "面会・会談",
+   "label": "「核兵器のない世界」に向けた国際賢人会議の白石隆座長ら",
+   "minutes": 40
+  },
+  {
+   "start": "08:36",
+   "end": "08:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "08:51",
+   "end": "08:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:53",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:00",
+   "end": "09:29",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 29
+  },
+  {
+   "start": "09:29",
+   "end": "09:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:33",
+   "end": "09:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:35",
+   "end": "09:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "09:57",
+   "end": "10:35",
+   "category": "面会・会談",
+   "label": "ボスト米下院退役軍人問題委員長ら",
+   "minutes": 38
+  },
+  {
+   "start": "10:35",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 89
+  },
+  {
+   "start": "12:04",
+   "end": "12:43",
+   "category": "会食",
+   "label": "矢田稚子首相補佐官と昼食",
+   "minutes": 39
+  },
+  {
+   "start": "12:43",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:53",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "12:57",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:01",
+   "end": "14:27",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 86
+  },
+  {
+   "start": "14:27",
+   "end": "14:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:29",
+   "end": "14:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:31",
+   "end": "14:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:32",
+   "end": "15:11",
+   "category": "党務",
+   "label": "自民党の小泉進次郎・政治改革本部事務局長。林芳正、橘慶一郎正副官房長官同席",
+   "minutes": 39
+  },
+  {
+   "start": "15:11",
+   "end": "15:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "15:23",
+   "end": "15:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:24",
+   "end": "15:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "15:33",
+   "end": "15:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:34",
+   "end": "15:52",
+   "category": "国会",
+   "label": "参院の関口昌一議長、牧野京夫議院運営委員長、自民党、公明党などにあいさつ回り。加藤勝信財務相、林氏、青木一彦官房副長官、石井準一自民党参院国対委員長ら同行",
+   "minutes": 18
+  },
+  {
+   "start": "15:52",
+   "end": "15:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 25
+  },
+  {
+   "start": "16:20",
+   "end": "16:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 8
+  },
+  {
+   "start": "16:30",
+   "end": "16:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:32",
+   "end": "17:51",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 79
+  },
+  {
+   "start": "17:51",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "17:53",
+   "end": "17:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:54",
+   "end": "18:13",
+   "category": "国会",
+   "label": "衆院の額賀福志郎、玄葉光一郎正副議長、浜田靖一議院運営委員長、自民党、公明党などにあいさつ回り。加藤財務相、林、橘正副官房長官、坂本哲志自民党国対委員長ら同行",
+   "minutes": 19
+  },
+  {
+   "start": "18:13",
+   "end": "18:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:14",
+   "end": "18:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:16",
+   "end": "18:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:17",
+   "end": "18:20",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "18:20",
+   "end": "18:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "18:35",
+   "end": "18:55",
+   "category": "面会・会談",
+   "label": "長橋和久復旧・復興支援総括官 高橋謙司政策統括官 野村竜一気象庁長官",
+   "minutes": 20
+  },
+  {
+   "start": "18:55",
+   "end": "19:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "19:01",
+   "end": "20:06",
+   "category": "官邸執務",
+   "label": "「若者・女性にも選ばれる地方」に関する車座対話",
+   "minutes": 65
+  },
+  {
+   "start": "20:06",
+   "end": "20:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:07",
+   "end": "20:24",
+   "category": "取材・会見",
+   "label": "「地方女子プロジェクト」の山本蓮代表のインタビュー",
+   "minutes": 17
+  },
+  {
+   "start": "20:24",
+   "end": "21:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "21:14",
+   "end": "21:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "21:18",
+   "end": "21:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 36
+  },
+  {
+   "start": "21:54",
+   "end": "21:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "21:57",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 123
+  }
+ ],
+ "alloc_min": {
+  "居所": 625,
+  "移動": 18,
+  "公務（内容未詳）": 262,
+  "面会・会談": 98,
+  "国会": 274,
+  "会食": 39,
+  "党務": 39,
+  "取材・会見": 20,
+  "官邸執務": 65
+ }
+}

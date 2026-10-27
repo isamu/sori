@@ -1,0 +1,486 @@
+{
+ "date": "2025-06-07",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 691,
+ "residence_min": 749,
+ "meetings": 2,
+ "first_work": "07:29",
+ "events": [
+  {
+   "time": "07:29",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:38",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "08:41",
+   "label": "ＪＲ高崎駅",
+   "place": "ＪＲ高崎駅",
+   "category": "移動"
+  },
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "ＪＲ高崎駅",
+   "category": "移動"
+  },
+  {
+   "time": "09:28",
+   "label": "視察。ジンズホールディングスの田中仁最高経営責任者（ＣＥＯ）らから説明聴取",
+   "place": "前橋市 地域交流拠点「ＪＩＮＳ　ＰＡＲＫ」",
+   "category": "視察"
+  },
+  {
+   "time": "10:06",
+   "label": "移動",
+   "place": "前橋市 地域交流拠点「ＪＩＮＳ　ＰＡＲＫ」",
+   "category": "移動"
+  },
+  {
+   "time": "10:21",
+   "label": "視察。ジンズＨＤの田中ＣＥＯ、小川晶同市長らと昼食",
+   "place": "同市 白井屋ホテル",
+   "category": "視察"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "視察",
+   "place": "同市 馬場川通り",
+   "category": "視察"
+  },
+  {
+   "time": "12:13",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "12:15",
+   "label": "視察",
+   "place": "同市 中央通り",
+   "category": "視察"
+  },
+  {
+   "time": "12:30",
+   "label": "シェアオフィス「ｃｏｍｍ」で地元経営者らと意見交換",
+   "place": "同市 中央通り",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:31",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "13:33",
+   "label": "視察",
+   "place": "同市 弁天通り",
+   "category": "視察"
+  },
+  {
+   "time": "13:39",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "13:42",
+   "label": "見学",
+   "place": "同市 「太陽の鐘」",
+   "category": "視察"
+  },
+  {
+   "time": "13:48",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "13:49",
+   "label": "視察",
+   "place": "同市 複合施設「まえばしガレリア」",
+   "category": "視察"
+  },
+  {
+   "time": "14:11",
+   "label": "移動",
+   "place": "同市 複合施設「まえばしガレリア」",
+   "category": "移動"
+  },
+  {
+   "time": "14:12",
+   "label": "視察",
+   "place": "同市立美術館「アーツ前橋」",
+   "category": "視察"
+  },
+  {
+   "time": "14:21",
+   "label": "移動",
+   "place": "同市立美術館「アーツ前橋」",
+   "category": "移動"
+  },
+  {
+   "time": "14:25",
+   "label": "ジンズＨＤの田中ＣＥＯ、共愛学園前橋国際大の大森昭生学長らとの意見交換。小川同市長同席",
+   "place": "同市 ＪＩＮＳサテライトオフィス",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:41",
+   "label": "報道各社のインタビュー",
+   "place": "同市 ＪＩＮＳサテライトオフィス",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:56",
+   "label": "移動",
+   "place": "同市 ＪＩＮＳサテライトオフィス",
+   "category": "移動"
+  },
+  {
+   "time": "16:32",
+   "label": "視察。山本一太同県知事同行",
+   "place": "群馬県高崎市 デジタル教育施設「ＴＵＭＯ　Ｇｕｎｍａ」",
+   "category": "視察"
+  },
+  {
+   "time": "17:01",
+   "label": "移動",
+   "place": "群馬県高崎市 デジタル教育施設「ＴＵＭＯ　Ｇｕｎｍａ」",
+   "category": "移動"
+  },
+  {
+   "time": "17:06",
+   "label": "ＪＲ高崎駅",
+   "place": "ＪＲ高崎駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:40",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "18:44",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "19:20",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 449
+  },
+  {
+   "start": "07:29",
+   "end": "07:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "07:38",
+   "end": "07:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "07:52",
+   "end": "08:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "08:41",
+   "end": "08:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "08:46",
+   "end": "09:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "09:28",
+   "end": "10:06",
+   "category": "視察",
+   "label": "視察。ジンズホールディングスの田中仁最高経営責任者（ＣＥＯ）らから説明聴取",
+   "minutes": 38
+  },
+  {
+   "start": "10:06",
+   "end": "10:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "10:21",
+   "end": "12:07",
+   "category": "視察",
+   "label": "視察。ジンズＨＤの田中ＣＥＯ、小川晶同市長らと昼食",
+   "minutes": 106
+  },
+  {
+   "start": "12:07",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:08",
+   "end": "12:13",
+   "category": "視察",
+   "label": "視察",
+   "minutes": 5
+  },
+  {
+   "start": "12:13",
+   "end": "12:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:15",
+   "end": "12:30",
+   "category": "視察",
+   "label": "視察",
+   "minutes": 15
+  },
+  {
+   "start": "12:30",
+   "end": "13:29",
+   "category": "面会・会談",
+   "label": "シェアオフィス「ｃｏｍｍ」で地元経営者らと意見交換",
+   "minutes": 59
+  },
+  {
+   "start": "13:29",
+   "end": "13:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:31",
+   "end": "13:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:33",
+   "end": "13:39",
+   "category": "視察",
+   "label": "視察",
+   "minutes": 6
+  },
+  {
+   "start": "13:39",
+   "end": "13:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:42",
+   "end": "13:48",
+   "category": "視察",
+   "label": "見学",
+   "minutes": 6
+  },
+  {
+   "start": "13:48",
+   "end": "13:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:49",
+   "end": "14:11",
+   "category": "視察",
+   "label": "視察",
+   "minutes": 22
+  },
+  {
+   "start": "14:11",
+   "end": "14:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:12",
+   "end": "14:21",
+   "category": "視察",
+   "label": "視察",
+   "minutes": 9
+  },
+  {
+   "start": "14:21",
+   "end": "14:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:22",
+   "end": "14:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:25",
+   "end": "15:34",
+   "category": "面会・会談",
+   "label": "ジンズＨＤの田中ＣＥＯ、共愛学園前橋国際大の大森昭生学長らとの意見交換。小川同市長同席",
+   "minutes": 69
+  },
+  {
+   "start": "15:34",
+   "end": "15:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "15:41",
+   "end": "15:51",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 10
+  },
+  {
+   "start": "15:51",
+   "end": "15:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "15:56",
+   "end": "16:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "16:32",
+   "end": "17:01",
+   "category": "視察",
+   "label": "視察。山本一太同県知事同行",
+   "minutes": 29
+  },
+  {
+   "start": "17:01",
+   "end": "17:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "17:06",
+   "end": "17:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 38
+  },
+  {
+   "start": "17:44",
+   "end": "18:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "18:40",
+   "end": "18:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:44",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "18:56",
+   "end": "19:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 24
+  },
+  {
+   "start": "19:20",
+   "end": "19:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "19:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 276
+  }
+ ],
+ "alloc_min": {
+  "居所": 749,
+  "移動": 177,
+  "公務（内容未詳）": 140,
+  "視察": 236,
+  "面会・会談": 128,
+  "取材・会見": 10
+ }
+}

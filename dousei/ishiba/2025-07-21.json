@@ -1,0 +1,239 @@
+{
+ "date": "2025-07-21",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 275,
+ "residence_min": 1165,
+ "meetings": 0,
+ "first_work": "00:09",
+ "events": [
+  {
+   "time": "00:09",
+   "label": "参院選候補者名が並んだボードに当確のバラ付け",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "01:14",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "01:16",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "11:36",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:52",
+   "label": "同党臨時役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:12",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "12:20",
+   "label": "斉藤鉄夫公明党代表と与党党首会談開始。森山裕自民党幹事長、西田実仁公明党幹事長同席",
+   "place": "公邸",
+   "category": "党務"
+  },
+  {
+   "time": "13:49",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "記者会見",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:31",
+   "label": "同党の森山幹事長、小野寺五典政調会長、木原誠二選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "16:08",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:09",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 9
+  },
+  {
+   "start": "00:09",
+   "end": "00:16",
+   "category": "党務",
+   "label": "参院選候補者名が並んだボードに当確のバラ付け",
+   "minutes": 7
+  },
+  {
+   "start": "00:16",
+   "end": "01:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 58
+  },
+  {
+   "start": "01:14",
+   "end": "01:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "01:16",
+   "end": "11:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 620
+  },
+  {
+   "start": "11:36",
+   "end": "11:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:39",
+   "end": "11:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "11:52",
+   "end": "12:09",
+   "category": "党務",
+   "label": "同党臨時役員会",
+   "minutes": 17
+  },
+  {
+   "start": "12:09",
+   "end": "12:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:12",
+   "end": "12:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:15",
+   "end": "12:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:20",
+   "end": "12:43",
+   "category": "党務",
+   "label": "斉藤鉄夫公明党代表と与党党首会談開始。森山裕自民党幹事長、西田実仁公明党幹事長同席",
+   "minutes": 23
+  },
+  {
+   "start": "12:43",
+   "end": "13:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 66
+  },
+  {
+   "start": "13:49",
+   "end": "13:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:51",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "14:00",
+   "end": "14:29",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 29
+  },
+  {
+   "start": "14:29",
+   "end": "14:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:31",
+   "end": "16:07",
+   "category": "党務",
+   "label": "同党の森山幹事長、小野寺五典政調会長、木原誠二選対委員長",
+   "minutes": 96
+  },
+  {
+   "start": "16:07",
+   "end": "16:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:08",
+   "end": "16:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 470
+  }
+ ],
+ "alloc_min": {
+  "居所": 1165,
+  "党務": 143,
+  "公務（内容未詳）": 91,
+  "移動": 12,
+  "取材・会見": 29
+ }
+}

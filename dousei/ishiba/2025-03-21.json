@@ -1,0 +1,374 @@
+{
+ "date": "2025-03-21",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 786,
+ "residence_min": 654,
+ "meetings": 8,
+ "first_work": "07:36",
+ "events": [
+  {
+   "time": "07:36",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:51",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:31",
+   "label": "野原諭商務情報政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:18",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:23",
+   "label": "原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:35",
+   "label": "赤沢亮正経済財政政策担当相 井上裕之事務次官 林幸宏審議官 木村聡政策統括官 野村裕政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:08",
+   "label": "中国の王毅共産党政治局員兼外相、韓国の趙兌烈外相と会談。岩屋毅外相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:33",
+   "label": "趙氏と会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:41",
+   "label": "王氏と会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:58",
+   "label": "米ＩＢＭのクリシュナ最高経営責任者（ＣＥＯ）の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:18",
+   "label": "宮本新吾南部アジア部長 岩本桂一領事局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 456
+  },
+  {
+   "start": "07:36",
+   "end": "07:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:37",
+   "end": "07:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "07:51",
+   "end": "08:07",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 16
+  },
+  {
+   "start": "08:07",
+   "end": "08:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "08:46",
+   "end": "08:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:48",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:58",
+   "end": "11:54",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 176
+  },
+  {
+   "start": "11:54",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:57",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "11:58",
+   "end": "12:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "12:31",
+   "end": "12:41",
+   "category": "面会・会談",
+   "label": "野原諭商務情報政策局長",
+   "minutes": 10
+  },
+  {
+   "start": "12:41",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:53",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "17:15",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 255
+  },
+  {
+   "start": "17:15",
+   "end": "17:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:18",
+   "end": "17:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:20",
+   "end": "17:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:23",
+   "end": "17:32",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 9
+  },
+  {
+   "start": "17:32",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:35",
+   "end": "18:03",
+   "category": "面会・会談",
+   "label": "赤沢亮正経済財政政策担当相 井上裕之事務次官 林幸宏審議官 木村聡政策統括官 野村裕政策統括官",
+   "minutes": 28
+  },
+  {
+   "start": "18:03",
+   "end": "18:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:08",
+   "end": "18:31",
+   "category": "面会・会談",
+   "label": "中国の王毅共産党政治局員兼外相、韓国の趙兌烈外相と会談。岩屋毅外相同席",
+   "minutes": 23
+  },
+  {
+   "start": "18:31",
+   "end": "18:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:33",
+   "end": "18:40",
+   "category": "面会・会談",
+   "label": "趙氏と会談",
+   "minutes": 7
+  },
+  {
+   "start": "18:40",
+   "end": "18:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:41",
+   "end": "18:57",
+   "category": "面会・会談",
+   "label": "王氏と会談",
+   "minutes": 16
+  },
+  {
+   "start": "18:57",
+   "end": "18:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:58",
+   "end": "19:16",
+   "category": "面会・会談",
+   "label": "米ＩＢＭのクリシュナ最高経営責任者（ＣＥＯ）の表敬",
+   "minutes": 18
+  },
+  {
+   "start": "19:16",
+   "end": "19:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:18",
+   "end": "19:52",
+   "category": "面会・会談",
+   "label": "宮本新吾南部アジア部長 岩本桂一領事局長",
+   "minutes": 34
+  },
+  {
+   "start": "19:52",
+   "end": "20:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "20:40",
+   "end": "20:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "20:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 198
+  }
+ ],
+ "alloc_min": {
+  "居所": 654,
+  "移動": 10,
+  "公務（内容未詳）": 184,
+  "官邸執務": 16,
+  "国会": 431,
+  "面会・会談": 145
+ }
+}

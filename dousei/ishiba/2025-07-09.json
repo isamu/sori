@@ -1,0 +1,255 @@
+{
+ "date": "2025-07-09",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 784,
+ "residence_min": 656,
+ "meetings": 0,
+ "first_work": "07:48",
+ "events": [
+  {
+   "time": "07:48",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:15",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "福岡空港",
+   "place": "福岡空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:12",
+   "label": "移動",
+   "place": "福岡空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:32",
+   "label": "同ホテル内の宴会場「鶴の間」で自民党参院選候補者の演説会に出席。演説。聴衆と握手",
+   "place": "佐賀市 ホテルニューオータニ佐賀",
+   "category": "党務"
+  },
+  {
+   "time": "12:17",
+   "label": "移動",
+   "place": "佐賀市 ホテルニューオータニ佐賀",
+   "category": "移動"
+  },
+  {
+   "time": "13:34",
+   "label": "同党参院選候補者の演説会に出席。演説。聴衆と握手",
+   "place": "長崎県諫早市 諫早文化会館",
+   "category": "党務"
+  },
+  {
+   "time": "14:14",
+   "label": "移動",
+   "place": "長崎県諫早市 諫早文化会館",
+   "category": "移動"
+  },
+  {
+   "time": "14:41",
+   "label": "同空港内の貴賓室で中島浩介同党同県連幹事長",
+   "place": "長崎空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:54",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:10",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:08",
+   "label": "街頭演説。聴衆と握手",
+   "place": "ＪＲ船橋駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "18:48",
+   "label": "移動",
+   "place": "ＪＲ船橋駅南口",
+   "category": "移動"
+  },
+  {
+   "time": "19:22",
+   "label": "同党参院選候補者の演説会に出席。演説",
+   "place": "千葉市中央区 市民会館",
+   "category": "党務"
+  },
+  {
+   "time": "20:08",
+   "label": "移動",
+   "place": "千葉市中央区 市民会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 468
+  },
+  {
+   "start": "07:48",
+   "end": "08:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "08:15",
+   "end": "08:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "08:44",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 76
+  },
+  {
+   "start": "10:00",
+   "end": "10:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "10:12",
+   "end": "11:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 80
+  },
+  {
+   "start": "11:32",
+   "end": "12:17",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「鶴の間」で自民党参院選候補者の演説会に出席。演説。聴衆と握手",
+   "minutes": 45
+  },
+  {
+   "start": "12:17",
+   "end": "13:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 77
+  },
+  {
+   "start": "13:34",
+   "end": "14:14",
+   "category": "党務",
+   "label": "同党参院選候補者の演説会に出席。演説。聴衆と握手",
+   "minutes": 40
+  },
+  {
+   "start": "14:14",
+   "end": "14:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "14:39",
+   "end": "14:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:41",
+   "end": "14:55",
+   "category": "移動",
+   "label": "同空港内の貴賓室で中島浩介同党同県連幹事長",
+   "minutes": 14
+  },
+  {
+   "start": "14:55",
+   "end": "16:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 119
+  },
+  {
+   "start": "16:54",
+   "end": "17:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "17:10",
+   "end": "18:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 58
+  },
+  {
+   "start": "18:08",
+   "end": "18:48",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 40
+  },
+  {
+   "start": "18:48",
+   "end": "19:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "19:22",
+   "end": "20:08",
+   "category": "党務",
+   "label": "同党参院選候補者の演説会に出席。演説",
+   "minutes": 46
+  },
+  {
+   "start": "20:08",
+   "end": "20:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 44
+  },
+  {
+   "start": "20:52",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 188
+  }
+ ],
+ "alloc_min": {
+  "居所": 656,
+  "移動": 416,
+  "公務（内容未詳）": 197,
+  "党務": 171
+ }
+}

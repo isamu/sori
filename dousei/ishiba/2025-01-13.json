@@ -1,0 +1,85 @@
+{
+ "date": "2025-01-13",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 48,
+ "residence_min": 1392,
+ "meetings": 2,
+ "first_work": "08:05",
+ "events": [
+  {
+   "time": "08:05",
+   "label": "米国のバイデン大統領、フィリピンのマルコス大統領とテレビ会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:31",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:38",
+   "label": "青木一彦官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 485
+  },
+  {
+   "start": "08:05",
+   "end": "08:29",
+   "category": "面会・会談",
+   "label": "米国のバイデン大統領、フィリピンのマルコス大統領とテレビ会談",
+   "minutes": 24
+  },
+  {
+   "start": "08:29",
+   "end": "08:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 2
+  },
+  {
+   "start": "08:31",
+   "end": "08:37",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 6
+  },
+  {
+   "start": "08:37",
+   "end": "08:38",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "08:38",
+   "end": "08:56",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 18
+  },
+  {
+   "start": "08:56",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 904
+  }
+ ],
+ "alloc_min": {
+  "居所": 1392,
+  "面会・会談": 42,
+  "取材・会見": 6
+ }
+}

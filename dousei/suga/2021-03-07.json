@@ -1,0 +1,243 @@
+{
+ "date": "2021-03-07",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 521,
+ "residence_min": 919,
+ "meetings": 1,
+ "first_work": "07:19",
+ "events": [
+  {
+   "time": "07:19",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:31",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "09:57",
+   "label": "ＪＲ京都駅",
+   "place": "ＪＲ京都駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "移動",
+   "place": "ＪＲ京都駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:38",
+   "label": "辻裕教法務事務次官、内田俊一同館館長ら出迎え",
+   "place": "京都市左京区の国立京都国際会館",
+   "category": "移動"
+  },
+  {
+   "time": "11:02",
+   "label": "第１４回国連犯罪防止刑事司法会議（京都コングレス）の開会式に出席し、スピーチ",
+   "place": "京都市左京区の国立京都国際会館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:10",
+   "label": "ワーリー国連薬物犯罪事務所事務局長の表敬。上川陽子法相同席",
+   "place": "京都市左京区の国立京都国際会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:37",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "12:37",
+   "label": "上川法相ら見送り",
+   "place": "京都市左京区の国立京都国際会館",
+   "category": "移動"
+  },
+  {
+   "time": "13:14",
+   "label": "ＪＲ京都駅",
+   "place": "ＪＲ京都駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:35",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "15:39",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:54",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:12",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 439
+  },
+  {
+   "start": "07:19",
+   "end": "07:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:31",
+   "end": "07:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "07:42",
+   "end": "09:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 135
+  },
+  {
+   "start": "09:57",
+   "end": "10:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:00",
+   "end": "10:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 38
+  },
+  {
+   "start": "10:38",
+   "end": "11:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "11:02",
+   "end": "11:49",
+   "category": "式典・行事",
+   "label": "第１４回国連犯罪防止刑事司法会議（京都コングレス）の開会式に出席し、スピーチ",
+   "minutes": 47
+  },
+  {
+   "start": "11:49",
+   "end": "12:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "12:10",
+   "end": "12:21",
+   "category": "面会・会談",
+   "label": "ワーリー国連薬物犯罪事務所事務局長の表敬。上川陽子法相同席",
+   "minutes": 11
+  },
+  {
+   "start": "12:21",
+   "end": "12:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "12:37",
+   "end": "13:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "13:14",
+   "end": "13:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "13:24",
+   "end": "15:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 131
+  },
+  {
+   "start": "15:35",
+   "end": "15:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:39",
+   "end": "15:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "15:54",
+   "end": "18:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 138
+  },
+  {
+   "start": "18:12",
+   "end": "18:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:18",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 342
+  }
+ ],
+ "alloc_min": {
+  "居所": 919,
+  "移動": 121,
+  "公務（内容未詳）": 342,
+  "式典・行事": 47,
+  "面会・会談": 11
+ }
+}

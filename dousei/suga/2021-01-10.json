@@ -1,0 +1,205 @@
+{
+ "date": "2021-01-10",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 199,
+ "residence_min": 1241,
+ "meetings": 2,
+ "first_work": "08:30",
+ "events": [
+  {
+   "time": "08:30",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "09:01",
+   "label": "報道番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:33",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "09:36",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "10:35",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "10:41",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "14:45",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "14:56",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:25",
+   "label": "北村滋国家安全保障局長 秋葉剛男事務次官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:56",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 510
+  },
+  {
+   "start": "08:30",
+   "end": "08:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "08:37",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "09:01",
+   "end": "09:29",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 28
+  },
+  {
+   "start": "09:29",
+   "end": "09:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:33",
+   "end": "09:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 59
+  },
+  {
+   "start": "10:35",
+   "end": "10:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "10:41",
+   "end": "14:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 244
+  },
+  {
+   "start": "14:45",
+   "end": "14:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:47",
+   "end": "14:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "14:56",
+   "end": "15:20",
+   "category": "面会・会談",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "minutes": 24
+  },
+  {
+   "start": "15:20",
+   "end": "15:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 5
+  },
+  {
+   "start": "15:25",
+   "end": "15:53",
+   "category": "面会・会談",
+   "label": "北村滋国家安全保障局長 秋葉剛男事務次官",
+   "minutes": 28
+  },
+  {
+   "start": "15:53",
+   "end": "16:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 63
+  },
+  {
+   "start": "16:56",
+   "end": "17:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "17:01",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 419
+  }
+ ],
+ "alloc_min": {
+  "居所": 1241,
+  "移動": 23,
+  "公務（内容未詳）": 96,
+  "取材・会見": 28,
+  "面会・会談": 52
+ }
+}

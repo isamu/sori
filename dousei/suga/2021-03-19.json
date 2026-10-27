@@ -1,0 +1,366 @@
+{
+ "date": "2021-03-19",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 817,
+ "residence_min": 623,
+ "meetings": 4,
+ "first_work": "06:18",
+ "events": [
+  {
+   "time": "06:18",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "06:28",
+   "label": "岡田直樹官房副長官",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:12",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:45",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:49",
+   "label": "河野太郎規制改革担当相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:01",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:17",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:59",
+   "label": "イタリアのドラギ首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:20",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 古沢知之金融庁企画市場局長 栗田照久金融庁監督局長 新川浩嗣総括審議官 荒井勝喜総括審議官 新原浩朗政策局長 高橋一郎観光庁次長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:43",
+   "label": "滝沢裕昭内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:52",
+   "label": "西村康稔経済再生担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:23",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:51",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 378
+  },
+  {
+   "start": "06:18",
+   "end": "06:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "06:21",
+   "end": "06:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "06:28",
+   "end": "06:56",
+   "category": "官邸執務",
+   "label": "岡田直樹官房副長官",
+   "minutes": 28
+  },
+  {
+   "start": "06:56",
+   "end": "08:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 76
+  },
+  {
+   "start": "08:12",
+   "end": "08:27",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 15
+  },
+  {
+   "start": "08:27",
+   "end": "08:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "08:45",
+   "end": "08:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:46",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "国会",
+   "label": "河野太郎規制改革担当相",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "09:01",
+   "end": "11:53",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 172
+  },
+  {
+   "start": "11:53",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:56",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 53
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:53",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "17:15",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 255
+  },
+  {
+   "start": "17:15",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:17",
+   "end": "17:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:19",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "17:59",
+   "end": "18:17",
+   "category": "面会・会談",
+   "label": "イタリアのドラギ首相と電話会談",
+   "minutes": 18
+  },
+  {
+   "start": "18:17",
+   "end": "18:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:20",
+   "end": "18:35",
+   "category": "面会・会談",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 古沢知之金融庁企画市場局長 栗田照久金融庁監督局長 新川浩嗣総括審議官 荒井勝喜総括審議官 新原浩朗政策局長 高橋一郎観光庁次長",
+   "minutes": 15
+  },
+  {
+   "start": "18:35",
+   "end": "18:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "18:43",
+   "end": "18:51",
+   "category": "面会・会談",
+   "label": "滝沢裕昭内閣情報官",
+   "minutes": 8
+  },
+  {
+   "start": "18:51",
+   "end": "18:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:52",
+   "end": "19:01",
+   "category": "面会・会談",
+   "label": "西村康稔経済再生担当相",
+   "minutes": 9
+  },
+  {
+   "start": "19:01",
+   "end": "19:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "19:17",
+   "end": "19:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 28
+  },
+  {
+   "start": "19:51",
+   "end": "19:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "19:55",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 245
+  }
+ ],
+ "alloc_min": {
+  "居所": 623,
+  "移動": 20,
+  "公務（内容未詳）": 223,
+  "官邸執務": 96,
+  "国会": 428,
+  "面会・会談": 50
+ }
+}

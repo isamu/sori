@@ -1,0 +1,425 @@
+{
+ "date": "2021-08-18",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 613,
+ "residence_min": 757,
+ "meetings": 10,
+ "first_work": "07:51",
+ "events": [
+  {
+   "time": "07:51",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:55",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "09:00",
+   "label": "梶山弘志経済産業相 多田明弘事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:23",
+   "label": "阿達雅志首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:54",
+   "label": "沖田芳樹内閣危機管理監 和泉洋人首相補佐官 榊真一政策統括官 井上智夫水管理・国土保全局長 長谷川直之気象庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:10",
+   "label": "日本財団主催の「障害とビジネスフォーラム」向けのビデオメッセージ収録",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:26",
+   "label": "河野太郎規制改革担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:18",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:30",
+   "label": "横浜市長選の不在者投票",
+   "place": "東京・九段南 千代田区役所",
+   "category": "個人"
+  },
+  {
+   "time": "11:35",
+   "label": "移動",
+   "place": "東京・九段南 千代田区役所",
+   "category": "移動"
+  },
+  {
+   "time": "11:47",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "十倉雅和経団連会長",
+   "place": "東京・大手町 経団連会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:31",
+   "label": "移動",
+   "place": "東京・大手町 経団連会館",
+   "category": "移動"
+  },
+  {
+   "time": "14:15",
+   "label": "佐藤勉自民党総務会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "14:37",
+   "label": "滝沢裕昭内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:44",
+   "label": "秋葉剛男国家安全保障局長 滝沢裕昭内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:50",
+   "label": "秋葉剛男国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:30",
+   "label": "河野太郎沖縄・北方担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:56",
+   "label": "荒井勝喜商務情報政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:23",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:24",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:07",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 471
+  },
+  {
+   "start": "07:51",
+   "end": "07:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "07:55",
+   "end": "09:00",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 65
+  },
+  {
+   "start": "09:00",
+   "end": "09:22",
+   "category": "面会・会談",
+   "label": "梶山弘志経済産業相 多田明弘事務次官",
+   "minutes": 22
+  },
+  {
+   "start": "09:22",
+   "end": "09:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:23",
+   "end": "09:53",
+   "category": "面会・会談",
+   "label": "阿達雅志首相補佐官",
+   "minutes": 30
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:54",
+   "end": "09:58",
+   "category": "面会・会談",
+   "label": "沖田芳樹内閣危機管理監 和泉洋人首相補佐官 榊真一政策統括官 井上智夫水管理・国土保全局長 長谷川直之気象庁長官",
+   "minutes": 4
+  },
+  {
+   "start": "09:58",
+   "end": "10:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "10:10",
+   "end": "10:15",
+   "category": "官邸執務",
+   "label": "日本財団主催の「障害とビジネスフォーラム」向けのビデオメッセージ収録",
+   "minutes": 5
+  },
+  {
+   "start": "10:15",
+   "end": "10:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "10:26",
+   "end": "10:45",
+   "category": "面会・会談",
+   "label": "河野太郎規制改革担当相",
+   "minutes": 19
+  },
+  {
+   "start": "10:45",
+   "end": "11:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "11:18",
+   "end": "11:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "11:30",
+   "end": "11:35",
+   "category": "個人",
+   "label": "横浜市長選の不在者投票",
+   "minutes": 5
+  },
+  {
+   "start": "11:35",
+   "end": "11:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 61
+  },
+  {
+   "start": "12:48",
+   "end": "13:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "13:00",
+   "end": "13:31",
+   "category": "面会・会談",
+   "label": "十倉雅和経団連会長",
+   "minutes": 31
+  },
+  {
+   "start": "13:31",
+   "end": "13:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "13:43",
+   "end": "14:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "14:15",
+   "end": "14:35",
+   "category": "党務",
+   "label": "佐藤勉自民党総務会長",
+   "minutes": 20
+  },
+  {
+   "start": "14:35",
+   "end": "14:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:37",
+   "end": "14:43",
+   "category": "面会・会談",
+   "label": "滝沢裕昭内閣情報官",
+   "minutes": 6
+  },
+  {
+   "start": "14:43",
+   "end": "14:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:44",
+   "end": "14:49",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 滝沢裕昭内閣情報官",
+   "minutes": 5
+  },
+  {
+   "start": "14:49",
+   "end": "14:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:50",
+   "end": "15:00",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長",
+   "minutes": 10
+  },
+  {
+   "start": "15:00",
+   "end": "16:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 90
+  },
+  {
+   "start": "16:30",
+   "end": "16:52",
+   "category": "面会・会談",
+   "label": "河野太郎沖縄・北方担当相",
+   "minutes": 22
+  },
+  {
+   "start": "16:52",
+   "end": "16:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:56",
+   "end": "18:01",
+   "category": "面会・会談",
+   "label": "荒井勝喜商務情報政策局長",
+   "minutes": 65
+  },
+  {
+   "start": "18:01",
+   "end": "18:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "18:23",
+   "end": "18:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 43
+  },
+  {
+   "start": "19:07",
+   "end": "19:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "19:14",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 286
+  }
+ ],
+ "alloc_min": {
+  "居所": 757,
+  "移動": 60,
+  "個人": 70,
+  "面会・会談": 214,
+  "公務（内容未詳）": 253,
+  "官邸執務": 66,
+  "党務": 20
+ }
+}

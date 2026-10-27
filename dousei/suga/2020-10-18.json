@@ -1,0 +1,158 @@
+{
+ "date": "2020-10-18",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 637,
+ "residence_min": 748,
+ "meetings": 0,
+ "first_work": "10:06",
+ "events": [
+  {
+   "time": "10:06",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:08",
+   "label": "散歩",
+   "place": "東京・赤坂周辺",
+   "category": "個人"
+  },
+  {
+   "time": "10:53",
+   "label": "移動",
+   "place": "東京・赤坂周辺",
+   "category": "移動"
+  },
+  {
+   "time": "10:58",
+   "label": "同ホテル内の歯科「ミヤタデンタルオフィス」で治療",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "個人"
+  },
+  {
+   "time": "11:08",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": "11:13",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "「ホテル・デュ・パルク・ハノイ」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ベトナム・ハノイのノイバイ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "13:35",
+   "label": "移動",
+   "place": "ベトナム・ハノイのノイバイ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:11",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 606
+  },
+  {
+   "start": "10:06",
+   "end": "10:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:08",
+   "end": "10:53",
+   "category": "個人",
+   "label": "散歩",
+   "minutes": 45
+  },
+  {
+   "start": "10:53",
+   "end": "10:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "10:58",
+   "end": "11:08",
+   "category": "個人",
+   "label": "同ホテル内の歯科「ミヤタデンタルオフィス」で治療",
+   "minutes": 10
+  },
+  {
+   "start": "11:08",
+   "end": "11:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "11:13",
+   "end": "13:35",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 142
+  },
+  {
+   "start": "13:35",
+   "end": "13:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "13:56",
+   "end": "14:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "14:11",
+   "end": "14:13",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "14:13",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 587
+  }
+ ],
+ "alloc_min": {
+  "居所": 748,
+  "移動": 33,
+  "個人": 55,
+  "公務（内容未詳）": 15,
+  "取材・会見": 2,
+  "外遊": 587
+ }
+}

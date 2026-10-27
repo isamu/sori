@@ -1,0 +1,362 @@
+{
+ "date": "2022-07-06",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 738,
+ "residence_min": 702,
+ "meetings": 0,
+ "first_work": "09:17",
+ "events": [
+  {
+   "time": "09:17",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:41",
+   "label": "茂木敏充自民党幹事長",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:59",
+   "label": "青森空港",
+   "place": "青森空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:09",
+   "label": "移動",
+   "place": "青森空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:45",
+   "label": "街頭演説",
+   "place": "青森市 「青い森公園」",
+   "category": "党務"
+  },
+  {
+   "time": "12:19",
+   "label": "移動",
+   "place": "青森市 「青い森公園」",
+   "category": "移動"
+  },
+  {
+   "time": "12:28",
+   "label": "森内之保留青森県議と会食",
+   "place": "同市 和食レストラン「あじ菜」",
+   "category": "会食"
+  },
+  {
+   "time": "12:56",
+   "label": "移動",
+   "place": "同市 和食レストラン「あじ菜」",
+   "category": "移動"
+  },
+  {
+   "time": "13:52",
+   "label": "街頭演説",
+   "place": "青森県弘前市 「さくら野百貨店弘前店」前",
+   "category": "党務"
+  },
+  {
+   "time": "14:32",
+   "label": "移動",
+   "place": "青森県弘前市 「さくら野百貨店弘前店」前",
+   "category": "移動"
+  },
+  {
+   "time": "14:54",
+   "label": "休憩",
+   "place": "青森県大鰐町 東北自動車道阿闍羅パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "移動",
+   "place": "青森県大鰐町 東北自動車道阿闍羅パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "16:26",
+   "label": "街頭演説",
+   "place": "秋田県能代市 ショッピングセンター「イオン能代店」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:54",
+   "label": "移動",
+   "place": "秋田県能代市 ショッピングセンター「イオン能代店」前",
+   "category": "移動"
+  },
+  {
+   "time": "17:22",
+   "label": "休憩",
+   "place": "秋田県三種町 秋田自動車道八郎湖サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:29",
+   "label": "移動",
+   "place": "秋田県三種町 秋田自動車道八郎湖サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "18:08",
+   "label": "街頭演説",
+   "place": "ＪＲ秋田駅前のアゴラ広場",
+   "category": "党務"
+  },
+  {
+   "time": "18:42",
+   "label": "移動",
+   "place": "ＪＲ秋田駅前のアゴラ広場",
+   "category": "移動"
+  },
+  {
+   "time": "19:12",
+   "label": "ＮＨＫのインタビュー",
+   "place": "秋田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:17",
+   "label": "稲庭うどん店「稲庭本舗明治佐助商店」で秘書官らと食事",
+   "place": "秋田空港",
+   "category": "会食"
+  },
+  {
+   "time": "21:04",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:15",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 557
+  },
+  {
+   "start": "09:17",
+   "end": "09:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "09:39",
+   "end": "09:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:41",
+   "end": "09:46",
+   "category": "移動",
+   "label": "茂木敏充自民党幹事長",
+   "minutes": 5
+  },
+  {
+   "start": "09:46",
+   "end": "10:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 73
+  },
+  {
+   "start": "10:59",
+   "end": "11:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "11:09",
+   "end": "11:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "11:45",
+   "end": "12:19",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "12:19",
+   "end": "12:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "12:28",
+   "end": "12:56",
+   "category": "会食",
+   "label": "森内之保留青森県議と会食",
+   "minutes": 28
+  },
+  {
+   "start": "12:56",
+   "end": "13:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 56
+  },
+  {
+   "start": "13:52",
+   "end": "14:32",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 40
+  },
+  {
+   "start": "14:32",
+   "end": "14:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "14:54",
+   "end": "15:00",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 6
+  },
+  {
+   "start": "15:00",
+   "end": "16:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 86
+  },
+  {
+   "start": "16:26",
+   "end": "16:54",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "16:54",
+   "end": "17:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "17:22",
+   "end": "17:29",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 7
+  },
+  {
+   "start": "17:29",
+   "end": "18:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "18:08",
+   "end": "18:42",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "18:42",
+   "end": "19:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "19:11",
+   "end": "19:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:12",
+   "end": "19:14",
+   "category": "取材・会見",
+   "label": "ＮＨＫのインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "19:14",
+   "end": "19:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:17",
+   "end": "19:30",
+   "category": "会食",
+   "label": "稲庭うどん店「稲庭本舗明治佐助商店」で秘書官らと食事",
+   "minutes": 13
+  },
+  {
+   "start": "19:30",
+   "end": "21:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 94
+  },
+  {
+   "start": "21:04",
+   "end": "21:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "21:15",
+   "end": "21:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 145
+  }
+ ],
+ "alloc_min": {
+  "居所": 702,
+  "移動": 386,
+  "公務（内容未詳）": 173,
+  "党務": 136,
+  "会食": 41,
+  "取材・会見": 2
+ }
+}

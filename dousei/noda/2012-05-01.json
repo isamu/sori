@@ -1,0 +1,65 @@
+{
+ "date": "2012-05-01",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.05.01",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間30日）午後、ホワイトハウスでオバマ米大統領主催の昼食会",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "共同記者会見",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ブレアハウス（迎賓館）で米航空宇宙局（ＮＡＳＡ）のボールデン長官や宇宙飛行士の若田光一さんらが表敬",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ワシントン市内のナショナル・ジオグラフィック協会でクリントン米国務長官主催のレセプションと夕食会。ホテル「ウィラード・インターコンチネンタル」で同行記者団と懇談",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ブレアハウス泊",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間1日）午前、米ビジネス関係者らと朝食会",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "政府専用機でワシントン近郊のアンドルーズ空軍基地発",
+   "place": "—",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

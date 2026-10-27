@@ -1,0 +1,250 @@
+{
+ "date": "2024-12-28",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 333,
+ "residence_min": 886,
+ "meetings": 0,
+ "first_work": "07:32",
+ "events": [
+  {
+   "time": "07:32",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "08:01",
+   "label": "読売テレビの報道番組に出演",
+   "place": "東京・赤坂 ＡＮＡインターコンチネンタルホテル東京",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:31",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "08:37",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "11:48",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "11:57",
+   "label": "斉藤鉄夫公明党代表と会食",
+   "place": "東京・銀座 レストラン「薪（まき）焼銀座おのでら」",
+   "category": "会食"
+  },
+  {
+   "time": "13:36",
+   "label": "移動",
+   "place": "東京・銀座 レストラン「薪（まき）焼銀座おのでら」",
+   "category": "移動"
+  },
+  {
+   "time": "13:46",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "13:46",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "15:47",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "15:49",
+   "label": "買い物",
+   "place": "東京・赤坂 スーパー「吉池」",
+   "category": "個人"
+  },
+  {
+   "time": "15:55",
+   "label": "移動",
+   "place": "東京・赤坂 スーパー「吉池」",
+   "category": "移動"
+  },
+  {
+   "time": "15:58",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:00",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:09",
+   "label": "柳内光子山一興産社長と会食",
+   "place": "東京・虎ノ門 日本料理店「と村」",
+   "category": "会食"
+  },
+  {
+   "time": "20:20",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 452
+  },
+  {
+   "start": "07:32",
+   "end": "07:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "07:34",
+   "end": "08:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "08:01",
+   "end": "08:26",
+   "category": "取材・会見",
+   "label": "読売テレビの報道番組に出演",
+   "minutes": 25
+  },
+  {
+   "start": "08:26",
+   "end": "08:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:31",
+   "end": "08:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "08:37",
+   "end": "11:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 191
+  },
+  {
+   "start": "11:48",
+   "end": "11:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "11:57",
+   "end": "13:36",
+   "category": "会食",
+   "label": "斉藤鉄夫公明党代表と会食",
+   "minutes": 99
+  },
+  {
+   "start": "13:36",
+   "end": "13:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "13:46",
+   "end": "15:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 121
+  },
+  {
+   "start": "15:47",
+   "end": "15:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:49",
+   "end": "15:55",
+   "category": "個人",
+   "label": "買い物",
+   "minutes": 6
+  },
+  {
+   "start": "15:55",
+   "end": "15:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "15:58",
+   "end": "18:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 122
+  },
+  {
+   "start": "18:00",
+   "end": "18:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:09",
+   "end": "20:20",
+   "category": "会食",
+   "label": "柳内光子山一興産社長と会食",
+   "minutes": 131
+  },
+  {
+   "start": "20:20",
+   "end": "20:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "20:25",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 215
+  }
+ ],
+ "alloc_min": {
+  "居所": 886,
+  "移動": 46,
+  "公務（内容未詳）": 32,
+  "取材・会見": 25,
+  "会食": 230,
+  "個人": 221
+ }
+}

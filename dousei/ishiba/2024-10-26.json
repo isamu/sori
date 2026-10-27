@@ -1,0 +1,339 @@
+{
+ "date": "2024-10-26",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 643,
+ "residence_min": 797,
+ "meetings": 0,
+ "first_work": "09:40",
+ "events": [
+  {
+   "time": "09:40",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:52",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "10:53",
+   "label": "着替え",
+   "place": "東京・市谷本村町 ホテルグランドヒル市ケ谷",
+   "category": "移動"
+  },
+  {
+   "time": "11:32",
+   "label": "移動",
+   "place": "東京・市谷本村町 ホテルグランドヒル市ケ谷",
+   "category": "移動"
+  },
+  {
+   "time": "11:48",
+   "label": "ＪＲ新宿駅",
+   "place": "ＪＲ新宿駅",
+   "category": "その他"
+  },
+  {
+   "time": "12:00",
+   "label": "あずさ２１号",
+   "place": "ＪＲ新宿駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:22",
+   "label": "ＪＲ立川駅",
+   "place": "ＪＲ立川駅",
+   "category": "その他"
+  },
+  {
+   "time": "12:27",
+   "label": "移動",
+   "place": "ＪＲ立川駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:01",
+   "label": "街頭演説",
+   "place": "東京都小平市 西武新宿線小平駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "13:48",
+   "label": "移動",
+   "place": "東京都小平市 西武新宿線小平駅南口",
+   "category": "移動"
+  },
+  {
+   "time": "14:27",
+   "label": "街頭演説",
+   "place": "調布市 京王線調布駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "15:01",
+   "label": "移動",
+   "place": "調布市 京王線調布駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "15:56",
+   "label": "街頭演説",
+   "place": "東京・中野 中野区役所前",
+   "category": "党務"
+  },
+  {
+   "time": "16:27",
+   "label": "移動",
+   "place": "東京・中野 中野区役所前",
+   "category": "移動"
+  },
+  {
+   "time": "17:03",
+   "label": "街頭演説",
+   "place": "東京・春日 文京区立礫川公園前",
+   "category": "党務"
+  },
+  {
+   "time": "17:29",
+   "label": "移動",
+   "place": "東京・春日 文京区立礫川公園前",
+   "category": "移動"
+  },
+  {
+   "time": "17:43",
+   "label": "街頭演説",
+   "place": "東京・四谷 若葉東公園",
+   "category": "党務"
+  },
+  {
+   "time": "18:16",
+   "label": "移動",
+   "place": "東京・四谷 若葉東公園",
+   "category": "移動"
+  },
+  {
+   "time": "18:35",
+   "label": "街頭演説",
+   "place": "ＪＲ恵比寿駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "19:01",
+   "label": "移動",
+   "place": "ＪＲ恵比寿駅西口",
+   "category": "移動"
+  },
+  {
+   "time": "19:24",
+   "label": "街頭演説",
+   "place": "東京・豊洲 ホームセンター「スーパービバホーム豊洲店」前",
+   "category": "党務"
+  },
+  {
+   "time": "20:10",
+   "label": "移動",
+   "place": "東京・豊洲 ホームセンター「スーパービバホーム豊洲店」前",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 580
+  },
+  {
+   "start": "09:40",
+   "end": "09:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "09:56",
+   "end": "10:52",
+   "category": "式典・行事",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "minutes": 56
+  },
+  {
+   "start": "10:52",
+   "end": "10:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "10:53",
+   "end": "11:32",
+   "category": "移動",
+   "label": "着替え",
+   "minutes": 39
+  },
+  {
+   "start": "11:32",
+   "end": "11:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "11:48",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "12:00",
+   "end": "12:22",
+   "category": "移動",
+   "label": "あずさ２１号",
+   "minutes": 22
+  },
+  {
+   "start": "12:22",
+   "end": "12:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:27",
+   "end": "13:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "13:01",
+   "end": "13:48",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 47
+  },
+  {
+   "start": "13:48",
+   "end": "14:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "14:27",
+   "end": "15:01",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "15:01",
+   "end": "15:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 55
+  },
+  {
+   "start": "15:56",
+   "end": "16:27",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "16:27",
+   "end": "17:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "17:03",
+   "end": "17:29",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "17:29",
+   "end": "17:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "17:43",
+   "end": "18:16",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "18:16",
+   "end": "18:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "18:35",
+   "end": "19:01",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "19:01",
+   "end": "19:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "19:24",
+   "end": "20:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 46
+  },
+  {
+   "start": "20:10",
+   "end": "20:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:23",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 217
+  }
+ ],
+ "alloc_min": {
+  "居所": 797,
+  "移動": 327,
+  "式典・行事": 56,
+  "公務（内容未詳）": 17,
+  "党務": 243
+ }
+}

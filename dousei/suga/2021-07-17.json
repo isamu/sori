@@ -1,0 +1,133 @@
+{
+ "date": "2021-07-17",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 152,
+ "residence_min": 1288,
+ "meetings": 1,
+ "first_work": "07:55",
+ "events": [
+  {
+   "time": "07:55",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:33",
+   "label": "読売テレビの報道番組に出演",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:07",
+   "label": "移動",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "移動"
+  },
+  {
+   "time": "09:53",
+   "label": "北朝鮮による拉致被害者の支援組織「救う会」の西岡力会長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:48",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 475
+  },
+  {
+   "start": "07:55",
+   "end": "08:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "08:06",
+   "end": "08:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "08:33",
+   "end": "08:54",
+   "category": "取材・会見",
+   "label": "読売テレビの報道番組に出演",
+   "minutes": 21
+  },
+  {
+   "start": "08:54",
+   "end": "09:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "09:07",
+   "end": "09:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:19",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "09:53",
+   "end": "10:21",
+   "category": "面会・会談",
+   "label": "北朝鮮による拉致被害者の支援組織「救う会」の西岡力会長",
+   "minutes": 28
+  },
+  {
+   "start": "10:21",
+   "end": "10:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 27
+  },
+  {
+   "start": "10:48",
+   "end": "10:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "10:54",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 786
+  }
+ ],
+ "alloc_min": {
+  "居所": 1288,
+  "移動": 29,
+  "公務（内容未詳）": 74,
+  "取材・会見": 21,
+  "面会・会談": 28
+ }
+}

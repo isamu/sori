@@ -1,0 +1,51 @@
+{
+ "date": "2025-05-06",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 9,
+ "residence_min": 763,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "11:08",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:08",
+   "category": "個人",
+   "label": "東京・紀尾井町 ホテルニューオータニ宿泊",
+   "minutes": 668
+  },
+  {
+   "start": "11:08",
+   "end": "11:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "11:17",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 763
+  }
+ ],
+ "alloc_min": {
+  "個人": 668,
+  "移動": 9,
+  "居所": 763
+ }
+}

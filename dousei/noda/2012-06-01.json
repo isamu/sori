@@ -1,0 +1,315 @@
+{
+ "date": "2012-06-01",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.06.01",
+ "work_min": 685,
+ "residence_min": 755,
+ "meetings": 10,
+ "first_work": "07:56",
+ "events": [
+  {
+   "time": "07:56",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:57",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "07:58",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:04",
+   "label": "行政改革実行本部",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:23",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:37",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:14",
+   "label": "竹歳官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:29",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:12",
+   "label": "両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:15",
+   "label": "公邸。稲富修二氏ら衆院消費増税関連特別委の民主党委員らと昼食。手塚、寺田両首相補佐官同席",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "12:48",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:49",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:21",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:24",
+   "label": "民主党の前原政調会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:35",
+   "label": "同党の輿石幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:26",
+   "label": "輿石氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:00",
+   "label": "手塚氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:57",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:58",
+   "label": "岡田副総理",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:22",
+   "label": "岡田氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 476
+  },
+  {
+   "start": "07:56",
+   "end": "07:57",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "07:57",
+   "end": "07:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:58",
+   "end": "08:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:04",
+   "end": "08:23",
+   "category": "官邸執務",
+   "label": "行政改革実行本部",
+   "minutes": 19
+  },
+  {
+   "start": "08:23",
+   "end": "08:37",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 14
+  },
+  {
+   "start": "08:37",
+   "end": "09:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "09:14",
+   "end": "09:29",
+   "category": "面会・会談",
+   "label": "竹歳官房副長官",
+   "minutes": 15
+  },
+  {
+   "start": "09:29",
+   "end": "10:12",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "minutes": 43
+  },
+  {
+   "start": "10:12",
+   "end": "12:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 123
+  },
+  {
+   "start": "12:15",
+   "end": "12:48",
+   "category": "会食",
+   "label": "公邸。稲富修二氏ら衆院消費増税関連特別委の民主党委員らと昼食。手塚、寺田両首相補佐官同席",
+   "minutes": 33
+  },
+  {
+   "start": "12:48",
+   "end": "12:49",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "12:49",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "13:02",
+   "end": "15:21",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 139
+  },
+  {
+   "start": "15:21",
+   "end": "15:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:24",
+   "end": "15:35",
+   "category": "面会・会談",
+   "label": "民主党の前原政調会長",
+   "minutes": 11
+  },
+  {
+   "start": "15:35",
+   "end": "16:26",
+   "category": "面会・会談",
+   "label": "同党の輿石幹事長",
+   "minutes": 51
+  },
+  {
+   "start": "16:26",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "17:00",
+   "end": "18:00",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 60
+  },
+  {
+   "start": "18:00",
+   "end": "18:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "18:57",
+   "end": "18:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "18:58",
+   "end": "19:22",
+   "category": "面会・会談",
+   "label": "岡田副総理",
+   "minutes": 24
+  },
+  {
+   "start": "19:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 278
+  }
+ ],
+ "alloc_min": {
+  "居所": 755,
+  "移動": 2,
+  "公務（内容未詳）": 274,
+  "官邸執務": 33,
+  "面会・会談": 204,
+  "会食": 33,
+  "国会": 139
+ }
+}

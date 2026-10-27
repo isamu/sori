@@ -1,0 +1,356 @@
+{
+ "date": "2025-07-15",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 801,
+ "residence_min": 639,
+ "meetings": 1,
+ "first_work": "08:47",
+ "events": [
+  {
+   "time": "08:47",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "原丈人アライアンス・フォーラム財団会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:15",
+   "label": "外国人との秩序ある共生社会推進室発足式",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:13",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:41",
+   "label": "高松空港",
+   "place": "高松空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "高松空港",
+   "category": "移動"
+  },
+  {
+   "time": "13:17",
+   "label": "自民党参院選候補者の応援用動画撮影。同候補の演説会に出席。演説。聴衆と握手",
+   "place": "高松市 香川県立アリーナ",
+   "category": "党務"
+  },
+  {
+   "time": "14:13",
+   "label": "移動",
+   "place": "高松市 香川県立アリーナ",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "同党参院選候補者の演説会に出席。演説。聴衆と握手",
+   "place": "香川県三豊市 ＪＡ高瀬支店",
+   "category": "党務"
+  },
+  {
+   "time": "15:39",
+   "label": "移動",
+   "place": "香川県三豊市 ＪＡ高瀬支店",
+   "category": "移動"
+  },
+  {
+   "time": "16:06",
+   "label": "街頭演説。聴衆と握手",
+   "place": "愛媛県四国中央市 四国中央市市民文化ホールの駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "16:43",
+   "label": "移動",
+   "place": "愛媛県四国中央市 四国中央市市民文化ホールの駐車場",
+   "category": "移動"
+  },
+  {
+   "time": "16:46",
+   "label": "休憩",
+   "place": "同市 上分パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "16:48",
+   "label": "移動",
+   "place": "同市 上分パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "18:02",
+   "label": "同党参院選候補者の演説会に出席。演説。聴衆と握手",
+   "place": "岡山県倉敷市 複合観光施設「倉敷アイビースクエア」",
+   "category": "党務"
+  },
+  {
+   "time": "18:48",
+   "label": "移動",
+   "place": "岡山県倉敷市 複合観光施設「倉敷アイビースクエア」",
+   "category": "移動"
+  },
+  {
+   "time": "19:25",
+   "label": "岡山空港",
+   "place": "岡山空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:27",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:47",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 527
+  },
+  {
+   "start": "08:47",
+   "end": "08:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:49",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:58",
+   "end": "09:36",
+   "category": "面会・会談",
+   "label": "原丈人アライアンス・フォーラム財団会長",
+   "minutes": 38
+  },
+  {
+   "start": "09:36",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "10:01",
+   "end": "10:11",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 10
+  },
+  {
+   "start": "10:11",
+   "end": "10:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:15",
+   "end": "10:20",
+   "category": "官邸執務",
+   "label": "外国人との秩序ある共生社会推進室発足式",
+   "minutes": 5
+  },
+  {
+   "start": "10:20",
+   "end": "10:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "10:46",
+   "end": "11:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "11:13",
+   "end": "11:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "11:46",
+   "end": "12:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "12:41",
+   "end": "12:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "12:51",
+   "end": "13:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "13:17",
+   "end": "14:13",
+   "category": "党務",
+   "label": "自民党参院選候補者の応援用動画撮影。同候補の演説会に出席。演説。聴衆と握手",
+   "minutes": 56
+  },
+  {
+   "start": "14:13",
+   "end": "15:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 47
+  },
+  {
+   "start": "15:00",
+   "end": "15:39",
+   "category": "党務",
+   "label": "同党参院選候補者の演説会に出席。演説。聴衆と握手",
+   "minutes": 39
+  },
+  {
+   "start": "15:39",
+   "end": "16:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "16:06",
+   "end": "16:43",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 37
+  },
+  {
+   "start": "16:43",
+   "end": "16:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:46",
+   "end": "16:48",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "16:48",
+   "end": "18:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 74
+  },
+  {
+   "start": "18:02",
+   "end": "18:48",
+   "category": "党務",
+   "label": "同党参院選候補者の演説会に出席。演説。聴衆と握手",
+   "minutes": 46
+  },
+  {
+   "start": "18:48",
+   "end": "19:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "19:25",
+   "end": "20:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 56
+  },
+  {
+   "start": "20:21",
+   "end": "21:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 66
+  },
+  {
+   "start": "21:27",
+   "end": "21:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:47",
+   "end": "22:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "22:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 112
+  }
+ ],
+ "alloc_min": {
+  "居所": 639,
+  "移動": 385,
+  "公務（内容未詳）": 185,
+  "面会・会談": 38,
+  "官邸執務": 15,
+  "党務": 178
+ }
+}

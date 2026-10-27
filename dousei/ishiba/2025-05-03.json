@@ -1,0 +1,166 @@
+{
+ "date": "2025-05-03",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 216,
+ "residence_min": 854,
+ "meetings": 1,
+ "first_work": "13:57",
+ "events": [
+  {
+   "time": "13:57",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:04",
+   "label": "東京・紀尾井町 ホテルニューオータニ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "15:41",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "15:49",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "16:04",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "16:30",
+   "label": "林芳正官房長官 佐藤文俊副官房長官 赤沢亮正経済再生担当相 岡野正敬国家安全保障局長 片平聡経済局長 荒井勝喜通商政策局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:40",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:45",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・紀尾井町 ホテルニューオータニ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 837
+  },
+  {
+   "start": "13:57",
+   "end": "14:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:04",
+   "end": "15:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 97
+  },
+  {
+   "start": "15:41",
+   "end": "15:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "15:49",
+   "end": "16:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 15
+  },
+  {
+   "start": "16:04",
+   "end": "16:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:07",
+   "end": "16:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "16:30",
+   "end": "17:39",
+   "category": "面会・会談",
+   "label": "林芳正官房長官 佐藤文俊副官房長官 赤沢亮正経済再生担当相 岡野正敬国家安全保障局長 片平聡経済局長 荒井勝喜通商政策局長",
+   "minutes": 69
+  },
+  {
+   "start": "17:39",
+   "end": "17:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "17:40",
+   "end": "17:44",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 4
+  },
+  {
+   "start": "17:44",
+   "end": "17:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "17:45",
+   "end": "17:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "17:50",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 370
+  }
+ ],
+ "alloc_min": {
+  "居所": 854,
+  "移動": 120,
+  "公務（内容未詳）": 23,
+  "面会・会談": 69,
+  "取材・会見": 4,
+  "個人": 370
+ }
+}

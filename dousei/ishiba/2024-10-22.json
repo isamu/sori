@@ -1,0 +1,363 @@
+{
+ "date": "2024-10-22",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 831,
+ "residence_min": 609,
+ "meetings": 1,
+ "first_work": "07:52",
+ "events": [
+  {
+   "time": "07:52",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:00",
+   "label": "露木康浩長官 迫田裕治警備局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:32",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:35",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:47",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "10:39",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:43",
+   "label": "移動",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:50",
+   "label": "街頭演説",
+   "place": "愛知県岡崎市 商業施設「ウイングタウン岡崎」駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "12:29",
+   "label": "移動",
+   "place": "愛知県岡崎市 商業施設「ウイングタウン岡崎」駐車場",
+   "category": "移動"
+  },
+  {
+   "time": "13:06",
+   "label": "地元関係者と昼食。同ホテル内の宴会場「金扇の間」で自民党衆院選候補者の演説会に出席。演説",
+   "place": "同県豊田市 名鉄トヨタホテル",
+   "category": "会食"
+  },
+  {
+   "time": "14:12",
+   "label": "移動",
+   "place": "同県豊田市 名鉄トヨタホテル",
+   "category": "移動"
+  },
+  {
+   "time": "15:06",
+   "label": "街頭演説",
+   "place": "同県小牧市 名鉄小牧駅東口「メロディーパーク」",
+   "category": "党務"
+  },
+  {
+   "time": "15:44",
+   "label": "移動",
+   "place": "同県小牧市 名鉄小牧駅東口「メロディーパーク」",
+   "category": "移動"
+  },
+  {
+   "time": "16:13",
+   "label": "街頭演説",
+   "place": "同県一宮市 遊技場経営会社「星和」駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "16:50",
+   "label": "移動",
+   "place": "同県一宮市 遊技場経営会社「星和」駐車場",
+   "category": "移動"
+  },
+  {
+   "time": "17:24",
+   "label": "街頭演説",
+   "place": "名古屋市中区 久屋大通公園「光の広場」",
+   "category": "党務"
+  },
+  {
+   "time": "18:06",
+   "label": "移動",
+   "place": "名古屋市中区 久屋大通公園「光の広場」",
+   "category": "移動"
+  },
+  {
+   "time": "18:40",
+   "label": "街頭演説",
+   "place": "同県東海市 「どんでん広場」",
+   "category": "党務"
+  },
+  {
+   "time": "19:07",
+   "label": "移動",
+   "place": "同県東海市 「どんでん広場」",
+   "category": "移動"
+  },
+  {
+   "time": "19:42",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:27",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:31",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 472
+  },
+  {
+   "start": "07:52",
+   "end": "07:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "07:55",
+   "end": "08:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:00",
+   "end": "08:26",
+   "category": "面会・会談",
+   "label": "露木康浩長官 迫田裕治警備局長",
+   "minutes": 26
+  },
+  {
+   "start": "08:26",
+   "end": "08:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:32",
+   "end": "08:34",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "08:34",
+   "end": "08:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:35",
+   "end": "08:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "08:47",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "09:00",
+   "end": "10:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 99
+  },
+  {
+   "start": "10:39",
+   "end": "10:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "10:43",
+   "end": "11:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 67
+  },
+  {
+   "start": "11:50",
+   "end": "12:29",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 39
+  },
+  {
+   "start": "12:29",
+   "end": "13:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "13:06",
+   "end": "14:12",
+   "category": "会食",
+   "label": "地元関係者と昼食。同ホテル内の宴会場「金扇の間」で自民党衆院選候補者の演説会に出席。演説",
+   "minutes": 66
+  },
+  {
+   "start": "14:12",
+   "end": "15:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 54
+  },
+  {
+   "start": "15:06",
+   "end": "15:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "15:44",
+   "end": "16:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "16:13",
+   "end": "16:50",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 37
+  },
+  {
+   "start": "16:50",
+   "end": "17:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "17:24",
+   "end": "18:06",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 42
+  },
+  {
+   "start": "18:06",
+   "end": "18:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "18:40",
+   "end": "19:07",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "19:07",
+   "end": "19:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "19:42",
+   "end": "19:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:51",
+   "end": "21:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 96
+  },
+  {
+   "start": "21:27",
+   "end": "21:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "21:31",
+   "end": "21:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "21:43",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 137
+  }
+ ],
+ "alloc_min": {
+  "居所": 609,
+  "移動": 330,
+  "公務（内容未詳）": 224,
+  "面会・会談": 26,
+  "取材・会見": 2,
+  "党務": 183,
+  "会食": 66
+ }
+}

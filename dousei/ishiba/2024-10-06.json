@@ -1,0 +1,220 @@
+{
+ "date": "2024-10-06",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 463,
+ "residence_min": 977,
+ "meetings": 2,
+ "first_work": "12:51",
+ "events": [
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "13:01",
+   "label": "同党の森山裕幹事長、小泉進次郎選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "14:07",
+   "label": "報道各社のインタビュー",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:11",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "14:19",
+   "label": "衆院選用の動画撮影。平井卓也同党広報本部長同席",
+   "place": "東京・四谷 「イメージスタジオ１０９四谷スタジオ」",
+   "category": "党務"
+  },
+  {
+   "time": "16:26",
+   "label": "移動",
+   "place": "東京・四谷 「イメージスタジオ１０９四谷スタジオ」",
+   "category": "移動"
+  },
+  {
+   "time": "16:58",
+   "label": "橘慶一郎官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:22",
+   "label": "小野寺五典同党政調会長",
+   "place": "公邸",
+   "category": "党務"
+  },
+  {
+   "time": "18:45",
+   "label": "橘慶一郎官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:47",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 771
+  },
+  {
+   "start": "12:51",
+   "end": "12:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "12:59",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:01",
+   "end": "14:06",
+   "category": "党務",
+   "label": "同党の森山裕幹事長、小泉進次郎選対委員長",
+   "minutes": 65
+  },
+  {
+   "start": "14:06",
+   "end": "14:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:07",
+   "end": "14:09",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "14:09",
+   "end": "14:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:11",
+   "end": "14:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "14:19",
+   "end": "16:26",
+   "category": "党務",
+   "label": "衆院選用の動画撮影。平井卓也同党広報本部長同席",
+   "minutes": 127
+  },
+  {
+   "start": "16:26",
+   "end": "16:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "16:35",
+   "end": "16:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "16:58",
+   "end": "18:21",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官",
+   "minutes": 83
+  },
+  {
+   "start": "18:21",
+   "end": "18:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "18:22",
+   "end": "18:44",
+   "category": "党務",
+   "label": "小野寺五典同党政調会長",
+   "minutes": 22
+  },
+  {
+   "start": "18:44",
+   "end": "18:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "18:45",
+   "end": "20:30",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官",
+   "minutes": 105
+  },
+  {
+   "start": "20:30",
+   "end": "20:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 17
+  },
+  {
+   "start": "20:47",
+   "end": "20:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "20:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 187
+  }
+ ],
+ "alloc_min": {
+  "居所": 977,
+  "移動": 31,
+  "公務（内容未詳）": 28,
+  "党務": 214,
+  "取材・会見": 2,
+  "面会・会談": 188
+ }
+}

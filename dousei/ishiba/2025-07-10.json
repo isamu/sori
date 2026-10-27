@@ -1,0 +1,331 @@
+{
+ "date": "2025-07-10",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 749,
+ "residence_min": 663,
+ "meetings": 1,
+ "first_work": "08:24",
+ "events": [
+  {
+   "time": "08:24",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:27",
+   "label": "歯科診療所で歯のクリーニング",
+   "place": "参院第２別館",
+   "category": "個人"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "参院第２別館",
+   "category": "移動"
+  },
+  {
+   "time": "09:26",
+   "label": "岡野正敬国家安全保障局長 飯田祐二参与 藤木俊光事務次官 成田達治貿易経済安全保障局長 伊吹英明製造産業局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:11",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:22",
+   "label": "参院選の不在者投票",
+   "place": "東京・九段南 千代田区役所",
+   "category": "個人"
+  },
+  {
+   "time": "10:29",
+   "label": "移動",
+   "place": "東京・九段南 千代田区役所",
+   "category": "移動"
+  },
+  {
+   "time": "10:39",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "13:11",
+   "label": "ＪＲ米原駅",
+   "place": "ＪＲ米原駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:14",
+   "label": "移動",
+   "place": "ＪＲ米原駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:53",
+   "label": "自民党参院選候補者の演説会に出席。演説",
+   "place": "滋賀県東近江市 能登川コミュニティセンター",
+   "category": "党務"
+  },
+  {
+   "time": "14:23",
+   "label": "移動",
+   "place": "滋賀県東近江市 能登川コミュニティセンター",
+   "category": "移動"
+  },
+  {
+   "time": "15:22",
+   "label": "同ホテル内の宴会場「瑞祥の間」で同党参院選候補者の演説会に出席。演説",
+   "place": "同県草津市 クサツエストピアホテル",
+   "category": "党務"
+  },
+  {
+   "time": "15:55",
+   "label": "移動",
+   "place": "同県草津市 クサツエストピアホテル",
+   "category": "移動"
+  },
+  {
+   "time": "16:51",
+   "label": "ＪＲ京都駅",
+   "place": "ＪＲ京都駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:15",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "19:27",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:00",
+   "label": "ＢＳフジの報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:04",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:24",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 504
+  },
+  {
+   "start": "08:24",
+   "end": "08:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "08:27",
+   "end": "08:48",
+   "category": "個人",
+   "label": "歯科診療所で歯のクリーニング",
+   "minutes": 21
+  },
+  {
+   "start": "08:48",
+   "end": "08:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "08:53",
+   "end": "09:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "09:26",
+   "end": "09:53",
+   "category": "面会・会談",
+   "label": "岡野正敬国家安全保障局長 飯田祐二参与 藤木俊光事務次官 成田達治貿易経済安全保障局長 伊吹英明製造産業局長",
+   "minutes": 27
+  },
+  {
+   "start": "09:53",
+   "end": "10:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "10:11",
+   "end": "10:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "10:22",
+   "end": "10:29",
+   "category": "個人",
+   "label": "参院選の不在者投票",
+   "minutes": 7
+  },
+  {
+   "start": "10:29",
+   "end": "10:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "10:39",
+   "end": "11:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "11:03",
+   "end": "13:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 128
+  },
+  {
+   "start": "13:11",
+   "end": "13:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:14",
+   "end": "13:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "13:53",
+   "end": "14:23",
+   "category": "党務",
+   "label": "自民党参院選候補者の演説会に出席。演説",
+   "minutes": 30
+  },
+  {
+   "start": "14:23",
+   "end": "15:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 59
+  },
+  {
+   "start": "15:22",
+   "end": "15:55",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「瑞祥の間」で同党参院選候補者の演説会に出席。演説",
+   "minutes": 33
+  },
+  {
+   "start": "15:55",
+   "end": "16:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 56
+  },
+  {
+   "start": "16:51",
+   "end": "17:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "17:01",
+   "end": "19:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 134
+  },
+  {
+   "start": "19:15",
+   "end": "19:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "19:27",
+   "end": "19:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "19:47",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "20:00",
+   "end": "20:53",
+   "category": "取材・会見",
+   "label": "ＢＳフジの報道番組に出演",
+   "minutes": 53
+  },
+  {
+   "start": "20:53",
+   "end": "21:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "21:04",
+   "end": "21:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "21:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 159
+  }
+ ],
+ "alloc_min": {
+  "居所": 663,
+  "移動": 233,
+  "個人": 28,
+  "公務（内容未詳）": 373,
+  "面会・会談": 27,
+  "党務": 63,
+  "取材・会見": 53
+ }
+}

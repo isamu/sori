@@ -1,0 +1,77 @@
+{
+ "date": "2024-12-22",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 27,
+ "residence_min": 1333,
+ "meetings": 0,
+ "first_work": "09:58",
+ "events": [
+  {
+   "time": "09:58",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:12",
+   "label": "クリスマス礼拝に参加",
+   "place": "東京・富士見 富士見町教会",
+   "category": "個人"
+  },
+  {
+   "time": "11:32",
+   "label": "移動",
+   "place": "東京・富士見 富士見町教会",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 598
+  },
+  {
+   "start": "09:58",
+   "end": "10:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "10:12",
+   "end": "11:32",
+   "category": "個人",
+   "label": "クリスマス礼拝に参加",
+   "minutes": 80
+  },
+  {
+   "start": "11:32",
+   "end": "11:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "11:45",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 735
+  }
+ ],
+ "alloc_min": {
+  "居所": 1333,
+  "移動": 27,
+  "個人": 80
+ }
+}

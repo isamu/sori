@@ -1,0 +1,428 @@
+{
+ "date": "2021-04-23",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 879,
+ "residence_min": 561,
+ "meetings": 4,
+ "first_work": "06:52",
+ "events": [
+  {
+   "time": "06:52",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:02",
+   "label": "岡田直樹官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:15",
+   "label": "坂井学官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:23",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:39",
+   "label": "上川陽子法相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:57",
+   "label": "河野太郎規制改革担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:53",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:14",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:16",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院厚生労働委員会",
+   "place": "国会 衆院第１６委員室",
+   "category": "国会"
+  },
+  {
+   "time": "14:08",
+   "label": "移動",
+   "place": "国会 衆院第１６委員室",
+   "category": "移動"
+  },
+  {
+   "time": "14:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:37",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:17",
+   "label": "みどりの式典に出席",
+   "place": "東京・永田町 憲政記念館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:52",
+   "label": "移動",
+   "place": "東京・永田町 憲政記念館",
+   "category": "移動"
+  },
+  {
+   "time": "18:31",
+   "label": "新型コロナウイルス感染症対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "20:00",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 412
+  },
+  {
+   "start": "06:52",
+   "end": "06:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "06:55",
+   "end": "07:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:02",
+   "end": "07:14",
+   "category": "面会・会談",
+   "label": "岡田直樹官房副長官",
+   "minutes": 12
+  },
+  {
+   "start": "07:14",
+   "end": "07:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:15",
+   "end": "07:33",
+   "category": "面会・会談",
+   "label": "坂井学官房副長官",
+   "minutes": 18
+  },
+  {
+   "start": "07:33",
+   "end": "08:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "08:23",
+   "end": "08:38",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 15
+  },
+  {
+   "start": "08:38",
+   "end": "08:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:39",
+   "end": "08:47",
+   "category": "面会・会談",
+   "label": "上川陽子法相",
+   "minutes": 8
+  },
+  {
+   "start": "08:47",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:57",
+   "end": "09:07",
+   "category": "面会・会談",
+   "label": "河野太郎規制改革担当相",
+   "minutes": 10
+  },
+  {
+   "start": "09:07",
+   "end": "09:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "09:50",
+   "end": "09:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:51",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "12:12",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 131
+  },
+  {
+   "start": "12:12",
+   "end": "12:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:14",
+   "end": "12:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 36
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:54",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:00",
+   "end": "14:06",
+   "category": "国会",
+   "label": "衆院厚生労働委員会",
+   "minutes": 66
+  },
+  {
+   "start": "14:06",
+   "end": "14:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:08",
+   "end": "14:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 87
+  },
+  {
+   "start": "15:37",
+   "end": "15:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:39",
+   "end": "16:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "16:17",
+   "end": "16:41",
+   "category": "式典・行事",
+   "label": "みどりの式典に出席",
+   "minutes": 24
+  },
+  {
+   "start": "16:41",
+   "end": "16:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "16:52",
+   "end": "16:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:54",
+   "end": "18:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 97
+  },
+  {
+   "start": "18:31",
+   "end": "18:53",
+   "category": "官邸執務",
+   "label": "新型コロナウイルス感染症対策本部",
+   "minutes": 22
+  },
+  {
+   "start": "18:53",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "20:00",
+   "end": "20:54",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 54
+  },
+  {
+   "start": "20:54",
+   "end": "21:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "21:27",
+   "end": "21:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "21:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 149
+  }
+ ],
+ "alloc_min": {
+  "居所": 561,
+  "移動": 18,
+  "公務（内容未詳）": 374,
+  "面会・会談": 48,
+  "官邸執務": 160,
+  "国会": 201,
+  "式典・行事": 24,
+  "取材・会見": 54
+ }
+}

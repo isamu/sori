@@ -1,0 +1,124 @@
+{
+ "date": "2020-10-31",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 261,
+ "residence_min": 1179,
+ "meetings": 0,
+ "first_work": "11:58",
+ "events": [
+  {
+   "time": "11:58",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "12:01",
+   "label": "同ホテル内の中国料理店「星ケ岡」で作家の大下英治氏と会食",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "13:00",
+   "label": "新浪剛史サントリーホールディングス社長",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "14:14",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "14:16",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "16:14",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 718
+  },
+  {
+   "start": "11:58",
+   "end": "12:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:01",
+   "end": "13:00",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「星ケ岡」で作家の大下英治氏と会食",
+   "minutes": 59
+  },
+  {
+   "start": "13:00",
+   "end": "13:52",
+   "category": "移動",
+   "label": "新浪剛史サントリーホールディングス社長",
+   "minutes": 52
+  },
+  {
+   "start": "13:52",
+   "end": "14:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "14:14",
+   "end": "14:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 118
+  },
+  {
+   "start": "16:14",
+   "end": "16:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "16:19",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 461
+  }
+ ],
+ "alloc_min": {
+  "居所": 1179,
+  "移動": 62,
+  "会食": 59,
+  "公務（内容未詳）": 140
+ }
+}

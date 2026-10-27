@@ -1,0 +1,225 @@
+{
+ "date": "2021-12-05",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 325,
+ "residence_min": 1115,
+ "meetings": 3,
+ "first_work": "09:11",
+ "events": [
+  {
+   "time": "09:11",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:30",
+   "label": "自身の後援会のセミナーにオンラインで出席し、講演",
+   "place": "衆院第１議員会館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:32",
+   "label": "移動",
+   "place": "衆院第１議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "木原誠二官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:08",
+   "label": "鈴木俊一財務相 木原誠二官房副長官 矢野康治事務次官 茶谷栄治主計局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:10",
+   "label": "秋葉剛男国家安全保障局長 滝沢裕昭内閣情報官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:49",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:55",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "15:41",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "15:50",
+   "label": "裕子夫人と共に天皇、皇后両陛下の長女愛子さまの成年祝賀行事",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:38",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 551
+  },
+  {
+   "start": "09:11",
+   "end": "09:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "09:14",
+   "end": "10:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 76
+  },
+  {
+   "start": "10:30",
+   "end": "11:10",
+   "category": "式典・行事",
+   "label": "自身の後援会のセミナーにオンラインで出席し、講演",
+   "minutes": 40
+  },
+  {
+   "start": "11:10",
+   "end": "11:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "11:32",
+   "end": "11:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:34",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "12:00",
+   "end": "12:15",
+   "category": "面会・会談",
+   "label": "木原誠二官房副長官",
+   "minutes": 15
+  },
+  {
+   "start": "12:15",
+   "end": "13:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 53
+  },
+  {
+   "start": "13:08",
+   "end": "14:00",
+   "category": "面会・会談",
+   "label": "鈴木俊一財務相 木原誠二官房副長官 矢野康治事務次官 茶谷栄治主計局長",
+   "minutes": 52
+  },
+  {
+   "start": "14:00",
+   "end": "14:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 10
+  },
+  {
+   "start": "14:10",
+   "end": "14:25",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 滝沢裕昭内閣情報官",
+   "minutes": 15
+  },
+  {
+   "start": "14:25",
+   "end": "14:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 24
+  },
+  {
+   "start": "14:49",
+   "end": "14:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "14:55",
+   "end": "15:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 46
+  },
+  {
+   "start": "15:41",
+   "end": "15:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:50",
+   "end": "16:38",
+   "category": "式典・行事",
+   "label": "裕子夫人と共に天皇、皇后両陛下の長女愛子さまの成年祝賀行事",
+   "minutes": 48
+  },
+  {
+   "start": "16:38",
+   "end": "16:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "16:49",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 431
+  }
+ ],
+ "alloc_min": {
+  "居所": 1115,
+  "移動": 31,
+  "公務（内容未詳）": 124,
+  "式典・行事": 88,
+  "面会・会談": 82
+ }
+}

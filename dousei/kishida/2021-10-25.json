@@ -1,0 +1,462 @@
+{
+ "date": "2021-10-25",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 880,
+ "residence_min": 560,
+ "meetings": 1,
+ "first_work": "07:18",
+ "events": [
+  {
+   "time": "07:18",
+   "label": "報道各社のインタビュー",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "取材・会見"
+  },
+  {
+   "time": "07:22",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:46",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:01",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:13",
+   "label": "移動",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:44",
+   "label": "街頭演説",
+   "place": "ＪＲ新大阪駅前",
+   "category": "党務"
+  },
+  {
+   "time": "10:02",
+   "label": "移動",
+   "place": "ＪＲ新大阪駅前",
+   "category": "移動"
+  },
+  {
+   "time": "10:44",
+   "label": "街頭演説",
+   "place": "大阪府東大阪市 近鉄布施駅前",
+   "category": "党務"
+  },
+  {
+   "time": "11:06",
+   "label": "移動",
+   "place": "大阪府東大阪市 近鉄布施駅前",
+   "category": "移動"
+  },
+  {
+   "time": "11:54",
+   "label": "街頭演説",
+   "place": "同府寝屋川市 京阪寝屋川市駅前",
+   "category": "党務"
+  },
+  {
+   "time": "12:14",
+   "label": "移動",
+   "place": "同府寝屋川市 京阪寝屋川市駅前",
+   "category": "移動"
+  },
+  {
+   "time": "12:39",
+   "label": "休憩",
+   "place": "京都府京田辺市 第２京阪道路京田辺パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "12:43",
+   "label": "移動",
+   "place": "京都府京田辺市 第２京阪道路京田辺パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:14",
+   "label": "街頭演説",
+   "place": "京都市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "13:38",
+   "label": "移動",
+   "place": "京都市役所前",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "宴会場「ラ　シゴーニュ」で農業関係者と車座で意見交換",
+   "place": "同市下京区 リーガロイヤルホテル京都",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:29",
+   "label": "移動",
+   "place": "同市下京区 リーガロイヤルホテル京都",
+   "category": "移動"
+  },
+  {
+   "time": "14:31",
+   "label": "ＪＲ京都駅",
+   "place": "ＪＲ京都駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:08",
+   "label": "支援者と記念撮影",
+   "place": "ＪＲ福山駅",
+   "category": "党務"
+  },
+  {
+   "time": "16:13",
+   "label": "移動",
+   "place": "ＪＲ福山駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "街頭演説",
+   "place": "ＪＲ尾道駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:29",
+   "label": "移動",
+   "place": "ＪＲ尾道駅前",
+   "category": "移動"
+  },
+  {
+   "time": "18:16",
+   "label": "中本隆志自民党広島県連会長代理",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:50",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:07",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:37",
+   "label": "自民党衆院選候補者向けのビデオメッセージ収録",
+   "place": "自民党本部",
+   "category": "官邸執務"
+  },
+  {
+   "time": "21:00",
+   "label": "自民党の麻生太郎副総裁、甘利明幹事長、遠藤利明選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "21:51",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 438
+  },
+  {
+   "start": "07:18",
+   "end": "07:21",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "07:21",
+   "end": "07:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "07:22",
+   "end": "07:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "07:46",
+   "end": "08:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "08:17",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "09:01",
+   "end": "09:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:13",
+   "end": "09:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "09:44",
+   "end": "10:02",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 18
+  },
+  {
+   "start": "10:02",
+   "end": "10:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "10:44",
+   "end": "11:06",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "11:06",
+   "end": "11:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 48
+  },
+  {
+   "start": "11:54",
+   "end": "12:14",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 20
+  },
+  {
+   "start": "12:14",
+   "end": "12:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "12:39",
+   "end": "12:43",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 4
+  },
+  {
+   "start": "12:43",
+   "end": "13:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "13:14",
+   "end": "13:38",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "13:38",
+   "end": "13:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "13:55",
+   "end": "14:29",
+   "category": "面会・会談",
+   "label": "宴会場「ラ　シゴーニュ」で農業関係者と車座で意見交換",
+   "minutes": 34
+  },
+  {
+   "start": "14:29",
+   "end": "14:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:31",
+   "end": "14:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "14:46",
+   "end": "16:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 82
+  },
+  {
+   "start": "16:08",
+   "end": "16:13",
+   "category": "党務",
+   "label": "支援者と記念撮影",
+   "minutes": 5
+  },
+  {
+   "start": "16:13",
+   "end": "17:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 47
+  },
+  {
+   "start": "17:00",
+   "end": "17:29",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "17:29",
+   "end": "18:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 45
+  },
+  {
+   "start": "18:14",
+   "end": "18:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:16",
+   "end": "18:30",
+   "category": "移動",
+   "label": "中本隆志自民党広島県連会長代理",
+   "minutes": 14
+  },
+  {
+   "start": "18:30",
+   "end": "19:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 80
+  },
+  {
+   "start": "19:50",
+   "end": "20:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "20:07",
+   "end": "20:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "20:36",
+   "end": "20:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:37",
+   "end": "20:46",
+   "category": "官邸執務",
+   "label": "自民党衆院選候補者向けのビデオメッセージ収録",
+   "minutes": 9
+  },
+  {
+   "start": "20:46",
+   "end": "21:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "21:00",
+   "end": "21:50",
+   "category": "党務",
+   "label": "自民党の麻生太郎副総裁、甘利明幹事長、遠藤利明選対委員長",
+   "minutes": 50
+  },
+  {
+   "start": "21:50",
+   "end": "21:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "21:51",
+   "end": "21:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "21:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 121
+  }
+ ],
+ "alloc_min": {
+  "居所": 560,
+  "取材・会見": 3,
+  "移動": 442,
+  "公務（内容未詳）": 224,
+  "党務": 168,
+  "面会・会談": 34,
+  "官邸執務": 9
+ }
+}

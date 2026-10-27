@@ -1,0 +1,307 @@
+{
+ "date": "2021-12-13",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 656,
+ "residence_min": 784,
+ "meetings": 2,
+ "first_work": "07:42",
+ "events": [
+  {
+   "time": "07:42",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "07:42",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "07:46",
+   "label": "木原誠二官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:56",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:30",
+   "label": "自民党の関口昌一参院議員会長、羽生田俊参院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:06",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:25",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:59",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:02",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:12",
+   "label": "同ホテル内の宴会場「コンベンションホール」で自民党茂木派のパーティーに出席し、あいさつ",
+   "place": "東京・芝公園 ホテル「ザ・プリンスパークタワー東京」",
+   "category": "党務"
+  },
+  {
+   "time": "18:27",
+   "label": "移動",
+   "place": "東京・芝公園 ホテル「ザ・プリンスパークタワー東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 462
+  },
+  {
+   "start": "07:42",
+   "end": "07:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "07:44",
+   "end": "07:46",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "07:46",
+   "end": "08:03",
+   "category": "面会・会談",
+   "label": "木原誠二官房副長官",
+   "minutes": 17
+  },
+  {
+   "start": "08:03",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "08:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:56",
+   "end": "12:02",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 186
+  },
+  {
+   "start": "12:02",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:04",
+   "end": "12:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:06",
+   "end": "12:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "12:30",
+   "end": "12:42",
+   "category": "面会・会談",
+   "label": "自民党の関口昌一参院議員会長、羽生田俊参院議員",
+   "minutes": 12
+  },
+  {
+   "start": "12:42",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:54",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:00",
+   "end": "17:00",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 240
+  },
+  {
+   "start": "17:00",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:06",
+   "end": "17:24",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 18
+  },
+  {
+   "start": "17:24",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:25",
+   "end": "17:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:27",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "17:59",
+   "end": "18:01",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "18:01",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:02",
+   "end": "18:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:12",
+   "end": "18:27",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「コンベンションホール」で自民党茂木派のパーティーに出席し、あいさつ",
+   "minutes": 15
+  },
+  {
+   "start": "18:27",
+   "end": "18:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 322
+  }
+ ],
+ "alloc_min": {
+  "居所": 784,
+  "移動": 30,
+  "取材・会見": 4,
+  "面会・会談": 29,
+  "公務（内容未詳）": 134,
+  "国会": 426,
+  "党務": 33
+ }
+}

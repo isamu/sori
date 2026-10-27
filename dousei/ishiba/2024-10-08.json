@@ -1,0 +1,589 @@
+{
+ "date": "2024-10-08",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 962,
+ "residence_min": 478,
+ "meetings": 11,
+ "first_work": "05:53",
+ "events": [
+  {
+   "time": "05:53",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "06:02",
+   "label": "青木一彦官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:50",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:56",
+   "label": "青木一彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:15",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:34",
+   "label": "青木一彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "09:59",
+   "label": "林芳正官房長官",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "10:02",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:38",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:45",
+   "label": "吉井章自民党参院議員",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:53",
+   "label": "高橋誠一全国賃貸住宅経営者政治連盟会長",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:10",
+   "label": "森山裕同党幹事長",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:17",
+   "label": "森山氏、小泉進次郎同党選対委員長",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:30",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "18:20",
+   "label": "秋葉剛男国家安全保障局長 原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:30",
+   "label": "原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:37",
+   "label": "四方敬之駐マレーシア大使、中込正志駐ウクライナ大使ら新任大使のあいさつ",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:42",
+   "label": "青木一彦官房副長官 秋葉剛男国家安全保障局長 森昌文首相補佐官 阪田渉官房副長官補 市川恵一官房副長官補 金杉憲治駐中国大使 船越健裕審議官 北村俊博報道官 鯰博行アジア大洋州局長 中村亮南部アジア部長 石月英雄国際協力局長 寺田吉道審議官 中嶋浩一郎審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:29",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:35",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:39",
+   "label": "同党の森山幹事長、小泉選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "21:59",
+   "label": "報道各社のインタビュー",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:01",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "05:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 353
+  },
+  {
+   "start": "05:53",
+   "end": "05:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "05:56",
+   "end": "06:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "06:02",
+   "end": "07:38",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 96
+  },
+  {
+   "start": "07:38",
+   "end": "07:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 12
+  },
+  {
+   "start": "07:50",
+   "end": "07:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "07:52",
+   "end": "07:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "07:56",
+   "end": "08:11",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 15
+  },
+  {
+   "start": "08:11",
+   "end": "08:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 11
+  },
+  {
+   "start": "08:26",
+   "end": "08:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:34",
+   "end": "08:57",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官",
+   "minutes": 23
+  },
+  {
+   "start": "08:57",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "09:51",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:52",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "09:58",
+   "end": "09:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:59",
+   "end": "10:01",
+   "category": "国会",
+   "label": "林芳正官房長官",
+   "minutes": 2
+  },
+  {
+   "start": "10:01",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:02",
+   "end": "11:35",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 93
+  },
+  {
+   "start": "11:35",
+   "end": "11:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:38",
+   "end": "11:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:41",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:45",
+   "end": "11:46",
+   "category": "面会・会談",
+   "label": "吉井章自民党参院議員",
+   "minutes": 1
+  },
+  {
+   "start": "11:46",
+   "end": "11:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "11:53",
+   "end": "12:09",
+   "category": "面会・会談",
+   "label": "高橋誠一全国賃貸住宅経営者政治連盟会長",
+   "minutes": 16
+  },
+  {
+   "start": "12:09",
+   "end": "12:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:10",
+   "end": "12:16",
+   "category": "面会・会談",
+   "label": "森山裕同党幹事長",
+   "minutes": 6
+  },
+  {
+   "start": "12:16",
+   "end": "12:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:17",
+   "end": "12:48",
+   "category": "面会・会談",
+   "label": "森山氏、小泉進次郎同党選対委員長",
+   "minutes": 31
+  },
+  {
+   "start": "12:48",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:53",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "12:57",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:01",
+   "end": "17:27",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 266
+  },
+  {
+   "start": "17:27",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:30",
+   "end": "17:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:32",
+   "end": "18:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "18:20",
+   "end": "18:29",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 原和也内閣情報官",
+   "minutes": 9
+  },
+  {
+   "start": "18:29",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:30",
+   "end": "18:36",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 6
+  },
+  {
+   "start": "18:36",
+   "end": "18:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:37",
+   "end": "18:38",
+   "category": "面会・会談",
+   "label": "四方敬之駐マレーシア大使、中込正志駐ウクライナ大使ら新任大使のあいさつ",
+   "minutes": 1
+  },
+  {
+   "start": "18:38",
+   "end": "18:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:42",
+   "end": "19:24",
+   "category": "面会・会談",
+   "label": "青木一彦官房副長官 秋葉剛男国家安全保障局長 森昌文首相補佐官 阪田渉官房副長官補 市川恵一官房副長官補 金杉憲治駐中国大使 船越健裕審議官 北村俊博報道官 鯰博行アジア大洋州局長 中村亮南部アジア部長 石月英雄国際協力局長 寺田吉道審議官 中嶋浩一郎審議官",
+   "minutes": 42
+  },
+  {
+   "start": "19:24",
+   "end": "20:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 65
+  },
+  {
+   "start": "20:29",
+   "end": "20:35",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 6
+  },
+  {
+   "start": "20:35",
+   "end": "20:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "20:38",
+   "end": "20:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:39",
+   "end": "21:58",
+   "category": "党務",
+   "label": "同党の森山幹事長、小泉選対委員長",
+   "minutes": 79
+  },
+  {
+   "start": "21:58",
+   "end": "21:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "21:59",
+   "end": "22:00",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "22:00",
+   "end": "22:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "22:01",
+   "end": "22:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "22:07",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 113
+  }
+ ],
+ "alloc_min": {
+  "居所": 478,
+  "移動": 22,
+  "公務（内容未詳）": 230,
+  "面会・会談": 246,
+  "官邸執務": 11,
+  "国会": 367,
+  "取材・会見": 7,
+  "党務": 79
+ }
+}

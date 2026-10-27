@@ -1,0 +1,119 @@
+{
+ "date": "2021-04-24",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 115,
+ "residence_min": 979,
+ "meetings": 1,
+ "first_work": "08:44",
+ "events": [
+  {
+   "time": "08:44",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "人間ドック",
+   "place": "東京・代々木 ＪＲ東京総合病院",
+   "category": "個人"
+  },
+  {
+   "time": "14:46",
+   "label": "移動",
+   "place": "東京・代々木 ＪＲ東京総合病院",
+   "category": "移動"
+  },
+  {
+   "time": "15:13",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:21",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 524
+  },
+  {
+   "start": "08:44",
+   "end": "09:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "09:00",
+   "end": "14:46",
+   "category": "個人",
+   "label": "人間ドック",
+   "minutes": 346
+  },
+  {
+   "start": "14:46",
+   "end": "15:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "15:10",
+   "end": "15:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:13",
+   "end": "15:45",
+   "category": "面会・会談",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官",
+   "minutes": 32
+  },
+  {
+   "start": "15:45",
+   "end": "16:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "16:21",
+   "end": "16:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "16:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 455
+  }
+ ],
+ "alloc_min": {
+  "居所": 979,
+  "移動": 44,
+  "個人": 346,
+  "公務（内容未詳）": 39,
+  "面会・会談": 32
+ }
+}

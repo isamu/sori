@@ -1,0 +1,235 @@
+{
+ "date": "2012-08-29",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.08.29",
+ "work_min": 564,
+ "residence_min": 876,
+ "meetings": 4,
+ "first_work": "09:44",
+ "events": [
+  {
+   "time": "09:44",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:45",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:15",
+   "label": "安住財務相、木下財務省主計局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:00",
+   "label": "インドネシアのスヤント政治・法務・治安担当調整相の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:23",
+   "label": "終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "14:57",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "民主党の輿石幹事長、樽床幹事長代行、高木選対委員長",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:51",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:51",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:14",
+   "label": "途中退席",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:17",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:20",
+   "label": "手塚首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:56",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "18:02",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "19:08",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 584
+  },
+  {
+   "start": "09:44",
+   "end": "09:45",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:45",
+   "end": "10:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "10:15",
+   "end": "11:00",
+   "category": "面会・会談",
+   "label": "安住財務相、木下財務省主計局長",
+   "minutes": 45
+  },
+  {
+   "start": "11:00",
+   "end": "11:23",
+   "category": "面会・会談",
+   "label": "インドネシアのスヤント政治・法務・治安担当調整相の表敬",
+   "minutes": 23
+  },
+  {
+   "start": "11:23",
+   "end": "14:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 214
+  },
+  {
+   "start": "14:57",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:00",
+   "end": "15:51",
+   "category": "面会・会談",
+   "label": "民主党の輿石幹事長、樽床幹事長代行、高木選対委員長",
+   "minutes": 51
+  },
+  {
+   "start": "15:51",
+   "end": "16:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "16:51",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:01",
+   "end": "17:14",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 13
+  },
+  {
+   "start": "17:14",
+   "end": "17:17",
+   "category": "移動",
+   "label": "国会から官邸へ移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:17",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:20",
+   "end": "17:56",
+   "category": "面会・会談",
+   "label": "手塚首相補佐官",
+   "minutes": 36
+  },
+  {
+   "start": "17:56",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:02",
+   "end": "19:08",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 66
+  },
+  {
+   "start": "19:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 292
+  }
+ ],
+ "alloc_min": {
+  "居所": 876,
+  "移動": 4,
+  "公務（内容未詳）": 326,
+  "面会・会談": 155,
+  "国会": 79
+ }
+}

@@ -1,0 +1,411 @@
+{
+ "date": "2021-10-21",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 851,
+ "residence_min": 589,
+ "meetings": 0,
+ "first_work": "07:29",
+ "events": [
+  {
+   "time": "07:29",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:42",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "09:31",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "09:39",
+   "label": "ワイドビューひだ５号",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:32",
+   "label": "ＪＲ美濃太田駅",
+   "place": "ＪＲ美濃太田駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:35",
+   "label": "移動",
+   "place": "ＪＲ美濃太田駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:46",
+   "label": "街頭演説",
+   "place": "岐阜県可児市 ふるさと川公園",
+   "category": "党務"
+  },
+  {
+   "time": "11:18",
+   "label": "移動",
+   "place": "岐阜県可児市 ふるさと川公園",
+   "category": "移動"
+  },
+  {
+   "time": "11:47",
+   "label": "休憩",
+   "place": "愛知県春日井市 中央自動車道内津峠パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "11:54",
+   "label": "移動",
+   "place": "愛知県春日井市 中央自動車道内津峠パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "12:14",
+   "label": "街頭演説",
+   "place": "同市 商業施設「イーアス春日井」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:40",
+   "label": "移動",
+   "place": "同市 商業施設「イーアス春日井」前",
+   "category": "移動"
+  },
+  {
+   "time": "13:21",
+   "label": "街頭演説",
+   "place": "名古屋市中村区 ジェイアール名古屋タカシマヤ前",
+   "category": "党務"
+  },
+  {
+   "time": "13:48",
+   "label": "移動",
+   "place": "名古屋市中村区 ジェイアール名古屋タカシマヤ前",
+   "category": "移動"
+  },
+  {
+   "time": "14:31",
+   "label": "休憩",
+   "place": "ＪＲ三河安城駅前",
+   "category": "移動"
+  },
+  {
+   "time": "14:35",
+   "label": "移動",
+   "place": "ＪＲ三河安城駅前",
+   "category": "移動"
+  },
+  {
+   "time": "14:43",
+   "label": "街頭演説",
+   "place": "同県安城市 複合施設「アンフォーレ」",
+   "category": "党務"
+  },
+  {
+   "time": "15:12",
+   "label": "移動",
+   "place": "同県安城市 複合施設「アンフォーレ」",
+   "category": "移動"
+  },
+  {
+   "time": "15:42",
+   "label": "街頭演説",
+   "place": "同県岡崎市 複合商業施設「ウイングタウン岡崎」の駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "16:12",
+   "label": "移動",
+   "place": "同県岡崎市 複合商業施設「ウイングタウン岡崎」の駐車場",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "休憩",
+   "place": "浜松市北区 東名高速道路浜名湖サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "浜松市北区 東名高速道路浜名湖サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:46",
+   "label": "街頭演説",
+   "place": "浜松市中区 ギャラリーモール「ソラモ」",
+   "category": "党務"
+  },
+  {
+   "time": "18:13",
+   "label": "移動",
+   "place": "浜松市中区 ギャラリーモール「ソラモ」",
+   "category": "移動"
+  },
+  {
+   "time": "18:16",
+   "label": "ＪＲ浜松駅",
+   "place": "ＪＲ浜松駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:17",
+   "label": "移動",
+   "place": "ＪＲ浜松駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:17",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:40",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 449
+  },
+  {
+   "start": "07:29",
+   "end": "07:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "07:42",
+   "end": "07:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "07:51",
+   "end": "09:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 100
+  },
+  {
+   "start": "09:31",
+   "end": "09:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "09:39",
+   "end": "10:32",
+   "category": "移動",
+   "label": "ワイドビューひだ５号",
+   "minutes": 53
+  },
+  {
+   "start": "10:32",
+   "end": "10:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:35",
+   "end": "10:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "10:46",
+   "end": "11:18",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "11:18",
+   "end": "11:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "11:47",
+   "end": "11:54",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 7
+  },
+  {
+   "start": "11:54",
+   "end": "12:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "12:14",
+   "end": "12:40",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "12:40",
+   "end": "13:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "13:21",
+   "end": "13:48",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "13:48",
+   "end": "14:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 43
+  },
+  {
+   "start": "14:31",
+   "end": "14:35",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 4
+  },
+  {
+   "start": "14:35",
+   "end": "14:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "14:43",
+   "end": "15:12",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "15:12",
+   "end": "15:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "15:42",
+   "end": "16:12",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "16:12",
+   "end": "17:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 50
+  },
+  {
+   "start": "17:02",
+   "end": "17:06",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 4
+  },
+  {
+   "start": "17:06",
+   "end": "17:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 40
+  },
+  {
+   "start": "17:46",
+   "end": "18:13",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "18:13",
+   "end": "18:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:16",
+   "end": "18:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:26",
+   "end": "20:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 111
+  },
+  {
+   "start": "20:17",
+   "end": "20:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "20:39",
+   "end": "21:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 61
+  },
+  {
+   "start": "21:40",
+   "end": "21:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 5
+  },
+  {
+   "start": "21:45",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 135
+  }
+ ],
+ "alloc_min": {
+  "居所": 589,
+  "移動": 399,
+  "公務（内容未詳）": 281,
+  "党務": 171
+ }
+}

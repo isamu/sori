@@ -1,0 +1,235 @@
+{
+ "date": "2020-11-07",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 362,
+ "residence_min": 1078,
+ "meetings": 1,
+ "first_work": "09:45",
+ "events": [
+  {
+   "time": "09:45",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:43",
+   "label": "移動",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "移動"
+  },
+  {
+   "time": "10:53",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "12:37",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "12:42",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "13:21",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "13:29",
+   "label": "「立皇嗣の礼」の所作確認",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:52",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "14:02",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "14:16",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "14:51",
+   "label": "同会議場内の多目的ホールで国際青年会議所世界会議横浜大会に出席し、講演、討論",
+   "place": "横浜市西区 国際会議場「パシフィコ横浜ノース」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:11",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "16:17",
+   "label": "岡田伸浩日本青年会議所元会頭らと懇談",
+   "place": "横浜市西区 ザ・カハラ・ホテル＆リゾート横浜",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "横浜市西区 ザ・カハラ・ホテル＆リゾート横浜",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 585
+  },
+  {
+   "start": "09:45",
+   "end": "09:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:58",
+   "end": "10:43",
+   "category": "式典・行事",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "minutes": 45
+  },
+  {
+   "start": "10:43",
+   "end": "10:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "10:53",
+   "end": "12:37",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 104
+  },
+  {
+   "start": "12:37",
+   "end": "12:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 39
+  },
+  {
+   "start": "13:21",
+   "end": "13:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "13:29",
+   "end": "13:52",
+   "category": "式典・行事",
+   "label": "「立皇嗣の礼」の所作確認",
+   "minutes": 23
+  },
+  {
+   "start": "13:52",
+   "end": "14:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "14:02",
+   "end": "14:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 14
+  },
+  {
+   "start": "14:16",
+   "end": "14:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "14:51",
+   "end": "16:11",
+   "category": "式典・行事",
+   "label": "同会議場内の多目的ホールで国際青年会議所世界会議横浜大会に出席し、講演、討論",
+   "minutes": 80
+  },
+  {
+   "start": "16:11",
+   "end": "16:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "16:17",
+   "end": "17:06",
+   "category": "面会・会談",
+   "label": "岡田伸浩日本青年会議所元会頭らと懇談",
+   "minutes": 49
+  },
+  {
+   "start": "17:06",
+   "end": "17:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "17:45",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 375
+  }
+ ],
+ "alloc_min": {
+  "居所": 1078,
+  "移動": 126,
+  "式典・行事": 148,
+  "公務（内容未詳）": 39,
+  "面会・会談": 49
+ }
+}

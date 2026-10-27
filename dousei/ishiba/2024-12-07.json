@@ -1,0 +1,77 @@
+{
+ "date": "2024-12-07",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 59,
+ "residence_min": 1381,
+ "meetings": 0,
+ "first_work": "17:05",
+ "events": [
+  {
+   "time": "17:05",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "17:08",
+   "label": "同ホテル内の中国料理店「星ケ岡」で知人と会食",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "17:58",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1025
+  },
+  {
+   "start": "17:05",
+   "end": "17:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:08",
+   "end": "17:58",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「星ケ岡」で知人と会食",
+   "minutes": 50
+  },
+  {
+   "start": "17:58",
+   "end": "18:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:04",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 356
+  }
+ ],
+ "alloc_min": {
+  "居所": 1381,
+  "移動": 9,
+  "会食": 50
+ }
+}

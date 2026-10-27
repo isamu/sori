@@ -1,0 +1,172 @@
+{
+ "date": "2021-08-12",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 333,
+ "residence_min": 1036,
+ "meetings": 1,
+ "first_work": "11:02",
+ "events": [
+  {
+   "time": "11:02",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "11:07",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "同ホテル内の歯科「ミヤタデンタルオフィス」で治療",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "個人"
+  },
+  {
+   "time": "14:09",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": "15:35",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監 迫井正深医政局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:08",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:09",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "17:40",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 662
+  },
+  {
+   "start": "11:02",
+   "end": "11:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 105
+  },
+  {
+   "start": "12:52",
+   "end": "12:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "12:58",
+   "end": "14:09",
+   "category": "個人",
+   "label": "同ホテル内の歯科「ミヤタデンタルオフィス」で治療",
+   "minutes": 71
+  },
+  {
+   "start": "14:09",
+   "end": "14:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:16",
+   "end": "15:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 79
+  },
+  {
+   "start": "15:35",
+   "end": "16:10",
+   "category": "面会・会談",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監 迫井正深医政局長",
+   "minutes": 35
+  },
+  {
+   "start": "16:10",
+   "end": "17:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 58
+  },
+  {
+   "start": "17:08",
+   "end": "17:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 31
+  },
+  {
+   "start": "17:40",
+   "end": "17:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "17:46",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 374
+  }
+ ],
+ "alloc_min": {
+  "居所": 1036,
+  "移動": 25,
+  "官邸執務": 105,
+  "個人": 71,
+  "公務（内容未詳）": 168,
+  "面会・会談": 35
+ }
+}

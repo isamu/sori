@@ -1,0 +1,258 @@
+{
+ "date": "2025-07-13",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 700,
+ "residence_min": 564,
+ "meetings": 0,
+ "first_work": "09:24",
+ "events": [
+  {
+   "time": "09:24",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:51",
+   "label": "同空港内の貴賓室で三原じゅん子こども政策担当相",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:40",
+   "label": "熊本空港",
+   "place": "熊本空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:48",
+   "label": "移動",
+   "place": "熊本空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:22",
+   "label": "昼食",
+   "place": "熊本県菊池市 望月旅館",
+   "category": "会食"
+  },
+  {
+   "time": "12:57",
+   "label": "移動",
+   "place": "熊本県菊池市 望月旅館",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "街頭演説。聴衆と握手",
+   "place": "菊池市ふるさと創生市民広場",
+   "category": "党務"
+  },
+  {
+   "time": "14:06",
+   "label": "移動",
+   "place": "菊池市ふるさと創生市民広場",
+   "category": "移動"
+  },
+  {
+   "time": "15:37",
+   "label": "２０１７年の九州北部豪雨被災地を視察。被災経験者と意見交換。栗原渉自民党衆院議員、林裕二同市長同席",
+   "place": "福岡県朝倉市 旧松末小学校",
+   "category": "視察"
+  },
+  {
+   "time": "16:28",
+   "label": "移動",
+   "place": "福岡県朝倉市 旧松末小学校",
+   "category": "移動"
+  },
+  {
+   "time": "17:13",
+   "label": "街頭演説。聴衆と握手",
+   "place": "同県久留米市 東町公園",
+   "category": "党務"
+  },
+  {
+   "time": "17:44",
+   "label": "移動",
+   "place": "同県久留米市 東町公園",
+   "category": "移動"
+  },
+  {
+   "time": "18:36",
+   "label": "福岡空港",
+   "place": "福岡空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:43",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:57",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "東京都大田区 羽田エクセルホテル東急",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:24",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 564
+  },
+  {
+   "start": "09:24",
+   "end": "09:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "09:47",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:51",
+   "end": "09:52",
+   "category": "移動",
+   "label": "同空港内の貴賓室で三原じゅん子こども政策担当相",
+   "minutes": 1
+  },
+  {
+   "start": "09:52",
+   "end": "11:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 108
+  },
+  {
+   "start": "11:40",
+   "end": "11:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:48",
+   "end": "12:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "12:22",
+   "end": "12:57",
+   "category": "会食",
+   "label": "昼食",
+   "minutes": 35
+  },
+  {
+   "start": "12:57",
+   "end": "12:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:58",
+   "end": "14:06",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 68
+  },
+  {
+   "start": "14:06",
+   "end": "15:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 91
+  },
+  {
+   "start": "15:37",
+   "end": "16:28",
+   "category": "視察",
+   "label": "２０１７年の九州北部豪雨被災地を視察。被災経験者と意見交換。栗原渉自民党衆院議員、林裕二同市長同席",
+   "minutes": 51
+  },
+  {
+   "start": "16:28",
+   "end": "17:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 45
+  },
+  {
+   "start": "17:13",
+   "end": "17:44",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 31
+  },
+  {
+   "start": "17:44",
+   "end": "18:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 52
+  },
+  {
+   "start": "18:36",
+   "end": "19:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 45
+  },
+  {
+   "start": "19:21",
+   "end": "20:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 82
+  },
+  {
+   "start": "20:43",
+   "end": "20:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "20:57",
+   "end": "21:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "21:04",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 176
+  }
+ ],
+ "alloc_min": {
+  "居所": 564,
+  "移動": 321,
+  "公務（内容未詳）": 194,
+  "会食": 35,
+  "党務": 99,
+  "視察": 51,
+  "個人": 176
+ }
+}

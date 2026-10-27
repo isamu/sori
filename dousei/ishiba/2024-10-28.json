@@ -1,0 +1,293 @@
+{
+ "date": "2024-10-28",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 531,
+ "residence_min": 909,
+ "meetings": 1,
+ "first_work": "01:29",
+ "events": [
+  {
+   "time": "01:29",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "01:33",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "10:46",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "11:00",
+   "label": "同党の菅義偉副総裁、森山裕幹事長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:31",
+   "label": "同党臨時役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:45",
+   "label": "森山幹事長ら党役員と打ち合わせ",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:17",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "12:20",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:06",
+   "label": "石井啓一公明党代表と与党党首会談",
+   "place": "国会 常任委員長室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:29",
+   "label": "移動",
+   "place": "国会 常任委員長室",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "記者会見",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:40",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "15:44",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "01:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 89
+  },
+  {
+   "start": "01:29",
+   "end": "01:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "01:33",
+   "end": "10:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 553
+  },
+  {
+   "start": "10:46",
+   "end": "10:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:54",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "11:00",
+   "end": "11:25",
+   "category": "党務",
+   "label": "同党の菅義偉副総裁、森山裕幹事長",
+   "minutes": 25
+  },
+  {
+   "start": "11:25",
+   "end": "11:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "11:31",
+   "end": "11:44",
+   "category": "党務",
+   "label": "同党臨時役員会",
+   "minutes": 13
+  },
+  {
+   "start": "11:44",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:45",
+   "end": "12:14",
+   "category": "党務",
+   "label": "森山幹事長ら党役員と打ち合わせ",
+   "minutes": 29
+  },
+  {
+   "start": "12:14",
+   "end": "12:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:17",
+   "end": "12:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 36
+  },
+  {
+   "start": "12:56",
+   "end": "12:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:58",
+   "end": "13:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:06",
+   "end": "13:27",
+   "category": "面会・会談",
+   "label": "石井啓一公明党代表と与党党首会談",
+   "minutes": 21
+  },
+  {
+   "start": "13:27",
+   "end": "13:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:29",
+   "end": "13:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:31",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "14:00",
+   "end": "14:31",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 31
+  },
+  {
+   "start": "14:31",
+   "end": "15:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 69
+  },
+  {
+   "start": "15:40",
+   "end": "15:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 223
+  },
+  {
+   "start": "19:27",
+   "end": "19:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "19:33",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 267
+  }
+ ],
+ "alloc_min": {
+  "居所": 909,
+  "移動": 29,
+  "公務（内容未詳）": 124,
+  "党務": 67,
+  "官邸執務": 259,
+  "面会・会談": 21,
+  "取材・会見": 31
+ }
+}

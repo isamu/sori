@@ -1,0 +1,314 @@
+{
+ "date": "2021-07-19",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 642,
+ "residence_min": 737,
+ "meetings": 5,
+ "first_work": "07:51",
+ "events": [
+  {
+   "time": "07:51",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:54",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "08:55",
+   "label": "秋葉剛男国家安全保障局長 森健良事務次官 船越健裕アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:22",
+   "label": "生命保険協会の高田幸徳、根岸秋男新旧会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:53",
+   "label": "開出英之事務次官 林俊行統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:03",
+   "label": "棚橋泰文国家公安委員長と会食",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "15:01",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:51",
+   "label": "樽見英樹事務次官 正林督章健康局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:54",
+   "label": "徒歩",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:55",
+   "label": "米ＮＢＣテレビのインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:29",
+   "label": "徒歩",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:32",
+   "label": "田村憲久厚労相 加藤勝信官房長官 河野太郎規制改革担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:29",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:37",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:29",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 471
+  },
+  {
+   "start": "07:51",
+   "end": "07:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "07:54",
+   "end": "08:55",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 61
+  },
+  {
+   "start": "08:55",
+   "end": "09:17",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 森健良事務次官 船越健裕アジア大洋州局長",
+   "minutes": 22
+  },
+  {
+   "start": "09:17",
+   "end": "10:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 65
+  },
+  {
+   "start": "10:22",
+   "end": "10:32",
+   "category": "面会・会談",
+   "label": "生命保険協会の高田幸徳、根岸秋男新旧会長",
+   "minutes": 10
+  },
+  {
+   "start": "10:32",
+   "end": "10:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "10:53",
+   "end": "11:03",
+   "category": "面会・会談",
+   "label": "開出英之事務次官 林俊行統括官",
+   "minutes": 10
+  },
+  {
+   "start": "11:03",
+   "end": "12:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "12:03",
+   "end": "12:41",
+   "category": "会食",
+   "label": "棚橋泰文国家公安委員長と会食",
+   "minutes": 38
+  },
+  {
+   "start": "12:41",
+   "end": "15:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 140
+  },
+  {
+   "start": "15:01",
+   "end": "15:14",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 13
+  },
+  {
+   "start": "15:14",
+   "end": "15:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "15:51",
+   "end": "15:56",
+   "category": "面会・会談",
+   "label": "樽見英樹事務次官 正林督章健康局長",
+   "minutes": 5
+  },
+  {
+   "start": "15:56",
+   "end": "16:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 58
+  },
+  {
+   "start": "16:54",
+   "end": "16:55",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 1
+  },
+  {
+   "start": "16:55",
+   "end": "17:29",
+   "category": "取材・会見",
+   "label": "米ＮＢＣテレビのインタビュー",
+   "minutes": 34
+  },
+  {
+   "start": "17:29",
+   "end": "17:31",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 2
+  },
+  {
+   "start": "17:31",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:32",
+   "end": "18:00",
+   "category": "面会・会談",
+   "label": "田村憲久厚労相 加藤勝信官房長官 河野太郎規制改革担当相",
+   "minutes": 28
+  },
+  {
+   "start": "18:00",
+   "end": "18:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "18:29",
+   "end": "18:30",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "18:30",
+   "end": "18:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:31",
+   "end": "18:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 52
+  },
+  {
+   "start": "19:29",
+   "end": "19:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:34",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 266
+  }
+ ],
+ "alloc_min": {
+  "居所": 737,
+  "移動": 17,
+  "個人": 61,
+  "面会・会談": 75,
+  "公務（内容未詳）": 464,
+  "会食": 38,
+  "官邸執務": 13,
+  "取材・会見": 35
+ }
+}

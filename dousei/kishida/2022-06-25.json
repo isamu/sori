@@ -1,0 +1,383 @@
+{
+ "date": "2022-06-25",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 757,
+ "residence_min": 683,
+ "meetings": 2,
+ "first_work": "07:58",
+ "events": [
+  {
+   "time": "07:58",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "08:15",
+   "label": "ＪＲ新宿駅",
+   "place": "ＪＲ新宿駅",
+   "category": "その他"
+  },
+  {
+   "time": "10:14",
+   "label": "支援者らと写真撮影",
+   "place": "ＪＲ甲府駅",
+   "category": "党務"
+  },
+  {
+   "time": "10:23",
+   "label": "徒歩",
+   "place": "ＪＲ甲府駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:24",
+   "label": "街頭演説",
+   "place": "ＪＲ甲府駅北口よっちゃばれ広場",
+   "category": "党務"
+  },
+  {
+   "time": "11:02",
+   "label": "徒歩",
+   "place": "ＪＲ甲府駅北口よっちゃばれ広場",
+   "category": "移動"
+  },
+  {
+   "time": "11:04",
+   "label": "森屋宏自民党山梨県連会長ら",
+   "place": "ＪＲ甲府駅",
+   "category": "党務"
+  },
+  {
+   "time": "12:19",
+   "label": "ＪＲ立川駅",
+   "place": "ＪＲ立川駅",
+   "category": "その他"
+  },
+  {
+   "time": "12:21",
+   "label": "徒歩",
+   "place": "ＪＲ立川駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:23",
+   "label": "街頭演説",
+   "place": "東京都立川市 百貨店「伊勢丹立川店」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "東京都立川市 百貨店「伊勢丹立川店」前",
+   "category": "移動"
+  },
+  {
+   "time": "13:45",
+   "label": "街頭演説",
+   "place": "ＪＲ吉祥寺駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "14:59",
+   "label": "休憩",
+   "place": "埼玉県所沢市 東日本高速道路所沢管理事務所",
+   "category": "移動"
+  },
+  {
+   "time": "15:03",
+   "label": "移動",
+   "place": "埼玉県所沢市 東日本高速道路所沢管理事務所",
+   "category": "移動"
+  },
+  {
+   "time": "15:37",
+   "label": "街頭演説",
+   "place": "同県東松山市 東武東上線東松山駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "16:01",
+   "label": "移動",
+   "place": "同県東松山市 東武東上線東松山駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "17:28",
+   "label": "街頭演説",
+   "place": "ＪＲ浦和駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "17:49",
+   "label": "移動",
+   "place": "ＪＲ浦和駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "18:36",
+   "label": "秋葉剛男国家安全保障局長 山田重夫審議官 船越健裕アジア大洋州局長 宇山秀樹欧州局長 米谷光司アフリカ部長 小野啓一経済局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:40",
+   "label": "秋葉剛男国家安全保障局長 山田重夫審議官 船越健裕アジア大洋州局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:05",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "23:29",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "23:54",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 478
+  },
+  {
+   "start": "07:58",
+   "end": "08:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "08:15",
+   "end": "08:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "08:30",
+   "end": "10:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 104
+  },
+  {
+   "start": "10:14",
+   "end": "10:23",
+   "category": "党務",
+   "label": "支援者らと写真撮影",
+   "minutes": 9
+  },
+  {
+   "start": "10:23",
+   "end": "10:24",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 1
+  },
+  {
+   "start": "10:24",
+   "end": "11:02",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "11:02",
+   "end": "11:03",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 1
+  },
+  {
+   "start": "11:03",
+   "end": "11:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:04",
+   "end": "11:12",
+   "category": "党務",
+   "label": "森屋宏自民党山梨県連会長ら",
+   "minutes": 8
+  },
+  {
+   "start": "11:12",
+   "end": "12:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "12:19",
+   "end": "12:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:21",
+   "end": "12:23",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 2
+  },
+  {
+   "start": "12:23",
+   "end": "12:52",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "12:52",
+   "end": "13:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 53
+  },
+  {
+   "start": "13:45",
+   "end": "14:25",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 40
+  },
+  {
+   "start": "14:25",
+   "end": "14:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "14:59",
+   "end": "15:03",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 4
+  },
+  {
+   "start": "15:03",
+   "end": "15:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "15:37",
+   "end": "16:01",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "16:01",
+   "end": "17:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 87
+  },
+  {
+   "start": "17:28",
+   "end": "17:49",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 21
+  },
+  {
+   "start": "17:49",
+   "end": "18:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 46
+  },
+  {
+   "start": "18:35",
+   "end": "18:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:36",
+   "end": "19:39",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 山田重夫審議官 船越健裕アジア大洋州局長 宇山秀樹欧州局長 米谷光司アフリカ部長 小野啓一経済局長",
+   "minutes": 63
+  },
+  {
+   "start": "19:39",
+   "end": "19:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "19:40",
+   "end": "20:02",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 山田重夫審議官 船越健裕アジア大洋州局長",
+   "minutes": 22
+  },
+  {
+   "start": "20:02",
+   "end": "20:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 3
+  },
+  {
+   "start": "20:05",
+   "end": "20:08",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "20:08",
+   "end": "23:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 201
+  },
+  {
+   "start": "23:29",
+   "end": "23:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "23:54",
+   "end": "24:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  }
+ ],
+ "alloc_min": {
+  "居所": 683,
+  "移動": 276,
+  "公務（内容未詳）": 224,
+  "党務": 169,
+  "面会・会談": 85,
+  "取材・会見": 3
+ }
+}

@@ -1,0 +1,300 @@
+{
+ "date": "2022-08-08",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 676,
+ "residence_min": 764,
+ "meetings": 2,
+ "first_work": "09:05",
+ "events": [
+  {
+   "time": "09:05",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:13",
+   "label": "山口那津男公明党代表",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "09:45",
+   "label": "川本裕子人事院総裁から人事院勧告",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:02",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:11",
+   "label": "武田良太自民党二階派事務総長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "10:52",
+   "label": "関口昌一自民党参院議員会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:46",
+   "label": "塩谷立自民党安倍派会長代理",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "15:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:51",
+   "label": "自民党の麻生太郎副総裁、茂木敏充幹事長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "16:33",
+   "label": "自民党臨時役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "16:42",
+   "label": "元宿仁自民党本部事務総長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "16:44",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "16:46",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "20:20",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 545
+  },
+  {
+   "start": "09:05",
+   "end": "09:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:06",
+   "end": "09:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:13",
+   "end": "09:33",
+   "category": "党務",
+   "label": "山口那津男公明党代表",
+   "minutes": 20
+  },
+  {
+   "start": "09:33",
+   "end": "09:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "09:45",
+   "end": "09:53",
+   "category": "面会・会談",
+   "label": "川本裕子人事院総裁から人事院勧告",
+   "minutes": 8
+  },
+  {
+   "start": "09:53",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "10:02",
+   "end": "10:08",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 6
+  },
+  {
+   "start": "10:08",
+   "end": "10:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:11",
+   "end": "10:31",
+   "category": "党務",
+   "label": "武田良太自民党二階派事務総長",
+   "minutes": 20
+  },
+  {
+   "start": "10:31",
+   "end": "10:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "10:52",
+   "end": "11:09",
+   "category": "面会・会談",
+   "label": "関口昌一自民党参院議員会長",
+   "minutes": 17
+  },
+  {
+   "start": "11:09",
+   "end": "13:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 157
+  },
+  {
+   "start": "13:46",
+   "end": "14:00",
+   "category": "党務",
+   "label": "塩谷立自民党安倍派会長代理",
+   "minutes": 14
+  },
+  {
+   "start": "14:00",
+   "end": "15:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 108
+  },
+  {
+   "start": "15:48",
+   "end": "15:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:50",
+   "end": "15:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:51",
+   "end": "16:29",
+   "category": "党務",
+   "label": "自民党の麻生太郎副総裁、茂木敏充幹事長",
+   "minutes": 38
+  },
+  {
+   "start": "16:29",
+   "end": "16:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:33",
+   "end": "16:41",
+   "category": "党務",
+   "label": "自民党臨時役員会",
+   "minutes": 8
+  },
+  {
+   "start": "16:41",
+   "end": "16:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:42",
+   "end": "16:43",
+   "category": "党務",
+   "label": "元宿仁自民党本部事務総長",
+   "minutes": 1
+  },
+  {
+   "start": "16:43",
+   "end": "16:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:44",
+   "end": "16:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 214
+  },
+  {
+   "start": "20:20",
+   "end": "20:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "20:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 219
+  }
+ ],
+ "alloc_min": {
+  "居所": 764,
+  "移動": 6,
+  "公務（内容未詳）": 324,
+  "党務": 101,
+  "面会・会談": 25,
+  "官邸執務": 220
+ }
+}

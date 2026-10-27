@@ -1,0 +1,275 @@
+{
+ "date": "2012-08-24",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.08.24",
+ "work_min": 731,
+ "residence_min": 709,
+ "meetings": 4,
+ "first_work": "07:31",
+ "events": [
+  {
+   "time": "07:31",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:16",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:25",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:36",
+   "label": "玄葉外相、藤村官房長官",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:46",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:24",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:42",
+   "label": "衆院財務金融委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:29",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:12",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:37",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:40",
+   "label": "岡田副総理",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:51",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:22",
+   "label": "斎藤官房副長官、長島首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:00",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:46",
+   "label": "国家戦略会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:42",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 451
+  },
+  {
+   "start": "07:31",
+   "end": "08:16",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 45
+  },
+  {
+   "start": "08:16",
+   "end": "08:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:25",
+   "end": "08:36",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "08:36",
+   "end": "08:46",
+   "category": "面会・会談",
+   "label": "玄葉外相、藤村官房長官",
+   "minutes": 10
+  },
+  {
+   "start": "08:46",
+   "end": "09:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "09:24",
+   "end": "09:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "09:42",
+   "end": "11:29",
+   "category": "国会",
+   "label": "衆院財務金融委員会",
+   "minutes": 107
+  },
+  {
+   "start": "11:29",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "12:04",
+   "end": "12:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "12:12",
+   "end": "12:37",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 25
+  },
+  {
+   "start": "12:37",
+   "end": "12:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:40",
+   "end": "12:51",
+   "category": "面会・会談",
+   "label": "岡田副総理",
+   "minutes": 11
+  },
+  {
+   "start": "12:51",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:00",
+   "end": "17:10",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 250
+  },
+  {
+   "start": "17:10",
+   "end": "17:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "17:22",
+   "end": "18:00",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、長島首相補佐官",
+   "minutes": 38
+  },
+  {
+   "start": "18:00",
+   "end": "18:46",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 46
+  },
+  {
+   "start": "18:46",
+   "end": "19:42",
+   "category": "官邸執務",
+   "label": "国家戦略会議",
+   "minutes": 56
+  },
+  {
+   "start": "19:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 258
+  }
+ ],
+ "alloc_min": {
+  "居所": 709,
+  "面会・会談": 104,
+  "公務（内容未詳）": 132,
+  "官邸執務": 67,
+  "国会": 382,
+  "取材・会見": 46
+ }
+}

@@ -1,0 +1,248 @@
+{
+ "date": "2012-06-12",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.06.12",
+ "work_min": 752,
+ "residence_min": 688,
+ "meetings": 7,
+ "first_work": "06:31",
+ "events": [
+  {
+   "time": "06:31",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:09",
+   "label": "両氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:14",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:24",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:32",
+   "label": "岡田副総理",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:38",
+   "label": "民主党の渡部恒三衆院議員",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:06",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:15",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:32",
+   "label": "雇用戦略対話",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:59",
+   "label": "古賀伸明連合会長ら。長浜官房副長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:16",
+   "label": "青年海外協力隊帰国隊員による報告会",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:35",
+   "label": "民主党の前原政調会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:03",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 391
+  },
+  {
+   "start": "06:31",
+   "end": "08:09",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "minutes": 98
+  },
+  {
+   "start": "08:09",
+   "end": "08:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:14",
+   "end": "08:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:24",
+   "end": "08:32",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "08:32",
+   "end": "08:38",
+   "category": "面会・会談",
+   "label": "岡田副総理",
+   "minutes": 6
+  },
+  {
+   "start": "08:38",
+   "end": "08:59",
+   "category": "面会・会談",
+   "label": "民主党の渡部恒三衆院議員",
+   "minutes": 21
+  },
+  {
+   "start": "08:59",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 186
+  },
+  {
+   "start": "12:05",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "12:51",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "12:59",
+   "end": "17:06",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 247
+  },
+  {
+   "start": "17:06",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "17:15",
+   "end": "17:32",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 17
+  },
+  {
+   "start": "17:32",
+   "end": "17:59",
+   "category": "官邸執務",
+   "label": "雇用戦略対話",
+   "minutes": 27
+  },
+  {
+   "start": "17:59",
+   "end": "18:16",
+   "category": "面会・会談",
+   "label": "古賀伸明連合会長ら。長浜官房副長官同席",
+   "minutes": 17
+  },
+  {
+   "start": "18:16",
+   "end": "18:35",
+   "category": "官邸執務",
+   "label": "青年海外協力隊帰国隊員による報告会",
+   "minutes": 19
+  },
+  {
+   "start": "18:35",
+   "end": "19:03",
+   "category": "面会・会談",
+   "label": "民主党の前原政調会長",
+   "minutes": 28
+  },
+  {
+   "start": "19:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 297
+  }
+ ],
+ "alloc_min": {
+  "居所": 688,
+  "面会・会談": 187,
+  "公務（内容未詳）": 78,
+  "官邸執務": 54,
+  "国会": 433
+ }
+}

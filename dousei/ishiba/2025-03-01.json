@@ -1,0 +1,166 @@
+{
+ "date": "2025-03-01",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 326,
+ "residence_min": 1114,
+ "meetings": 0,
+ "first_work": "12:41",
+ "events": [
+  {
+   "time": "12:41",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:35",
+   "label": "ファッションイベント「東京ガールズコレクション（ＴＧＣ）」に参加し、あいさつ",
+   "place": "東京・神南 国立代々木競技場第一体育館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:52",
+   "label": "報道各社のインタビュー",
+   "place": "東京・神南 国立代々木競技場第一体育館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:57",
+   "label": "移動",
+   "place": "東京・神南 国立代々木競技場第一体育館",
+   "category": "移動"
+  },
+  {
+   "time": "15:14",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:49",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:56",
+   "label": "笹川堯元自民党総務会長と会食",
+   "place": "東京・紀尾井町 中国料理店「赤坂維新號」",
+   "category": "会食"
+  },
+  {
+   "time": "20:36",
+   "label": "移動",
+   "place": "東京・紀尾井町 中国料理店「赤坂維新號」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 761
+  },
+  {
+   "start": "12:41",
+   "end": "12:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "12:58",
+   "end": "14:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 97
+  },
+  {
+   "start": "14:35",
+   "end": "14:39",
+   "category": "式典・行事",
+   "label": "ファッションイベント「東京ガールズコレクション（ＴＧＣ）」に参加し、あいさつ",
+   "minutes": 4
+  },
+  {
+   "start": "14:39",
+   "end": "14:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "14:52",
+   "end": "14:56",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 4
+  },
+  {
+   "start": "14:56",
+   "end": "14:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:57",
+   "end": "15:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "15:14",
+   "end": "17:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 155
+  },
+  {
+   "start": "17:49",
+   "end": "17:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "17:56",
+   "end": "20:36",
+   "category": "会食",
+   "label": "笹川堯元自民党総務会長と会食",
+   "minutes": 160
+  },
+  {
+   "start": "20:36",
+   "end": "20:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "20:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 198
+  }
+ ],
+ "alloc_min": {
+  "居所": 1114,
+  "移動": 47,
+  "公務（内容未詳）": 111,
+  "式典・行事": 4,
+  "取材・会見": 4,
+  "会食": 160
+ }
+}

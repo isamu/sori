@@ -1,0 +1,41 @@
+{
+ "date": "2013-02-22",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2013.02.22",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間21日）午後、政府専用機で米ワシントン近郊のアンドルーズ空軍基地着",
+   "place": "アンドルーズ空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ワシントンのブレアハウス（迎賓館）泊",
+   "place": "アンドルーズ空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間22日）午前、ワシントン近郊のアーリントン国立墓地で献花",
+   "place": "アンドルーズ空軍基地",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

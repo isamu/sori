@@ -1,0 +1,250 @@
+{
+ "date": "2025-07-19",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 645,
+ "residence_min": 205,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "09:50",
+   "label": "移動",
+   "place": "仙台市青葉区 ホテルメトロポリタン仙台イースト",
+   "category": "移動"
+  },
+  {
+   "time": "09:51",
+   "label": "街頭演説。聴衆と握手",
+   "place": "ＪＲ仙台駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "10:41",
+   "label": "移動",
+   "place": "ＪＲ仙台駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "11:22",
+   "label": "仙台空港",
+   "place": "仙台空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:44",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "13:06",
+   "label": "移動",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:16",
+   "label": "重清佳之同党徳島県連会長と面会",
+   "place": "徳島市 自民党参院選候補者の事務所",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:32",
+   "label": "移動",
+   "place": "徳島市 自民党参院選候補者の事務所",
+   "category": "移動"
+  },
+  {
+   "time": "15:42",
+   "label": "街頭演説。聴衆と握手",
+   "place": "ＪＲ徳島駅前",
+   "category": "党務"
+  },
+  {
+   "time": "16:30",
+   "label": "移動",
+   "place": "ＪＲ徳島駅前",
+   "category": "移動"
+  },
+  {
+   "time": "16:58",
+   "label": "徳島空港",
+   "place": "徳島空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:03",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:13",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:34",
+   "label": "街頭演説。聴衆と握手",
+   "place": "ＪＲ蒲田駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "20:12",
+   "label": "移動",
+   "place": "ＪＲ蒲田駅西口",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:50",
+   "category": "個人",
+   "label": "公務（内容未詳）",
+   "minutes": 590
+  },
+  {
+   "start": "09:50",
+   "end": "09:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:51",
+   "end": "10:41",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 50
+  },
+  {
+   "start": "10:41",
+   "end": "11:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "11:22",
+   "end": "11:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "11:44",
+   "end": "12:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "12:44",
+   "end": "13:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "13:06",
+   "end": "15:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 130
+  },
+  {
+   "start": "15:16",
+   "end": "15:32",
+   "category": "面会・会談",
+   "label": "重清佳之同党徳島県連会長と面会",
+   "minutes": 16
+  },
+  {
+   "start": "15:32",
+   "end": "15:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "15:42",
+   "end": "16:30",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 48
+  },
+  {
+   "start": "16:30",
+   "end": "16:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "16:58",
+   "end": "17:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 56
+  },
+  {
+   "start": "17:54",
+   "end": "19:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 69
+  },
+  {
+   "start": "19:03",
+   "end": "19:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "19:13",
+   "end": "19:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "19:34",
+   "end": "20:12",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 38
+  },
+  {
+   "start": "20:12",
+   "end": "20:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "20:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 205
+  }
+ ],
+ "alloc_min": {
+  "個人": 590,
+  "移動": 364,
+  "党務": 136,
+  "公務（内容未詳）": 129,
+  "面会・会談": 16,
+  "居所": 205
+ }
+}

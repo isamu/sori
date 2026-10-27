@@ -1,0 +1,171 @@
+{
+ "date": "2025-02-02",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 296,
+ "residence_min": 1069,
+ "meetings": 1,
+ "first_work": "08:53",
+ "events": [
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "11:47",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "11:55",
+   "label": "同ホテル内の宴会場「鳳凰の間」で知人の親族の結婚披露宴に出席。あいさつ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "個人"
+  },
+  {
+   "time": "13:10",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "14:30",
+   "label": "橘慶一郎官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:52",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:57",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "19:29",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 533
+  },
+  {
+   "start": "08:53",
+   "end": "08:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "08:58",
+   "end": "11:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 169
+  },
+  {
+   "start": "11:47",
+   "end": "11:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:55",
+   "end": "13:10",
+   "category": "個人",
+   "label": "同ホテル内の宴会場「鳳凰の間」で知人の親族の結婚披露宴に出席。あいさつ",
+   "minutes": 75
+  },
+  {
+   "start": "13:10",
+   "end": "13:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "13:17",
+   "end": "14:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 73
+  },
+  {
+   "start": "14:30",
+   "end": "17:44",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官",
+   "minutes": 194
+  },
+  {
+   "start": "17:44",
+   "end": "17:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 8
+  },
+  {
+   "start": "17:52",
+   "end": "17:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "17:57",
+   "end": "19:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 92
+  },
+  {
+   "start": "19:29",
+   "end": "19:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "19:33",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 267
+  }
+ ],
+ "alloc_min": {
+  "居所": 1069,
+  "移動": 29,
+  "個人": 75,
+  "公務（内容未詳）": 73,
+  "面会・会談": 194
+ }
+}

@@ -1,0 +1,348 @@
+{
+ "date": "2021-06-09",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 691,
+ "residence_min": 609,
+ "meetings": 3,
+ "first_work": "07:25",
+ "events": [
+  {
+   "time": "07:25",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "09:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:53",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:03",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:00",
+   "label": "党首討論",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:54",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:17",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:12",
+   "label": "岡田直樹官房副長官 北村滋国家安全保障局長 阿達雅志首相補佐官 森健良審議官 船越健裕アジア大洋州局長 市川恵一北米局長 宇山秀樹欧州局長 槌道明宏審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:47",
+   "label": "国・地方脱炭素実現会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:55",
+   "label": "森健良審議官 小野啓一地球規模課題審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:35",
+   "label": "小泉進次郎環境相 小此木八郎国家公安委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:07",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 445
+  },
+  {
+   "start": "07:25",
+   "end": "07:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "07:30",
+   "end": "09:50",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 140
+  },
+  {
+   "start": "09:50",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:52",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:01",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 60
+  },
+  {
+   "start": "11:01",
+   "end": "11:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:03",
+   "end": "11:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 288
+  },
+  {
+   "start": "15:53",
+   "end": "15:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:55",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "16:00",
+   "end": "16:51",
+   "category": "国会",
+   "label": "党首討論",
+   "minutes": 51
+  },
+  {
+   "start": "16:51",
+   "end": "16:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:54",
+   "end": "16:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:56",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "17:17",
+   "end": "18:03",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 46
+  },
+  {
+   "start": "18:03",
+   "end": "18:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "18:12",
+   "end": "18:41",
+   "category": "面会・会談",
+   "label": "岡田直樹官房副長官 北村滋国家安全保障局長 阿達雅志首相補佐官 森健良審議官 船越健裕アジア大洋州局長 市川恵一北米局長 宇山秀樹欧州局長 槌道明宏審議官",
+   "minutes": 29
+  },
+  {
+   "start": "18:41",
+   "end": "18:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:47",
+   "end": "18:54",
+   "category": "官邸執務",
+   "label": "国・地方脱炭素実現会議",
+   "minutes": 7
+  },
+  {
+   "start": "18:54",
+   "end": "18:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:55",
+   "end": "20:27",
+   "category": "面会・会談",
+   "label": "森健良審議官 小野啓一地球規模課題審議官",
+   "minutes": 92
+  },
+  {
+   "start": "20:27",
+   "end": "20:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "20:35",
+   "end": "20:58",
+   "category": "面会・会談",
+   "label": "小泉進次郎環境相 小此木八郎国家公安委員長",
+   "minutes": 23
+  },
+  {
+   "start": "20:58",
+   "end": "21:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "21:07",
+   "end": "21:11",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 4
+  },
+  {
+   "start": "21:11",
+   "end": "21:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "21:12",
+   "end": "21:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "21:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 164
+  }
+ ],
+ "alloc_min": {
+  "居所": 609,
+  "移動": 17,
+  "個人": 140,
+  "公務（内容未詳）": 70,
+  "国会": 115,
+  "官邸執務": 341,
+  "面会・会談": 144,
+  "取材・会見": 4
+ }
+}

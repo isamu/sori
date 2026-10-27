@@ -1,0 +1,134 @@
+{
+ "date": "2024-11-10",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 127,
+ "residence_min": 1313,
+ "meetings": 1,
+ "first_work": "13:46",
+ "events": [
+  {
+   "time": "13:46",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "馬場伸幸日本維新の会代表と党首会談。自民党の森山裕幹事長、坂本哲志国対委員長、維新の藤田文武幹事長、遠藤敬国対委員長同席",
+   "place": "公邸",
+   "category": "党務"
+  },
+  {
+   "time": "15:31",
+   "label": "森山、坂本両氏",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:13",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:18",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 826
+  },
+  {
+   "start": "13:46",
+   "end": "13:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:49",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "15:00",
+   "end": "15:30",
+   "category": "党務",
+   "label": "馬場伸幸日本維新の会代表と党首会談。自民党の森山裕幹事長、坂本哲志国対委員長、維新の藤田文武幹事長、遠藤敬国対委員長同席",
+   "minutes": 30
+  },
+  {
+   "start": "15:30",
+   "end": "15:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "15:31",
+   "end": "15:44",
+   "category": "面会・会談",
+   "label": "森山、坂本両氏",
+   "minutes": 13
+  },
+  {
+   "start": "15:44",
+   "end": "17:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 89
+  },
+  {
+   "start": "17:13",
+   "end": "17:17",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 4
+  },
+  {
+   "start": "17:17",
+   "end": "17:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "17:18",
+   "end": "17:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "17:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 396
+  }
+ ],
+ "alloc_min": {
+  "居所": 1313,
+  "移動": 9,
+  "公務（内容未詳）": 71,
+  "党務": 30,
+  "面会・会談": 13,
+  "取材・会見": 4
+ }
+}

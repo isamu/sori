@@ -1,0 +1,103 @@
+{
+ "date": "2024-12-30",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 17,
+ "residence_min": 247,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "09:53",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "09:57",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "13:03",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:08",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "14:09",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:53",
+   "category": "個人",
+   "label": "公務（内容未詳）",
+   "minutes": 593
+  },
+  {
+   "start": "09:53",
+   "end": "09:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "09:57",
+   "end": "13:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 186
+  },
+  {
+   "start": "13:03",
+   "end": "13:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "13:08",
+   "end": "14:09",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 61
+  },
+  {
+   "start": "14:09",
+   "end": "14:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "14:17",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 583
+  }
+ ],
+ "alloc_min": {
+  "個人": 1176,
+  "移動": 17,
+  "居所": 247
+ }
+}

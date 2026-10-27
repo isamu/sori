@@ -1,0 +1,321 @@
+{
+ "date": "2012-08-10",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.08.10",
+ "work_min": 738,
+ "residence_min": 702,
+ "meetings": 12,
+ "first_work": "07:00",
+ "events": [
+  {
+   "time": "07:00",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:48",
+   "label": "長浜氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:16",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:17",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:19",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:29",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:35",
+   "label": "岡田副総理",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:00",
+   "label": "参院消費増税関連特別委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "13:20",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:58",
+   "label": "斎藤官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:40",
+   "label": "平野復興相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:49",
+   "label": "民主党の藤井裕久税調会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:57",
+   "label": "安住財務相、藤村官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:13",
+   "label": "北村内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:10",
+   "label": "斎藤副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:58",
+   "label": "斎藤氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:44",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:48",
+   "label": "参院の平田議長、尾辻副議長、鶴保議院運営委員長、与野党各会派にあいさつ回り。岡田副総理ら同行",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:06",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:40",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:05",
+   "label": "長島首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:19",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 420
+  },
+  {
+   "start": "07:00",
+   "end": "08:16",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 76
+  },
+  {
+   "start": "08:16",
+   "end": "08:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "08:17",
+   "end": "08:19",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:19",
+   "end": "08:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:29",
+   "end": "08:35",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 6
+  },
+  {
+   "start": "08:35",
+   "end": "09:00",
+   "category": "面会・会談",
+   "label": "岡田副総理",
+   "minutes": 25
+  },
+  {
+   "start": "09:00",
+   "end": "13:02",
+   "category": "国会",
+   "label": "参院消費増税関連特別委員会",
+   "minutes": 242
+  },
+  {
+   "start": "13:02",
+   "end": "13:20",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 18
+  },
+  {
+   "start": "13:20",
+   "end": "13:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "13:58",
+   "end": "14:40",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官",
+   "minutes": 42
+  },
+  {
+   "start": "14:40",
+   "end": "14:49",
+   "category": "面会・会談",
+   "label": "平野復興相",
+   "minutes": 9
+  },
+  {
+   "start": "14:49",
+   "end": "14:57",
+   "category": "面会・会談",
+   "label": "民主党の藤井裕久税調会長",
+   "minutes": 8
+  },
+  {
+   "start": "14:57",
+   "end": "15:13",
+   "category": "面会・会談",
+   "label": "安住財務相、藤村官房長官",
+   "minutes": 16
+  },
+  {
+   "start": "15:13",
+   "end": "16:10",
+   "category": "面会・会談",
+   "label": "北村内閣情報官",
+   "minutes": 57
+  },
+  {
+   "start": "16:10",
+   "end": "16:58",
+   "category": "面会・会談",
+   "label": "斎藤副長官",
+   "minutes": 48
+  },
+  {
+   "start": "16:58",
+   "end": "17:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "17:44",
+   "end": "17:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:48",
+   "end": "18:06",
+   "category": "官邸執務",
+   "label": "参院の平田議長、尾辻副議長、鶴保議院運営委員長、与野党各会派にあいさつ回り。岡田副総理ら同行",
+   "minutes": 18
+  },
+  {
+   "start": "18:06",
+   "end": "18:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "18:40",
+   "end": "19:05",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 25
+  },
+  {
+   "start": "19:05",
+   "end": "19:19",
+   "category": "面会・会談",
+   "label": "長島首相補佐官",
+   "minutes": 14
+  },
+  {
+   "start": "19:19",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 281
+  }
+ ],
+ "alloc_min": {
+  "居所": 702,
+  "面会・会談": 295,
+  "移動": 2,
+  "公務（内容未詳）": 132,
+  "官邸執務": 24,
+  "国会": 260,
+  "取材・会見": 25
+ }
+}

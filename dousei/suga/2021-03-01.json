@@ -1,0 +1,408 @@
+{
+ "date": "2021-03-01",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 687,
+ "residence_min": 713,
+ "meetings": 5,
+ "first_work": "07:01",
+ "events": [
+  {
+   "time": "07:01",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:04",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "07:44",
+   "label": "坂井学官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:50",
+   "label": "国会 衆院第１委員室",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:52",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:21",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:30",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:45",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "15:52",
+   "label": "原田義昭自民党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:58",
+   "label": "西村康稔経済再生担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:48",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:15",
+   "label": "小野寺五典自民党組織運動本部長",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:22",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "18:05",
+   "label": "水嶋光一駐イスラエル大使",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:38",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:02",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 421
+  },
+  {
+   "start": "07:01",
+   "end": "07:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "07:04",
+   "end": "07:44",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 40
+  },
+  {
+   "start": "07:44",
+   "end": "08:07",
+   "category": "面会・会談",
+   "label": "坂井学官房副長官",
+   "minutes": 23
+  },
+  {
+   "start": "08:07",
+   "end": "08:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "08:46",
+   "end": "08:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "08:52",
+   "end": "08:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 27
+  },
+  {
+   "start": "09:21",
+   "end": "09:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:23",
+   "end": "09:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:30",
+   "end": "12:43",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 193
+  },
+  {
+   "start": "12:43",
+   "end": "12:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:45",
+   "end": "12:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:47",
+   "end": "15:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 185
+  },
+  {
+   "start": "15:52",
+   "end": "15:57",
+   "category": "面会・会談",
+   "label": "原田義昭自民党衆院議員",
+   "minutes": 5
+  },
+  {
+   "start": "15:57",
+   "end": "15:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:58",
+   "end": "16:34",
+   "category": "面会・会談",
+   "label": "西村康稔経済再生担当相",
+   "minutes": 36
+  },
+  {
+   "start": "16:34",
+   "end": "16:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "16:48",
+   "end": "16:50",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "16:50",
+   "end": "16:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:51",
+   "end": "16:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "16:56",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:00",
+   "end": "17:13",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 13
+  },
+  {
+   "start": "17:13",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:15",
+   "end": "17:20",
+   "category": "面会・会談",
+   "label": "小野寺五典自民党組織運動本部長",
+   "minutes": 5
+  },
+  {
+   "start": "17:20",
+   "end": "17:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:22",
+   "end": "17:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:24",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "18:05",
+   "end": "18:10",
+   "category": "面会・会談",
+   "label": "水嶋光一駐イスラエル大使",
+   "minutes": 5
+  },
+  {
+   "start": "18:10",
+   "end": "18:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "18:36",
+   "end": "18:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 24
+  },
+  {
+   "start": "19:02",
+   "end": "19:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "19:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 292
+  }
+ ],
+ "alloc_min": {
+  "居所": 713,
+  "移動": 26,
+  "個人": 40,
+  "面会・会談": 74,
+  "公務（内容未詳）": 350,
+  "国会": 195,
+  "官邸執務": 27,
+  "取材・会見": 2,
+  "党務": 13
+ }
+}

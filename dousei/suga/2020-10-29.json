@@ -1,0 +1,399 @@
+{
+ "date": "2020-10-29",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 834,
+ "residence_min": 606,
+ "meetings": 5,
+ "first_work": "06:41",
+ "events": [
+  {
+   "time": "06:41",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "06:44",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "07:35",
+   "label": "岡田直樹官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:04",
+   "label": "坂井学官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:40",
+   "label": "高島直樹自民党東京都連幹事長、山崎一輝都議会自民党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:47",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:49",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:53",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:51",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "北村滋国家安全保障局長 滝沢裕昭内閣情報官 山田重夫総合外交政策局長 防衛省の岡真臣防衛政策局長 増子豊統合幕僚副長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:24",
+   "label": "シンガポールのリー・シェンロン首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:13",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:15",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:28",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "19:34",
+   "label": "同ホテル内のレストラン「オーキッド」で桜田義孝元五輪担当相と会食",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "会食"
+  },
+  {
+   "time": "20:27",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 401
+  },
+  {
+   "start": "06:41",
+   "end": "06:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 51
+  },
+  {
+   "start": "07:35",
+   "end": "08:03",
+   "category": "面会・会談",
+   "label": "岡田直樹官房副長官",
+   "minutes": 28
+  },
+  {
+   "start": "08:03",
+   "end": "08:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:04",
+   "end": "08:32",
+   "category": "面会・会談",
+   "label": "坂井学官房副長官",
+   "minutes": 28
+  },
+  {
+   "start": "08:32",
+   "end": "08:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:40",
+   "end": "08:50",
+   "category": "面会・会談",
+   "label": "高島直樹自民党東京都連幹事長、山崎一輝都議会自民党幹事長",
+   "minutes": 10
+  },
+  {
+   "start": "08:50",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 61
+  },
+  {
+   "start": "09:51",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:52",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:45",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 104
+  },
+  {
+   "start": "11:45",
+   "end": "11:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:47",
+   "end": "11:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 121
+  },
+  {
+   "start": "13:50",
+   "end": "13:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:52",
+   "end": "13:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "14:00",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:02",
+   "end": "15:49",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 107
+  },
+  {
+   "start": "15:49",
+   "end": "15:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:51",
+   "end": "15:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:53",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 69
+  },
+  {
+   "start": "17:02",
+   "end": "17:14",
+   "category": "面会・会談",
+   "label": "北村滋国家安全保障局長 滝沢裕昭内閣情報官 山田重夫総合外交政策局長 防衛省の岡真臣防衛政策局長 増子豊統合幕僚副長",
+   "minutes": 12
+  },
+  {
+   "start": "17:14",
+   "end": "17:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:24",
+   "end": "17:37",
+   "category": "面会・会談",
+   "label": "シンガポールのリー・シェンロン首相と電話会談",
+   "minutes": 13
+  },
+  {
+   "start": "17:37",
+   "end": "19:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 96
+  },
+  {
+   "start": "19:13",
+   "end": "19:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 13
+  },
+  {
+   "start": "19:28",
+   "end": "19:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "19:34",
+   "end": "20:27",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「オーキッド」で桜田義孝元五輪担当相と会食",
+   "minutes": 53
+  },
+  {
+   "start": "20:27",
+   "end": "20:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "20:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 205
+  }
+ ],
+ "alloc_min": {
+  "居所": 606,
+  "移動": 26,
+  "官邸執務": 172,
+  "面会・会談": 91,
+  "公務（内容未詳）": 271,
+  "国会": 221,
+  "会食": 53
+ }
+}

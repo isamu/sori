@@ -1,0 +1,178 @@
+{
+ "date": "2020-12-26",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 158,
+ "residence_min": 1282,
+ "meetings": 4,
+ "first_work": "10:51",
+ "events": [
+  {
+   "time": "10:51",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:55",
+   "label": "和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監 正林督章健康局長 鎌田光明医薬・生活衛生局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:17",
+   "label": "和泉洋人首相補佐官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:30",
+   "label": "北朝鮮による拉致被害者の支援組織「救う会」の西岡力会長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:30",
+   "label": "船橋洋一アジア・パシフィック・イニシアティブ理事長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:25",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:27",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "16:20",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 651
+  },
+  {
+   "start": "10:51",
+   "end": "10:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:54",
+   "end": "10:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:55",
+   "end": "11:16",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官 吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監 正林督章健康局長 鎌田光明医薬・生活衛生局長",
+   "minutes": 21
+  },
+  {
+   "start": "11:16",
+   "end": "11:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "11:17",
+   "end": "11:22",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官",
+   "minutes": 5
+  },
+  {
+   "start": "11:22",
+   "end": "13:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 128
+  },
+  {
+   "start": "13:30",
+   "end": "13:51",
+   "category": "面会・会談",
+   "label": "北朝鮮による拉致被害者の支援組織「救う会」の西岡力会長",
+   "minutes": 21
+  },
+  {
+   "start": "13:51",
+   "end": "14:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 39
+  },
+  {
+   "start": "14:30",
+   "end": "15:16",
+   "category": "面会・会談",
+   "label": "船橋洋一アジア・パシフィック・イニシアティブ理事長",
+   "minutes": 46
+  },
+  {
+   "start": "15:16",
+   "end": "15:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 9
+  },
+  {
+   "start": "15:25",
+   "end": "15:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 53
+  },
+  {
+   "start": "16:20",
+   "end": "16:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "16:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 454
+  }
+ ],
+ "alloc_min": {
+  "居所": 1282,
+  "移動": 11,
+  "公務（内容未詳）": 54,
+  "面会・会談": 93
+ }
+}

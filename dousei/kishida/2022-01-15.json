@@ -1,0 +1,130 @@
+{
+ "date": "2022-01-15",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 182,
+ "residence_min": 1157,
+ "meetings": 0,
+ "first_work": "14:55",
+ "events": [
+  {
+   "time": "14:55",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:03",
+   "label": "同ホテル内の「ヘアサロン大野」で散髪",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "個人"
+  },
+  {
+   "time": "16:44",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "16:51",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:13",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:29",
+   "label": "山際大志郎経済再生担当相、木原誠二官房副長官、甘利明自民党前幹事長と会食",
+   "place": "東京・明石町 日本料理店「つきじ治作」",
+   "category": "会食"
+  },
+  {
+   "time": "20:46",
+   "label": "移動",
+   "place": "東京・明石町 日本料理店「つきじ治作」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 895
+  },
+  {
+   "start": "14:55",
+   "end": "15:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "15:03",
+   "end": "16:44",
+   "category": "個人",
+   "label": "同ホテル内の「ヘアサロン大野」で散髪",
+   "minutes": 101
+  },
+  {
+   "start": "16:44",
+   "end": "16:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "16:51",
+   "end": "18:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 82
+  },
+  {
+   "start": "18:13",
+   "end": "18:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "18:29",
+   "end": "20:46",
+   "category": "会食",
+   "label": "山際大志郎経済再生担当相、木原誠二官房副長官、甘利明自民党前幹事長と会食",
+   "minutes": 137
+  },
+  {
+   "start": "20:46",
+   "end": "21:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "21:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 180
+  }
+ ],
+ "alloc_min": {
+  "居所": 1157,
+  "移動": 45,
+  "個人": 101,
+  "会食": 137
+ }
+}

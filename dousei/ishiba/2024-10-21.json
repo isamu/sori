@@ -1,0 +1,328 @@
+{
+ "date": "2024-10-21",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 885,
+ "residence_min": 66,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "08:09",
+   "label": "移動",
+   "place": "大阪市北区 帝国ホテル大阪",
+   "category": "移動"
+  },
+  {
+   "time": "09:05",
+   "label": "街頭演説",
+   "place": "ＪＲ奈良駅前",
+   "category": "党務"
+  },
+  {
+   "time": "09:44",
+   "label": "移動",
+   "place": "ＪＲ奈良駅前",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "街頭演説",
+   "place": "大阪市中央区 百貨店「高島屋大阪店」前",
+   "category": "党務"
+  },
+  {
+   "time": "11:21",
+   "label": "移動",
+   "place": "大阪市中央区 百貨店「高島屋大阪店」前",
+   "category": "移動"
+  },
+  {
+   "time": "11:45",
+   "label": "街頭演説",
+   "place": "同市北区 扇町公園",
+   "category": "党務"
+  },
+  {
+   "time": "12:16",
+   "label": "移動",
+   "place": "同市北区 扇町公園",
+   "category": "移動"
+  },
+  {
+   "time": "12:42",
+   "label": "街頭演説",
+   "place": "大阪府寝屋川市 京阪寝屋川市駅前",
+   "category": "党務"
+  },
+  {
+   "time": "13:18",
+   "label": "移動",
+   "place": "大阪府寝屋川市 京阪寝屋川市駅前",
+   "category": "移動"
+  },
+  {
+   "time": "13:58",
+   "label": "街頭演説",
+   "place": "ＪＲ高槻駅前",
+   "category": "党務"
+  },
+  {
+   "time": "14:29",
+   "label": "移動",
+   "place": "ＪＲ高槻駅前",
+   "category": "移動"
+  },
+  {
+   "time": "15:24",
+   "label": "街頭演説",
+   "place": "京都府亀岡市 亀岡駅北駅前広場",
+   "category": "党務"
+  },
+  {
+   "time": "16:00",
+   "label": "移動",
+   "place": "京都府亀岡市 亀岡駅北駅前広場",
+   "category": "移動"
+  },
+  {
+   "time": "17:26",
+   "label": "街頭演説",
+   "place": "滋賀県彦根市 ＪＲ彦根駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:58",
+   "label": "移動",
+   "place": "滋賀県彦根市 ＪＲ彦根駅前",
+   "category": "移動"
+  },
+  {
+   "time": "18:09",
+   "label": "ＪＲ米原駅",
+   "place": "ＪＲ米原駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:46",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "20:51",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:02",
+   "label": "同党の菅義偉副総裁、森山裕幹事長、小泉進次郎選対委員長、元宿仁党本部事務総長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "22:49",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:09",
+   "category": "個人",
+   "label": "大阪市北区 帝国ホテル大阪宿泊",
+   "minutes": 489
+  },
+  {
+   "start": "08:09",
+   "end": "09:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 56
+  },
+  {
+   "start": "09:05",
+   "end": "09:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 39
+  },
+  {
+   "start": "09:44",
+   "end": "10:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 61
+  },
+  {
+   "start": "10:45",
+   "end": "11:21",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "11:21",
+   "end": "11:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "11:35",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "11:45",
+   "end": "12:16",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "12:16",
+   "end": "12:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "12:42",
+   "end": "13:18",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "13:18",
+   "end": "13:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 40
+  },
+  {
+   "start": "13:58",
+   "end": "14:29",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "14:29",
+   "end": "15:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 55
+  },
+  {
+   "start": "15:24",
+   "end": "16:00",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "16:00",
+   "end": "17:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 86
+  },
+  {
+   "start": "17:26",
+   "end": "17:58",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "17:58",
+   "end": "18:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:09",
+   "end": "18:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "18:33",
+   "end": "20:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 133
+  },
+  {
+   "start": "20:46",
+   "end": "20:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "20:51",
+   "end": "21:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "21:01",
+   "end": "21:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "21:02",
+   "end": "22:10",
+   "category": "党務",
+   "label": "同党の菅義偉副総裁、森山裕幹事長、小泉進次郎選対委員長、元宿仁党本部事務総長",
+   "minutes": 68
+  },
+  {
+   "start": "22:10",
+   "end": "22:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "22:49",
+   "end": "22:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "22:54",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 66
+  }
+ ],
+ "alloc_min": {
+  "個人": 489,
+  "移動": 388,
+  "党務": 309,
+  "公務（内容未詳）": 188,
+  "居所": 66
+ }
+}

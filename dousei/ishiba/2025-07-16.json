@@ -1,0 +1,269 @@
+{
+ "date": "2025-07-16",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 761,
+ "residence_min": 679,
+ "meetings": 0,
+ "first_work": "08:49",
+ "events": [
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "11:40",
+   "label": "ＪＲ新大阪駅",
+   "place": "ＪＲ新大阪駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:42",
+   "label": "移動",
+   "place": "ＪＲ新大阪駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "街頭演説。聴衆と握手",
+   "place": "大阪市中央区 百貨店「高島屋大阪店」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:40",
+   "label": "移動",
+   "place": "大阪市中央区 百貨店「高島屋大阪店」前",
+   "category": "移動"
+  },
+  {
+   "time": "13:08",
+   "label": "ＪＲ新大阪駅",
+   "place": "ＪＲ新大阪駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:55",
+   "label": "自民党富山県連の米原蕃会長代行、宮本光明幹事長出迎え",
+   "place": "ＪＲ新高岡駅",
+   "category": "党務"
+  },
+  {
+   "time": "15:59",
+   "label": "移動",
+   "place": "ＪＲ新高岡駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:34",
+   "label": "菊地正寛市長らから被害状況の説明。視察。地元住民らと握手",
+   "place": "富山県氷見市 能登半島地震による被災現場",
+   "category": "視察"
+  },
+  {
+   "time": "16:55",
+   "label": "移動",
+   "place": "富山県氷見市 能登半島地震による被災現場",
+   "category": "移動"
+  },
+  {
+   "time": "17:36",
+   "label": "自民党参院選候補者の演説会に出席。演説。聴衆と握手",
+   "place": "同県高岡市 富山県産業創造センター",
+   "category": "党務"
+  },
+  {
+   "time": "18:14",
+   "label": "移動",
+   "place": "同県高岡市 富山県産業創造センター",
+   "category": "移動"
+  },
+  {
+   "time": "18:17",
+   "label": "ＪＲ新高岡駅",
+   "place": "ＪＲ新高岡駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:15",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:19",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 529
+  },
+  {
+   "start": "08:49",
+   "end": "08:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "08:59",
+   "end": "09:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "09:12",
+   "end": "11:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 148
+  },
+  {
+   "start": "11:40",
+   "end": "11:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:42",
+   "end": "12:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "12:04",
+   "end": "12:40",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 36
+  },
+  {
+   "start": "12:40",
+   "end": "13:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "13:08",
+   "end": "13:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "13:17",
+   "end": "15:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 158
+  },
+  {
+   "start": "15:55",
+   "end": "15:59",
+   "category": "党務",
+   "label": "自民党富山県連の米原蕃会長代行、宮本光明幹事長出迎え",
+   "minutes": 4
+  },
+  {
+   "start": "15:59",
+   "end": "16:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "16:34",
+   "end": "16:55",
+   "category": "視察",
+   "label": "菊地正寛市長らから被害状況の説明。視察。地元住民らと握手",
+   "minutes": 21
+  },
+  {
+   "start": "16:55",
+   "end": "17:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "17:36",
+   "end": "18:14",
+   "category": "党務",
+   "label": "自民党参院選候補者の演説会に出席。演説。聴衆と握手",
+   "minutes": 38
+  },
+  {
+   "start": "18:14",
+   "end": "18:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:17",
+   "end": "18:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:26",
+   "end": "21:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 169
+  },
+  {
+   "start": "21:15",
+   "end": "21:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "21:19",
+   "end": "21:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "21:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 150
+  }
+ ],
+ "alloc_min": {
+  "居所": 679,
+  "移動": 170,
+  "公務（内容未詳）": 492,
+  "党務": 78,
+  "視察": 21
+ }
+}

@@ -1,0 +1,421 @@
+{
+ "date": "2025-02-19",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 934,
+ "residence_min": 506,
+ "meetings": 7,
+ "first_work": "05:27",
+ "events": [
+  {
+   "time": "05:27",
+   "label": "橘慶一郎官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:39",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:41",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:52",
+   "label": "谷公一自民党衆院議員",
+   "place": "国会 衆院第１委員室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "伊藤達也同党衆院議員",
+   "place": "国会 衆院第１委員室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:59",
+   "label": "加藤勝信財務相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "09:05",
+   "label": "加藤勝信財務相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "09:08",
+   "label": "山下貴司自民党衆院議員",
+   "place": "国会 衆院第１委員室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:12",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "11:26",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "11:28",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "16:05",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "17:10",
+   "label": "岡野正敬国家安全保障局長 原和也内閣情報官 河辺賢裕総合外交政策局長 大和太郎防衛政策局長 南雲憲一郎統合幕僚副長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:03",
+   "label": "「世界青年の船」参加者の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:22",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:40",
+   "label": "「世界青年の船」参加者の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:20",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:22",
+   "label": "赤沢亮正経済再生担当相、同党の小野寺五典、公明党の岡本三成両政調会長らと会食",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "05:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 327
+  },
+  {
+   "start": "05:27",
+   "end": "07:35",
+   "category": "面会・会談",
+   "label": "橘慶一郎官房副長官",
+   "minutes": 128
+  },
+  {
+   "start": "07:35",
+   "end": "07:39",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 4
+  },
+  {
+   "start": "07:39",
+   "end": "07:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 65
+  },
+  {
+   "start": "08:46",
+   "end": "08:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:48",
+   "end": "08:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:52",
+   "end": "08:53",
+   "category": "面会・会談",
+   "label": "谷公一自民党衆院議員",
+   "minutes": 1
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "面会・会談",
+   "label": "伊藤達也同党衆院議員",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:59",
+   "end": "09:04",
+   "category": "国会",
+   "label": "加藤勝信財務相",
+   "minutes": 5
+  },
+  {
+   "start": "09:04",
+   "end": "09:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:05",
+   "end": "09:07",
+   "category": "国会",
+   "label": "加藤勝信財務相",
+   "minutes": 2
+  },
+  {
+   "start": "09:07",
+   "end": "09:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:08",
+   "end": "09:09",
+   "category": "面会・会談",
+   "label": "山下貴司自民党衆院議員",
+   "minutes": 1
+  },
+  {
+   "start": "09:09",
+   "end": "09:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 133
+  },
+  {
+   "start": "11:25",
+   "end": "11:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:26",
+   "end": "11:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 89
+  },
+  {
+   "start": "12:57",
+   "end": "12:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 185
+  },
+  {
+   "start": "16:04",
+   "end": "16:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:05",
+   "end": "16:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:07",
+   "end": "17:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "17:10",
+   "end": "17:32",
+   "category": "面会・会談",
+   "label": "岡野正敬国家安全保障局長 原和也内閣情報官 河辺賢裕総合外交政策局長 大和太郎防衛政策局長 南雲憲一郎統合幕僚副長",
+   "minutes": 22
+  },
+  {
+   "start": "17:32",
+   "end": "18:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "18:03",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "「世界青年の船」参加者の表敬",
+   "minutes": 17
+  },
+  {
+   "start": "18:20",
+   "end": "18:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:22",
+   "end": "18:38",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 16
+  },
+  {
+   "start": "18:38",
+   "end": "18:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:40",
+   "end": "18:56",
+   "category": "面会・会談",
+   "label": "「世界青年の船」参加者の表敬",
+   "minutes": 16
+  },
+  {
+   "start": "18:56",
+   "end": "19:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "19:20",
+   "end": "19:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:21",
+   "end": "19:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:22",
+   "end": "21:05",
+   "category": "会食",
+   "label": "赤沢亮正経済再生担当相、同党の小野寺五典、公明党の岡本三成両政調会長らと会食",
+   "minutes": 103
+  },
+  {
+   "start": "21:05",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 175
+  }
+ ],
+ "alloc_min": {
+  "居所": 506,
+  "面会・会談": 186,
+  "移動": 10,
+  "官邸執務": 170,
+  "公務（内容未詳）": 140,
+  "国会": 325,
+  "会食": 103
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "date": "2025-08-02",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 250,
+ "residence_min": 1190,
+ "meetings": 0,
+ "first_work": "08:45",
+ "events": [
+  {
+   "time": "08:45",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:48",
+   "label": "同ホテル内の日本料理店「水簾」で秘書官と食事。打ち合わせ",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "09:50",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "10:03",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:08",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "11:48",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:56",
+   "label": "大河原毅デルソーレ最高経営責任者（ＣＥＯ）夫妻らと会食。佳子夫人同席",
+   "place": "東京・六本木 会員制社交クラブ「東京倶楽部」",
+   "category": "会食"
+  },
+  {
+   "time": "14:35",
+   "label": "移動",
+   "place": "東京・六本木 会員制社交クラブ「東京倶楽部」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 525
+  },
+  {
+   "start": "08:45",
+   "end": "08:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "08:48",
+   "end": "09:50",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「水簾」で秘書官と食事。打ち合わせ",
+   "minutes": 62
+  },
+  {
+   "start": "09:50",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "09:55",
+   "end": "10:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 8
+  },
+  {
+   "start": "10:03",
+   "end": "10:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "10:08",
+   "end": "11:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 100
+  },
+  {
+   "start": "11:48",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:56",
+   "end": "14:35",
+   "category": "会食",
+   "label": "大河原毅デルソーレ最高経営責任者（ＣＥＯ）夫妻らと会食。佳子夫人同席",
+   "minutes": 159
+  },
+  {
+   "start": "14:35",
+   "end": "14:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "14:43",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 557
+  }
+ ],
+ "alloc_min": {
+  "居所": 1190,
+  "移動": 29,
+  "会食": 221
+ }
+}
