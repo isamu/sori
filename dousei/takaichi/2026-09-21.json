@@ -1,0 +1,92 @@
+{
+ "date": "2026-09-21",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.09.21",
+ "work_min": 99,
+ "residence_min": 1341,
+ "meetings": 0,
+ "first_work": "22:20",
+ "events": [
+  {
+   "time": null,
+   "label": "午前中は公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "22:20",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:23",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "22:51",
+   "label": "羽田空港着",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "23:13",
+   "label": "政府専用機で米ニューヨークに向け出発",
+   "place": "羽田空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "22:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1340
+  },
+  {
+   "start": "22:20",
+   "end": "22:22",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "22:22",
+   "end": "22:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "22:23",
+   "end": "22:51",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 28
+  },
+  {
+   "start": "22:51",
+   "end": "23:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "23:13",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "米ニューヨーク訪問（国連総会出席）",
+   "minutes": 47
+  }
+ ],
+ "alloc_min": {
+  "居所": 1341,
+  "取材・会見": 2,
+  "移動": 28,
+  "公務（内容未詳）": 22,
+  "外遊": 47
+ }
+}

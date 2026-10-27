@@ -1,0 +1,232 @@
+{
+ "date": "2026-02-28",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 478,
+ "residence_min": 962,
+ "meetings": 0,
+ "first_work": "15:56",
+ "events": [
+  {
+   "time": "15:56",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:23",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:37",
+   "label": "小松空港",
+   "place": "小松空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "移動",
+   "place": "小松空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:28",
+   "label": "石川県知事選候補者の演説会に出席。演説",
+   "place": "金沢市 本多の森北電ホール",
+   "category": "党務"
+  },
+  {
+   "time": "18:54",
+   "label": "移動",
+   "place": "金沢市 本多の森北電ホール",
+   "category": "移動"
+  },
+  {
+   "time": "19:04",
+   "label": "ＪＲ金沢駅",
+   "place": "ＪＲ金沢駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:55",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "22:01",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "22:14",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:45",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "23:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 956
+  },
+  {
+   "start": "15:56",
+   "end": "16:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "16:23",
+   "end": "16:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "16:53",
+   "end": "17:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "17:37",
+   "end": "17:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "17:47",
+   "end": "18:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "18:28",
+   "end": "18:54",
+   "category": "党務",
+   "label": "石川県知事選候補者の演説会に出席。演説",
+   "minutes": 26
+  },
+  {
+   "start": "18:54",
+   "end": "19:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "19:04",
+   "end": "19:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "19:21",
+   "end": "21:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 154
+  },
+  {
+   "start": "21:55",
+   "end": "22:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "22:01",
+   "end": "22:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "22:12",
+   "end": "22:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "22:14",
+   "end": "22:16",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "22:16",
+   "end": "22:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "22:45",
+   "end": "23:48",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 63
+  },
+  {
+   "start": "23:48",
+   "end": "23:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "23:52",
+   "end": "23:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "23:54",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 6
+  }
+ ],
+ "alloc_min": {
+  "居所": 962,
+  "移動": 148,
+  "公務（内容未詳）": 239,
+  "党務": 26,
+  "取材・会見": 2,
+  "官邸執務": 63
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "date": "2012-01-28",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.01.28",
+ "work_min": 57,
+ "residence_min": 1383,
+ "meetings": 0,
+ "first_work": "16:36",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "16:36",
+   "label": "東京・神宮前の「青山アース・スタジオ」",
+   "place": "神宮前",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "世界経済フォーラム年次総会（ダボス会議）のテレビ会議に出席",
+   "place": "神宮前",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:33",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 996
+  },
+  {
+   "start": "16:36",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "17:00",
+   "end": "17:33",
+   "category": "式典・行事",
+   "label": "世界経済フォーラム年次総会（ダボス会議）のテレビ会議に出席",
+   "minutes": 33
+  },
+  {
+   "start": "17:33",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 387
+  }
+ ],
+ "alloc_min": {
+  "居所": 1383,
+  "公務（内容未詳）": 24,
+  "式典・行事": 33
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "date": "2012-02-10",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.02.10",
+ "work_min": 908,
+ "residence_min": 532,
+ "meetings": 4,
+ "first_work": "06:16",
+ "events": [
+  {
+   "time": "06:16",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:45",
+   "label": "両氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:48",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:00",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:24",
+   "label": "平野復興相に補職辞令交付",
+   "place": "国会",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "大串内閣府政務官らに復興政務官の辞令交付",
+   "place": "国会",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "記念撮影",
+   "place": "国会",
+   "category": "式典・行事"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:26",
+   "label": "東京・赤坂の三会堂ビル",
+   "place": "赤坂",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "平野復興相と復興庁の看板掛け",
+   "place": "赤坂",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:36",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:34",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:20",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:50",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:17",
+   "label": "末松首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:56",
+   "label": "皇居。内奏。民主党の中川正春衆院議員の閣僚認証式、国民新党の松下忠洋衆院議員らの副大臣認証式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:54",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:06",
+   "label": "中川氏に防災相の補職辞令交付など",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "21:24",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 376
+  },
+  {
+   "start": "06:16",
+   "end": "07:45",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "minutes": 89
+  },
+  {
+   "start": "07:45",
+   "end": "07:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "07:48",
+   "end": "08:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:00",
+   "end": "08:24",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 24
+  },
+  {
+   "start": "08:24",
+   "end": "08:59",
+   "category": "式典・行事",
+   "label": "大串内閣府政務官らに復興政務官の辞令交付",
+   "minutes": 35
+  },
+  {
+   "start": "08:59",
+   "end": "12:26",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 207
+  },
+  {
+   "start": "12:26",
+   "end": "12:36",
+   "category": "面会・会談",
+   "label": "平野復興相と復興庁の看板掛け",
+   "minutes": 10
+  },
+  {
+   "start": "12:36",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "12:59",
+   "end": "17:34",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 275
+  },
+  {
+   "start": "17:34",
+   "end": "18:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "18:20",
+   "end": "18:50",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 30
+  },
+  {
+   "start": "18:50",
+   "end": "19:17",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 27
+  },
+  {
+   "start": "19:17",
+   "end": "19:56",
+   "category": "面会・会談",
+   "label": "末松首相補佐官",
+   "minutes": 39
+  },
+  {
+   "start": "19:56",
+   "end": "20:54",
+   "category": "式典・行事",
+   "label": "皇居。内奏。民主党の中川正春衆院議員の閣僚認証式、国民新党の松下忠洋衆院議員らの副大臣認証式",
+   "minutes": 58
+  },
+  {
+   "start": "20:54",
+   "end": "21:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "21:06",
+   "end": "21:24",
+   "category": "式典・行事",
+   "label": "記念撮影",
+   "minutes": 18
+  },
+  {
+   "start": "21:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 156
+  }
+ ],
+ "alloc_min": {
+  "居所": 532,
+  "面会・会談": 165,
+  "公務（内容未詳）": 96,
+  "官邸執務": 24,
+  "式典・行事": 111,
+  "国会": 482,
+  "取材・会見": 30
+ }
+}

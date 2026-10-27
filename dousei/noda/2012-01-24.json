@@ -1,0 +1,263 @@
+{
+ "date": "2012-01-24",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.01.24",
+ "work_min": 589,
+ "residence_min": 851,
+ "meetings": 3,
+ "first_work": "08:51",
+ "events": [
+  {
+   "time": "08:51",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:53",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:05",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:20",
+   "label": "閣議終了",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:51",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "10:53",
+   "label": "五十嵐財務副大臣、民主党の藤井裕久衆院議員",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:02",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:32",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "第180通常国会開会式",
+   "place": "国会",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:13",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:50",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "14:46",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "16:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:30",
+   "label": "手塚首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:11",
+   "label": "古川国家戦略相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:40",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 531
+  },
+  {
+   "start": "08:51",
+   "end": "08:53",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:53",
+   "end": "09:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "09:05",
+   "end": "09:20",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 15
+  },
+  {
+   "start": "09:20",
+   "end": "10:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 91
+  },
+  {
+   "start": "10:51",
+   "end": "10:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:53",
+   "end": "11:02",
+   "category": "面会・会談",
+   "label": "五十嵐財務副大臣、民主党の藤井裕久衆院議員",
+   "minutes": 9
+  },
+  {
+   "start": "11:02",
+   "end": "11:10",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 8
+  },
+  {
+   "start": "11:10",
+   "end": "11:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "11:32",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "12:00",
+   "end": "12:13",
+   "category": "式典・行事",
+   "label": "第180通常国会開会式",
+   "minutes": 13
+  },
+  {
+   "start": "12:13",
+   "end": "12:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "12:50",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "13:02",
+   "end": "14:46",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 104
+  },
+  {
+   "start": "14:46",
+   "end": "16:14",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 88
+  },
+  {
+   "start": "16:14",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 76
+  },
+  {
+   "start": "17:30",
+   "end": "18:11",
+   "category": "面会・会談",
+   "label": "手塚首相補佐官",
+   "minutes": 41
+  },
+  {
+   "start": "18:11",
+   "end": "18:40",
+   "category": "面会・会談",
+   "label": "古川国家戦略相",
+   "minutes": 29
+  },
+  {
+   "start": "18:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 320
+  }
+ ],
+ "alloc_min": {
+  "居所": 851,
+  "移動": 2,
+  "公務（内容未詳）": 280,
+  "官邸執務": 15,
+  "面会・会談": 79,
+  "国会": 200,
+  "式典・行事": 13
+ }
+}

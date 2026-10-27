@@ -1,0 +1,231 @@
+{
+ "date": "2011-11-30",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.11.30",
+ "work_min": 601,
+ "residence_min": 839,
+ "meetings": 2,
+ "first_work": "09:29",
+ "events": [
+  {
+   "time": "09:29",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:30",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:31",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "11:53",
+   "label": "東京・神南のＮＨＫホール",
+   "place": "神南",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "全国町村長大会に出席",
+   "place": "神南",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:37",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:53",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "党首討論",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:54",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:07",
+   "label": "国家戦略会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:10",
+   "label": "同会議終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "17:35",
+   "label": "マケドニアのグルエフスキ首相と会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:08",
+   "label": "行政刷新会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:51",
+   "label": "同会議終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:00",
+   "label": "手塚首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:30",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 569
+  },
+  {
+   "start": "09:29",
+   "end": "09:30",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:30",
+   "end": "09:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:31",
+   "end": "11:53",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 142
+  },
+  {
+   "start": "11:53",
+   "end": "12:37",
+   "category": "式典・行事",
+   "label": "全国町村長大会に出席",
+   "minutes": 44
+  },
+  {
+   "start": "12:37",
+   "end": "14:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 136
+  },
+  {
+   "start": "14:53",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "15:00",
+   "end": "15:54",
+   "category": "国会",
+   "label": "党首討論",
+   "minutes": 54
+  },
+  {
+   "start": "15:54",
+   "end": "16:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "16:07",
+   "end": "17:10",
+   "category": "官邸執務",
+   "label": "国家戦略会議",
+   "minutes": 63
+  },
+  {
+   "start": "17:10",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "17:35",
+   "end": "18:08",
+   "category": "面会・会談",
+   "label": "マケドニアのグルエフスキ首相と会談",
+   "minutes": 33
+  },
+  {
+   "start": "18:08",
+   "end": "18:51",
+   "category": "官邸執務",
+   "label": "行政刷新会議",
+   "minutes": 43
+  },
+  {
+   "start": "18:51",
+   "end": "19:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "19:00",
+   "end": "19:30",
+   "category": "面会・会談",
+   "label": "手塚首相補佐官",
+   "minutes": 30
+  },
+  {
+   "start": "19:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 270
+  }
+ ],
+ "alloc_min": {
+  "居所": 839,
+  "移動": 1,
+  "公務（内容未詳）": 191,
+  "取材・会見": 142,
+  "式典・行事": 44,
+  "国会": 54,
+  "官邸執務": 106,
+  "面会・会談": 63
+ }
+}

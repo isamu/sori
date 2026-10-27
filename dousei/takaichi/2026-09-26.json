@@ -1,0 +1,95 @@
+{
+ "date": "2026-09-26",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.09.26",
+ "work_min": 22,
+ "residence_min": 1418,
+ "meetings": 1,
+ "first_work": "21:00",
+ "events": [
+  {
+   "time": "00:00",
+   "label": "午前中は公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "19:59",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:00",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:00",
+   "label": "トランプ米大統領と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:31",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:34",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:35",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "21:00",
+   "category": "居所",
+   "label": "午前中は公邸で過ごす",
+   "minutes": 1260
+  },
+  {
+   "start": "21:00",
+   "end": "21:20",
+   "category": "面会・会談",
+   "label": "トランプ米大統領と電話会談",
+   "minutes": 20
+  },
+  {
+   "start": "21:20",
+   "end": "21:31",
+   "category": "居所",
+   "label": "午前中は公邸で過ごす",
+   "minutes": 11
+  },
+  {
+   "start": "21:31",
+   "end": "21:33",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "21:33",
+   "end": "24:00",
+   "category": "居所",
+   "label": "午前中は公邸で過ごす",
+   "minutes": 147
+  }
+ ],
+ "alloc_min": {
+  "居所": 1418,
+  "面会・会談": 20,
+  "取材・会見": 2
+ }
+}

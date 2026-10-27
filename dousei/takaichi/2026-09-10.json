@@ -1,0 +1,157 @@
+{
+ "date": "2026-09-10",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.09.10",
+ "work_min": 497,
+ "residence_min": 943,
+ "meetings": 2,
+ "first_work": "09:43",
+ "events": [
+  {
+   "time": "09:43",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:49",
+   "label": "東京・虎ノ門のニッショーホール着",
+   "place": "ニッショーホール",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "全国消防殉職者慰霊祭に出席。あいさつ。",
+   "place": "ニッショーホール",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "献花",
+   "place": "ニッショーホール",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:29",
+   "label": "ニッショーホール発",
+   "place": "ニッショーホール",
+   "category": "移動"
+  },
+  {
+   "time": "10:34",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:55",
+   "label": "鈴木宗男自民党参院議員と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:18",
+   "label": "麻生太郎自民党副総裁と面会。木原稔官房長官同席。",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:59",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 583
+  },
+  {
+   "start": "09:43",
+   "end": "09:49",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 6
+  },
+  {
+   "start": "09:49",
+   "end": "10:29",
+   "category": "式典・行事",
+   "label": "全国消防殉職者慰霊祭に出席。あいさつ。",
+   "minutes": 40
+  },
+  {
+   "start": "10:29",
+   "end": "10:34",
+   "category": "移動",
+   "label": "ニッショーホール発",
+   "minutes": 5
+  },
+  {
+   "start": "10:34",
+   "end": "10:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "10:55",
+   "end": "11:17",
+   "category": "面会・会談",
+   "label": "鈴木宗男自民党参院議員と面会",
+   "minutes": 22
+  },
+  {
+   "start": "11:17",
+   "end": "11:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:18",
+   "end": "11:44",
+   "category": "面会・会談",
+   "label": "麻生太郎自民党副総裁と面会。木原稔官房長官同席。",
+   "minutes": 26
+  },
+  {
+   "start": "11:44",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 375
+  },
+  {
+   "start": "17:59",
+   "end": "18:00",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "18:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 360
+  }
+ ],
+ "alloc_min": {
+  "居所": 943,
+  "移動": 12,
+  "式典・行事": 40,
+  "公務（内容未詳）": 397,
+  "面会・会談": 48
+ }
+}

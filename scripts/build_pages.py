@@ -1,0 +1,42 @@
+"""dousei/ と parsed/ から site/ の HTML を生成する。
+
+  python3 build_pages.py multi    # site/pm-first-year-grass.html（歴代 1 年目）
+  python3 build_pages.py takaichi # site/takaichi-grass.html（dousei/takaichi の全日）
+"""
+import datetime, json, sys
+from config import PARSED_DIR, SITE_DIR, TEMPLATE_DIR
+from parse_days import load_dousei
+
+
+def compact_day(d):
+    return {"d": d["date"], "m": d["work_min"] or 0, "k": d["meetings"], "f": d["first_work"], "src": d["source"],
+            "e": [[e["time"] or "", e["label"], e["category"]] for e in d["events"]]}
+
+
+def render(template_name, payload, out_name):
+    text = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    page = (TEMPLATE_DIR / template_name).read_text(encoding="utf-8").replace("__DATA__", text)
+    SITE_DIR.mkdir(exist_ok=True)
+    (SITE_DIR / out_name).write_text(page, encoding="utf-8")
+    print("wrote", SITE_DIR / out_name, len(page.encode("utf-8")), "bytes")
+
+
+def build_multi():
+    pms = json.load(open(PARSED_DIR / "pms-first-year.json"))
+    render("vue_multi_template.html", {
+        "pms": [{"id": p["id"], "name": p["name"], "party": p["party"], "start": p["start"], "fyEnd": p["fy_end"], "note": p["note"],
+                 "days": [compact_day(d) for d in p["days"]]} for p in pms],
+        "generated": datetime.date.today().isoformat(),
+    }, "pm-first-year-grass.html")
+
+
+def build_takaichi():
+    days = load_dousei("takaichi")
+    render("vue_template.html", {
+        "days": [{**compact_day(d), "r": d["residence_min"]} for d in days], "missing": [], "pm": days[0]["pm"],
+        "start": days[0]["date"], "end": days[-1]["date"], "generated": datetime.date.today().isoformat(),
+    }, "takaichi-grass.html")
+
+
+if __name__ == "__main__":
+    {"multi": build_multi, "takaichi": build_takaichi}[sys.argv[1]]()

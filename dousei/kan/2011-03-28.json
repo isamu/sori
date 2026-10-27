@@ -1,0 +1,221 @@
+{
+ "date": "2011-03-28",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.03.28",
+ "work_min": 687,
+ "residence_min": 753,
+ "meetings": 9,
+ "first_work": "08:58",
+ "events": [
+  {
+   "time": "08:58",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:57",
+   "label": "末松内閣府副大臣",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:16",
+   "label": "芝首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:51",
+   "label": "松本健一内閣官房参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:23",
+   "label": "民主党の寺田学衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:38",
+   "label": "寺田氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:28",
+   "label": "東京・市谷本村町の防衛省",
+   "place": "市谷本村町",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "視察、職員を激励",
+   "place": "市谷本村町",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "同省災害対策本部であいさつ",
+   "place": "市谷本村町",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:13",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:22",
+   "label": "民主党の安住国対委員長、斎藤勁国対委員長代理",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:48",
+   "label": "野田財務相、財務省の勝事務次官、真砂主計局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:00",
+   "label": "全員出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:00",
+   "label": "田坂広志多摩大大学院教授",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:25",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 538
+  },
+  {
+   "start": "08:58",
+   "end": "08:59",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "08:59",
+   "end": "10:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 118
+  },
+  {
+   "start": "10:57",
+   "end": "11:16",
+   "category": "面会・会談",
+   "label": "末松内閣府副大臣",
+   "minutes": 19
+  },
+  {
+   "start": "11:16",
+   "end": "11:51",
+   "category": "面会・会談",
+   "label": "芝首相補佐官",
+   "minutes": 35
+  },
+  {
+   "start": "11:51",
+   "end": "12:23",
+   "category": "面会・会談",
+   "label": "松本健一内閣官房参与",
+   "minutes": 32
+  },
+  {
+   "start": "12:23",
+   "end": "12:38",
+   "category": "面会・会談",
+   "label": "民主党の寺田学衆院議員",
+   "minutes": 15
+  },
+  {
+   "start": "12:38",
+   "end": "16:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 230
+  },
+  {
+   "start": "16:28",
+   "end": "17:13",
+   "category": "視察",
+   "label": "視察、職員を激励",
+   "minutes": 45
+  },
+  {
+   "start": "17:13",
+   "end": "17:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "17:22",
+   "end": "17:48",
+   "category": "面会・会談",
+   "label": "民主党の安住国対委員長、斎藤勁国対委員長代理",
+   "minutes": 26
+  },
+  {
+   "start": "17:48",
+   "end": "18:00",
+   "category": "面会・会談",
+   "label": "野田財務相、財務省の勝事務次官、真砂主計局長",
+   "minutes": 12
+  },
+  {
+   "start": "18:00",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 120
+  },
+  {
+   "start": "20:00",
+   "end": "20:25",
+   "category": "面会・会談",
+   "label": "田坂広志多摩大大学院教授",
+   "minutes": 25
+  },
+  {
+   "start": "20:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 215
+  }
+ ],
+ "alloc_min": {
+  "居所": 753,
+  "移動": 1,
+  "公務（内容未詳）": 477,
+  "面会・会談": 164,
+  "視察": 45
+ }
+}

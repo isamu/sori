@@ -1,0 +1,180 @@
+{
+ "date": "2026-08-10",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.08.10",
+ "work_min": 373,
+ "residence_min": 1067,
+ "meetings": 3,
+ "first_work": "11:49",
+ "events": [
+  {
+   "time": "11:49",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:50",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:01",
+   "label": "熊本地震非常災害対策本部会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:48",
+   "label": "片山さつき財務相と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:50",
+   "label": "ロングボトム駐日英大使の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "オマーンのハイサム国王と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:58",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:01",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:02",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 709
+  },
+  {
+   "start": "11:49",
+   "end": "11:50",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "11:50",
+   "end": "15:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 191
+  },
+  {
+   "start": "15:01",
+   "end": "15:47",
+   "category": "官邸執務",
+   "label": "熊本地震非常災害対策本部会議",
+   "minutes": 46
+  },
+  {
+   "start": "15:47",
+   "end": "15:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:48",
+   "end": "15:49",
+   "category": "面会・会談",
+   "label": "片山さつき財務相と面会",
+   "minutes": 1
+  },
+  {
+   "start": "15:49",
+   "end": "15:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:50",
+   "end": "16:00",
+   "category": "面会・会談",
+   "label": "ロングボトム駐日英大使の表敬",
+   "minutes": 10
+  },
+  {
+   "start": "16:00",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "17:00",
+   "end": "17:20",
+   "category": "面会・会談",
+   "label": "オマーンのハイサム国王と電話会談",
+   "minutes": 20
+  },
+  {
+   "start": "17:20",
+   "end": "17:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "17:58",
+   "end": "18:00",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "18:00",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:01",
+   "end": "18:02",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "18:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 358
+  }
+ ],
+ "alloc_min": {
+  "居所": 1067,
+  "移動": 2,
+  "公務（内容未詳）": 292,
+  "官邸執務": 46,
+  "面会・会談": 31,
+  "取材・会見": 2
+ }
+}

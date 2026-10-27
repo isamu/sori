@@ -1,0 +1,357 @@
+{
+ "date": "2020-09-22",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 487,
+ "residence_min": 924,
+ "meetings": 4,
+ "first_work": "09:25",
+ "events": [
+  {
+   "time": "09:25",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "09:34",
+   "label": "秋季皇霊祭・神殿祭の儀",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:45",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:54",
+   "label": "梶山弘志経済産業相",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:08",
+   "label": "加藤勝信官房長官",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:32",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "12:36",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "同ホテル内の中国料理店「星ケ岡」で岡部信彦川崎市健康安全研究所長と会食",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "14:01",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "14:03",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "14:22",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "14:26",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "15:26",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "15:31",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "16:00",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:56",
+   "label": "ドイツのメルケル首相と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:45",
+   "label": "欧州連合（ＥＵ）のミシェル大統領と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:17",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:19",
+   "label": "同ホテル内の日本料理店「水簾」で、外務省の森健良、鈴木浩両外務審議官、宇山秀樹欧州局長と会食",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "20:01",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 565
+  },
+  {
+   "start": "09:25",
+   "end": "09:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "09:34",
+   "end": "10:45",
+   "category": "式典・行事",
+   "label": "秋季皇霊祭・神殿祭の儀",
+   "minutes": 71
+  },
+  {
+   "start": "10:45",
+   "end": "10:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:53",
+   "end": "10:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:54",
+   "end": "11:07",
+   "category": "面会・会談",
+   "label": "梶山弘志経済産業相",
+   "minutes": 13
+  },
+  {
+   "start": "11:07",
+   "end": "11:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:08",
+   "end": "12:12",
+   "category": "面会・会談",
+   "label": "加藤勝信官房長官",
+   "minutes": 64
+  },
+  {
+   "start": "12:12",
+   "end": "12:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "12:32",
+   "end": "12:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:36",
+   "end": "12:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 17
+  },
+  {
+   "start": "12:53",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:55",
+   "end": "14:01",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「星ケ岡」で岡部信彦川崎市健康安全研究所長と会食",
+   "minutes": 66
+  },
+  {
+   "start": "14:01",
+   "end": "14:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 19
+  },
+  {
+   "start": "14:22",
+   "end": "14:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "14:26",
+   "end": "15:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 60
+  },
+  {
+   "start": "15:26",
+   "end": "15:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "15:31",
+   "end": "16:00",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 29
+  },
+  {
+   "start": "16:00",
+   "end": "16:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:01",
+   "end": "16:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "16:56",
+   "end": "17:13",
+   "category": "面会・会談",
+   "label": "ドイツのメルケル首相と電話会談",
+   "minutes": 17
+  },
+  {
+   "start": "17:13",
+   "end": "17:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 32
+  },
+  {
+   "start": "17:45",
+   "end": "18:01",
+   "category": "面会・会談",
+   "label": "欧州連合（ＥＵ）のミシェル大統領と電話会談",
+   "minutes": 16
+  },
+  {
+   "start": "18:01",
+   "end": "18:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 16
+  },
+  {
+   "start": "18:17",
+   "end": "18:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:19",
+   "end": "20:01",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「水簾」で、外務省の森健良、鈴木浩両外務審議官、宇山秀樹欧州局長と会食",
+   "minutes": 102
+  },
+  {
+   "start": "20:01",
+   "end": "20:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "20:06",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 234
+  }
+ ],
+ "alloc_min": {
+  "居所": 924,
+  "移動": 42,
+  "式典・行事": 71,
+  "公務（内容未詳）": 96,
+  "面会・会談": 110,
+  "会食": 168,
+  "個人": 29
+ }
+}

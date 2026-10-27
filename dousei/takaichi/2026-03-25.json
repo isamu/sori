@@ -1,0 +1,241 @@
+{
+ "date": "2026-03-25",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 571,
+ "residence_min": 869,
+ "meetings": 2,
+ "first_work": "08:45",
+ "events": [
+  {
+   "time": "08:45",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "14:19",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "14:42",
+   "label": "国際エネルギー機関（ＩＥＡ）のビロル事務局長の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:43",
+   "label": "城内実経済財政担当相 井上裕之事務次官 林幸宏審議官 堤雅彦政策統括官 阿久沢孝政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:58",
+   "label": "ものづくり日本大賞表彰式",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:15",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 525
+  },
+  {
+   "start": "08:45",
+   "end": "08:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:47",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:55",
+   "end": "11:53",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 178
+  },
+  {
+   "start": "11:53",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:56",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 53
+  },
+  {
+   "start": "12:51",
+   "end": "12:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:52",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:00",
+   "end": "14:16",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 76
+  },
+  {
+   "start": "14:16",
+   "end": "14:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:19",
+   "end": "14:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:20",
+   "end": "14:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "14:42",
+   "end": "14:59",
+   "category": "面会・会談",
+   "label": "国際エネルギー機関（ＩＥＡ）のビロル事務局長の表敬",
+   "minutes": 17
+  },
+  {
+   "start": "14:59",
+   "end": "15:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "15:43",
+   "end": "16:03",
+   "category": "面会・会談",
+   "label": "城内実経済財政担当相 井上裕之事務次官 林幸宏審議官 堤雅彦政策統括官 阿久沢孝政策統括官",
+   "minutes": 20
+  },
+  {
+   "start": "16:03",
+   "end": "17:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 115
+  },
+  {
+   "start": "17:58",
+   "end": "18:13",
+   "category": "式典・行事",
+   "label": "ものづくり日本大賞表彰式",
+   "minutes": 15
+  },
+  {
+   "start": "18:13",
+   "end": "18:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:15",
+   "end": "18:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 344
+  }
+ ],
+ "alloc_min": {
+  "居所": 869,
+  "移動": 7,
+  "公務（内容未詳）": 205,
+  "国会": 254,
+  "官邸執務": 53,
+  "面会・会談": 37,
+  "式典・行事": 15
+ }
+}

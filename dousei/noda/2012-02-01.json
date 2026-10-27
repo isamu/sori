@@ -1,0 +1,203 @@
+{
+ "date": "2012-02-01",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.02.01",
+ "work_min": 708,
+ "residence_min": 732,
+ "meetings": 5,
+ "first_work": "07:02",
+ "events": [
+  {
+   "time": "07:02",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:57",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:47",
+   "label": "斎藤氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:48",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:50",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:50",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:15",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:32",
+   "label": "全国トラックドライバー・コンテスト優勝者らが表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:45",
+   "label": "手塚氏",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "国家戦略会議のフロンティア分科会",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:51",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 422
+  },
+  {
+   "start": "07:02",
+   "end": "08:47",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "minutes": 105
+  },
+  {
+   "start": "08:47",
+   "end": "08:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:50",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "09:00",
+   "end": "11:57",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 177
+  },
+  {
+   "start": "11:57",
+   "end": "12:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "12:50",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "13:00",
+   "end": "17:15",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 255
+  },
+  {
+   "start": "17:15",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "17:32",
+   "end": "17:45",
+   "category": "面会・会談",
+   "label": "全国トラックドライバー・コンテスト優勝者らが表敬",
+   "minutes": 13
+  },
+  {
+   "start": "17:45",
+   "end": "18:02",
+   "category": "面会・会談",
+   "label": "手塚氏",
+   "minutes": 17
+  },
+  {
+   "start": "18:02",
+   "end": "18:51",
+   "category": "官邸執務",
+   "label": "国家戦略会議のフロンティア分科会",
+   "minutes": 49
+  },
+  {
+   "start": "18:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 309
+  }
+ ],
+ "alloc_min": {
+  "居所": 732,
+  "面会・会談": 135,
+  "移動": 2,
+  "公務（内容未詳）": 90,
+  "国会": 432,
+  "官邸執務": 49
+ }
+}

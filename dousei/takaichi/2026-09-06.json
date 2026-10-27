@@ -1,0 +1,57 @@
+{
+ "date": "2026-09-06",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.09.06",
+ "work_min": 159,
+ "residence_min": 1281,
+ "meetings": 1,
+ "first_work": "12:52",
+ "events": [
+  {
+   "time": "00:00",
+   "label": "午前中は公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:52",
+   "label": "木原稔官房長官と面会",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:00",
+   "category": "居所",
+   "label": "午前中は公邸で過ごす",
+   "minutes": 720
+  },
+  {
+   "start": "12:00",
+   "end": "12:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 52
+  },
+  {
+   "start": "12:52",
+   "end": "15:31",
+   "category": "面会・会談",
+   "label": "木原稔官房長官と面会",
+   "minutes": 159
+  },
+  {
+   "start": "15:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 509
+  }
+ ],
+ "alloc_min": {
+  "居所": 1281,
+  "面会・会談": 159
+ }
+}

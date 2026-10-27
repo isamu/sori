@@ -1,0 +1,220 @@
+{
+ "date": "2026-09-11",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.09.11",
+ "work_min": 594,
+ "residence_min": 846,
+ "meetings": 3,
+ "first_work": "09:47",
+ "events": [
+  {
+   "time": "09:47",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:48",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:49",
+   "label": "官邸設置の国際園芸博覧会（花博）の公式マスコットキャラクター「トゥンクトゥンク」の人形と会話",
+   "place": "官邸",
+   "category": "その他"
+  },
+  {
+   "time": "10:00",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:15",
+   "label": "片山さつき財務相と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:11",
+   "label": "ビデオメッセージ収録",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:25",
+   "label": "市川恵一国家安全保障局長、原和也国家情報局長と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:44",
+   "label": "原和也国家情報局長と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:24",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:25",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:29",
+   "label": "閣僚との夕食会",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 587
+  },
+  {
+   "start": "09:47",
+   "end": "09:48",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:48",
+   "end": "09:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:49",
+   "end": "09:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:50",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "10:00",
+   "end": "10:14",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 14
+  },
+  {
+   "start": "10:14",
+   "end": "10:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:15",
+   "end": "10:16",
+   "category": "面会・会談",
+   "label": "片山さつき財務相と面会",
+   "minutes": 1
+  },
+  {
+   "start": "10:16",
+   "end": "14:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 235
+  },
+  {
+   "start": "14:11",
+   "end": "14:34",
+   "category": "官邸執務",
+   "label": "ビデオメッセージ収録",
+   "minutes": 23
+  },
+  {
+   "start": "14:34",
+   "end": "15:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "15:25",
+   "end": "15:43",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長、原和也国家情報局長と面会",
+   "minutes": 18
+  },
+  {
+   "start": "15:43",
+   "end": "15:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:44",
+   "end": "15:53",
+   "category": "面会・会談",
+   "label": "原和也国家情報局長と面会",
+   "minutes": 9
+  },
+  {
+   "start": "15:53",
+   "end": "18:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 151
+  },
+  {
+   "start": "18:24",
+   "end": "18:25",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "18:25",
+   "end": "18:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 4
+  },
+  {
+   "start": "18:29",
+   "end": "19:45",
+   "category": "会食",
+   "label": "閣僚との夕食会",
+   "minutes": 76
+  },
+  {
+   "start": "19:45",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 255
+  }
+ ],
+ "alloc_min": {
+  "居所": 846,
+  "移動": 2,
+  "公務（内容未詳）": 451,
+  "官邸執務": 37,
+  "面会・会談": 28,
+  "会食": 76
+ }
+}

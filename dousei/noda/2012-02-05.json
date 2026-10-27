@@ -1,0 +1,70 @@
+{
+ "date": "2012-02-05",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.02.05",
+ "work_min": 165,
+ "residence_min": 1275,
+ "meetings": 0,
+ "first_work": "17:22",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:22",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:27",
+   "label": "東京・虎ノ門のホテルオークラ。日本料理店「山里」で国民生活産業・消費者団体連合会の清水信次会長、安住財務相、民主党の藤井裕久税制調査会長",
+   "place": "ホテルオークラ",
+   "category": "移動"
+  },
+  {
+   "time": "20:07",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1042
+  },
+  {
+   "start": "17:22",
+   "end": "17:27",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 5
+  },
+  {
+   "start": "17:27",
+   "end": "20:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 160
+  },
+  {
+   "start": "20:07",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 233
+  }
+ ],
+ "alloc_min": {
+  "居所": 1275,
+  "移動": 5,
+  "公務（内容未詳）": 160
+ }
+}

@@ -1,0 +1,321 @@
+{
+ "date": "2025-12-08",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 684,
+ "residence_min": 756,
+ "meetings": 1,
+ "first_work": "08:40",
+ "events": [
+  {
+   "time": "08:40",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:51",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:02",
+   "label": "茂木敏充外相 小泉進次郎防衛相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:53",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "16:00",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "18:31",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "18:44",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "18:53",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:50",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "23:46",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "23:51",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 520
+  },
+  {
+   "start": "08:40",
+   "end": "08:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "08:43",
+   "end": "08:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:51",
+   "end": "09:01",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 10
+  },
+  {
+   "start": "09:01",
+   "end": "09:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:02",
+   "end": "09:07",
+   "category": "面会・会談",
+   "label": "茂木敏充外相 小泉進次郎防衛相",
+   "minutes": 5
+  },
+  {
+   "start": "09:07",
+   "end": "12:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 222
+  },
+  {
+   "start": "12:49",
+   "end": "12:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:51",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 8
+  },
+  {
+   "start": "13:00",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:02",
+   "end": "15:41",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 159
+  },
+  {
+   "start": "15:41",
+   "end": "15:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "15:57",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:00",
+   "end": "18:25",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 145
+  },
+  {
+   "start": "18:25",
+   "end": "18:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:31",
+   "end": "18:39",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 8
+  },
+  {
+   "start": "18:39",
+   "end": "18:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:44",
+   "end": "18:50",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 6
+  },
+  {
+   "start": "18:50",
+   "end": "18:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:53",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 50
+  },
+  {
+   "start": "19:46",
+   "end": "19:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "19:50",
+   "end": "23:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 236
+  },
+  {
+   "start": "23:46",
+   "end": "23:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "23:50",
+   "end": "23:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "23:51",
+   "end": "23:52",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "23:52",
+   "end": "24:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  }
+ ],
+ "alloc_min": {
+  "居所": 756,
+  "移動": 16,
+  "公務（内容未詳）": 272,
+  "官邸執務": 60,
+  "面会・会談": 5,
+  "国会": 330,
+  "取材・会見": 1
+ }
+}

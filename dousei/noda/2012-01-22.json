@@ -1,0 +1,29 @@
+{
+ "date": "2012-01-22",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.01.22",
+ "work_min": 0,
+ "residence_min": 1440,
+ "meetings": 0,
+ "first_work": "—",
+ "events": [
+  {
+   "time": "00:00",
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "公邸で過ごす",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "居所": 1440
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "date": "2025-11-29",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 291,
+ "residence_min": 1149,
+ "meetings": 0,
+ "first_work": "10:28",
+ "events": [
+  {
+   "time": "10:28",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:35",
+   "label": "原子力総合防災訓練",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:59",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:20",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:22",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:13",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:33",
+   "label": "「カレッタスタジオ」で自民党広報用の写真撮影。鈴木貴子同党広報本部長同席",
+   "place": "東京・東新橋 複合施設「カレッタ汐留」",
+   "category": "党務"
+  },
+  {
+   "time": "15:31",
+   "label": "移動",
+   "place": "東京・東新橋 複合施設「カレッタ汐留」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 628
+  },
+  {
+   "start": "10:28",
+   "end": "10:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "10:32",
+   "end": "10:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:35",
+   "end": "11:18",
+   "category": "官邸執務",
+   "label": "原子力総合防災訓練",
+   "minutes": 43
+  },
+  {
+   "start": "11:18",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "11:59",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:00",
+   "end": "12:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 20
+  },
+  {
+   "start": "12:20",
+   "end": "12:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 51
+  },
+  {
+   "start": "13:13",
+   "end": "13:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "13:33",
+   "end": "15:31",
+   "category": "党務",
+   "label": "「カレッタスタジオ」で自民党広報用の写真撮影。鈴木貴子同党広報本部長同席",
+   "minutes": 118
+  },
+  {
+   "start": "15:31",
+   "end": "15:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "15:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 501
+  }
+ ],
+ "alloc_min": {
+  "居所": 1149,
+  "移動": 35,
+  "公務（内容未詳）": 44,
+  "官邸執務": 94,
+  "党務": 118
+ }
+}

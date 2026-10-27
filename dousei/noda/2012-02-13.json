@@ -1,0 +1,163 @@
+{
+ "date": "2012-02-13",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.02.13",
+ "work_min": 641,
+ "residence_min": 799,
+ "meetings": 6,
+ "first_work": "07:16",
+ "events": [
+  {
+   "time": "07:16",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:00",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:22",
+   "label": "斎藤氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:48",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:50",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:07",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "福島県飯舘村の菅野典雄村長ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:03",
+   "label": "藤田財務副大臣、斎藤副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:50",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:23",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 436
+  },
+  {
+   "start": "07:16",
+   "end": "08:22",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "minutes": 66
+  },
+  {
+   "start": "08:22",
+   "end": "08:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 26
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:50",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:59",
+   "end": "12:07",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 188
+  },
+  {
+   "start": "12:07",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 113
+  },
+  {
+   "start": "14:00",
+   "end": "17:03",
+   "category": "面会・会談",
+   "label": "福島県飯舘村の菅野典雄村長ら",
+   "minutes": 183
+  },
+  {
+   "start": "17:03",
+   "end": "17:50",
+   "category": "面会・会談",
+   "label": "藤田財務副大臣、斎藤副長官",
+   "minutes": 47
+  },
+  {
+   "start": "17:50",
+   "end": "18:23",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 33
+  },
+  {
+   "start": "18:23",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 337
+  }
+ ],
+ "alloc_min": {
+  "居所": 799,
+  "面会・会談": 329,
+  "移動": 2,
+  "公務（内容未詳）": 122,
+  "国会": 188
+ }
+}

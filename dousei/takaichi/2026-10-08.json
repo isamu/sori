@@ -1,0 +1,315 @@
+{
+ "date": "2026-10-08",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.10.08",
+ "work_min": 471,
+ "residence_min": 969,
+ "meetings": 2,
+ "first_work": "09:50",
+ "events": [
+  {
+   "time": "09:50",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:52",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "参院議長応接室へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "参院議長応接室を出て、参院本会議場へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議開会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:37",
+   "label": "参院本会議場を出る",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "11:39",
+   "label": "国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "11:41",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "衆院議長応接室へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院議長応接室を出て、衆院本会議場へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議開会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:00",
+   "label": "衆院本会議場を出る",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "15:02",
+   "label": "国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "15:04",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:07",
+   "label": "市川恵一国家安全保障局長、外務省の船越健裕事務次官、金井正彰アジア大洋州局長、熊谷直樹北米局長、中村仁威欧州局長、岩本桂一中東アフリカ局長、中村和彦国際法局長と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:53",
+   "label": "矢野和彦文部科学事務次官と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:40",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:41",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 590
+  },
+  {
+   "start": "09:50",
+   "end": "09:52",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "09:52",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:54",
+   "end": "09:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:58",
+   "end": "10:01",
+   "category": "移動",
+   "label": "参院議長応接室を出て、参院本会議場へ",
+   "minutes": 3
+  },
+  {
+   "start": "10:01",
+   "end": "11:36",
+   "category": "国会",
+   "label": "参院本会議開会",
+   "minutes": 95
+  },
+  {
+   "start": "11:36",
+   "end": "11:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:37",
+   "end": "11:39",
+   "category": "移動",
+   "label": "参院本会議場を出る",
+   "minutes": 2
+  },
+  {
+   "start": "11:39",
+   "end": "11:41",
+   "category": "移動",
+   "label": "国会発",
+   "minutes": 2
+  },
+  {
+   "start": "11:41",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "12:53",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "13:02",
+   "category": "移動",
+   "label": "衆院議長応接室を出て、衆院本会議場へ",
+   "minutes": 2
+  },
+  {
+   "start": "13:02",
+   "end": "14:59",
+   "category": "国会",
+   "label": "衆院本会議開会",
+   "minutes": 117
+  },
+  {
+   "start": "14:59",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:00",
+   "end": "15:02",
+   "category": "移動",
+   "label": "衆院本会議場を出る",
+   "minutes": 2
+  },
+  {
+   "start": "15:02",
+   "end": "15:04",
+   "category": "移動",
+   "label": "国会発",
+   "minutes": 2
+  },
+  {
+   "start": "15:04",
+   "end": "15:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:07",
+   "end": "15:52",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長、外務省の船越健裕事務次官、金井正彰アジア大洋州局長、熊谷直樹北米局長、中村仁威欧州局長、岩本桂一中東アフリカ局長、中村和彦国際法局長と面会",
+   "minutes": 45
+  },
+  {
+   "start": "15:52",
+   "end": "15:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:53",
+   "end": "16:00",
+   "category": "面会・会談",
+   "label": "矢野和彦文部科学事務次官と面会",
+   "minutes": 7
+  },
+  {
+   "start": "16:00",
+   "end": "17:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 100
+  },
+  {
+   "start": "17:40",
+   "end": "17:41",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "17:41",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 379
+  }
+ ],
+ "alloc_min": {
+  "居所": 969,
+  "移動": 17,
+  "公務（内容未詳）": 190,
+  "国会": 212,
+  "面会・会談": 52
+ }
+}

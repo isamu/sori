@@ -1,0 +1,231 @@
+{
+ "date": "2012-02-17",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.02.17",
+ "work_min": 914,
+ "residence_min": 526,
+ "meetings": 4,
+ "first_work": "06:46",
+ "events": [
+  {
+   "time": "06:46",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:52",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:07",
+   "label": "斎藤氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:08",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:10",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:16",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:12",
+   "label": "皇居。天皇陛下のお見舞いの記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:22",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:04",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:23",
+   "label": "沖縄県軍用地転用促進・基地問題協議会の仲井真弘多沖縄県知事らが要望",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:01",
+   "label": "ものづくり日本大賞表彰式",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:28",
+   "label": "東京・神南のＮＨＫ",
+   "place": "神南",
+   "category": "移動"
+  },
+  {
+   "time": "21:00",
+   "label": "報道番組に出演",
+   "place": "神南",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:01",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 406
+  },
+  {
+   "start": "06:46",
+   "end": "08:07",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "minutes": 81
+  },
+  {
+   "start": "08:07",
+   "end": "08:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "08:08",
+   "end": "08:10",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:10",
+   "end": "08:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:16",
+   "end": "08:58",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 42
+  },
+  {
+   "start": "08:58",
+   "end": "12:12",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 194
+  },
+  {
+   "start": "12:12",
+   "end": "12:22",
+   "category": "式典・行事",
+   "label": "皇居。天皇陛下のお見舞いの記帳",
+   "minutes": 10
+  },
+  {
+   "start": "12:22",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "12:59",
+   "end": "17:04",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 245
+  },
+  {
+   "start": "17:04",
+   "end": "17:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "17:23",
+   "end": "18:01",
+   "category": "面会・会談",
+   "label": "沖縄県軍用地転用促進・基地問題協議会の仲井真弘多沖縄県知事らが要望",
+   "minutes": 38
+  },
+  {
+   "start": "18:01",
+   "end": "20:28",
+   "category": "式典・行事",
+   "label": "ものづくり日本大賞表彰式",
+   "minutes": 147
+  },
+  {
+   "start": "20:28",
+   "end": "21:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "21:00",
+   "end": "22:01",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 61
+  },
+  {
+   "start": "22:01",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 119
+  }
+ ],
+ "alloc_min": {
+  "居所": 526,
+  "面会・会談": 119,
+  "移動": 2,
+  "公務（内容未詳）": 94,
+  "官邸執務": 42,
+  "国会": 439,
+  "式典・行事": 157,
+  "取材・会見": 61
+ }
+}

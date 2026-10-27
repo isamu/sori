@@ -1,0 +1,263 @@
+{
+ "date": "2012-03-16",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.03.16",
+ "work_min": 793,
+ "residence_min": 647,
+ "meetings": 5,
+ "first_work": "06:16",
+ "events": [
+  {
+   "time": "06:16",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "06:28",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "06:30",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "07:35",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "07:52",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:10",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:12",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:35",
+   "label": "ラオスのトンシン首相と首脳会談。藤村官房長官ら同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:11",
+   "label": "署名式",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:20",
+   "label": "官邸玄関でトンシン首相を見送り",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:24",
+   "label": "有馬朗人元東大総長、今井敬元経団連会長ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:45",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:29",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 376
+  },
+  {
+   "start": "06:16",
+   "end": "06:28",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 12
+  },
+  {
+   "start": "06:28",
+   "end": "06:30",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "06:30",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "07:30",
+   "end": "07:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "07:35",
+   "end": "07:52",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 17
+  },
+  {
+   "start": "07:52",
+   "end": "08:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "08:10",
+   "end": "08:49",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 39
+  },
+  {
+   "start": "08:49",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "09:00",
+   "end": "12:12",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 192
+  },
+  {
+   "start": "12:12",
+   "end": "13:00",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 48
+  },
+  {
+   "start": "13:00",
+   "end": "17:10",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 250
+  },
+  {
+   "start": "17:10",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "17:35",
+   "end": "18:11",
+   "category": "面会・会談",
+   "label": "ラオスのトンシン首相と首脳会談。藤村官房長官ら同席",
+   "minutes": 36
+  },
+  {
+   "start": "18:11",
+   "end": "18:20",
+   "category": "式典・行事",
+   "label": "署名式",
+   "minutes": 9
+  },
+  {
+   "start": "18:20",
+   "end": "18:24",
+   "category": "式典・行事",
+   "label": "官邸玄関でトンシン首相を見送り",
+   "minutes": 4
+  },
+  {
+   "start": "18:24",
+   "end": "18:45",
+   "category": "面会・会談",
+   "label": "有馬朗人元東大総長、今井敬元経団連会長ら",
+   "minutes": 21
+  },
+  {
+   "start": "18:45",
+   "end": "19:29",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 44
+  },
+  {
+   "start": "19:29",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 271
+  }
+ ],
+ "alloc_min": {
+  "居所": 647,
+  "面会・会談": 152,
+  "移動": 2,
+  "公務（内容未詳）": 119,
+  "官邸執務": 17,
+  "国会": 490,
+  "式典・行事": 13
+ }
+}

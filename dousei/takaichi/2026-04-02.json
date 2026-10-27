@@ -1,0 +1,227 @@
+{
+ "date": "2026-04-02",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 650,
+ "residence_min": 790,
+ "meetings": 2,
+ "first_work": "09:02",
+ "events": [
+  {
+   "time": "09:02",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:22",
+   "label": "フランスのマクロン大統領と宇宙関連企業「アストロスケール」視察",
+   "place": "東京都墨田区錦糸 ヒューリック錦糸町コラボツリー",
+   "category": "視察"
+  },
+  {
+   "time": "10:11",
+   "label": "移動",
+   "place": "東京都墨田区錦糸 ヒューリック錦糸町コラボツリー",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:21",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:24",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:32",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:17",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:14",
+   "label": "伊藤学司新文化庁長官 都倉俊一旧文化庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:48",
+   "label": "市川恵一国家安全保障局長 伊吹英明製造産業局長 萬浪学防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 542
+  },
+  {
+   "start": "09:02",
+   "end": "09:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "09:22",
+   "end": "10:11",
+   "category": "視察",
+   "label": "フランスのマクロン大統領と宇宙関連企業「アストロスケール」視察",
+   "minutes": 49
+  },
+  {
+   "start": "10:11",
+   "end": "10:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 216
+  },
+  {
+   "start": "14:21",
+   "end": "14:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:22",
+   "end": "14:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "14:30",
+   "end": "14:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:32",
+   "end": "16:14",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 102
+  },
+  {
+   "start": "16:14",
+   "end": "16:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:17",
+   "end": "16:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:19",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "17:14",
+   "end": "17:24",
+   "category": "面会・会談",
+   "label": "伊藤学司新文化庁長官 都倉俊一旧文化庁長官",
+   "minutes": 10
+  },
+  {
+   "start": "17:24",
+   "end": "18:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 84
+  },
+  {
+   "start": "18:48",
+   "end": "19:08",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長 伊吹英明製造産業局長 萬浪学防衛政策局長",
+   "minutes": 20
+  },
+  {
+   "start": "19:08",
+   "end": "19:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "19:51",
+   "end": "19:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:52",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 248
+  }
+ ],
+ "alloc_min": {
+  "居所": 790,
+  "移動": 58,
+  "視察": 49,
+  "官邸執務": 216,
+  "公務（内容未詳）": 189,
+  "国会": 108,
+  "面会・会談": 30
+ }
+}

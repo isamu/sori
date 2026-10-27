@@ -1,0 +1,92 @@
+{
+ "date": "2021-02-07",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 57,
+ "residence_min": 1383,
+ "meetings": 1,
+ "first_work": "13:17",
+ "events": [
+  {
+   "time": "13:17",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "13:27",
+   "label": "ジャーナリストの田原総一朗氏、細谷雄一慶応大教授",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:16",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 797
+  },
+  {
+   "start": "13:17",
+   "end": "13:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "13:21",
+   "end": "13:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:27",
+   "end": "14:09",
+   "category": "面会・会談",
+   "label": "ジャーナリストの田原総一朗氏、細谷雄一慶応大教授",
+   "minutes": 42
+  },
+  {
+   "start": "14:09",
+   "end": "15:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 67
+  },
+  {
+   "start": "15:16",
+   "end": "15:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "15:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 519
+  }
+ ],
+ "alloc_min": {
+  "居所": 1383,
+  "移動": 9,
+  "公務（内容未詳）": 6,
+  "面会・会談": 42
+ }
+}

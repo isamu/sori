@@ -1,0 +1,387 @@
+{
+ "date": "2026-10-14",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.10.14",
+ "work_min": 647,
+ "residence_min": 793,
+ "meetings": 3,
+ "first_work": "08:48",
+ "events": [
+  {
+   "time": "08:48",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:50",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:52",
+   "label": "衆院第１委員室へ",
+   "place": "衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "08:56",
+   "label": "茂木敏充外相と面会",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委員会開会",
+   "place": "衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:01",
+   "label": "衆院予算委休憩",
+   "place": "衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:03",
+   "label": "衆院第１委員室を出る",
+   "place": "衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:05",
+   "label": "国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:07",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "衆院第１委員室へ",
+   "place": "衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委再開",
+   "place": "衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "15:32",
+   "label": "衆院予算委休憩",
+   "place": "衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "15:33",
+   "label": "衆院第１委員室を出る",
+   "place": "衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "15:36",
+   "label": "衆院第１委員室へ",
+   "place": "衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "15:41",
+   "label": "片山さつき財務相と面会",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:43",
+   "label": "衆院予算委再開",
+   "place": "衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:12",
+   "label": "衆院予算委散会",
+   "place": "衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": null,
+   "label": "衆院第１委員室を出る",
+   "place": "衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:15",
+   "label": "国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:17",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:25",
+   "label": "簗和生農林水産相と面会。木原稔官房長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:27",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:34",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:35",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 528
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:50",
+   "end": "08:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:52",
+   "end": "08:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:56",
+   "end": "08:57",
+   "category": "面会・会談",
+   "label": "茂木敏充外相と面会",
+   "minutes": 1
+  },
+  {
+   "start": "08:57",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:00",
+   "end": "12:01",
+   "category": "国会",
+   "label": "衆院予算委員会開会",
+   "minutes": 181
+  },
+  {
+   "start": "12:01",
+   "end": "12:03",
+   "category": "国会",
+   "label": "衆院予算委休憩",
+   "minutes": 2
+  },
+  {
+   "start": "12:03",
+   "end": "12:05",
+   "category": "移動",
+   "label": "衆院第１委員室を出る",
+   "minutes": 2
+  },
+  {
+   "start": "12:05",
+   "end": "12:07",
+   "category": "移動",
+   "label": "国会発",
+   "minutes": 2
+  },
+  {
+   "start": "12:07",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "12:53",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "15:32",
+   "category": "国会",
+   "label": "衆院予算委再開",
+   "minutes": 152
+  },
+  {
+   "start": "15:32",
+   "end": "15:33",
+   "category": "国会",
+   "label": "衆院予算委休憩",
+   "minutes": 1
+  },
+  {
+   "start": "15:33",
+   "end": "15:36",
+   "category": "移動",
+   "label": "衆院第１委員室を出る",
+   "minutes": 3
+  },
+  {
+   "start": "15:36",
+   "end": "15:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "15:41",
+   "end": "15:42",
+   "category": "面会・会談",
+   "label": "片山さつき財務相と面会",
+   "minutes": 1
+  },
+  {
+   "start": "15:42",
+   "end": "15:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:43",
+   "end": "17:12",
+   "category": "国会",
+   "label": "衆院予算委再開",
+   "minutes": 89
+  },
+  {
+   "start": "17:12",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:15",
+   "end": "17:17",
+   "category": "移動",
+   "label": "国会発",
+   "minutes": 2
+  },
+  {
+   "start": "17:17",
+   "end": "18:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 68
+  },
+  {
+   "start": "18:25",
+   "end": "18:44",
+   "category": "面会・会談",
+   "label": "簗和生農林水産相と面会。木原稔官房長官同席",
+   "minutes": 19
+  },
+  {
+   "start": "18:44",
+   "end": "19:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "19:27",
+   "end": "19:33",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 6
+  },
+  {
+   "start": "19:33",
+   "end": "19:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:34",
+   "end": "19:35",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "19:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 265
+  }
+ ],
+ "alloc_min": {
+  "居所": 793,
+  "移動": 13,
+  "公務（内容未詳）": 182,
+  "面会・会談": 21,
+  "国会": 425,
+  "取材・会見": 6
+ }
+}

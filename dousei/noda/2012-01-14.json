@@ -1,0 +1,64 @@
+{
+ "date": "2012-01-14",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.01.14",
+ "work_min": 96,
+ "residence_min": 1344,
+ "meetings": 0,
+ "first_work": "11:00",
+ "events": [
+  {
+   "time": "11:00",
+   "label": "東京・虎ノ門のテレビ東京",
+   "place": "虎ノ門",
+   "category": "移動"
+  },
+  {
+   "time": "11:33",
+   "label": "報道番組に出演",
+   "place": "虎ノ門",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:36",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 660
+  },
+  {
+   "start": "11:00",
+   "end": "11:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "11:33",
+   "end": "12:36",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 63
+  },
+  {
+   "start": "12:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 684
+  }
+ ],
+ "alloc_min": {
+  "居所": 1344,
+  "公務（内容未詳）": 33,
+  "取材・会見": 63
+ }
+}

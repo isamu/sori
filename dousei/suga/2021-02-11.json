@@ -1,0 +1,132 @@
+{
+ "date": "2021-02-11",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 128,
+ "residence_min": 1312,
+ "meetings": 3,
+ "first_work": "13:46",
+ "events": [
+  {
+   "time": "13:46",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "13:58",
+   "label": "熊谷亮丸参与",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:04",
+   "label": "岡部信彦参与",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:51",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:06",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 826
+  },
+  {
+   "start": "13:46",
+   "end": "13:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:48",
+   "end": "13:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "13:58",
+   "end": "14:58",
+   "category": "面会・会談",
+   "label": "熊谷亮丸参与",
+   "minutes": 60
+  },
+  {
+   "start": "14:58",
+   "end": "15:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 6
+  },
+  {
+   "start": "15:04",
+   "end": "15:41",
+   "category": "面会・会談",
+   "label": "岡部信彦参与",
+   "minutes": 37
+  },
+  {
+   "start": "15:41",
+   "end": "15:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 10
+  },
+  {
+   "start": "15:51",
+   "end": "16:03",
+   "category": "面会・会談",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長",
+   "minutes": 12
+  },
+  {
+   "start": "16:03",
+   "end": "16:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 3
+  },
+  {
+   "start": "16:06",
+   "end": "16:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "16:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 467
+  }
+ ],
+ "alloc_min": {
+  "居所": 1312,
+  "移動": 9,
+  "公務（内容未詳）": 10,
+  "面会・会談": 109
+ }
+}

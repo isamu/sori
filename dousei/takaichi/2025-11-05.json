@@ -1,0 +1,400 @@
+{
+ "date": "2025-11-05",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 764,
+ "residence_min": 676,
+ "meetings": 6,
+ "first_work": "07:27",
+ "events": [
+  {
+   "time": "07:27",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:31",
+   "label": "尾崎正直官房副長官 佐藤啓官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:34",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:36",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:53",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:03",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:50",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:15",
+   "label": "市川恵一国家安全保障局長 有馬裕総合外交政策局長 萬浪学防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:01",
+   "label": "原田祐平会計検査院長から２０２４年度決算検査報告受け取り",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:20",
+   "label": "全国農業協同組合中央会（ＪＡ全中）の山野徹会長ら。佐藤官房副長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:45",
+   "label": "ウクライナのゼレンスキー大統領と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:29",
+   "label": "イタリアのメローニ首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:05",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 447
+  },
+  {
+   "start": "07:27",
+   "end": "07:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "07:30",
+   "end": "07:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:31",
+   "end": "09:15",
+   "category": "面会・会談",
+   "label": "尾崎正直官房副長官 佐藤啓官房副長官",
+   "minutes": 104
+  },
+  {
+   "start": "09:15",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "09:51",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:52",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:31",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 90
+  },
+  {
+   "start": "11:31",
+   "end": "11:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:34",
+   "end": "11:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 76
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:02",
+   "end": "14:50",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 108
+  },
+  {
+   "start": "14:50",
+   "end": "14:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "15:00",
+   "end": "15:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:03",
+   "end": "16:47",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 104
+  },
+  {
+   "start": "16:47",
+   "end": "16:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:50",
+   "end": "16:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:51",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "17:15",
+   "end": "17:37",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長 有馬裕総合外交政策局長 萬浪学防衛政策局長",
+   "minutes": 22
+  },
+  {
+   "start": "17:37",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "18:01",
+   "end": "18:12",
+   "category": "面会・会談",
+   "label": "原田祐平会計検査院長から２０２４年度決算検査報告受け取り",
+   "minutes": 11
+  },
+  {
+   "start": "18:12",
+   "end": "18:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "18:20",
+   "end": "18:33",
+   "category": "面会・会談",
+   "label": "全国農業協同組合中央会（ＪＡ全中）の山野徹会長ら。佐藤官房副長官同席",
+   "minutes": 13
+  },
+  {
+   "start": "18:33",
+   "end": "18:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "18:45",
+   "end": "19:14",
+   "category": "面会・会談",
+   "label": "ウクライナのゼレンスキー大統領と電話会談",
+   "minutes": 29
+  },
+  {
+   "start": "19:14",
+   "end": "19:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "19:29",
+   "end": "19:43",
+   "category": "面会・会談",
+   "label": "イタリアのメローニ首相と電話会談",
+   "minutes": 14
+  },
+  {
+   "start": "19:43",
+   "end": "20:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "20:05",
+   "end": "20:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "20:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 229
+  }
+ ],
+ "alloc_min": {
+  "居所": 676,
+  "移動": 15,
+  "公務（内容未詳）": 163,
+  "面会・会談": 193,
+  "国会": 317,
+  "官邸執務": 76
+ }
+}

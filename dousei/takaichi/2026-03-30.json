@@ -1,0 +1,367 @@
+{
+ "date": "2026-03-30",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 568,
+ "residence_min": 872,
+ "meetings": 1,
+ "first_work": "08:50",
+ "events": [
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "11:42",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "11:43",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:25",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:29",
+   "label": "林芳正総務相 赤沢亮正経済産業相 金子恭之国土交通相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:31",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:36",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "15:38",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:18",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:21",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "16:28",
+   "label": "茂木敏充外相 木原稔官房長官",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:31",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:41",
+   "label": "党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "16:51",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:12",
+   "label": "赤沢亮正中東情勢に伴う重要物資安定確保担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 530
+  },
+  {
+   "start": "08:50",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:51",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "09:00",
+   "end": "11:39",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 159
+  },
+  {
+   "start": "11:39",
+   "end": "11:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:42",
+   "end": "11:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 42
+  },
+  {
+   "start": "12:25",
+   "end": "12:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:27",
+   "end": "12:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:29",
+   "end": "12:30",
+   "category": "国会",
+   "label": "林芳正総務相 赤沢亮正経済産業相 金子恭之国土交通相",
+   "minutes": 1
+  },
+  {
+   "start": "12:30",
+   "end": "12:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:31",
+   "end": "12:38",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 7
+  },
+  {
+   "start": "12:38",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "13:00",
+   "end": "15:33",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 153
+  },
+  {
+   "start": "15:33",
+   "end": "15:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:36",
+   "end": "15:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 40
+  },
+  {
+   "start": "16:18",
+   "end": "16:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:20",
+   "end": "16:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "16:27",
+   "end": "16:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:28",
+   "end": "16:29",
+   "category": "国会",
+   "label": "茂木敏充外相 木原稔官房長官",
+   "minutes": 1
+  },
+  {
+   "start": "16:29",
+   "end": "16:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:31",
+   "end": "16:34",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 3
+  },
+  {
+   "start": "16:34",
+   "end": "16:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:41",
+   "end": "16:49",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 8
+  },
+  {
+   "start": "16:49",
+   "end": "16:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:51",
+   "end": "16:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:53",
+   "end": "17:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "17:12",
+   "end": "18:01",
+   "category": "面会・会談",
+   "label": "赤沢亮正中東情勢に伴う重要物資安定確保担当相",
+   "minutes": 49
+  },
+  {
+   "start": "18:01",
+   "end": "18:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "18:17",
+   "end": "18:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:18",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 342
+  }
+ ],
+ "alloc_min": {
+  "居所": 872,
+  "移動": 11,
+  "公務（内容未詳）": 88,
+  "国会": 330,
+  "官邸執務": 82,
+  "党務": 8,
+  "面会・会談": 49
+ }
+}

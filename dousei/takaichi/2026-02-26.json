@@ -1,0 +1,400 @@
+{
+ "date": "2026-02-26",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 592,
+ "residence_min": 848,
+ "meetings": 3,
+ "first_work": "09:51",
+ "events": [
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:44",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:46",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:02",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:11",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:23",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:35",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "社会保障国民会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:10",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:56",
+   "label": "市川恵一国家安全保障局長 船越健裕事務次官 金井正彰アジア大洋州局長 熊谷直樹北米局長 岩本桂一中東アフリカ局長 実生泰介領事局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:21",
+   "label": "市川恵一国家安全保障局長 原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:28",
+   "label": "原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:42",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 591
+  },
+  {
+   "start": "09:51",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:53",
+   "end": "09:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:42",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 101
+  },
+  {
+   "start": "11:42",
+   "end": "11:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:44",
+   "end": "11:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 65
+  },
+  {
+   "start": "12:51",
+   "end": "12:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "12:57",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:01",
+   "end": "14:59",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 118
+  },
+  {
+   "start": "14:59",
+   "end": "15:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "15:07",
+   "end": "15:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:11",
+   "end": "16:37",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 86
+  },
+  {
+   "start": "16:37",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "17:00",
+   "end": "17:10",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 10
+  },
+  {
+   "start": "17:10",
+   "end": "17:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "17:23",
+   "end": "17:33",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 10
+  },
+  {
+   "start": "17:33",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:35",
+   "end": "17:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:37",
+   "end": "17:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:47",
+   "end": "17:59",
+   "category": "官邸執務",
+   "label": "社会保障国民会議",
+   "minutes": 12
+  },
+  {
+   "start": "17:59",
+   "end": "18:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "18:10",
+   "end": "18:54",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 44
+  },
+  {
+   "start": "18:54",
+   "end": "18:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:56",
+   "end": "19:20",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長 船越健裕事務次官 金井正彰アジア大洋州局長 熊谷直樹北米局長 岩本桂一中東アフリカ局長 実生泰介領事局長",
+   "minutes": 24
+  },
+  {
+   "start": "19:20",
+   "end": "19:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:21",
+   "end": "19:27",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長 原和也内閣情報官",
+   "minutes": 6
+  },
+  {
+   "start": "19:27",
+   "end": "19:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:28",
+   "end": "19:34",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 6
+  },
+  {
+   "start": "19:34",
+   "end": "19:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "19:42",
+   "end": "19:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:43",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 257
+  }
+ ],
+ "alloc_min": {
+  "居所": 848,
+  "移動": 8,
+  "公務（内容未詳）": 92,
+  "国会": 335,
+  "官邸執務": 121,
+  "面会・会談": 36
+ }
+}

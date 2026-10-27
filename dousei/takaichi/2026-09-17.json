@@ -1,0 +1,338 @@
+{
+ "date": "2026-09-17",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.09.17",
+ "work_min": 580,
+ "residence_min": 860,
+ "meetings": 2,
+ "first_work": "11:17",
+ "events": [
+  {
+   "time": "11:17",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:19",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:31",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:45",
+   "label": "鈴木俊一自民党幹事長と面会。木原稔官房長官同席。",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:02",
+   "label": "藤田文武日本維新の会共同代表と与党党首会談。鈴木俊一、柴田巧維新幹事長、木原稔官房長官同席。",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:16",
+   "label": "組閣本部設置",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:17",
+   "label": "新閣僚の呼び込み",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:04",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:15",
+   "label": "皇居着",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "内奏",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "閣僚認証式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:37",
+   "label": "皇居発",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "16:49",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:21",
+   "label": "各閣僚に補職辞令交付",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:52",
+   "label": "初閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "20:10",
+   "label": "閣僚と記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:13",
+   "label": "首相補佐官らに辞令交付、記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:55",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:57",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 677
+  },
+  {
+   "start": "11:17",
+   "end": "11:19",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "11:19",
+   "end": "11:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "11:31",
+   "end": "11:42",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 11
+  },
+  {
+   "start": "11:42",
+   "end": "12:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "12:45",
+   "end": "12:59",
+   "category": "面会・会談",
+   "label": "鈴木俊一自民党幹事長と面会。木原稔官房長官同席。",
+   "minutes": 14
+  },
+  {
+   "start": "12:59",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:02",
+   "end": "13:10",
+   "category": "面会・会談",
+   "label": "藤田文武日本維新の会共同代表と与党党首会談。鈴木俊一、柴田巧維新幹事長、木原稔官房長官同席。",
+   "minutes": 8
+  },
+  {
+   "start": "13:10",
+   "end": "13:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:16",
+   "end": "13:17",
+   "category": "式典・行事",
+   "label": "組閣本部設置",
+   "minutes": 1
+  },
+  {
+   "start": "13:17",
+   "end": "13:49",
+   "category": "式典・行事",
+   "label": "新閣僚の呼び込み",
+   "minutes": 32
+  },
+  {
+   "start": "13:49",
+   "end": "15:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 75
+  },
+  {
+   "start": "15:04",
+   "end": "15:15",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 11
+  },
+  {
+   "start": "15:15",
+   "end": "16:37",
+   "category": "式典・行事",
+   "label": "内奏",
+   "minutes": 82
+  },
+  {
+   "start": "16:37",
+   "end": "16:49",
+   "category": "移動",
+   "label": "皇居発",
+   "minutes": 12
+  },
+  {
+   "start": "16:49",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 101
+  },
+  {
+   "start": "18:30",
+   "end": "19:14",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 44
+  },
+  {
+   "start": "19:14",
+   "end": "19:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "19:21",
+   "end": "19:28",
+   "category": "式典・行事",
+   "label": "各閣僚に補職辞令交付",
+   "minutes": 7
+  },
+  {
+   "start": "19:28",
+   "end": "19:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "19:52",
+   "end": "20:06",
+   "category": "官邸執務",
+   "label": "初閣議",
+   "minutes": 14
+  },
+  {
+   "start": "20:06",
+   "end": "20:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "20:10",
+   "end": "20:11",
+   "category": "式典・行事",
+   "label": "閣僚と記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "20:11",
+   "end": "20:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "20:13",
+   "end": "20:17",
+   "category": "式典・行事",
+   "label": "首相補佐官らに辞令交付、記念撮影",
+   "minutes": 4
+  },
+  {
+   "start": "20:17",
+   "end": "20:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "20:55",
+   "end": "20:57",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 2
+  },
+  {
+   "start": "20:57",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 183
+  }
+ ],
+ "alloc_min": {
+  "居所": 860,
+  "移動": 27,
+  "公務（内容未詳）": 335,
+  "官邸執務": 25,
+  "面会・会談": 22,
+  "式典・行事": 127,
+  "取材・会見": 44
+ }
+}

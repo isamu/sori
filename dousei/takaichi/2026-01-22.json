@@ -1,0 +1,314 @@
+{
+ "date": "2026-01-22",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 530,
+ "residence_min": 910,
+ "meetings": 4,
+ "first_work": "10:00",
+ "events": [
+  {
+   "time": "10:00",
+   "label": "原和也内閣情報官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:11",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:58",
+   "label": "小池百合子東京都知事",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "同党選挙対策本部会議",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "13:45",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "14:30",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:18",
+   "label": "自民党の新藤義孝外国人政策本部長らから提言書受け取り",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "15:31",
+   "label": "日本維新の会の藤田文武共同代表、高橋英明外国人政策と人口戦略調査会長らから提言書受け取り",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:06",
+   "label": "ビデオメッセージ収録",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:32",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:47",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:30",
+   "label": "片山さつき財務相 木原稔官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:30",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 600
+  },
+  {
+   "start": "10:00",
+   "end": "10:30",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 30
+  },
+  {
+   "start": "10:30",
+   "end": "11:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 41
+  },
+  {
+   "start": "11:11",
+   "end": "11:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "11:12",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "11:58",
+   "end": "12:16",
+   "category": "面会・会談",
+   "label": "小池百合子東京都知事",
+   "minutes": 18
+  },
+  {
+   "start": "12:16",
+   "end": "12:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "12:57",
+   "end": "13:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "13:01",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:02",
+   "end": "13:44",
+   "category": "党務",
+   "label": "同党選挙対策本部会議",
+   "minutes": 42
+  },
+  {
+   "start": "13:44",
+   "end": "13:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:45",
+   "end": "13:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:47",
+   "end": "14:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "14:30",
+   "end": "15:00",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 30
+  },
+  {
+   "start": "15:00",
+   "end": "15:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "15:18",
+   "end": "15:29",
+   "category": "党務",
+   "label": "自民党の新藤義孝外国人政策本部長らから提言書受け取り",
+   "minutes": 11
+  },
+  {
+   "start": "15:29",
+   "end": "15:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:31",
+   "end": "15:40",
+   "category": "面会・会談",
+   "label": "日本維新の会の藤田文武共同代表、高橋英明外国人政策と人口戦略調査会長らから提言書受け取り",
+   "minutes": 9
+  },
+  {
+   "start": "15:40",
+   "end": "16:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "16:06",
+   "end": "16:14",
+   "category": "官邸執務",
+   "label": "ビデオメッセージ収録",
+   "minutes": 8
+  },
+  {
+   "start": "16:14",
+   "end": "16:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "16:32",
+   "end": "16:42",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 10
+  },
+  {
+   "start": "16:42",
+   "end": "17:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 65
+  },
+  {
+   "start": "17:47",
+   "end": "18:28",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 41
+  },
+  {
+   "start": "18:28",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:30",
+   "end": "18:58",
+   "category": "面会・会談",
+   "label": "片山さつき財務相 木原稔官房長官",
+   "minutes": 28
+  },
+  {
+   "start": "18:58",
+   "end": "19:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "19:30",
+   "end": "19:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 269
+  }
+ ],
+ "alloc_min": {
+  "居所": 910,
+  "面会・会談": 85,
+  "移動": 8,
+  "公務（内容未詳）": 295,
+  "党務": 53,
+  "官邸執務": 89
+ }
+}

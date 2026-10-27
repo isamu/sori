@@ -1,0 +1,95 @@
+{
+ "date": "2026-05-04",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.05.04",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "現地時間４日午前、オーストラリア・キャンベラの連邦議会で歓迎式典",
+   "place": "連邦議会",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "アルバニージー首相と少人数会談、首脳会談",
+   "place": "連邦議会",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "アルバニージー首相と少人数会談、首脳会談",
+   "place": "連邦議会",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "午後、署名式、共同記者発表",
+   "place": "キャンベラ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "午後、署名式、共同記者発表",
+   "place": "キャンベラ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "戦争記念館で無名戦士の墓に献花",
+   "place": "戦争記念館",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "連邦総督邸でモスティン連邦総督を表敬",
+   "place": "連邦総督邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "キャンベラ奈良平和公園でアルバニージー氏と共に植樹、故安倍晋三元首相の慰霊碑に献花",
+   "place": "キャンベラ奈良平和公園",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "キャンベラ奈良平和公園でアルバニージー氏と共に植樹、故安倍晋三元首相の慰霊碑に献花",
+   "place": "キャンベラ奈良平和公園",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "ハイアット・ホテル・キャンベラで報道各社のインタビュー",
+   "place": "ハイアット・ホテル・キャンベラ",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "首相公邸でアルバニージー氏主催夕食会",
+   "place": "首相公邸",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "宿泊先の同ホテル",
+   "place": "同ホテル",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "オーストラリア・キャンベラ訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

@@ -1,0 +1,480 @@
+{
+ "date": "2021-01-22",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 791,
+ "residence_min": 649,
+ "meetings": 7,
+ "first_work": "06:58",
+ "events": [
+  {
+   "time": "06:58",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:11",
+   "label": "岡田直樹官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:51",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:32",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:34",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:42",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "16:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "16:13",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "16:22",
+   "label": "北村滋国家安全保障局長 秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:31",
+   "label": "北村滋国家安全保障局長 滝沢裕昭内閣情報官 山田重夫総合外交政策局長 岡真臣防衛政策局長 山崎幸二統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:38",
+   "label": "竹下亘自民党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:02",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:26",
+   "label": "新型コロナウイルス感染症対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:50",
+   "label": "高島直樹自民党東京都連幹事長、山崎一輝都議会自民党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:06",
+   "label": "梶山弘志経済産業相 藤井健志官房副長官補 和泉洋人首相補佐官 安藤久佳事務次官 荒井勝喜総括審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:18",
+   "label": "北村滋国家安全保障局長 和泉洋人首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:04",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 418
+  },
+  {
+   "start": "06:58",
+   "end": "07:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "07:02",
+   "end": "07:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "07:11",
+   "end": "07:48",
+   "category": "面会・会談",
+   "label": "岡田直樹官房副長官",
+   "minutes": 37
+  },
+  {
+   "start": "07:48",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 73
+  },
+  {
+   "start": "09:01",
+   "end": "09:11",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 10
+  },
+  {
+   "start": "09:11",
+   "end": "09:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "09:48",
+   "end": "09:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:50",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:30",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 89
+  },
+  {
+   "start": "11:30",
+   "end": "11:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:32",
+   "end": "11:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 74
+  },
+  {
+   "start": "12:48",
+   "end": "12:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:49",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "12:57",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:01",
+   "end": "15:39",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 158
+  },
+  {
+   "start": "15:39",
+   "end": "15:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 11
+  },
+  {
+   "start": "15:53",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:00",
+   "end": "16:11",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 11
+  },
+  {
+   "start": "16:11",
+   "end": "16:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:13",
+   "end": "16:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:14",
+   "end": "16:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "16:22",
+   "end": "16:30",
+   "category": "面会・会談",
+   "label": "北村滋国家安全保障局長 秋葉剛男事務次官",
+   "minutes": 8
+  },
+  {
+   "start": "16:30",
+   "end": "16:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:31",
+   "end": "16:37",
+   "category": "面会・会談",
+   "label": "北村滋国家安全保障局長 滝沢裕昭内閣情報官 山田重夫総合外交政策局長 岡真臣防衛政策局長 山崎幸二統合幕僚長",
+   "minutes": 6
+  },
+  {
+   "start": "16:37",
+   "end": "16:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:38",
+   "end": "16:44",
+   "category": "面会・会談",
+   "label": "竹下亘自民党衆院議員",
+   "minutes": 6
+  },
+  {
+   "start": "16:44",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "17:02",
+   "end": "17:19",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 17
+  },
+  {
+   "start": "17:19",
+   "end": "17:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "17:26",
+   "end": "17:48",
+   "category": "官邸執務",
+   "label": "新型コロナウイルス感染症対策本部",
+   "minutes": 22
+  },
+  {
+   "start": "17:48",
+   "end": "17:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:50",
+   "end": "18:05",
+   "category": "面会・会談",
+   "label": "高島直樹自民党東京都連幹事長、山崎一輝都議会自民党幹事長",
+   "minutes": 15
+  },
+  {
+   "start": "18:05",
+   "end": "18:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:06",
+   "end": "18:16",
+   "category": "面会・会談",
+   "label": "梶山弘志経済産業相 藤井健志官房副長官補 和泉洋人首相補佐官 安藤久佳事務次官 荒井勝喜総括審議官",
+   "minutes": 10
+  },
+  {
+   "start": "18:16",
+   "end": "18:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:18",
+   "end": "18:23",
+   "category": "面会・会談",
+   "label": "北村滋国家安全保障局長 和泉洋人首相補佐官",
+   "minutes": 5
+  },
+  {
+   "start": "18:23",
+   "end": "20:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 101
+  },
+  {
+   "start": "20:04",
+   "end": "20:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "20:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 231
+  }
+ ],
+ "alloc_min": {
+  "居所": 649,
+  "移動": 15,
+  "公務（内容未詳）": 288,
+  "面会・会談": 87,
+  "官邸執務": 123,
+  "国会": 278
+ }
+}

@@ -1,0 +1,240 @@
+{
+ "date": "2021-02-04",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 778,
+ "residence_min": 662,
+ "meetings": 2,
+ "first_work": "06:27",
+ "events": [
+  {
+   "time": "06:27",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "06:38",
+   "label": "坂井学官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:44",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:03",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:15",
+   "label": "北村滋国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:21",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 387
+  },
+  {
+   "start": "06:27",
+   "end": "06:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "06:29",
+   "end": "06:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "06:38",
+   "end": "07:06",
+   "category": "面会・会談",
+   "label": "坂井学官房副長官",
+   "minutes": 28
+  },
+  {
+   "start": "07:06",
+   "end": "08:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 98
+  },
+  {
+   "start": "08:44",
+   "end": "08:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:46",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "09:00",
+   "end": "12:04",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 184
+  },
+  {
+   "start": "12:04",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:07",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 43
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:53",
+   "end": "13:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "13:03",
+   "end": "17:03",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 240
+  },
+  {
+   "start": "17:03",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:06",
+   "end": "17:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:07",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:15",
+   "end": "17:19",
+   "category": "面会・会談",
+   "label": "北村滋国家安全保障局長",
+   "minutes": 4
+  },
+  {
+   "start": "17:19",
+   "end": "19:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 122
+  },
+  {
+   "start": "19:21",
+   "end": "19:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "19:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 275
+  }
+ ],
+ "alloc_min": {
+  "居所": 662,
+  "移動": 12,
+  "公務（内容未詳）": 267,
+  "面会・会談": 32,
+  "国会": 424,
+  "官邸執務": 43
+ }
+}

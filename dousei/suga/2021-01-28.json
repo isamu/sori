@@ -1,0 +1,467 @@
+{
+ "date": "2021-01-28",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 1238,
+ "residence_min": 202,
+ "meetings": 3,
+ "first_work": "00:47",
+ "events": [
+  {
+   "time": "00:47",
+   "label": "バイデン米大統領との電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "01:24",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "01:28",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "06:27",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "06:33",
+   "label": "岡田直樹官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:51",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:53",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:25",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:35",
+   "label": "山崎重孝事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:52",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:58",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "20:11",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "21:07",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "21:15",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "21:19",
+   "label": "参院の山東昭子、小川敏夫正副議長、水落敏栄議院運営委員長ら、自民党、公明党、日本維新の会などにあいさつ回り。麻生副総理兼財務相、自民党の末松信介、公明党の秋野公造両参院国対委員長同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "21:30",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 47
+  },
+  {
+   "start": "00:47",
+   "end": "01:14",
+   "category": "面会・会談",
+   "label": "バイデン米大統領との電話会談",
+   "minutes": 27
+  },
+  {
+   "start": "01:14",
+   "end": "01:24",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 10
+  },
+  {
+   "start": "01:24",
+   "end": "01:27",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "01:27",
+   "end": "01:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "01:28",
+   "end": "01:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "01:31",
+   "end": "06:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 296
+  },
+  {
+   "start": "06:27",
+   "end": "06:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "06:30",
+   "end": "06:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "06:33",
+   "end": "06:55",
+   "category": "面会・会談",
+   "label": "岡田直樹官房副長官",
+   "minutes": 22
+  },
+  {
+   "start": "06:55",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 113
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:50",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:00",
+   "end": "11:48",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 168
+  },
+  {
+   "start": "11:48",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:51",
+   "end": "11:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 60
+  },
+  {
+   "start": "12:53",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:22",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 262
+  },
+  {
+   "start": "17:22",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:25",
+   "end": "17:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:27",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:35",
+   "end": "17:43",
+   "category": "面会・会談",
+   "label": "山崎重孝事務次官",
+   "minutes": 8
+  },
+  {
+   "start": "17:43",
+   "end": "19:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 129
+  },
+  {
+   "start": "19:52",
+   "end": "19:53",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "19:53",
+   "end": "19:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:54",
+   "end": "19:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "19:57",
+   "end": "19:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 9
+  },
+  {
+   "start": "20:07",
+   "end": "20:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "20:11",
+   "end": "21:05",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 54
+  },
+  {
+   "start": "21:05",
+   "end": "21:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "21:13",
+   "end": "21:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "21:18",
+   "end": "21:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "21:19",
+   "end": "21:28",
+   "category": "国会",
+   "label": "参院の山東昭子、小川敏夫正副議長、水落敏栄議院運営委員長ら、自民党、公明党、日本維新の会などにあいさつ回り。麻生副総理兼財務相、自民党の末松信介、公明党の秋野公造両参院国対委員長同行",
+   "minutes": 9
+  },
+  {
+   "start": "21:28",
+   "end": "21:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "21:30",
+   "end": "21:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "21:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 144
+  }
+ ],
+ "alloc_min": {
+  "居所": 202,
+  "面会・会談": 57,
+  "取材・会見": 4,
+  "移動": 23,
+  "公務（内容未詳）": 582,
+  "国会": 512,
+  "官邸執務": 60
+ }
+}

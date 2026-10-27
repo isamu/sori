@@ -1,0 +1,92 @@
+{
+ "date": "2020-12-12",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 140,
+ "residence_min": 1300,
+ "meetings": 1,
+ "first_work": "15:41",
+ "events": [
+  {
+   "time": "15:41",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "15:59",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "place": "衆院第２議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:55",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 941
+  },
+  {
+   "start": "15:41",
+   "end": "15:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "15:44",
+   "end": "15:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "15:59",
+   "end": "17:03",
+   "category": "面会・会談",
+   "label": "吉田学新型コロナウイルス感染症対策推進室長 樽見英樹事務次官 福島靖正医務技監",
+   "minutes": 64
+  },
+  {
+   "start": "17:03",
+   "end": "17:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "17:55",
+   "end": "18:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:01",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 359
+  }
+ ],
+ "alloc_min": {
+  "居所": 1300,
+  "移動": 9,
+  "公務（内容未詳）": 67,
+  "面会・会談": 64
+ }
+}

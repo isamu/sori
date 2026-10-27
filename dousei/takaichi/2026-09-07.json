@@ -1,0 +1,119 @@
+{
+ "date": "2026-09-07",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.09.07",
+ "work_min": 445,
+ "residence_min": 995,
+ "meetings": 1,
+ "first_work": "10:28",
+ "events": [
+  {
+   "time": "10:28",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:30",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:59",
+   "label": "自民党の小林鷹之政調会長、萩生田光一幹事長代行と会食。木原稔官房長官同席。",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "15:54",
+   "label": "自民党の鈴木俊一幹事長と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:52",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:53",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 628
+  },
+  {
+   "start": "10:28",
+   "end": "10:30",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "10:30",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 89
+  },
+  {
+   "start": "11:59",
+   "end": "13:04",
+   "category": "会食",
+   "label": "自民党の小林鷹之政調会長、萩生田光一幹事長代行と会食。木原稔官房長官同席。",
+   "minutes": 65
+  },
+  {
+   "start": "13:04",
+   "end": "15:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 170
+  },
+  {
+   "start": "15:54",
+   "end": "16:22",
+   "category": "面会・会談",
+   "label": "自民党の鈴木俊一幹事長と面会",
+   "minutes": 28
+  },
+  {
+   "start": "16:22",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 90
+  },
+  {
+   "start": "17:52",
+   "end": "17:53",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "17:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 367
+  }
+ ],
+ "alloc_min": {
+  "居所": 995,
+  "移動": 3,
+  "公務（内容未詳）": 349,
+  "会食": 65,
+  "面会・会談": 28
+ }
+}

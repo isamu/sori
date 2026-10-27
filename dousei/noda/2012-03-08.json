@@ -1,0 +1,236 @@
+{
+ "date": "2012-03-08",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.03.08",
+ "work_min": 750,
+ "residence_min": 690,
+ "meetings": 6,
+ "first_work": "07:16",
+ "events": [
+  {
+   "time": "07:16",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:55",
+   "label": "両氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:23",
+   "label": "手塚補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:48",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:50",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院総務委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "14:15",
+   "label": "衆院財務金融委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:24",
+   "label": "岡田副総理",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:03",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "18:15",
+   "label": "与野党各会派などにあいさつ回り。藤村官房長官、安住財務相同行",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:34",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:43",
+   "label": "福島県双葉町の井戸川克隆町長ら。斎藤副長官、本多首相補佐官ら同席",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:02",
+   "label": "外務省の杉山アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:19",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:46",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 436
+  },
+  {
+   "start": "07:16",
+   "end": "07:55",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "minutes": 39
+  },
+  {
+   "start": "07:55",
+   "end": "08:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "08:23",
+   "end": "08:48",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 25
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:50",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:59",
+   "end": "13:00",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 241
+  },
+  {
+   "start": "13:00",
+   "end": "14:15",
+   "category": "国会",
+   "label": "衆院総務委員会",
+   "minutes": 75
+  },
+  {
+   "start": "14:15",
+   "end": "15:24",
+   "category": "国会",
+   "label": "衆院財務金融委員会",
+   "minutes": 69
+  },
+  {
+   "start": "15:24",
+   "end": "16:03",
+   "category": "面会・会談",
+   "label": "岡田副総理",
+   "minutes": 39
+  },
+  {
+   "start": "16:03",
+   "end": "18:15",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 132
+  },
+  {
+   "start": "18:15",
+   "end": "18:34",
+   "category": "官邸執務",
+   "label": "与野党各会派などにあいさつ回り。藤村官房長官、安住財務相同行",
+   "minutes": 19
+  },
+  {
+   "start": "18:34",
+   "end": "18:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "18:43",
+   "end": "19:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "19:02",
+   "end": "19:19",
+   "category": "面会・会談",
+   "label": "外務省の杉山アジア大洋州局長",
+   "minutes": 17
+  },
+  {
+   "start": "19:19",
+   "end": "19:46",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 27
+  },
+  {
+   "start": "19:46",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 254
+  }
+ ],
+ "alloc_min": {
+  "居所": 690,
+  "面会・会談": 147,
+  "公務（内容未詳）": 65,
+  "移動": 2,
+  "国会": 517,
+  "官邸執務": 19
+ }
+}

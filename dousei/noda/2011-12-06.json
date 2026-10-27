@@ -1,0 +1,261 @@
+{
+ "date": "2011-12-06",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2011.12.06",
+ "work_min": 745,
+ "residence_min": 695,
+ "meetings": 6,
+ "first_work": "07:01",
+ "events": [
+  {
+   "time": "07:01",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:11",
+   "label": "両氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:15",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:21",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:29",
+   "label": "古川国家戦略相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院東日本大震災復興特別委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:03",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:54",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:03",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "13:22",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:52",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "川端総務相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:00",
+   "label": "参院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:44",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:46",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:04",
+   "label": "山岡拉致問題相、三谷拉致問題対策本部事務局長代理",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:00",
+   "label": "斎藤官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:26",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 421
+  },
+  {
+   "start": "07:01",
+   "end": "08:11",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 70
+  },
+  {
+   "start": "08:11",
+   "end": "08:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:15",
+   "end": "08:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:21",
+   "end": "08:29",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "08:29",
+   "end": "09:00",
+   "category": "面会・会談",
+   "label": "古川国家戦略相",
+   "minutes": 31
+  },
+  {
+   "start": "09:00",
+   "end": "12:03",
+   "category": "国会",
+   "label": "衆院東日本大震災復興特別委員会",
+   "minutes": 183
+  },
+  {
+   "start": "12:03",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "12:54",
+   "end": "13:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:03",
+   "end": "13:22",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 19
+  },
+  {
+   "start": "13:22",
+   "end": "13:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "13:52",
+   "end": "13:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:55",
+   "end": "14:00",
+   "category": "面会・会談",
+   "label": "川端総務相",
+   "minutes": 5
+  },
+  {
+   "start": "14:00",
+   "end": "17:44",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 224
+  },
+  {
+   "start": "17:44",
+   "end": "17:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:46",
+   "end": "18:04",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 18
+  },
+  {
+   "start": "18:04",
+   "end": "19:00",
+   "category": "官邸執務",
+   "label": "山岡拉致問題相、三谷拉致問題対策本部事務局長代理",
+   "minutes": 56
+  },
+  {
+   "start": "19:00",
+   "end": "19:26",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官",
+   "minutes": 26
+  },
+  {
+   "start": "19:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 274
+  }
+ ],
+ "alloc_min": {
+  "居所": 695,
+  "面会・会談": 150,
+  "公務（内容未詳）": 105,
+  "官邸執務": 64,
+  "国会": 426
+ }
+}

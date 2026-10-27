@@ -1,0 +1,499 @@
+{
+ "date": "2026-06-03",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.06.03",
+ "work_min": 640,
+ "residence_min": 800,
+ "meetings": 2,
+ "first_work": "08:16",
+ "events": [
+  {
+   "time": "08:16",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:17",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:26",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:11",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:19",
+   "label": "東京・紀尾井町のホテルニューオータニ着",
+   "place": "ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "09:34",
+   "label": "天皇陛下にあいさつ",
+   "place": "ホテルニューオータニ 宴会場「ＡＺＡＬＥＡ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:59",
+   "label": "「世界島嶼国海洋会議」開会式に出席。あいさつ。記念撮影。",
+   "place": "ホテルニューオータニ 宴会場「鶴の間」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:41",
+   "label": "ホテルニューオータニ発",
+   "place": "ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "10:49",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:00",
+   "label": "エジプトのアブデルアティ外相の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:51",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:54",
+   "label": "衆院議長応接室へ",
+   "place": "衆院議長応接室",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院議長応接室を出て、衆院本会議場へ",
+   "place": "衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議開会",
+   "place": "衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:02",
+   "label": "衆院本会議散会",
+   "place": "衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:04",
+   "label": "衆院本会議場を出て、国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "15:06",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:30",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:32",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "15:33",
+   "label": "参院議長応接室へ",
+   "place": "参院議長応接室",
+   "category": "移動"
+  },
+  {
+   "time": "15:37",
+   "label": "参院議長応接室を出て、参院本会議場へ",
+   "place": "参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "15:41",
+   "label": "参院本会議開会",
+   "place": "参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:46",
+   "label": "参院本会議を途中退席",
+   "place": "参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:55",
+   "label": "衆院第１委員室へ",
+   "place": "衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "衆院予算委員会開会",
+   "place": "衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "18:03",
+   "label": "衆院予算委散会",
+   "place": "衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "18:06",
+   "label": "衆院第１委員室を出て、参院第１委員会室へ",
+   "place": "参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "18:08",
+   "label": "参院予算委員会開会",
+   "place": "参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "18:11",
+   "label": "参院予算委散会",
+   "place": "参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "18:13",
+   "label": "参院第１委員会室を出て、国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "18:15",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:55",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 496
+  },
+  {
+   "start": "08:16",
+   "end": "08:17",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "08:17",
+   "end": "08:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:26",
+   "end": "08:31",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 5
+  },
+  {
+   "start": "08:31",
+   "end": "09:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "09:11",
+   "end": "09:19",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 8
+  },
+  {
+   "start": "09:19",
+   "end": "09:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "09:34",
+   "end": "09:35",
+   "category": "面会・会談",
+   "label": "天皇陛下にあいさつ",
+   "minutes": 1
+  },
+  {
+   "start": "09:35",
+   "end": "09:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "09:59",
+   "end": "10:40",
+   "category": "式典・行事",
+   "label": "「世界島嶼国海洋会議」開会式に出席。あいさつ。記念撮影。",
+   "minutes": 41
+  },
+  {
+   "start": "10:40",
+   "end": "10:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:41",
+   "end": "10:49",
+   "category": "移動",
+   "label": "ホテルニューオータニ発",
+   "minutes": 8
+  },
+  {
+   "start": "10:49",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "11:00",
+   "end": "11:12",
+   "category": "面会・会談",
+   "label": "エジプトのアブデルアティ外相の表敬",
+   "minutes": 12
+  },
+  {
+   "start": "11:12",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 99
+  },
+  {
+   "start": "12:51",
+   "end": "12:52",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:54",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:00",
+   "end": "13:02",
+   "category": "移動",
+   "label": "衆院議長応接室を出て、衆院本会議場へ",
+   "minutes": 2
+  },
+  {
+   "start": "13:02",
+   "end": "15:02",
+   "category": "国会",
+   "label": "衆院本会議開会",
+   "minutes": 120
+  },
+  {
+   "start": "15:02",
+   "end": "15:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:04",
+   "end": "15:06",
+   "category": "移動",
+   "label": "衆院本会議場を出て、国会発",
+   "minutes": 2
+  },
+  {
+   "start": "15:06",
+   "end": "15:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "15:30",
+   "end": "15:32",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 2
+  },
+  {
+   "start": "15:32",
+   "end": "15:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:33",
+   "end": "15:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:37",
+   "end": "15:41",
+   "category": "移動",
+   "label": "参院議長応接室を出て、参院本会議場へ",
+   "minutes": 4
+  },
+  {
+   "start": "15:41",
+   "end": "17:46",
+   "category": "国会",
+   "label": "参院本会議開会",
+   "minutes": 125
+  },
+  {
+   "start": "17:46",
+   "end": "17:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "17:55",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:00",
+   "end": "18:03",
+   "category": "国会",
+   "label": "衆院予算委員会開会",
+   "minutes": 3
+  },
+  {
+   "start": "18:03",
+   "end": "18:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:06",
+   "end": "18:08",
+   "category": "移動",
+   "label": "衆院第１委員室を出て、参院第１委員会室へ",
+   "minutes": 2
+  },
+  {
+   "start": "18:08",
+   "end": "18:11",
+   "category": "国会",
+   "label": "参院予算委員会開会",
+   "minutes": 3
+  },
+  {
+   "start": "18:11",
+   "end": "18:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:13",
+   "end": "18:15",
+   "category": "移動",
+   "label": "参院第１委員会室を出て、国会発",
+   "minutes": 2
+  },
+  {
+   "start": "18:15",
+   "end": "18:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "18:55",
+   "end": "18:56",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "18:56",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 304
+  }
+ ],
+ "alloc_min": {
+  "居所": 800,
+  "移動": 33,
+  "公務（内容未詳）": 297,
+  "官邸執務": 5,
+  "面会・会談": 13,
+  "式典・行事": 41,
+  "国会": 251
+ }
+}

@@ -1,0 +1,307 @@
+{
+ "date": "2021-02-15",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 767,
+ "residence_min": 673,
+ "meetings": 2,
+ "first_work": "07:00",
+ "events": [
+  {
+   "time": "07:00",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:09",
+   "label": "坂井学官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:44",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:06",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:57",
+   "label": "麻生太郎副総理兼財務相 萩生田光一文部科学相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:20",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:43",
+   "label": "参院長野補選立候補予定者に公認証渡し",
+   "place": "国会 自民党幹事長会議室",
+   "category": "党務"
+  },
+  {
+   "time": "17:48",
+   "label": "山口泰明自民党選対委員長",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:52",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:54",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:42",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 420
+  },
+  {
+   "start": "07:00",
+   "end": "07:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "07:04",
+   "end": "07:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "07:09",
+   "end": "07:54",
+   "category": "面会・会談",
+   "label": "坂井学官房副長官",
+   "minutes": 45
+  },
+  {
+   "start": "07:54",
+   "end": "08:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "08:44",
+   "end": "08:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:45",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:57",
+   "end": "12:04",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 187
+  },
+  {
+   "start": "12:04",
+   "end": "12:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:06",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 45
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:54",
+   "end": "12:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:57",
+   "end": "12:58",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 萩生田光一文部科学相",
+   "minutes": 1
+  },
+  {
+   "start": "12:58",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:00",
+   "end": "17:16",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 256
+  },
+  {
+   "start": "17:16",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:20",
+   "end": "17:40",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 20
+  },
+  {
+   "start": "17:40",
+   "end": "17:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:43",
+   "end": "17:45",
+   "category": "党務",
+   "label": "参院長野補選立候補予定者に公認証渡し",
+   "minutes": 2
+  },
+  {
+   "start": "17:45",
+   "end": "17:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:48",
+   "end": "17:49",
+   "category": "面会・会談",
+   "label": "山口泰明自民党選対委員長",
+   "minutes": 1
+  },
+  {
+   "start": "17:49",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:52",
+   "end": "17:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 108
+  },
+  {
+   "start": "19:42",
+   "end": "19:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 253
+  }
+ ],
+ "alloc_min": {
+  "居所": 673,
+  "移動": 15,
+  "公務（内容未詳）": 87,
+  "面会・会談": 46,
+  "国会": 444,
+  "官邸執務": 153,
+  "党務": 22
+ }
+}

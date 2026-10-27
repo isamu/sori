@@ -1,0 +1,237 @@
+{
+ "date": "2011-09-13",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2011.09.13",
+ "work_min": 642,
+ "residence_min": 798,
+ "meetings": 5,
+ "first_work": "08:46",
+ "events": [
+  {
+   "time": "08:46",
+   "label": "東京・赤坂の衆院議員宿舎発",
+   "place": "衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:51",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:22",
+   "label": "閣議終了",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:52",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:03",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "第178臨時国会開会式",
+   "place": "国会",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議で所信表明演説",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:00",
+   "label": "参院本会議で所信表明演説",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:41",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:29",
+   "label": "藤村官房長官、北沢前防衛相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:09",
+   "label": "安住財務相、財務省の勝事務次官、古谷主税局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:51",
+   "label": "全員出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:15",
+   "label": "ギラード豪首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:38",
+   "label": "長島首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:28",
+   "label": "衆院議員宿舎",
+   "place": "衆院議員宿舎",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 526
+  },
+  {
+   "start": "08:46",
+   "end": "08:51",
+   "category": "移動",
+   "label": "東京・赤坂の衆院議員宿舎発",
+   "minutes": 5
+  },
+  {
+   "start": "08:51",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "09:01",
+   "end": "09:22",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 21
+  },
+  {
+   "start": "09:22",
+   "end": "11:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 150
+  },
+  {
+   "start": "11:52",
+   "end": "12:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "12:03",
+   "end": "13:00",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 57
+  },
+  {
+   "start": "13:00",
+   "end": "14:02",
+   "category": "式典・行事",
+   "label": "第178臨時国会開会式",
+   "minutes": 62
+  },
+  {
+   "start": "14:02",
+   "end": "15:00",
+   "category": "国会",
+   "label": "衆院本会議で所信表明演説",
+   "minutes": 58
+  },
+  {
+   "start": "15:00",
+   "end": "15:41",
+   "category": "国会",
+   "label": "参院本会議で所信表明演説",
+   "minutes": 41
+  },
+  {
+   "start": "15:41",
+   "end": "16:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "16:29",
+   "end": "17:09",
+   "category": "面会・会談",
+   "label": "藤村官房長官、北沢前防衛相",
+   "minutes": 40
+  },
+  {
+   "start": "17:09",
+   "end": "17:51",
+   "category": "面会・会談",
+   "label": "安住財務相、財務省の勝事務次官、古谷主税局長",
+   "minutes": 42
+  },
+  {
+   "start": "17:51",
+   "end": "18:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "18:15",
+   "end": "18:38",
+   "category": "面会・会談",
+   "label": "ギラード豪首相と電話会談",
+   "minutes": 23
+  },
+  {
+   "start": "18:38",
+   "end": "19:28",
+   "category": "面会・会談",
+   "label": "長島首相補佐官",
+   "minutes": 50
+  },
+  {
+   "start": "19:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 272
+  }
+ ],
+ "alloc_min": {
+  "居所": 798,
+  "移動": 5,
+  "公務（内容未詳）": 243,
+  "官邸執務": 21,
+  "国会": 156,
+  "式典・行事": 62,
+  "面会・会談": 155
+ }
+}

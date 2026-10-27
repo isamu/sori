@@ -1,0 +1,304 @@
+{
+ "date": "2026-07-07",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.07.07",
+ "work_min": 542,
+ "residence_min": 898,
+ "meetings": 3,
+ "first_work": "09:11",
+ "events": [
+  {
+   "time": "09:11",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:12",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:22",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:01",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:09",
+   "label": "皇居着",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "10:16",
+   "label": "皇居発",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:23",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:30",
+   "label": "井上貴博首相補佐官と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:23",
+   "label": "市川恵一国家安全保障局長、原和也内閣情報官と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:40",
+   "label": "原和也内閣情報官と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:51",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:52",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:56",
+   "label": "常任委員長室へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "吉村洋文日本維新の会代表と与党党首会談",
+   "place": "国会",
+   "category": "党務"
+  },
+  {
+   "time": null,
+   "label": "常任委員長室を出て、自民党幹事長会議室へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "18:08",
+   "label": "報道各社のインタビュー",
+   "place": "国会",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:11",
+   "label": "同室を出て、国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "18:13",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 551
+  },
+  {
+   "start": "09:11",
+   "end": "09:12",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:12",
+   "end": "09:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "09:22",
+   "end": "09:28",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 6
+  },
+  {
+   "start": "09:28",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "10:01",
+   "end": "10:09",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 8
+  },
+  {
+   "start": "10:09",
+   "end": "10:16",
+   "category": "公務（内容未詳）",
+   "label": "帰国の記帳",
+   "minutes": 7
+  },
+  {
+   "start": "10:16",
+   "end": "10:23",
+   "category": "移動",
+   "label": "皇居発",
+   "minutes": 7
+  },
+  {
+   "start": "10:23",
+   "end": "10:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "10:30",
+   "end": "10:55",
+   "category": "面会・会談",
+   "label": "井上貴博首相補佐官と面会",
+   "minutes": 25
+  },
+  {
+   "start": "10:55",
+   "end": "14:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 208
+  },
+  {
+   "start": "14:23",
+   "end": "14:39",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長、原和也内閣情報官と面会",
+   "minutes": 16
+  },
+  {
+   "start": "14:39",
+   "end": "14:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:40",
+   "end": "14:47",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官と面会",
+   "minutes": 7
+  },
+  {
+   "start": "14:47",
+   "end": "17:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 184
+  },
+  {
+   "start": "17:51",
+   "end": "17:52",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "17:52",
+   "end": "17:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:56",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:00",
+   "end": "18:07",
+   "category": "党務",
+   "label": "吉村洋文日本維新の会代表と与党党首会談",
+   "minutes": 7
+  },
+  {
+   "start": "18:07",
+   "end": "18:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:08",
+   "end": "18:10",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "18:10",
+   "end": "18:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:11",
+   "end": "18:13",
+   "category": "移動",
+   "label": "同室を出て、国会発",
+   "minutes": 2
+  },
+  {
+   "start": "18:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 347
+  }
+ ],
+ "alloc_min": {
+  "居所": 898,
+  "移動": 19,
+  "公務（内容未詳）": 460,
+  "官邸執務": 6,
+  "面会・会談": 48,
+  "党務": 7,
+  "取材・会見": 2
+ }
+}

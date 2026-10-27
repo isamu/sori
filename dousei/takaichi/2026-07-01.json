@@ -1,0 +1,139 @@
+{
+ "date": "2026-07-01",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.07.01",
+ "work_min": 760,
+ "residence_min": 680,
+ "meetings": 0,
+ "first_work": "11:20",
+ "events": [
+  {
+   "time": "11:20",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:22",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:27",
+   "label": "安全功労者表彰式",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:30",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:34",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:58",
+   "label": "羽田空港着",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:17",
+   "label": "政府専用機でインドに向け出発",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "パラム空軍基地着",
+   "place": "ニューデリー",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 680
+  },
+  {
+   "start": "11:20",
+   "end": "11:22",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "11:22",
+   "end": "11:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "11:27",
+   "end": "11:42",
+   "category": "式典・行事",
+   "label": "安全功労者表彰式",
+   "minutes": 15
+  },
+  {
+   "start": "11:42",
+   "end": "13:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 108
+  },
+  {
+   "start": "13:30",
+   "end": "13:33",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "13:33",
+   "end": "13:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:34",
+   "end": "13:58",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 24
+  },
+  {
+   "start": "13:58",
+   "end": "14:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "14:17",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "インド・ニューデリー訪問",
+   "minutes": 583
+  }
+ ],
+ "alloc_min": {
+  "居所": 680,
+  "移動": 26,
+  "公務（内容未詳）": 133,
+  "式典・行事": 15,
+  "取材・会見": 3,
+  "外遊": 583
+ }
+}

@@ -1,0 +1,210 @@
+{
+ "date": "2011-05-13",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.05.13",
+ "work_min": 755,
+ "residence_min": 685,
+ "meetings": 5,
+ "first_work": "07:47",
+ "events": [
+  {
+   "time": "07:47",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:48",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "07:57",
+   "label": "犯罪対策閣僚会議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:18",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:57",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:05",
+   "label": "福山官房副長官、民主党の寺田学衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:25",
+   "label": "福山副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:58",
+   "label": "福山氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:47",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:12",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "松本外相、外務省の杉山アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:47",
+   "label": "福山官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:22",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 467
+  },
+  {
+   "start": "07:47",
+   "end": "07:48",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "07:48",
+   "end": "07:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "07:57",
+   "end": "08:18",
+   "category": "官邸執務",
+   "label": "犯罪対策閣僚会議",
+   "minutes": 21
+  },
+  {
+   "start": "08:18",
+   "end": "08:57",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 39
+  },
+  {
+   "start": "08:57",
+   "end": "09:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:05",
+   "end": "10:25",
+   "category": "面会・会談",
+   "label": "福山官房副長官、民主党の寺田学衆院議員",
+   "minutes": 80
+  },
+  {
+   "start": "10:25",
+   "end": "10:58",
+   "category": "面会・会談",
+   "label": "福山副長官",
+   "minutes": 33
+  },
+  {
+   "start": "10:58",
+   "end": "12:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 109
+  },
+  {
+   "start": "12:47",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "12:55",
+   "end": "17:12",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 257
+  },
+  {
+   "start": "17:12",
+   "end": "18:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 104
+  },
+  {
+   "start": "18:56",
+   "end": "19:47",
+   "category": "面会・会談",
+   "label": "松本外相、外務省の杉山アジア大洋州局長",
+   "minutes": 51
+  },
+  {
+   "start": "19:47",
+   "end": "20:22",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 35
+  },
+  {
+   "start": "20:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 218
+  }
+ ],
+ "alloc_min": {
+  "居所": 685,
+  "移動": 1,
+  "公務（内容未詳）": 238,
+  "官邸執務": 60,
+  "面会・会談": 199,
+  "国会": 257
+ }
+}

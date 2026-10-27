@@ -1,0 +1,387 @@
+{
+ "date": "2026-09-29",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.09.29",
+ "work_min": 580,
+ "residence_min": 860,
+ "meetings": 5,
+ "first_work": "09:49",
+ "events": [
+  {
+   "time": "09:49",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:50",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:59",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:12",
+   "label": "片山さつき財務相と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:26",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:28",
+   "label": "自民党本部着",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "10:32",
+   "label": "党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:46",
+   "label": "自民党本部発",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "10:48",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:30",
+   "label": "内堀雅雄福島県知事らと面会。細野豪志復興相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:00",
+   "label": "市川恵一国家安全保障局長、原和也国家情報局長と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:12",
+   "label": "原和也国家情報局長と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:02",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:31",
+   "label": "モンゴルのオチラル首相を出迎え",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:32",
+   "label": "儀仗隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:43",
+   "label": "オチラル首相と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:24",
+   "label": "高市早苗首相主催のワーキングディナー",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "19:24",
+   "label": "写真撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:26",
+   "label": "オチラル首相を見送り",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:28",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:29",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 589
+  },
+  {
+   "start": "09:49",
+   "end": "09:50",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:50",
+   "end": "09:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "09:59",
+   "end": "10:11",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 12
+  },
+  {
+   "start": "10:11",
+   "end": "10:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:12",
+   "end": "10:13",
+   "category": "面会・会談",
+   "label": "片山さつき財務相と面会",
+   "minutes": 1
+  },
+  {
+   "start": "10:13",
+   "end": "10:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "10:26",
+   "end": "10:28",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 2
+  },
+  {
+   "start": "10:28",
+   "end": "10:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:32",
+   "end": "10:43",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 11
+  },
+  {
+   "start": "10:43",
+   "end": "10:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:46",
+   "end": "10:48",
+   "category": "移動",
+   "label": "自民党本部発",
+   "minutes": 2
+  },
+  {
+   "start": "10:48",
+   "end": "11:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "11:30",
+   "end": "11:47",
+   "category": "面会・会談",
+   "label": "内堀雅雄福島県知事らと面会。細野豪志復興相同席",
+   "minutes": 17
+  },
+  {
+   "start": "11:47",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 133
+  },
+  {
+   "start": "14:00",
+   "end": "14:11",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長、原和也国家情報局長と面会",
+   "minutes": 11
+  },
+  {
+   "start": "14:11",
+   "end": "14:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:12",
+   "end": "14:18",
+   "category": "面会・会談",
+   "label": "原和也国家情報局長と面会",
+   "minutes": 6
+  },
+  {
+   "start": "14:18",
+   "end": "15:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "15:02",
+   "end": "15:16",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 14
+  },
+  {
+   "start": "15:16",
+   "end": "17:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 135
+  },
+  {
+   "start": "17:31",
+   "end": "17:32",
+   "category": "式典・行事",
+   "label": "モンゴルのオチラル首相を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "17:32",
+   "end": "17:37",
+   "category": "式典・行事",
+   "label": "儀仗隊による栄誉礼、儀仗",
+   "minutes": 5
+  },
+  {
+   "start": "17:37",
+   "end": "17:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:43",
+   "end": "18:22",
+   "category": "面会・会談",
+   "label": "オチラル首相と首脳会談",
+   "minutes": 39
+  },
+  {
+   "start": "18:22",
+   "end": "18:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:24",
+   "end": "19:23",
+   "category": "会食",
+   "label": "高市早苗首相主催のワーキングディナー",
+   "minutes": 59
+  },
+  {
+   "start": "19:23",
+   "end": "19:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:24",
+   "end": "19:25",
+   "category": "式典・行事",
+   "label": "写真撮影",
+   "minutes": 1
+  },
+  {
+   "start": "19:25",
+   "end": "19:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:26",
+   "end": "19:27",
+   "category": "式典・行事",
+   "label": "オチラル首相を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "19:27",
+   "end": "19:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:28",
+   "end": "19:29",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "19:29",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 271
+  }
+ ],
+ "alloc_min": {
+  "居所": 860,
+  "移動": 6,
+  "公務（内容未詳）": 396,
+  "官邸執務": 26,
+  "面会・会談": 74,
+  "党務": 11,
+  "式典・行事": 8,
+  "会食": 59
+ }
+}

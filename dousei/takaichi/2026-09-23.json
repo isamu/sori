@@ -1,0 +1,41 @@
+{
+ "date": "2026-09-23",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.09.23",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "パークレーンホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "宿泊先のザ・キタノ・ホテル・ニューヨーク滞在",
+   "place": "ザ・キタノ・ホテル・ニューヨーク",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "政府専用機でケネディ国際空港発",
+   "place": "ケネディ国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "ニューヨーク訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

@@ -1,0 +1,248 @@
+{
+ "date": "2026-04-06",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 524,
+ "residence_min": 916,
+ "meetings": 2,
+ "first_work": "08:46",
+ "events": [
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "12:06",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:33",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:38",
+   "label": "国家公務員合同初任研修訓示式に出席。あいさつ",
+   "place": "東京・虎ノ門 ニッショーホール",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:10",
+   "label": "移動",
+   "place": "東京・虎ノ門 ニッショーホール",
+   "category": "移動"
+  },
+  {
+   "time": "15:46",
+   "label": "市川恵一国家安全保障局長 船越健裕事務次官 岩本桂一中東アフリカ局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:59",
+   "label": "党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:15",
+   "label": "萩生田光一幹事長代行ら",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:28",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 526
+  },
+  {
+   "start": "08:46",
+   "end": "08:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:48",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:55",
+   "end": "12:03",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 188
+  },
+  {
+   "start": "12:03",
+   "end": "12:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:06",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 145
+  },
+  {
+   "start": "14:33",
+   "end": "14:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "14:38",
+   "end": "15:10",
+   "category": "式典・行事",
+   "label": "国家公務員合同初任研修訓示式に出席。あいさつ",
+   "minutes": 32
+  },
+  {
+   "start": "15:10",
+   "end": "15:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "15:15",
+   "end": "15:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "15:46",
+   "end": "16:16",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長 船越健裕事務次官 岩本桂一中東アフリカ局長",
+   "minutes": 30
+  },
+  {
+   "start": "16:16",
+   "end": "16:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "16:54",
+   "end": "16:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:55",
+   "end": "16:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:59",
+   "end": "17:14",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 15
+  },
+  {
+   "start": "17:14",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:15",
+   "end": "17:22",
+   "category": "面会・会談",
+   "label": "萩生田光一幹事長代行ら",
+   "minutes": 7
+  },
+  {
+   "start": "17:22",
+   "end": "17:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:28",
+   "end": "17:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 390
+  }
+ ],
+ "alloc_min": {
+  "居所": 916,
+  "移動": 17,
+  "公務（内容未詳）": 90,
+  "国会": 188,
+  "官邸執務": 145,
+  "式典・行事": 32,
+  "面会・会談": 37,
+  "党務": 15
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "date": "2026-03-04",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 365,
+ "residence_min": 1075,
+ "meetings": 0,
+ "first_work": "11:55",
+ "events": [
+  {
+   "time": "11:55",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:56",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:59",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 715
+  },
+  {
+   "start": "11:55",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 363
+  },
+  {
+   "start": "17:59",
+   "end": "18:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 360
+  }
+ ],
+ "alloc_min": {
+  "居所": 1075,
+  "移動": 2,
+  "官邸執務": 363
+ }
+}

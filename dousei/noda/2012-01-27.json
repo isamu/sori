@@ -1,0 +1,203 @@
+{
+ "date": "2012-01-27",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.01.27",
+ "work_min": 715,
+ "residence_min": 725,
+ "meetings": 5,
+ "first_work": "07:02",
+ "events": [
+  {
+   "time": "07:02",
+   "label": "斎藤、長浜両官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:38",
+   "label": "長浜氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:52",
+   "label": "全員出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:06",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:08",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:17",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:49",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "18:32",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:35",
+   "label": "平野復興相、経産省の菅原産業技術環境局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:48",
+   "label": "丹羽宇一郎駐中国大使",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:11",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 422
+  },
+  {
+   "start": "07:02",
+   "end": "08:52",
+   "category": "面会・会談",
+   "label": "斎藤、長浜両官房副長官、手塚首相補佐官",
+   "minutes": 110
+  },
+  {
+   "start": "08:52",
+   "end": "09:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 14
+  },
+  {
+   "start": "09:06",
+   "end": "09:08",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "09:08",
+   "end": "09:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "09:17",
+   "end": "10:01",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 44
+  },
+  {
+   "start": "10:01",
+   "end": "12:05",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 124
+  },
+  {
+   "start": "12:05",
+   "end": "13:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 104
+  },
+  {
+   "start": "13:49",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "14:02",
+   "end": "18:32",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 270
+  },
+  {
+   "start": "18:32",
+   "end": "18:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:35",
+   "end": "18:48",
+   "category": "面会・会談",
+   "label": "平野復興相、経産省の菅原産業技術環境局長",
+   "minutes": 13
+  },
+  {
+   "start": "18:48",
+   "end": "19:11",
+   "category": "面会・会談",
+   "label": "丹羽宇一郎駐中国大使",
+   "minutes": 23
+  },
+  {
+   "start": "19:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 289
+  }
+ ],
+ "alloc_min": {
+  "居所": 725,
+  "面会・会談": 146,
+  "移動": 2,
+  "公務（内容未詳）": 129,
+  "官邸執務": 44,
+  "国会": 394
+ }
+}

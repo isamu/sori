@@ -1,0 +1,51 @@
+{
+ "date": "2011-11-14",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2011.11.14",
+ "work_min": 1412,
+ "residence_min": 28,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "22:54",
+   "label": "羽田空港着",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "23:32",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "22:54",
+   "category": "外遊",
+   "label": "外遊（帰国日）",
+   "minutes": 1374
+  },
+  {
+   "start": "22:54",
+   "end": "23:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "23:32",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 28
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1374,
+  "公務（内容未詳）": 38,
+  "居所": 28
+ }
+}

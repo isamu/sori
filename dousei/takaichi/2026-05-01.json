@@ -1,0 +1,117 @@
+{
+ "date": "2026-05-01",
+ "pm": "高市早苗",
+ "source": "時事通信 / Yahoo!ニュース 2026.05.01",
+ "work_min": 590,
+ "residence_min": 850,
+ "meetings": 0,
+ "first_work": "14:09",
+ "events": [
+  {
+   "time": "00:00",
+   "label": "午前中は公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:09",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:13",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:35",
+   "label": "羽田空港着",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:35",
+   "label": "羽田空港着",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:56",
+   "label": "ベトナム、オーストラリア歴訪のため、政府専用機でベトナムに向け出発",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "１日午後、政府専用機でベトナム・ハノイのノイバイ国際空港着",
+   "place": "ノイバイ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "宿泊先のホテル・デュ・パルク・ハノイ",
+   "place": "ホテル・デュ・パルク・ハノイ",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:00",
+   "category": "居所",
+   "label": "午前中は公邸で過ごす",
+   "minutes": 720
+  },
+  {
+   "start": "12:00",
+   "end": "14:09",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 129
+  },
+  {
+   "start": "14:09",
+   "end": "14:12",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "14:12",
+   "end": "14:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "14:13",
+   "end": "14:35",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 22
+  },
+  {
+   "start": "14:35",
+   "end": "14:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "14:56",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "ベトナム・ハノイ訪問",
+   "minutes": 544
+  }
+ ],
+ "alloc_min": {
+  "居所": 850,
+  "取材・会見": 3,
+  "移動": 22,
+  "公務（内容未詳）": 21,
+  "外遊": 544
+ }
+}

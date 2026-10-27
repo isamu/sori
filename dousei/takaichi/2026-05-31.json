@@ -1,0 +1,89 @@
+{
+ "date": "2026-05-31",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.05.31",
+ "work_min": 120,
+ "residence_min": 1320,
+ "meetings": 0,
+ "first_work": "12:22",
+ "events": [
+  {
+   "time": "00:00",
+   "label": "午前中は公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:22",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:40",
+   "label": "東京・代々木神園町の明治神宮会館着",
+   "place": "明治神宮会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "明治神宮崇敬会創立８０周年記念大会に出席。あいさつ。",
+   "place": "明治神宮会館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:02",
+   "label": "明治神宮会館発",
+   "place": "明治神宮会館",
+   "category": "移動"
+  },
+  {
+   "time": "14:22",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:22",
+   "category": "居所",
+   "label": "午前中は公邸で過ごす",
+   "minutes": 742
+  },
+  {
+   "start": "12:22",
+   "end": "12:40",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 18
+  },
+  {
+   "start": "12:40",
+   "end": "14:02",
+   "category": "式典・行事",
+   "label": "明治神宮崇敬会創立８０周年記念大会に出席。あいさつ。",
+   "minutes": 82
+  },
+  {
+   "start": "14:02",
+   "end": "14:22",
+   "category": "移動",
+   "label": "明治神宮会館発",
+   "minutes": 20
+  },
+  {
+   "start": "14:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 578
+  }
+ ],
+ "alloc_min": {
+  "居所": 1320,
+  "移動": 38,
+  "式典・行事": 82
+ }
+}

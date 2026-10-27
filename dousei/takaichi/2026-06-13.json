@@ -1,0 +1,92 @@
+{
+ "date": "2026-06-13",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.06.13",
+ "work_min": 634,
+ "residence_min": 806,
+ "meetings": 0,
+ "first_work": "13:25",
+ "events": [
+  {
+   "time": "00:00",
+   "label": "午前中は公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "13:25",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:30",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:53",
+   "label": "羽田空港着",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:23",
+   "label": "欧州３カ国歴訪のため、チャーター機で英国に向け出発",
+   "place": "羽田空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:25",
+   "category": "居所",
+   "label": "午前中は公邸で過ごす",
+   "minutes": 805
+  },
+  {
+   "start": "13:25",
+   "end": "13:29",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 4
+  },
+  {
+   "start": "13:29",
+   "end": "13:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "13:30",
+   "end": "13:53",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 23
+  },
+  {
+   "start": "13:53",
+   "end": "14:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "14:23",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "欧州３カ国歴訪（英国ほか）",
+   "minutes": 577
+  }
+ ],
+ "alloc_min": {
+  "居所": 806,
+  "取材・会見": 4,
+  "移動": 23,
+  "公務（内容未詳）": 30,
+  "外遊": 577
+ }
+}

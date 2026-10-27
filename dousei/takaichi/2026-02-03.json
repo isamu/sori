@@ -1,0 +1,452 @@
+{
+ "date": "2026-02-03",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 658,
+ "residence_min": 774,
+ "meetings": 1,
+ "first_work": "08:00",
+ "events": [
+  {
+   "time": "08:00",
+   "label": "医務官。手の治療",
+   "place": "公邸",
+   "category": "個人"
+  },
+  {
+   "time": "08:09",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:21",
+   "label": "２０２６年１月２１日からの大雪に関する関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:32",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:43",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:47",
+   "label": "街頭演説",
+   "place": "埼玉県久喜市 ＪＲ久喜駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "10:06",
+   "label": "移動",
+   "place": "埼玉県久喜市 ＪＲ久喜駅西口",
+   "category": "移動"
+  },
+  {
+   "time": "10:33",
+   "label": "休憩",
+   "place": "同県川島町 東日本高速道路川島インターチェンジ管理事務所",
+   "category": "移動"
+  },
+  {
+   "time": "10:36",
+   "label": "移動",
+   "place": "同県川島町 東日本高速道路川島インターチェンジ管理事務所",
+   "category": "移動"
+  },
+  {
+   "time": "10:56",
+   "label": "街頭演説",
+   "place": "同県東松山市 東武鉄道東松山駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "11:16",
+   "label": "移動",
+   "place": "同県東松山市 東武鉄道東松山駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "11:50",
+   "label": "同ホテル内の宴会場「プリンスホール」で自民党衆院選候補者の演説会に出席。演説",
+   "place": "同県川越市 川越プリンスホテル",
+   "category": "党務"
+  },
+  {
+   "time": "12:11",
+   "label": "移動",
+   "place": "同県川越市 川越プリンスホテル",
+   "category": "移動"
+  },
+  {
+   "time": "12:57",
+   "label": "街頭演説",
+   "place": "同県所沢市 西武鉄道所沢駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "13:20",
+   "label": "移動",
+   "place": "同県所沢市 西武鉄道所沢駅西口",
+   "category": "移動"
+  },
+  {
+   "time": "14:21",
+   "label": "街頭演説",
+   "place": "さいたま市浦和区 北浦和公園",
+   "category": "党務"
+  },
+  {
+   "time": "14:44",
+   "label": "移動",
+   "place": "さいたま市浦和区 北浦和公園",
+   "category": "移動"
+  },
+  {
+   "time": "14:50",
+   "label": "休憩",
+   "place": "埼玉県警本部",
+   "category": "移動"
+  },
+  {
+   "time": "14:52",
+   "label": "移動",
+   "place": "埼玉県警本部",
+   "category": "移動"
+  },
+  {
+   "time": "15:42",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:40",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:29",
+   "label": "ネパールのポーデル大統領を出迎え",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:30",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:39",
+   "label": "ポーデル大統領と会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:59",
+   "label": "ポーデル氏を見送り",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "20:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:28",
+   "label": "情報サイト「選挙ドットコム」のユーチューブ番組のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 480
+  },
+  {
+   "start": "08:00",
+   "end": "08:08",
+   "category": "個人",
+   "label": "医務官。手の治療",
+   "minutes": 8
+  },
+  {
+   "start": "08:08",
+   "end": "08:09",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "08:09",
+   "end": "08:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:10",
+   "end": "08:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "08:21",
+   "end": "08:28",
+   "category": "官邸執務",
+   "label": "２０２６年１月２１日からの大雪に関する関係閣僚会議",
+   "minutes": 7
+  },
+  {
+   "start": "08:28",
+   "end": "08:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:32",
+   "end": "08:38",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 6
+  },
+  {
+   "start": "08:38",
+   "end": "08:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:43",
+   "end": "09:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 64
+  },
+  {
+   "start": "09:47",
+   "end": "10:06",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 19
+  },
+  {
+   "start": "10:06",
+   "end": "10:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "10:33",
+   "end": "10:36",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "10:36",
+   "end": "10:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "10:56",
+   "end": "11:16",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 20
+  },
+  {
+   "start": "11:16",
+   "end": "11:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "11:50",
+   "end": "12:11",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「プリンスホール」で自民党衆院選候補者の演説会に出席。演説",
+   "minutes": 21
+  },
+  {
+   "start": "12:11",
+   "end": "12:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 46
+  },
+  {
+   "start": "12:57",
+   "end": "13:20",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 23
+  },
+  {
+   "start": "13:20",
+   "end": "14:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 61
+  },
+  {
+   "start": "14:21",
+   "end": "14:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 23
+  },
+  {
+   "start": "14:44",
+   "end": "14:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "14:50",
+   "end": "14:52",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "14:52",
+   "end": "15:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 50
+  },
+  {
+   "start": "15:42",
+   "end": "17:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 118
+  },
+  {
+   "start": "17:40",
+   "end": "17:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:41",
+   "end": "18:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "18:29",
+   "end": "18:30",
+   "category": "式典・行事",
+   "label": "ネパールのポーデル大統領を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "18:30",
+   "end": "18:37",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 7
+  },
+  {
+   "start": "18:37",
+   "end": "18:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:39",
+   "end": "18:58",
+   "category": "面会・会談",
+   "label": "ポーデル大統領と会談",
+   "minutes": 19
+  },
+  {
+   "start": "18:58",
+   "end": "18:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:59",
+   "end": "19:01",
+   "category": "官邸執務",
+   "label": "ポーデル氏を見送り",
+   "minutes": 2
+  },
+  {
+   "start": "19:01",
+   "end": "20:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 85
+  },
+  {
+   "start": "20:26",
+   "end": "20:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "20:27",
+   "end": "20:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:28",
+   "end": "21:05",
+   "category": "取材・会見",
+   "label": "情報サイト「選挙ドットコム」のユーチューブ番組のインタビュー",
+   "minutes": 37
+  },
+  {
+   "start": "21:05",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 175
+  }
+ ],
+ "alloc_min": {
+  "居所": 774,
+  "個人": 8,
+  "移動": 316,
+  "公務（内容未詳）": 157,
+  "官邸執務": 15,
+  "党務": 106,
+  "式典・行事": 8,
+  "面会・会談": 19,
+  "取材・会見": 37
+ }
+}

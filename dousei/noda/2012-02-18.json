@@ -1,0 +1,50 @@
+{
+ "date": "2012-02-18",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.02.18",
+ "work_min": 57,
+ "residence_min": 1383,
+ "meetings": 2,
+ "first_work": "11:03",
+ "events": [
+  {
+   "time": "11:03",
+   "label": "松原拉致問題相",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:00",
+   "label": "松原氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 663
+  },
+  {
+   "start": "11:03",
+   "end": "12:00",
+   "category": "面会・会談",
+   "label": "松原拉致問題相",
+   "minutes": 57
+  },
+  {
+   "start": "12:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 720
+  }
+ ],
+ "alloc_min": {
+  "居所": 1383,
+  "面会・会談": 57
+ }
+}

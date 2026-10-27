@@ -1,0 +1,356 @@
+{
+ "date": "2026-05-12",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.05.12",
+ "work_min": 642,
+ "residence_min": 798,
+ "meetings": 6,
+ "first_work": "08:10",
+ "events": [
+  {
+   "time": "08:10",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:11",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:20",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:30",
+   "label": "片山さつき財務相、財務省の三村淳財務官、緒方健太郎国際局長と会合",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:10",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:19",
+   "label": "皇居着",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "春の叙勲大綬章親授式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:49",
+   "label": "皇居発",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:59",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:57",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:06",
+   "label": "皇居着",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "春の叙勲重光章伝達式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:25",
+   "label": "皇居発",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "14:33",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:02",
+   "label": "ベッセント米財務長官の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:30",
+   "label": "コーマンOECD事務総長の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "市川恵一国家安全保障局長、岩本桂一外務省中東アフリカ局長、防衛省の萬浪学防衛政策局長、内倉浩昭統合幕僚長と会合",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:11",
+   "label": "市川、萬浪、内倉各氏と会合",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:28",
+   "label": "市川、萬浪両氏と会合",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:59",
+   "label": "中東情勢に関する関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:50",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:52",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 490
+  },
+  {
+   "start": "08:10",
+   "end": "08:11",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "08:11",
+   "end": "08:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:20",
+   "end": "08:27",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 7
+  },
+  {
+   "start": "08:27",
+   "end": "08:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:30",
+   "end": "09:01",
+   "category": "面会・会談",
+   "label": "片山さつき財務相、財務省の三村淳財務官、緒方健太郎国際局長と会合",
+   "minutes": 31
+  },
+  {
+   "start": "09:01",
+   "end": "10:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 69
+  },
+  {
+   "start": "10:10",
+   "end": "10:19",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 9
+  },
+  {
+   "start": "10:19",
+   "end": "10:49",
+   "category": "式典・行事",
+   "label": "春の叙勲大綬章親授式",
+   "minutes": 30
+  },
+  {
+   "start": "10:49",
+   "end": "10:59",
+   "category": "移動",
+   "label": "皇居発",
+   "minutes": 10
+  },
+  {
+   "start": "10:59",
+   "end": "13:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 178
+  },
+  {
+   "start": "13:57",
+   "end": "14:06",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 9
+  },
+  {
+   "start": "14:06",
+   "end": "14:25",
+   "category": "式典・行事",
+   "label": "春の叙勲重光章伝達式",
+   "minutes": 19
+  },
+  {
+   "start": "14:25",
+   "end": "14:33",
+   "category": "移動",
+   "label": "皇居発",
+   "minutes": 8
+  },
+  {
+   "start": "14:33",
+   "end": "16:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 89
+  },
+  {
+   "start": "16:02",
+   "end": "16:20",
+   "category": "面会・会談",
+   "label": "ベッセント米財務長官の表敬",
+   "minutes": 18
+  },
+  {
+   "start": "16:20",
+   "end": "16:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "16:30",
+   "end": "16:45",
+   "category": "面会・会談",
+   "label": "コーマンOECD事務総長の表敬",
+   "minutes": 15
+  },
+  {
+   "start": "16:45",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "17:00",
+   "end": "17:10",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長、岩本桂一外務省中東アフリカ局長、防衛省の萬浪学防衛政策局長、内倉浩昭統合幕僚長と会合",
+   "minutes": 10
+  },
+  {
+   "start": "17:10",
+   "end": "17:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:11",
+   "end": "17:27",
+   "category": "面会・会談",
+   "label": "市川、萬浪、内倉各氏と会合",
+   "minutes": 16
+  },
+  {
+   "start": "17:27",
+   "end": "17:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:28",
+   "end": "17:39",
+   "category": "面会・会談",
+   "label": "市川、萬浪両氏と会合",
+   "minutes": 11
+  },
+  {
+   "start": "17:39",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "17:59",
+   "end": "18:16",
+   "category": "官邸執務",
+   "label": "中東情勢に関する関係閣僚会議",
+   "minutes": 17
+  },
+  {
+   "start": "18:16",
+   "end": "18:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "18:50",
+   "end": "18:52",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 2
+  },
+  {
+   "start": "18:52",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 308
+  }
+ ],
+ "alloc_min": {
+  "居所": 798,
+  "移動": 39,
+  "公務（内容未詳）": 429,
+  "官邸執務": 24,
+  "面会・会談": 101,
+  "式典・行事": 49
+ }
+}

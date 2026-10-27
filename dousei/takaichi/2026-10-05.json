@@ -1,0 +1,553 @@
+{
+ "date": "2026-10-05",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.10.05",
+ "work_min": 590,
+ "residence_min": 850,
+ "meetings": 3,
+ "first_work": "08:51",
+ "events": [
+  {
+   "time": "08:51",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:53",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:02",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:08",
+   "label": "片山さつき財務相と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:10",
+   "label": "茂木敏充外相と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:12",
+   "label": "簗和生農林水産相と面会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:36",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:38",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:39",
+   "label": "院内大臣室へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "院内大臣室を出て参院本会議場へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:01",
+   "label": "第222臨時国会開会式",
+   "place": "国会",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:07",
+   "label": "参院本会議場を出て国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:12",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:52",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:54",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "衆院議長応接室へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "衆院議長応接室を出て衆院本会議場へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議再開・所信表明演説",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "14:34",
+   "label": "衆院本会議散会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "14:35",
+   "label": "衆院本会議場を出て国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "14:38",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:51",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:53",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "14:55",
+   "label": "参院議長応接室へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "14:57",
+   "label": "参院議長応接室を出て参院本会議場へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "15:01",
+   "label": "参院本会議再開・所信表明演説",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:32",
+   "label": "参院本会議散会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:33",
+   "label": "参院本会議場を出て国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "15:37",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:57",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:59",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "自民党総裁室へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "党役員会",
+   "place": "国会",
+   "category": "党務"
+  },
+  {
+   "time": "17:14",
+   "label": "自民党総裁室を出て国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:17",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:39",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:41",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 531
+  },
+  {
+   "start": "08:51",
+   "end": "08:53",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:53",
+   "end": "09:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "09:02",
+   "end": "09:07",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 5
+  },
+  {
+   "start": "09:07",
+   "end": "09:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:08",
+   "end": "09:09",
+   "category": "面会・会談",
+   "label": "片山さつき財務相と面会",
+   "minutes": 1
+  },
+  {
+   "start": "09:09",
+   "end": "09:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:10",
+   "end": "09:11",
+   "category": "面会・会談",
+   "label": "茂木敏充外相と面会",
+   "minutes": 1
+  },
+  {
+   "start": "09:11",
+   "end": "09:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:12",
+   "end": "09:13",
+   "category": "面会・会談",
+   "label": "簗和生農林水産相と面会",
+   "minutes": 1
+  },
+  {
+   "start": "09:13",
+   "end": "12:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 203
+  },
+  {
+   "start": "12:36",
+   "end": "12:38",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 2
+  },
+  {
+   "start": "12:38",
+   "end": "12:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:39",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "12:51",
+   "end": "13:01",
+   "category": "移動",
+   "label": "院内大臣室を出て参院本会議場へ",
+   "minutes": 10
+  },
+  {
+   "start": "13:01",
+   "end": "13:06",
+   "category": "式典・行事",
+   "label": "第222臨時国会開会式",
+   "minutes": 5
+  },
+  {
+   "start": "13:06",
+   "end": "13:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:07",
+   "end": "13:12",
+   "category": "移動",
+   "label": "参院本会議場を出て国会発",
+   "minutes": 5
+  },
+  {
+   "start": "13:12",
+   "end": "13:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "13:52",
+   "end": "13:54",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 2
+  },
+  {
+   "start": "13:54",
+   "end": "13:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:55",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "14:00",
+   "end": "14:02",
+   "category": "移動",
+   "label": "衆院議長応接室を出て衆院本会議場へ",
+   "minutes": 2
+  },
+  {
+   "start": "14:02",
+   "end": "14:34",
+   "category": "国会",
+   "label": "衆院本会議再開・所信表明演説",
+   "minutes": 32
+  },
+  {
+   "start": "14:34",
+   "end": "14:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:35",
+   "end": "14:38",
+   "category": "移動",
+   "label": "衆院本会議場を出て国会発",
+   "minutes": 3
+  },
+  {
+   "start": "14:38",
+   "end": "14:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "14:51",
+   "end": "14:53",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 2
+  },
+  {
+   "start": "14:53",
+   "end": "14:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:55",
+   "end": "14:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:57",
+   "end": "15:01",
+   "category": "移動",
+   "label": "参院議長応接室を出て参院本会議場へ",
+   "minutes": 4
+  },
+  {
+   "start": "15:01",
+   "end": "15:32",
+   "category": "国会",
+   "label": "参院本会議再開・所信表明演説",
+   "minutes": 31
+  },
+  {
+   "start": "15:32",
+   "end": "15:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:33",
+   "end": "15:37",
+   "category": "移動",
+   "label": "参院本会議場を出て国会発",
+   "minutes": 4
+  },
+  {
+   "start": "15:37",
+   "end": "16:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 80
+  },
+  {
+   "start": "16:57",
+   "end": "16:59",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 2
+  },
+  {
+   "start": "16:59",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:00",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:01",
+   "end": "17:13",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 12
+  },
+  {
+   "start": "17:13",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:14",
+   "end": "17:17",
+   "category": "移動",
+   "label": "自民党総裁室を出て国会発",
+   "minutes": 3
+  },
+  {
+   "start": "17:17",
+   "end": "18:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 82
+  },
+  {
+   "start": "18:39",
+   "end": "18:41",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 2
+  },
+  {
+   "start": "18:41",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 319
+  }
+ ],
+ "alloc_min": {
+  "居所": 850,
+  "移動": 43,
+  "公務（内容未詳）": 459,
+  "官邸執務": 5,
+  "面会・会談": 3,
+  "式典・行事": 5,
+  "国会": 63,
+  "党務": 12
+ }
+}

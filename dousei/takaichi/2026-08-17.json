@@ -1,0 +1,83 @@
+{
+ "date": "2026-08-17",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.08.17",
+ "work_min": 22,
+ "residence_min": 1032,
+ "meetings": 0,
+ "first_work": "09:47",
+ "events": [
+  {
+   "time": "09:47",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "東京・信濃町の病院着",
+   "place": "東京・信濃町の病院",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "手などの検査",
+   "place": "東京・信濃町の病院",
+   "category": "個人"
+  },
+  {
+   "time": "16:24",
+   "label": "東京・信濃町の病院発",
+   "place": "東京・信濃町の病院",
+   "category": "移動"
+  },
+  {
+   "time": "16:35",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 587
+  },
+  {
+   "start": "09:47",
+   "end": "09:58",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 11
+  },
+  {
+   "start": "09:58",
+   "end": "16:24",
+   "category": "個人",
+   "label": "手などの検査",
+   "minutes": 386
+  },
+  {
+   "start": "16:24",
+   "end": "16:35",
+   "category": "移動",
+   "label": "東京・信濃町の病院発",
+   "minutes": 11
+  },
+  {
+   "start": "16:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 445
+  }
+ ],
+ "alloc_min": {
+  "居所": 1032,
+  "移動": 22,
+  "個人": 386
+ }
+}

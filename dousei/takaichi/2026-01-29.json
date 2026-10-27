@@ -1,0 +1,274 @@
+{
+ "date": "2026-01-29",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 690,
+ "residence_min": 750,
+ "meetings": 0,
+ "first_work": "09:28",
+ "events": [
+  {
+   "time": "09:28",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:41",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "12:45",
+   "label": "ＪＲ姫路駅",
+   "place": "ＪＲ姫路駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:48",
+   "label": "移動",
+   "place": "ＪＲ姫路駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "街頭演説。聴衆とハイタッチ",
+   "place": "同駅南口ロータリー",
+   "category": "党務"
+  },
+  {
+   "time": "13:16",
+   "label": "移動",
+   "place": "同駅南口ロータリー",
+   "category": "移動"
+  },
+  {
+   "time": "14:06",
+   "label": "街頭演説。聴衆とハイタッチ",
+   "place": "神戸市垂水区 兵庫県立舞子公園",
+   "category": "党務"
+  },
+  {
+   "time": "14:37",
+   "label": "移動",
+   "place": "神戸市垂水区 兵庫県立舞子公園",
+   "category": "移動"
+  },
+  {
+   "time": "15:31",
+   "label": "同ホテル内の宴会場「甲陽」で自民党衆院選候補者の演説会に出席。演説。素盞嗚（すさのお）神社の畑中秀敏宮司から「招き虎」受け取り。聴衆とハイタッチ",
+   "place": "兵庫県西宮市 ホテルヒューイット甲子園",
+   "category": "党務"
+  },
+  {
+   "time": "16:16",
+   "label": "移動",
+   "place": "兵庫県西宮市 ホテルヒューイット甲子園",
+   "category": "移動"
+  },
+  {
+   "time": "17:35",
+   "label": "休憩",
+   "place": "同県南あわじ市 淡路島南パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:38",
+   "label": "移動",
+   "place": "同県南あわじ市 淡路島南パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:59",
+   "label": "街頭演説。聴衆とハイタッチ",
+   "place": "徳島県板野町 道の駅「いたの」",
+   "category": "党務"
+  },
+  {
+   "time": "18:32",
+   "label": "移動",
+   "place": "徳島県板野町 道の駅「いたの」",
+   "category": "移動"
+  },
+  {
+   "time": "18:52",
+   "label": "徳島空港",
+   "place": "徳島空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:25",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:36",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 568
+  },
+  {
+   "start": "09:28",
+   "end": "09:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:41",
+   "end": "09:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:48",
+   "end": "12:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 177
+  },
+  {
+   "start": "12:45",
+   "end": "12:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:48",
+   "end": "12:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:51",
+   "end": "13:16",
+   "category": "党務",
+   "label": "街頭演説。聴衆とハイタッチ",
+   "minutes": 25
+  },
+  {
+   "start": "13:16",
+   "end": "14:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 50
+  },
+  {
+   "start": "14:06",
+   "end": "14:37",
+   "category": "党務",
+   "label": "街頭演説。聴衆とハイタッチ",
+   "minutes": 31
+  },
+  {
+   "start": "14:37",
+   "end": "15:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 54
+  },
+  {
+   "start": "15:31",
+   "end": "16:16",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「甲陽」で自民党衆院選候補者の演説会に出席。演説。素盞嗚（すさのお）神社の畑中秀敏宮司から「招き虎」受け取り。聴衆とハイタッチ",
+   "minutes": 45
+  },
+  {
+   "start": "16:16",
+   "end": "17:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 79
+  },
+  {
+   "start": "17:35",
+   "end": "17:38",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "17:38",
+   "end": "17:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "17:59",
+   "end": "18:32",
+   "category": "党務",
+   "label": "街頭演説。聴衆とハイタッチ",
+   "minutes": 33
+  },
+  {
+   "start": "18:32",
+   "end": "18:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "18:52",
+   "end": "19:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "19:27",
+   "end": "20:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 58
+  },
+  {
+   "start": "20:25",
+   "end": "20:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "20:36",
+   "end": "20:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "20:58",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 182
+  }
+ ],
+ "alloc_min": {
+  "居所": 750,
+  "移動": 314,
+  "公務（内容未詳）": 242,
+  "党務": 134
+ }
+}

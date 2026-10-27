@@ -1,0 +1,84 @@
+{
+ "date": "2026-07-03",
+ "pm": "高市早苗",
+ "source": "時事通信社 2026.07.03",
+ "work_min": 1401,
+ "residence_min": 39,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "政府専用機でインド・ニューデリーのパラム空軍基地を出発",
+   "place": "インド・ニューデリーのパラム空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": "22:38",
+   "label": "インド訪問を終え、政府専用機で羽田空港着",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "22:57",
+   "label": "羽田空港発",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "23:21",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "23:51",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "22:38",
+   "category": "外遊",
+   "label": "インド訪問（帰国日）",
+   "minutes": 1358
+  },
+  {
+   "start": "22:38",
+   "end": "22:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "22:57",
+   "end": "23:21",
+   "category": "移動",
+   "label": "羽田空港発",
+   "minutes": 24
+  },
+  {
+   "start": "23:21",
+   "end": "23:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 30
+  },
+  {
+   "start": "23:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 9
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1358,
+  "公務（内容未詳）": 19,
+  "移動": 24,
+  "居所": 39
+ }
+}

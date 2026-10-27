@@ -1,0 +1,69 @@
+{
+ "date": "2011-10-29",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2011.10.29",
+ "work_min": 30,
+ "residence_min": 1410,
+ "meetings": 3,
+ "first_work": "14:36",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:36",
+   "label": "インドのクリシュナ外相が表敬。長島首相補佐官、斎木昭隆駐インド大使同席",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:59",
+   "label": "長島補佐官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:06",
+   "label": "長島氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 876
+  },
+  {
+   "start": "14:36",
+   "end": "14:59",
+   "category": "面会・会談",
+   "label": "インドのクリシュナ外相が表敬。長島首相補佐官、斎木昭隆駐インド大使同席",
+   "minutes": 23
+  },
+  {
+   "start": "14:59",
+   "end": "15:06",
+   "category": "面会・会談",
+   "label": "長島補佐官",
+   "minutes": 7
+  },
+  {
+   "start": "15:06",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 534
+  }
+ ],
+ "alloc_min": {
+  "居所": 1410,
+  "面会・会談": 30
+ }
+}

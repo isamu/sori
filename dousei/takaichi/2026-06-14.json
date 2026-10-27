@@ -1,0 +1,83 @@
+{
+ "date": "2026-06-14",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.06.14",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "無名戦士の墓に献花",
+   "place": "ウェストミンスター寺院",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "スターマー首相による出迎え",
+   "place": "首相官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "スターマー首相と首脳会談少人数会合",
+   "place": "首相官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "首脳会談拡大会合",
+   "place": "首相官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ワーキングランチ",
+   "place": "ロンドン",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ビジネス・ラウンドテーブル",
+   "place": "ロンドン",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "英国でビジネス・レセプション",
+   "place": "ロンドン",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "チャーター機でロンドン郊外のスタンステッド空港発",
+   "place": "スタンステッド空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "チャーター機でイタリア・ローマ郊外のレオナルド・ダビンチ国際空港着",
+   "place": "レオナルド・ダビンチ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ローマの宿泊先「アナンタラ・パラッツォ・ナイアディ・ローマ・ホテル」に滞在",
+   "place": "アナンタラ・パラッツォ・ナイアディ・ローマ・ホテル",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "英国・ロンドン訪問／イタリア・ローマへ移動",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

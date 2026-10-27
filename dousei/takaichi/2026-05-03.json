@@ -1,0 +1,41 @@
+{
+ "date": "2026-05-03",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.05.03",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "現地時間３日午前、政府専用機でベトナム・ハノイのノイバイ国際空港発",
+   "place": "ノイバイ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "午後、オーストラリアのキャンベラ国際空港着",
+   "place": "キャンベラ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "宿泊先のハイアット・ホテル・キャンベラ",
+   "place": "ハイアット・ホテル・キャンベラ",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "オーストラリア・キャンベラ訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

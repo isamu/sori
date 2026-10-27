@@ -1,0 +1,285 @@
+{
+ "date": "2021-03-24",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 468,
+ "residence_min": 770,
+ "meetings": 9,
+ "first_work": "07:41",
+ "events": [
+  {
+   "time": "07:41",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:46",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "11:08",
+   "label": "山本一太群馬県知事",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:00",
+   "label": "梶山弘志経済産業相 安藤久佳事務次官 荒井勝喜総括審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:25",
+   "label": "樽見英樹事務次官 田中誠二職業安定局長 浜谷浩樹保険局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:58",
+   "label": "三宅伸吾自民党参院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:25",
+   "label": "枝元真徹事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:42",
+   "label": "阿達雅志首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:58",
+   "label": "北村滋国家安全保障局長 和泉洋人首相補佐官 秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:16",
+   "label": "世耕弘成自民党参院幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:30",
+   "label": "赤羽一嘉国土交通相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:21",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:22",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "18:45",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 461
+  },
+  {
+   "start": "07:41",
+   "end": "07:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "07:46",
+   "end": "11:08",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 202
+  },
+  {
+   "start": "11:08",
+   "end": "11:28",
+   "category": "面会・会談",
+   "label": "山本一太群馬県知事",
+   "minutes": 20
+  },
+  {
+   "start": "11:28",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 152
+  },
+  {
+   "start": "14:00",
+   "end": "14:25",
+   "category": "面会・会談",
+   "label": "梶山弘志経済産業相 安藤久佳事務次官 荒井勝喜総括審議官",
+   "minutes": 25
+  },
+  {
+   "start": "14:25",
+   "end": "15:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "15:25",
+   "end": "15:41",
+   "category": "面会・会談",
+   "label": "樽見英樹事務次官 田中誠二職業安定局長 浜谷浩樹保険局長",
+   "minutes": 16
+  },
+  {
+   "start": "15:41",
+   "end": "15:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "15:58",
+   "end": "16:18",
+   "category": "面会・会談",
+   "label": "三宅伸吾自民党参院議員",
+   "minutes": 20
+  },
+  {
+   "start": "16:18",
+   "end": "16:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:25",
+   "end": "16:40",
+   "category": "面会・会談",
+   "label": "枝元真徹事務次官",
+   "minutes": 15
+  },
+  {
+   "start": "16:40",
+   "end": "16:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:42",
+   "end": "16:57",
+   "category": "面会・会談",
+   "label": "阿達雅志首相補佐官",
+   "minutes": 15
+  },
+  {
+   "start": "16:57",
+   "end": "16:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:58",
+   "end": "17:15",
+   "category": "面会・会談",
+   "label": "北村滋国家安全保障局長 和泉洋人首相補佐官 秋葉剛男事務次官",
+   "minutes": 17
+  },
+  {
+   "start": "17:15",
+   "end": "17:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:16",
+   "end": "17:29",
+   "category": "面会・会談",
+   "label": "世耕弘成自民党参院幹事長",
+   "minutes": 13
+  },
+  {
+   "start": "17:29",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:30",
+   "end": "17:42",
+   "category": "面会・会談",
+   "label": "赤羽一嘉国土交通相",
+   "minutes": 12
+  },
+  {
+   "start": "17:42",
+   "end": "18:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "18:21",
+   "end": "18:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 23
+  },
+  {
+   "start": "18:45",
+   "end": "18:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 309
+  }
+ ],
+ "alloc_min": {
+  "居所": 770,
+  "移動": 12,
+  "個人": 202,
+  "面会・会談": 153,
+  "公務（内容未詳）": 303
+ }
+}

@@ -1,0 +1,421 @@
+{
+ "date": "2021-01-21",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 760,
+ "residence_min": 680,
+ "meetings": 6,
+ "first_work": "07:01",
+ "events": [
+  {
+   "time": "07:01",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:12",
+   "label": "岡田直樹官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:26",
+   "label": "坂井学官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:01",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:47",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:50",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:31",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:34",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:52",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:31",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "16:54",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:05",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 田和宏審議官 田中誠二職業安定局長 荒井勝喜総括審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:21",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 荒井勝喜総括審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:27",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 鎌田光明医薬・生活衛生局長 荒井勝喜総括審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:50",
+   "label": "田村憲久厚生労働相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:35",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 421
+  },
+  {
+   "start": "07:01",
+   "end": "07:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "07:05",
+   "end": "07:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:12",
+   "end": "07:25",
+   "category": "面会・会談",
+   "label": "岡田直樹官房副長官",
+   "minutes": 13
+  },
+  {
+   "start": "07:25",
+   "end": "07:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:26",
+   "end": "07:49",
+   "category": "面会・会談",
+   "label": "坂井学官房副長官",
+   "minutes": 23
+  },
+  {
+   "start": "07:49",
+   "end": "08:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:01",
+   "end": "08:03",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "08:03",
+   "end": "09:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 104
+  },
+  {
+   "start": "09:47",
+   "end": "09:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:49",
+   "end": "09:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:29",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 88
+  },
+  {
+   "start": "11:29",
+   "end": "11:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:31",
+   "end": "11:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 134
+  },
+  {
+   "start": "13:48",
+   "end": "13:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:50",
+   "end": "13:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 8
+  },
+  {
+   "start": "14:00",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:02",
+   "end": "16:29",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 147
+  },
+  {
+   "start": "16:29",
+   "end": "16:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:31",
+   "end": "16:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:32",
+   "end": "16:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "16:54",
+   "end": "16:55",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "16:55",
+   "end": "17:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:05",
+   "end": "17:20",
+   "category": "面会・会談",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 田和宏審議官 田中誠二職業安定局長 荒井勝喜総括審議官",
+   "minutes": 15
+  },
+  {
+   "start": "17:20",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:21",
+   "end": "17:26",
+   "category": "面会・会談",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 荒井勝喜総括審議官",
+   "minutes": 5
+  },
+  {
+   "start": "17:26",
+   "end": "17:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:27",
+   "end": "17:37",
+   "category": "面会・会談",
+   "label": "藤井健志官房副長官補 和泉洋人首相補佐官 鎌田光明医薬・生活衛生局長 荒井勝喜総括審議官",
+   "minutes": 10
+  },
+  {
+   "start": "17:37",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "18:02",
+   "end": "18:48",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 46
+  },
+  {
+   "start": "18:48",
+   "end": "18:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:50",
+   "end": "18:58",
+   "category": "面会・会談",
+   "label": "田村憲久厚生労働相",
+   "minutes": 8
+  },
+  {
+   "start": "18:58",
+   "end": "19:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "19:35",
+   "end": "19:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "19:41",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 259
+  }
+ ],
+ "alloc_min": {
+  "居所": 680,
+  "移動": 18,
+  "公務（内容未詳）": 235,
+  "面会・会談": 74,
+  "取材・会見": 3,
+  "国会": 250,
+  "官邸執務": 180
+ }
+}

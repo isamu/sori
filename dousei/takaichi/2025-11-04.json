@@ -1,0 +1,408 @@
+{
+ "date": "2025-11-04",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 564,
+ "residence_min": 876,
+ "meetings": 4,
+ "first_work": "09:49",
+ "events": [
+  {
+   "time": "09:49",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:15",
+   "label": "日本成長戦略本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:35",
+   "label": "外国人の受け入れ・秩序ある共生社会実現に関する関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:54",
+   "label": "岸田文雄自民党日本成長戦略本部長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "11:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:28",
+   "label": "城内実経済財政担当相と日本成長戦略本部事務局の看板掛け。職員に訓示",
+   "place": "東京・永田町 内閣府本府",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:38",
+   "label": "移動",
+   "place": "東京・永田町 内閣府本府",
+   "category": "移動"
+  },
+  {
+   "time": "11:39",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "茂木敏充外相 木原稔官房長官 城内実経済財政担当相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:51",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:01",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:43",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:15",
+   "label": "市川恵一国家安全保障局長 原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:28",
+   "label": "原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:16",
+   "label": "城内実経済財政担当相 井上裕之事務次官 堤雅彦政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:21",
+   "label": "ドミニク・レスティノ日仏経済交流委員会会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:08",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 589
+  },
+  {
+   "start": "09:49",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "09:53",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "10:01",
+   "end": "10:07",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 6
+  },
+  {
+   "start": "10:07",
+   "end": "10:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "10:15",
+   "end": "10:25",
+   "category": "官邸執務",
+   "label": "日本成長戦略本部",
+   "minutes": 10
+  },
+  {
+   "start": "10:25",
+   "end": "10:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "10:35",
+   "end": "10:42",
+   "category": "官邸執務",
+   "label": "外国人の受け入れ・秩序ある共生社会実現に関する関係閣僚会議",
+   "minutes": 7
+  },
+  {
+   "start": "10:42",
+   "end": "10:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "10:54",
+   "end": "11:18",
+   "category": "党務",
+   "label": "岸田文雄自民党日本成長戦略本部長",
+   "minutes": 24
+  },
+  {
+   "start": "11:18",
+   "end": "11:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "11:27",
+   "end": "11:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "11:28",
+   "end": "11:38",
+   "category": "式典・行事",
+   "label": "城内実経済財政担当相と日本成長戦略本部事務局の看板掛け。職員に訓示",
+   "minutes": 10
+  },
+  {
+   "start": "11:38",
+   "end": "11:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 73
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:53",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "13:01",
+   "category": "国会",
+   "label": "茂木敏充外相 木原稔官房長官 城内実経済財政担当相",
+   "minutes": 1
+  },
+  {
+   "start": "13:01",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:02",
+   "end": "14:27",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 85
+  },
+  {
+   "start": "14:27",
+   "end": "14:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "14:58",
+   "end": "15:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:01",
+   "end": "16:41",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 100
+  },
+  {
+   "start": "16:41",
+   "end": "16:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:43",
+   "end": "16:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:45",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "17:15",
+   "end": "17:27",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長 原和也内閣情報官",
+   "minutes": 12
+  },
+  {
+   "start": "17:27",
+   "end": "17:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:28",
+   "end": "17:35",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 7
+  },
+  {
+   "start": "17:35",
+   "end": "18:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "18:16",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "城内実経済財政担当相 井上裕之事務次官 堤雅彦政策統括官",
+   "minutes": 4
+  },
+  {
+   "start": "18:20",
+   "end": "18:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:21",
+   "end": "18:42",
+   "category": "面会・会談",
+   "label": "ドミニク・レスティノ日仏経済交流委員会会長",
+   "minutes": 21
+  },
+  {
+   "start": "18:42",
+   "end": "19:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "19:08",
+   "end": "19:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 287
+  }
+ ],
+ "alloc_min": {
+  "居所": 876,
+  "移動": 14,
+  "公務（内容未詳）": 183,
+  "官邸執務": 96,
+  "党務": 24,
+  "式典・行事": 10,
+  "国会": 193,
+  "面会・会談": 44
+ }
+}

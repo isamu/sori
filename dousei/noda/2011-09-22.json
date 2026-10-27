@@ -1,0 +1,89 @@
+{
+ "date": "2011-09-22",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2011.09.22",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 7,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間21日）午後、米ニューヨークの国連本部でオバマ米大統領と会談。インターコンチネンタルホテルで同行記者団のインタビュー",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "同ホテルでカナダのハーパー首相と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ル・パーカー・メリディアン・ニューヨークホテルで韓国の李明博大統領と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "国連本部で潘基文国連事務総長と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "インターコンチネンタルホテルで国連邦人職員と懇談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同ホテル泊",
+   "place": "同ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間22日）午前、国連本部で原子力安全ハイレベル会合の開会式に出席",
+   "place": "同ホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "サルコジ仏大統領と懇談",
+   "place": "同ホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同会合で演説。同行記者団のインタビュー",
+   "place": "同ホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "欧州連合（ＥＵ）のファンロンパイ首脳会議常任議長、バローゾ欧州委員長と会談",
+   "place": "同ホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "キャメロン英首相と会談",
+   "place": "同ホテル",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

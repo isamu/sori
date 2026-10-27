@@ -1,0 +1,395 @@
+{
+ "date": "2026-02-02",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 762,
+ "residence_min": 659,
+ "meetings": 0,
+ "first_work": "09:30",
+ "events": [
+  {
+   "time": "09:30",
+   "label": "医務官。手の治療",
+   "place": "公邸",
+   "category": "個人"
+  },
+  {
+   "time": "09:49",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:37",
+   "label": "休憩",
+   "place": "山梨県警本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:40",
+   "label": "移動",
+   "place": "山梨県警本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:42",
+   "label": "駅前で街頭演説",
+   "place": "ＪＲ甲府駅",
+   "category": "党務"
+  },
+  {
+   "time": "12:01",
+   "label": "移動",
+   "place": "ＪＲ甲府駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:18",
+   "label": "ＮＨＫのインタビュー",
+   "place": "山梨県甲斐市 中央自動車道双葉サービスエリア",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:23",
+   "label": "移動",
+   "place": "山梨県甲斐市 中央自動車道双葉サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:09",
+   "label": "休憩",
+   "place": "長野県塩尻市 長野自動車道みどり湖パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:11",
+   "label": "移動",
+   "place": "長野県塩尻市 長野自動車道みどり湖パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:53",
+   "label": "街頭演説",
+   "place": "同県山形村 商業施設「アイシティ２１」",
+   "category": "党務"
+  },
+  {
+   "time": "14:06",
+   "label": "移動",
+   "place": "同県山形村 商業施設「アイシティ２１」",
+   "category": "移動"
+  },
+  {
+   "time": "15:03",
+   "label": "自民党衆院選候補者の演説会に出席。演説",
+   "place": "長野市 スポーツアリーナ「ホワイトリング」",
+   "category": "党務"
+  },
+  {
+   "time": "15:25",
+   "label": "移動",
+   "place": "長野市 スポーツアリーナ「ホワイトリング」",
+   "category": "移動"
+  },
+  {
+   "time": "15:41",
+   "label": "ＪＲ長野駅",
+   "place": "ＪＲ長野駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:17",
+   "label": "ＪＲ上越妙高駅",
+   "place": "ＪＲ上越妙高駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:22",
+   "label": "移動",
+   "place": "ＪＲ上越妙高駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:08",
+   "label": "同所内の宴会場「セレッソホール」で同党衆院選候補者の演説会に出席。演説",
+   "place": "新潟県上越市 結婚式場「デュオ・セレッソ」",
+   "category": "党務"
+  },
+  {
+   "time": "17:27",
+   "label": "移動",
+   "place": "新潟県上越市 結婚式場「デュオ・セレッソ」",
+   "category": "移動"
+  },
+  {
+   "time": "17:39",
+   "label": "ＪＲ上越妙高駅",
+   "place": "ＪＲ上越妙高駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:59",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "20:04",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:30",
+   "label": "同党の麻生太郎副総裁、鈴木俊一幹事長、古屋圭司選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "22:28",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 570
+  },
+  {
+   "start": "09:30",
+   "end": "09:49",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 19
+  },
+  {
+   "start": "09:49",
+   "end": "11:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 108
+  },
+  {
+   "start": "11:37",
+   "end": "11:40",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "11:40",
+   "end": "11:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:42",
+   "end": "12:01",
+   "category": "党務",
+   "label": "駅前で街頭演説",
+   "minutes": 19
+  },
+  {
+   "start": "12:01",
+   "end": "12:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "12:18",
+   "end": "12:23",
+   "category": "取材・会見",
+   "label": "ＮＨＫのインタビュー",
+   "minutes": 5
+  },
+  {
+   "start": "12:23",
+   "end": "13:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 46
+  },
+  {
+   "start": "13:09",
+   "end": "13:11",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "13:11",
+   "end": "13:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "13:53",
+   "end": "14:06",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 13
+  },
+  {
+   "start": "14:06",
+   "end": "15:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 57
+  },
+  {
+   "start": "15:03",
+   "end": "15:25",
+   "category": "党務",
+   "label": "自民党衆院選候補者の演説会に出席。演説",
+   "minutes": 22
+  },
+  {
+   "start": "15:25",
+   "end": "15:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "15:41",
+   "end": "16:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "16:00",
+   "end": "16:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "16:17",
+   "end": "16:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "16:22",
+   "end": "16:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "16:39",
+   "end": "17:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "17:08",
+   "end": "17:21",
+   "category": "党務",
+   "label": "同所内の宴会場「セレッソホール」で同党衆院選候補者の演説会に出席。演説",
+   "minutes": 13
+  },
+  {
+   "start": "17:21",
+   "end": "17:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:27",
+   "end": "17:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "17:39",
+   "end": "18:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "18:00",
+   "end": "19:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 119
+  },
+  {
+   "start": "19:59",
+   "end": "20:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "20:04",
+   "end": "20:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "20:19",
+   "end": "20:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "20:30",
+   "end": "22:27",
+   "category": "党務",
+   "label": "同党の麻生太郎副総裁、鈴木俊一幹事長、古屋圭司選対委員長",
+   "minutes": 117
+  },
+  {
+   "start": "22:27",
+   "end": "22:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "22:28",
+   "end": "22:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "22:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 89
+  }
+ ],
+ "alloc_min": {
+  "居所": 659,
+  "個人": 19,
+  "移動": 385,
+  "党務": 184,
+  "取材・会見": 5,
+  "公務（内容未詳）": 188
+ }
+}

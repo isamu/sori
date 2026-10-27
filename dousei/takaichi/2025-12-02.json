@@ -1,0 +1,331 @@
+{
+ "date": "2025-12-02",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 789,
+ "residence_min": 651,
+ "meetings": 1,
+ "first_work": "07:54",
+ "events": [
+  {
+   "time": "07:54",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:22",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:33",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "10:05",
+   "label": "ＪＲ郡山駅",
+   "place": "ＪＲ郡山駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:09",
+   "label": "移動",
+   "place": "ＪＲ郡山駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:57",
+   "label": "休憩",
+   "place": "福島県いわき市 差塩パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "11:02",
+   "label": "移動",
+   "place": "福島県いわき市 差塩パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "11:48",
+   "label": "中間貯蔵施設を視察。牧野京夫復興相、内堀雅雄知事、吉田淳大熊町長、伊沢史朗双葉町長ら同行",
+   "place": "同県大熊町 中間貯蔵事業情報センター",
+   "category": "視察"
+  },
+  {
+   "time": "13:10",
+   "label": "移動",
+   "place": "同県大熊町 中間貯蔵事業情報センター",
+   "category": "移動"
+  },
+  {
+   "time": "13:22",
+   "label": "視察",
+   "place": "同県双葉町 帰還困難区域",
+   "category": "視察"
+  },
+  {
+   "time": "13:54",
+   "label": "移動",
+   "place": "同県双葉町 帰還困難区域",
+   "category": "移動"
+  },
+  {
+   "time": "14:15",
+   "label": "原子炉建屋などを視察。職員を激励",
+   "place": "同県大熊、双葉両町 東京電力福島第１原発",
+   "category": "視察"
+  },
+  {
+   "time": "16:41",
+   "label": "内堀知事",
+   "place": "同県大熊、双葉両町 東京電力福島第１原発",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:06",
+   "label": "報道各社のインタビュー",
+   "place": "同県大熊、双葉両町 東京電力福島第１原発",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:17",
+   "label": "移動",
+   "place": "同県大熊、双葉両町 東京電力福島第１原発",
+   "category": "移動"
+  },
+  {
+   "time": "19:02",
+   "label": "ＪＲ郡山駅",
+   "place": "ＪＲ郡山駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:48",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "20:51",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 474
+  },
+  {
+   "start": "07:54",
+   "end": "07:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "07:58",
+   "end": "08:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:01",
+   "end": "08:09",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "08:09",
+   "end": "08:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "08:22",
+   "end": "08:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "08:33",
+   "end": "08:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:45",
+   "end": "10:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 80
+  },
+  {
+   "start": "10:05",
+   "end": "10:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "10:09",
+   "end": "10:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 48
+  },
+  {
+   "start": "10:57",
+   "end": "11:02",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 5
+  },
+  {
+   "start": "11:02",
+   "end": "11:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 46
+  },
+  {
+   "start": "11:48",
+   "end": "13:10",
+   "category": "視察",
+   "label": "中間貯蔵施設を視察。牧野京夫復興相、内堀雅雄知事、吉田淳大熊町長、伊沢史朗双葉町長ら同行",
+   "minutes": 82
+  },
+  {
+   "start": "13:10",
+   "end": "13:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "13:22",
+   "end": "13:54",
+   "category": "視察",
+   "label": "視察",
+   "minutes": 32
+  },
+  {
+   "start": "13:54",
+   "end": "14:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "14:15",
+   "end": "16:41",
+   "category": "視察",
+   "label": "原子炉建屋などを視察。職員を激励",
+   "minutes": 146
+  },
+  {
+   "start": "16:41",
+   "end": "17:00",
+   "category": "面会・会談",
+   "label": "内堀知事",
+   "minutes": 19
+  },
+  {
+   "start": "17:00",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:06",
+   "end": "17:14",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 8
+  },
+  {
+   "start": "17:14",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:17",
+   "end": "19:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 105
+  },
+  {
+   "start": "19:02",
+   "end": "19:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "19:31",
+   "end": "20:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 77
+  },
+  {
+   "start": "20:48",
+   "end": "20:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "20:51",
+   "end": "21:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "21:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 177
+  }
+ ],
+ "alloc_min": {
+  "居所": 651,
+  "移動": 297,
+  "公務（内容未詳）": 197,
+  "官邸執務": 8,
+  "視察": 260,
+  "面会・会談": 19,
+  "取材・会見": 8
+ }
+}

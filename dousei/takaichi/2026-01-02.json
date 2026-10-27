@@ -1,0 +1,65 @@
+{
+ "date": "2026-01-02",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 24,
+ "residence_min": 1416,
+ "meetings": 1,
+ "first_work": "21:31",
+ "events": [
+  {
+   "time": "21:31",
+   "label": "トランプ米大統領との電話会談。木原稔官房長官ら同席",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:00",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "21:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1291
+  },
+  {
+   "start": "21:31",
+   "end": "21:52",
+   "category": "面会・会談",
+   "label": "トランプ米大統領との電話会談。木原稔官房長官ら同席",
+   "minutes": 21
+  },
+  {
+   "start": "21:52",
+   "end": "22:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 8
+  },
+  {
+   "start": "22:00",
+   "end": "22:03",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "22:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 117
+  }
+ ],
+ "alloc_min": {
+  "居所": 1416,
+  "面会・会談": 21,
+  "取材・会見": 3
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "date": "2011-12-07",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.12.07",
+ "work_min": 760,
+ "residence_min": 680,
+ "meetings": 7,
+ "first_work": "08:01",
+ "events": [
+  {
+   "time": "08:01",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:55",
+   "label": "長浜氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:25",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:26",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:27",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:49",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:40",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院決算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:00",
+   "label": "衆院第2議員会館",
+   "place": "衆院第2議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "17:03",
+   "label": "北朝鮮の拉致被害者、横田めぐみさんの写真展を見学",
+   "place": "衆院第2議員会館",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "横田滋さん、早紀江さん、山岡拉致問題相ら",
+   "place": "衆院第2議員会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:23",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:31",
+   "label": "愛知県の大村秀章知事",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:38",
+   "label": "リチャード・ハース米外交問題評議会会長、長島首相補佐官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:15",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:40",
+   "label": "東京・戸塚町の早稲田大学大隈講堂",
+   "place": "戸塚町",
+   "category": "移動"
+  },
+  {
+   "time": "20:00",
+   "label": "「早稲田政治祭」で講演",
+   "place": "戸塚町",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:42",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 481
+  },
+  {
+   "start": "08:01",
+   "end": "09:25",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 84
+  },
+  {
+   "start": "09:25",
+   "end": "09:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "09:26",
+   "end": "09:27",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:27",
+   "end": "09:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "09:49",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "10:01",
+   "end": "11:40",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 99
+  },
+  {
+   "start": "11:40",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "12:51",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:00",
+   "end": "17:00",
+   "category": "国会",
+   "label": "参院決算委員会",
+   "minutes": 240
+  },
+  {
+   "start": "17:00",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:03",
+   "end": "17:23",
+   "category": "面会・会談",
+   "label": "横田滋さん、早紀江さん、山岡拉致問題相ら",
+   "minutes": 20
+  },
+  {
+   "start": "17:23",
+   "end": "17:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:31",
+   "end": "17:38",
+   "category": "面会・会談",
+   "label": "愛知県の大村秀章知事",
+   "minutes": 7
+  },
+  {
+   "start": "17:38",
+   "end": "18:15",
+   "category": "面会・会談",
+   "label": "リチャード・ハース米外交問題評議会会長、長島首相補佐官同席",
+   "minutes": 37
+  },
+  {
+   "start": "18:15",
+   "end": "19:40",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 85
+  },
+  {
+   "start": "19:40",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "20:00",
+   "end": "20:42",
+   "category": "取材・会見",
+   "label": "「早稲田政治祭」で講演",
+   "minutes": 42
+  },
+  {
+   "start": "20:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 198
+  }
+ ],
+ "alloc_min": {
+  "居所": 680,
+  "面会・会談": 233,
+  "移動": 1,
+  "公務（内容未詳）": 145,
+  "国会": 339,
+  "取材・会見": 42
+ }
+}

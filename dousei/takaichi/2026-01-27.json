@@ -1,0 +1,361 @@
+{
+ "date": "2026-01-27",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 568,
+ "residence_min": 872,
+ "meetings": 0,
+ "first_work": "09:38",
+ "events": [
+  {
+   "time": "09:38",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:57",
+   "label": "吉村洋文日本維新の会代表らと街頭演説。聴衆と握手",
+   "place": "ＪＲ秋葉原駅電気街口",
+   "category": "党務"
+  },
+  {
+   "time": "10:45",
+   "label": "移動",
+   "place": "ＪＲ秋葉原駅電気街口",
+   "category": "移動"
+  },
+  {
+   "time": "10:52",
+   "label": "ＪＲ上野駅",
+   "place": "ＪＲ上野駅",
+   "category": "その他"
+  },
+  {
+   "time": "12:17",
+   "label": "ＪＲ郡山駅",
+   "place": "ＪＲ郡山駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:21",
+   "label": "移動",
+   "place": "ＪＲ郡山駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:29",
+   "label": "同ホテル内の宴会場「平安の間」で自民党衆院選候補者の演説会に出席。演説。同候補の応援用動画撮影",
+   "place": "福島県郡山市 ホテルハマツ",
+   "category": "党務"
+  },
+  {
+   "time": "13:00",
+   "label": "移動",
+   "place": "福島県郡山市 ホテルハマツ",
+   "category": "移動"
+  },
+  {
+   "time": "13:42",
+   "label": "同党衆院選候補者の演説会に出席。演説",
+   "place": "同県二本松市 市民会館",
+   "category": "党務"
+  },
+  {
+   "time": "14:16",
+   "label": "移動",
+   "place": "同県二本松市 市民会館",
+   "category": "移動"
+  },
+  {
+   "time": "14:51",
+   "label": "ＪＲ福島駅",
+   "place": "ＪＲ福島駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:38",
+   "label": "ＪＲ仙台駅",
+   "place": "ＪＲ仙台駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:45",
+   "label": "移動",
+   "place": "ＪＲ仙台駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:51",
+   "label": "街頭演説。聴衆とハイタッチ",
+   "place": "仙台市青葉区 錦町公園",
+   "category": "党務"
+  },
+  {
+   "time": "16:16",
+   "label": "移動",
+   "place": "仙台市青葉区 錦町公園",
+   "category": "移動"
+  },
+  {
+   "time": "16:21",
+   "label": "ＪＲ仙台駅",
+   "place": "ＪＲ仙台駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:13",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "18:18",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:58",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:09",
+   "label": "報道番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:30",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:38",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 578
+  },
+  {
+   "start": "09:38",
+   "end": "09:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "09:57",
+   "end": "10:45",
+   "category": "党務",
+   "label": "吉村洋文日本維新の会代表らと街頭演説。聴衆と握手",
+   "minutes": 48
+  },
+  {
+   "start": "10:45",
+   "end": "10:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "10:52",
+   "end": "11:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "11:07",
+   "end": "12:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 70
+  },
+  {
+   "start": "12:17",
+   "end": "12:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:21",
+   "end": "12:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "12:29",
+   "end": "13:00",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「平安の間」で自民党衆院選候補者の演説会に出席。演説。同候補の応援用動画撮影",
+   "minutes": 31
+  },
+  {
+   "start": "13:00",
+   "end": "13:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "13:42",
+   "end": "14:16",
+   "category": "党務",
+   "label": "同党衆院選候補者の演説会に出席。演説",
+   "minutes": 34
+  },
+  {
+   "start": "14:16",
+   "end": "14:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "14:51",
+   "end": "15:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "15:17",
+   "end": "15:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "15:38",
+   "end": "15:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "15:45",
+   "end": "15:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "15:51",
+   "end": "16:16",
+   "category": "党務",
+   "label": "街頭演説。聴衆とハイタッチ",
+   "minutes": 25
+  },
+  {
+   "start": "16:16",
+   "end": "16:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "16:21",
+   "end": "16:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "16:32",
+   "end": "18:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 101
+  },
+  {
+   "start": "18:13",
+   "end": "18:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:18",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "18:30",
+   "end": "18:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 28
+  },
+  {
+   "start": "18:58",
+   "end": "19:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:03",
+   "end": "19:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "19:09",
+   "end": "19:28",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 19
+  },
+  {
+   "start": "19:28",
+   "end": "19:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:30",
+   "end": "19:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "19:34",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 266
+  }
+ ],
+ "alloc_min": {
+  "居所": 872,
+  "移動": 191,
+  "党務": 138,
+  "公務（内容未詳）": 220,
+  "取材・会見": 19
+ }
+}

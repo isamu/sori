@@ -1,0 +1,135 @@
+{
+ "date": "2026-05-07",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.05.07",
+ "work_min": 332,
+ "residence_min": 1108,
+ "meetings": 0,
+ "first_work": "11:31",
+ "events": [
+  {
+   "time": "11:31",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:33",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:02",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:13",
+   "label": "皇居着",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "15:21",
+   "label": "皇居発",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "15:29",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:03",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 691
+  },
+  {
+   "start": "11:31",
+   "end": "11:33",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "11:33",
+   "end": "15:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 209
+  },
+  {
+   "start": "15:02",
+   "end": "15:13",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 11
+  },
+  {
+   "start": "15:13",
+   "end": "15:21",
+   "category": "公務（内容未詳）",
+   "label": "帰国の記帳",
+   "minutes": 8
+  },
+  {
+   "start": "15:21",
+   "end": "15:29",
+   "category": "移動",
+   "label": "皇居発",
+   "minutes": 8
+  },
+  {
+   "start": "15:29",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 93
+  },
+  {
+   "start": "17:02",
+   "end": "17:03",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "17:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 417
+  }
+ ],
+ "alloc_min": {
+  "居所": 1108,
+  "移動": 22,
+  "公務（内容未詳）": 310
+ }
+}

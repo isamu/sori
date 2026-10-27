@@ -1,0 +1,85 @@
+{
+ "date": "2011-11-05",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2011.11.05",
+ "work_min": 916,
+ "residence_min": 524,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "14:34",
+   "label": "羽田空港着",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:07",
+   "label": "東京・永田町の参院議長公邸",
+   "place": "永田町",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "西岡参院議長の弔問、記帳",
+   "place": "永田町",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:13",
+   "label": "公邸前で報道各社のインタビュー",
+   "place": "永田町",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:16",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:34",
+   "category": "外遊",
+   "label": "外遊（帰国日）",
+   "minutes": 874
+  },
+  {
+   "start": "14:34",
+   "end": "15:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "15:07",
+   "end": "15:13",
+   "category": "式典・行事",
+   "label": "西岡参院議長の弔問、記帳",
+   "minutes": 6
+  },
+  {
+   "start": "15:13",
+   "end": "15:16",
+   "category": "取材・会見",
+   "label": "公邸前で報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "15:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 524
+  }
+ ],
+ "alloc_min": {
+  "外遊": 874,
+  "公務（内容未詳）": 33,
+  "式典・行事": 6,
+  "取材・会見": 3,
+  "居所": 524
+ }
+}

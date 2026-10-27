@@ -1,0 +1,70 @@
+{
+ "date": "2012-03-04",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.03.04",
+ "work_min": 100,
+ "residence_min": 1340,
+ "meetings": 0,
+ "first_work": "17:30",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:30",
+   "label": "東京・東新橋の日本テレビ",
+   "place": "東新橋",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "報道番組に出演",
+   "place": "東新橋",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:10",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1050
+  },
+  {
+   "start": "17:30",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "18:00",
+   "end": "19:10",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 70
+  },
+  {
+   "start": "19:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 290
+  }
+ ],
+ "alloc_min": {
+  "居所": 1340,
+  "公務（内容未詳）": 30,
+  "取材・会見": 70
+ }
+}

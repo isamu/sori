@@ -1,0 +1,323 @@
+{
+ "date": "2026-02-07",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 416,
+ "residence_min": 1014,
+ "meetings": 0,
+ "first_work": "10:30",
+ "events": [
+  {
+   "time": "10:30",
+   "label": "医務官。手の治療",
+   "place": "公邸",
+   "category": "個人"
+  },
+  {
+   "time": "10:41",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "衆院選用のビデオメッセージ収録",
+   "place": "自民党本部",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:46",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:57",
+   "label": "北方領土返還要求全国大会に出席し、あいさつ",
+   "place": "東京・代々木神園町 国立オリンピック記念青少年総合センター",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:29",
+   "label": "移動",
+   "place": "東京・代々木神園町 国立オリンピック記念青少年総合センター",
+   "category": "移動"
+  },
+  {
+   "time": "12:42",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "15:17",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:33",
+   "label": "街頭演説",
+   "place": "東京・春日 文京区立礫川公園前",
+   "category": "党務"
+  },
+  {
+   "time": "16:04",
+   "label": "移動",
+   "place": "東京・春日 文京区立礫川公園前",
+   "category": "移動"
+  },
+  {
+   "time": "16:43",
+   "label": "街頭演説",
+   "place": "ＪＲ浮間舟渡駅前ロータリー",
+   "category": "党務"
+  },
+  {
+   "time": "17:09",
+   "label": "移動",
+   "place": "ＪＲ浮間舟渡駅前ロータリー",
+   "category": "移動"
+  },
+  {
+   "time": "17:11",
+   "label": "休憩",
+   "place": "警視庁志村署",
+   "category": "移動"
+  },
+  {
+   "time": "17:14",
+   "label": "移動",
+   "place": "警視庁志村署",
+   "category": "移動"
+  },
+  {
+   "time": "18:01",
+   "label": "街頭演説",
+   "place": "ＪＲ阿佐ケ谷駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "18:33",
+   "label": "移動",
+   "place": "ＪＲ阿佐ケ谷駅南口",
+   "category": "移動"
+  },
+  {
+   "time": "18:55",
+   "label": "休憩",
+   "place": "警視庁世田谷署",
+   "category": "移動"
+  },
+  {
+   "time": "18:59",
+   "label": "移動",
+   "place": "警視庁世田谷署",
+   "category": "移動"
+  },
+  {
+   "time": "19:16",
+   "label": "街頭演説",
+   "place": "東京・玉川 世田谷区立二子玉川公園前",
+   "category": "党務"
+  },
+  {
+   "time": "19:51",
+   "label": "移動",
+   "place": "東京・玉川 世田谷区立二子玉川公園前",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 630
+  },
+  {
+   "start": "10:30",
+   "end": "10:40",
+   "category": "個人",
+   "label": "医務官。手の治療",
+   "minutes": 10
+  },
+  {
+   "start": "10:40",
+   "end": "10:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "10:41",
+   "end": "10:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:44",
+   "end": "10:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:45",
+   "end": "11:44",
+   "category": "官邸執務",
+   "label": "衆院選用のビデオメッセージ収録",
+   "minutes": 59
+  },
+  {
+   "start": "11:44",
+   "end": "11:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:46",
+   "end": "11:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "11:57",
+   "end": "12:29",
+   "category": "式典・行事",
+   "label": "北方領土返還要求全国大会に出席し、あいさつ",
+   "minutes": 32
+  },
+  {
+   "start": "12:29",
+   "end": "12:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "12:42",
+   "end": "15:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 155
+  },
+  {
+   "start": "15:17",
+   "end": "15:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "15:33",
+   "end": "16:04",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "16:04",
+   "end": "16:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "16:43",
+   "end": "17:09",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "17:09",
+   "end": "17:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:11",
+   "end": "17:14",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "17:14",
+   "end": "18:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 47
+  },
+  {
+   "start": "18:01",
+   "end": "18:33",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "18:33",
+   "end": "18:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "18:55",
+   "end": "18:59",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 4
+  },
+  {
+   "start": "18:59",
+   "end": "19:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "19:16",
+   "end": "19:51",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "19:51",
+   "end": "20:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "20:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 228
+  }
+ ],
+ "alloc_min": {
+  "居所": 1014,
+  "個人": 10,
+  "移動": 198,
+  "公務（内容未詳）": 3,
+  "官邸執務": 59,
+  "式典・行事": 32,
+  "党務": 124
+ }
+}

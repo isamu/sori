@@ -1,0 +1,41 @@
+{
+ "date": "2011-09-21",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2011.09.21",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間20日）午後、政府専用機で米ニューヨークのＪＦＫ空港着",
+   "place": "ＪＦＫ空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "インターコンチネンタルホテル泊",
+   "place": "インターコンチネンタルホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（同21日）午後、国連本部でオバマ米大統領と首脳会談",
+   "place": "インターコンチネンタルホテル",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

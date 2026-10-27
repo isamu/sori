@@ -1,0 +1,157 @@
+{
+ "date": "2011-05-01",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.05.01",
+ "work_min": 760,
+ "residence_min": 680,
+ "meetings": 2,
+ "first_work": "06:01",
+ "events": [
+  {
+   "time": "06:01",
+   "label": "公邸で福山官房副長官、民主党の寺田学衆院議員",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:41",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:43",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "16:40",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:56",
+   "label": "滝野官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:41",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 361
+  },
+  {
+   "start": "06:01",
+   "end": "08:41",
+   "category": "面会・会談",
+   "label": "公邸で福山官房副長官、民主党の寺田学衆院議員",
+   "minutes": 160
+  },
+  {
+   "start": "08:41",
+   "end": "08:43",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:43",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "08:54",
+   "end": "11:57",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 183
+  },
+  {
+   "start": "11:57",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "12:52",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:00",
+   "end": "16:40",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 220
+  },
+  {
+   "start": "16:40",
+   "end": "17:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 76
+  },
+  {
+   "start": "17:56",
+   "end": "18:41",
+   "category": "面会・会談",
+   "label": "滝野官房副長官",
+   "minutes": 45
+  },
+  {
+   "start": "18:41",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 319
+  }
+ ],
+ "alloc_min": {
+  "居所": 680,
+  "面会・会談": 205,
+  "移動": 2,
+  "公務（内容未詳）": 150,
+  "国会": 403
+ }
+}

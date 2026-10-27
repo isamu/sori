@@ -1,0 +1,365 @@
+{
+ "date": "2026-01-31",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 548,
+ "residence_min": 892,
+ "meetings": 1,
+ "first_work": "09:41",
+ "events": [
+  {
+   "time": "09:41",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:52",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "10:51",
+   "label": "ＪＲ三島駅",
+   "place": "ＪＲ三島駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:54",
+   "label": "移動",
+   "place": "ＪＲ三島駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:19",
+   "label": "同ホテル内の宴会場「シャングリラ」で自民党衆院選候補者の演説会に出席。演説",
+   "place": "静岡県沼津市 沼津リバーサイドホテル",
+   "category": "党務"
+  },
+  {
+   "time": "11:52",
+   "label": "移動",
+   "place": "静岡県沼津市 沼津リバーサイドホテル",
+   "category": "移動"
+  },
+  {
+   "time": "12:18",
+   "label": "ＪＲ三島駅",
+   "place": "ＪＲ三島駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "ＪＲ新横浜駅",
+   "place": "ＪＲ新横浜駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:06",
+   "label": "移動",
+   "place": "ＪＲ新横浜駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:31",
+   "label": "街頭演説",
+   "place": "横浜市緑区 十日市場グラウンド",
+   "category": "党務"
+  },
+  {
+   "time": "14:01",
+   "label": "移動",
+   "place": "横浜市緑区 十日市場グラウンド",
+   "category": "移動"
+  },
+  {
+   "time": "14:28",
+   "label": "屋内広場で同党衆院選候補者の演説会に出席。演説",
+   "place": "川崎市高津区 「かながわサイエンスパーク」",
+   "category": "党務"
+  },
+  {
+   "time": "15:07",
+   "label": "移動",
+   "place": "川崎市高津区 「かながわサイエンスパーク」",
+   "category": "移動"
+  },
+  {
+   "time": "15:41",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:19",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:29",
+   "label": "英国のスターマー首相を出迎え",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:30",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:40",
+   "label": "スターマー首相と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:00",
+   "label": "共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:13",
+   "label": "高市早苗首相主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "21:25",
+   "label": "スターマー首相を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 581
+  },
+  {
+   "start": "09:41",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "09:52",
+   "end": "09:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:57",
+   "end": "10:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "10:51",
+   "end": "10:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:54",
+   "end": "11:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "11:19",
+   "end": "11:52",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「シャングリラ」で自民党衆院選候補者の演説会に出席。演説",
+   "minutes": 33
+  },
+  {
+   "start": "11:52",
+   "end": "12:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "12:18",
+   "end": "12:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "12:27",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "12:59",
+   "end": "13:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "13:06",
+   "end": "13:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "13:31",
+   "end": "14:01",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "14:01",
+   "end": "14:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "14:28",
+   "end": "15:07",
+   "category": "党務",
+   "label": "屋内広場で同党衆院選候補者の演説会に出席。演説",
+   "minutes": 39
+  },
+  {
+   "start": "15:07",
+   "end": "15:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "15:41",
+   "end": "18:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 158
+  },
+  {
+   "start": "18:19",
+   "end": "18:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:21",
+   "end": "19:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 68
+  },
+  {
+   "start": "19:29",
+   "end": "19:30",
+   "category": "式典・行事",
+   "label": "英国のスターマー首相を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "19:30",
+   "end": "19:35",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 5
+  },
+  {
+   "start": "19:35",
+   "end": "19:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "19:40",
+   "end": "19:57",
+   "category": "面会・会談",
+   "label": "スターマー首相と首脳会談",
+   "minutes": 17
+  },
+  {
+   "start": "19:57",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "20:00",
+   "end": "20:10",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 10
+  },
+  {
+   "start": "20:10",
+   "end": "20:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "20:12",
+   "end": "20:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "20:13",
+   "end": "21:25",
+   "category": "会食",
+   "label": "高市早苗首相主催の夕食会",
+   "minutes": 72
+  },
+  {
+   "start": "21:25",
+   "end": "21:27",
+   "category": "式典・行事",
+   "label": "スターマー首相を見送り",
+   "minutes": 2
+  },
+  {
+   "start": "21:27",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 153
+  }
+ ],
+ "alloc_min": {
+  "居所": 892,
+  "移動": 170,
+  "公務（内容未詳）": 169,
+  "党務": 102,
+  "式典・行事": 8,
+  "面会・会談": 17,
+  "取材・会見": 10,
+  "会食": 72
+ }
+}

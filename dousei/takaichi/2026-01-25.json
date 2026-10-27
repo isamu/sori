@@ -1,0 +1,196 @@
+{
+ "date": "2026-01-25",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 276,
+ "residence_min": 1164,
+ "meetings": 0,
+ "first_work": "06:59",
+ "events": [
+  {
+   "time": "06:59",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:31",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:31",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": "08:46",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "10:43",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:51",
+   "label": "報道番組に出演",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "11:45",
+   "label": "移動",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "移動"
+  },
+  {
+   "time": "11:52",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:13",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:28",
+   "label": "報道番組に出演",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:38",
+   "label": "移動",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:59",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 419
+  },
+  {
+   "start": "06:59",
+   "end": "07:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "07:14",
+   "end": "07:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "07:31",
+   "end": "08:27",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 56
+  },
+  {
+   "start": "08:27",
+   "end": "08:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:31",
+   "end": "08:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "08:46",
+   "end": "10:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 117
+  },
+  {
+   "start": "10:43",
+   "end": "10:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:51",
+   "end": "11:45",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 54
+  },
+  {
+   "start": "11:45",
+   "end": "11:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "11:52",
+   "end": "14:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 141
+  },
+  {
+   "start": "14:13",
+   "end": "14:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "14:28",
+   "end": "15:38",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 70
+  },
+  {
+   "start": "15:38",
+   "end": "15:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "15:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 487
+  }
+ ],
+ "alloc_min": {
+  "居所": 1164,
+  "移動": 75,
+  "公務（内容未詳）": 21,
+  "取材・会見": 180
+ }
+}

@@ -1,0 +1,546 @@
+{
+ "date": "2026-02-18",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 824,
+ "residence_min": 616,
+ "meetings": 1,
+ "first_work": "08:52",
+ "events": [
+  {
+   "time": "08:52",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:37",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:39",
+   "label": "国会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "10:41",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "10:44",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:10",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:15",
+   "label": "自民党両院議員総会",
+   "place": "国会 講堂",
+   "category": "党務"
+  },
+  {
+   "time": "12:51",
+   "label": "同党代議士会",
+   "place": "国会 衆院第１４控室",
+   "category": "党務"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:01",
+   "label": "衆院本会議で第１０５代首相に指名",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:26",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "15:27",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:49",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "15:56",
+   "label": "衆院の正副議長、議院運営委員長、与野党各会派にあいさつ回り。自民党の鈴木俊一幹事長、梶山弘志国対委員長同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "16:17",
+   "label": "参院の正副議長、議院運営委員長、与野党各会派にあいさつ回り。自民党の石井準一参院幹事長、磯崎仁彦参院国対委員長同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "16:49",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "吉村洋文日本維新の会代表と与党党首会談。木原稔官房長官、鈴木自民党幹事長、維新の藤田文武共同代表、中司宏幹事長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:16",
+   "label": "組閣本部設置",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:17",
+   "label": "新閣僚の呼び込み",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:49",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:35",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:48",
+   "label": "内奏、首相親任式、閣僚認証式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "21:25",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "22:10",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:55",
+   "label": "初閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "23:12",
+   "label": "閣僚と記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "23:21",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 532
+  },
+  {
+   "start": "08:52",
+   "end": "08:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:53",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:00",
+   "end": "09:11",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 11
+  },
+  {
+   "start": "09:11",
+   "end": "10:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 86
+  },
+  {
+   "start": "10:37",
+   "end": "10:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "10:41",
+   "end": "10:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 86
+  },
+  {
+   "start": "12:10",
+   "end": "12:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:12",
+   "end": "12:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:15",
+   "end": "12:33",
+   "category": "党務",
+   "label": "自民党両院議員総会",
+   "minutes": 18
+  },
+  {
+   "start": "12:33",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "12:51",
+   "end": "12:56",
+   "category": "党務",
+   "label": "同党代議士会",
+   "minutes": 5
+  },
+  {
+   "start": "12:56",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:02",
+   "end": "15:01",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 119
+  },
+  {
+   "start": "15:01",
+   "end": "15:26",
+   "category": "国会",
+   "label": "衆院本会議で第１０５代首相に指名",
+   "minutes": 25
+  },
+  {
+   "start": "15:26",
+   "end": "15:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 19
+  },
+  {
+   "start": "15:46",
+   "end": "15:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:47",
+   "end": "15:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "15:55",
+   "end": "15:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:56",
+   "end": "16:15",
+   "category": "国会",
+   "label": "衆院の正副議長、議院運営委員長、与野党各会派にあいさつ回り。自民党の鈴木俊一幹事長、梶山弘志国対委員長同行",
+   "minutes": 19
+  },
+  {
+   "start": "16:15",
+   "end": "16:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:17",
+   "end": "16:46",
+   "category": "国会",
+   "label": "参院の正副議長、議院運営委員長、与野党各会派にあいさつ回り。自民党の石井準一参院幹事長、磯崎仁彦参院国対委員長同行",
+   "minutes": 29
+  },
+  {
+   "start": "16:46",
+   "end": "16:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:49",
+   "end": "16:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:50",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "17:02",
+   "end": "17:09",
+   "category": "面会・会談",
+   "label": "吉村洋文日本維新の会代表と与党党首会談。木原稔官房長官、鈴木自民党幹事長、維新の藤田文武共同代表、中司宏幹事長同席",
+   "minutes": 7
+  },
+  {
+   "start": "17:09",
+   "end": "17:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "17:16",
+   "end": "17:17",
+   "category": "官邸執務",
+   "label": "組閣本部設置",
+   "minutes": 1
+  },
+  {
+   "start": "17:17",
+   "end": "17:20",
+   "category": "官邸執務",
+   "label": "新閣僚の呼び込み",
+   "minutes": 3
+  },
+  {
+   "start": "17:20",
+   "end": "17:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "17:48",
+   "end": "17:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:49",
+   "end": "18:35",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 46
+  },
+  {
+   "start": "18:35",
+   "end": "18:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "18:48",
+   "end": "21:25",
+   "category": "式典・行事",
+   "label": "内奏、首相親任式、閣僚認証式",
+   "minutes": 157
+  },
+  {
+   "start": "21:25",
+   "end": "21:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "21:35",
+   "end": "22:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "22:10",
+   "end": "22:43",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 33
+  },
+  {
+   "start": "22:43",
+   "end": "22:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "22:55",
+   "end": "23:09",
+   "category": "官邸執務",
+   "label": "初閣議",
+   "minutes": 14
+  },
+  {
+   "start": "23:09",
+   "end": "23:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "23:12",
+   "end": "23:15",
+   "category": "式典・行事",
+   "label": "閣僚と記念撮影",
+   "minutes": 3
+  },
+  {
+   "start": "23:15",
+   "end": "23:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "23:21",
+   "end": "23:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "23:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 38
+  }
+ ],
+ "alloc_min": {
+  "居所": 616,
+  "移動": 36,
+  "公務（内容未詳）": 231,
+  "官邸執務": 134,
+  "国会": 200,
+  "党務": 23,
+  "面会・会談": 7,
+  "式典・行事": 160,
+  "取材・会見": 33
+ }
+}

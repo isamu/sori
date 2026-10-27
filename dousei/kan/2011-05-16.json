@@ -1,0 +1,228 @@
+{
+ "date": "2011-05-16",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.05.16",
+ "work_min": 803,
+ "residence_min": 637,
+ "meetings": 7,
+ "first_work": "07:39",
+ "events": [
+  {
+   "time": "07:39",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:40",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:46",
+   "label": "福山官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:27",
+   "label": "福山氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:53",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:06",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:49",
+   "label": "河野雅治駐イタリア大使",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:20",
+   "label": "東京電力の武藤栄副社長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:41",
+   "label": "海江田経産相、細野首相補佐官加わる",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:11",
+   "label": "武藤氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:42",
+   "label": "海江田、細野両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:02",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:39",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 459
+  },
+  {
+   "start": "07:39",
+   "end": "07:40",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "07:40",
+   "end": "07:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:46",
+   "end": "08:27",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 41
+  },
+  {
+   "start": "08:27",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "08:53",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:59",
+   "end": "12:06",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 187
+  },
+  {
+   "start": "12:06",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "12:55",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "12:59",
+   "end": "17:05",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 246
+  },
+  {
+   "start": "17:05",
+   "end": "17:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "17:49",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "河野雅治駐イタリア大使",
+   "minutes": 31
+  },
+  {
+   "start": "18:20",
+   "end": "18:41",
+   "category": "面会・会談",
+   "label": "東京電力の武藤栄副社長",
+   "minutes": 21
+  },
+  {
+   "start": "18:41",
+   "end": "20:42",
+   "category": "面会・会談",
+   "label": "海江田経産相、細野首相補佐官加わる",
+   "minutes": 121
+  },
+  {
+   "start": "20:42",
+   "end": "21:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "21:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 178
+  }
+ ],
+ "alloc_min": {
+  "居所": 637,
+  "移動": 1,
+  "公務（内容未詳）": 155,
+  "面会・会談": 214,
+  "国会": 433
+ }
+}

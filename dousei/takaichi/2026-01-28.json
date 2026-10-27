@@ -1,0 +1,308 @@
+{
+ "date": "2026-01-28",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 754,
+ "residence_min": 686,
+ "meetings": 0,
+ "first_work": "09:22",
+ "events": [
+  {
+   "time": "09:22",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:50",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:18",
+   "label": "新千歳空港",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:32",
+   "label": "移動",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:24",
+   "label": "同ホテル内の宴会場「パレスボールルーム」で自民党衆院選候補者の演説会に出席。演説",
+   "place": "札幌市厚別区 ホテルエミシア札幌",
+   "category": "党務"
+  },
+  {
+   "time": "12:48",
+   "label": "移動",
+   "place": "札幌市厚別区 ホテルエミシア札幌",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "街頭演説",
+   "place": "ＪＲ手稲駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "14:20",
+   "label": "移動",
+   "place": "ＪＲ手稲駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "15:11",
+   "label": "同ホテル内の宴会場「グランドホール」で同党衆院選候補者の合同演説会に出席。演説",
+   "place": "札幌市中央区 札幌グランドホテル",
+   "category": "党務"
+  },
+  {
+   "time": "15:37",
+   "label": "同ホテル内の宴会場「グランシェフ」で鈴木直道北海道知事、秋元克広札幌市長から大雪被害に関する説明。要望書受け取り",
+   "place": "札幌市中央区 札幌グランドホテル",
+   "category": "移動"
+  },
+  {
+   "time": "15:48",
+   "label": "移動",
+   "place": "札幌市中央区 札幌グランドホテル",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "休憩",
+   "place": "苫小牧市 美沢パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "移動",
+   "place": "苫小牧市 美沢パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:31",
+   "label": "街頭演説",
+   "place": "同市 岩倉建設苫小牧本店の駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "17:52",
+   "label": "移動",
+   "place": "同市 岩倉建設苫小牧本店の駐車場",
+   "category": "移動"
+  },
+  {
+   "time": "18:35",
+   "label": "新千歳空港",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:06",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:18",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 562
+  },
+  {
+   "start": "09:22",
+   "end": "09:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "09:50",
+   "end": "10:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "10:10",
+   "end": "11:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 68
+  },
+  {
+   "start": "11:18",
+   "end": "11:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "11:32",
+   "end": "12:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 52
+  },
+  {
+   "start": "12:24",
+   "end": "12:48",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「パレスボールルーム」で自民党衆院選候補者の演説会に出席。演説",
+   "minutes": 24
+  },
+  {
+   "start": "12:48",
+   "end": "13:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 67
+  },
+  {
+   "start": "13:55",
+   "end": "14:20",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "14:20",
+   "end": "15:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 49
+  },
+  {
+   "start": "15:09",
+   "end": "15:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:11",
+   "end": "15:34",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「グランドホール」で同党衆院選候補者の合同演説会に出席。演説",
+   "minutes": 23
+  },
+  {
+   "start": "15:34",
+   "end": "15:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:37",
+   "end": "15:43",
+   "category": "移動",
+   "label": "同ホテル内の宴会場「グランシェフ」で鈴木直道北海道知事、秋元克広札幌市長から大雪被害に関する説明。要望書受け取り",
+   "minutes": 6
+  },
+  {
+   "start": "15:43",
+   "end": "15:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "15:48",
+   "end": "17:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 72
+  },
+  {
+   "start": "17:00",
+   "end": "17:02",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "17:02",
+   "end": "17:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "17:31",
+   "end": "17:52",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 21
+  },
+  {
+   "start": "17:52",
+   "end": "18:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 43
+  },
+  {
+   "start": "18:35",
+   "end": "19:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 73
+  },
+  {
+   "start": "19:48",
+   "end": "21:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 78
+  },
+  {
+   "start": "21:06",
+   "end": "21:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "21:18",
+   "end": "21:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 38
+  },
+  {
+   "start": "21:56",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 124
+  }
+ ],
+ "alloc_min": {
+  "居所": 686,
+  "移動": 505,
+  "公務（内容未詳）": 156,
+  "党務": 93
+ }
+}

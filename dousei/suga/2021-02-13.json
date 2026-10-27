@@ -1,0 +1,51 @@
+{
+ "date": "2021-02-13",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 37,
+ "residence_min": 1403,
+ "meetings": 0,
+ "first_work": "23:23",
+ "events": [
+  {
+   "time": "23:23",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "23:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1403
+  },
+  {
+   "start": "23:23",
+   "end": "23:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "23:28",
+   "end": "24:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  }
+ ],
+ "alloc_min": {
+  "居所": 1403,
+  "移動": 5,
+  "公務（内容未詳）": 32
+ }
+}

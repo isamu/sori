@@ -1,0 +1,341 @@
+{
+ "date": "2026-02-04",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 668,
+ "residence_min": 762,
+ "meetings": 0,
+ "first_work": "08:15",
+ "events": [
+  {
+   "time": "08:15",
+   "label": "医務官。手の治療",
+   "place": "公邸",
+   "category": "個人"
+  },
+  {
+   "time": "09:25",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:23",
+   "label": "岡山空港",
+   "place": "岡山空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:33",
+   "label": "移動",
+   "place": "岡山空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:12",
+   "label": "街頭演説",
+   "place": "岡山県倉敷市 倉敷みらい公園",
+   "category": "党務"
+  },
+  {
+   "time": "12:43",
+   "label": "移動",
+   "place": "岡山県倉敷市 倉敷みらい公園",
+   "category": "移動"
+  },
+  {
+   "time": "13:21",
+   "label": "同ホテル内の宴会場「鶴鳴の間」で自民党衆院選候補者の演説会に出席。演説",
+   "place": "岡山市中区 岡山プラザホテル",
+   "category": "党務"
+  },
+  {
+   "time": "13:55",
+   "label": "移動",
+   "place": "岡山市中区 岡山プラザホテル",
+   "category": "移動"
+  },
+  {
+   "time": "14:03",
+   "label": "ＪＲ岡山駅",
+   "place": "ＪＲ岡山駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:20",
+   "label": "ＪＲ京都駅",
+   "place": "ＪＲ京都駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:27",
+   "label": "移動",
+   "place": "ＪＲ京都駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:56",
+   "label": "街頭演説",
+   "place": "京都府長岡京市 ＪＲ長岡京駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "16:18",
+   "label": "移動",
+   "place": "京都府長岡京市 ＪＲ長岡京駅西口",
+   "category": "移動"
+  },
+  {
+   "time": "16:54",
+   "label": "街頭演説",
+   "place": "同府宇治市 近鉄小倉駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:18",
+   "label": "移動",
+   "place": "同府宇治市 近鉄小倉駅前",
+   "category": "移動"
+  },
+  {
+   "time": "17:29",
+   "label": "休憩",
+   "place": "同府久御山町 府警南部分駐所",
+   "category": "移動"
+  },
+  {
+   "time": "17:32",
+   "label": "移動",
+   "place": "同府久御山町 府警南部分駐所",
+   "category": "移動"
+  },
+  {
+   "time": "18:10",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:54",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:09",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:15",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 495
+  },
+  {
+   "start": "08:15",
+   "end": "08:25",
+   "category": "個人",
+   "label": "医務官。手の治療",
+   "minutes": 10
+  },
+  {
+   "start": "08:25",
+   "end": "09:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 60
+  },
+  {
+   "start": "09:25",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "09:55",
+   "end": "10:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "10:25",
+   "end": "11:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 58
+  },
+  {
+   "start": "11:23",
+   "end": "11:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "11:33",
+   "end": "12:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "12:12",
+   "end": "12:43",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "12:43",
+   "end": "13:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 38
+  },
+  {
+   "start": "13:21",
+   "end": "13:55",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「鶴鳴の間」で自民党衆院選候補者の演説会に出席。演説",
+   "minutes": 34
+  },
+  {
+   "start": "13:55",
+   "end": "14:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "14:03",
+   "end": "14:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "14:20",
+   "end": "15:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "15:20",
+   "end": "15:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "15:27",
+   "end": "15:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "15:56",
+   "end": "16:18",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "16:18",
+   "end": "16:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "16:54",
+   "end": "17:18",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "17:18",
+   "end": "17:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "17:29",
+   "end": "17:32",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "17:32",
+   "end": "18:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 38
+  },
+  {
+   "start": "18:10",
+   "end": "19:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 63
+  },
+  {
+   "start": "19:13",
+   "end": "19:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "19:54",
+   "end": "20:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "20:09",
+   "end": "20:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "20:33",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 207
+  }
+ ],
+ "alloc_min": {
+  "居所": 762,
+  "個人": 10,
+  "移動": 398,
+  "公務（内容未詳）": 159,
+  "党務": 111
+ }
+}

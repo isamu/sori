@@ -1,0 +1,444 @@
+{
+ "date": "2011-12-09",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.12.09",
+ "work_min": 806,
+ "residence_min": 634,
+ "meetings": 18,
+ "first_work": "08:17",
+ "events": [
+  {
+   "time": "08:17",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:19",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:25",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:43",
+   "label": "古川国家戦略相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:59",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:30",
+   "label": "斎藤、長浜両官房副長官、手塚首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:50",
+   "label": "長浜氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:06",
+   "label": "斎藤、手塚両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:14",
+   "label": "安住財務相、財務省の勝事務次官、中尾財務官、木下国際局長、古谷主税局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:19",
+   "label": "藤村官房長官加わる",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:03",
+   "label": "中尾、木下両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:16",
+   "label": "全員出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:23",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "11:36",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:17",
+   "label": "斎藤副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:22",
+   "label": "斎藤氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:33",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:42",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "13:59",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:07",
+   "label": "植松内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:34",
+   "label": "植松氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:35",
+   "label": "国会。各府省庁の控室へあいさつ回り",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:48",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:09",
+   "label": "「予算編成に関する政府・与党会議」",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:19",
+   "label": "安住財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:29",
+   "label": "藤村長官、西宮外務審議官、環境省の鈴木地球環境局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:01",
+   "label": "山口外務副大臣",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:25",
+   "label": "山口氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:26",
+   "label": "斎藤副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:47",
+   "label": "斎藤氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:43",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 497
+  },
+  {
+   "start": "08:17",
+   "end": "08:19",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:19",
+   "end": "08:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:25",
+   "end": "08:43",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 18
+  },
+  {
+   "start": "08:43",
+   "end": "08:59",
+   "category": "面会・会談",
+   "label": "古川国家戦略相",
+   "minutes": 16
+  },
+  {
+   "start": "08:59",
+   "end": "09:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "09:30",
+   "end": "10:06",
+   "category": "面会・会談",
+   "label": "斎藤、長浜両官房副長官、手塚首相補佐官",
+   "minutes": 36
+  },
+  {
+   "start": "10:06",
+   "end": "10:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "10:14",
+   "end": "10:19",
+   "category": "面会・会談",
+   "label": "安住財務相、財務省の勝事務次官、中尾財務官、木下国際局長、古谷主税局長",
+   "minutes": 5
+  },
+  {
+   "start": "10:19",
+   "end": "11:16",
+   "category": "面会・会談",
+   "label": "藤村官房長官加わる",
+   "minutes": 57
+  },
+  {
+   "start": "11:16",
+   "end": "11:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "11:23",
+   "end": "11:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "11:36",
+   "end": "12:14",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 38
+  },
+  {
+   "start": "12:14",
+   "end": "12:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:17",
+   "end": "12:22",
+   "category": "面会・会談",
+   "label": "斎藤副長官",
+   "minutes": 5
+  },
+  {
+   "start": "12:22",
+   "end": "13:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "13:33",
+   "end": "13:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:42",
+   "end": "13:59",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 17
+  },
+  {
+   "start": "13:59",
+   "end": "14:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "14:07",
+   "end": "14:34",
+   "category": "面会・会談",
+   "label": "植松内閣情報官",
+   "minutes": 27
+  },
+  {
+   "start": "14:34",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 146
+  },
+  {
+   "start": "17:00",
+   "end": "17:35",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 35
+  },
+  {
+   "start": "17:35",
+   "end": "17:48",
+   "category": "官邸執務",
+   "label": "国会。各府省庁の控室へあいさつ回り",
+   "minutes": 13
+  },
+  {
+   "start": "17:48",
+   "end": "18:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "18:09",
+   "end": "18:19",
+   "category": "官邸執務",
+   "label": "「予算編成に関する政府・与党会議」",
+   "minutes": 10
+  },
+  {
+   "start": "18:19",
+   "end": "18:29",
+   "category": "面会・会談",
+   "label": "安住財務相",
+   "minutes": 10
+  },
+  {
+   "start": "18:29",
+   "end": "19:01",
+   "category": "面会・会談",
+   "label": "藤村長官、西宮外務審議官、環境省の鈴木地球環境局長",
+   "minutes": 32
+  },
+  {
+   "start": "19:01",
+   "end": "19:25",
+   "category": "面会・会談",
+   "label": "山口外務副大臣",
+   "minutes": 24
+  },
+  {
+   "start": "19:25",
+   "end": "20:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 61
+  },
+  {
+   "start": "20:26",
+   "end": "20:47",
+   "category": "面会・会談",
+   "label": "斎藤副長官",
+   "minutes": 21
+  },
+  {
+   "start": "20:47",
+   "end": "21:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "21:43",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 137
+  }
+ ],
+ "alloc_min": {
+  "居所": 634,
+  "移動": 2,
+  "公務（内容未詳）": 440,
+  "官邸執務": 41,
+  "面会・会談": 233,
+  "国会": 55,
+  "取材・会見": 35
+ }
+}

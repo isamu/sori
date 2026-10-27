@@ -1,0 +1,229 @@
+{
+ "date": "2011-09-16",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2011.09.16",
+ "work_min": 1038,
+ "residence_min": 402,
+ "meetings": 7,
+ "first_work": "06:42",
+ "events": [
+  {
+   "time": "06:42",
+   "label": "東京・赤坂の衆院議員宿舎発",
+   "place": "衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "06:44",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "06:48",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:11",
+   "label": "長浜氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:14",
+   "label": "手塚氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:07",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:16",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:24",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "16:08",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:40",
+   "label": "植松内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "国交省の宿利事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:10",
+   "label": "鹿野農水相、筒井農水副大臣",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:06",
+   "label": "安住財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 402
+  },
+  {
+   "start": "06:42",
+   "end": "06:44",
+   "category": "移動",
+   "label": "東京・赤坂の衆院議員宿舎発",
+   "minutes": 2
+  },
+  {
+   "start": "06:44",
+   "end": "06:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "06:48",
+   "end": "08:14",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 86
+  },
+  {
+   "start": "08:14",
+   "end": "09:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "09:07",
+   "end": "09:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "09:16",
+   "end": "10:01",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 45
+  },
+  {
+   "start": "10:01",
+   "end": "11:24",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 83
+  },
+  {
+   "start": "11:24",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 88
+  },
+  {
+   "start": "12:52",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:01",
+   "end": "16:08",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 187
+  },
+  {
+   "start": "16:08",
+   "end": "16:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "16:40",
+   "end": "17:00",
+   "category": "面会・会談",
+   "label": "植松内閣情報官",
+   "minutes": 20
+  },
+  {
+   "start": "17:00",
+   "end": "17:10",
+   "category": "面会・会談",
+   "label": "国交省の宿利事務次官",
+   "minutes": 10
+  },
+  {
+   "start": "17:10",
+   "end": "18:06",
+   "category": "面会・会談",
+   "label": "鹿野農水相、筒井農水副大臣",
+   "minutes": 56
+  },
+  {
+   "start": "18:06",
+   "end": "24:00",
+   "category": "面会・会談",
+   "label": "安住財務相",
+   "minutes": 354
+  }
+ ],
+ "alloc_min": {
+  "居所": 402,
+  "移動": 2,
+  "公務（内容未詳）": 195,
+  "面会・会談": 526,
+  "官邸執務": 45,
+  "国会": 270
+ }
+}

@@ -1,0 +1,203 @@
+{
+ "date": "2026-04-29",
+ "pm": "高市早苗",
+ "source": "時事通信 / Yahoo!ニュース 2026.04.29",
+ "work_min": 158,
+ "residence_min": 1282,
+ "meetings": 0,
+ "first_work": "10:09",
+ "events": [
+  {
+   "time": "10:00",
+   "label": "午前１０時現在、公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "10:09",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:23",
+   "label": "東京・神南の代々木公園着",
+   "place": "代々木公園",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "芳野友子連合会長出迎え",
+   "place": "代々木公園",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:30",
+   "label": "連合の第97回メーデー中央大会に出席し、あいさつ。",
+   "place": "代々木公園",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:49",
+   "label": "同所発",
+   "place": "代々木公園",
+   "category": "移動"
+  },
+  {
+   "time": "11:04",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:18",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:25",
+   "label": "東京・北の丸公園の日本武道館着",
+   "place": "日本武道館",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "昭和100年記念式典に出席。",
+   "place": "日本武道館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:53",
+   "label": "同所発",
+   "place": "日本武道館",
+   "category": "移動"
+  },
+  {
+   "time": "15:01",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "22:00",
+   "label": "同１０時現在、公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 600
+  },
+  {
+   "start": "10:00",
+   "end": "10:09",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 9
+  },
+  {
+   "start": "10:09",
+   "end": "10:23",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 14
+  },
+  {
+   "start": "10:23",
+   "end": "10:30",
+   "category": "面会・会談",
+   "label": "芳野友子連合会長出迎え",
+   "minutes": 7
+  },
+  {
+   "start": "10:30",
+   "end": "10:48",
+   "category": "式典・行事",
+   "label": "連合の第97回メーデー中央大会に出席し、あいさつ。",
+   "minutes": 18
+  },
+  {
+   "start": "10:48",
+   "end": "10:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:49",
+   "end": "11:04",
+   "category": "移動",
+   "label": "同所発",
+   "minutes": 15
+  },
+  {
+   "start": "11:04",
+   "end": "13:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 134
+  },
+  {
+   "start": "13:18",
+   "end": "13:25",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 7
+  },
+  {
+   "start": "13:25",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "14:00",
+   "end": "14:47",
+   "category": "式典・行事",
+   "label": "昭和100年記念式典に出席。",
+   "minutes": 47
+  },
+  {
+   "start": "14:47",
+   "end": "14:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "14:53",
+   "end": "15:01",
+   "category": "移動",
+   "label": "同所発",
+   "minutes": 8
+  },
+  {
+   "start": "15:01",
+   "end": "22:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 419
+  },
+  {
+   "start": "22:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 120
+  }
+ ],
+ "alloc_min": {
+  "居所": 1282,
+  "移動": 44,
+  "面会・会談": 7,
+  "式典・行事": 65,
+  "公務（内容未詳）": 42
+ }
+}

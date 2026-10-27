@@ -1,0 +1,71 @@
+{
+ "date": "2026-07-02",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.07.02",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "インド大統領官邸で歓迎式典",
+   "place": "インド大統領官邸",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "政府迎賓館ハイデラバードハウスでモディ首相と首脳会談少人数会合",
+   "place": "ハイデラバードハウス",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "モディ首相との首脳会談拡大会合",
+   "place": "ハイデラバードハウス",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "モディ首相と文書交換式",
+   "place": "ハイデラバードハウス",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "ハイデラバードハウス",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "モディ首相主催の昼食会",
+   "place": "ハイデラバードハウス",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "タージパレスホテルで日印経済フォーラム出席",
+   "place": "タージパレスホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "モディ首相主催の非公式夕食会",
+   "place": "首相公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "インド・ニューデリー訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

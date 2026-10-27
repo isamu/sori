@@ -1,0 +1,56 @@
+{
+ "date": "2011-05-03",
+ "pm": "菅直人",
+ "source": "朝日新聞社 2011.05.03",
+ "work_min": 83,
+ "residence_min": 1357,
+ "meetings": 0,
+ "first_work": "12:26",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:26",
+   "label": "東京・永田町のザ・キャピトルホテル東急。中国料理店「星ケ岡」で伸子夫人ら家族と食事",
+   "place": "ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "13:49",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 746
+  },
+  {
+   "start": "12:26",
+   "end": "13:49",
+   "category": "会食",
+   "label": "東京・永田町のザ・キャピトルホテル東急。中国料理店「星ケ岡」で伸子夫人ら家族と食事",
+   "minutes": 83
+  },
+  {
+   "start": "13:49",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 611
+  }
+ ],
+ "alloc_min": {
+  "居所": 1357,
+  "会食": 83
+ }
+}

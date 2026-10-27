@@ -1,0 +1,169 @@
+{
+ "date": "2012-03-01",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.03.01",
+ "work_min": 697,
+ "residence_min": 743,
+ "meetings": 5,
+ "first_work": "07:01",
+ "events": [
+  {
+   "time": "07:01",
+   "label": "手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:32",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:51",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:56",
+   "label": "民主党の渡部恒三衆院議員",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:02",
+   "label": "藤村官房長官",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:12",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:59",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:38",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 421
+  },
+  {
+   "start": "07:01",
+   "end": "08:32",
+   "category": "面会・会談",
+   "label": "手塚首相補佐官",
+   "minutes": 91
+  },
+  {
+   "start": "08:32",
+   "end": "08:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "08:51",
+   "end": "08:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:56",
+   "end": "08:59",
+   "category": "面会・会談",
+   "label": "民主党の渡部恒三衆院議員",
+   "minutes": 3
+  },
+  {
+   "start": "08:59",
+   "end": "12:02",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 183
+  },
+  {
+   "start": "12:02",
+   "end": "12:12",
+   "category": "面会・会談",
+   "label": "藤村官房長官",
+   "minutes": 10
+  },
+  {
+   "start": "12:12",
+   "end": "12:59",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 47
+  },
+  {
+   "start": "12:59",
+   "end": "17:10",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 251
+  },
+  {
+   "start": "17:10",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "18:00",
+   "end": "18:38",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 38
+  },
+  {
+   "start": "18:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 322
+  }
+ ],
+ "alloc_min": {
+  "居所": 743,
+  "面会・会談": 142,
+  "公務（内容未詳）": 74,
+  "国会": 481
+ }
+}

@@ -1,0 +1,557 @@
+{
+ "date": "2020-12-10",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 840,
+ "residence_min": 600,
+ "meetings": 1,
+ "first_work": "06:51",
+ "events": [
+  {
+   "time": "06:51",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:09",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "08:48",
+   "label": "同駅内の応接室で、村井嘉浩宮城県知事ら",
+   "place": "ＪＲ仙台駅",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:55",
+   "label": "移動",
+   "place": "ＪＲ仙台駅",
+   "category": "移動"
+  },
+  {
+   "time": "09:52",
+   "label": "渥美巌市長ら出迎え。視察",
+   "place": "同県東松島市 復興再生多目的施設「あおみな」",
+   "category": "視察"
+  },
+  {
+   "time": "10:07",
+   "label": "移動",
+   "place": "同県東松島市 復興再生多目的施設「あおみな」",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "亀山紘市長ら出迎え。献花、黙とう。視察",
+   "place": "同県石巻市 石巻南浜津波復興祈念公園",
+   "category": "視察"
+  },
+  {
+   "time": "10:56",
+   "label": "移動",
+   "place": "同県石巻市 石巻南浜津波復興祈念公園",
+   "category": "移動"
+  },
+  {
+   "time": "11:01",
+   "label": "視察",
+   "place": "同市 生鮮食品市場「いしのまき元気いちば」",
+   "category": "視察"
+  },
+  {
+   "time": "11:11",
+   "label": "移動",
+   "place": "同市 生鮮食品市場「いしのまき元気いちば」",
+   "category": "移動"
+  },
+  {
+   "time": "11:31",
+   "label": "東松島市 航空自衛隊松島基地",
+   "place": "東松島市 航空自衛隊松島基地",
+   "category": "移動"
+  },
+  {
+   "time": "11:46",
+   "label": "陸上自衛隊ヘリコプター",
+   "place": "東松島市 航空自衛隊松島基地",
+   "category": "移動"
+  },
+  {
+   "time": "12:11",
+   "label": "岩手県陸前高田市 総合交流センター「夢アリーナたかた」",
+   "place": "岩手県陸前高田市 総合交流センター「夢アリーナたかた」",
+   "category": "移動"
+  },
+  {
+   "time": "12:12",
+   "label": "移動",
+   "place": "岩手県陸前高田市 総合交流センター「夢アリーナたかた」",
+   "category": "移動"
+  },
+  {
+   "time": "12:16",
+   "label": "達増拓也岩手県知事、戸羽太市長ら出迎え。献花、黙とう。視察",
+   "place": "同市 高田松原津波復興祈念公園",
+   "category": "視察"
+  },
+  {
+   "time": "12:29",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "12:36",
+   "label": "平沢復興相、達増岩手県知事らと昼食",
+   "place": "同市 京料理店「京亭縁庵」",
+   "category": "会食"
+  },
+  {
+   "time": "12:59",
+   "label": "移動",
+   "place": "同市 京料理店「京亭縁庵」",
+   "category": "移動"
+  },
+  {
+   "time": "13:05",
+   "label": "「夢アリーナたかた」",
+   "place": "「夢アリーナたかた」",
+   "category": "移動"
+  },
+  {
+   "time": "13:08",
+   "label": "陸自ヘリ",
+   "place": "「夢アリーナたかた」",
+   "category": "移動"
+  },
+  {
+   "time": "13:45",
+   "label": "同県宮古市 へいがわ老木公園",
+   "place": "同県宮古市 へいがわ老木公園",
+   "category": "移動"
+  },
+  {
+   "time": "13:47",
+   "label": "移動",
+   "place": "同県宮古市 へいがわ老木公園",
+   "category": "移動"
+  },
+  {
+   "time": "14:09",
+   "label": "山本正徳市長出迎え。視察",
+   "place": "同市 田老地区防潮堤",
+   "category": "視察"
+  },
+  {
+   "time": "14:20",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "14:23",
+   "label": "視察。津波のビデオ映像を視聴",
+   "place": "同市 震災遺構「たろう観光ホテル」",
+   "category": "視察"
+  },
+  {
+   "time": "14:47",
+   "label": "報道各社のインタビュー",
+   "place": "同市 震災遺構「たろう観光ホテル」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:54",
+   "label": "移動",
+   "place": "同市 震災遺構「たろう観光ホテル」",
+   "category": "移動"
+  },
+  {
+   "time": "15:17",
+   "label": "へいがわ老木公園",
+   "place": "へいがわ老木公園",
+   "category": "移動"
+  },
+  {
+   "time": "15:22",
+   "label": "陸自ヘリ",
+   "place": "へいがわ老木公園",
+   "category": "移動"
+  },
+  {
+   "time": "16:22",
+   "label": "仙台市若林区 陸自霞目駐屯地",
+   "place": "仙台市若林区 陸自霞目駐屯地",
+   "category": "移動"
+  },
+  {
+   "time": "16:25",
+   "label": "移動",
+   "place": "仙台市若林区 陸自霞目駐屯地",
+   "category": "移動"
+  },
+  {
+   "time": "16:45",
+   "label": "ＪＲ仙台駅",
+   "place": "ＪＲ仙台駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:55",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "18:59",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:07",
+   "label": "同ホテル内の宴会場「牡丹の間」で日本経済新聞社の喜多恒雄会長、岡田直敏社長らと会食",
+   "place": "東京・内幸町 帝国ホテル",
+   "category": "会食"
+  },
+  {
+   "time": "20:23",
+   "label": "移動",
+   "place": "東京・内幸町 帝国ホテル",
+   "category": "移動"
+  },
+  {
+   "time": "20:29",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "20:47",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 411
+  },
+  {
+   "start": "06:51",
+   "end": "07:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "07:09",
+   "end": "07:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:16",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 92
+  },
+  {
+   "start": "08:48",
+   "end": "08:55",
+   "category": "面会・会談",
+   "label": "同駅内の応接室で、村井嘉浩宮城県知事ら",
+   "minutes": 7
+  },
+  {
+   "start": "08:55",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 57
+  },
+  {
+   "start": "09:52",
+   "end": "10:07",
+   "category": "視察",
+   "label": "渥美巌市長ら出迎え。視察",
+   "minutes": 15
+  },
+  {
+   "start": "10:07",
+   "end": "10:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 38
+  },
+  {
+   "start": "10:45",
+   "end": "10:56",
+   "category": "視察",
+   "label": "亀山紘市長ら出迎え。献花、黙とう。視察",
+   "minutes": 11
+  },
+  {
+   "start": "10:56",
+   "end": "11:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "11:01",
+   "end": "11:11",
+   "category": "視察",
+   "label": "視察",
+   "minutes": 10
+  },
+  {
+   "start": "11:11",
+   "end": "11:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "11:31",
+   "end": "11:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "11:46",
+   "end": "12:11",
+   "category": "移動",
+   "label": "陸上自衛隊ヘリコプター",
+   "minutes": 25
+  },
+  {
+   "start": "12:11",
+   "end": "12:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:12",
+   "end": "12:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:16",
+   "end": "12:29",
+   "category": "視察",
+   "label": "達増拓也岩手県知事、戸羽太市長ら出迎え。献花、黙とう。視察",
+   "minutes": 13
+  },
+  {
+   "start": "12:29",
+   "end": "12:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "12:36",
+   "end": "12:59",
+   "category": "会食",
+   "label": "平沢復興相、達増岩手県知事らと昼食",
+   "minutes": 23
+  },
+  {
+   "start": "12:59",
+   "end": "13:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "13:05",
+   "end": "13:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:08",
+   "end": "13:45",
+   "category": "移動",
+   "label": "陸自ヘリ",
+   "minutes": 37
+  },
+  {
+   "start": "13:45",
+   "end": "13:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:47",
+   "end": "14:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "14:09",
+   "end": "14:20",
+   "category": "視察",
+   "label": "山本正徳市長出迎え。視察",
+   "minutes": 11
+  },
+  {
+   "start": "14:20",
+   "end": "14:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "14:23",
+   "end": "14:47",
+   "category": "視察",
+   "label": "視察。津波のビデオ映像を視聴",
+   "minutes": 24
+  },
+  {
+   "start": "14:47",
+   "end": "14:53",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 6
+  },
+  {
+   "start": "14:53",
+   "end": "14:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:54",
+   "end": "15:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "15:17",
+   "end": "15:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "15:22",
+   "end": "16:22",
+   "category": "移動",
+   "label": "陸自ヘリ",
+   "minutes": 60
+  },
+  {
+   "start": "16:22",
+   "end": "16:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:25",
+   "end": "16:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "16:45",
+   "end": "17:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "17:21",
+   "end": "18:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 94
+  },
+  {
+   "start": "18:55",
+   "end": "18:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:59",
+   "end": "19:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "19:07",
+   "end": "20:23",
+   "category": "会食",
+   "label": "同ホテル内の宴会場「牡丹の間」で日本経済新聞社の喜多恒雄会長、岡田直敏社長らと会食",
+   "minutes": 76
+  },
+  {
+   "start": "20:23",
+   "end": "20:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 18
+  },
+  {
+   "start": "20:47",
+   "end": "20:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "20:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 189
+  }
+ ],
+ "alloc_min": {
+  "居所": 600,
+  "移動": 428,
+  "公務（内容未詳）": 216,
+  "面会・会談": 7,
+  "視察": 84,
+  "会食": 99,
+  "取材・会見": 6
+ }
+}

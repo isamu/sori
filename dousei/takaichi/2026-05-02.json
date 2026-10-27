@@ -1,0 +1,89 @@
+{
+ "date": "2026-05-02",
+ "pm": "高市早苗",
+ "source": "時事通信 / Yahoo!ニュース 2026.05.02",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "2日午前、ベトナム・ハノイの首相府で歓迎式典",
+   "place": "首相府",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "レ・ミン・フン首相と首脳会談少人数会合",
+   "place": "首相府",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "午前、同拡大会合",
+   "place": "首相府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "文書交換式、共同記者発表",
+   "place": "首相府",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "午後、国家主席府でトー・ラム共産党書記長兼国家主席と会談、昼食会",
+   "place": "国家主席府",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ベトナム国家大学ハノイ校で外交政策に関する演説",
+   "place": "ベトナム国家大学ハノイ校",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "国会議事堂でチャン・タイン・マン国会議長と会談",
+   "place": "国会議事堂",
+   "category": "国会"
+  },
+  {
+   "time": null,
+   "label": "英雄烈士慰霊碑で献花",
+   "place": "英雄烈士慰霊碑",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ホーチミン廟（びょう）で献花",
+   "place": "ホーチミン廟",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "新国家主席府でフン氏主催夕食会",
+   "place": "国家主席府",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "宿泊先のホテル・デュ・パルク・ハノイ",
+   "place": "ホテル・デュ・パルク・ハノイ",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "ベトナム・ハノイ訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

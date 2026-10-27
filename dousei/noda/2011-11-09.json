@@ -1,0 +1,313 @@
+{
+ "date": "2011-11-09",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.11.09",
+ "work_min": 842,
+ "residence_min": 598,
+ "meetings": 13,
+ "first_work": "07:20",
+ "events": [
+  {
+   "time": "07:20",
+   "label": "手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:59",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:47",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:48",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:49",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "14:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:44",
+   "label": "長島首相補佐官、西宮外務審議官、岡田経産審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:18",
+   "label": "別所外務審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:29",
+   "label": "長島、水岡両首相補佐官加わる",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:32",
+   "label": "斎藤官房副長官加わる",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:51",
+   "label": "全員出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:55",
+   "label": "斎藤副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:11",
+   "label": "蓮舫行政刷新相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:27",
+   "label": "蓮舫氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:15",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:32",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:33",
+   "label": "手塚補佐官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:11",
+   "label": "手塚氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 440
+  },
+  {
+   "start": "07:20",
+   "end": "07:59",
+   "category": "面会・会談",
+   "label": "手塚首相補佐官",
+   "minutes": 39
+  },
+  {
+   "start": "07:59",
+   "end": "08:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 48
+  },
+  {
+   "start": "08:47",
+   "end": "08:48",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:59",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 186
+  },
+  {
+   "start": "12:05",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "12:51",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:00",
+   "end": "14:05",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 65
+  },
+  {
+   "start": "14:05",
+   "end": "15:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 99
+  },
+  {
+   "start": "15:44",
+   "end": "16:18",
+   "category": "面会・会談",
+   "label": "長島首相補佐官、西宮外務審議官、岡田経産審議官",
+   "minutes": 34
+  },
+  {
+   "start": "16:18",
+   "end": "16:29",
+   "category": "面会・会談",
+   "label": "別所外務審議官",
+   "minutes": 11
+  },
+  {
+   "start": "16:29",
+   "end": "16:32",
+   "category": "面会・会談",
+   "label": "長島、水岡両首相補佐官加わる",
+   "minutes": 3
+  },
+  {
+   "start": "16:32",
+   "end": "16:51",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官加わる",
+   "minutes": 19
+  },
+  {
+   "start": "16:51",
+   "end": "16:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:55",
+   "end": "17:11",
+   "category": "面会・会談",
+   "label": "斎藤副長官",
+   "minutes": 16
+  },
+  {
+   "start": "17:11",
+   "end": "17:27",
+   "category": "面会・会談",
+   "label": "蓮舫行政刷新相",
+   "minutes": 16
+  },
+  {
+   "start": "17:27",
+   "end": "19:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 108
+  },
+  {
+   "start": "19:15",
+   "end": "19:32",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 17
+  },
+  {
+   "start": "19:32",
+   "end": "19:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "19:33",
+   "end": "22:11",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 158
+  },
+  {
+   "start": "22:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 109
+  }
+ ],
+ "alloc_min": {
+  "居所": 598,
+  "面会・会談": 313,
+  "移動": 1,
+  "公務（内容未詳）": 277,
+  "国会": 251
+ }
+}

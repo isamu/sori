@@ -1,0 +1,220 @@
+{
+ "date": "2026-03-14",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 268,
+ "residence_min": 1172,
+ "meetings": 2,
+ "first_work": "09:17",
+ "events": [
+  {
+   "time": "09:17",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:18",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:24",
+   "label": "陸上自衛隊ヘリコプター",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:53",
+   "label": "小泉進次郎防衛相、久保文明防大学校長ら",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:03",
+   "label": "久保氏",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:11",
+   "label": "防大卒業式",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:19",
+   "label": "任命・宣誓式",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:38",
+   "label": "陸上自衛隊ヘリコプター",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:02",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:19",
+   "label": "日本商工会議所の通常会員総会向けなどのビデオメッセージ収録",
+   "place": "公邸",
+   "category": "官邸執務"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 557
+  },
+  {
+   "start": "09:17",
+   "end": "09:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "09:24",
+   "end": "09:42",
+   "category": "移動",
+   "label": "陸上自衛隊ヘリコプター",
+   "minutes": 18
+  },
+  {
+   "start": "09:42",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "09:53",
+   "end": "10:02",
+   "category": "面会・会談",
+   "label": "小泉進次郎防衛相、久保文明防大学校長ら",
+   "minutes": 9
+  },
+  {
+   "start": "10:02",
+   "end": "10:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:03",
+   "end": "10:07",
+   "category": "面会・会談",
+   "label": "久保氏",
+   "minutes": 4
+  },
+  {
+   "start": "10:07",
+   "end": "10:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:11",
+   "end": "11:39",
+   "category": "式典・行事",
+   "label": "防大卒業式",
+   "minutes": 88
+  },
+  {
+   "start": "11:39",
+   "end": "12:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "12:19",
+   "end": "12:27",
+   "category": "式典・行事",
+   "label": "任命・宣誓式",
+   "minutes": 8
+  },
+  {
+   "start": "12:27",
+   "end": "12:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "12:38",
+   "end": "12:58",
+   "category": "移動",
+   "label": "陸上自衛隊ヘリコプター",
+   "minutes": 20
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "13:02",
+   "end": "13:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:03",
+   "end": "13:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "13:19",
+   "end": "13:45",
+   "category": "官邸執務",
+   "label": "日本商工会議所の通常会員総会向けなどのビデオメッセージ収録",
+   "minutes": 26
+  },
+  {
+   "start": "13:45",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 615
+  }
+ ],
+ "alloc_min": {
+  "居所": 1172,
+  "移動": 40,
+  "官邸執務": 36,
+  "公務（内容未詳）": 83,
+  "面会・会談": 13,
+  "式典・行事": 96
+ }
+}

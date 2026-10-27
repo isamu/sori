@@ -1,0 +1,315 @@
+{
+ "date": "2026-04-14",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 627,
+ "residence_min": 813,
+ "meetings": 5,
+ "first_work": "08:10",
+ "events": [
+  {
+   "time": "08:10",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:20",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:29",
+   "label": "片山さつき財務相 木原稔官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:31",
+   "label": "小泉進次郎防衛相 木原稔官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:48",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "16:00",
+   "label": "オマーンのハイサム国王と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:45",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:09",
+   "label": "市川恵一国家安全保障局長 原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:23",
+   "label": "原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:51",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "17:59",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 490
+  },
+  {
+   "start": "08:10",
+   "end": "08:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:12",
+   "end": "08:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:20",
+   "end": "08:26",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 6
+  },
+  {
+   "start": "08:26",
+   "end": "08:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:29",
+   "end": "08:30",
+   "category": "面会・会談",
+   "label": "片山さつき財務相 木原稔官房長官",
+   "minutes": 1
+  },
+  {
+   "start": "08:30",
+   "end": "08:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:31",
+   "end": "08:32",
+   "category": "面会・会談",
+   "label": "小泉進次郎防衛相 木原稔官房長官",
+   "minutes": 1
+  },
+  {
+   "start": "08:32",
+   "end": "12:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 258
+  },
+  {
+   "start": "12:50",
+   "end": "12:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:02",
+   "end": "14:26",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 84
+  },
+  {
+   "start": "14:26",
+   "end": "14:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "14:48",
+   "end": "14:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:50",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 70
+  },
+  {
+   "start": "16:00",
+   "end": "16:20",
+   "category": "面会・会談",
+   "label": "オマーンのハイサム国王と電話会談",
+   "minutes": 20
+  },
+  {
+   "start": "16:20",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "16:45",
+   "end": "16:50",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 5
+  },
+  {
+   "start": "16:50",
+   "end": "17:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "17:09",
+   "end": "17:22",
+   "category": "面会・会談",
+   "label": "市川恵一国家安全保障局長 原和也内閣情報官",
+   "minutes": 13
+  },
+  {
+   "start": "17:22",
+   "end": "17:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:23",
+   "end": "17:35",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 12
+  },
+  {
+   "start": "17:35",
+   "end": "17:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "17:51",
+   "end": "17:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:52",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "17:59",
+   "end": "18:37",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 38
+  },
+  {
+   "start": "18:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 323
+  }
+ ],
+ "alloc_min": {
+  "居所": 813,
+  "移動": 6,
+  "公務（内容未詳）": 434,
+  "官邸執務": 44,
+  "面会・会談": 47,
+  "国会": 91,
+  "取材・会見": 5
+ }
+}

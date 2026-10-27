@@ -1,0 +1,295 @@
+{
+ "date": "2011-11-11",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.11.11",
+ "work_min": 912,
+ "residence_min": 528,
+ "meetings": 7,
+ "first_work": "06:04",
+ "events": [
+  {
+   "time": "06:04",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:33",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:41",
+   "label": "長浜氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:47",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:49",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "07:52",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:27",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:37",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:39",
+   "label": "鹿野農水相、民主党の輿石幹事長",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "16:47",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:51",
+   "label": "政府・民主三役会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:12",
+   "label": "同会議終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "18:02",
+   "label": "行政刷新会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:18",
+   "label": "包括的経済連携に関する閣僚委員会",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "20:00",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:21",
+   "label": "藤村官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:46",
+   "label": "キッシンジャー元米国務長官。日枝久フジテレビ会長ら同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:06",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:22",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 364
+  },
+  {
+   "start": "06:04",
+   "end": "07:41",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 97
+  },
+  {
+   "start": "07:41",
+   "end": "07:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 6
+  },
+  {
+   "start": "07:47",
+   "end": "07:49",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "07:49",
+   "end": "07:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "07:52",
+   "end": "08:27",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 35
+  },
+  {
+   "start": "08:27",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 218
+  },
+  {
+   "start": "12:05",
+   "end": "12:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "12:37",
+   "end": "12:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:39",
+   "end": "13:00",
+   "category": "面会・会談",
+   "label": "鹿野農水相、民主党の輿石幹事長",
+   "minutes": 21
+  },
+  {
+   "start": "13:00",
+   "end": "16:47",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 227
+  },
+  {
+   "start": "16:47",
+   "end": "16:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:51",
+   "end": "17:12",
+   "category": "官邸執務",
+   "label": "政府・民主三役会議",
+   "minutes": 21
+  },
+  {
+   "start": "17:12",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "18:02",
+   "end": "19:18",
+   "category": "官邸執務",
+   "label": "行政刷新会議",
+   "minutes": 76
+  },
+  {
+   "start": "19:18",
+   "end": "20:00",
+   "category": "官邸執務",
+   "label": "包括的経済連携に関する閣僚委員会",
+   "minutes": 42
+  },
+  {
+   "start": "20:00",
+   "end": "20:21",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 21
+  },
+  {
+   "start": "20:21",
+   "end": "20:46",
+   "category": "面会・会談",
+   "label": "藤村官房長官",
+   "minutes": 25
+  },
+  {
+   "start": "20:46",
+   "end": "21:06",
+   "category": "面会・会談",
+   "label": "キッシンジャー元米国務長官。日枝久フジテレビ会長ら同席",
+   "minutes": 20
+  },
+  {
+   "start": "21:06",
+   "end": "21:22",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 16
+  },
+  {
+   "start": "21:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 158
+  }
+ ],
+ "alloc_min": {
+  "居所": 528,
+  "面会・会談": 179,
+  "移動": 2,
+  "公務（内容未詳）": 91,
+  "官邸執務": 174,
+  "国会": 445,
+  "取材・会見": 21
+ }
+}

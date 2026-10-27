@@ -1,0 +1,236 @@
+{
+ "date": "2020-11-23",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 554,
+ "residence_min": 886,
+ "meetings": 0,
+ "first_work": "08:51",
+ "events": [
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "「Ｇ１経営者会議」に出席し、講演、討論",
+   "place": "東京・二番町 住友不動産麹町ビル",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:58",
+   "label": "移動",
+   "place": "東京・二番町 住友不動産麹町ビル",
+   "category": "移動"
+  },
+  {
+   "time": "10:10",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "12:01",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "12:03",
+   "label": "同ホテル内の中国料理店「星ケ岡」で秘書官と昼食",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "12:48",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "関東８都県の同党都県連役員とテレビ電話で意見交換",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:44",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "14:47",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "15:14",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "15:19",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "17:23",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "17:33",
+   "label": "新嘗祭神嘉殿の儀に参列",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:58",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 531
+  },
+  {
+   "start": "08:51",
+   "end": "08:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "08:59",
+   "end": "09:58",
+   "category": "式典・行事",
+   "label": "「Ｇ１経営者会議」に出席し、講演、討論",
+   "minutes": 59
+  },
+  {
+   "start": "09:58",
+   "end": "10:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 111
+  },
+  {
+   "start": "12:01",
+   "end": "12:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:03",
+   "end": "12:48",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「星ケ岡」で秘書官と昼食",
+   "minutes": 45
+  },
+  {
+   "start": "12:48",
+   "end": "12:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:52",
+   "end": "14:44",
+   "category": "取材・会見",
+   "label": "関東８都県の同党都県連役員とテレビ電話で意見交換",
+   "minutes": 112
+  },
+  {
+   "start": "14:44",
+   "end": "14:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 27
+  },
+  {
+   "start": "15:14",
+   "end": "15:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "15:19",
+   "end": "17:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 124
+  },
+  {
+   "start": "17:23",
+   "end": "17:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "17:33",
+   "end": "19:58",
+   "category": "式典・行事",
+   "label": "新嘗祭神嘉殿の儀に参列",
+   "minutes": 145
+  },
+  {
+   "start": "19:58",
+   "end": "20:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "20:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 231
+  }
+ ],
+ "alloc_min": {
+  "居所": 886,
+  "移動": 55,
+  "式典・行事": 204,
+  "公務（内容未詳）": 138,
+  "会食": 45,
+  "取材・会見": 112
+ }
+}

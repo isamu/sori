@@ -1,0 +1,190 @@
+{
+ "date": "2011-12-27",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.12.27",
+ "work_min": 1014,
+ "residence_min": 426,
+ "meetings": 2,
+ "first_work": "07:06",
+ "events": [
+  {
+   "time": "07:06",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:07",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:15",
+   "label": "拉致問題対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "07:31",
+   "label": "安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "07:56",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:19",
+   "label": "中央防災会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:12",
+   "label": "政府・民主三役会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:24",
+   "label": "藤村官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:32",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:56",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:23",
+   "label": "日インド首脳会談のため政府専用機でインドに向け出発",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間27日）午後、デリーのパラム空軍基地着",
+   "place": "パラム空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "タージ・パレスホテルで日印グローバル・パートナーシップ・サミット2011の関係者と懇談",
+   "place": "パラム空軍基地",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日本大使公邸で在留邦人と懇親会",
+   "place": "パラム空軍基地",
+   "category": "党務"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 426
+  },
+  {
+   "start": "07:06",
+   "end": "07:07",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "07:07",
+   "end": "07:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "07:15",
+   "end": "07:31",
+   "category": "官邸執務",
+   "label": "拉致問題対策本部",
+   "minutes": 16
+  },
+  {
+   "start": "07:31",
+   "end": "07:56",
+   "category": "官邸執務",
+   "label": "安全保障会議",
+   "minutes": 25
+  },
+  {
+   "start": "07:56",
+   "end": "08:19",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 23
+  },
+  {
+   "start": "08:19",
+   "end": "09:12",
+   "category": "官邸執務",
+   "label": "中央防災会議",
+   "minutes": 53
+  },
+  {
+   "start": "09:12",
+   "end": "10:24",
+   "category": "官邸執務",
+   "label": "政府・民主三役会議",
+   "minutes": 72
+  },
+  {
+   "start": "10:24",
+   "end": "10:32",
+   "category": "面会・会談",
+   "label": "藤村官房長官",
+   "minutes": 8
+  },
+  {
+   "start": "10:32",
+   "end": "10:56",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 24
+  },
+  {
+   "start": "10:56",
+   "end": "11:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "11:23",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊（出国日）",
+   "minutes": 757
+  }
+ ],
+ "alloc_min": {
+  "居所": 426,
+  "移動": 1,
+  "公務（内容未詳）": 35,
+  "官邸執務": 189,
+  "面会・会談": 8,
+  "取材・会見": 24,
+  "外遊": 757
+ }
+}

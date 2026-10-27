@@ -1,0 +1,91 @@
+{
+ "date": "2025-10-25",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 704,
+ "residence_min": 736,
+ "meetings": 1,
+ "first_work": "12:16",
+ "events": [
+  {
+   "time": "12:16",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「インターコンチネンタル・クアラルンプール」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "ホテル「インターコンチネンタル・クアラルンプール」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "トランプ米大統領と電話会談",
+   "place": "ホテル「インターコンチネンタル・クアラルンプール」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "マレーシアのクアラルンプール国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 736
+  },
+  {
+   "start": "12:16",
+   "end": "12:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "12:37",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "12:55",
+   "end": "12:58",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "12:58",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 662
+  }
+ ],
+ "alloc_min": {
+  "居所": 736,
+  "移動": 21,
+  "公務（内容未詳）": 18,
+  "取材・会見": 3,
+  "外遊": 662
+ }
+}

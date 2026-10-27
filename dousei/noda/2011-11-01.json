@@ -1,0 +1,269 @@
+{
+ "date": "2011-11-01",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.11.01",
+ "work_min": 802,
+ "residence_min": 638,
+ "meetings": 8,
+ "first_work": "06:30",
+ "events": [
+  {
+   "time": "06:30",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:24",
+   "label": "長浜氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:36",
+   "label": "手塚氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:06",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:07",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:17",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:32",
+   "label": "藤村官房長官",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:51",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:48",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:17",
+   "label": "手塚、末松両首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:37",
+   "label": "稲盛和夫内閣特別顧問。長浜副長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:54",
+   "label": "両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:57",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "民主党の平野国対委員長ら国対役員との懇親会",
+   "place": "公邸",
+   "category": "党務"
+  },
+  {
+   "time": "20:30",
+   "label": "懇親会終了",
+   "place": "公邸",
+   "category": "党務"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 390
+  },
+  {
+   "start": "06:30",
+   "end": "08:36",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 126
+  },
+  {
+   "start": "08:36",
+   "end": "09:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 30
+  },
+  {
+   "start": "09:06",
+   "end": "09:07",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:07",
+   "end": "09:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "09:17",
+   "end": "09:32",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 15
+  },
+  {
+   "start": "09:32",
+   "end": "10:01",
+   "category": "面会・会談",
+   "label": "藤村官房長官",
+   "minutes": 29
+  },
+  {
+   "start": "10:01",
+   "end": "11:51",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 110
+  },
+  {
+   "start": "11:51",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "12:58",
+   "end": "13:48",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 50
+  },
+  {
+   "start": "13:48",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "14:02",
+   "end": "17:14",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 192
+  },
+  {
+   "start": "17:14",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:17",
+   "end": "17:37",
+   "category": "面会・会談",
+   "label": "手塚、末松両首相補佐官",
+   "minutes": 20
+  },
+  {
+   "start": "17:37",
+   "end": "17:54",
+   "category": "面会・会談",
+   "label": "稲盛和夫内閣特別顧問。長浜副長官同席",
+   "minutes": 17
+  },
+  {
+   "start": "17:54",
+   "end": "18:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "18:57",
+   "end": "19:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 8
+  },
+  {
+   "start": "19:05",
+   "end": "20:30",
+   "category": "党務",
+   "label": "民主党の平野国対委員長ら国対役員との懇親会",
+   "minutes": 85
+  },
+  {
+   "start": "20:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 210
+  }
+ ],
+ "alloc_min": {
+  "居所": 638,
+  "面会・会談": 242,
+  "移動": 1,
+  "公務（内容未詳）": 157,
+  "官邸執務": 15,
+  "国会": 302,
+  "党務": 85
+ }
+}

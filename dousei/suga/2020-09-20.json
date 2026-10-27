@@ -1,0 +1,273 @@
+{
+ "date": "2020-09-20",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 302,
+ "residence_min": 1086,
+ "meetings": 3,
+ "first_work": "11:56",
+ "events": [
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:56",
+   "label": "同ホテル内のレストラン「オーキッド」で村井純慶応大教授と会食",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "会食"
+  },
+  {
+   "time": "14:30",
+   "label": "ジャーナリストの田原総一朗",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": "15:02",
+   "label": "高橋洋一嘉悦大教授",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": "16:47",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": "16:51",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "18:57",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "19:01",
+   "label": "北村滋国家安全保障局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:54",
+   "label": "オーストラリアのモリソン首相と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:35",
+   "label": "トランプ米大統領と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:09",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:12",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 716
+  },
+  {
+   "start": "11:56",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:00",
+   "end": "12:52",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 52
+  },
+  {
+   "start": "12:52",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:56",
+   "end": "14:30",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「オーキッド」で村井純慶応大教授と会食",
+   "minutes": 94
+  },
+  {
+   "start": "14:30",
+   "end": "14:58",
+   "category": "移動",
+   "label": "ジャーナリストの田原総一朗",
+   "minutes": 28
+  },
+  {
+   "start": "14:58",
+   "end": "15:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:02",
+   "end": "15:41",
+   "category": "移動",
+   "label": "高橋洋一嘉悦大教授",
+   "minutes": 39
+  },
+  {
+   "start": "15:41",
+   "end": "16:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 66
+  },
+  {
+   "start": "16:47",
+   "end": "16:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "16:51",
+   "end": "18:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 126
+  },
+  {
+   "start": "18:57",
+   "end": "19:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "19:00",
+   "end": "19:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:01",
+   "end": "19:05",
+   "category": "面会・会談",
+   "label": "北村滋国家安全保障局長",
+   "minutes": 4
+  },
+  {
+   "start": "19:05",
+   "end": "19:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 49
+  },
+  {
+   "start": "19:54",
+   "end": "20:16",
+   "category": "面会・会談",
+   "label": "オーストラリアのモリソン首相と電話会談",
+   "minutes": 22
+  },
+  {
+   "start": "20:16",
+   "end": "21:35",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 79
+  },
+  {
+   "start": "21:35",
+   "end": "21:58",
+   "category": "面会・会談",
+   "label": "トランプ米大統領と電話会談",
+   "minutes": 23
+  },
+  {
+   "start": "21:58",
+   "end": "22:09",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 11
+  },
+  {
+   "start": "22:09",
+   "end": "22:11",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "22:11",
+   "end": "22:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "22:12",
+   "end": "22:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "22:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 104
+  }
+ ],
+ "alloc_min": {
+  "居所": 1086,
+  "移動": 86,
+  "個人": 52,
+  "会食": 94,
+  "公務（内容未詳）": 71,
+  "面会・会談": 49,
+  "取材・会見": 2
+ }
+}

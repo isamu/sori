@@ -1,0 +1,320 @@
+{
+ "date": "2012-03-14",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.03.14",
+ "work_min": 869,
+ "residence_min": 571,
+ "meetings": 12,
+ "first_work": "08:02",
+ "events": [
+  {
+   "time": "08:02",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:03",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:05",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:35",
+   "label": "両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:47",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:49",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:12",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:14",
+   "label": "民主党の原口一博衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "男女共同参画会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:07",
+   "label": "玄葉外相、田中防衛相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:18",
+   "label": "玄葉氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:21",
+   "label": "田中氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:22",
+   "label": "北村内閣情報官、椋木内閣衛星情報センター所長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:26",
+   "label": "椋木氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:43",
+   "label": "北村氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:50",
+   "label": "福島県富岡町の遠藤勝也町長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:02",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:22",
+   "label": "手塚氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:02",
+   "label": "東京・麻布十番の日本料理店「有栖川食堂」",
+   "place": "麻布十番",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "手塚補佐官、民主党の橋本博明衆院議員らと食事",
+   "place": "麻布十番",
+   "category": "会食"
+  },
+  {
+   "time": "22:31",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 482
+  },
+  {
+   "start": "08:02",
+   "end": "08:03",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "08:03",
+   "end": "08:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:05",
+   "end": "09:35",
+   "category": "面会・会談",
+   "label": "長浜官房副長官、手塚首相補佐官",
+   "minutes": 90
+  },
+  {
+   "start": "09:35",
+   "end": "09:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "09:47",
+   "end": "09:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:55",
+   "end": "12:00",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 125
+  },
+  {
+   "start": "12:00",
+   "end": "12:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "12:49",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "13:00",
+   "end": "17:12",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 252
+  },
+  {
+   "start": "17:12",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:14",
+   "end": "18:02",
+   "category": "面会・会談",
+   "label": "民主党の原口一博衆院議員",
+   "minutes": 48
+  },
+  {
+   "start": "18:02",
+   "end": "18:07",
+   "category": "官邸執務",
+   "label": "男女共同参画会議",
+   "minutes": 5
+  },
+  {
+   "start": "18:07",
+   "end": "18:21",
+   "category": "面会・会談",
+   "label": "玄葉外相、田中防衛相",
+   "minutes": 14
+  },
+  {
+   "start": "18:21",
+   "end": "18:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:22",
+   "end": "18:43",
+   "category": "面会・会談",
+   "label": "北村内閣情報官、椋木内閣衛星情報センター所長",
+   "minutes": 21
+  },
+  {
+   "start": "18:43",
+   "end": "18:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "18:50",
+   "end": "19:02",
+   "category": "面会・会談",
+   "label": "福島県富岡町の遠藤勝也町長",
+   "minutes": 12
+  },
+  {
+   "start": "19:02",
+   "end": "20:22",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 80
+  },
+  {
+   "start": "20:22",
+   "end": "21:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "21:02",
+   "end": "22:31",
+   "category": "会食",
+   "label": "手塚補佐官、民主党の橋本博明衆院議員らと食事",
+   "minutes": 89
+  },
+  {
+   "start": "22:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 89
+  }
+ ],
+ "alloc_min": {
+  "居所": 571,
+  "移動": 1,
+  "公務（内容未詳）": 132,
+  "面会・会談": 265,
+  "国会": 377,
+  "官邸執務": 5,
+  "会食": 89
+ }
+}

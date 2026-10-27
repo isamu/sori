@@ -1,0 +1,356 @@
+{
+ "date": "2026-03-18",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 849,
+ "residence_min": 591,
+ "meetings": 2,
+ "first_work": "09:50",
+ "events": [
+  {
+   "time": "09:50",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "12:02",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "大統領迎賓館ブレアハウス",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "米ワシントン郊外のアンドルーズ空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:18",
+   "label": "藤川政人参院予算委員長",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:20",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:44",
+   "label": "シンガポールのローレンス・ウォン首相を出迎え",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:45",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:55",
+   "label": "ウォン氏と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:11",
+   "label": "ウォン首相とワーキングディナー",
+   "place": "官邸",
+   "category": "会食"
+  },
+  {
+   "time": "19:08",
+   "label": "ウォン氏を見送り",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:10",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:22",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:26",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:50",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 590
+  },
+  {
+   "start": "09:50",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:52",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "10:00",
+   "end": "11:59",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 119
+  },
+  {
+   "start": "11:59",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:02",
+   "end": "12:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 47
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:53",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "16:16",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 196
+  },
+  {
+   "start": "16:16",
+   "end": "16:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:18",
+   "end": "16:19",
+   "category": "面会・会談",
+   "label": "藤川政人参院予算委員長",
+   "minutes": 1
+  },
+  {
+   "start": "16:19",
+   "end": "16:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:20",
+   "end": "16:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:21",
+   "end": "17:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 83
+  },
+  {
+   "start": "17:44",
+   "end": "17:45",
+   "category": "式典・行事",
+   "label": "シンガポールのローレンス・ウォン首相を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "17:45",
+   "end": "17:51",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 6
+  },
+  {
+   "start": "17:51",
+   "end": "17:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:55",
+   "end": "18:09",
+   "category": "面会・会談",
+   "label": "ウォン氏と首脳会談",
+   "minutes": 14
+  },
+  {
+   "start": "18:09",
+   "end": "18:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:11",
+   "end": "19:07",
+   "category": "会食",
+   "label": "ウォン首相とワーキングディナー",
+   "minutes": 56
+  },
+  {
+   "start": "19:07",
+   "end": "19:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:08",
+   "end": "19:09",
+   "category": "官邸執務",
+   "label": "ウォン氏を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "19:09",
+   "end": "19:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:10",
+   "end": "19:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:11",
+   "end": "21:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 131
+  },
+  {
+   "start": "21:22",
+   "end": "21:25",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "21:25",
+   "end": "21:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "21:26",
+   "end": "21:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "21:50",
+   "end": "22:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "22:12",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 108
+  }
+ ],
+ "alloc_min": {
+  "居所": 591,
+  "移動": 54,
+  "公務（内容未詳）": 243,
+  "国会": 315,
+  "官邸執務": 48,
+  "面会・会談": 15,
+  "式典・行事": 7,
+  "会食": 56,
+  "取材・会見": 3,
+  "外遊": 108
+ }
+}

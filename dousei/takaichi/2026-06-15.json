@@ -1,0 +1,77 @@
+{
+ "date": "2026-06-15",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.06.15",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "ホテルで報道各社のインタビュー",
+   "place": "アナンタラ・パラッツォ・ナイアディ・ローマ・ホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ビットリオ・エマヌエーレ２世記念堂で無名戦士の墓に献花",
+   "place": "ビットリオ・エマヌエーレ２世記念堂",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "ドーリア・パンフィーリ宮殿で歓迎式典",
+   "place": "ドーリア・パンフィーリ宮殿",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "メローニ首相と首脳会談少人数会合",
+   "place": "ドーリア・パンフィーリ宮殿",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "メローニ首相と首脳会談拡大会合",
+   "place": "ドーリア・パンフィーリ宮殿",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "ローマ",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ワーキングランチ",
+   "place": "ローマ",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "チャーター機でローマ郊外のレオナルド・ダビンチ国際空港発",
+   "place": "レオナルド・ダビンチ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "スイス・ジュネーブのジュネーブ空港着",
+   "place": "ジュネーブ空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "イタリア・ローマ、スイス・ジュネーブ訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

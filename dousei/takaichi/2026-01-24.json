@@ -1,0 +1,77 @@
+{
+ "date": "2026-01-24",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 130,
+ "residence_min": 1310,
+ "meetings": 0,
+ "first_work": "17:25",
+ "events": [
+  {
+   "time": "17:25",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:45",
+   "label": "動画配信サイト「ニコニコ生放送」の党首討論会に出演",
+   "place": "東京・銀座 歌舞伎座タワー",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:24",
+   "label": "移動",
+   "place": "東京・銀座 歌舞伎座タワー",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1045
+  },
+  {
+   "start": "17:25",
+   "end": "17:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "17:45",
+   "end": "19:24",
+   "category": "取材・会見",
+   "label": "動画配信サイト「ニコニコ生放送」の党首討論会に出演",
+   "minutes": 99
+  },
+  {
+   "start": "19:24",
+   "end": "19:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "19:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 265
+  }
+ ],
+ "alloc_min": {
+  "居所": 1310,
+  "移動": 31,
+  "取材・会見": 99
+ }
+}

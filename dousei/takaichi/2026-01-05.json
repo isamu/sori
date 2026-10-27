@@ -1,0 +1,370 @@
+{
+ "date": "2026-01-05",
+ "pm": "高市早苗",
+ "source": null,
+ "work_min": 656,
+ "residence_min": 784,
+ "meetings": 1,
+ "first_work": "08:37",
+ "events": [
+  {
+   "time": "08:37",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:50",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "10:39",
+   "label": "ＪＲ名古屋駅着",
+   "place": "ＪＲ名古屋駅着",
+   "category": "移動"
+  },
+  {
+   "time": "10:40",
+   "label": "移動",
+   "place": "ＪＲ名古屋駅着",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "近鉄名古屋駅",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:50",
+   "label": "近鉄特急",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:13",
+   "label": "同県の一見勝之知事、田村憲久自民党県連会長ら出迎え",
+   "place": "三重県伊勢市 近鉄宇治山田駅",
+   "category": "党務"
+  },
+  {
+   "time": "12:17",
+   "label": "移動",
+   "place": "三重県伊勢市 近鉄宇治山田駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:20",
+   "label": "林芳正総務相ら閣僚と参拝",
+   "place": "同市 伊勢神宮外宮",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:46",
+   "label": "移動",
+   "place": "同市 伊勢神宮外宮",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "参拝",
+   "place": "伊勢神宮内宮",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:22",
+   "label": "内宮内の神楽殿で神楽奉納",
+   "place": "伊勢神宮内宮",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:56",
+   "label": "内宮内の神宮司庁前でボーイスカウト日本連盟伊勢第７団、ガールスカウト日本連盟三重県第１団から花束贈呈。記念撮影",
+   "place": "伊勢神宮内宮",
+   "category": "移動"
+  },
+  {
+   "time": "14:30",
+   "label": "年頭記者会見",
+   "place": "神宮司庁",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:31",
+   "label": "移動",
+   "place": "神宮司庁",
+   "category": "移動"
+  },
+  {
+   "time": "15:40",
+   "label": "一見知事、田村同党県連会長ら見送り",
+   "place": "三重県伊勢市 近鉄宇治山田駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:53",
+   "label": "近鉄特急",
+   "place": "三重県伊勢市 近鉄宇治山田駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:18",
+   "label": "近鉄名古屋駅",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:19",
+   "label": "移動",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:23",
+   "label": "大村秀章愛知県知事",
+   "place": "ＪＲ名古屋駅",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:15",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "19:21",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:37",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 517
+  },
+  {
+   "start": "08:37",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "08:50",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "09:00",
+   "end": "10:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 99
+  },
+  {
+   "start": "10:39",
+   "end": "10:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "10:40",
+   "end": "10:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "10:45",
+   "end": "10:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "10:50",
+   "end": "12:13",
+   "category": "移動",
+   "label": "近鉄特急",
+   "minutes": 83
+  },
+  {
+   "start": "12:13",
+   "end": "12:17",
+   "category": "党務",
+   "label": "同県の一見勝之知事、田村憲久自民党県連会長ら出迎え",
+   "minutes": 4
+  },
+  {
+   "start": "12:17",
+   "end": "12:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:20",
+   "end": "12:46",
+   "category": "式典・行事",
+   "label": "林芳正総務相ら閣僚と参拝",
+   "minutes": 26
+  },
+  {
+   "start": "12:46",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "12:53",
+   "end": "13:22",
+   "category": "式典・行事",
+   "label": "参拝",
+   "minutes": 29
+  },
+  {
+   "start": "13:22",
+   "end": "13:50",
+   "category": "式典・行事",
+   "label": "内宮内の神楽殿で神楽奉納",
+   "minutes": 28
+  },
+  {
+   "start": "13:50",
+   "end": "13:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:56",
+   "end": "14:00",
+   "category": "移動",
+   "label": "内宮内の神宮司庁前でボーイスカウト日本連盟伊勢第７団、ガールスカウト日本連盟三重県第１団から花束贈呈。記念撮影",
+   "minutes": 4
+  },
+  {
+   "start": "14:00",
+   "end": "14:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "14:30",
+   "end": "15:03",
+   "category": "取材・会見",
+   "label": "年頭記者会見",
+   "minutes": 33
+  },
+  {
+   "start": "15:03",
+   "end": "15:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "15:31",
+   "end": "15:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:40",
+   "end": "15:53",
+   "category": "移動",
+   "label": "一見知事、田村同党県連会長ら見送り",
+   "minutes": 13
+  },
+  {
+   "start": "15:53",
+   "end": "17:18",
+   "category": "移動",
+   "label": "近鉄特急",
+   "minutes": 85
+  },
+  {
+   "start": "17:18",
+   "end": "17:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:19",
+   "end": "17:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:22",
+   "end": "17:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:23",
+   "end": "17:30",
+   "category": "面会・会談",
+   "label": "大村秀章愛知県知事",
+   "minutes": 7
+  },
+  {
+   "start": "17:30",
+   "end": "19:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 105
+  },
+  {
+   "start": "19:15",
+   "end": "19:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "19:21",
+   "end": "19:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "19:33",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 267
+  }
+ ],
+ "alloc_min": {
+  "居所": 784,
+  "移動": 244,
+  "公務（内容未詳）": 285,
+  "党務": 4,
+  "式典・行事": 83,
+  "取材・会見": 33,
+  "面会・会談": 7
+ }
+}

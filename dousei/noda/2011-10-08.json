@@ -1,0 +1,97 @@
+{
+ "date": "2011-10-08",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.10.08",
+ "work_min": 106,
+ "residence_min": 1334,
+ "meetings": 2,
+ "first_work": "14:40",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:40",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:41",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "拉致被害者家族会の飯塚繁雄代表ら。藤村官房長官、山岡拉致問題相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:01",
+   "label": "全員出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:26",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 880
+  },
+  {
+   "start": "14:40",
+   "end": "14:41",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "14:41",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "15:00",
+   "end": "16:01",
+   "category": "面会・会談",
+   "label": "拉致被害者家族会の飯塚繁雄代表ら。藤村官房長官、山岡拉致問題相同席",
+   "minutes": 61
+  },
+  {
+   "start": "16:01",
+   "end": "16:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "16:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 454
+  }
+ ],
+ "alloc_min": {
+  "居所": 1334,
+  "移動": 1,
+  "公務（内容未詳）": 44,
+  "面会・会談": 61
+ }
+}

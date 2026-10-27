@@ -1,0 +1,172 @@
+{
+ "date": "2026-07-14",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.07.14",
+ "work_min": 692,
+ "residence_min": 748,
+ "meetings": 1,
+ "first_work": "08:10",
+ "events": [
+  {
+   "time": "08:10",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:11",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:20",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:33",
+   "label": "中央防災会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:10",
+   "label": "小川哲也北海道アイヌ協会理事長と面会。黄川田仁志沖縄・北方担当相同席。",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:45",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:53",
+   "label": "東京・六本木のＴＳビル着",
+   "place": "TSビル（東京・六本木）",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同ビル内の「ＹＡＫＩＴＯＲＩ燃本店」で黄川田沖縄・北方担当相らと会食",
+   "place": "YAKITORI燃本店（東京・六本木）",
+   "category": "会食"
+  },
+  {
+   "time": "19:36",
+   "label": "ＴＳビル発",
+   "place": "TSビル（東京・六本木）",
+   "category": "移動"
+  },
+  {
+   "time": "19:42",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 490
+  },
+  {
+   "start": "08:10",
+   "end": "08:11",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "08:11",
+   "end": "08:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:20",
+   "end": "08:30",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 10
+  },
+  {
+   "start": "08:30",
+   "end": "08:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:33",
+   "end": "08:48",
+   "category": "官邸執務",
+   "label": "中央防災会議",
+   "minutes": 15
+  },
+  {
+   "start": "08:48",
+   "end": "14:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 322
+  },
+  {
+   "start": "14:10",
+   "end": "14:25",
+   "category": "面会・会談",
+   "label": "小川哲也北海道アイヌ協会理事長と面会。黄川田仁志沖縄・北方担当相同席。",
+   "minutes": 15
+  },
+  {
+   "start": "14:25",
+   "end": "18:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 260
+  },
+  {
+   "start": "18:45",
+   "end": "18:53",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 8
+  },
+  {
+   "start": "18:53",
+   "end": "19:36",
+   "category": "会食",
+   "label": "同ビル内の「ＹＡＫＩＴＯＲＩ燃本店」で黄川田沖縄・北方担当相らと会食",
+   "minutes": 43
+  },
+  {
+   "start": "19:36",
+   "end": "19:42",
+   "category": "移動",
+   "label": "ＴＳビル発",
+   "minutes": 6
+  },
+  {
+   "start": "19:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 258
+  }
+ ],
+ "alloc_min": {
+  "居所": 748,
+  "移動": 15,
+  "公務（内容未詳）": 594,
+  "官邸執務": 25,
+  "面会・会談": 15,
+  "会食": 43
+ }
+}

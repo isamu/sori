@@ -1,0 +1,181 @@
+{
+ "date": "2026-05-19",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.05.19",
+ "work_min": 947,
+ "residence_min": 493,
+ "meetings": 2,
+ "first_work": "08:13",
+ "events": [
+  {
+   "time": "08:13",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:14",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:20",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:25",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:29",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "羽田空港着",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:16",
+   "label": "政府専用機で韓国に向け出発（日韓首脳会談のため）",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "韓国南東部の大邱国際空港着",
+   "place": "大邱国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "李在明大統領による出迎え",
+   "place": "スタンフォードホテル安東",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "李在明大統領との首脳会談少人数会合",
+   "place": "スタンフォードホテル安東",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "李在明大統領との首脳会談拡大会合",
+   "place": "スタンフォードホテル安東",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "スタンフォードホテル安東",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "李在明大統領主催夕食会",
+   "place": "楽古斎（安東市内）",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "世界文化遺産「河回マウル」で親睦行事",
+   "place": "河回マウル（安東市）",
+   "category": "外遊"
+  },
+  {
+   "time": null,
+   "label": "宿泊先のスタンフォードホテル安東へ",
+   "place": "スタンフォードホテル安東",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 493
+  },
+  {
+   "start": "08:13",
+   "end": "08:14",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "08:14",
+   "end": "08:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:20",
+   "end": "08:29",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "08:29",
+   "end": "09:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "09:25",
+   "end": "09:28",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "09:28",
+   "end": "09:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:29",
+   "end": "09:54",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 25
+  },
+  {
+   "start": "09:54",
+   "end": "10:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "10:16",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "韓国訪問",
+   "minutes": 824
+  }
+ ],
+ "alloc_min": {
+  "居所": 493,
+  "移動": 26,
+  "公務（内容未詳）": 85,
+  "官邸執務": 9,
+  "取材・会見": 3,
+  "外遊": 824
+ }
+}

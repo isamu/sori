@@ -1,0 +1,282 @@
+{
+ "date": "2026-10-07",
+ "pm": "高市早苗",
+ "source": "朝日新聞社 2026.10.07",
+ "work_min": 692,
+ "residence_min": 748,
+ "meetings": 2,
+ "first_work": "09:53",
+ "events": [
+  {
+   "time": "09:53",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "国会着",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:54",
+   "label": "衆院議長応接室へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院議長応接室を出て、衆院本会議場へ",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議開会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:24",
+   "label": "衆院本会議散会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:26",
+   "label": "国会発",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "15:28",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:45",
+   "label": "古謝玄太沖縄県知事と面会。木原稔官房長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:25",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:36",
+   "label": "東京・芝公園の東京プリンスホテル着",
+   "place": "東京プリンスホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "宴会場「鳳凰の間」で全国商工会連合会の特産品ＰＲイベント「All Japan Specialties Gala 2026」に出席し、あいさつ",
+   "place": "東京プリンスホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:57",
+   "label": "東京プリンスホテル発",
+   "place": "東京プリンスホテル",
+   "category": "移動"
+  },
+  {
+   "time": "18:04",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:21",
+   "label": "ノーベル化学賞受賞が決まった粟津憲三東京理科大名誉教授と電話",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:24",
+   "label": "官邸発",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:25",
+   "label": "公邸着",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 593
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:54",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 178
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:54",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:00",
+   "end": "13:02",
+   "category": "移動",
+   "label": "衆院議長応接室を出て、衆院本会議場へ",
+   "minutes": 2
+  },
+  {
+   "start": "13:02",
+   "end": "15:24",
+   "category": "国会",
+   "label": "衆院本会議開会",
+   "minutes": 142
+  },
+  {
+   "start": "15:24",
+   "end": "15:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:26",
+   "end": "15:28",
+   "category": "移動",
+   "label": "国会発",
+   "minutes": 2
+  },
+  {
+   "start": "15:28",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 77
+  },
+  {
+   "start": "16:45",
+   "end": "16:57",
+   "category": "面会・会談",
+   "label": "古謝玄太沖縄県知事と面会。木原稔官房長官同席",
+   "minutes": 12
+  },
+  {
+   "start": "16:57",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "17:25",
+   "end": "17:36",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 11
+  },
+  {
+   "start": "17:36",
+   "end": "17:57",
+   "category": "式典・行事",
+   "label": "宴会場「鳳凰の間」で全国商工会連合会の特産品ＰＲイベント「All Japan Specialties Gala 2026」に出席し、あいさつ",
+   "minutes": 21
+  },
+  {
+   "start": "17:57",
+   "end": "18:04",
+   "category": "移動",
+   "label": "東京プリンスホテル発",
+   "minutes": 7
+  },
+  {
+   "start": "18:04",
+   "end": "21:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 197
+  },
+  {
+   "start": "21:21",
+   "end": "21:23",
+   "category": "面会・会談",
+   "label": "ノーベル化学賞受賞が決まった粟津憲三東京理科大名誉教授と電話",
+   "minutes": 2
+  },
+  {
+   "start": "21:23",
+   "end": "21:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "21:24",
+   "end": "21:25",
+   "category": "移動",
+   "label": "官邸発",
+   "minutes": 1
+  },
+  {
+   "start": "21:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 155
+  }
+ ],
+ "alloc_min": {
+  "居所": 748,
+  "移動": 25,
+  "公務（内容未詳）": 490,
+  "国会": 142,
+  "面会・会談": 14,
+  "式典・行事": 21
+ }
+}

@@ -1,0 +1,276 @@
+{
+ "date": "2012-02-21",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.02.21",
+ "work_min": 641,
+ "residence_min": 799,
+ "meetings": 9,
+ "first_work": "07:56",
+ "events": [
+  {
+   "time": "07:56",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:58",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:05",
+   "label": "大雪対策に関する関係閣僚会議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:29",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:47",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:09",
+   "label": "両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:31",
+   "label": "直嶋元経産相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:55",
+   "label": "直嶋氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:47",
+   "label": "竹歳官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:57",
+   "label": "竹歳氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:48",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "安住財務相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "16:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:03",
+   "label": "モザンビークのアリ首相。斎藤副長官、柳沢経産副大臣ら同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:29",
+   "label": "官邸玄関でアリ首相を見送り",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:40",
+   "label": "手塚補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:37",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 476
+  },
+  {
+   "start": "07:56",
+   "end": "07:58",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "07:58",
+   "end": "08:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:05",
+   "end": "08:29",
+   "category": "官邸執務",
+   "label": "大雪対策に関する関係閣僚会議",
+   "minutes": 24
+  },
+  {
+   "start": "08:29",
+   "end": "08:47",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 18
+  },
+  {
+   "start": "08:47",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "09:00",
+   "end": "10:09",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、手塚首相補佐官",
+   "minutes": 69
+  },
+  {
+   "start": "10:09",
+   "end": "10:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "10:31",
+   "end": "10:55",
+   "category": "面会・会談",
+   "label": "直嶋元経産相",
+   "minutes": 24
+  },
+  {
+   "start": "10:55",
+   "end": "11:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "11:47",
+   "end": "11:57",
+   "category": "面会・会談",
+   "label": "竹歳官房副長官",
+   "minutes": 10
+  },
+  {
+   "start": "11:57",
+   "end": "12:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "12:48",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:53",
+   "end": "13:02",
+   "category": "面会・会談",
+   "label": "安住財務相",
+   "minutes": 9
+  },
+  {
+   "start": "13:02",
+   "end": "16:00",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 178
+  },
+  {
+   "start": "16:00",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "17:03",
+   "end": "17:29",
+   "category": "面会・会談",
+   "label": "モザンビークのアリ首相。斎藤副長官、柳沢経産副大臣ら同席",
+   "minutes": 26
+  },
+  {
+   "start": "17:29",
+   "end": "17:40",
+   "category": "式典・行事",
+   "label": "官邸玄関でアリ首相を見送り",
+   "minutes": 11
+  },
+  {
+   "start": "17:40",
+   "end": "18:37",
+   "category": "面会・会談",
+   "label": "手塚補佐官",
+   "minutes": 57
+  },
+  {
+   "start": "18:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 323
+  }
+ ],
+ "alloc_min": {
+  "居所": 799,
+  "移動": 2,
+  "公務（内容未詳）": 213,
+  "官邸執務": 42,
+  "面会・会談": 195,
+  "国会": 178,
+  "式典・行事": 11
+ }
+}
