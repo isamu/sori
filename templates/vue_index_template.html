@@ -48,9 +48,12 @@
       <h1 class="text-2xl font-semibold leading-tight text-balance">総理の１年</h1>
       <p class="mt-1 text-[13px] text-muted dark:text-mutedd">データが確認できた 2011/3/11 以降、総理就任からの 1 年のみのデータをそれぞれまとめています。公務 1 時間 = 1 commit。</p>
     </div>
-    <span class="inline-flex items-center gap-[3px] text-xs text-muted dark:text-mutedd">0h
-      <i v-for="lv in [0,1,2,3,4]" :key="'legend-' + lv" class="inline-block size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-black/5 dark:outline-white/5" :class="levelClass[lv]"></i>
-    16h+</span>
+    <span class="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-muted dark:text-mutedd">
+      <span class="inline-flex items-center gap-[3px]">0h
+        <i v-for="lv in [0,1,2,3,4]" :key="'legend-' + lv" class="inline-block size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-black/5 dark:outline-white/5" :class="levelClass[lv]"></i>
+      16h+</span>
+      <span class="inline-flex items-center gap-1.5"><i class="inline-block size-[11px] rounded-[2px] border" :class="rankClass[1]"></i>1 位 <i class="ml-1 inline-block size-[11px] rounded-[2px] border" :class="rankClass[2]"></i>2 位 <span class="ml-1">（365 日分ある総理の中で、値の大きい順）</span></span>
+    </span>
   </header>
 
   <section v-for="pm in pms" :key="pm.id" :id="pm.id" class="mt-6 scroll-mt-4 rounded-md border border-rule p-4 dark:border-ruled">
@@ -82,7 +85,15 @@
       </div>
     </div>
     <div v-else class="rounded-md border border-dashed border-rule px-4 py-6 text-center text-xs text-muted dark:border-ruled dark:text-mutedd">収録なし</div>
-    <p v-if="pm.stats" class="mt-2.5 text-xs text-muted dark:text-mutedd">稼働 {{ pm.stats.worked }} 日 / 休養 {{ pm.stats.rest }} 日 · 最長連続 {{ pm.stats.longest }} 日 · 平日 {{ pm.stats.weekdayAvgH }} h / 土日 {{ pm.stats.weekendAvgH }} h · 最も長い国内の一日 {{ pm.stats.busiestH }} h（{{ fmtDateShort(pm.stats.busiestDate) }}）</p>
+    <div v-if="pm.stats" class="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-5">
+      <div v-for="tile in pm.tiles" :key="pm.id + '-' + tile.id" class="relative min-w-0 rounded-md border px-3 py-2.5" :class="rankClass[tile.rank] || 'border-rule bg-panel dark:border-ruled dark:bg-paneld'">
+        <span v-if="tile.rank" class="absolute top-2 right-2 rounded-full px-1.5 text-[10px] font-semibold" :class="rankBadgeClass[tile.rank]">{{ tile.rank }} 位</span>
+        <div class="mb-1 text-[11px] tracking-wider text-muted dark:text-mutedd">{{ tile.label }}</div>
+        <div class="text-xl leading-tight font-semibold tabular-nums">{{ tile.value }}<small class="ml-0.5 text-xs font-normal text-muted dark:text-mutedd">{{ tile.unit }}</small></div>
+        <div class="mt-0.5 text-[11px] text-muted dark:text-mutedd">{{ tile.note }}</div>
+      </div>
+    </div>
+    <p v-if="pm.stats" class="mt-2.5 text-xs text-muted dark:text-mutedd">平日平均 {{ pm.stats.weekdayAvgH }} h / 土日平均 {{ pm.stats.weekendAvgH }} h · 最も長い国内の一日 {{ pm.stats.busiestH }} h（{{ fmtDateShort(pm.stats.busiestDate) }}）</p>
   </section>
 
   <div v-if="tip" class="pointer-events-none fixed z-10 max-w-[280px] -translate-x-1/2 -translate-y-full rounded-md bg-[#25292e] px-2.5 py-1.5 text-xs leading-normal text-white shadow-lg dark:bg-[#3d444d]" :style="{ left: tip.x + 'px', top: tip.y + 'px' }" role="tooltip">
@@ -159,16 +170,44 @@ const isWeekend = d => { const w = parseDate(d.d).getDay(); return w === 0 || w 
 const sumMin = list => list.reduce((a, d) => a + d.m, 0);
 const avgMin = list => list.length ? sumMin(list) / list.length : 0;
 
+const MIN_PER_DAY = 24 * 60;
+const FULL_COVERAGE_DAYS = 365;
+const RANKED_METRICS = ['worked', 'rest', 'longest', 'abroad', 'meetings'];
+
 const statsOf = days => {
   if (!days.length) return null;
   const worked = days.filter(d => commitsOf(d) > 0);
-  let longest = 0, run = 0;
-  days.forEach(d => { if (commitsOf(d) > 0) { run++; longest = Math.max(longest, run); } else run = 0; });
+  let longest = 0, run = 0, longestEnd = null;
+  days.forEach(d => { if (commitsOf(d) > 0) { run++; if (run > longest) { longest = run; longestEnd = d.d; } } else run = 0; });
+  const longestStart = longestEnd ? isoDate(new Date(parseDate(longestEnd).getTime() - (longest - 1) * 86400000)) : null;
   const domestic = days.filter(d => !d.a);
   const busiest = (domestic.length ? domestic : days).reduce((a, d) => d.m > a.m ? d : a);
   const weekdays = days.filter(d => !isWeekend(d)), weekends = days.filter(isWeekend);
-  return { worked: worked.length, rest: days.length - worked.length, longest, busiestH: fmtH(busiest.m), busiestDate: busiest.d,
-    weekdayAvgH: fmtH(avgMin(weekdays)), weekendAvgH: fmtH(avgMin(weekends)) };
+  const meetings = days.reduce((a, d) => a + d.k, 0);
+  return { worked: worked.length, rest: days.length - worked.length, longest, longestStart, longestEnd,
+    abroad: days.filter(d => d.a).length, full24: days.filter(d => d.m >= MIN_PER_DAY).length, meetings,
+    busiestH: fmtH(busiest.m), busiestDate: busiest.d, weekdayAvgH: fmtH(avgMin(weekdays)), weekendAvgH: fmtH(avgMin(weekends)) };
+};
+
+const rankTop2 = pms => {
+  const ranked = pms.filter(p => p.stats && p.days.length >= FULL_COVERAGE_DAYS);
+  const ranks = new Map(pms.map(p => [p.id, {}]));
+  RANKED_METRICS.forEach(metric => {
+    const values = [...new Set(ranked.map(p => p.stats[metric]))].sort((a, b) => b - a);
+    ranked.forEach(p => { const r = values.indexOf(p.stats[metric]) + 1; if (r <= 2) ranks.get(p.id)[metric] = r; });
+  });
+  return ranks;
+};
+
+const tilesOf = (pm, ranks) => {
+  const s = pm.stats, r = ranks.get(pm.id) || {};
+  return [
+    { id: 'worked', label: '稼働日', value: String(s.worked), unit: '日', note: '1 commit 以上の日', rank: r.worked },
+    { id: 'rest', label: '休養日', value: String(s.rest), unit: '日', note: '0 commit の日（公務 30 分未満を含む）', rank: r.rest },
+    { id: 'longest', label: '最長連続稼働', value: String(s.longest), unit: '日', note: s.longestStart ? `${fmtDateShort(s.longestStart)} 〜 ${fmtDateShort(s.longestEnd)}` : '', rank: r.longest },
+    { id: 'abroad', label: '外遊・空港利用を含む日', value: String(s.abroad), unit: '日', note: `うち終日 24 時間扱い ${s.full24} 日`, rank: r.abroad },
+    { id: 'meetings', label: '面会・会談の合計', value: fmtInt(s.meetings), unit: '件', note: `1 日平均 ${(s.meetings / pm.days.length).toFixed(1)} 件`, rank: r.meetings },
+  ];
 };
 
 createApp({
@@ -176,6 +215,10 @@ createApp({
     const data = JSON.parse(document.getElementById('data').textContent);
     const pms = data.pms.map(pm => ({ ...pm, byDate: new Map(pm.days.map(d => [d.d, d])), grid: buildGrid(pm.days, pm.start, pm.fyEnd),
       commits: pm.days.reduce((a, d) => a + commitsOf(d), 0), stats: statsOf(pm.days) }));
+    const ranks = rankTop2(pms);
+    pms.forEach(pm => { pm.tiles = pm.stats ? tilesOf(pm, ranks) : []; });
+    const rankClass = { 1: 'border-amber-400 bg-amber-50 dark:border-amber-500 dark:bg-amber-950/40', 2: 'border-slate-400 bg-slate-100 dark:border-slate-500 dark:bg-slate-800/60' };
+    const rankBadgeClass = { 1: 'bg-amber-400 text-amber-950', 2: 'bg-slate-400 text-slate-950' };
     const tip = ref(null);
     const levelClass = ['bg-grass-0 dark:bg-grassd-0', 'bg-grass-1 dark:bg-grassd-1', 'bg-grass-2 dark:bg-grassd-2', 'bg-grass-3 dark:bg-grassd-3', 'bg-grass-4 dark:bg-grassd-4'];
     const dowLabels = DOW.map((t, i) => ({ id: 'dow-' + t, text: i % 2 === 1 ? t : '' }));
@@ -191,7 +234,7 @@ createApp({
     const hideTip = () => { tip.value = null; };
     window.addEventListener('scroll', hideTip, { passive: true });
 
-    return { pms, generated: data.generated, dowLabels, levelClass, tip, showTip, hideTip, fmtDateShort, fmtInt };
+    return { pms, generated: data.generated, dowLabels, levelClass, rankClass, rankBadgeClass, tip, showTip, hideTip, fmtDateShort, fmtInt };
   },
 }).mount('#app');
 </script>
