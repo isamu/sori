@@ -11,7 +11,8 @@
 | `raw/html/<pm>/<YYYY-MM-DD>.html.gz` | 官邸ログ日別ページの HTML そのまま（gzip）。**手元だけ、`.gitignore` 済み。** 他人のページの複製なので公開リポジトリに入れない |
 | `parsed/pms-first-year.json` | 総理ごとに就任日から 365 日分を `dousei/` からまとめたもの |
 | `templates/` | Vue 3 + Tailwind v4（どちらも CDN）の単一 HTML テンプレート。`__DATA__` に JSON を埋める |
-| `site/index.html` | 公開用トップ。歴代 1 年目の草だけ（説明・比較表・commit log なし、時系列データも埋めない）。`build_pages.py index` で生成 |
+| `site/index.html` | 公開用トップ「総理の１年」。歴代 1 年目の草と各総理の統計行、決め方だけ（比較表・commit log なし、時系列データも埋めない）。SEO/OGP/JSON-LD 入り。`build_pages.py index` で生成 |
+| `site/og.png` | OGP 画像 1200×630（7 人分の草を 2 列）。`build_og.py` でヘッドレス Chrome から生成（macOS 前提、`CHROME` 環境変数で差し替え可） |
 | `site/takaichi-grass.html` | 現職（高市）の全収録日の草 |
 | `site/pm-first-year-grass.html` | 歴代総理 1 年目の草を 1 枚に並べたもの |
 | `scripts/` | 取り込み → 解析 → 生成 |
@@ -29,6 +30,7 @@ python3 parse_all.py                  # dousei/ → parsed/pms-first-year.json
 python3 build_pages.py index          # site/index.html（草だけ）
 python3 build_pages.py multi          # site/pm-first-year-grass.html（比較表と commit log つき）
 python3 build_pages.py takaichi       # site/takaichi-grass.html（dousei/takaichi の全日）
+python3 build_og.py                   # site/og.png（OGP 画像）
 python3 parse_days.py <raw/html/.../x.html.gz>   # 1 ページ分の解析結果を眺める（デバッグ用）
 ```
 
