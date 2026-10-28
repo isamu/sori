@@ -12,7 +12,7 @@
 | `parsed/pms-first-year.json` | 総理ごとに就任日から 365 日分を `dousei/` からまとめたもの |
 | `templates/` | Vue 3 + Tailwind v4（どちらも CDN）の単一 HTML テンプレート。`__DATA__` に JSON を埋める。高市単独版は削除済み（タイトルや OGP に個人名を出さず「歴代」で通す方針） |
 | `site/index.html` | 公開用トップ「総理の１年」。歴代 1 年目の草と各総理の統計行、決め方だけ（比較表・commit log なし、時系列データも埋めない）。SEO/OGP/JSON-LD 入り。`build_pages.py index` で生成 |
-| `site/og.png` | OGP 画像（1986×938）。ユーザーが用意した草のスクリーンショット。上書きしない |
+| `site/og.png` | OGP 画像（2000×1414）。ユーザーが用意した草とタイルのスクリーンショット。上書きしない |
 | `site/og-grass.png` | `build_og.py` が作る代替の OGP 画像（1200×630、7 人分の草を 2 列）。使うなら index の og:image を差し替える |
 | `site/pm-first-year-grass.html` | 歴代総理 1 年目の草を 1 枚に並べたもの |
 | `scripts/` | 取り込み → 解析 → 生成 |
