@@ -202,8 +202,8 @@ const rankTop2 = pms => {
 const tilesOf = (pm, ranks) => {
   const s = pm.stats, r = ranks.get(pm.id) || {};
   return [
-    { id: 'worked', label: '稼働日', value: String(s.worked), unit: '日', note: '1 commit 以上の日', rank: r.worked },
-    { id: 'rest', label: '休養日', value: String(s.rest), unit: '日', note: '0 commit の日（公務 30 分未満を含む）', rank: r.rest },
+    { id: 'worked', label: '稼働日', value: String(s.worked), unit: '日', note: '公務 30 分以上の日（1 commit 以上）', rank: r.worked },
+    { id: 'rest', label: '休養日', value: String(s.rest), unit: '日', note: '公務 30 分未満の日。首相動静が「終日、公邸で過ごす」などで、公邸内の執務や私的な予定は数えない', rank: r.rest },
     { id: 'longest', label: '最長連続稼働', value: String(s.longest), unit: '日', note: s.longestStart ? `${fmtDateShort(s.longestStart)} 〜 ${fmtDateShort(s.longestEnd)}` : '', rank: r.longest },
     { id: 'abroad', label: '外遊・空港利用を含む日', value: String(s.abroad), unit: '日', note: `うち終日 24 時間扱い ${s.full24} 日`, rank: r.abroad },
     { id: 'meetings', label: '面会・会談の合計', value: fmtInt(s.meetings), unit: '件', note: `1 日平均 ${(s.meetings / pm.days.length).toFixed(1)} 件`, rank: r.meetings },
