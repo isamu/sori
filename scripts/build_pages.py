@@ -22,12 +22,17 @@ def render(template_name, payload, out_name):
     print("wrote", SITE_DIR / out_name, len(page.encode("utf-8")), "bytes")
 
 
+def with_data(pms):
+    """収録が 1 日もない総理（鳩山）はページに出さない。"""
+    return [p for p in pms if p["days"]]
+
+
 def lean_day(d):
     return {"d": d["date"], "m": d["work_min"] or 0, "k": d["meetings"], "f": d["first_work"]}
 
 
 def build_index():
-    pms = json.load(open(PARSED_DIR / "pms-first-year.json"))
+    pms = with_data(json.load(open(PARSED_DIR / "pms-first-year.json")))
     render("vue_index_template.html", {
         "pms": [{"id": p["id"], "name": p["name"], "party": p["party"], "start": p["start"], "fyEnd": p["fy_end"], "note": p["note"],
                  "days": [lean_day(d) for d in p["days"]]} for p in pms],
@@ -36,7 +41,7 @@ def build_index():
 
 
 def build_multi():
-    pms = json.load(open(PARSED_DIR / "pms-first-year.json"))
+    pms = with_data(json.load(open(PARSED_DIR / "pms-first-year.json")))
     render("vue_multi_template.html", {
         "pms": [{"id": p["id"], "name": p["name"], "party": p["party"], "start": p["start"], "fyEnd": p["fy_end"], "note": p["note"],
                  "days": [compact_day(d) for d in p["days"]]} for p in pms],

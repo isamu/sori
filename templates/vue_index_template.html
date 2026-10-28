@@ -27,7 +27,10 @@
 <div id="app" v-cloak class="mx-auto max-w-[1000px] px-4 pt-6 pb-12">
 
   <header class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-2 border-b border-rule pb-4 dark:border-ruled">
-    <h1 class="text-2xl font-semibold leading-tight text-balance">歴代総理 1 年目の草 <span class="text-[15px] font-normal text-muted dark:text-mutedd">民主党政権から現在まで · 公務 1 時間 = 1 commit</span></h1>
+    <div class="min-w-0">
+      <h1 class="text-2xl font-semibold leading-tight text-balance">歴代総理 1 年目の草</h1>
+      <p class="mt-1 text-[13px] text-muted dark:text-mutedd">データが確認できた 2011/3/11 以降、総理就任からの 1 年のみのデータをそれぞれまとめています。公務 1 時間 = 1 commit。</p>
+    </div>
     <span class="inline-flex items-center gap-[3px] text-xs text-muted dark:text-mutedd">0h
       <i v-for="lv in [0,1,2,3,4]" :key="'legend-' + lv" class="inline-block size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-black/5 dark:outline-white/5" :class="levelClass[lv]"></i>
     16h+</span>
