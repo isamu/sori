@@ -1,4 +1,6 @@
-"""OGP 画像 site/og.png（1200×630）を生成する。7 人分の草を 2 列に並べる。
+"""草を 2 列に並べた画像 site/og-grass.png（1200×630）を生成する。
+
+公開中の OGP 画像 site/og.png はユーザーが用意したスクリーンショットなので上書きしない。
 
 ヘッドレス Chrome で描画する。パスは環境変数 CHROME で差し替え可（既定は macOS の Google Chrome）。
 """
@@ -69,7 +71,7 @@ if __name__ == "__main__":
     with tempfile.TemporaryDirectory() as tmp:
         src = os.path.join(tmp, "og.html")
         open(src, "w", encoding="utf-8").write(html(pms))
-        out = SITE_DIR / "og.png"
+        out = SITE_DIR / "og-grass.png"
         subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--no-first-run", f"--user-data-dir={tmp}/profile", "--hide-scrollbars",
                         f"--window-size={WIDTH},{HEIGHT}", f"--screenshot={out}", f"file://{src}"], check=True, capture_output=True, timeout=120)
         print("wrote", out, os.path.getsize(out), "bytes")

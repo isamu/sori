@@ -2,7 +2,6 @@
 
   python3 build_pages.py index    # site/index.html（歴代 1 年目の草だけ。時系列は埋めない）
   python3 build_pages.py multi    # site/pm-first-year-grass.html（歴代 1 年目、比較表と commit log つき）
-  python3 build_pages.py takaichi # site/takaichi-grass.html（dousei/takaichi の全日）
 """
 import datetime, json, re, sys
 from config import PARSED_DIR, SITE_DIR, TEMPLATE_DIR
@@ -58,13 +57,5 @@ def build_multi():
     }, "pm-first-year-grass.html")
 
 
-def build_takaichi():
-    days = load_dousei("takaichi")
-    render("vue_template.html", {
-        "days": [{**compact_day(d), "r": d["residence_min"]} for d in days], "missing": [], "pm": days[0]["pm"],
-        "start": days[0]["date"], "end": days[-1]["date"], "generated": datetime.date.today().isoformat(),
-    }, "takaichi-grass.html")
-
-
 if __name__ == "__main__":
-    {"index": build_index, "multi": build_multi, "takaichi": build_takaichi}[sys.argv[1]]()
+    {"index": build_index, "multi": build_multi}[sys.argv[1]]()
