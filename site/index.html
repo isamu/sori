@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>首相動静の草</title>
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<style type="text/tailwindcss">
+@theme {
+  --color-paper: #ffffff; --color-paperd: #0d1117; --color-panel: #f6f8fa; --color-paneld: #161b22;
+  --color-ink: #1f2328; --color-inkd: #e6edf3; --color-muted: #59636e; --color-mutedd: #8b949e; --color-rule: #d1d9e0; --color-ruled: #30363d;
+  --color-link: #0969da; --color-linkd: #4493f8; --color-grass-3: #30a14e; --color-grassd-3: #26a641;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+}
+</style>
+</head>
+<body class="m-0 bg-paper font-sans text-sm leading-relaxed text-ink dark:bg-paperd dark:text-inkd">
+<main class="mx-auto max-w-[720px] px-4 pt-10 pb-16">
+  <h1 class="text-2xl font-semibold leading-tight text-balance">首相動静の草</h1>
+  <p class="mt-3 max-w-[62ch]">新聞・通信社が毎日掲載する首相動静（分単位の行動記録）を、公務 1 時間 = 1 commit として GitHub の草に描いています。データは官邸ログが構造化した日別の動静から、事実部分だけを取り出したものです。</p>
+  <ul class="mt-8 grid gap-3">
+    <li><a class="block rounded-md border border-rule bg-panel px-4 py-3 hover:border-grass-3 dark:border-ruled dark:bg-paneld dark:hover:border-grassd-3" href="pm-first-year-grass.html"><span class="block text-base font-semibold">歴代総理 1 年目の草</span><span class="block text-xs text-muted dark:text-mutedd">民主党政権から現在まで、各総理の就任日から 365 日を 1 枚に</span></a></li>
+    <li><a class="block rounded-md border border-rule bg-panel px-4 py-3 hover:border-grass-3 dark:border-ruled dark:bg-paneld dark:hover:border-grassd-3" href="takaichi-grass.html"><span class="block text-base font-semibold">高市首相の草</span><span class="block text-xs text-muted dark:text-mutedd">現職の就任日から直近までの全日</span></a></li>
+  </ul>
+  <p class="mt-8 text-xs text-muted dark:text-mutedd">出典: <a class="text-link hover:underline dark:text-linkd" href="https://www.kanteilog.com/" target="_blank" rel="noopener">官邸ログ</a>（時事通信社・日本経済新聞社・朝日新聞社の首相動静を構造化）。データとスクリプトは <a class="text-link hover:underline dark:text-linkd" href="https://github.com/isamu/sori" target="_blank" rel="noopener">github.com/isamu/sori</a>。</p>
+</main>
+</body>
+</html>

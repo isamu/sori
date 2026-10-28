@@ -11,6 +11,7 @@
 | `raw/html/<pm>/<YYYY-MM-DD>.html.gz` | 官邸ログ日別ページの HTML そのまま（gzip）。**手元だけ、`.gitignore` 済み。** 他人のページの複製なので公開リポジトリに入れない |
 | `parsed/pms-first-year.json` | 総理ごとに就任日から 365 日分を `dousei/` からまとめたもの |
 | `templates/` | Vue 3 + Tailwind v4（どちらも CDN）の単一 HTML テンプレート。`__DATA__` に JSON を埋める |
+| `site/index.html` | 公開用トップ（手書き、生成物ではない）。2 つのページへのリンク |
 | `site/takaichi-grass.html` | 現職（高市）の全収録日の草 |
 | `site/pm-first-year-grass.html` | 歴代総理 1 年目の草を 1 枚に並べたもの |
 | `scripts/` | 取り込み → 解析 → 生成 |
@@ -71,6 +72,12 @@ mulmoclaude の画面に出すときは `~/mulmoclaude/artifacts/html/2026/10/` 
 - `site/pm-first-year-grass.html` に 8 人分（鳩山は収録なしの表示）を 1 枚に並べてある。
 - 1 年目の公務時間は 野田 3,717 / 安倍 4,385 / 菅義偉 3,532 / 岸田 3,891 / 石破 4,072 / 高市 2,961 時間（菅直人は 89 日で 1,088 時間）。高市だけ 0 commit の日が 69 日と多い（他は 4〜28 日）。公邸住まいで「終日、公邸」が週末に多いためか、媒体の書き方の違いかは未確認。比べるときはこの点に注意。
 - 次にやりたいこと（ユーザーの意向）: 分類別の集計。面会・国会・会食などを総理ごと・月ごとに比べる。材料は `alloc_min` と `intervals`。
+
+## 公開（GitHub Pages）
+
+`site/` を GitHub Pages で公開している: https://isamu.github.io/sori/ 。
+`.github/workflows/pages.yml` が main への push（`site/**` の変更）で `site/` をそのまま配信する。Pages の配信元は「GitHub Actions」に設定済み。
+ページを更新したら `build_pages.py` で生成 → コミット → push で自動反映。
 
 ## git
 
