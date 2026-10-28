@@ -217,8 +217,8 @@ createApp({
       commits: pm.days.reduce((a, d) => a + commitsOf(d), 0), stats: statsOf(pm.days) }));
     const ranks = rankTop2(pms);
     pms.forEach(pm => { pm.tiles = pm.stats ? tilesOf(pm, ranks) : []; });
-    const rankClass = { 1: 'border-amber-400 bg-amber-50 dark:border-amber-500 dark:bg-amber-950/40', 2: 'border-slate-400 bg-slate-100 dark:border-slate-500 dark:bg-slate-800/60' };
-    const rankBadgeClass = { 1: 'bg-amber-400 text-amber-950', 2: 'bg-slate-400 text-slate-950' };
+    const rankClass = { 1: 'border-amber-400 bg-amber-50 dark:border-amber-500 dark:bg-amber-950/40', 2: 'border-sky-400 bg-sky-50 dark:border-sky-500 dark:bg-sky-950/40' };
+    const rankBadgeClass = { 1: 'bg-amber-400 text-amber-950', 2: 'bg-sky-300 text-sky-950' };
     const tip = ref(null);
     const levelClass = ['bg-grass-0 dark:bg-grassd-0', 'bg-grass-1 dark:bg-grassd-1', 'bg-grass-2 dark:bg-grassd-2', 'bg-grass-3 dark:bg-grassd-3', 'bg-grass-4 dark:bg-grassd-4'];
     const dowLabels = DOW.map((t, i) => ({ id: 'dow-' + t, text: i % 2 === 1 ? t : '' }));
