@@ -11,7 +11,7 @@
 | `raw/html/<pm>/<YYYY-MM-DD>.html.gz` | 官邸ログ日別ページの HTML そのまま（gzip）。**手元だけ、`.gitignore` 済み。** 他人のページの複製なので公開リポジトリに入れない |
 | `parsed/pms-first-year.json` | 総理ごとに就任日から 365 日分を `dousei/` からまとめたもの |
 | `templates/` | Vue 3 + Tailwind v4（どちらも CDN）の単一 HTML テンプレート。`__DATA__` に JSON を埋める |
-| `site/index.html` | 公開用トップ（手書き、生成物ではない）。2 つのページへのリンク |
+| `site/index.html` | 公開用トップ。歴代 1 年目の草だけ（説明・比較表・commit log なし、時系列データも埋めない）。`build_pages.py index` で生成 |
 | `site/takaichi-grass.html` | 現職（高市）の全収録日の草 |
 | `site/pm-first-year-grass.html` | 歴代総理 1 年目の草を 1 枚に並べたもの |
 | `scripts/` | 取り込み → 解析 → 生成 |
@@ -26,7 +26,8 @@ python3 fetch_days.py <pm>            # 就任日から 365 日を raw/html/<pm>
 python3 fetch_days.py takaichi 2026-10-21 2026-12-31   # 範囲指定（現職の追加取り込み）
 python3 extract_days.py <pm>          # raw/html/<pm>/ → dousei/<pm>/<date>.json（事実部分だけ）
 python3 parse_all.py                  # dousei/ → parsed/pms-first-year.json
-python3 build_pages.py multi          # site/pm-first-year-grass.html
+python3 build_pages.py index          # site/index.html（草だけ）
+python3 build_pages.py multi          # site/pm-first-year-grass.html（比較表と commit log つき）
 python3 build_pages.py takaichi       # site/takaichi-grass.html（dousei/takaichi の全日）
 python3 parse_days.py <raw/html/.../x.html.gz>   # 1 ページ分の解析結果を眺める（デバッグ用）
 ```

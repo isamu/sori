@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>歴代総理 1 年目の草</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap">
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<style type="text/tailwindcss">
+/* Tailwind theme only: GitHub's contribution greens (light / dark), paper and ink tokens, and the two typefaces. */
+@theme {
+  --color-grass-0: #ebedf0; --color-grass-1: #9be9a8; --color-grass-2: #40c463; --color-grass-3: #30a14e; --color-grass-4: #216e39;
+  --color-grassd-0: #161b22; --color-grassd-1: #0e4429; --color-grassd-2: #006d32; --color-grassd-3: #26a641; --color-grassd-4: #39d353;
+  --color-paper: #ffffff; --color-paperd: #0d1117; --color-panel: #f6f8fa; --color-paneld: #161b22;
+  --color-ink: #1f2328; --color-inkd: #e6edf3; --color-muted: #59636e; --color-mutedd: #8b949e; --color-rule: #d1d9e0; --color-ruled: #30363d;
+  --color-accent: #1a7f37; --color-accentd: #3fb950; --color-link: #0969da; --color-linkd: #4493f8;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+/* v-cloak cannot be a utility: it must hide the raw template until Vue mounts. */
+@layer base { [v-cloak] { display: none; } }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/vue@3.5.13/dist/vue.global.prod.js"></script>
+</head>
+<body class="m-0 bg-paper font-sans text-sm leading-relaxed text-ink dark:bg-paperd dark:text-inkd">
+<div id="app" v-cloak class="mx-auto max-w-[1000px] px-4 pt-6 pb-12">
+
+  <header class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-2 border-b border-rule pb-4 dark:border-ruled">
+    <h1 class="text-2xl font-semibold leading-tight text-balance">歴代総理 1 年目の草 <span class="text-[15px] font-normal text-muted dark:text-mutedd">民主党政権から現在まで · 公務 1 時間 = 1 commit</span></h1>
+    <span class="inline-flex items-center gap-[3px] text-xs text-muted dark:text-mutedd">0h
+      <i v-for="lv in [0,1,2,3,4]" :key="'legend-' + lv" class="inline-block size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-black/5 dark:outline-white/5" :class="levelClass[lv]"></i>
+    16h+</span>
+  </header>
+
+  <section v-for="pm in pms" :key="pm.id" :id="pm.id" class="mt-6 scroll-mt-4 rounded-md border border-rule p-4 dark:border-ruled">
+    <div class="mb-3 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
+      <h2 class="text-base font-semibold">{{ pm.name }} <span class="font-normal text-muted dark:text-mutedd">{{ pm.party }} · {{ fmtDateShort(pm.start) }} 就任</span></h2>
+      <span v-if="pm.days.length" class="text-xs text-muted dark:text-mutedd"><span class="tabular-nums font-semibold text-ink dark:text-inkd">{{ fmtInt(pm.commits) }}</span> commits in the first year</span>
+    </div>
+    <p v-if="pm.note" class="mb-3 text-xs text-muted dark:text-mutedd">{{ pm.note }}</p>
+    <div v-if="pm.days.length" class="overflow-x-auto pb-1">
+      <div class="grid w-max grid-cols-[28px_1fr] grid-rows-[16px_1fr] gap-x-1">
+        <div class="relative col-start-2 row-start-1 h-4 text-[11px] text-muted dark:text-mutedd">
+          <span v-for="m in pm.grid.labels" :key="m.id" class="absolute top-0 whitespace-nowrap" :style="{ left: m.left + 'px' }">{{ m.text }}</span>
+        </div>
+        <div class="col-start-1 row-start-2 grid grid-rows-7 gap-y-[3px] text-[10px] leading-[11px] text-muted dark:text-mutedd" aria-hidden="true">
+          <span v-for="d in dowLabels" :key="d.id">{{ d.text }}</span>
+        </div>
+        <div class="col-start-2 row-start-2 grid grid-flow-col grid-rows-7 gap-[3px]" role="grid" :aria-label="pm.name + ' 1 年目の日別公務時間'">
+          <template v-for="week in pm.grid.weeks" :key="week.id">
+            <template v-for="cell in week.cells" :key="cell.id">
+              <div v-if="cell.kind === 'blank'" class="size-[11px]"></div>
+              <div v-else-if="cell.kind === 'missing'" class="size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-dashed outline-rule dark:outline-ruled" :title="cell.date + ' 収録なし'"></div>
+              <div v-else role="gridcell" tabindex="0"
+                class="size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-black/5 focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-link dark:outline-white/5"
+                :class="levelClass[cell.level]" :aria-label="cell.aria"
+                @pointerenter="showTip($event, pm, cell)" @pointerleave="hideTip" @focus="showTip($event, pm, cell)" @blur="hideTip"></div>
+            </template>
+          </template>
+        </div>
+      </div>
+    </div>
+    <div v-else class="rounded-md border border-dashed border-rule px-4 py-6 text-center text-xs text-muted dark:border-ruled dark:text-mutedd">収録なし</div>
+  </section>
+
+  <div v-if="tip" class="pointer-events-none fixed z-10 max-w-[280px] -translate-x-1/2 -translate-y-full rounded-md bg-[#25292e] px-2.5 py-1.5 text-xs leading-normal text-white shadow-lg dark:bg-[#3d444d]" :style="{ left: tip.x + 'px', top: tip.y + 'px' }" role="tooltip">
+    <b class="font-semibold">{{ tip.head }}</b> {{ tip.date }} · {{ tip.pm }}<br>{{ tip.detail }}
+  </div>
+
+  <section class="mt-7 text-[13px] text-muted dark:text-mutedd">
+    <h2 class="text-base font-semibold text-ink dark:text-inkd">集計の決め方</h2>
+    <ul class="my-1.5 list-disc pl-5">
+      <li class="my-1"><strong>1 commit = 公務 1 時間</strong>（分を 60 で割って四捨五入）。マスの濃さは 4 時間ごとに一段濃くなり、<strong>16 時間以上は同じ最濃色</strong>です。一日の仕事の上限を 16 時間程度とみなし、外遊で終日 24 時間扱いになる日が色を独占しないようにしています。点線のマスは官邸ログに収録のない日です。</li>
+      <li class="my-1"><strong>公務時間</strong>は官邸ログの「公務の合計時間」。24 時間から居所（公邸・私邸・議員宿舎）滞在を引いた値で、移動時間を含み、外遊中は出国から帰国まで終日 24 時間として数えます。会議や面会の中身は問いません。</li>
+      <li class="my-1">「終日、公邸で過ごす」と報じられた日は 0 commit。首相動静に載らない私的な活動や、公邸内での執務は数えられません。</li>
+      <li class="my-1">1 年目 = 就任日から 365 日。安倍晋三は第 2 次政権（2012-12-26 就任）の 1 年目。官邸ログの収録は 2011-03-11 からで、鳩山政権はデータがなく、菅直人政権は 1 年目の終盤だけです。</li>
+      <li class="my-1">出典: <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="https://www.kanteilog.com/pm" target="_blank" rel="noopener">官邸ログ 歴代首相の動静</a>（時事通信社・日本経済新聞社・朝日新聞社の首相動静を構造化）。</li>
+      <li class="my-1">比較表と日ごとの commit log は <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="pm-first-year-grass.html">詳細版</a>、現職の全日は <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="takaichi-grass.html">高市首相の草</a>。データとスクリプトは <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="https://github.com/isamu/sori" target="_blank" rel="noopener">github.com/isamu/sori</a>。</li>
+    </ul>
+  </section>
+
+  <footer class="mt-8 border-t border-rule pt-3 text-xs text-muted dark:border-ruled dark:text-mutedd">データ取得日 {{ generated }}。首相動静の著作権は各報道機関に、構造化データは官邸ログにあります。このページは個人の可視化です。</footer>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const { createApp, ref } = Vue;
+
+const MIN_PER_COMMIT = 60;
+const HOURS_PER_LEVEL = 4;
+const LEVEL_CAP_HOURS = 16;
+const CELL_PITCH_PX = 14;
+const MIN_LABEL_GAP_COLS = 3;
+const YEAR_LABEL_GAP_COLS = 5;
+const EARLY_ENOUGH_DAY = 10;
+const DOW = ['日', '月', '火', '水', '木', '金', '土'];
+
+const parseDate = s => { const [y, m, d] = s.split('-').map(Number); return new Date(y, m - 1, d); };
+const isoDate = dt => `${dt.getFullYear()}-${String(dt.getMonth() + 1).padStart(2, '0')}-${String(dt.getDate()).padStart(2, '0')}`;
+const fmtDate = s => { const dt = parseDate(s); return `${dt.getFullYear()}年${dt.getMonth() + 1}月${dt.getDate()}日（${DOW[dt.getDay()]}）`; };
+const fmtDateShort = s => fmtDate(s).replace(/（.*/, '');
+const fmtHM = min => `${Math.floor(min / 60)}時間${String(min % 60).padStart(2, '0')}分`;
+const fmtInt = n => n.toLocaleString('ja-JP');
+const commitsOf = d => Math.round(d.m / MIN_PER_COMMIT);
+const levelOf = c => c === 0 ? 0 : Math.min(4, Math.ceil(Math.min(c, LEVEL_CAP_HOURS) / HOURS_PER_LEVEL));
+
+const buildGrid = (days, start, end) => {
+  const byDate = new Map(days.map(d => [d.d, d]));
+  const first = parseDate(start); first.setDate(first.getDate() - first.getDay());
+  const last = parseDate(end); last.setDate(last.getDate() + (6 - last.getDay()));
+  const weeks = [], labels = [];
+  let col = 0, lastMonth = -1, lastLabelCol = -99, lastLabelHadYear = false, week = null;
+  for (let dt = new Date(first); dt <= last; dt.setDate(dt.getDate() + 1)) {
+    if (dt.getDay() === 0) { if (week) col++; week = { id: isoDate(dt), cells: [] }; weeks.push(week); }
+    const key = isoDate(dt), d = byDate.get(key);
+    if (key < start || key > end) week.cells.push({ id: 'blank-' + key, kind: 'blank' });
+    else if (!d) week.cells.push({ id: 'missing-' + key, kind: 'missing', date: key });
+    else {
+      const c = commitsOf(d);
+      week.cells.push({ id: key, kind: 'day', date: key, level: levelOf(c), commits: c, aria: `${fmtDate(key)} ${c} commits、公務 ${fmtHM(d.m)}` });
+    }
+    const monthStartsHere = dt.getDate() === 1 || key === start;
+    if (dt.getMonth() !== lastMonth && monthStartsHere) {
+      const neededGap = lastLabelHadYear ? YEAR_LABEL_GAP_COLS : MIN_LABEL_GAP_COLS;
+      if (col - lastLabelCol >= neededGap && dt.getDate() <= EARLY_ENOUGH_DAY) {
+        const withYear = dt.getMonth() === 0;
+        labels.push({ id: key, left: col * CELL_PITCH_PX, text: withYear ? `${dt.getFullYear()}年1月` : `${dt.getMonth() + 1}月` });
+        lastLabelCol = col; lastLabelHadYear = withYear;
+      }
+      lastMonth = dt.getMonth();
+    }
+  }
+  return { weeks, labels };
+};
+
+createApp({
+  setup() {
+    const data = JSON.parse(document.getElementById('data').textContent);
+    const pms = data.pms.map(pm => ({ ...pm, byDate: new Map(pm.days.map(d => [d.d, d])), grid: buildGrid(pm.days, pm.start, pm.fyEnd),
+      commits: pm.days.reduce((a, d) => a + commitsOf(d), 0) }));
+    const tip = ref(null);
+    const levelClass = ['bg-grass-0 dark:bg-grassd-0', 'bg-grass-1 dark:bg-grassd-1', 'bg-grass-2 dark:bg-grassd-2', 'bg-grass-3 dark:bg-grassd-3', 'bg-grass-4 dark:bg-grassd-4'];
+    const dowLabels = DOW.map((t, i) => ({ id: 'dow-' + t, text: i % 2 === 1 ? t : '' }));
+
+    const showTip = (event, pm, cell) => {
+      const d = pm.byDate.get(cell.date); if (!d) return;
+      const r = event.currentTarget.getBoundingClientRect();
+      const detail = [`公務 ${fmtHM(d.m)}`, d.f && d.f !== '—' ? `最初の公務 ${d.f}` : null, d.k ? `面会 ${d.k} 件` : null].filter(Boolean).join(' · ');
+      const TIP_HALF_WIDTH_PX = 140, TIP_GAP_PX = 8;
+      tip.value = { head: cell.commits === 0 ? 'No commits' : `${cell.commits} commit${cell.commits > 1 ? 's' : ''}`, date: fmtDate(d.d), pm: pm.name, detail,
+        x: Math.min(Math.max(r.left + r.width / 2, TIP_HALF_WIDTH_PX), window.innerWidth - TIP_HALF_WIDTH_PX), y: Math.max(r.top - TIP_GAP_PX, 48) };
+    };
+    const hideTip = () => { tip.value = null; };
+    window.addEventListener('scroll', hideTip, { passive: true });
+
+    return { pms, generated: data.generated, dowLabels, levelClass, tip, showTip, hideTip, fmtDateShort, fmtInt };
+  },
+}).mount('#app');
+</script>
+</body>
+</html>

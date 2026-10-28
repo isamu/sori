@@ -1,6 +1,7 @@
 """dousei/ と parsed/ から site/ の HTML を生成する。
 
-  python3 build_pages.py multi    # site/pm-first-year-grass.html（歴代 1 年目）
+  python3 build_pages.py index    # site/index.html（歴代 1 年目の草だけ。時系列は埋めない）
+  python3 build_pages.py multi    # site/pm-first-year-grass.html（歴代 1 年目、比較表と commit log つき）
   python3 build_pages.py takaichi # site/takaichi-grass.html（dousei/takaichi の全日）
 """
 import datetime, json, sys
@@ -21,6 +22,19 @@ def render(template_name, payload, out_name):
     print("wrote", SITE_DIR / out_name, len(page.encode("utf-8")), "bytes")
 
 
+def lean_day(d):
+    return {"d": d["date"], "m": d["work_min"] or 0, "k": d["meetings"], "f": d["first_work"]}
+
+
+def build_index():
+    pms = json.load(open(PARSED_DIR / "pms-first-year.json"))
+    render("vue_index_template.html", {
+        "pms": [{"id": p["id"], "name": p["name"], "party": p["party"], "start": p["start"], "fyEnd": p["fy_end"], "note": p["note"],
+                 "days": [lean_day(d) for d in p["days"]]} for p in pms],
+        "generated": datetime.date.today().isoformat(),
+    }, "index.html")
+
+
 def build_multi():
     pms = json.load(open(PARSED_DIR / "pms-first-year.json"))
     render("vue_multi_template.html", {
@@ -39,4 +53,4 @@ def build_takaichi():
 
 
 if __name__ == "__main__":
-    {"multi": build_multi, "takaichi": build_takaichi}[sys.argv[1]]()
+    {"index": build_index, "multi": build_multi, "takaichi": build_takaichi}[sys.argv[1]]()
