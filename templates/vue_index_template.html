@@ -65,6 +65,7 @@
       </div>
     </div>
     <div v-else class="rounded-md border border-dashed border-rule px-4 py-6 text-center text-xs text-muted dark:border-ruled dark:text-mutedd">収録なし</div>
+    <p v-if="pm.stats" class="mt-2.5 text-xs text-muted dark:text-mutedd">稼働 {{ pm.stats.worked }} 日 / 休養 {{ pm.stats.rest }} 日 · 最長連続 {{ pm.stats.longest }} 日 · 平日 {{ pm.stats.weekdayAvgH }} h / 土日 {{ pm.stats.weekendAvgH }} h · 最も長い国内の一日 {{ pm.stats.busiestH }} h（{{ fmtDateShort(pm.stats.busiestDate) }}）</p>
   </section>
 
   <div v-if="tip" class="pointer-events-none fixed z-10 max-w-[280px] -translate-x-1/2 -translate-y-full rounded-md bg-[#25292e] px-2.5 py-1.5 text-xs leading-normal text-white shadow-lg dark:bg-[#3d444d]" :style="{ left: tip.x + 'px', top: tip.y + 'px' }" role="tooltip">
@@ -137,11 +138,28 @@ const buildGrid = (days, start, end) => {
   return { weeks, labels };
 };
 
+const fmtH = min => (min / 60).toFixed(1);
+const isWeekend = d => { const w = parseDate(d.d).getDay(); return w === 0 || w === 6; };
+const sumMin = list => list.reduce((a, d) => a + d.m, 0);
+const avgMin = list => list.length ? sumMin(list) / list.length : 0;
+
+const statsOf = days => {
+  if (!days.length) return null;
+  const worked = days.filter(d => commitsOf(d) > 0);
+  let longest = 0, run = 0;
+  days.forEach(d => { if (commitsOf(d) > 0) { run++; longest = Math.max(longest, run); } else run = 0; });
+  const domestic = days.filter(d => !d.a);
+  const busiest = (domestic.length ? domestic : days).reduce((a, d) => d.m > a.m ? d : a);
+  const weekdays = days.filter(d => !isWeekend(d)), weekends = days.filter(isWeekend);
+  return { worked: worked.length, rest: days.length - worked.length, longest, busiestH: fmtH(busiest.m), busiestDate: busiest.d,
+    weekdayAvgH: fmtH(avgMin(weekdays)), weekendAvgH: fmtH(avgMin(weekends)) };
+};
+
 createApp({
   setup() {
     const data = JSON.parse(document.getElementById('data').textContent);
     const pms = data.pms.map(pm => ({ ...pm, byDate: new Map(pm.days.map(d => [d.d, d])), grid: buildGrid(pm.days, pm.start, pm.fyEnd),
-      commits: pm.days.reduce((a, d) => a + commitsOf(d), 0) }));
+      commits: pm.days.reduce((a, d) => a + commitsOf(d), 0), stats: statsOf(pm.days) }));
     const tip = ref(null);
     const levelClass = ['bg-grass-0 dark:bg-grassd-0', 'bg-grass-1 dark:bg-grassd-1', 'bg-grass-2 dark:bg-grassd-2', 'bg-grass-3 dark:bg-grassd-3', 'bg-grass-4 dark:bg-grassd-4'];
     const dowLabels = DOW.map((t, i) => ({ id: 'dow-' + t, text: i % 2 === 1 ? t : '' }));

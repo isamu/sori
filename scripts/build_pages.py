@@ -4,7 +4,7 @@
   python3 build_pages.py multi    # site/pm-first-year-grass.html（歴代 1 年目、比較表と commit log つき）
   python3 build_pages.py takaichi # site/takaichi-grass.html（dousei/takaichi の全日）
 """
-import datetime, json, sys
+import datetime, json, re, sys
 from config import PARSED_DIR, SITE_DIR, TEMPLATE_DIR
 from parse_days import load_dousei
 
@@ -27,8 +27,17 @@ def with_data(pms):
     return [p for p in pms if p["days"]]
 
 
+FLIGHT = re.compile(r"空港|政府専用機|チャーター機")
+MIN_PER_DAY = 24 * 60
+
+
+def is_abroad(d):
+    """外遊で終日扱いの日、または外遊・空港利用の行がある日。「最も長い国内の一日」から除く。"""
+    return (d["work_min"] or 0) >= MIN_PER_DAY or any(e["category"] == "外遊" or FLIGHT.search(e["label"] or "") for e in d["events"])
+
+
 def lean_day(d):
-    return {"d": d["date"], "m": d["work_min"] or 0, "k": d["meetings"], "f": d["first_work"]}
+    return {"d": d["date"], "m": d["work_min"] or 0, "k": d["meetings"], "f": d["first_work"], "a": 1 if is_abroad(d) else 0}
 
 
 def build_index():
