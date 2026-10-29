@@ -1,0 +1,77 @@
+{
+ "date": "2017-06-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 52,
+ "residence_min": 1315,
+ "meetings": 0,
+ "first_work": "14:29",
+ "events": [
+  {
+   "time": "14:29",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:58",
+   "label": "結婚を祝う会に出席",
+   "place": "東京都目黒区 知人宅",
+   "category": "個人"
+  },
+  {
+   "time": "16:11",
+   "label": "移動",
+   "place": "東京都目黒区 知人宅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 869
+  },
+  {
+   "start": "14:29",
+   "end": "14:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "14:58",
+   "end": "16:11",
+   "category": "個人",
+   "label": "結婚を祝う会に出席",
+   "minutes": 73
+  },
+  {
+   "start": "16:11",
+   "end": "16:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "16:34",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 446
+  }
+ ],
+ "alloc_min": {
+  "居所": 1315,
+  "移動": 52,
+  "個人": 73
+ }
+}

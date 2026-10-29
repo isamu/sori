@@ -1,0 +1,255 @@
+{
+ "date": "2011-08-10",
+ "pm": "菅直人",
+ "source": "朝日新聞社 2011.08.10",
+ "work_min": 849,
+ "residence_min": 591,
+ "meetings": 4,
+ "first_work": "06:31",
+ "events": [
+  {
+   "time": "06:31",
+   "label": "福山官房副長官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:18",
+   "label": "福山氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:30",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:53",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院決算行政監視委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:24",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:30",
+   "label": "衆院財務金融委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:35",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:45",
+   "label": "芝首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:02",
+   "label": "植松内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:21",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:12",
+   "label": "「一人ひとりを包摂する社会」特命チーム会合",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:34",
+   "label": "同会合終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "18:36",
+   "label": "東京・赤坂のすし店「赤坂 鮨（すし）金ちゃん」",
+   "place": "赤坂",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "民主党の加藤公一、寺田学両衆院議員と食事",
+   "place": "赤坂",
+   "category": "会食"
+  },
+  {
+   "time": "19:48",
+   "label": "阿久津内閣府政務官加わる",
+   "place": "赤坂",
+   "category": "会食"
+  },
+  {
+   "time": "20:40",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 391
+  },
+  {
+   "start": "06:31",
+   "end": "08:18",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 107
+  },
+  {
+   "start": "08:18",
+   "end": "08:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:30",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "08:53",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:00",
+   "end": "12:00",
+   "category": "国会",
+   "label": "衆院決算行政監視委員会",
+   "minutes": 180
+  },
+  {
+   "start": "12:00",
+   "end": "13:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 84
+  },
+  {
+   "start": "13:24",
+   "end": "13:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:30",
+   "end": "15:35",
+   "category": "国会",
+   "label": "衆院財務金融委員会",
+   "minutes": 125
+  },
+  {
+   "start": "15:35",
+   "end": "15:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "15:45",
+   "end": "16:02",
+   "category": "面会・会談",
+   "label": "芝首相補佐官",
+   "minutes": 17
+  },
+  {
+   "start": "16:02",
+   "end": "16:21",
+   "category": "面会・会談",
+   "label": "植松内閣情報官",
+   "minutes": 19
+  },
+  {
+   "start": "16:21",
+   "end": "17:12",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 51
+  },
+  {
+   "start": "17:12",
+   "end": "17:34",
+   "category": "官邸執務",
+   "label": "「一人ひとりを包摂する社会」特命チーム会合",
+   "minutes": 22
+  },
+  {
+   "start": "17:34",
+   "end": "18:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 62
+  },
+  {
+   "start": "18:36",
+   "end": "19:48",
+   "category": "会食",
+   "label": "民主党の加藤公一、寺田学両衆院議員と食事",
+   "minutes": 72
+  },
+  {
+   "start": "19:48",
+   "end": "20:40",
+   "category": "会食",
+   "label": "阿久津内閣府政務官加わる",
+   "minutes": 52
+  },
+  {
+   "start": "20:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 200
+  }
+ ],
+ "alloc_min": {
+  "居所": 591,
+  "面会・会談": 143,
+  "公務（内容未詳）": 204,
+  "国会": 305,
+  "官邸執務": 73,
+  "会食": 124
+ }
+}

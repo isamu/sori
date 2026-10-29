@@ -1,0 +1,113 @@
+{
+ "date": "2014-11-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 128,
+ "residence_min": 1312,
+ "meetings": 1,
+ "first_work": "12:34",
+ "events": [
+  {
+   "time": "12:34",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:48",
+   "label": "太田昭宏国土交通相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:21",
+   "label": "原子力総合防災訓練",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:30",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 754
+  },
+  {
+   "start": "12:34",
+   "end": "12:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "12:46",
+   "end": "12:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:48",
+   "end": "12:58",
+   "category": "面会・会談",
+   "label": "太田昭宏国土交通相",
+   "minutes": 10
+  },
+  {
+   "start": "12:58",
+   "end": "13:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "13:21",
+   "end": "13:55",
+   "category": "官邸執務",
+   "label": "原子力総合防災訓練",
+   "minutes": 34
+  },
+  {
+   "start": "13:55",
+   "end": "14:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "14:30",
+   "end": "14:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "14:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 558
+  }
+ ],
+ "alloc_min": {
+  "居所": 1312,
+  "移動": 24,
+  "公務（内容未詳）": 60,
+  "面会・会談": 10,
+  "官邸執務": 34
+ }
+}

@@ -1,0 +1,774 @@
+{
+ "date": "2016-09-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 589,
+ "residence_min": 851,
+ "meetings": 13,
+ "first_work": "08:47",
+ "events": [
+  {
+   "time": "08:47",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:01",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:10",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "09:33",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:43",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:56",
+   "label": "高橋清孝新内閣危機管理監 西村泰彦旧内閣危機管理監",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:58",
+   "label": "沖田芳樹新警視総監 高橋清孝旧警視総監",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:00",
+   "label": "前田哲防衛政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:35",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:06",
+   "label": "稲田朋美防衛相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:24",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:28",
+   "label": "新潟県知事選立候補予定者に推薦証渡し",
+   "place": "国会 自民党幹事長会議室",
+   "category": "党務"
+  },
+  {
+   "time": "11:35",
+   "label": "自民党両院議員総会",
+   "place": "国会 衆院第14控室",
+   "category": "党務"
+  },
+  {
+   "time": "11:45",
+   "label": "甘利明自民党衆院議員",
+   "place": "国会 衆院第14控室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:51",
+   "label": "自民党代議士会",
+   "place": "国会 衆院第14控室",
+   "category": "党務"
+  },
+  {
+   "time": "12:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:15",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:16",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:39",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:42",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "第192臨時国会開会式",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:10",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "13:12",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:54",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議。所信表明演説",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:52",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:01",
+   "label": "参院本会議。所信表明演説",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:48",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "15:52",
+   "label": "加藤勝信働き方改革担当相 新原浩朗政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:24",
+   "label": "杉山晋輔事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:59",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:03",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:30",
+   "label": "岩切秀雄鹿児島県薩摩川内市長。森山裕自民党同県連会長同席",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:38",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:42",
+   "label": "鶴保庸介沖縄北方担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:06",
+   "label": "谷内正太郎国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:13",
+   "label": "西村康稔自民党総裁特別補佐",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:35",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "浜田靖一衆院予算委員長ら与党の衆院予算委理事と会食",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 527
+  },
+  {
+   "start": "08:47",
+   "end": "09:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "09:01",
+   "end": "09:10",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 9
+  },
+  {
+   "start": "09:10",
+   "end": "09:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "09:19",
+   "end": "09:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "09:33",
+   "end": "09:41",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 8
+  },
+  {
+   "start": "09:41",
+   "end": "09:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:43",
+   "end": "09:55",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 12
+  },
+  {
+   "start": "09:55",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:56",
+   "end": "09:57",
+   "category": "面会・会談",
+   "label": "高橋清孝新内閣危機管理監 西村泰彦旧内閣危機管理監",
+   "minutes": 1
+  },
+  {
+   "start": "09:57",
+   "end": "09:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:58",
+   "end": "09:59",
+   "category": "面会・会談",
+   "label": "沖田芳樹新警視総監 高橋清孝旧警視総監",
+   "minutes": 1
+  },
+  {
+   "start": "09:59",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:00",
+   "end": "10:21",
+   "category": "面会・会談",
+   "label": "前田哲防衛政策局長 河野克俊統合幕僚長",
+   "minutes": 21
+  },
+  {
+   "start": "10:21",
+   "end": "10:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "10:35",
+   "end": "11:05",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 30
+  },
+  {
+   "start": "11:05",
+   "end": "11:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:06",
+   "end": "11:21",
+   "category": "面会・会談",
+   "label": "稲田朋美防衛相",
+   "minutes": 15
+  },
+  {
+   "start": "11:21",
+   "end": "11:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:24",
+   "end": "11:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:26",
+   "end": "11:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:28",
+   "end": "11:33",
+   "category": "党務",
+   "label": "新潟県知事選立候補予定者に推薦証渡し",
+   "minutes": 5
+  },
+  {
+   "start": "11:33",
+   "end": "11:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:35",
+   "end": "11:44",
+   "category": "党務",
+   "label": "自民党両院議員総会",
+   "minutes": 9
+  },
+  {
+   "start": "11:44",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:45",
+   "end": "11:46",
+   "category": "面会・会談",
+   "label": "甘利明自民党衆院議員",
+   "minutes": 1
+  },
+  {
+   "start": "11:46",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "11:51",
+   "end": "11:56",
+   "category": "党務",
+   "label": "自民党代議士会",
+   "minutes": 5
+  },
+  {
+   "start": "11:56",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "12:02",
+   "end": "12:12",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 10
+  },
+  {
+   "start": "12:12",
+   "end": "12:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:15",
+   "end": "12:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 23
+  },
+  {
+   "start": "12:39",
+   "end": "12:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:40",
+   "end": "12:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 9
+  },
+  {
+   "start": "12:51",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:00",
+   "end": "13:06",
+   "category": "国会",
+   "label": "第192臨時国会開会式",
+   "minutes": 6
+  },
+  {
+   "start": "13:06",
+   "end": "13:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:10",
+   "end": "13:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 39
+  },
+  {
+   "start": "13:51",
+   "end": "13:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:53",
+   "end": "13:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "13:59",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:02",
+   "end": "14:48",
+   "category": "国会",
+   "label": "衆院本会議。所信表明演説",
+   "minutes": 46
+  },
+  {
+   "start": "14:48",
+   "end": "14:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "14:57",
+   "end": "15:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:01",
+   "end": "15:45",
+   "category": "国会",
+   "label": "参院本会議。所信表明演説",
+   "minutes": 44
+  },
+  {
+   "start": "15:45",
+   "end": "15:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:48",
+   "end": "15:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:50",
+   "end": "15:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:52",
+   "end": "16:23",
+   "category": "面会・会談",
+   "label": "加藤勝信働き方改革担当相 新原浩朗政策統括官",
+   "minutes": 31
+  },
+  {
+   "start": "16:23",
+   "end": "16:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:24",
+   "end": "16:58",
+   "category": "面会・会談",
+   "label": "杉山晋輔事務次官",
+   "minutes": 34
+  },
+  {
+   "start": "16:58",
+   "end": "16:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:59",
+   "end": "17:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:00",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:03",
+   "end": "17:29",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 26
+  },
+  {
+   "start": "17:29",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:30",
+   "end": "17:35",
+   "category": "面会・会談",
+   "label": "岩切秀雄鹿児島県薩摩川内市長。森山裕自民党同県連会長同席",
+   "minutes": 5
+  },
+  {
+   "start": "17:35",
+   "end": "17:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:38",
+   "end": "17:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:40",
+   "end": "17:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:42",
+   "end": "17:55",
+   "category": "面会・会談",
+   "label": "鶴保庸介沖縄北方担当相",
+   "minutes": 13
+  },
+  {
+   "start": "17:55",
+   "end": "18:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "18:06",
+   "end": "18:12",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長",
+   "minutes": 6
+  },
+  {
+   "start": "18:12",
+   "end": "18:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:13",
+   "end": "18:27",
+   "category": "面会・会談",
+   "label": "西村康稔自民党総裁特別補佐",
+   "minutes": 14
+  },
+  {
+   "start": "18:27",
+   "end": "18:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "18:35",
+   "end": "18:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 324
+  }
+ ],
+ "alloc_min": {
+  "居所": 851,
+  "移動": 37,
+  "式典・行事": 9,
+  "公務（内容未詳）": 119,
+  "官邸執務": 70,
+  "面会・会談": 184,
+  "党務": 45,
+  "国会": 125
+ }
+}

@@ -1,0 +1,299 @@
+{
+ "date": "2017-10-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 768,
+ "residence_min": 672,
+ "meetings": 0,
+ "first_work": "08:22",
+ "events": [
+  {
+   "time": "08:22",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:47",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:24",
+   "label": "新千歳空港",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:18",
+   "label": "街頭演説",
+   "place": "札幌市厚別区の商業施設「カテプリ」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:23",
+   "label": "街頭演説",
+   "place": "同市豊平区の自民党衆院選立候補者の事務所前",
+   "category": "党務"
+  },
+  {
+   "time": "13:11",
+   "label": "街頭演説",
+   "place": "同市東区役所前",
+   "category": "党務"
+  },
+  {
+   "time": "13:41",
+   "label": "レストラン「ガーデングリル」で長谷川岳自民党北海道連選対本部長と食事。利用客、従業員と記念撮影",
+   "place": "同区のサッポロビール園",
+   "category": "会食"
+  },
+  {
+   "time": "14:27",
+   "label": "街頭演説",
+   "place": "同市中央区の大通西４交差点",
+   "category": "党務"
+  },
+  {
+   "time": "15:16",
+   "label": "街頭演説",
+   "place": "ＪＲ琴似駅前",
+   "category": "党務"
+  },
+  {
+   "time": "16:11",
+   "label": "利用者と記念撮影",
+   "place": "北海道江別市の道央自動車道野幌パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "16:40",
+   "label": "街頭演説",
+   "place": "岩見沢市の岩見沢駅東市民広場公園",
+   "category": "党務"
+  },
+  {
+   "time": "18:22",
+   "label": "スープカレー店「ｌａｖｉ　新千歳空港店」で秘書官らと食事",
+   "place": "新千歳空港",
+   "category": "会食"
+  },
+  {
+   "time": "20:32",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:43",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 502
+  },
+  {
+   "start": "08:22",
+   "end": "08:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "08:47",
+   "end": "09:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "09:17",
+   "end": "10:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "10:24",
+   "end": "10:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "10:37",
+   "end": "11:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "11:18",
+   "end": "11:54",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "11:54",
+   "end": "12:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "12:23",
+   "end": "12:54",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "12:54",
+   "end": "13:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "13:11",
+   "end": "13:38",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "13:38",
+   "end": "13:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:41",
+   "end": "14:06",
+   "category": "会食",
+   "label": "レストラン「ガーデングリル」で長谷川岳自民党北海道連選対本部長と食事。利用客、従業員と記念撮影",
+   "minutes": 25
+  },
+  {
+   "start": "14:06",
+   "end": "14:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "14:27",
+   "end": "14:57",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "14:57",
+   "end": "15:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "15:16",
+   "end": "15:48",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "15:48",
+   "end": "16:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "16:11",
+   "end": "16:16",
+   "category": "移動",
+   "label": "利用者と記念撮影",
+   "minutes": 5
+  },
+  {
+   "start": "16:16",
+   "end": "16:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "16:40",
+   "end": "17:13",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "17:13",
+   "end": "18:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 69
+  },
+  {
+   "start": "18:22",
+   "end": "19:14",
+   "category": "会食",
+   "label": "スープカレー店「ｌａｖｉ　新千歳空港店」で秘書官らと食事",
+   "minutes": 52
+  },
+  {
+   "start": "19:14",
+   "end": "20:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 78
+  },
+  {
+   "start": "20:32",
+   "end": "20:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "20:43",
+   "end": "21:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "21:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 170
+  }
+ ],
+ "alloc_min": {
+  "居所": 672,
+  "移動": 111,
+  "公務（内容未詳）": 391,
+  "党務": 189,
+  "会食": 77
+ }
+}

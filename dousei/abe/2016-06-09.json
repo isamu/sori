@@ -1,0 +1,354 @@
+{
+ "date": "2016-06-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 898,
+ "residence_min": 542,
+ "meetings": 1,
+ "first_work": "07:32",
+ "events": [
+  {
+   "time": "07:32",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:56",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:13",
+   "label": "山形空港",
+   "place": "山形空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:35",
+   "label": "収穫体験、試食",
+   "place": "山形県天童市 「大町さくらんぼ園」",
+   "category": "視察"
+  },
+  {
+   "time": "10:35",
+   "label": "餌やり、試食",
+   "place": "山形市 肉牛農家「農耕房ひらお」",
+   "category": "移動"
+  },
+  {
+   "time": "11:25",
+   "label": "同農園内のカフェ「ＨＡＴＡＫＥ　Ｃａｆｅ」で遠藤利明五輪担当相、横戸長兵衛上山市長らと昼食",
+   "place": "同県上山市 観光農園「高橋フルーツランド」",
+   "category": "会食"
+  },
+  {
+   "time": "12:16",
+   "label": "農家らと意見交換",
+   "place": "同市の「旧尾形家住宅」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:02",
+   "label": "街頭演説",
+   "place": "山形市の複合ビル「霞城セントラル」前",
+   "category": "党務"
+  },
+  {
+   "time": "15:26",
+   "label": "街頭演説",
+   "place": "同県南陽市 スーパー「ヤマザワ南陽店」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:01",
+   "label": "ＪＲ赤湯駅",
+   "place": "ＪＲ赤湯駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:35",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "18:39",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:00",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:19",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:28",
+   "label": "日本精神科病院協会総会",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": "19:54",
+   "label": "移動",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": "20:01",
+   "label": "昭恵夫人、友人と食事",
+   "place": "東京・内神田 居酒屋「ＵＺＵ」",
+   "category": "会食"
+  },
+  {
+   "time": "22:12",
+   "label": "移動",
+   "place": "東京・内神田 居酒屋「ＵＺＵ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 452
+  },
+  {
+   "start": "07:32",
+   "end": "07:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "07:56",
+   "end": "08:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "08:30",
+   "end": "09:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "09:13",
+   "end": "09:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:26",
+   "end": "09:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "09:35",
+   "end": "09:56",
+   "category": "視察",
+   "label": "収穫体験、試食",
+   "minutes": 21
+  },
+  {
+   "start": "09:56",
+   "end": "10:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "10:35",
+   "end": "11:00",
+   "category": "移動",
+   "label": "餌やり、試食",
+   "minutes": 25
+  },
+  {
+   "start": "11:00",
+   "end": "11:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "11:25",
+   "end": "12:07",
+   "category": "会食",
+   "label": "同農園内のカフェ「ＨＡＴＡＫＥ　Ｃａｆｅ」で遠藤利明五輪担当相、横戸長兵衛上山市長らと昼食",
+   "minutes": 42
+  },
+  {
+   "start": "12:07",
+   "end": "12:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "12:16",
+   "end": "13:32",
+   "category": "面会・会談",
+   "label": "農家らと意見交換",
+   "minutes": 76
+  },
+  {
+   "start": "13:32",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "14:02",
+   "end": "14:37",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "14:37",
+   "end": "15:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "15:26",
+   "end": "15:59",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "15:59",
+   "end": "16:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:01",
+   "end": "16:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "16:11",
+   "end": "18:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 144
+  },
+  {
+   "start": "18:35",
+   "end": "18:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:39",
+   "end": "18:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "18:53",
+   "end": "19:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "19:00",
+   "end": "19:13",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 13
+  },
+  {
+   "start": "19:13",
+   "end": "19:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "19:19",
+   "end": "19:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:28",
+   "end": "19:54",
+   "category": "移動",
+   "label": "日本精神科病院協会総会",
+   "minutes": 26
+  },
+  {
+   "start": "19:54",
+   "end": "20:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "20:01",
+   "end": "22:12",
+   "category": "会食",
+   "label": "昭恵夫人、友人と食事",
+   "minutes": 131
+  },
+  {
+   "start": "22:12",
+   "end": "22:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "22:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 90
+  }
+ ],
+ "alloc_min": {
+  "居所": 542,
+  "移動": 180,
+  "公務（内容未詳）": 367,
+  "視察": 21,
+  "会食": 173,
+  "面会・会談": 76,
+  "党務": 68,
+  "官邸執務": 13
+ }
+}

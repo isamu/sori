@@ -1,0 +1,329 @@
+{
+ "date": "2017-01-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 840,
+ "residence_min": 600,
+ "meetings": 4,
+ "first_work": "07:02",
+ "events": [
+  {
+   "time": "07:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:15",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:45",
+   "label": "菅義偉官房長官",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "08:48",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:58",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:12",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:36",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:41",
+   "label": "谷内正太郎国家安全保障局長 杉山晋輔事務次官 秋葉剛男審議官 正木靖欧州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:04",
+   "label": "加藤勝信働き方改革担当相 新原浩朗政策統括官 岡崎淳一審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:42",
+   "label": "アルメニアのサハキャン国民議会議長らの表敬。衛藤征士郎日アルメニア友好議員連盟会長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:04",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:06",
+   "label": "茂木友三郎キッコーマン名誉会長、中原伸之元日本銀行審議委員ら財界人と会食",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 422
+  },
+  {
+   "start": "07:02",
+   "end": "07:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:14",
+   "end": "07:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:15",
+   "end": "08:30",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 75
+  },
+  {
+   "start": "08:30",
+   "end": "08:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:40",
+   "end": "08:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:42",
+   "end": "08:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:45",
+   "end": "08:46",
+   "category": "国会",
+   "label": "菅義偉官房長官",
+   "minutes": 1
+  },
+  {
+   "start": "08:46",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:48",
+   "end": "11:55",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 187
+  },
+  {
+   "start": "11:55",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:58",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 54
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:07",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 247
+  },
+  {
+   "start": "17:07",
+   "end": "17:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:12",
+   "end": "17:32",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 20
+  },
+  {
+   "start": "17:32",
+   "end": "17:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:36",
+   "end": "17:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:38",
+   "end": "17:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:41",
+   "end": "18:03",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 杉山晋輔事務次官 秋葉剛男審議官 正木靖欧州局長",
+   "minutes": 22
+  },
+  {
+   "start": "18:03",
+   "end": "18:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:04",
+   "end": "18:41",
+   "category": "面会・会談",
+   "label": "加藤勝信働き方改革担当相 新原浩朗政策統括官 岡崎淳一審議官",
+   "minutes": 37
+  },
+  {
+   "start": "18:41",
+   "end": "18:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:42",
+   "end": "19:02",
+   "category": "面会・会談",
+   "label": "アルメニアのサハキャン国民議会議長らの表敬。衛藤征士郎日アルメニア友好議員連盟会長同席",
+   "minutes": 20
+  },
+  {
+   "start": "19:02",
+   "end": "19:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:04",
+   "end": "19:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "19:06",
+   "end": "21:02",
+   "category": "会食",
+   "label": "茂木友三郎キッコーマン名誉会長、中原伸之元日本銀行審議委員ら財界人と会食",
+   "minutes": 116
+  },
+  {
+   "start": "21:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 178
+  }
+ ],
+ "alloc_min": {
+  "居所": 600,
+  "移動": 22,
+  "公務（内容未詳）": 39,
+  "面会・会談": 154,
+  "国会": 435,
+  "官邸執務": 54,
+  "党務": 20,
+  "会食": 116
+ }
+}

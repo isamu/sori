@@ -1,0 +1,495 @@
+{
+ "date": "2018-06-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 679,
+ "residence_min": 761,
+ "meetings": 10,
+ "first_work": "07:21",
+ "events": [
+  {
+   "time": "07:21",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:32",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:12",
+   "label": "農林水産業・地域の活力創造本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:26",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:40",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:50",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:00",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:11",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "13:42",
+   "label": "中谷元・自民党安全保障調査会長らから提言書受け取り",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "14:04",
+   "label": "山崎和之審議官 鈴木秀生地球規模課題審議官 梨田和也国際協力局長 武内良樹国際局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:54",
+   "label": "森健良審議官 山崎和之審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:00",
+   "label": "秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:07",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:13",
+   "label": "衆院内閣委員会",
+   "place": "国会 衆院第13委員室",
+   "category": "国会"
+  },
+  {
+   "time": "16:33",
+   "label": "移動",
+   "place": "国会 衆院第13委員室",
+   "category": "移動"
+  },
+  {
+   "time": "16:37",
+   "label": "茂木敏充経済財政担当相 河内隆事務次官 新原浩朗政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:13",
+   "label": "茨城県鉾田市の「ほこたブランド大使」の米川優子さんらの表敬。額賀福志郎自民党衆院議員同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:19",
+   "label": "人生100年時代構想会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:11",
+   "label": "薗浦健太郎首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:26",
+   "label": "平田竹男参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:39",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 441
+  },
+  {
+   "start": "07:21",
+   "end": "07:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:22",
+   "end": "07:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "07:32",
+   "end": "08:10",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 38
+  },
+  {
+   "start": "08:10",
+   "end": "08:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:12",
+   "end": "08:21",
+   "category": "官邸執務",
+   "label": "農林水産業・地域の活力創造本部",
+   "minutes": 9
+  },
+  {
+   "start": "08:21",
+   "end": "08:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:26",
+   "end": "08:38",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 12
+  },
+  {
+   "start": "08:38",
+   "end": "08:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:40",
+   "end": "08:49",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 9
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "09:25",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 35
+  },
+  {
+   "start": "09:25",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "09:51",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "09:57",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:00",
+   "end": "12:10",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 130
+  },
+  {
+   "start": "12:10",
+   "end": "12:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:11",
+   "end": "12:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:14",
+   "end": "13:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 88
+  },
+  {
+   "start": "13:42",
+   "end": "14:02",
+   "category": "党務",
+   "label": "中谷元・自民党安全保障調査会長らから提言書受け取り",
+   "minutes": 20
+  },
+  {
+   "start": "14:02",
+   "end": "14:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:04",
+   "end": "14:53",
+   "category": "面会・会談",
+   "label": "山崎和之審議官 鈴木秀生地球規模課題審議官 梨田和也国際協力局長 武内良樹国際局長",
+   "minutes": 49
+  },
+  {
+   "start": "14:53",
+   "end": "14:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:54",
+   "end": "14:59",
+   "category": "面会・会談",
+   "label": "森健良審議官 山崎和之審議官",
+   "minutes": 5
+  },
+  {
+   "start": "14:59",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:00",
+   "end": "15:04",
+   "category": "面会・会談",
+   "label": "秋葉剛男事務次官",
+   "minutes": 4
+  },
+  {
+   "start": "15:04",
+   "end": "15:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:07",
+   "end": "15:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:08",
+   "end": "15:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "15:13",
+   "end": "16:31",
+   "category": "国会",
+   "label": "衆院内閣委員会",
+   "minutes": 78
+  },
+  {
+   "start": "16:31",
+   "end": "16:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:33",
+   "end": "16:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:35",
+   "end": "16:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:37",
+   "end": "17:11",
+   "category": "面会・会談",
+   "label": "茂木敏充経済財政担当相 河内隆事務次官 新原浩朗政策統括官",
+   "minutes": 34
+  },
+  {
+   "start": "17:11",
+   "end": "17:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:13",
+   "end": "17:18",
+   "category": "面会・会談",
+   "label": "茨城県鉾田市の「ほこたブランド大使」の米川優子さんらの表敬。額賀福志郎自民党衆院議員同席",
+   "minutes": 5
+  },
+  {
+   "start": "17:18",
+   "end": "17:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:19",
+   "end": "17:59",
+   "category": "官邸執務",
+   "label": "人生100年時代構想会議",
+   "minutes": 40
+  },
+  {
+   "start": "17:59",
+   "end": "18:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "18:11",
+   "end": "18:25",
+   "category": "面会・会談",
+   "label": "薗浦健太郎首相補佐官",
+   "minutes": 14
+  },
+  {
+   "start": "18:25",
+   "end": "18:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:26",
+   "end": "18:33",
+   "category": "面会・会談",
+   "label": "平田竹男参与",
+   "minutes": 7
+  },
+  {
+   "start": "18:33",
+   "end": "18:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:39",
+   "end": "18:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 320
+  }
+ ],
+ "alloc_min": {
+  "居所": 761,
+  "移動": 10,
+  "公務（内容未詳）": 177,
+  "面会・会談": 200,
+  "官邸執務": 61,
+  "国会": 211,
+  "党務": 20
+ }
+}

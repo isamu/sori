@@ -1,0 +1,301 @@
+{
+ "date": "2016-04-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 836,
+ "residence_min": 604,
+ "meetings": 4,
+ "first_work": "06:52",
+ "events": [
+  {
+   "time": "06:52",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "06:55",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:01",
+   "label": "国際金融経済分析会合",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院環太平洋連携協定(TPP)特別委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:02",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:03",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院TPP特別委",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:22",
+   "label": "神津里季生連合会長ら先進７カ国（Ｇ７）関係国労働組合代表による表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:52",
+   "label": "「日本の美」総合プロジェクト懇談会",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:13",
+   "label": "同懇談会メンバーと夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:46",
+   "label": "同懇談会メンバーを見送り",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 412
+  },
+  {
+   "start": "06:52",
+   "end": "06:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "06:53",
+   "end": "06:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "06:55",
+   "end": "07:55",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 60
+  },
+  {
+   "start": "07:55",
+   "end": "08:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:01",
+   "end": "08:39",
+   "category": "官邸執務",
+   "label": "国際金融経済分析会合",
+   "minutes": 38
+  },
+  {
+   "start": "08:39",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:59",
+   "end": "11:59",
+   "category": "国会",
+   "label": "衆院環太平洋連携協定(TPP)特別委員会",
+   "minutes": 180
+  },
+  {
+   "start": "11:59",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:02",
+   "end": "12:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 51
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:03",
+   "category": "国会",
+   "label": "衆院TPP特別委",
+   "minutes": 243
+  },
+  {
+   "start": "17:03",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:06",
+   "end": "17:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:07",
+   "end": "17:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "17:22",
+   "end": "17:42",
+   "category": "面会・会談",
+   "label": "神津里季生連合会長ら先進７カ国（Ｇ７）関係国労働組合代表による表敬",
+   "minutes": 20
+  },
+  {
+   "start": "17:42",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:52",
+   "end": "18:57",
+   "category": "面会・会談",
+   "label": "「日本の美」総合プロジェクト懇談会",
+   "minutes": 65
+  },
+  {
+   "start": "18:57",
+   "end": "19:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "19:12",
+   "end": "19:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:13",
+   "end": "20:46",
+   "category": "会食",
+   "label": "同懇談会メンバーと夕食会",
+   "minutes": 93
+  },
+  {
+   "start": "20:46",
+   "end": "20:48",
+   "category": "面会・会談",
+   "label": "同懇談会メンバーを見送り",
+   "minutes": 2
+  },
+  {
+   "start": "20:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 192
+  }
+ ],
+ "alloc_min": {
+  "居所": 604,
+  "移動": 6,
+  "公務（内容未詳）": 78,
+  "面会・会談": 147,
+  "官邸執務": 89,
+  "国会": 423,
+  "会食": 93
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "date": "2016-06-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 461,
+ "residence_min": 979,
+ "meetings": 0,
+ "first_work": "12:48",
+ "events": [
+  {
+   "time": "12:48",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:06",
+   "label": "同施設内の「カレッタスタジオ」で選挙用のポスター、ＣＭ撮影。木村太郎自民党広報本部長同席。",
+   "place": "東京・東新橋 複合施設「カレッタ汐留」",
+   "category": "党務"
+  },
+  {
+   "time": "16:33",
+   "label": "移動",
+   "place": "東京・東新橋 複合施設「カレッタ汐留」",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:50",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:56",
+   "label": "秘書官らと食事",
+   "place": "東京・宇田川町 焼き肉店「ゆうじ」",
+   "category": "会食"
+  },
+  {
+   "time": "21:11",
+   "label": "移動",
+   "place": "東京・宇田川町 焼き肉店「ゆうじ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 768
+  },
+  {
+   "start": "12:48",
+   "end": "13:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "13:06",
+   "end": "16:33",
+   "category": "党務",
+   "label": "同施設内の「カレッタスタジオ」で選挙用のポスター、ＣＭ撮影。木村太郎自民党広報本部長同席。",
+   "minutes": 207
+  },
+  {
+   "start": "16:33",
+   "end": "17:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "17:02",
+   "end": "17:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 48
+  },
+  {
+   "start": "17:50",
+   "end": "17:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "17:56",
+   "end": "21:11",
+   "category": "会食",
+   "label": "秘書官らと食事",
+   "minutes": 195
+  },
+  {
+   "start": "21:11",
+   "end": "21:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "21:17",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 163
+  }
+ ],
+ "alloc_min": {
+  "居所": 979,
+  "移動": 59,
+  "党務": 207,
+  "会食": 195
+ }
+}

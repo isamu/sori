@@ -1,0 +1,77 @@
+{
+ "date": "2022-11-18",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 6,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "アジア太平洋経済協力会議（ＡＰＥＣ）首脳会議",
+   "place": "国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "タイ・バンコクのホテル「コンラッド・バンコク」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "コンラッド・バンコク",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "ワチラロンコン国王を表敬",
+   "place": "タイ王宮",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＡＰＥＣ台湾代表の張忠謀氏と会談",
+   "place": "国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＡＰＥＣビジネス諮問委員会（ＡＢＡＣ）との対話",
+   "place": "国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ワーキングランチ",
+   "place": "国際会議場",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ＡＰＥＣ招待国との会議",
+   "place": "国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日米韓、カナダ、オーストラリア、ニュージーランド首脳級の緊急会合",
+   "place": "国際会議場",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

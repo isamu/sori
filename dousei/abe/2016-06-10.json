@@ -1,0 +1,518 @@
+{
+ "date": "2016-06-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 900,
+ "residence_min": 540,
+ "meetings": 1,
+ "first_work": "07:39",
+ "events": [
+  {
+   "time": "07:39",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:55",
+   "label": "自民党参院選立候補予定者の朝日健太郎氏。菅義偉官房長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:09",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:21",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:44",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:06",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:08",
+   "label": "街頭演説",
+   "place": "ＪＲ奈良駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "12:17",
+   "label": "短大生らと昼食",
+   "place": "奈良県王寺町の白鳳短大",
+   "category": "会食"
+  },
+  {
+   "time": "13:31",
+   "label": "街頭演説",
+   "place": "同県橿原市橿原神宮森林遊苑",
+   "category": "党務"
+  },
+  {
+   "time": "14:03",
+   "label": "参拝",
+   "place": "橿原神宮",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:07",
+   "label": "観光客らと記念撮影",
+   "place": "三重県伊賀市の名阪上野忍者ドライブイン",
+   "category": "移動"
+  },
+  {
+   "time": "16:01",
+   "label": "街頭演説",
+   "place": "同県鈴鹿市の弁天山公園",
+   "category": "党務"
+  },
+  {
+   "time": "16:47",
+   "label": "近鉄白子駅",
+   "place": "近鉄白子駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:58",
+   "label": "近鉄特急",
+   "place": "近鉄白子駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:20",
+   "label": "近鉄桑名駅",
+   "place": "近鉄桑名駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:23",
+   "label": "徒歩",
+   "place": "近鉄桑名駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:27",
+   "label": "街頭演説",
+   "place": "ＪＲ桑名駅東口ロータリー",
+   "category": "党務"
+  },
+  {
+   "time": "18:03",
+   "label": "徒歩",
+   "place": "ＪＲ桑名駅東口ロータリー",
+   "category": "移動"
+  },
+  {
+   "time": "18:15",
+   "label": "近鉄桑名駅",
+   "place": "近鉄桑名駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:22",
+   "label": "近鉄特急",
+   "place": "近鉄桑名駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:33",
+   "label": "近鉄四日市駅",
+   "place": "近鉄四日市駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:38",
+   "label": "自民党参院選立候補予定者の集会であいさつ",
+   "place": "同県四日市市の市文化会館",
+   "category": "党務"
+  },
+  {
+   "time": "19:38",
+   "label": "近鉄四日市駅",
+   "place": "近鉄四日市駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:50",
+   "label": "近鉄特急",
+   "place": "近鉄四日市駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:21",
+   "label": "近鉄名古屋駅",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:22",
+   "label": "徒歩",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:24",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "22:20",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "22:24",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:39",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 459
+  },
+  {
+   "start": "07:39",
+   "end": "07:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "07:52",
+   "end": "07:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "07:55",
+   "end": "08:00",
+   "category": "面会・会談",
+   "label": "自民党参院選立候補予定者の朝日健太郎氏。菅義偉官房長官同席",
+   "minutes": 5
+  },
+  {
+   "start": "08:00",
+   "end": "08:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:09",
+   "end": "08:14",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 5
+  },
+  {
+   "start": "08:14",
+   "end": "08:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:21",
+   "end": "08:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "08:44",
+   "end": "09:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "09:23",
+   "end": "10:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "10:06",
+   "end": "10:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "10:13",
+   "end": "11:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "11:08",
+   "end": "11:40",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "11:40",
+   "end": "12:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "12:17",
+   "end": "12:55",
+   "category": "会食",
+   "label": "短大生らと昼食",
+   "minutes": 38
+  },
+  {
+   "start": "12:55",
+   "end": "13:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "13:31",
+   "end": "14:00",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "14:00",
+   "end": "14:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:03",
+   "end": "14:18",
+   "category": "式典・行事",
+   "label": "参拝",
+   "minutes": 15
+  },
+  {
+   "start": "14:18",
+   "end": "15:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "15:07",
+   "end": "15:12",
+   "category": "移動",
+   "label": "観光客らと記念撮影",
+   "minutes": 5
+  },
+  {
+   "start": "15:12",
+   "end": "16:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "16:01",
+   "end": "16:33",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "16:33",
+   "end": "16:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "16:47",
+   "end": "16:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "16:58",
+   "end": "17:20",
+   "category": "移動",
+   "label": "近鉄特急",
+   "minutes": 22
+  },
+  {
+   "start": "17:20",
+   "end": "17:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:23",
+   "end": "17:27",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 4
+  },
+  {
+   "start": "17:27",
+   "end": "18:03",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "18:03",
+   "end": "18:15",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 12
+  },
+  {
+   "start": "18:15",
+   "end": "18:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "18:22",
+   "end": "18:33",
+   "category": "移動",
+   "label": "近鉄特急",
+   "minutes": 11
+  },
+  {
+   "start": "18:33",
+   "end": "18:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:36",
+   "end": "18:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:38",
+   "end": "19:36",
+   "category": "党務",
+   "label": "自民党参院選立候補予定者の集会であいさつ",
+   "minutes": 58
+  },
+  {
+   "start": "19:36",
+   "end": "19:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:38",
+   "end": "19:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "19:50",
+   "end": "20:21",
+   "category": "移動",
+   "label": "近鉄特急",
+   "minutes": 31
+  },
+  {
+   "start": "20:21",
+   "end": "20:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "20:22",
+   "end": "20:24",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 2
+  },
+  {
+   "start": "20:24",
+   "end": "20:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "20:40",
+   "end": "22:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 100
+  },
+  {
+   "start": "22:20",
+   "end": "22:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "22:24",
+   "end": "22:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "22:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 81
+  }
+ ],
+ "alloc_min": {
+  "居所": 540,
+  "移動": 237,
+  "公務（内容未詳）": 413,
+  "面会・会談": 5,
+  "官邸執務": 5,
+  "党務": 187,
+  "会食": 38,
+  "式典・行事": 15
+ }
+}

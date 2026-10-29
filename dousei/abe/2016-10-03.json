@@ -1,0 +1,295 @@
+{
+ "date": "2016-10-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 757,
+ "residence_min": 683,
+ "meetings": 2,
+ "first_work": "07:13",
+ "events": [
+  {
+   "time": "07:13",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:27",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:05",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:27",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:29",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:02",
+   "label": "同ホテル内の宴会場「葵」でＩＴ・家電見本市「ＣＥＡＴＥＣ　ＪＡＰＡＮ　2016」のオープニングレセプションに出席し、あいさつ",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:18",
+   "label": "自民党の竹下亘、公明党の大口善徳両国対委員長らと会食",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "18:18",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "20:20",
+   "label": "ノーベル医学生理学賞受賞が決まった大隅良典・東京工業大栄誉教授と電話",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 433
+  },
+  {
+   "start": "07:13",
+   "end": "07:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "07:26",
+   "end": "07:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:27",
+   "end": "08:07",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 40
+  },
+  {
+   "start": "08:07",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "08:50",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:51",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:58",
+   "end": "12:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 183
+  },
+  {
+   "start": "12:01",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:04",
+   "end": "12:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 49
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 241
+  },
+  {
+   "start": "17:01",
+   "end": "17:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:05",
+   "end": "17:24",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 19
+  },
+  {
+   "start": "17:24",
+   "end": "17:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:27",
+   "end": "17:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 22
+  },
+  {
+   "start": "17:51",
+   "end": "18:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:02",
+   "end": "18:18",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「葵」でＩＴ・家電見本市「ＣＥＡＴＥＣ　ＪＡＰＡＮ　2016」のオープニングレセプションに出席し、あいさつ",
+   "minutes": 16
+  },
+  {
+   "start": "18:18",
+   "end": "19:48",
+   "category": "会食",
+   "label": "自民党の竹下亘、公明党の大口善徳両国対委員長らと会食",
+   "minutes": 90
+  },
+  {
+   "start": "19:48",
+   "end": "20:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 32
+  },
+  {
+   "start": "20:20",
+   "end": "20:22",
+   "category": "面会・会談",
+   "label": "ノーベル医学生理学賞受賞が決まった大隅良典・東京工業大栄誉教授と電話",
+   "minutes": 2
+  },
+  {
+   "start": "20:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 218
+  }
+ ],
+ "alloc_min": {
+  "居所": 683,
+  "移動": 29,
+  "公務（内容未詳）": 66,
+  "面会・会談": 42,
+  "国会": 424,
+  "官邸執務": 71,
+  "党務": 19,
+  "式典・行事": 16,
+  "会食": 90
+ }
+}

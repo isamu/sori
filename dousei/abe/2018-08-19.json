@@ -1,0 +1,130 @@
+{
+ "date": "2018-08-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 162,
+ "residence_min": 816,
+ "meetings": 0,
+ "first_work": "07:30",
+ "events": [
+  {
+   "time": "07:30",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "07:34",
+   "label": "経団連の御手洗冨士夫名誉会長、榊原定征前会長、渡文明ＪＸＴＧホールディングス名誉顧問とゴルフ",
+   "place": "同県富士河口湖町のゴルフ場「富士桜カントリー倶楽部」",
+   "category": "個人"
+  },
+  {
+   "time": "15:16",
+   "label": "移動",
+   "place": "同県富士河口湖町のゴルフ場「富士桜カントリー倶楽部」",
+   "category": "移動"
+  },
+  {
+   "time": "15:20",
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  },
+  {
+   "time": "18:33",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "18:44",
+   "label": "昭恵夫人、母親の洋子さん、秘書官らと食事",
+   "place": "同県富士河口湖町の居酒屋「漁」",
+   "category": "会食"
+  },
+  {
+   "time": "20:56",
+   "label": "移動",
+   "place": "同県富士河口湖町の居酒屋「漁」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 450
+  },
+  {
+   "start": "07:30",
+   "end": "07:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "07:34",
+   "end": "15:16",
+   "category": "個人",
+   "label": "経団連の御手洗冨士夫名誉会長、榊原定征前会長、渡文明ＪＸＴＧホールディングス名誉顧問とゴルフ",
+   "minutes": 462
+  },
+  {
+   "start": "15:16",
+   "end": "15:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "15:20",
+   "end": "18:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 193
+  },
+  {
+   "start": "18:33",
+   "end": "18:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:44",
+   "end": "20:56",
+   "category": "会食",
+   "label": "昭恵夫人、母親の洋子さん、秘書官らと食事",
+   "minutes": 132
+  },
+  {
+   "start": "20:56",
+   "end": "21:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "21:07",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 173
+  }
+ ],
+ "alloc_min": {
+  "居所": 816,
+  "移動": 30,
+  "個人": 462,
+  "会食": 132
+ }
+}

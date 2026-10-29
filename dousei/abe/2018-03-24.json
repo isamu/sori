@@ -1,0 +1,437 @@
+{
+ "date": "2018-03-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 771,
+ "residence_min": 669,
+ "meetings": 0,
+ "first_work": "06:55",
+ "events": [
+  {
+   "time": "06:55",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:25",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "07:41",
+   "label": "海上保安庁の飛行機",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "08:47",
+   "label": "広島空港",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:01",
+   "label": "海保のヘリコプター",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:01",
+   "label": "石井啓一国土交通相と共に同校卒業生らの行進視察",
+   "place": "広島県呉市の海上保安大学校",
+   "category": "視察"
+  },
+  {
+   "time": "10:27",
+   "label": "同校卒業式に出席し、祝辞",
+   "place": "広島県呉市の海上保安大学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:38",
+   "label": "植樹。卒業生らと記念撮影",
+   "place": "広島県呉市の海上保安大学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:58",
+   "label": "石井国交相らと昼食",
+   "place": "広島県呉市の海上保安大学校",
+   "category": "会食"
+  },
+  {
+   "time": "12:37",
+   "label": "海自ヘリ",
+   "place": "広島県呉市の海上保安大学校",
+   "category": "移動"
+  },
+  {
+   "time": "12:43",
+   "label": "記念撮影",
+   "place": "同県江田島市の海上自衛隊第１術科学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:47",
+   "label": "海上自衛隊幹部候補生学校を視察",
+   "place": "同県江田島市の海上自衛隊第１術科学校",
+   "category": "視察"
+  },
+  {
+   "time": "13:00",
+   "label": "教育参考館を視察",
+   "place": "同県江田島市の海上自衛隊第１術科学校",
+   "category": "視察"
+  },
+  {
+   "time": "13:34",
+   "label": "海自ヘリ",
+   "place": "同県江田島市の海上自衛隊第１術科学校",
+   "category": "移動"
+  },
+  {
+   "time": "13:51",
+   "label": "山口県岩国市の海自岩国基地",
+   "place": "山口県岩国市の海自岩国基地",
+   "category": "その他"
+  },
+  {
+   "time": "14:09",
+   "label": "航空自衛隊のＣ2輸送機",
+   "place": "山口県岩国市の海自岩国基地",
+   "category": "移動"
+  },
+  {
+   "time": "15:18",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:32",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:07",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "16:35",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:48",
+   "label": "党青年部・青年局、女性局合同全国大会に出席し、あいさつ",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:00",
+   "label": "党全国幹事長会議に出席し、あいさつ",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "18:31",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "18:38",
+   "label": "自民党の高村正彦副総裁、山口県連関係者と会食",
+   "place": "東京・赤坂 中国料理店「赤坂飯店」",
+   "category": "会食"
+  },
+  {
+   "time": "19:55",
+   "label": "移動",
+   "place": "東京・赤坂 中国料理店「赤坂飯店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 415
+  },
+  {
+   "start": "06:55",
+   "end": "07:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "07:25",
+   "end": "07:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "07:41",
+   "end": "08:47",
+   "category": "移動",
+   "label": "海上保安庁の飛行機",
+   "minutes": 66
+  },
+  {
+   "start": "08:47",
+   "end": "09:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "09:01",
+   "end": "09:35",
+   "category": "移動",
+   "label": "海保のヘリコプター",
+   "minutes": 34
+  },
+  {
+   "start": "09:35",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "10:01",
+   "end": "10:09",
+   "category": "視察",
+   "label": "石井啓一国土交通相と共に同校卒業生らの行進視察",
+   "minutes": 8
+  },
+  {
+   "start": "10:09",
+   "end": "10:27",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "10:27",
+   "end": "11:36",
+   "category": "式典・行事",
+   "label": "同校卒業式に出席し、祝辞",
+   "minutes": 69
+  },
+  {
+   "start": "11:36",
+   "end": "11:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:38",
+   "end": "11:42",
+   "category": "式典・行事",
+   "label": "植樹。卒業生らと記念撮影",
+   "minutes": 4
+  },
+  {
+   "start": "11:42",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "11:58",
+   "end": "12:30",
+   "category": "会食",
+   "label": "石井国交相らと昼食",
+   "minutes": 32
+  },
+  {
+   "start": "12:30",
+   "end": "12:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "12:37",
+   "end": "12:43",
+   "category": "移動",
+   "label": "海自ヘリ",
+   "minutes": 6
+  },
+  {
+   "start": "12:43",
+   "end": "12:47",
+   "category": "視察",
+   "label": "記念撮影",
+   "minutes": 4
+  },
+  {
+   "start": "12:47",
+   "end": "12:59",
+   "category": "視察",
+   "label": "海上自衛隊幹部候補生学校を視察",
+   "minutes": 12
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "13:30",
+   "category": "視察",
+   "label": "教育参考館を視察",
+   "minutes": 30
+  },
+  {
+   "start": "13:30",
+   "end": "13:34",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:34",
+   "end": "13:51",
+   "category": "移動",
+   "label": "海自ヘリ",
+   "minutes": 17
+  },
+  {
+   "start": "13:51",
+   "end": "14:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "14:09",
+   "end": "15:18",
+   "category": "移動",
+   "label": "航空自衛隊のＣ2輸送機",
+   "minutes": 69
+  },
+  {
+   "start": "15:18",
+   "end": "15:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "15:32",
+   "end": "16:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "16:07",
+   "end": "16:35",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 28
+  },
+  {
+   "start": "16:35",
+   "end": "16:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:38",
+   "end": "16:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "16:48",
+   "end": "16:53",
+   "category": "党務",
+   "label": "党青年部・青年局、女性局合同全国大会に出席し、あいさつ",
+   "minutes": 5
+  },
+  {
+   "start": "16:53",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "17:00",
+   "end": "17:14",
+   "category": "党務",
+   "label": "党全国幹事長会議に出席し、あいさつ",
+   "minutes": 14
+  },
+  {
+   "start": "17:14",
+   "end": "18:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 77
+  },
+  {
+   "start": "18:31",
+   "end": "18:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "18:38",
+   "end": "19:55",
+   "category": "会食",
+   "label": "自民党の高村正彦副総裁、山口県連関係者と会食",
+   "minutes": 77
+  },
+  {
+   "start": "19:55",
+   "end": "20:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "20:14",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 226
+  }
+ ],
+ "alloc_min": {
+  "居所": 669,
+  "移動": 330,
+  "公務（内容未詳）": 163,
+  "視察": 77,
+  "式典・行事": 73,
+  "会食": 109,
+  "党務": 19
+ }
+}

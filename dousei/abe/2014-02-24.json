@@ -1,0 +1,262 @@
+{
+ "date": "2014-02-24",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2014.02.24",
+ "work_min": 660,
+ "residence_min": 780,
+ "meetings": 6,
+ "first_work": "07:36",
+ "events": [
+  {
+   "time": "07:36",
+   "label": "私邸発",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:48",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:49",
+   "label": "加藤官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:50",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:53",
+   "label": "古屋防災相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "茂木経産相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:04",
+   "label": "衆院予算委を途中退席",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:08",
+   "label": "古屋防災相、西村内閣府副大臣",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:15",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:56",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "麻生副総理兼財務相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:05",
+   "label": "日本維新の会の山田宏衆院予算委理事",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:07",
+   "label": "自民党役員会",
+   "place": "国会",
+   "category": "党務"
+  },
+  {
+   "time": "17:32",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:15",
+   "label": "モスコビシ仏財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:36",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 456
+  },
+  {
+   "start": "07:36",
+   "end": "07:48",
+   "category": "移動",
+   "label": "私邸発",
+   "minutes": 12
+  },
+  {
+   "start": "07:48",
+   "end": "07:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:49",
+   "end": "08:50",
+   "category": "面会・会談",
+   "label": "加藤官房副長官",
+   "minutes": 61
+  },
+  {
+   "start": "08:50",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "面会・会談",
+   "label": "古屋防災相",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "08:58",
+   "category": "面会・会談",
+   "label": "茂木経産相",
+   "minutes": 4
+  },
+  {
+   "start": "08:58",
+   "end": "12:04",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 186
+  },
+  {
+   "start": "12:04",
+   "end": "12:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "12:08",
+   "end": "12:15",
+   "category": "面会・会談",
+   "label": "古屋防災相、西村内閣府副大臣",
+   "minutes": 7
+  },
+  {
+   "start": "12:15",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "12:56",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:58",
+   "end": "13:00",
+   "category": "面会・会談",
+   "label": "麻生副総理兼財務相",
+   "minutes": 2
+  },
+  {
+   "start": "13:00",
+   "end": "17:05",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 245
+  },
+  {
+   "start": "17:05",
+   "end": "17:07",
+   "category": "国会",
+   "label": "日本維新の会の山田宏衆院予算委理事",
+   "minutes": 2
+  },
+  {
+   "start": "17:07",
+   "end": "17:32",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 25
+  },
+  {
+   "start": "17:32",
+   "end": "18:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "18:15",
+   "end": "18:36",
+   "category": "面会・会談",
+   "label": "モスコビシ仏財務相",
+   "minutes": 21
+  },
+  {
+   "start": "18:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 324
+  }
+ ],
+ "alloc_min": {
+  "居所": 780,
+  "移動": 12,
+  "公務（内容未詳）": 94,
+  "面会・会談": 96,
+  "国会": 433,
+  "党務": 25
+ }
+}

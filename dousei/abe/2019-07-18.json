@@ -1,0 +1,395 @@
+{
+ "date": "2019-07-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 754,
+ "residence_min": 686,
+ "meetings": 2,
+ "first_work": "09:06",
+ "events": [
+  {
+   "time": "09:06",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:34",
+   "label": "政治ジャーナリストの田崎史郎氏",
+   "place": "ＪＲ東京駅",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:37",
+   "label": "政治ジャーナリストの田崎史郎氏",
+   "place": "のぞみ２１９号",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:51",
+   "label": "乗客と写真撮影",
+   "place": "のぞみ２１９号",
+   "category": "移動"
+  },
+  {
+   "time": "11:19",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:22",
+   "label": "近鉄名古屋駅",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:30",
+   "label": "近鉄特急",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:57",
+   "label": "練り歩き",
+   "place": "近鉄四日市駅",
+   "category": "党務"
+  },
+  {
+   "time": "12:04",
+   "label": "街頭演説。聴衆と握手、写真撮影",
+   "place": "三重県四日市市 商業施設「スターアイランド」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:26",
+   "label": "徒歩。練り歩き",
+   "place": "—",
+   "category": "党務"
+  },
+  {
+   "time": "12:37",
+   "label": "地元企業の経営者らと昼食",
+   "place": "同市 ラーメン店「らーめん門蔵四日市諏訪店」",
+   "category": "会食"
+  },
+  {
+   "time": "12:57",
+   "label": "徒歩。練り歩き",
+   "place": "—",
+   "category": "党務"
+  },
+  {
+   "time": "13:09",
+   "label": "参拝。地元住民らと写真撮影",
+   "place": "四日市市 諏訪神社",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:15",
+   "label": "移動",
+   "place": "四日市市 諏訪神社",
+   "category": "移動"
+  },
+  {
+   "time": "13:52",
+   "label": "休憩。利用客らと握手、写真撮影",
+   "place": "滋賀県甲賀市 新名神高速道路土山サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:01",
+   "label": "移動",
+   "place": "滋賀県甲賀市 新名神高速道路土山サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:54",
+   "label": "街頭演説。聴衆と写真撮影",
+   "place": "滋賀県近江八幡市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "15:30",
+   "label": "移動",
+   "place": "滋賀県近江八幡市役所前",
+   "category": "移動"
+  },
+  {
+   "time": "16:08",
+   "label": "街頭演説",
+   "place": "ＪＲ守山駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "16:37",
+   "label": "移動",
+   "place": "ＪＲ守山駅西口",
+   "category": "移動"
+  },
+  {
+   "time": "17:18",
+   "label": "街頭演説。聴衆と写真撮影",
+   "place": "ＪＲ大津京駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:50",
+   "label": "移動",
+   "place": "ＪＲ大津京駅前",
+   "category": "移動"
+  },
+  {
+   "time": "18:24",
+   "label": "利用客と写真撮影",
+   "place": "ＪＲ京都駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:16",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:21",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 546
+  },
+  {
+   "start": "09:06",
+   "end": "09:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "09:29",
+   "end": "09:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:34",
+   "end": "09:35",
+   "category": "面会・会談",
+   "label": "政治ジャーナリストの田崎史郎氏",
+   "minutes": 1
+  },
+  {
+   "start": "09:35",
+   "end": "10:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 62
+  },
+  {
+   "start": "10:37",
+   "end": "10:49",
+   "category": "面会・会談",
+   "label": "政治ジャーナリストの田崎史郎氏",
+   "minutes": 12
+  },
+  {
+   "start": "10:49",
+   "end": "10:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:51",
+   "end": "11:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "11:19",
+   "end": "11:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:22",
+   "end": "11:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:30",
+   "end": "11:57",
+   "category": "移動",
+   "label": "近鉄特急",
+   "minutes": 27
+  },
+  {
+   "start": "11:57",
+   "end": "12:04",
+   "category": "党務",
+   "label": "練り歩き",
+   "minutes": 7
+  },
+  {
+   "start": "12:04",
+   "end": "12:26",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手、写真撮影",
+   "minutes": 22
+  },
+  {
+   "start": "12:26",
+   "end": "12:37",
+   "category": "党務",
+   "label": "徒歩。練り歩き",
+   "minutes": 11
+  },
+  {
+   "start": "12:37",
+   "end": "12:57",
+   "category": "会食",
+   "label": "地元企業の経営者らと昼食",
+   "minutes": 20
+  },
+  {
+   "start": "12:57",
+   "end": "13:09",
+   "category": "党務",
+   "label": "徒歩。練り歩き",
+   "minutes": 12
+  },
+  {
+   "start": "13:09",
+   "end": "13:15",
+   "category": "式典・行事",
+   "label": "参拝。地元住民らと写真撮影",
+   "minutes": 6
+  },
+  {
+   "start": "13:15",
+   "end": "13:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "13:52",
+   "end": "14:01",
+   "category": "移動",
+   "label": "休憩。利用客らと握手、写真撮影",
+   "minutes": 9
+  },
+  {
+   "start": "14:01",
+   "end": "14:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 53
+  },
+  {
+   "start": "14:54",
+   "end": "15:30",
+   "category": "党務",
+   "label": "街頭演説。聴衆と写真撮影",
+   "minutes": 36
+  },
+  {
+   "start": "15:30",
+   "end": "16:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 38
+  },
+  {
+   "start": "16:08",
+   "end": "16:37",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "16:37",
+   "end": "17:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "17:18",
+   "end": "17:50",
+   "category": "党務",
+   "label": "街頭演説。聴衆と写真撮影",
+   "minutes": 32
+  },
+  {
+   "start": "17:50",
+   "end": "18:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "18:24",
+   "end": "18:53",
+   "category": "移動",
+   "label": "利用客と写真撮影",
+   "minutes": 29
+  },
+  {
+   "start": "18:53",
+   "end": "21:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 143
+  },
+  {
+   "start": "21:16",
+   "end": "21:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "21:21",
+   "end": "21:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "21:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 140
+  }
+ ],
+ "alloc_min": {
+  "居所": 686,
+  "移動": 321,
+  "公務（内容未詳）": 245,
+  "面会・会談": 13,
+  "党務": 149,
+  "会食": 20,
+  "式典・行事": 6
+ }
+}

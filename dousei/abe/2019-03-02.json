@@ -1,0 +1,240 @@
+{
+ "date": "2019-03-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 834,
+ "residence_min": 405,
+ "meetings": 0,
+ "first_work": "00:07",
+ "events": [
+  {
+   "time": "00:07",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "00:12",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "01:24",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "01:56",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "02:02",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "02:04",
+   "label": "衆院の大島理森、赤松広隆正副議長、高市早苗議院運営委員長、与野党各会派にあいさつ回り。麻生太郎副総理兼財務相、菅義偉、西村康稔正副官房長官、森山裕自民党国対委員長ら同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "02:17",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:36",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:49",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "個人"
+  },
+  {
+   "time": "17:10",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": "17:17",
+   "label": "公邸見学者と写真撮影",
+   "place": "公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 7
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "00:10",
+   "end": "00:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "00:12",
+   "end": "01:23",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 71
+  },
+  {
+   "start": "01:23",
+   "end": "01:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 31
+  },
+  {
+   "start": "01:55",
+   "end": "01:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "01:56",
+   "end": "02:01",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 5
+  },
+  {
+   "start": "02:01",
+   "end": "02:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "02:03",
+   "end": "02:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "02:04",
+   "end": "02:16",
+   "category": "国会",
+   "label": "衆院の大島理森、赤松広隆正副議長、高市早苗議院運営委員長、与野党各会派にあいさつ回り。麻生太郎副総理兼財務相、菅義偉、西村康稔正副官房長官、森山裕自民党国対委員長ら同行",
+   "minutes": 12
+  },
+  {
+   "start": "02:16",
+   "end": "02:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "02:17",
+   "end": "02:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "02:30",
+   "end": "13:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 666
+  },
+  {
+   "start": "13:36",
+   "end": "13:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "13:49",
+   "end": "17:10",
+   "category": "個人",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "minutes": 201
+  },
+  {
+   "start": "17:10",
+   "end": "17:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "17:16",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:17",
+   "end": "17:22",
+   "category": "式典・行事",
+   "label": "公邸見学者と写真撮影",
+   "minutes": 5
+  },
+  {
+   "start": "17:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 398
+  }
+ ],
+ "alloc_min": {
+  "居所": 405,
+  "国会": 123,
+  "公務（内容未詳）": 674,
+  "移動": 32,
+  "個人": 201,
+  "式典・行事": 5
+ }
+}

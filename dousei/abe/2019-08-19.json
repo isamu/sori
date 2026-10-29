@@ -1,0 +1,130 @@
+{
+ "date": "2019-08-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 205,
+ "residence_min": 851,
+ "meetings": 0,
+ "first_work": "06:34",
+ "events": [
+  {
+   "time": "06:34",
+   "label": "移動",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "移動"
+  },
+  {
+   "time": "06:59",
+   "label": "増岡聡一郎鉄鋼ビルディング専務、成蹊大の友人らとゴルフ",
+   "place": "同県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "個人"
+  },
+  {
+   "time": "13:23",
+   "label": "移動",
+   "place": "同県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "移動"
+  },
+  {
+   "time": "13:50",
+   "label": "山梨県鳴沢村 別荘",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "その他"
+  },
+  {
+   "time": "17:47",
+   "label": "移動",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "移動"
+  },
+  {
+   "time": "17:59",
+   "label": "籔本雅巳錦秀会グループＣＥＯ、秘書官らと会食",
+   "place": "同県富士河口湖町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "会食"
+  },
+  {
+   "time": "20:07",
+   "label": "移動",
+   "place": "同県富士河口湖町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "山梨県鳴沢村 別荘",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "その他"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 394
+  },
+  {
+   "start": "06:34",
+   "end": "06:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "06:59",
+   "end": "13:23",
+   "category": "個人",
+   "label": "増岡聡一郎鉄鋼ビルディング専務、成蹊大の友人らとゴルフ",
+   "minutes": 384
+  },
+  {
+   "start": "13:23",
+   "end": "13:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "13:50",
+   "end": "17:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 237
+  },
+  {
+   "start": "17:47",
+   "end": "17:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "17:59",
+   "end": "20:07",
+   "category": "会食",
+   "label": "籔本雅巳錦秀会グループＣＥＯ、秘書官らと会食",
+   "minutes": 128
+  },
+  {
+   "start": "20:07",
+   "end": "20:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:20",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 220
+  }
+ ],
+ "alloc_min": {
+  "居所": 851,
+  "移動": 77,
+  "個人": 384,
+  "会食": 128
+ }
+}

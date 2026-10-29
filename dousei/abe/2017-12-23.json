@@ -1,0 +1,146 @@
+{
+ "date": "2017-12-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 534,
+ "residence_min": 906,
+ "meetings": 1,
+ "first_work": "12:22",
+ "events": [
+  {
+   "time": "12:22",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:40",
+   "label": "昭恵夫人とともに天皇誕生日祝賀の儀・宴会の儀に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:51",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "14:26",
+   "label": "高島宗一郎福岡市長ら",
+   "place": "私邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:42",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:08",
+   "label": "南館内のエグゼクティブラウンジで増岡聡一郎鉄鋼ビルディング専務らと食事。昭恵夫人同席",
+   "place": "東京・丸の内 鉄鋼ビルディング",
+   "category": "会食"
+  },
+  {
+   "time": "22:22",
+   "label": "移動",
+   "place": "東京・丸の内 鉄鋼ビルディング",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 742
+  },
+  {
+   "start": "12:22",
+   "end": "12:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "12:40",
+   "end": "13:51",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともに天皇誕生日祝賀の儀・宴会の儀に出席",
+   "minutes": 71
+  },
+  {
+   "start": "13:51",
+   "end": "14:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "14:11",
+   "end": "14:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "14:26",
+   "end": "16:16",
+   "category": "面会・会談",
+   "label": "高島宗一郎福岡市長ら",
+   "minutes": 110
+  },
+  {
+   "start": "16:16",
+   "end": "17:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 86
+  },
+  {
+   "start": "17:42",
+   "end": "18:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "18:08",
+   "end": "22:22",
+   "category": "会食",
+   "label": "南館内のエグゼクティブラウンジで増岡聡一郎鉄鋼ビルディング専務らと食事。昭恵夫人同席",
+   "minutes": 254
+  },
+  {
+   "start": "22:22",
+   "end": "22:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "22:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 78
+  }
+ ],
+ "alloc_min": {
+  "居所": 906,
+  "移動": 84,
+  "式典・行事": 71,
+  "公務（内容未詳）": 15,
+  "面会・会談": 110,
+  "会食": 254
+ }
+}

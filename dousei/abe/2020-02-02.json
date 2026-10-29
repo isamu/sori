@@ -1,0 +1,198 @@
+{
+ "date": "2020-02-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 173,
+ "residence_min": 1267,
+ "meetings": 0,
+ "first_work": "08:40",
+ "events": [
+  {
+   "time": "08:40",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:51",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:57",
+   "label": "陸上自衛隊ヘリコプター",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:20",
+   "label": "河野太郎防衛相ら出迎え",
+   "place": "神奈川県横須賀市 海上自衛隊横須賀基地",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:22",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "神奈川県横須賀市 海上自衛隊横須賀基地",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:26",
+   "label": "中東派遣される海自護衛艦「たかなみ」の艦内を視察",
+   "place": "神奈川県横須賀市 海上自衛隊横須賀基地",
+   "category": "視察"
+  },
+  {
+   "time": "10:07",
+   "label": "出国行事に出席し、訓示。同艦を見送り",
+   "place": "神奈川県横須賀市 海上自衛隊横須賀基地",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:58",
+   "label": "陸上自衛隊ヘリコプター",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "10:58",
+   "label": "陸自ヘリで同所発。河野防衛相、小泉進次郎環境相ら見送り",
+   "place": "神奈川県横須賀市 海上自衛隊横須賀基地",
+   "category": "移動"
+  },
+  {
+   "time": "11:16",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:20",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 520
+  },
+  {
+   "start": "08:40",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "08:57",
+   "end": "09:20",
+   "category": "移動",
+   "label": "陸上自衛隊ヘリコプター",
+   "minutes": 23
+  },
+  {
+   "start": "09:20",
+   "end": "09:22",
+   "category": "式典・行事",
+   "label": "河野太郎防衛相ら出迎え",
+   "minutes": 2
+  },
+  {
+   "start": "09:22",
+   "end": "09:25",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 3
+  },
+  {
+   "start": "09:25",
+   "end": "09:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:26",
+   "end": "10:06",
+   "category": "視察",
+   "label": "中東派遣される海自護衛艦「たかなみ」の艦内を視察",
+   "minutes": 40
+  },
+  {
+   "start": "10:06",
+   "end": "10:07",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:07",
+   "end": "10:53",
+   "category": "式典・行事",
+   "label": "出国行事に出席し、訓示。同艦を見送り",
+   "minutes": 46
+  },
+  {
+   "start": "10:53",
+   "end": "10:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "10:58",
+   "end": "11:16",
+   "category": "移動",
+   "label": "陸上自衛隊ヘリコプター",
+   "minutes": 18
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "11:20",
+   "end": "11:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "11:33",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 747
+  }
+ ],
+ "alloc_min": {
+  "居所": 1267,
+  "移動": 65,
+  "官邸執務": 10,
+  "式典・行事": 51,
+  "公務（内容未詳）": 6,
+  "視察": 41
+ }
+}

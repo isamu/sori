@@ -1,0 +1,150 @@
+{
+ "date": "2022-12-31",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 57,
+ "residence_min": 1206,
+ "meetings": 1,
+ "first_work": "09:30",
+ "events": [
+  {
+   "time": "09:30",
+   "label": "村田隆内閣危機管理監 高橋憲一官房副長官補 滝沢裕昭内閣情報官 増田和夫防衛政策局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:50",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:01",
+   "label": "散髪",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "個人"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "移動"
+  },
+  {
+   "time": "13:07",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "13:59",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:14",
+   "label": "本を購入",
+   "place": "東京・八重洲 書店「八重洲ブックセンター本店」",
+   "category": "個人"
+  },
+  {
+   "time": "15:20",
+   "label": "移動",
+   "place": "東京・八重洲 書店「八重洲ブックセンター本店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 570
+  },
+  {
+   "start": "09:30",
+   "end": "09:38",
+   "category": "面会・会談",
+   "label": "村田隆内閣危機管理監 高橋憲一官房副長官補 滝沢裕昭内閣情報官 増田和夫防衛政策局長",
+   "minutes": 8
+  },
+  {
+   "start": "09:38",
+   "end": "10:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 72
+  },
+  {
+   "start": "10:50",
+   "end": "11:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "11:01",
+   "end": "12:52",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 111
+  },
+  {
+   "start": "12:52",
+   "end": "13:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "13:07",
+   "end": "13:59",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 52
+  },
+  {
+   "start": "13:59",
+   "end": "14:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "14:14",
+   "end": "15:20",
+   "category": "個人",
+   "label": "本を購入",
+   "minutes": 66
+  },
+  {
+   "start": "15:20",
+   "end": "15:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "15:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 512
+  }
+ ],
+ "alloc_min": {
+  "居所": 1206,
+  "面会・会談": 8,
+  "移動": 49,
+  "個人": 177
+ }
+}

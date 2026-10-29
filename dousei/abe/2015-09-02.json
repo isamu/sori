@@ -1,0 +1,112 @@
+{
+ "date": "2015-09-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 548,
+ "residence_min": 892,
+ "meetings": 2,
+ "first_work": "09:32",
+ "events": [
+  {
+   "time": "09:32",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "谷垣禎一自民党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:41",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:39",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 572
+  },
+  {
+   "start": "09:32",
+   "end": "09:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "09:47",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 133
+  },
+  {
+   "start": "12:00",
+   "end": "12:38",
+   "category": "面会・会談",
+   "label": "谷垣禎一自民党幹事長",
+   "minutes": 38
+  },
+  {
+   "start": "12:38",
+   "end": "14:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 123
+  },
+  {
+   "start": "14:41",
+   "end": "14:56",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 15
+  },
+  {
+   "start": "14:56",
+   "end": "18:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 223
+  },
+  {
+   "start": "18:39",
+   "end": "18:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 320
+  }
+ ],
+ "alloc_min": {
+  "居所": 892,
+  "移動": 16,
+  "公務（内容未詳）": 479,
+  "面会・会談": 53
+ }
+}

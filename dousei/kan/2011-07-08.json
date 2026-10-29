@@ -1,0 +1,223 @@
+{
+ "date": "2011-07-08",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.07.08",
+ "work_min": 711,
+ "residence_min": 729,
+ "meetings": 6,
+ "first_work": "07:47",
+ "events": [
+  {
+   "time": "07:47",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:49",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "07:55",
+   "label": "安全保障会議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:16",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:55",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:14",
+   "label": "福山官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:31",
+   "label": "福山氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:23",
+   "label": "福山副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:04",
+   "label": "福山氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:55",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:36",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:18",
+   "label": "民主党の寺田学衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:28",
+   "label": "寺田氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:38",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 467
+  },
+  {
+   "start": "07:47",
+   "end": "07:49",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "07:49",
+   "end": "07:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:55",
+   "end": "08:16",
+   "category": "官邸執務",
+   "label": "安全保障会議",
+   "minutes": 21
+  },
+  {
+   "start": "08:16",
+   "end": "08:55",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 39
+  },
+  {
+   "start": "08:55",
+   "end": "09:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "09:14",
+   "end": "09:31",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 17
+  },
+  {
+   "start": "09:31",
+   "end": "10:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "10:23",
+   "end": "11:04",
+   "category": "面会・会談",
+   "label": "福山副長官",
+   "minutes": 41
+  },
+  {
+   "start": "11:04",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 111
+  },
+  {
+   "start": "12:55",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:02",
+   "end": "15:36",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 154
+  },
+  {
+   "start": "15:36",
+   "end": "17:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 102
+  },
+  {
+   "start": "17:18",
+   "end": "17:28",
+   "category": "面会・会談",
+   "label": "民主党の寺田学衆院議員",
+   "minutes": 10
+  },
+  {
+   "start": "17:28",
+   "end": "19:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 130
+  },
+  {
+   "start": "19:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 262
+  }
+ ],
+ "alloc_min": {
+  "居所": 729,
+  "移動": 2,
+  "公務（内容未詳）": 427,
+  "官邸執務": 60,
+  "面会・会談": 68,
+  "国会": 154
+ }
+}

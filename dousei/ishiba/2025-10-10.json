@@ -1,0 +1,274 @@
+{
+ "date": "2025-10-10",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 668,
+ "residence_min": 772,
+ "meetings": 7,
+ "first_work": "08:50",
+ "events": [
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:35",
+   "label": "広田一恭鳥取県倉吉市長ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:55",
+   "label": "川上高司参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:25",
+   "label": "岡野正敬国家安全保障局長 原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:40",
+   "label": "原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:47",
+   "label": "高市早苗自民党総裁",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:00",
+   "label": "原和也内閣情報官 有馬裕総合外交政策局長 萬浪学防衛政策局長 内倉浩昭統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:55",
+   "label": "中村亮地球規模課題審議官 寺田吉道審議官 新垣慶太海事局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:30",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:53",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 530
+  },
+  {
+   "start": "08:50",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:51",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 70
+  },
+  {
+   "start": "10:01",
+   "end": "10:08",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 7
+  },
+  {
+   "start": "10:08",
+   "end": "10:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "10:35",
+   "end": "10:50",
+   "category": "面会・会談",
+   "label": "広田一恭鳥取県倉吉市長ら",
+   "minutes": 15
+  },
+  {
+   "start": "10:50",
+   "end": "10:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "10:55",
+   "end": "11:05",
+   "category": "面会・会談",
+   "label": "川上高司参与",
+   "minutes": 10
+  },
+  {
+   "start": "11:05",
+   "end": "11:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "11:25",
+   "end": "11:39",
+   "category": "面会・会談",
+   "label": "岡野正敬国家安全保障局長 原和也内閣情報官",
+   "minutes": 14
+  },
+  {
+   "start": "11:39",
+   "end": "11:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:40",
+   "end": "11:46",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 6
+  },
+  {
+   "start": "11:46",
+   "end": "11:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:47",
+   "end": "12:05",
+   "category": "面会・会談",
+   "label": "高市早苗自民党総裁",
+   "minutes": 18
+  },
+  {
+   "start": "12:05",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 115
+  },
+  {
+   "start": "14:00",
+   "end": "14:37",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官 有馬裕総合外交政策局長 萬浪学防衛政策局長 内倉浩昭統合幕僚長",
+   "minutes": 37
+  },
+  {
+   "start": "14:37",
+   "end": "14:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "14:55",
+   "end": "15:05",
+   "category": "面会・会談",
+   "label": "中村亮地球規模課題審議官 寺田吉道審議官 新垣慶太海事局長",
+   "minutes": 10
+  },
+  {
+   "start": "15:05",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 145
+  },
+  {
+   "start": "17:30",
+   "end": "19:01",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 91
+  },
+  {
+   "start": "19:01",
+   "end": "19:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "19:53",
+   "end": "19:56",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "19:56",
+   "end": "19:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:57",
+   "end": "19:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:58",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 242
+  }
+ ],
+ "alloc_min": {
+  "居所": 772,
+  "移動": 2,
+  "公務（内容未詳）": 455,
+  "官邸執務": 7,
+  "面会・会談": 110,
+  "取材・会見": 94
+ }
+}

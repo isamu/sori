@@ -1,0 +1,77 @@
+{
+ "date": "2019-04-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "マッタレッラ大統領と会談",
+   "place": "ローマの大統領府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "サルビーニ副首相による表敬",
+   "place": "ホテル・ザ・ウェスティン・エクセシオール",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "スロバキア・ブラチスラバのシェラトン・ブラチスラバ・ホテル",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "ポーランドのモラウィエツキ首相と会談",
+   "place": "スロバキア・ブラチスラバのシェラトン・ブラチスラバ・ホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "オーストリア・ウィーン郊外のウィーン国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "ローマ郊外のレオナルド・ダビンチ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "コンテ首相との昼食会",
+   "place": "首相府",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "首相府",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "コンテ首相と会談",
+   "place": "首相府",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

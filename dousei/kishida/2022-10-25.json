@@ -1,0 +1,474 @@
+{
+ "date": "2022-10-25",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 835,
+ "residence_min": 605,
+ "meetings": 3,
+ "first_work": "07:01",
+ "events": [
+  {
+   "time": "07:01",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:07",
+   "label": "木原誠二官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:03",
+   "label": "国土強靱（きょうじん）化推進本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:21",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:41",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:20",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:02",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:14",
+   "label": "後藤茂之前厚生労働相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:43",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:06",
+   "label": "国と地方の協議の場",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:50",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "14:23",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:32",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:45",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "16:46",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:43",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:52",
+   "label": "内奏、後藤氏の閣僚認証式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:18",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "19:32",
+   "label": "後藤氏に経済再生担当相の補職辞令交付。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:47",
+   "label": "後藤茂之経済再生担当相 田和宏事務次官 井上裕之審議官 村瀬佳史政策統括官 保坂伸資源エネルギー庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 421
+  },
+  {
+   "start": "07:01",
+   "end": "07:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:02",
+   "end": "07:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "07:07",
+   "end": "08:01",
+   "category": "面会・会談",
+   "label": "木原誠二官房副長官",
+   "minutes": 54
+  },
+  {
+   "start": "08:01",
+   "end": "08:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:03",
+   "end": "08:15",
+   "category": "官邸執務",
+   "label": "国土強靱（きょうじん）化推進本部",
+   "minutes": 12
+  },
+  {
+   "start": "08:15",
+   "end": "08:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:21",
+   "end": "08:32",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "08:32",
+   "end": "08:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:41",
+   "end": "08:57",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 16
+  },
+  {
+   "start": "08:57",
+   "end": "10:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 75
+  },
+  {
+   "start": "10:12",
+   "end": "10:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:20",
+   "end": "11:02",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 42
+  },
+  {
+   "start": "11:02",
+   "end": "11:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:10",
+   "end": "11:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:14",
+   "end": "11:42",
+   "category": "面会・会談",
+   "label": "後藤茂之前厚生労働相",
+   "minutes": 28
+  },
+  {
+   "start": "11:42",
+   "end": "11:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:43",
+   "end": "11:52",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 9
+  },
+  {
+   "start": "11:52",
+   "end": "12:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "12:06",
+   "end": "12:14",
+   "category": "官邸執務",
+   "label": "国と地方の協議の場",
+   "minutes": 8
+  },
+  {
+   "start": "12:14",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:02",
+   "end": "13:48",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 46
+  },
+  {
+   "start": "13:48",
+   "end": "13:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 30
+  },
+  {
+   "start": "14:20",
+   "end": "14:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "14:30",
+   "end": "14:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:32",
+   "end": "16:43",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 131
+  },
+  {
+   "start": "16:43",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:45",
+   "end": "16:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 57
+  },
+  {
+   "start": "17:43",
+   "end": "17:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "17:52",
+   "end": "19:18",
+   "category": "式典・行事",
+   "label": "内奏、後藤氏の閣僚認証式",
+   "minutes": 86
+  },
+  {
+   "start": "19:18",
+   "end": "19:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:27",
+   "end": "19:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "19:32",
+   "end": "19:35",
+   "category": "式典・行事",
+   "label": "後藤氏に経済再生担当相の補職辞令交付。記念撮影",
+   "minutes": 3
+  },
+  {
+   "start": "19:35",
+   "end": "19:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "19:47",
+   "end": "20:45",
+   "category": "面会・会談",
+   "label": "後藤茂之経済再生担当相 田和宏事務次官 井上裕之審議官 村瀬佳史政策統括官 保坂伸資源エネルギー庁長官",
+   "minutes": 58
+  },
+  {
+   "start": "20:45",
+   "end": "20:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "20:55",
+   "end": "20:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "20:56",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 184
+  }
+ ],
+ "alloc_min": {
+  "居所": 605,
+  "移動": 38,
+  "公務（内容未詳）": 199,
+  "面会・会談": 140,
+  "官邸執務": 104,
+  "式典・行事": 131,
+  "取材・会見": 9,
+  "国会": 214
+ }
+}

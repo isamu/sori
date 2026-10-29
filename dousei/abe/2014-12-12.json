@@ -1,0 +1,165 @@
+{
+ "date": "2014-12-12",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 759,
+ "residence_min": 681,
+ "meetings": 0,
+ "first_work": "07:37",
+ "events": [
+  {
+   "time": "07:37",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:06",
+   "label": "街頭演説",
+   "place": "山形県酒田市 ホテルイン酒田駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "13:11",
+   "label": "街頭演説",
+   "place": "ＪＲさくらんぼ東根駅前",
+   "category": "党務"
+  },
+  {
+   "time": "15:58",
+   "label": "佐藤勉自民党国対委員長",
+   "place": "ＪＲ宇都宮駅",
+   "category": "党務"
+  },
+  {
+   "time": "16:45",
+   "label": "街頭演説",
+   "place": "ＪＲ今市駅前",
+   "category": "党務"
+  },
+  {
+   "time": "19:04",
+   "label": "街頭演説",
+   "place": "ＪＲ浦和駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "19:34",
+   "label": "移動",
+   "place": "ＪＲ浦和駅東口",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:37",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 457
+  },
+  {
+   "start": "07:37",
+   "end": "08:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "08:05",
+   "end": "11:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 181
+  },
+  {
+   "start": "11:06",
+   "end": "11:32",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "11:32",
+   "end": "13:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 99
+  },
+  {
+   "start": "13:11",
+   "end": "13:38",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "13:38",
+   "end": "15:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 140
+  },
+  {
+   "start": "15:58",
+   "end": "16:00",
+   "category": "党務",
+   "label": "佐藤勉自民党国対委員長",
+   "minutes": 2
+  },
+  {
+   "start": "16:00",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "16:45",
+   "end": "17:09",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "17:09",
+   "end": "19:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 115
+  },
+  {
+   "start": "19:04",
+   "end": "19:34",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "19:34",
+   "end": "20:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "20:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 224
+  }
+ ],
+ "alloc_min": {
+  "居所": 681,
+  "移動": 70,
+  "公務（内容未詳）": 580,
+  "党務": 109
+ }
+}

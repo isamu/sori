@@ -1,0 +1,186 @@
+{
+ "date": "2016-07-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 385,
+ "residence_min": 662,
+ "meetings": 3,
+ "first_work": "06:55",
+ "events": [
+  {
+   "time": "06:55",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "07:19",
+   "label": "渋谷耕一リッキービジネスソリューション社長、加計孝太郎学校法人加計学園理事長らとゴルフ",
+   "place": "山梨県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "個人"
+  },
+  {
+   "time": "13:52",
+   "label": "移動",
+   "place": "山梨県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "移動"
+  },
+  {
+   "time": "16:01",
+   "label": "北村滋内閣情報官",
+   "place": "別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:11",
+   "label": "堀内詔子自民党衆院議員",
+   "place": "別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:15",
+   "label": "北村滋内閣情報官",
+   "place": "別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:20",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "19:29",
+   "label": "山崎学日本精神科病院協会会長らと食事",
+   "place": "同県富士河口湖町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "会食"
+  },
+  {
+   "time": "21:31",
+   "label": "移動",
+   "place": "同県富士河口湖町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 415
+  },
+  {
+   "start": "06:55",
+   "end": "07:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "07:19",
+   "end": "13:52",
+   "category": "個人",
+   "label": "渋谷耕一リッキービジネスソリューション社長、加計孝太郎学校法人加計学園理事長らとゴルフ",
+   "minutes": 393
+  },
+  {
+   "start": "13:52",
+   "end": "14:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "14:19",
+   "end": "16:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 102
+  },
+  {
+   "start": "16:01",
+   "end": "16:10",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 9
+  },
+  {
+   "start": "16:10",
+   "end": "16:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "16:11",
+   "end": "16:14",
+   "category": "面会・会談",
+   "label": "堀内詔子自民党衆院議員",
+   "minutes": 3
+  },
+  {
+   "start": "16:14",
+   "end": "16:15",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "16:15",
+   "end": "17:34",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 79
+  },
+  {
+   "start": "17:34",
+   "end": "19:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 106
+  },
+  {
+   "start": "19:20",
+   "end": "19:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:29",
+   "end": "21:31",
+   "category": "会食",
+   "label": "山崎学日本精神科病院協会会長らと食事",
+   "minutes": 122
+  },
+  {
+   "start": "21:31",
+   "end": "21:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "21:41",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 139
+  }
+ ],
+ "alloc_min": {
+  "居所": 662,
+  "移動": 70,
+  "個人": 393,
+  "公務（内容未詳）": 102,
+  "面会・会談": 91,
+  "会食": 122
+ }
+}

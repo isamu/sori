@@ -1,0 +1,77 @@
+{
+ "date": "2014-07-28",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.07.28",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間27日）午後、トリニダード・トバゴのピアルコ国際空港着",
+   "place": "ピアルコ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "首都ポートオブスペインの外交センターで歓迎式典",
+   "place": "ピアルコ国際空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "パサードビセッサー首相と首脳会談",
+   "place": "ピアルコ国際空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同市内のヒルトンホテルでアンティグア・バーブーダのブラウン首相と首脳会談",
+   "place": "ピアルコ国際空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ジャマイカのシンプソンミラー首相と首脳会談",
+   "place": "ピアルコ国際空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "外交センターでパサードビセッサー首相主催の夕食会",
+   "place": "ピアルコ国際空港",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ヒルトンホテル泊",
+   "place": "ヒルトンホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間28日）午前、ヒルトンホテルで日・カリブ共同体（カリコム）首脳会合",
+   "place": "ヒルトンホテル",
+   "category": "官邸執務"
+  },
+  {
+   "time": null,
+   "label": "署名式、共同記者発表",
+   "place": "ヒルトンホテル",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

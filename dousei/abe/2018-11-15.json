@@ -1,0 +1,83 @@
+{
+ "date": "2018-11-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 8,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "韓国の文在寅大統領と握手",
+   "place": "サンテック国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東南アジア諸国連合（ＡＳＥＡＮ）プラス3（日中韓）首脳会議に出席",
+   "place": "サンテック国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "シンガポールのリー・シェンロン首相と会談",
+   "place": "サンテック国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「マンダリン・オリエンタル・シンガポール」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "フィリピンのドゥテルテ大統領と会談",
+   "place": "サンテック国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ニュージーランドのアーダーン首相と会談",
+   "place": "サンテック国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "インドネシアのジョコ大統領と会談",
+   "place": "サンテック国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東アジアサミットに出席",
+   "place": "サンテック国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "文大統領と立ち話",
+   "place": "サンテック国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東アジアサミット首脳と昼食会",
+   "place": "サンテック国際会議場",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

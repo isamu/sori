@@ -1,0 +1,308 @@
+{
+ "date": "2016-01-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 809,
+ "residence_min": 631,
+ "meetings": 4,
+ "first_work": "07:31",
+ "events": [
+  {
+   "time": "07:31",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:35",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:09",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:11",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "15:32",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "15:50",
+   "label": "韓日議員連盟の徐清源会長ら。額賀福志郎日韓議員連盟会長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:25",
+   "label": "北村滋内閣情報官 秋葉剛男総合外交政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:22",
+   "label": "マリのコナレ元大統領",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:49",
+   "label": "河井克行、柴山昌彦、衛藤晟一各首相補佐官と食事",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 451
+  },
+  {
+   "start": "07:31",
+   "end": "07:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:32",
+   "end": "07:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "07:35",
+   "end": "08:36",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 61
+  },
+  {
+   "start": "08:36",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "08:50",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:51",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:54",
+   "end": "08:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 5
+  },
+  {
+   "start": "08:59",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:00",
+   "end": "12:07",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 187
+  },
+  {
+   "start": "12:07",
+   "end": "12:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:09",
+   "end": "12:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 43
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "15:30",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 150
+  },
+  {
+   "start": "15:30",
+   "end": "15:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:32",
+   "end": "15:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:34",
+   "end": "15:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "15:50",
+   "end": "16:14",
+   "category": "面会・会談",
+   "label": "韓日議員連盟の徐清源会長ら。額賀福志郎日韓議員連盟会長同席",
+   "minutes": 24
+  },
+  {
+   "start": "16:14",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "17:25",
+   "end": "17:51",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官 秋葉剛男総合外交政策局長",
+   "minutes": 26
+  },
+  {
+   "start": "17:51",
+   "end": "18:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "18:22",
+   "end": "18:46",
+   "category": "面会・会談",
+   "label": "マリのコナレ元大統領",
+   "minutes": 24
+  },
+  {
+   "start": "18:46",
+   "end": "18:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:48",
+   "end": "18:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:49",
+   "end": "21:00",
+   "category": "会食",
+   "label": "河井克行、柴山昌彦、衛藤晟一各首相補佐官と食事",
+   "minutes": 131
+  },
+  {
+   "start": "21:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 180
+  }
+ ],
+ "alloc_min": {
+  "居所": 631,
+  "移動": 8,
+  "公務（内容未詳）": 150,
+  "面会・会談": 135,
+  "国会": 342,
+  "官邸執務": 43,
+  "会食": 131
+ }
+}

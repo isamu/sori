@@ -1,0 +1,254 @@
+{
+ "date": "2015-09-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 545,
+ "residence_min": 895,
+ "meetings": 3,
+ "first_work": "09:31",
+ "events": [
+  {
+   "time": "09:31",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:55",
+   "label": "インドのプラブ鉄道相、ワドワ駐日大使。山田滝雄外務省南部アジア部長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:02",
+   "label": "政府・与党連絡会議",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "14:31",
+   "label": "三原じゅん子自民党女性局長ら",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "16:32",
+   "label": "米軍普天間飛行場移設をめぐる政府と沖縄県の集中協議",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:26",
+   "label": "カジノを推進する超党派議連の細田博之会長、萩生田光一自民党総裁特別補佐ら",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:44",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "18:02",
+   "label": "防災功労者表彰式",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:34",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 571
+  },
+  {
+   "start": "09:31",
+   "end": "09:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "09:47",
+   "end": "10:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 68
+  },
+  {
+   "start": "10:55",
+   "end": "11:37",
+   "category": "面会・会談",
+   "label": "インドのプラブ鉄道相、ワドワ駐日大使。山田滝雄外務省南部アジア部長同席",
+   "minutes": 42
+  },
+  {
+   "start": "11:37",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "12:02",
+   "end": "12:28",
+   "category": "党務",
+   "label": "政府・与党連絡会議",
+   "minutes": 26
+  },
+  {
+   "start": "12:28",
+   "end": "14:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 123
+  },
+  {
+   "start": "14:31",
+   "end": "14:41",
+   "category": "党務",
+   "label": "三原じゅん子自民党女性局長ら",
+   "minutes": 10
+  },
+  {
+   "start": "14:41",
+   "end": "16:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 111
+  },
+  {
+   "start": "16:32",
+   "end": "16:56",
+   "category": "面会・会談",
+   "label": "米軍普天間飛行場移設をめぐる政府と沖縄県の集中協議",
+   "minutes": 24
+  },
+  {
+   "start": "16:56",
+   "end": "16:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:57",
+   "end": "16:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:58",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:00",
+   "end": "17:24",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 24
+  },
+  {
+   "start": "17:24",
+   "end": "17:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:26",
+   "end": "17:43",
+   "category": "面会・会談",
+   "label": "カジノを推進する超党派議連の細田博之会長、萩生田光一自民党総裁特別補佐ら",
+   "minutes": 17
+  },
+  {
+   "start": "17:43",
+   "end": "17:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:44",
+   "end": "17:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:46",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "18:02",
+   "end": "18:21",
+   "category": "式典・行事",
+   "label": "防災功労者表彰式",
+   "minutes": 19
+  },
+  {
+   "start": "18:21",
+   "end": "18:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "18:34",
+   "end": "18:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 324
+  }
+ ],
+ "alloc_min": {
+  "居所": 895,
+  "移動": 21,
+  "公務（内容未詳）": 362,
+  "面会・会談": 83,
+  "党務": 60,
+  "式典・行事": 19
+ }
+}

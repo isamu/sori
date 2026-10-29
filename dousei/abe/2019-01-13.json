@@ -1,0 +1,44 @@
+{
+ "date": "2019-01-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 142,
+ "residence_min": 1298,
+ "meetings": 1,
+ "first_work": "15:47",
+ "events": [
+  {
+   "time": "15:47",
+   "label": "谷口智彦参与",
+   "place": "私邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 947
+  },
+  {
+   "start": "15:47",
+   "end": "18:09",
+   "category": "面会・会談",
+   "label": "谷口智彦参与",
+   "minutes": 142
+  },
+  {
+   "start": "18:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 351
+  }
+ ],
+ "alloc_min": {
+  "居所": 1298,
+  "面会・会談": 142
+ }
+}

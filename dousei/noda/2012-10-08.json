@@ -1,0 +1,56 @@
+{
+ "date": "2012-10-08",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.10.08",
+ "work_min": 1,
+ "residence_min": 1439,
+ "meetings": 1,
+ "first_work": "19:54",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "19:54",
+   "label": "ノーベル医学生理学賞の受賞が決まった山中伸弥京大教授と電話",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:55",
+   "label": "終了",
+   "place": "公邸",
+   "category": "公務（内容未詳）"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "19:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1194
+  },
+  {
+   "start": "19:54",
+   "end": "19:55",
+   "category": "面会・会談",
+   "label": "ノーベル医学生理学賞の受賞が決まった山中伸弥京大教授と電話",
+   "minutes": 1
+  },
+  {
+   "start": "19:55",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 245
+  }
+ ],
+ "alloc_min": {
+  "居所": 1439,
+  "面会・会談": 1
+ }
+}

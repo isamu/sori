@@ -1,0 +1,178 @@
+{
+ "date": "2017-02-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 615,
+ "residence_min": 825,
+ "meetings": 0,
+ "first_work": "07:02",
+ "events": [
+  {
+   "time": "07:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:27",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:22",
+   "label": "山口宇部空港",
+   "place": "山口宇部空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:35",
+   "label": "故林義郎元蔵相の葬儀に参列。弔辞",
+   "place": "山口県下関市の県国際総合センター「海峡メッセ下関」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:58",
+   "label": "同式場内の宴会場「エメラルドの間」で、社会福祉法人「中部少年学院」創立７０周年記念祝賀会に出席し、あいさつ",
+   "place": "同市の結婚式場「シーモールパレス」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:25",
+   "label": "福岡空港",
+   "place": "福岡空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:40",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:50",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 422
+  },
+  {
+   "start": "07:02",
+   "end": "07:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "07:27",
+   "end": "08:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "08:01",
+   "end": "09:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 81
+  },
+  {
+   "start": "09:22",
+   "end": "09:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "09:31",
+   "end": "10:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 64
+  },
+  {
+   "start": "10:35",
+   "end": "11:53",
+   "category": "式典・行事",
+   "label": "故林義郎元蔵相の葬儀に参列。弔辞",
+   "minutes": 78
+  },
+  {
+   "start": "11:53",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "11:58",
+   "end": "13:06",
+   "category": "式典・行事",
+   "label": "同式場内の宴会場「エメラルドの間」で、社会福祉法人「中部少年学院」創立７０周年記念祝賀会に出席し、あいさつ",
+   "minutes": 68
+  },
+  {
+   "start": "13:06",
+   "end": "14:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 79
+  },
+  {
+   "start": "14:25",
+   "end": "15:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 59
+  },
+  {
+   "start": "15:24",
+   "end": "16:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 76
+  },
+  {
+   "start": "16:40",
+   "end": "16:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "16:50",
+   "end": "17:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "17:17",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 403
+  }
+ ],
+ "alloc_min": {
+  "居所": 825,
+  "移動": 164,
+  "公務（内容未詳）": 305,
+  "式典・行事": 146
+ }
+}

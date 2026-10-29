@@ -1,0 +1,327 @@
+{
+ "date": "2017-08-31",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 712,
+ "residence_min": 728,
+ "meetings": 2,
+ "first_work": "00:11",
+ "events": [
+  {
+   "time": "00:11",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "00:14",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "00:32",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "09:45",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:04",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:05",
+   "label": "同ホテル内の宴会場「葵」で「日英ビジネスフォーラム」に出席し、あいさつ。英国のメイ首相同席",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:30",
+   "label": "移動",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": "15:01",
+   "label": "国家安全保障会議特別会合。メイ首相同席",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:57",
+   "label": "メイ首相と懇談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:24",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "メイ首相を出迎え",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:04",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:14",
+   "label": "メイ首相と首脳会談",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:45",
+   "label": "共同記者会見",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:25",
+   "label": "安倍晋三首相主催の夕食会",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "会食"
+  },
+  {
+   "time": "21:10",
+   "label": "移動",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 11
+  },
+  {
+   "start": "00:11",
+   "end": "00:13",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "00:13",
+   "end": "00:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "00:14",
+   "end": "00:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "00:32",
+   "end": "09:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 553
+  },
+  {
+   "start": "09:45",
+   "end": "10:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 233
+  },
+  {
+   "start": "13:57",
+   "end": "14:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "14:05",
+   "end": "14:30",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「葵」で「日英ビジネスフォーラム」に出席し、あいさつ。英国のメイ首相同席",
+   "minutes": 25
+  },
+  {
+   "start": "14:30",
+   "end": "14:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "14:40",
+   "end": "15:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "15:01",
+   "end": "15:56",
+   "category": "官邸執務",
+   "label": "国家安全保障会議特別会合。メイ首相同席",
+   "minutes": 55
+  },
+  {
+   "start": "15:56",
+   "end": "15:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:57",
+   "end": "16:19",
+   "category": "面会・会談",
+   "label": "メイ首相と懇談",
+   "minutes": 22
+  },
+  {
+   "start": "16:19",
+   "end": "16:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "16:24",
+   "end": "16:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "16:32",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "17:02",
+   "end": "17:04",
+   "category": "式典・行事",
+   "label": "メイ首相を出迎え",
+   "minutes": 2
+  },
+  {
+   "start": "17:04",
+   "end": "17:12",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 8
+  },
+  {
+   "start": "17:12",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:14",
+   "end": "18:22",
+   "category": "面会・会談",
+   "label": "メイ首相と首脳会談",
+   "minutes": 68
+  },
+  {
+   "start": "18:22",
+   "end": "18:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "18:45",
+   "end": "19:10",
+   "category": "取材・会見",
+   "label": "共同記者会見",
+   "minutes": 25
+  },
+  {
+   "start": "19:10",
+   "end": "19:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "19:25",
+   "end": "20:58",
+   "category": "会食",
+   "label": "安倍晋三首相主催の夕食会",
+   "minutes": 93
+  },
+  {
+   "start": "20:58",
+   "end": "21:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "21:10",
+   "end": "21:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "21:17",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 163
+  }
+ ],
+ "alloc_min": {
+  "居所": 728,
+  "取材・会見": 27,
+  "移動": 70,
+  "官邸執務": 288,
+  "式典・行事": 35,
+  "公務（内容未詳）": 109,
+  "面会・会談": 90,
+  "会食": 93
+ }
+}

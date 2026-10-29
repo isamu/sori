@@ -1,0 +1,388 @@
+{
+ "date": "2016-01-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 922,
+ "residence_min": 518,
+ "meetings": 3,
+ "first_work": "06:55",
+ "events": [
+  {
+   "time": "06:55",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:10",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:17",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:03",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "12:11",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:20",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:05",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "17:12",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:20",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:29",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:14",
+   "label": "英国のハモンド外相、ファロン国防相の表敬。岸田文雄外相、中谷元防衛相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:03",
+   "label": "同ホテル内の宴会場「鶴の間」で４病院団体協議会賀詞交歓会に出席し、あいさつ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:20",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "19:25",
+   "label": "報道各社の首相番記者と懇談",
+   "place": "東京・赤坂 中国料理店「赤坂飯店」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:03",
+   "label": "移動",
+   "place": "東京・赤坂 中国料理店「赤坂飯店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 415
+  },
+  {
+   "start": "06:55",
+   "end": "07:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "07:05",
+   "end": "07:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "07:10",
+   "end": "08:10",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 60
+  },
+  {
+   "start": "08:10",
+   "end": "08:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:17",
+   "end": "08:25",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "08:25",
+   "end": "08:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "08:51",
+   "end": "08:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:52",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:59",
+   "end": "11:58",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 179
+  },
+  {
+   "start": "11:58",
+   "end": "12:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "12:07",
+   "end": "12:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "12:11",
+   "end": "12:18",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 7
+  },
+  {
+   "start": "12:18",
+   "end": "12:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 35
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:03",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 243
+  },
+  {
+   "start": "17:03",
+   "end": "17:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "17:10",
+   "end": "17:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:12",
+   "end": "17:19",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 7
+  },
+  {
+   "start": "17:19",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:20",
+   "end": "17:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:21",
+   "end": "17:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:29",
+   "end": "17:58",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 29
+  },
+  {
+   "start": "17:58",
+   "end": "18:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "18:14",
+   "end": "18:37",
+   "category": "面会・会談",
+   "label": "英国のハモンド外相、ファロン国防相の表敬。岸田文雄外相、中谷元防衛相同席",
+   "minutes": 23
+  },
+  {
+   "start": "18:37",
+   "end": "18:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "18:56",
+   "end": "19:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "19:03",
+   "end": "19:20",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「鶴の間」で４病院団体協議会賀詞交歓会に出席し、あいさつ",
+   "minutes": 17
+  },
+  {
+   "start": "19:20",
+   "end": "19:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:25",
+   "end": "22:03",
+   "category": "取材・会見",
+   "label": "報道各社の首相番記者と懇談",
+   "minutes": 158
+  },
+  {
+   "start": "22:03",
+   "end": "22:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "22:17",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 103
+  }
+ ],
+ "alloc_min": {
+  "居所": 518,
+  "移動": 38,
+  "公務（内容未詳）": 109,
+  "面会・会談": 112,
+  "官邸執務": 8,
+  "国会": 480,
+  "式典・行事": 17,
+  "取材・会見": 158
+ }
+}

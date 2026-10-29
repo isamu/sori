@@ -1,0 +1,240 @@
+{
+ "date": "2017-04-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 528,
+ "residence_min": 912,
+ "meetings": 5,
+ "first_work": "09:41",
+ "events": [
+  {
+   "time": "09:41",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:30",
+   "label": "ＡＰＥＣビジネス諮問委員会新旧日本委員の高橋規三井物産取締役、亀崎英敏三菱商事常勤顧問ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:41",
+   "label": "天野之弥国際原子力機関（ＩＡＥＡ）事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:39",
+   "label": "杉山晋輔事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:24",
+   "label": "米国研究製薬工業協会のホアキン・デュアト会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:58",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:34",
+   "label": "茂木敏充同党政調会長",
+   "place": "国会 自民党政調会長室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:51",
+   "label": "移動",
+   "place": "国会 自民党政調会長室",
+   "category": "移動"
+  },
+  {
+   "time": "17:53",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 581
+  },
+  {
+   "start": "09:41",
+   "end": "09:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:54",
+   "end": "11:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 96
+  },
+  {
+   "start": "11:30",
+   "end": "11:40",
+   "category": "面会・会談",
+   "label": "ＡＰＥＣビジネス諮問委員会新旧日本委員の高橋規三井物産取締役、亀崎英敏三菱商事常勤顧問ら",
+   "minutes": 10
+  },
+  {
+   "start": "11:40",
+   "end": "11:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:41",
+   "end": "12:00",
+   "category": "面会・会談",
+   "label": "天野之弥国際原子力機関（ＩＡＥＡ）事務局長",
+   "minutes": 19
+  },
+  {
+   "start": "12:00",
+   "end": "14:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 159
+  },
+  {
+   "start": "14:39",
+   "end": "15:04",
+   "category": "面会・会談",
+   "label": "杉山晋輔事務次官",
+   "minutes": 25
+  },
+  {
+   "start": "15:04",
+   "end": "16:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 80
+  },
+  {
+   "start": "16:24",
+   "end": "16:44",
+   "category": "面会・会談",
+   "label": "米国研究製薬工業協会のホアキン・デュアト会長",
+   "minutes": 20
+  },
+  {
+   "start": "16:44",
+   "end": "16:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "16:58",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:59",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:02",
+   "end": "17:30",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 28
+  },
+  {
+   "start": "17:30",
+   "end": "17:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:34",
+   "end": "17:49",
+   "category": "面会・会談",
+   "label": "茂木敏充同党政調会長",
+   "minutes": 15
+  },
+  {
+   "start": "17:49",
+   "end": "17:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:51",
+   "end": "17:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 34
+  },
+  {
+   "start": "18:27",
+   "end": "18:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:29",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 331
+  }
+ ],
+ "alloc_min": {
+  "居所": 912,
+  "移動": 18,
+  "公務（内容未詳）": 359,
+  "面会・会談": 89,
+  "党務": 28,
+  "官邸執務": 34
+ }
+}

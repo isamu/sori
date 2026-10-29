@@ -1,0 +1,362 @@
+{
+ "date": "2019-07-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 819,
+ "residence_min": 621,
+ "meetings": 0,
+ "first_work": "09:17",
+ "events": [
+  {
+   "time": "09:17",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:41",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:51",
+   "label": "秋田空港",
+   "place": "秋田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:01",
+   "label": "移動",
+   "place": "秋田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:30",
+   "label": "街頭演説",
+   "place": "秋田市 複合施設「エリアなかいち」",
+   "category": "党務"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "秋田市 複合施設「エリアなかいち」",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "利用客らと握手。写真撮影",
+   "place": "ＪＲ秋田駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:13",
+   "label": "こまち２０号",
+   "place": "ＪＲ秋田駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:37",
+   "label": "同駅西口で街頭演説",
+   "place": "ＪＲ大宮駅",
+   "category": "党務"
+  },
+  {
+   "time": "15:57",
+   "label": "移動",
+   "place": "ＪＲ大宮駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:36",
+   "label": "街頭演説",
+   "place": "ＪＲ川口駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "16:53",
+   "label": "移動",
+   "place": "ＪＲ川口駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "17:39",
+   "label": "休憩",
+   "place": "千葉県市川市 市川グランドホテル",
+   "category": "移動"
+  },
+  {
+   "time": "17:45",
+   "label": "移動",
+   "place": "千葉県市川市 市川グランドホテル",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "街頭演説",
+   "place": "ＪＲ市川駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "18:19",
+   "label": "移動",
+   "place": "ＪＲ市川駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "19:21",
+   "label": "街頭演説",
+   "place": "ＪＲ秋葉原駅電気街口",
+   "category": "党務"
+  },
+  {
+   "time": "20:01",
+   "label": "移動",
+   "place": "ＪＲ秋葉原駅電気街口",
+   "category": "移動"
+  },
+  {
+   "time": "20:20",
+   "label": "党インターネット番組「カフェスタ」に出演",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:35",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "20:51",
+   "label": "長谷川栄一首相補佐官、秘書官らと食事",
+   "place": "東京都渋谷区本町 焼き肉店「カレア」",
+   "category": "会食"
+  },
+  {
+   "time": "22:50",
+   "label": "移動",
+   "place": "東京都渋谷区本町 焼き肉店「カレア」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 557
+  },
+  {
+   "start": "09:17",
+   "end": "09:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "09:41",
+   "end": "10:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "10:04",
+   "end": "10:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "10:51",
+   "end": "11:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "11:01",
+   "end": "11:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "11:30",
+   "end": "11:56",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "11:56",
+   "end": "11:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:59",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:00",
+   "end": "12:07",
+   "category": "移動",
+   "label": "利用客らと握手。写真撮影",
+   "minutes": 7
+  },
+  {
+   "start": "12:07",
+   "end": "12:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "12:13",
+   "end": "15:37",
+   "category": "移動",
+   "label": "こまち２０号",
+   "minutes": 204
+  },
+  {
+   "start": "15:37",
+   "end": "15:57",
+   "category": "党務",
+   "label": "同駅西口で街頭演説",
+   "minutes": 20
+  },
+  {
+   "start": "15:57",
+   "end": "16:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "16:36",
+   "end": "16:53",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 17
+  },
+  {
+   "start": "16:53",
+   "end": "17:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 46
+  },
+  {
+   "start": "17:39",
+   "end": "17:45",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 6
+  },
+  {
+   "start": "17:45",
+   "end": "17:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:47",
+   "end": "18:19",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "18:19",
+   "end": "19:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 62
+  },
+  {
+   "start": "19:21",
+   "end": "20:01",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 40
+  },
+  {
+   "start": "20:01",
+   "end": "20:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "20:19",
+   "end": "20:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:20",
+   "end": "20:33",
+   "category": "取材・会見",
+   "label": "党インターネット番組「カフェスタ」に出演",
+   "minutes": 13
+  },
+  {
+   "start": "20:33",
+   "end": "20:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "20:35",
+   "end": "20:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "20:51",
+   "end": "22:50",
+   "category": "会食",
+   "label": "長谷川栄一首相補佐官、秘書官らと食事",
+   "minutes": 119
+  },
+  {
+   "start": "22:50",
+   "end": "22:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "22:56",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 64
+  }
+ ],
+ "alloc_min": {
+  "居所": 621,
+  "移動": 495,
+  "公務（内容未詳）": 57,
+  "党務": 135,
+  "取材・会見": 13,
+  "会食": 119
+ }
+}

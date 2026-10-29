@@ -1,0 +1,77 @@
+{
+ "date": "2023-03-21",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "列車で出発",
+   "place": "ポーランド",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "列車で出発",
+   "place": "ウクライナ・キーウ（キエフ）",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "ウクライナ・キーウ（キエフ）",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "夕食会",
+   "place": "ウクライナ・キーウ（キエフ）",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "共同記者会見",
+   "place": "ウクライナ・キーウ（キエフ）",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ゼレンスキー大統領と会談",
+   "place": "ウクライナ・キーウ（キエフ）",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "戦死した兵士らの遺影に献花",
+   "place": "キーウ市内",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "献花",
+   "place": "キーウ近郊のブチャの教会",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ウクライナ・キーウ（キエフ）",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

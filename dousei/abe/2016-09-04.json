@@ -1,0 +1,127 @@
+{
+ "date": "2016-09-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1002,
+ "residence_min": 438,
+ "meetings": 2,
+ "first_work": "07:18",
+ "events": [
+  {
+   "time": "07:18",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "07:51",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "中国・杭州の杭州蕭山国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "歓迎式典。写真撮影",
+   "place": "西子賓館",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "首脳会合",
+   "place": "国際博覧会センター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "開会式",
+   "place": "国際博覧会センター",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "20カ国・地域(G20)首脳と写真撮影",
+   "place": "国際博覧会センター",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "習近平国家主席による出迎え",
+   "place": "国際博覧会センター",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "エジプトのシシ大統領と会談",
+   "place": "杭州のホテル「金渓山庄」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "シェラトン・ホテル",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "文化行事",
+   "place": "西湖",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "歓迎晩さん会",
+   "place": "西子賓館",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 438
+  },
+  {
+   "start": "07:18",
+   "end": "07:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "07:43",
+   "end": "07:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "07:51",
+   "end": "07:54",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "07:54",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 966
+  }
+ ],
+ "alloc_min": {
+  "居所": 438,
+  "移動": 25,
+  "公務（内容未詳）": 8,
+  "取材・会見": 3,
+  "外遊": 966
+ }
+}

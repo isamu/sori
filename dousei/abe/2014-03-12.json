@@ -1,0 +1,204 @@
+{
+ "date": "2014-03-12",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2014.03.12",
+ "work_min": 582,
+ "residence_min": 858,
+ "meetings": 5,
+ "first_work": "09:03",
+ "events": [
+  {
+   "time": "09:03",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:04",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:05",
+   "label": "世耕官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:15",
+   "label": "山中文科事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:56",
+   "label": "東京・銀座の中国料理店「福臨門酒家」",
+   "place": "銀座",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "石原環境相、小渕優子自民党衆院議員らと食事",
+   "place": "銀座",
+   "category": "会食"
+  },
+  {
+   "time": "12:52",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "小野寺防衛相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:16",
+   "label": "山本科学技術相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:25",
+   "label": "総合科学技術会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:13",
+   "label": "在米日系人リーダー招へいプログラム参加者の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:45",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 543
+  },
+  {
+   "start": "09:03",
+   "end": "09:04",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:04",
+   "end": "09:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:05",
+   "end": "10:15",
+   "category": "面会・会談",
+   "label": "世耕官房副長官",
+   "minutes": 70
+  },
+  {
+   "start": "10:15",
+   "end": "11:56",
+   "category": "面会・会談",
+   "label": "山中文科事務次官",
+   "minutes": 101
+  },
+  {
+   "start": "11:56",
+   "end": "12:52",
+   "category": "会食",
+   "label": "石原環境相、小渕優子自民党衆院議員らと食事",
+   "minutes": 56
+  },
+  {
+   "start": "12:52",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "面会・会談",
+   "label": "小野寺防衛相",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:14",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 254
+  },
+  {
+   "start": "17:14",
+   "end": "17:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:16",
+   "end": "17:25",
+   "category": "面会・会談",
+   "label": "山本科学技術相",
+   "minutes": 9
+  },
+  {
+   "start": "17:25",
+   "end": "18:13",
+   "category": "官邸執務",
+   "label": "総合科学技術会議",
+   "minutes": 48
+  },
+  {
+   "start": "18:13",
+   "end": "18:45",
+   "category": "面会・会談",
+   "label": "在米日系人リーダー招へいプログラム参加者の表敬",
+   "minutes": 32
+  },
+  {
+   "start": "18:45",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 315
+  }
+ ],
+ "alloc_min": {
+  "居所": 858,
+  "移動": 1,
+  "公務（内容未詳）": 6,
+  "面会・会談": 217,
+  "会食": 56,
+  "国会": 254,
+  "官邸執務": 48
+ }
+}

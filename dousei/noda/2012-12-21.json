@@ -1,0 +1,264 @@
+{
+ "date": "2012-12-21",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.12.21",
+ "work_min": 683,
+ "residence_min": 757,
+ "meetings": 5,
+ "first_work": "09:01",
+ "events": [
+  {
+   "time": "09:01",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:02",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:10",
+   "label": "安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:32",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:46",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:09",
+   "label": "中塚金融相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:23",
+   "label": "行政刷新会議の加藤秀樹事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:30",
+   "label": "加藤氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:41",
+   "label": "皇居。宮中昼食会",
+   "place": "皇居",
+   "category": "会食"
+  },
+  {
+   "time": "13:38",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:51",
+   "label": "衆院千葉4区の支援者と懇談",
+   "place": "支援者と懇談",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:01",
+   "label": "内閣・内閣府永年勤続者表彰式",
+   "place": "支援者と懇談",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:39",
+   "label": "民主党本部",
+   "place": "民主党本部",
+   "category": "移動"
+  },
+  {
+   "time": "15:03",
+   "label": "同党拡大役員会",
+   "place": "民主党本部",
+   "category": "党務"
+  },
+  {
+   "time": "16:11",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:32",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:01",
+   "label": "藤村、斎藤、芝正副官房長官、長浜前官房副長官と会食",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:53",
+   "label": "全員出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 541
+  },
+  {
+   "start": "09:01",
+   "end": "09:02",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:02",
+   "end": "09:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:10",
+   "end": "09:32",
+   "category": "官邸執務",
+   "label": "安全保障会議",
+   "minutes": 22
+  },
+  {
+   "start": "09:32",
+   "end": "09:46",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 14
+  },
+  {
+   "start": "09:46",
+   "end": "10:09",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 23
+  },
+  {
+   "start": "10:09",
+   "end": "10:23",
+   "category": "面会・会談",
+   "label": "中塚金融相",
+   "minutes": 14
+  },
+  {
+   "start": "10:23",
+   "end": "10:30",
+   "category": "面会・会談",
+   "label": "行政刷新会議の加藤秀樹事務局長",
+   "minutes": 7
+  },
+  {
+   "start": "10:30",
+   "end": "11:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "11:41",
+   "end": "13:38",
+   "category": "会食",
+   "label": "皇居。宮中昼食会",
+   "minutes": 117
+  },
+  {
+   "start": "13:38",
+   "end": "13:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "13:51",
+   "end": "14:01",
+   "category": "面会・会談",
+   "label": "衆院千葉4区の支援者と懇談",
+   "minutes": 10
+  },
+  {
+   "start": "14:01",
+   "end": "14:39",
+   "category": "式典・行事",
+   "label": "内閣・内閣府永年勤続者表彰式",
+   "minutes": 38
+  },
+  {
+   "start": "14:39",
+   "end": "15:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "15:03",
+   "end": "16:11",
+   "category": "党務",
+   "label": "同党拡大役員会",
+   "minutes": 68
+  },
+  {
+   "start": "16:11",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 81
+  },
+  {
+   "start": "17:32",
+   "end": "18:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 29
+  },
+  {
+   "start": "18:01",
+   "end": "20:53",
+   "category": "会食",
+   "label": "藤村、斎藤、芝正副官房長官、長浜前官房副長官と会食",
+   "minutes": 172
+  },
+  {
+   "start": "20:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 187
+  }
+ ],
+ "alloc_min": {
+  "居所": 757,
+  "移動": 1,
+  "公務（内容未詳）": 197,
+  "官邸執務": 59,
+  "面会・会談": 31,
+  "会食": 289,
+  "式典・行事": 38,
+  "党務": 68
+ }
+}

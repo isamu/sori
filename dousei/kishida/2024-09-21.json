@@ -1,0 +1,160 @@
+{
+ "date": "2024-09-21",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 933,
+ "residence_min": 507,
+ "meetings": 5,
+ "first_work": "08:10",
+ "events": [
+  {
+   "time": "08:10",
+   "label": "大石賢吾長崎県知事、鈴木史朗長崎市長。武見敬三厚生労働相同席",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:38",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "バイデン氏と会談",
+   "place": "米デラウェア州ウィルミントンのバイデン大統領私邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "米ペンシルベニア州のフィラデルフィア国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:09",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ザ・プリンス・キタノ・ニューヨーク」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ニューヨークのケネディ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "米ペンシルベニア州のフィラデルフィア国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "米豪印首脳と夕食会",
+   "place": "ウィルミントン近郊のアーチミア・アカデミー",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "日米豪印のがん対策関連イベントに出席",
+   "place": "ウィルミントン近郊のアーチミア・アカデミー",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "インドのモディ首相と会談",
+   "place": "ウィルミントン近郊のアーチミア・アカデミー",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日米豪印「クアッド」首脳会議",
+   "place": "ウィルミントン近郊のアーチミア・アカデミー",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "オーストラリアのアルバニージー首相と会談",
+   "place": "米デラウェア州のホテル「ダブルツリーバイヒルトン・ウィルミントン」",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 490
+  },
+  {
+   "start": "08:10",
+   "end": "08:22",
+   "category": "面会・会談",
+   "label": "大石賢吾長崎県知事、鈴木史朗長崎市長。武見敬三厚生労働相同席",
+   "minutes": 12
+  },
+  {
+   "start": "08:22",
+   "end": "08:38",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 16
+  },
+  {
+   "start": "08:38",
+   "end": "08:48",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 10
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "09:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "09:09",
+   "end": "09:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "09:26",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 874
+  }
+ ],
+ "alloc_min": {
+  "居所": 507,
+  "面会・会談": 12,
+  "取材・会見": 10,
+  "移動": 37,
+  "外遊": 874
+ }
+}

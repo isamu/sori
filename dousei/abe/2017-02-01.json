@@ -1,0 +1,327 @@
+{
+ "date": "2017-02-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 846,
+ "residence_min": 594,
+ "meetings": 4,
+ "first_work": "07:14",
+ "events": [
+  {
+   "time": "07:14",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:35",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:02",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:02",
+   "label": "辻元清美民進党衆院議員",
+   "place": "国会 衆院第1委員室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:09",
+   "label": "森健良北米局長 高橋憲一整備計画局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:21",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 前田哲防衛政策局長 住田和明統合幕僚副長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:42",
+   "label": "働き方改革実現会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "同ホテル内のレストラン「ＯＡＳＩＳ　ＧＡＲＤＥＮ」で後藤高志西武ホールディングス社長、安倍寛信三菱商事パッケージング社長らと会食",
+   "place": "東京・紀尾井町 ホテル「ザ・プリンスギャラリー東京紀尾井町」",
+   "category": "会食"
+  },
+  {
+   "time": "21:05",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテル「ザ・プリンスギャラリー東京紀尾井町」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 434
+  },
+  {
+   "start": "07:14",
+   "end": "07:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "07:28",
+   "end": "07:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:35",
+   "end": "08:35",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 60
+  },
+  {
+   "start": "08:35",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "08:49",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:51",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:59",
+   "end": "11:59",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 180
+  },
+  {
+   "start": "11:59",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:02",
+   "end": "12:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 50
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 241
+  },
+  {
+   "start": "17:01",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:02",
+   "end": "17:03",
+   "category": "面会・会談",
+   "label": "辻元清美民進党衆院議員",
+   "minutes": 1
+  },
+  {
+   "start": "17:03",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:06",
+   "end": "17:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:07",
+   "end": "17:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:09",
+   "end": "17:19",
+   "category": "面会・会談",
+   "label": "森健良北米局長 高橋憲一整備計画局長",
+   "minutes": 10
+  },
+  {
+   "start": "17:19",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:21",
+   "end": "17:38",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 前田哲防衛政策局長 住田和明統合幕僚副長",
+   "minutes": 17
+  },
+  {
+   "start": "17:38",
+   "end": "17:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:42",
+   "end": "18:32",
+   "category": "官邸執務",
+   "label": "働き方改革実現会議",
+   "minutes": 50
+  },
+  {
+   "start": "18:32",
+   "end": "18:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "18:51",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:56",
+   "end": "21:05",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＡＳＩＳ　ＧＡＲＤＥＮ」で後藤高志西武ホールディングス社長、安倍寛信三菱商事パッケージング社長らと会食",
+   "minutes": 129
+  },
+  {
+   "start": "21:05",
+   "end": "21:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "21:20",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 160
+  }
+ ],
+ "alloc_min": {
+  "居所": 594,
+  "移動": 41,
+  "公務（内容未詳）": 67,
+  "面会・会談": 88,
+  "国会": 421,
+  "官邸執務": 100,
+  "会食": 129
+ }
+}

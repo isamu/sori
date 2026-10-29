@@ -1,0 +1,53 @@
+{
+ "date": "2019-09-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "トランプ米大統領と会談",
+   "place": "ホテル「インターコンチネンタル・バークレイ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ベルギーのミシェル首相と会談",
+   "place": "ザ・キタノ・ニューヨーク",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ザ・キタノ・ニューヨーク」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "欧州連合（ＥＵ）のトゥスク大統領と夕食会",
+   "place": "市内",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "米ニューヨークのホテル「マリオット・イースト・サイド」",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

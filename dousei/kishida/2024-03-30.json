@@ -1,0 +1,77 @@
+{
+ "date": "2024-03-30",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 87,
+ "residence_min": 1353,
+ "meetings": 0,
+ "first_work": "14:09",
+ "events": [
+  {
+   "time": "14:09",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:37",
+   "label": "小池百合子東京都知事ら出迎え。「フォーミュラＥ」東京大会のオープニングセレモニーに出席。あいさつ。レース観戦",
+   "place": "東京・有明 東京ビッグサイト",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:15",
+   "label": "移動",
+   "place": "東京・有明 東京ビッグサイト",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:09",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 849
+  },
+  {
+   "start": "14:09",
+   "end": "14:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "14:37",
+   "end": "15:15",
+   "category": "式典・行事",
+   "label": "小池百合子東京都知事ら出迎え。「フォーミュラＥ」東京大会のオープニングセレモニーに出席。あいさつ。レース観戦",
+   "minutes": 38
+  },
+  {
+   "start": "15:15",
+   "end": "15:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "15:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 504
+  }
+ ],
+ "alloc_min": {
+  "居所": 1353,
+  "移動": 49,
+  "式典・行事": 38
+ }
+}

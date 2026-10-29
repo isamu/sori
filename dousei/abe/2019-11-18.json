@@ -1,0 +1,221 @@
+{
+ "date": "2019-11-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 732,
+ "residence_min": 708,
+ "meetings": 1,
+ "first_work": "09:41",
+ "events": [
+  {
+   "time": "09:41",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:06",
+   "label": "太田充主計局長 麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:34",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:49",
+   "label": "小泉龍司自民党国際局長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "18:25",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:33",
+   "label": "同ビル内の和食レストラン「春秋ツギハギ　日比谷」で読売新聞東京本社の柴田岳常務取締役論説委員長、田中隆之取締役編集局長と会食",
+   "place": "東京・有楽町 日本生命日比谷ビル",
+   "category": "会食"
+  },
+  {
+   "time": "21:35",
+   "label": "移動",
+   "place": "東京・有楽町 日本生命日比谷ビル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 581
+  },
+  {
+   "start": "09:41",
+   "end": "09:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "09:59",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:00",
+   "end": "10:03",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "10:03",
+   "end": "14:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 243
+  },
+  {
+   "start": "14:06",
+   "end": "14:43",
+   "category": "面会・会談",
+   "label": "太田充主計局長 麻生太郎副総理兼財務相",
+   "minutes": 37
+  },
+  {
+   "start": "14:43",
+   "end": "16:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 134
+  },
+  {
+   "start": "16:57",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:59",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:01",
+   "end": "17:32",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 31
+  },
+  {
+   "start": "17:32",
+   "end": "17:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:34",
+   "end": "17:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:35",
+   "end": "17:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "17:49",
+   "end": "18:12",
+   "category": "党務",
+   "label": "小泉龍司自民党国際局長",
+   "minutes": 23
+  },
+  {
+   "start": "18:12",
+   "end": "18:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "18:25",
+   "end": "18:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:33",
+   "end": "21:35",
+   "category": "会食",
+   "label": "同ビル内の和食レストラン「春秋ツギハギ　日比谷」で読売新聞東京本社の柴田岳常務取締役論説委員長、田中隆之取締役編集局長と会食",
+   "minutes": 182
+  },
+  {
+   "start": "21:35",
+   "end": "21:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "21:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 127
+  }
+ ],
+ "alloc_min": {
+  "居所": 708,
+  "移動": 47,
+  "公務（内容未詳）": 409,
+  "取材・会見": 3,
+  "面会・会談": 37,
+  "党務": 54,
+  "会食": 182
+ }
+}

@@ -1,0 +1,299 @@
+{
+ "date": "2017-10-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 531,
+ "residence_min": 909,
+ "meetings": 1,
+ "first_work": "10:30",
+ "events": [
+  {
+   "time": "10:30",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:37",
+   "label": "衆院選比例代表の政見放送収録",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "党務"
+  },
+  {
+   "time": "12:19",
+   "label": "移動",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "自民党選挙本部の幹部会合",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "13:42",
+   "label": "衆院選用の写真撮影",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "13:51",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "13:54",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "15:11",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:50",
+   "label": "報道番組に出演",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:53",
+   "label": "移動",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "移動"
+  },
+  {
+   "time": "17:07",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:55",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:58",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "19:03",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "19:07",
+   "label": "報道番組の収録",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:39",
+   "label": "移動",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "移動"
+  },
+  {
+   "time": "20:45",
+   "label": "北村滋内閣情報官",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 630
+  },
+  {
+   "start": "10:30",
+   "end": "10:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "10:37",
+   "end": "12:19",
+   "category": "党務",
+   "label": "衆院選比例代表の政見放送収録",
+   "minutes": 102
+  },
+  {
+   "start": "12:19",
+   "end": "12:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "12:36",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "13:00",
+   "end": "13:41",
+   "category": "党務",
+   "label": "自民党選挙本部の幹部会合",
+   "minutes": 41
+  },
+  {
+   "start": "13:41",
+   "end": "13:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:42",
+   "end": "13:50",
+   "category": "党務",
+   "label": "衆院選用の写真撮影",
+   "minutes": 8
+  },
+  {
+   "start": "13:50",
+   "end": "13:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:51",
+   "end": "13:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:54",
+   "end": "15:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 77
+  },
+  {
+   "start": "15:11",
+   "end": "15:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "15:21",
+   "end": "15:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "15:50",
+   "end": "16:50",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 60
+  },
+  {
+   "start": "16:50",
+   "end": "16:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:53",
+   "end": "17:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "17:07",
+   "end": "17:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 48
+  },
+  {
+   "start": "17:55",
+   "end": "17:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:58",
+   "end": "19:03",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "minutes": 65
+  },
+  {
+   "start": "19:03",
+   "end": "19:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "19:07",
+   "end": "20:39",
+   "category": "取材・会見",
+   "label": "報道番組の収録",
+   "minutes": 92
+  },
+  {
+   "start": "20:39",
+   "end": "20:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "20:44",
+   "end": "20:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:45",
+   "end": "21:26",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 41
+  },
+  {
+   "start": "21:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 154
+  }
+ ],
+ "alloc_min": {
+  "居所": 909,
+  "移動": 63,
+  "党務": 151,
+  "公務（内容未詳）": 59,
+  "取材・会見": 152,
+  "会食": 65,
+  "面会・会談": 41
+ }
+}

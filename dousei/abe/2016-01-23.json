@@ -1,0 +1,182 @@
+{
+ "date": "2016-01-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 259,
+ "residence_min": 1141,
+ "meetings": 0,
+ "first_work": "10:42",
+ "events": [
+  {
+   "time": "10:42",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:52",
+   "label": "展覧会「新兵衛の楽　吉左衛門の萩－二人の十五代－」を鑑賞",
+   "place": "東京・日本橋室町 日本橋三越本店",
+   "category": "個人"
+  },
+  {
+   "time": "11:25",
+   "label": "移動",
+   "place": "東京・日本橋室町 日本橋三越本店",
+   "category": "移動"
+  },
+  {
+   "time": "11:40",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:36",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:48",
+   "label": "「水簾」で昭恵夫人、親族らと食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "20:40",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "20:47",
+   "label": "ケネディ駐日米大使の長男の誕生日を祝う会に出席",
+   "place": "東京・虎ノ門 日本料理店「ＮＯＢＵ　ＴＯＫＹＯ」",
+   "category": "個人"
+  },
+  {
+   "time": "20:54",
+   "label": "移動",
+   "place": "東京・虎ノ門 日本料理店「ＮＯＢＵ　ＴＯＫＹＯ」",
+   "category": "移動"
+  },
+  {
+   "time": "21:02",
+   "label": "「水簾」で昭恵夫人、親族らと食事再開",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "22:21",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 642
+  },
+  {
+   "start": "10:42",
+   "end": "10:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "10:52",
+   "end": "11:25",
+   "category": "個人",
+   "label": "展覧会「新兵衛の楽　吉左衛門の萩－二人の十五代－」を鑑賞",
+   "minutes": 33
+  },
+  {
+   "start": "11:25",
+   "end": "11:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "11:40",
+   "end": "18:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 416
+  },
+  {
+   "start": "18:36",
+   "end": "18:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "18:48",
+   "end": "20:40",
+   "category": "会食",
+   "label": "「水簾」で昭恵夫人、親族らと食事",
+   "minutes": 112
+  },
+  {
+   "start": "20:40",
+   "end": "20:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "20:47",
+   "end": "20:54",
+   "category": "個人",
+   "label": "ケネディ駐日米大使の長男の誕生日を祝う会に出席",
+   "minutes": 7
+  },
+  {
+   "start": "20:54",
+   "end": "21:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "21:02",
+   "end": "22:21",
+   "category": "会食",
+   "label": "「水簾」で昭恵夫人、親族らと食事再開",
+   "minutes": 79
+  },
+  {
+   "start": "22:21",
+   "end": "22:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "22:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 83
+  }
+ ],
+ "alloc_min": {
+  "居所": 1141,
+  "移動": 68,
+  "個人": 40,
+  "会食": 191
+ }
+}

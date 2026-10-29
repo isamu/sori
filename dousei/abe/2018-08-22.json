@@ -1,0 +1,193 @@
+{
+ "date": "2018-08-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 313,
+ "residence_min": 976,
+ "meetings": 1,
+ "first_work": "13:10",
+ "events": [
+  {
+   "time": "13:10",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "13:20",
+   "label": "入浴",
+   "place": "同県富士吉田市の温泉施設「ふじやま温泉」",
+   "category": "個人"
+  },
+  {
+   "time": "15:51",
+   "label": "移動",
+   "place": "同県富士吉田市の温泉施設「ふじやま温泉」",
+   "category": "移動"
+  },
+  {
+   "time": "16:01",
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  },
+  {
+   "time": "17:37",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "昭恵夫人、秘書官らと食事",
+   "place": "同市の中国料理店「蓮」",
+   "category": "会食"
+  },
+  {
+   "time": "19:08",
+   "label": "移動",
+   "place": "同市の中国料理店「蓮」",
+   "category": "移動"
+  },
+  {
+   "time": "21:33",
+   "label": "トランプ米大統領と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:27",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:29",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 790
+  },
+  {
+   "start": "13:10",
+   "end": "13:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "13:20",
+   "end": "15:51",
+   "category": "個人",
+   "label": "入浴",
+   "minutes": 151
+  },
+  {
+   "start": "15:51",
+   "end": "16:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "16:01",
+   "end": "17:37",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 96
+  },
+  {
+   "start": "17:37",
+   "end": "17:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "17:47",
+   "end": "19:08",
+   "category": "会食",
+   "label": "昭恵夫人、秘書官らと食事",
+   "minutes": 81
+  },
+  {
+   "start": "19:08",
+   "end": "20:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 101
+  },
+  {
+   "start": "20:49",
+   "end": "21:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "21:33",
+   "end": "22:15",
+   "category": "面会・会談",
+   "label": "トランプ米大統領と電話会談",
+   "minutes": 42
+  },
+  {
+   "start": "22:15",
+   "end": "22:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 12
+  },
+  {
+   "start": "22:27",
+   "end": "22:28",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "22:28",
+   "end": "22:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "22:29",
+   "end": "22:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "22:43",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 77
+  }
+ ],
+ "alloc_min": {
+  "居所": 976,
+  "移動": 145,
+  "個人": 151,
+  "会食": 81,
+  "公務（内容未詳）": 44,
+  "面会・会談": 42,
+  "取材・会見": 1
+ }
+}

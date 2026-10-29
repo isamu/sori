@@ -1,0 +1,77 @@
+{
+ "date": "2019-06-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 22,
+ "residence_min": 1320,
+ "meetings": 0,
+ "first_work": "14:16",
+ "events": [
+  {
+   "time": "14:16",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:26",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "16:04",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 856
+  },
+  {
+   "start": "14:16",
+   "end": "14:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "14:26",
+   "end": "16:04",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 98
+  },
+  {
+   "start": "16:04",
+   "end": "16:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "16:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 464
+  }
+ ],
+ "alloc_min": {
+  "居所": 1320,
+  "移動": 22,
+  "個人": 98
+ }
+}

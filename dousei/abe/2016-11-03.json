@@ -1,0 +1,182 @@
+{
+ "date": "2016-11-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 199,
+ "residence_min": 1066,
+ "meetings": 0,
+ "first_work": "09:50",
+ "events": [
+  {
+   "time": "09:50",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:03",
+   "label": "文化勲章親授式に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:10",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:23",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:46",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "個人"
+  },
+  {
+   "time": "15:55",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": "16:17",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:27",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:39",
+   "label": "三笠宮邸で故三笠宮さまの通夜に参列",
+   "place": "東京・元赤坂 赤坂御用地",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:22",
+   "label": "移動",
+   "place": "東京・元赤坂 赤坂御用地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 590
+  },
+  {
+   "start": "09:50",
+   "end": "10:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "10:03",
+   "end": "11:10",
+   "category": "式典・行事",
+   "label": "文化勲章親授式に出席",
+   "minutes": 67
+  },
+  {
+   "start": "11:10",
+   "end": "11:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "11:23",
+   "end": "12:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 83
+  },
+  {
+   "start": "12:46",
+   "end": "13:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "13:00",
+   "end": "15:55",
+   "category": "個人",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "minutes": 175
+  },
+  {
+   "start": "15:55",
+   "end": "16:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "16:17",
+   "end": "17:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 70
+  },
+  {
+   "start": "17:27",
+   "end": "17:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "17:39",
+   "end": "18:22",
+   "category": "式典・行事",
+   "label": "三笠宮邸で故三笠宮さまの通夜に参列",
+   "minutes": 43
+  },
+  {
+   "start": "18:22",
+   "end": "18:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "18:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 323
+  }
+ ],
+ "alloc_min": {
+  "居所": 1066,
+  "移動": 89,
+  "式典・行事": 110,
+  "個人": 175
+ }
+}

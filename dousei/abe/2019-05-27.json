@@ -1,0 +1,347 @@
+{
+ "date": "2019-05-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 804,
+ "residence_min": 636,
+ "meetings": 3,
+ "first_work": "08:42",
+ "events": [
+  {
+   "time": "08:42",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "昭恵夫人とともにトランプ米大統領夫妻の歓迎行事",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:47",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:29",
+   "label": "昭恵夫人とともにトランプ大統領夫妻を出迎え",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:04",
+   "label": "トランプ大統領と首脳会談",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:50",
+   "label": "日米首脳会談少人数会合",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:12",
+   "label": "ワーキングランチ",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "会食"
+  },
+  {
+   "time": "13:56",
+   "label": "北朝鮮による拉致被害者家族とトランプ大統領との面会に同席",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:02",
+   "label": "共同記者会見",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:49",
+   "label": "昭恵夫人とともにトランプ大統領夫妻を見送り",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:52",
+   "label": "移動",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "移動"
+  },
+  {
+   "time": "15:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:58",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:47",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:49",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:32",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:39",
+   "label": "昭恵夫人とともに、トランプ大統領夫妻歓迎の宮中晩さん会",
+   "place": "皇居",
+   "category": "会食"
+  },
+  {
+   "time": "21:53",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 522
+  },
+  {
+   "start": "08:42",
+   "end": "08:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "08:57",
+   "end": "09:47",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともにトランプ米大統領夫妻の歓迎行事",
+   "minutes": 50
+  },
+  {
+   "start": "09:47",
+   "end": "09:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "09:57",
+   "end": "10:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "10:29",
+   "end": "11:04",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともにトランプ大統領夫妻を出迎え",
+   "minutes": 35
+  },
+  {
+   "start": "11:04",
+   "end": "11:49",
+   "category": "面会・会談",
+   "label": "トランプ大統領と首脳会談",
+   "minutes": 45
+  },
+  {
+   "start": "11:49",
+   "end": "11:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:50",
+   "end": "13:05",
+   "category": "面会・会談",
+   "label": "日米首脳会談少人数会合",
+   "minutes": 75
+  },
+  {
+   "start": "13:05",
+   "end": "13:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:12",
+   "end": "13:48",
+   "category": "会食",
+   "label": "ワーキングランチ",
+   "minutes": 36
+  },
+  {
+   "start": "13:48",
+   "end": "13:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:56",
+   "end": "14:38",
+   "category": "面会・会談",
+   "label": "北朝鮮による拉致被害者家族とトランプ大統領との面会に同席",
+   "minutes": 42
+  },
+  {
+   "start": "14:38",
+   "end": "15:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "15:02",
+   "end": "15:42",
+   "category": "取材・会見",
+   "label": "共同記者会見",
+   "minutes": 40
+  },
+  {
+   "start": "15:42",
+   "end": "15:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "15:49",
+   "end": "15:52",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともにトランプ大統領夫妻を見送り",
+   "minutes": 3
+  },
+  {
+   "start": "15:52",
+   "end": "15:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 60
+  },
+  {
+   "start": "16:58",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:59",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:02",
+   "end": "17:43",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 41
+  },
+  {
+   "start": "17:43",
+   "end": "17:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:47",
+   "end": "17:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 43
+  },
+  {
+   "start": "18:32",
+   "end": "18:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "18:39",
+   "end": "21:53",
+   "category": "会食",
+   "label": "昭恵夫人とともに、トランプ大統領夫妻歓迎の宮中晩さん会",
+   "minutes": 194
+  },
+  {
+   "start": "21:53",
+   "end": "22:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "22:06",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 114
+  }
+ ],
+ "alloc_min": {
+  "居所": 636,
+  "移動": 54,
+  "式典・行事": 88,
+  "公務（内容未詳）": 86,
+  "面会・会談": 162,
+  "会食": 230,
+  "取材・会見": 40,
+  "官邸執務": 103,
+  "党務": 41
+ }
+}

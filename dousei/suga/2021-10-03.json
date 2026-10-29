@@ -1,0 +1,156 @@
+{
+ "date": "2021-10-03",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 238,
+ "residence_min": 1022,
+ "meetings": 0,
+ "first_work": "09:54",
+ "events": [
+  {
+   "time": "09:54",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "同ホテル内の歯科「ミヤタデンタルオフィス」で治療",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "個人"
+  },
+  {
+   "time": "13:00",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": "13:07",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "13:51",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "13:57",
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  },
+  {
+   "time": "16:00",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "16:06",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "18:49",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 594
+  },
+  {
+   "start": "09:54",
+   "end": "10:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "10:00",
+   "end": "13:00",
+   "category": "個人",
+   "label": "同ホテル内の歯科「ミヤタデンタルオフィス」で治療",
+   "minutes": 180
+  },
+  {
+   "start": "13:00",
+   "end": "13:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 44
+  },
+  {
+   "start": "13:51",
+   "end": "13:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "13:57",
+   "end": "16:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 123
+  },
+  {
+   "start": "16:00",
+   "end": "16:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 163
+  },
+  {
+   "start": "18:49",
+   "end": "18:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:55",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 305
+  }
+ ],
+ "alloc_min": {
+  "居所": 1022,
+  "移動": 31,
+  "個人": 180,
+  "公務（内容未詳）": 207
+ }
+}

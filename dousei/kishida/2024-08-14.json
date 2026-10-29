@@ -1,0 +1,134 @@
+{
+ "date": "2024-08-14",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 587,
+ "residence_min": 853,
+ "meetings": 1,
+ "first_work": "08:38",
+ "events": [
+  {
+   "time": "08:38",
+   "label": "木原誠二自民党幹事長代理",
+   "place": "公邸",
+   "category": "党務"
+  },
+  {
+   "time": "09:08",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:30",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:30",
+   "label": "秋葉剛男国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:25",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:38",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 518
+  },
+  {
+   "start": "08:38",
+   "end": "09:07",
+   "category": "党務",
+   "label": "木原誠二自民党幹事長代理",
+   "minutes": 29
+  },
+  {
+   "start": "09:07",
+   "end": "09:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "09:08",
+   "end": "09:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:09",
+   "end": "11:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 141
+  },
+  {
+   "start": "11:30",
+   "end": "11:52",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 22
+  },
+  {
+   "start": "11:52",
+   "end": "15:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 218
+  },
+  {
+   "start": "15:30",
+   "end": "15:33",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長",
+   "minutes": 3
+  },
+  {
+   "start": "15:33",
+   "end": "18:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 172
+  },
+  {
+   "start": "18:25",
+   "end": "18:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 334
+  }
+ ],
+ "alloc_min": {
+  "居所": 853,
+  "党務": 29,
+  "移動": 2,
+  "公務（内容未詳）": 531,
+  "取材・会見": 22,
+  "面会・会談": 3
+ }
+}

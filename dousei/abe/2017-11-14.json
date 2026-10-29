@@ -1,0 +1,71 @@
+{
+ "date": "2017-11-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 5,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "インドのモディ首相と会談",
+   "place": "マニラのフィリピン国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東南アジア諸国連合（ＡＳＥＡＮ）プラス3（日中韓）首脳会議",
+   "place": "マニラのフィリピン国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東アジア地域包括的経済連携（ＲＣＥＰ）首脳会議",
+   "place": "マニラのフィリピン国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ミャンマーのアウン・サン・スー・チー国家顧問と会談",
+   "place": "マニラのフィリピン国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東アジアサミット",
+   "place": "マニラのフィリピン国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "フィリピンのドゥテルテ大統領主催の昼食会",
+   "place": "マニラのフィリピン国際会議場",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ダイヤモンドホテル",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "ダイヤモンドホテル",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "date": "2018-02-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 17,
+ "residence_min": 1295,
+ "meetings": 0,
+ "first_work": "10:57",
+ "events": [
+  {
+   "time": "10:57",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:04",
+   "label": "映画「嘘八百」を鑑賞",
+   "place": "東京・宇田川町 映画館「渋谷シネパレス」",
+   "category": "個人"
+  },
+  {
+   "time": "13:12",
+   "label": "報道各社のインタビュー",
+   "place": "東京・宇田川町 映画館「渋谷シネパレス」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:14",
+   "label": "移動",
+   "place": "東京・宇田川町 映画館「渋谷シネパレス」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 657
+  },
+  {
+   "start": "10:57",
+   "end": "11:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "11:04",
+   "end": "13:12",
+   "category": "個人",
+   "label": "映画「嘘八百」を鑑賞",
+   "minutes": 128
+  },
+  {
+   "start": "13:12",
+   "end": "13:14",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "13:14",
+   "end": "13:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "13:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 638
+  }
+ ],
+ "alloc_min": {
+  "居所": 1295,
+  "移動": 15,
+  "個人": 128,
+  "取材・会見": 2
+ }
+}

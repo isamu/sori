@@ -1,0 +1,368 @@
+{
+ "date": "2016-02-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 730,
+ "residence_min": 710,
+ "meetings": 6,
+ "first_work": "09:02",
+ "events": [
+  {
+   "time": "09:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:30",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:56",
+   "label": "山口泰明自民党組織運動本部長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "11:36",
+   "label": "和泉洋人首相補佐官 山田滝雄国際協力局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:00",
+   "label": "谷垣禎一自民党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:57",
+   "label": "高市早苗総務相",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:44",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "15:04",
+   "label": "水町勇一郎東大教授、加藤勝信1億総活躍担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:52",
+   "label": "細田博之自民党幹事長代行",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "各種業界団体の懇談会に出席",
+   "place": "東京・平河町 都市センターホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:11",
+   "label": "移動",
+   "place": "東京・平河町 都市センターホテル",
+   "category": "移動"
+  },
+  {
+   "time": "17:21",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:37",
+   "label": "田中隆之読売新聞政治部長らと会食",
+   "place": "東京・霞ケ丘町 日本料理店「外苑うまや信濃町」",
+   "category": "会食"
+  },
+  {
+   "time": "21:00",
+   "label": "移動",
+   "place": "東京・霞ケ丘町 日本料理店「外苑うまや信濃町」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 542
+  },
+  {
+   "start": "09:02",
+   "end": "09:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "09:20",
+   "end": "09:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "09:30",
+   "end": "09:55",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 25
+  },
+  {
+   "start": "09:55",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:56",
+   "end": "10:15",
+   "category": "党務",
+   "label": "山口泰明自民党組織運動本部長",
+   "minutes": 19
+  },
+  {
+   "start": "10:15",
+   "end": "11:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 81
+  },
+  {
+   "start": "11:36",
+   "end": "11:51",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官 山田滝雄国際協力局長",
+   "minutes": 15
+  },
+  {
+   "start": "11:51",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "12:00",
+   "end": "12:36",
+   "category": "面会・会談",
+   "label": "谷垣禎一自民党幹事長",
+   "minutes": 36
+  },
+  {
+   "start": "12:36",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:54",
+   "end": "12:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:57",
+   "end": "12:59",
+   "category": "国会",
+   "label": "高市早苗総務相",
+   "minutes": 2
+  },
+  {
+   "start": "12:59",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:02",
+   "end": "14:42",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 100
+  },
+  {
+   "start": "14:42",
+   "end": "14:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:44",
+   "end": "14:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:45",
+   "end": "15:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "15:04",
+   "end": "15:51",
+   "category": "面会・会談",
+   "label": "水町勇一郎東大教授、加藤勝信1億総活躍担当相",
+   "minutes": 47
+  },
+  {
+   "start": "15:51",
+   "end": "15:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:52",
+   "end": "16:13",
+   "category": "面会・会談",
+   "label": "細田博之自民党幹事長代行",
+   "minutes": 21
+  },
+  {
+   "start": "16:13",
+   "end": "16:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "16:56",
+   "end": "17:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "17:02",
+   "end": "17:11",
+   "category": "面会・会談",
+   "label": "各種業界団体の懇談会に出席",
+   "minutes": 9
+  },
+  {
+   "start": "17:11",
+   "end": "17:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "17:16",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:21",
+   "end": "18:17",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 56
+  },
+  {
+   "start": "18:17",
+   "end": "18:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "18:27",
+   "end": "18:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:37",
+   "end": "21:00",
+   "category": "会食",
+   "label": "田中隆之読売新聞政治部長らと会食",
+   "minutes": 143
+  },
+  {
+   "start": "21:00",
+   "end": "21:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "21:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 168
+  }
+ ],
+ "alloc_min": {
+  "居所": 710,
+  "移動": 53,
+  "公務（内容未詳）": 204,
+  "面会・会談": 153,
+  "党務": 19,
+  "国会": 102,
+  "官邸執務": 56,
+  "会食": 143
+ }
+}

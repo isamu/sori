@@ -1,0 +1,213 @@
+{
+ "date": "2018-05-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 881,
+ "residence_min": 559,
+ "meetings": 5,
+ "first_work": "09:19",
+ "events": [
+  {
+   "time": "09:19",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:38",
+   "label": "河内隆事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:25",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:53",
+   "label": "秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:45",
+   "label": "自民党の二階俊博幹事長、林幹雄幹事長代理ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:45",
+   "label": "マレーシアのマハティール首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:33",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:05",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "サンクトペテルブルク郊外のコンスタンチン宮殿",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ロシア・サンクトペテルブルクのプルコボ国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 559
+  },
+  {
+   "start": "09:19",
+   "end": "09:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "09:36",
+   "end": "09:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:38",
+   "end": "10:24",
+   "category": "面会・会談",
+   "label": "河内隆事務次官",
+   "minutes": 46
+  },
+  {
+   "start": "10:24",
+   "end": "10:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:25",
+   "end": "10:52",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 27
+  },
+  {
+   "start": "10:52",
+   "end": "10:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:53",
+   "end": "11:44",
+   "category": "面会・会談",
+   "label": "秋葉剛男事務次官",
+   "minutes": 51
+  },
+  {
+   "start": "11:44",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:45",
+   "end": "12:08",
+   "category": "面会・会談",
+   "label": "自民党の二階俊博幹事長、林幹雄幹事長代理ら",
+   "minutes": 23
+  },
+  {
+   "start": "12:08",
+   "end": "12:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "12:45",
+   "end": "13:00",
+   "category": "面会・会談",
+   "label": "マレーシアのマハティール首相と電話会談",
+   "minutes": 15
+  },
+  {
+   "start": "13:00",
+   "end": "13:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "13:33",
+   "end": "13:35",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "13:35",
+   "end": "13:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:36",
+   "end": "14:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "14:05",
+   "end": "14:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "14:27",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 573
+  }
+ ],
+ "alloc_min": {
+  "居所": 559,
+  "移動": 68,
+  "公務（内容未詳）": 76,
+  "面会・会談": 162,
+  "取材・会見": 2,
+  "外遊": 573
+ }
+}

@@ -1,0 +1,239 @@
+{
+ "date": "2017-10-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 656,
+ "residence_min": 784,
+ "meetings": 0,
+ "first_work": "09:51",
+ "events": [
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:22",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:50",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:44",
+   "label": "街頭演説",
+   "place": "奈良県生駒市の近鉄生駒駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "13:35",
+   "label": "秘書官と食事。利用客、従業員と記念撮影",
+   "place": "奈良市の「お好み焼・鉄板焼　きん太　奈良二条大路店」",
+   "category": "会食"
+  },
+  {
+   "time": "14:36",
+   "label": "街頭演説",
+   "place": "京都府城陽市の大型量販店「アル・プラザ城陽」前",
+   "category": "党務"
+  },
+  {
+   "time": "15:51",
+   "label": "街頭演説",
+   "place": "ＪＲ大津京駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:14",
+   "label": "街頭演説",
+   "place": "京都市西京区の阪急京都線桂駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "18:42",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:08",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:21",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 591
+  },
+  {
+   "start": "09:51",
+   "end": "10:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "10:22",
+   "end": "11:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 43
+  },
+  {
+   "start": "11:05",
+   "end": "11:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "11:50",
+   "end": "11:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "11:59",
+   "end": "12:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "12:44",
+   "end": "13:21",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 37
+  },
+  {
+   "start": "13:21",
+   "end": "13:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "13:35",
+   "end": "14:03",
+   "category": "会食",
+   "label": "秘書官と食事。利用客、従業員と記念撮影",
+   "minutes": 28
+  },
+  {
+   "start": "14:03",
+   "end": "14:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "14:36",
+   "end": "15:12",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "15:12",
+   "end": "15:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "15:51",
+   "end": "16:24",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "16:24",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "17:14",
+   "end": "17:47",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "17:47",
+   "end": "18:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "18:42",
+   "end": "19:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "19:24",
+   "end": "20:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "20:08",
+   "end": "20:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:21",
+   "end": "20:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "20:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 193
+  }
+ ],
+ "alloc_min": {
+  "居所": 784,
+  "移動": 164,
+  "公務（内容未詳）": 325,
+  "党務": 139,
+  "会食": 28
+ }
+}

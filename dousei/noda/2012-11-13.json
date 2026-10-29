@@ -1,0 +1,223 @@
+{
+ "date": "2012-11-13",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.11.13",
+ "work_min": 725,
+ "residence_min": 715,
+ "meetings": 6,
+ "first_work": "06:47",
+ "events": [
+  {
+   "time": "06:47",
+   "label": "斎藤官房副長官、三谷、大串両首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:01",
+   "label": "全員出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:21",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:23",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:31",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:04",
+   "label": "民主党の輿石幹事長",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:25",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:27",
+   "label": "岡田副総理、玄葉外相、森本防衛相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:57",
+   "label": "杉山外務省アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:17",
+   "label": "民主党の山井国対委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:12",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 407
+  },
+  {
+   "start": "06:47",
+   "end": "08:01",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、三谷、大串両首相補佐官",
+   "minutes": 74
+  },
+  {
+   "start": "08:01",
+   "end": "08:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 20
+  },
+  {
+   "start": "08:21",
+   "end": "08:23",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:23",
+   "end": "08:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:31",
+   "end": "08:59",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 28
+  },
+  {
+   "start": "08:59",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 186
+  },
+  {
+   "start": "12:05",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "12:52",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "12:59",
+   "end": "17:04",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 245
+  },
+  {
+   "start": "17:04",
+   "end": "17:25",
+   "category": "面会・会談",
+   "label": "民主党の輿石幹事長",
+   "minutes": 21
+  },
+  {
+   "start": "17:25",
+   "end": "17:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:27",
+   "end": "17:57",
+   "category": "面会・会談",
+   "label": "岡田副総理、玄葉外相、森本防衛相",
+   "minutes": 30
+  },
+  {
+   "start": "17:57",
+   "end": "18:17",
+   "category": "面会・会談",
+   "label": "杉山外務省アジア大洋州局長",
+   "minutes": 20
+  },
+  {
+   "start": "18:17",
+   "end": "19:12",
+   "category": "面会・会談",
+   "label": "民主党の山井国対委員長",
+   "minutes": 55
+  },
+  {
+   "start": "19:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 288
+  }
+ ],
+ "alloc_min": {
+  "居所": 715,
+  "面会・会談": 200,
+  "移動": 2,
+  "公務（内容未詳）": 64,
+  "官邸執務": 28,
+  "国会": 431
+ }
+}

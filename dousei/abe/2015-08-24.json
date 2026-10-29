@@ -1,0 +1,329 @@
+{
+ "date": "2015-08-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 795,
+ "residence_min": 645,
+ "meetings": 5,
+ "first_work": "07:13",
+ "events": [
+  {
+   "time": "07:13",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:32",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "参院平和安全法制特別委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "自民党の金子恵美、宮崎謙介両衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:07",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院平和安全法制特別委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:20",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:40",
+   "label": "茂木敏充同党選対委員長",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:43",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:02",
+   "label": "南アフリカのラマポーザ副大統領の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:47",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:49",
+   "label": "女性駐日大使との首相主催夕食会",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 433
+  },
+  {
+   "start": "07:13",
+   "end": "07:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:25",
+   "end": "07:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:32",
+   "end": "08:45",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 73
+  },
+  {
+   "start": "08:45",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:49",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:51",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:55",
+   "end": "11:55",
+   "category": "国会",
+   "label": "参院平和安全法制特別委員会",
+   "minutes": 180
+  },
+  {
+   "start": "11:55",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:57",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "11:58",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:00",
+   "end": "12:06",
+   "category": "面会・会談",
+   "label": "自民党の金子恵美、宮崎謙介両衆院議員",
+   "minutes": 6
+  },
+  {
+   "start": "12:06",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:07",
+   "end": "12:11",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 4
+  },
+  {
+   "start": "12:11",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "12:55",
+   "end": "12:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:57",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:00",
+   "end": "17:18",
+   "category": "国会",
+   "label": "参院平和安全法制特別委員会",
+   "minutes": 258
+  },
+  {
+   "start": "17:18",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:20",
+   "end": "17:39",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 19
+  },
+  {
+   "start": "17:39",
+   "end": "17:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:40",
+   "end": "17:41",
+   "category": "面会・会談",
+   "label": "茂木敏充同党選対委員長",
+   "minutes": 1
+  },
+  {
+   "start": "17:41",
+   "end": "17:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:43",
+   "end": "17:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:45",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "18:02",
+   "end": "18:30",
+   "category": "面会・会談",
+   "label": "南アフリカのラマポーザ副大統領の表敬",
+   "minutes": 28
+  },
+  {
+   "start": "18:30",
+   "end": "18:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "18:47",
+   "end": "18:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:48",
+   "end": "18:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:49",
+   "end": "20:28",
+   "category": "会食",
+   "label": "女性駐日大使との首相主催夕食会",
+   "minutes": 99
+  },
+  {
+   "start": "20:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 212
+  }
+ ],
+ "alloc_min": {
+  "居所": 645,
+  "移動": 20,
+  "公務（内容未詳）": 107,
+  "面会・会談": 112,
+  "国会": 438,
+  "党務": 19,
+  "会食": 99
+ }
+}

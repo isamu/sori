@@ -1,0 +1,355 @@
+{
+ "date": "2022-11-11",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 714,
+ "residence_min": 726,
+ "meetings": 4,
+ "first_work": "07:49",
+ "events": [
+  {
+   "time": "07:49",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:56",
+   "label": "磯崎仁彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:22",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:50",
+   "label": "磯崎仁彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:39",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:41",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:48",
+   "label": "斎藤健元農林水産相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:10",
+   "label": "葉梨康弘法相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:44",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:01",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:11",
+   "label": "内奏、斎藤氏の閣僚認証式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:51",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "19:12",
+   "label": "斎藤氏に法相の補職辞令交付。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:42",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 469
+  },
+  {
+   "start": "07:49",
+   "end": "07:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:50",
+   "end": "07:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:56",
+   "end": "08:17",
+   "category": "面会・会談",
+   "label": "磯崎仁彦官房副長官",
+   "minutes": 21
+  },
+  {
+   "start": "08:17",
+   "end": "08:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:22",
+   "end": "08:30",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "08:30",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "08:50",
+   "end": "09:11",
+   "category": "面会・会談",
+   "label": "磯崎仁彦官房副長官",
+   "minutes": 21
+  },
+  {
+   "start": "09:11",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "09:52",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "12:37",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 156
+  },
+  {
+   "start": "12:37",
+   "end": "12:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:39",
+   "end": "12:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:40",
+   "end": "12:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:41",
+   "end": "16:48",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 247
+  },
+  {
+   "start": "16:48",
+   "end": "17:00",
+   "category": "面会・会談",
+   "label": "斎藤健元農林水産相",
+   "minutes": 12
+  },
+  {
+   "start": "17:00",
+   "end": "17:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:10",
+   "end": "17:23",
+   "category": "面会・会談",
+   "label": "葉梨康弘法相",
+   "minutes": 13
+  },
+  {
+   "start": "17:23",
+   "end": "17:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "17:44",
+   "end": "17:51",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 7
+  },
+  {
+   "start": "17:51",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "18:01",
+   "end": "18:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:11",
+   "end": "18:51",
+   "category": "式典・行事",
+   "label": "内奏、斎藤氏の閣僚認証式",
+   "minutes": 40
+  },
+  {
+   "start": "18:51",
+   "end": "19:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:00",
+   "end": "19:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "19:12",
+   "end": "19:15",
+   "category": "式典・行事",
+   "label": "斎藤氏に法相の補職辞令交付。記念撮影",
+   "minutes": 3
+  },
+  {
+   "start": "19:15",
+   "end": "19:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "19:42",
+   "end": "19:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:43",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 257
+  }
+ ],
+ "alloc_min": {
+  "居所": 726,
+  "移動": 23,
+  "公務（内容未詳）": 160,
+  "面会・会談": 67,
+  "官邸執務": 8,
+  "国会": 159,
+  "取材・会見": 254,
+  "式典・行事": 43
+ }
+}

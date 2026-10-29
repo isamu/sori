@@ -1,0 +1,146 @@
+{
+ "date": "2023-03-04",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 472,
+ "residence_min": 862,
+ "meetings": 1,
+ "first_work": "08:48",
+ "events": [
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "散髪",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "個人"
+  },
+  {
+   "time": "10:45",
+   "label": "移動",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "移動"
+  },
+  {
+   "time": "13:52",
+   "label": "磯崎仁彦官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:08",
+   "label": "同ホテル内の宴会場「平安の間」で「タムスグループ創立３０周年記念祝賀会」に出席し、あいさつ",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:40",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 528
+  },
+  {
+   "start": "08:48",
+   "end": "08:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "08:59",
+   "end": "10:45",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 106
+  },
+  {
+   "start": "10:45",
+   "end": "11:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "11:00",
+   "end": "13:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 172
+  },
+  {
+   "start": "13:52",
+   "end": "17:44",
+   "category": "面会・会談",
+   "label": "磯崎仁彦官房副長官",
+   "minutes": 232
+  },
+  {
+   "start": "17:44",
+   "end": "18:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 18
+  },
+  {
+   "start": "18:02",
+   "end": "18:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:08",
+   "end": "18:40",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「平安の間」で「タムスグループ創立３０周年記念祝賀会」に出席し、あいさつ",
+   "minutes": 32
+  },
+  {
+   "start": "18:40",
+   "end": "18:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "18:44",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 316
+  }
+ ],
+ "alloc_min": {
+  "居所": 862,
+  "移動": 36,
+  "個人": 106,
+  "公務（内容未詳）": 172,
+  "面会・会談": 232,
+  "式典・行事": 32
+ }
+}

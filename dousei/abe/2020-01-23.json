@@ -1,0 +1,341 @@
+{
+ "date": "2020-01-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 812,
+ "residence_min": 628,
+ "meetings": 3,
+ "first_work": "08:03",
+ "events": [
+  {
+   "time": "08:03",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:15",
+   "label": "岡田直樹官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:06",
+   "label": "西村明宏官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議場",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "西村明宏官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議場",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:53",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:17",
+   "label": "総合科学技術・イノベーション会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:59",
+   "label": "同ホテル内の飲食店「鉄板焼　さざんか」で自民党の二階俊博幹事長、稲田朋美幹事長代行、林幹雄、金田勝年両幹事長代理、森山裕国対委員長、松本純国対委員長代理、岸信夫国対副委員長と会食",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "会食"
+  },
+  {
+   "time": "21:15",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 483
+  },
+  {
+   "start": "08:03",
+   "end": "08:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:05",
+   "end": "08:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:15",
+   "end": "09:05",
+   "category": "面会・会談",
+   "label": "岡田直樹官房副長官",
+   "minutes": 50
+  },
+  {
+   "start": "09:05",
+   "end": "09:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:06",
+   "end": "09:45",
+   "category": "面会・会談",
+   "label": "西村明宏官房副長官",
+   "minutes": 39
+  },
+  {
+   "start": "09:45",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:51",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:53",
+   "end": "09:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "12:02",
+   "category": "国会",
+   "label": "参院本会議場",
+   "minutes": 121
+  },
+  {
+   "start": "12:02",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:04",
+   "end": "12:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:06",
+   "end": "12:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:08",
+   "end": "12:14",
+   "category": "面会・会談",
+   "label": "西村明宏官房副長官",
+   "minutes": 6
+  },
+  {
+   "start": "12:14",
+   "end": "13:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 97
+  },
+  {
+   "start": "13:51",
+   "end": "13:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:53",
+   "end": "13:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "14:00",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:02",
+   "end": "16:50",
+   "category": "国会",
+   "label": "衆院本会議場",
+   "minutes": 168
+  },
+  {
+   "start": "16:50",
+   "end": "16:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:53",
+   "end": "16:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:55",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "17:17",
+   "end": "18:00",
+   "category": "官邸執務",
+   "label": "総合科学技術・イノベーション会議",
+   "minutes": 43
+  },
+  {
+   "start": "18:00",
+   "end": "18:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "18:54",
+   "end": "18:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:59",
+   "end": "21:15",
+   "category": "会食",
+   "label": "同ホテル内の飲食店「鉄板焼　さざんか」で自民党の二階俊博幹事長、稲田朋美幹事長代行、林幹雄、金田勝年両幹事長代理、森山裕国対委員長、松本純国対委員長代理、岸信夫国対副委員長と会食",
+   "minutes": 136
+  },
+  {
+   "start": "21:15",
+   "end": "21:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 145
+  }
+ ],
+ "alloc_min": {
+  "居所": 628,
+  "移動": 35,
+  "公務（内容未詳）": 207,
+  "面会・会談": 95,
+  "国会": 296,
+  "官邸執務": 43,
+  "会食": 136
+ }
+}

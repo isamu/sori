@@ -1,0 +1,339 @@
+{
+ "date": "2015-04-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 873,
+ "residence_min": 567,
+ "meetings": 2,
+ "first_work": "07:27",
+ "events": [
+  {
+   "time": "07:27",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:46",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:01",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:54",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:56",
+   "label": "子ども・子育て本部の看板掛け。職員に訓示",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:18",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:20",
+   "label": "子ども・子育て本部の看板掛け。職員に訓示",
+   "place": "東京・永田町 中央合同庁舎８号館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:29",
+   "label": "移動",
+   "place": "東京・永田町 中央合同庁舎８号館",
+   "category": "移動"
+  },
+  {
+   "time": "17:32",
+   "label": "甘利明経済財政担当相 松山健士事務次官 前川守政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:03",
+   "label": "故宮本丈靖妙智会教団会長の通夜に参列",
+   "place": "東京・代々木 妙智会館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:07",
+   "label": "移動",
+   "place": "東京・代々木 妙智会館",
+   "category": "移動"
+  },
+  {
+   "time": "19:16",
+   "label": "友人と会食",
+   "place": "東京・元代々木町 ピザ店「エンボカ東京」",
+   "category": "会食"
+  },
+  {
+   "time": "21:54",
+   "label": "移動",
+   "place": "東京・元代々木町 ピザ店「エンボカ東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 447
+  },
+  {
+   "start": "07:27",
+   "end": "07:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "07:40",
+   "end": "07:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:46",
+   "end": "08:50",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 64
+  },
+  {
+   "start": "08:50",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:57",
+   "end": "09:00",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 3
+  },
+  {
+   "start": "09:00",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:01",
+   "end": "11:52",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 171
+  },
+  {
+   "start": "11:52",
+   "end": "11:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:54",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:56",
+   "end": "12:54",
+   "category": "式典・行事",
+   "label": "子ども・子育て本部の看板掛け。職員に訓示",
+   "minutes": 58
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:15",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 255
+  },
+  {
+   "start": "17:15",
+   "end": "17:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:18",
+   "end": "17:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:20",
+   "end": "17:29",
+   "category": "式典・行事",
+   "label": "子ども・子育て本部の看板掛け。職員に訓示",
+   "minutes": 9
+  },
+  {
+   "start": "17:29",
+   "end": "17:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:30",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:32",
+   "end": "17:52",
+   "category": "面会・会談",
+   "label": "甘利明経済財政担当相 松山健士事務次官 前川守政策統括官",
+   "minutes": 20
+  },
+  {
+   "start": "17:52",
+   "end": "18:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "18:46",
+   "end": "19:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "19:03",
+   "end": "19:07",
+   "category": "式典・行事",
+   "label": "故宮本丈靖妙智会教団会長の通夜に参列",
+   "minutes": 4
+  },
+  {
+   "start": "19:07",
+   "end": "19:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:16",
+   "end": "21:54",
+   "category": "会食",
+   "label": "友人と会食",
+   "minutes": 158
+  },
+  {
+   "start": "21:54",
+   "end": "22:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "22:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 120
+  }
+ ],
+ "alloc_min": {
+  "居所": 567,
+  "移動": 52,
+  "公務（内容未詳）": 79,
+  "面会・会談": 84,
+  "国会": 429,
+  "式典・行事": 71,
+  "会食": 158
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "date": "2015-11-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 5,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "ＡＰＥＣ首脳会議",
+   "place": "フィリピン国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "地域・経済に関するセッション",
+   "place": "フィリピン国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "アジア太平洋経済協力会議（ＡＰＥＣ）首脳と写真撮影",
+   "place": "フィリピン国際会議場",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "台湾の蕭万長前副総統",
+   "place": "ダイヤモンドホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ダイヤモンドホテル",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "アキノ氏主催の夕食会",
+   "place": "アキノ大統領私邸",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "ホテル「ソフィテル・フィリピン・プラザ・マニラ」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "署名式",
+   "place": "ホテル「ソフィテル・フィリピン・プラザ・マニラ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "フィリピンのアキノ大統領と会談",
+   "place": "ホテル「ソフィテル・フィリピン・プラザ・マニラ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "オバマ米大統領と会談",
+   "place": "ホテル「ソフィテル・フィリピン・プラザ・マニラ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＡＰＥＣ首脳会議",
+   "place": "フィリピン国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "昼食会",
+   "place": "フィリピン国際会議場",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

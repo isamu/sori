@@ -1,0 +1,89 @@
+{
+ "date": "2014-01-14",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.01.14",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間13日）午後、エチオピア・アディスアベバの大統領宮殿でハイレマリアム首相と交換公文署名式",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ハイレマリアム首相主催の夕食会",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ホテル「シェラトン・アディス」泊",
+   "place": "ホテル「シェラトン・アディス」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間14日）午前、大統領宮殿でムラトゥ大統領を表敬",
+   "place": "ホテル「シェラトン・アディス」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日本庭園を視察",
+   "place": "ホテル「シェラトン・アディス」",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "アフリカ連合（ＡＵ）本部で演説",
+   "place": "ホテル「シェラトン・アディス」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ＡＵのズマ委員長による表敬",
+   "place": "ホテル「シェラトン・アディス」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "午後、ホテル「シェラトン・アディス」で内外記者会見",
+   "place": "ホテル「シェラトン・アディス」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "政府専用機でボレ国際空港発",
+   "place": "ホテル「シェラトン・アディス」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "給油のためオマーンのマスカット国際空港着",
+   "place": "ためオマーンのマスカット国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

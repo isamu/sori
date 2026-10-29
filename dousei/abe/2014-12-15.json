@@ -1,0 +1,327 @@
+{
+ "date": "2014-12-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 501,
+ "residence_min": 939,
+ "meetings": 6,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "00:37",
+   "label": "自民党本部発、東京・富ケ谷の私邸着",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:29",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "同党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:46",
+   "label": "茂木敏充同党選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:56",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "山口那津男公明党代表との与党党首会談開始。自民党の谷垣禎一、公明党の井上義久両幹事長同席",
+   "place": "国会 常任委員長室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:30",
+   "label": "移動",
+   "place": "国会 常任委員長室",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "記者会見",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:34",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "15:18",
+   "label": "尾身幸次元財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:03",
+   "label": "斎木昭隆事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:41",
+   "label": "岸田文雄外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "キャメロン英首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:14",
+   "label": "甘利明経済財政担当相 松山健士事務次官 前川守政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "00:37",
+   "end": "00:47",
+   "category": "移動",
+   "label": "自民党本部発、東京・富ケ谷の私邸着",
+   "minutes": 10
+  },
+  {
+   "start": "00:47",
+   "end": "11:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 642
+  },
+  {
+   "start": "11:29",
+   "end": "11:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "11:46",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "12:00",
+   "end": "12:29",
+   "category": "党務",
+   "label": "同党役員会",
+   "minutes": 29
+  },
+  {
+   "start": "12:29",
+   "end": "12:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "12:46",
+   "end": "12:55",
+   "category": "党務",
+   "label": "茂木敏充同党選対委員長",
+   "minutes": 9
+  },
+  {
+   "start": "12:55",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:56",
+   "end": "12:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "13:27",
+   "category": "面会・会談",
+   "label": "山口那津男公明党代表との与党党首会談開始。自民党の谷垣禎一、公明党の井上義久両幹事長同席",
+   "minutes": 27
+  },
+  {
+   "start": "13:27",
+   "end": "13:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:30",
+   "end": "13:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:33",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "14:00",
+   "end": "14:29",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 29
+  },
+  {
+   "start": "14:29",
+   "end": "14:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "14:34",
+   "end": "15:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 44
+  },
+  {
+   "start": "15:18",
+   "end": "16:02",
+   "category": "面会・会談",
+   "label": "尾身幸次元財務相",
+   "minutes": 44
+  },
+  {
+   "start": "16:02",
+   "end": "16:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:03",
+   "end": "16:33",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官",
+   "minutes": 30
+  },
+  {
+   "start": "16:33",
+   "end": "16:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "16:41",
+   "end": "16:51",
+   "category": "面会・会談",
+   "label": "岸田文雄外相",
+   "minutes": 10
+  },
+  {
+   "start": "16:51",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "17:00",
+   "end": "17:10",
+   "category": "面会・会談",
+   "label": "キャメロン英首相と電話会談",
+   "minutes": 10
+  },
+  {
+   "start": "17:10",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:14",
+   "end": "17:41",
+   "category": "面会・会談",
+   "label": "甘利明経済財政担当相 松山健士事務次官 前川守政策統括官",
+   "minutes": 27
+  },
+  {
+   "start": "17:41",
+   "end": "18:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "18:40",
+   "end": "19:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "19:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 297
+  }
+ ],
+ "alloc_min": {
+  "公務（内容未詳）": 186,
+  "移動": 100,
+  "居所": 939,
+  "党務": 38,
+  "面会・会談": 148,
+  "取材・会見": 29
+ }
+}

@@ -1,0 +1,302 @@
+{
+ "date": "2012-10-01",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.10.01",
+ "work_min": 635,
+ "residence_min": 805,
+ "meetings": 7,
+ "first_work": "09:31",
+ "events": [
+  {
+   "time": "09:31",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:32",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:34",
+   "label": "藤村官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:37",
+   "label": "斎藤官房副長官加わる",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:42",
+   "label": "両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:09",
+   "label": "斎藤副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:32",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:40",
+   "label": "臨時閣議終了",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:48",
+   "label": "国民新党の自見代表と与党党首会談。民主党の輿石幹事長、藤村長官、国民新党の下地幹事長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:57",
+   "label": "組閣本部設置",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:15",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:38",
+   "label": "新閣僚呼び込み",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:55",
+   "label": "呼び込み終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "16:11",
+   "label": "長島首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:52",
+   "label": "皇居。内奏、閣僚認証式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:37",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:58",
+   "label": "閣僚に補職辞令交付",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:11",
+   "label": "初閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:35",
+   "label": "閣僚と記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:40",
+   "label": "手塚首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:06",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 571
+  },
+  {
+   "start": "09:31",
+   "end": "09:32",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:32",
+   "end": "09:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:34",
+   "end": "09:37",
+   "category": "面会・会談",
+   "label": "藤村官房長官",
+   "minutes": 3
+  },
+  {
+   "start": "09:37",
+   "end": "09:42",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官加わる",
+   "minutes": 5
+  },
+  {
+   "start": "09:42",
+   "end": "11:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 87
+  },
+  {
+   "start": "11:09",
+   "end": "11:32",
+   "category": "面会・会談",
+   "label": "斎藤副長官",
+   "minutes": 23
+  },
+  {
+   "start": "11:32",
+   "end": "11:40",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 8
+  },
+  {
+   "start": "11:40",
+   "end": "12:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 68
+  },
+  {
+   "start": "12:48",
+   "end": "12:57",
+   "category": "面会・会談",
+   "label": "国民新党の自見代表と与党党首会談。民主党の輿石幹事長、藤村長官、国民新党の下地幹事長同席",
+   "minutes": 9
+  },
+  {
+   "start": "12:57",
+   "end": "13:15",
+   "category": "官邸執務",
+   "label": "組閣本部設置",
+   "minutes": 18
+  },
+  {
+   "start": "13:15",
+   "end": "13:38",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 23
+  },
+  {
+   "start": "13:38",
+   "end": "15:55",
+   "category": "式典・行事",
+   "label": "新閣僚呼び込み",
+   "minutes": 137
+  },
+  {
+   "start": "15:55",
+   "end": "16:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "16:11",
+   "end": "16:52",
+   "category": "面会・会談",
+   "label": "長島首相補佐官",
+   "minutes": 41
+  },
+  {
+   "start": "16:52",
+   "end": "18:37",
+   "category": "式典・行事",
+   "label": "皇居。内奏、閣僚認証式",
+   "minutes": 105
+  },
+  {
+   "start": "18:37",
+   "end": "18:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "18:58",
+   "end": "19:11",
+   "category": "式典・行事",
+   "label": "閣僚に補職辞令交付",
+   "minutes": 13
+  },
+  {
+   "start": "19:11",
+   "end": "19:35",
+   "category": "官邸執務",
+   "label": "初閣議",
+   "minutes": 24
+  },
+  {
+   "start": "19:35",
+   "end": "19:40",
+   "category": "式典・行事",
+   "label": "閣僚と記念撮影",
+   "minutes": 5
+  },
+  {
+   "start": "19:40",
+   "end": "20:06",
+   "category": "面会・会談",
+   "label": "手塚首相補佐官",
+   "minutes": 26
+  },
+  {
+   "start": "20:06",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 234
+  }
+ ],
+ "alloc_min": {
+  "居所": 805,
+  "移動": 1,
+  "公務（内容未詳）": 194,
+  "面会・会談": 107,
+  "官邸執務": 50,
+  "取材・会見": 23,
+  "式典・行事": 260
+ }
+}

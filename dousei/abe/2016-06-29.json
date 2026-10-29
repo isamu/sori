@@ -1,0 +1,280 @@
+{
+ "date": "2016-06-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 697,
+ "residence_min": 743,
+ "meetings": 1,
+ "first_work": "08:22",
+ "events": [
+  {
+   "time": "08:22",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:38",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:43",
+   "label": "金融市場の安定に向けた政府・日銀緊急会合",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:03",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:23",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "11:23",
+   "label": "ＪＲ燕三条駅",
+   "place": "ＪＲ燕三条駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:29",
+   "label": "街頭演説",
+   "place": "新潟県燕市 「燕三条ワシントンホテル」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:50",
+   "label": "街頭演説",
+   "place": "新潟市秋葉区 スーパー「ウオロク新津店」前",
+   "category": "党務"
+  },
+  {
+   "time": "14:29",
+   "label": "街頭演説",
+   "place": "同県村上市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "16:14",
+   "label": "練り歩き。街頭演説",
+   "place": "新潟市中央区 本町通六番町商店街",
+   "category": "党務"
+  },
+  {
+   "time": "16:59",
+   "label": "ＪＲ新潟駅",
+   "place": "ＪＲ新潟駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:39",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "19:44",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 502
+  },
+  {
+   "start": "08:22",
+   "end": "08:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "08:37",
+   "end": "08:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:38",
+   "end": "08:42",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 4
+  },
+  {
+   "start": "08:42",
+   "end": "08:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:43",
+   "end": "08:55",
+   "category": "官邸執務",
+   "label": "金融市場の安定に向けた政府・日銀緊急会合",
+   "minutes": 12
+  },
+  {
+   "start": "08:55",
+   "end": "09:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:03",
+   "end": "09:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "09:23",
+   "end": "09:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:28",
+   "end": "11:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 115
+  },
+  {
+   "start": "11:23",
+   "end": "11:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:25",
+   "end": "11:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:29",
+   "end": "11:58",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "11:58",
+   "end": "12:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "12:50",
+   "end": "13:20",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "13:20",
+   "end": "14:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 69
+  },
+  {
+   "start": "14:29",
+   "end": "14:59",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "14:59",
+   "end": "16:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 75
+  },
+  {
+   "start": "16:14",
+   "end": "16:54",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 40
+  },
+  {
+   "start": "16:54",
+   "end": "16:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "16:59",
+   "end": "17:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "17:25",
+   "end": "19:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 134
+  },
+  {
+   "start": "19:39",
+   "end": "19:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "19:44",
+   "end": "19:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "19:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 241
+  }
+ ],
+ "alloc_min": {
+  "居所": 743,
+  "移動": 78,
+  "公務（内容未詳）": 474,
+  "面会・会談": 4,
+  "官邸執務": 12,
+  "党務": 129
+ }
+}

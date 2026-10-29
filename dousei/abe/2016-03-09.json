@@ -1,0 +1,401 @@
+{
+ "date": "2016-03-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 736,
+ "residence_min": 704,
+ "meetings": 9,
+ "first_work": "09:02",
+ "events": [
+  {
+   "time": "09:02",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:14",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:41",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "参院議長応接室",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:13",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:39",
+   "label": "在米日系人リーダー招聘（しょうへい）プログラムの参加者らによる表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:22",
+   "label": "藤井聡内閣官房参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:16",
+   "label": "谷垣禎一自民党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:02",
+   "label": "幸田徳之賞勲局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:13",
+   "label": "西田昌司自民党参院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:58",
+   "label": "「Ｇ1サミット」に向けたビデオメッセージ収録",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:15",
+   "label": "高木毅復興相 高木陽介経済産業副大臣",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:09",
+   "label": "デンマークのクラスゴー国会議長の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:33",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:37",
+   "label": "日本経済新聞社の芹川洋一論説委員長、内山清行政治部長と会食",
+   "place": "東京・新橋 日本料理店「京矢　新橋店」",
+   "category": "会食"
+  },
+  {
+   "time": "21:02",
+   "label": "移動",
+   "place": "東京・新橋 日本料理店「京矢　新橋店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 542
+  },
+  {
+   "start": "09:02",
+   "end": "09:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:03",
+   "end": "09:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "09:14",
+   "end": "09:39",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 25
+  },
+  {
+   "start": "09:39",
+   "end": "09:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:41",
+   "end": "09:51",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 10
+  },
+  {
+   "start": "09:51",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:53",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:55",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:56",
+   "end": "09:57",
+   "category": "国会",
+   "label": "参院議長応接室",
+   "minutes": 1
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:11",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 70
+  },
+  {
+   "start": "11:11",
+   "end": "11:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:13",
+   "end": "11:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:15",
+   "end": "11:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "11:39",
+   "end": "11:56",
+   "category": "面会・会談",
+   "label": "在米日系人リーダー招聘（しょうへい）プログラムの参加者らによる表敬",
+   "minutes": 17
+  },
+  {
+   "start": "11:56",
+   "end": "13:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 86
+  },
+  {
+   "start": "13:22",
+   "end": "14:12",
+   "category": "面会・会談",
+   "label": "藤井聡内閣官房参与",
+   "minutes": 50
+  },
+  {
+   "start": "14:12",
+   "end": "14:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "14:16",
+   "end": "14:50",
+   "category": "面会・会談",
+   "label": "谷垣禎一自民党幹事長",
+   "minutes": 34
+  },
+  {
+   "start": "14:50",
+   "end": "15:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "15:02",
+   "end": "15:12",
+   "category": "面会・会談",
+   "label": "幸田徳之賞勲局長",
+   "minutes": 10
+  },
+  {
+   "start": "15:12",
+   "end": "15:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:13",
+   "end": "15:40",
+   "category": "面会・会談",
+   "label": "西田昌司自民党参院議員",
+   "minutes": 27
+  },
+  {
+   "start": "15:40",
+   "end": "15:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "15:58",
+   "end": "16:05",
+   "category": "官邸執務",
+   "label": "「Ｇ1サミット」に向けたビデオメッセージ収録",
+   "minutes": 7
+  },
+  {
+   "start": "16:05",
+   "end": "16:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "16:15",
+   "end": "16:48",
+   "category": "面会・会談",
+   "label": "高木毅復興相 高木陽介経済産業副大臣",
+   "minutes": 33
+  },
+  {
+   "start": "16:48",
+   "end": "17:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "17:09",
+   "end": "17:29",
+   "category": "面会・会談",
+   "label": "デンマークのクラスゴー国会議長の表敬",
+   "minutes": 20
+  },
+  {
+   "start": "17:29",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:33",
+   "end": "18:21",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 48
+  },
+  {
+   "start": "18:21",
+   "end": "18:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:26",
+   "end": "18:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:37",
+   "end": "21:02",
+   "category": "会食",
+   "label": "日本経済新聞社の芹川洋一論説委員長、内山清行政治部長と会食",
+   "minutes": 145
+  },
+  {
+   "start": "21:02",
+   "end": "21:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "21:18",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 162
+  }
+ ],
+ "alloc_min": {
+  "居所": 704,
+  "移動": 32,
+  "公務（内容未詳）": 207,
+  "面会・会談": 226,
+  "国会": 71,
+  "官邸執務": 55,
+  "会食": 145
+ }
+}

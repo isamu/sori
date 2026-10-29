@@ -1,0 +1,77 @@
+{
+ "date": "2023-08-11",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 16,
+ "residence_min": 1355,
+ "meetings": 0,
+ "first_work": "13:47",
+ "events": [
+  {
+   "time": "13:47",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:56",
+   "label": "同施設内の書店「丸善丸の内本店」で書籍を購入。裕子夫人同行",
+   "place": "東京・丸の内 商業ビル「丸の内オアゾ」",
+   "category": "個人"
+  },
+  {
+   "time": "15:05",
+   "label": "移動",
+   "place": "東京・丸の内 商業ビル「丸の内オアゾ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 827
+  },
+  {
+   "start": "13:47",
+   "end": "13:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "13:56",
+   "end": "15:05",
+   "category": "個人",
+   "label": "同施設内の書店「丸善丸の内本店」で書籍を購入。裕子夫人同行",
+   "minutes": 69
+  },
+  {
+   "start": "15:05",
+   "end": "15:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "15:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 528
+  }
+ ],
+ "alloc_min": {
+  "居所": 1355,
+  "移動": 16,
+  "個人": 69
+ }
+}

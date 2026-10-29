@@ -1,0 +1,286 @@
+{
+ "date": "2020-02-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 679,
+ "residence_min": 761,
+ "meetings": 2,
+ "first_work": "07:19",
+ "events": [
+  {
+   "time": "07:19",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "西村明宏官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "茂木敏充外相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:59",
+   "label": "麻生太郎副総理兼財務相 茂木敏充外相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "09:01",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:09",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:16",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:25",
+   "label": "加藤勝信厚生労働相 菅義偉官房長官 西村明宏副官房長官 岡田直樹副官房長官 杉田和博副官房長官 沖田芳樹内閣危機管理監 北村滋国家安全保障局長 古谷一之官房副長官補 長谷川栄一首相補佐官 今井尚哉首相補佐官 秋葉剛男事務次官 鈴木康裕医務技監",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:14",
+   "label": "新型コロナウイルス感染症対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:37",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 439
+  },
+  {
+   "start": "07:19",
+   "end": "07:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:20",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "07:30",
+   "end": "08:15",
+   "category": "面会・会談",
+   "label": "西村明宏官房副長官",
+   "minutes": 45
+  },
+  {
+   "start": "08:15",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:58",
+   "end": "08:59",
+   "category": "国会",
+   "label": "茂木敏充外相",
+   "minutes": 1
+  },
+  {
+   "start": "08:59",
+   "end": "09:01",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 茂木敏充外相",
+   "minutes": 2
+  },
+  {
+   "start": "09:01",
+   "end": "12:04",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 183
+  },
+  {
+   "start": "12:04",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:07",
+   "end": "12:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 45
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:13",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 253
+  },
+  {
+   "start": "17:13",
+   "end": "17:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:16",
+   "end": "17:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:18",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "17:25",
+   "end": "17:57",
+   "category": "面会・会談",
+   "label": "加藤勝信厚生労働相 菅義偉官房長官 西村明宏副官房長官 岡田直樹副官房長官 杉田和博副官房長官 沖田芳樹内閣危機管理監 北村滋国家安全保障局長 古谷一之官房副長官補 長谷川栄一首相補佐官 今井尚哉首相補佐官 秋葉剛男事務次官 鈴木康裕医務技監",
+   "minutes": 32
+  },
+  {
+   "start": "17:57",
+   "end": "18:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "18:14",
+   "end": "18:29",
+   "category": "官邸執務",
+   "label": "新型コロナウイルス感染症対策本部",
+   "minutes": 15
+  },
+  {
+   "start": "18:29",
+   "end": "18:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "18:37",
+   "end": "18:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 322
+  }
+ ],
+ "alloc_min": {
+  "居所": 761,
+  "移動": 8,
+  "公務（内容未詳）": 95,
+  "面会・会談": 77,
+  "国会": 439,
+  "官邸執務": 60
+ }
+}

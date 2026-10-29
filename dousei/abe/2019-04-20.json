@@ -1,0 +1,317 @@
+{
+ "date": "2019-04-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 684,
+ "residence_min": 756,
+ "meetings": 0,
+ "first_work": "09:51",
+ "events": [
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:18",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:35",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:44",
+   "label": "移動",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:21",
+   "label": "街頭演説",
+   "place": "大阪府四條畷市 ＪＲ忍ケ丘駅前",
+   "category": "党務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "大阪府四條畷市 ＪＲ忍ケ丘駅前",
+   "category": "移動"
+  },
+  {
+   "time": "13:21",
+   "label": "街頭演説",
+   "place": "同府大東市 ＪＲ住道駅前",
+   "category": "党務"
+  },
+  {
+   "time": "13:59",
+   "label": "移動",
+   "place": "同府大東市 ＪＲ住道駅前",
+   "category": "移動"
+  },
+  {
+   "time": "14:27",
+   "label": "街頭演説",
+   "place": "同府寝屋川市 京阪寝屋川市駅前",
+   "category": "党務"
+  },
+  {
+   "time": "15:00",
+   "label": "移動",
+   "place": "同府寝屋川市 京阪寝屋川市駅前",
+   "category": "移動"
+  },
+  {
+   "time": "15:27",
+   "label": "同所内の大阪迎賓館を視察。冨田浩司金融・世界経済に関する首脳会合担当大使同行",
+   "place": "大阪市中央区 大阪城公園西の丸庭園",
+   "category": "視察"
+  },
+  {
+   "time": "15:50",
+   "label": "移動",
+   "place": "大阪市中央区 大阪城公園西の丸庭園",
+   "category": "移動"
+  },
+  {
+   "time": "16:50",
+   "label": "吉本新喜劇に出演",
+   "place": "同区 劇場「なんばグランド花月」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:17",
+   "label": "移動",
+   "place": "同区 劇場「なんばグランド花月」",
+   "category": "移動"
+  },
+  {
+   "time": "17:30",
+   "label": "関西の中小企業経営者らと会食。長谷川栄一首相補佐官同席",
+   "place": "同市北区 「鉄板ステーキ鐵」",
+   "category": "会食"
+  },
+  {
+   "time": "18:43",
+   "label": "移動",
+   "place": "同市北区 「鉄板ステーキ鐵」",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:39",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:50",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 591
+  },
+  {
+   "start": "09:51",
+   "end": "10:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "10:18",
+   "end": "10:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "10:53",
+   "end": "11:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "11:35",
+   "end": "11:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "11:44",
+   "end": "12:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "12:21",
+   "end": "12:54",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "12:54",
+   "end": "13:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "13:21",
+   "end": "13:59",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "13:59",
+   "end": "14:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "14:27",
+   "end": "15:00",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "15:00",
+   "end": "15:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "15:27",
+   "end": "15:50",
+   "category": "視察",
+   "label": "同所内の大阪迎賓館を視察。冨田浩司金融・世界経済に関する首脳会合担当大使同行",
+   "minutes": 23
+  },
+  {
+   "start": "15:50",
+   "end": "16:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "16:07",
+   "end": "16:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "16:50",
+   "end": "16:55",
+   "category": "取材・会見",
+   "label": "吉本新喜劇に出演",
+   "minutes": 5
+  },
+  {
+   "start": "16:55",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "17:17",
+   "end": "17:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "17:30",
+   "end": "18:43",
+   "category": "会食",
+   "label": "関西の中小企業経営者らと会食。長谷川栄一首相補佐官同席",
+   "minutes": 73
+  },
+  {
+   "start": "18:43",
+   "end": "19:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "19:05",
+   "end": "19:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 40
+  },
+  {
+   "start": "19:45",
+   "end": "20:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "20:39",
+   "end": "20:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "20:50",
+   "end": "21:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "21:15",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 165
+  }
+ ],
+ "alloc_min": {
+  "居所": 756,
+  "移動": 318,
+  "公務（内容未詳）": 161,
+  "党務": 104,
+  "視察": 23,
+  "取材・会見": 5,
+  "会食": 73
+ }
+}

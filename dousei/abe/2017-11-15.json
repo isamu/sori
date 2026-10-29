@@ -1,0 +1,176 @@
+{
+ "date": "2017-11-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1277,
+ "residence_min": 163,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "発",
+   "place": "フィリピンのマニラ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:50",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:04",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:25",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:33",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "16:43",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:00",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:25",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:43",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:04",
+   "label": "日本酒のお披露目会に出席し、あいさつ。昭恵夫人同席",
+   "place": "東京・六本木 国際文化会館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "21:16",
+   "label": "移動",
+   "place": "東京・六本木 国際文化会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:50",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 950
+  },
+  {
+   "start": "15:50",
+   "end": "16:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "16:04",
+   "end": "16:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "16:25",
+   "end": "16:33",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 8
+  },
+  {
+   "start": "16:33",
+   "end": "16:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 77
+  },
+  {
+   "start": "18:00",
+   "end": "18:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "18:25",
+   "end": "18:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 18
+  },
+  {
+   "start": "18:43",
+   "end": "19:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "19:04",
+   "end": "21:16",
+   "category": "式典・行事",
+   "label": "日本酒のお披露目会に出席し、あいさつ。昭恵夫人同席",
+   "minutes": 132
+  },
+  {
+   "start": "21:16",
+   "end": "21:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "21:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 145
+  }
+ ],
+ "alloc_min": {
+  "外遊": 950,
+  "移動": 110,
+  "式典・行事": 140,
+  "官邸執務": 77,
+  "居所": 163
+ }
+}

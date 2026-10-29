@@ -1,0 +1,273 @@
+{
+ "date": "2017-10-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 741,
+ "residence_min": 699,
+ "meetings": 0,
+ "first_work": "08:16",
+ "events": [
+  {
+   "time": "08:16",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:46",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "大館能代空港",
+   "place": "大館能代空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:08",
+   "label": "街頭演説",
+   "place": "秋田県能代市のイオン能代店前",
+   "category": "党務"
+  },
+  {
+   "time": "12:56",
+   "label": "秘書官と食事。売店でバニラソフトクリームを購入",
+   "place": "同県大仙市の秋田自動車道西仙北サービスエリア",
+   "category": "会食"
+  },
+  {
+   "time": "13:45",
+   "label": "街頭演説",
+   "place": "同県横手市の場外馬券売場「テレトラック横手」前",
+   "category": "党務"
+  },
+  {
+   "time": "15:10",
+   "label": "弔問",
+   "place": "山形県金山町の故岸宏一元参院議員宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:39",
+   "label": "街頭演説",
+   "place": "同県新庄市の新庄駅前ふれあい広場",
+   "category": "党務"
+  },
+  {
+   "time": "17:13",
+   "label": "街頭演説",
+   "place": "同県河北町の複合施設「サハトべに花」前",
+   "category": "党務"
+  },
+  {
+   "time": "18:02",
+   "label": "同空港内のレストラン「名月荘エアーポートキッチン欅」で秘書官と食事",
+   "place": "山形空港",
+   "category": "会食"
+  },
+  {
+   "time": "18:50",
+   "label": "土田正剛同県東根市長ら",
+   "place": "山形空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:05",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:19",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 496
+  },
+  {
+   "start": "08:16",
+   "end": "08:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "08:46",
+   "end": "09:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "09:07",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "09:56",
+   "end": "10:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "10:21",
+   "end": "11:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "11:08",
+   "end": "11:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "11:44",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 72
+  },
+  {
+   "start": "12:56",
+   "end": "13:18",
+   "category": "会食",
+   "label": "秘書官と食事。売店でバニラソフトクリームを購入",
+   "minutes": 22
+  },
+  {
+   "start": "13:18",
+   "end": "13:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "13:45",
+   "end": "14:16",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "14:16",
+   "end": "15:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "15:10",
+   "end": "15:18",
+   "category": "式典・行事",
+   "label": "弔問",
+   "minutes": 8
+  },
+  {
+   "start": "15:18",
+   "end": "15:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "15:39",
+   "end": "16:15",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "16:15",
+   "end": "17:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 58
+  },
+  {
+   "start": "17:13",
+   "end": "17:48",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "17:48",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "18:02",
+   "end": "18:50",
+   "category": "会食",
+   "label": "同空港内のレストラン「名月荘エアーポートキッチン欅」で秘書官と食事",
+   "minutes": 48
+  },
+  {
+   "start": "18:50",
+   "end": "18:53",
+   "category": "移動",
+   "label": "土田正剛同県東根市長ら",
+   "minutes": 3
+  },
+  {
+   "start": "18:53",
+   "end": "20:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 72
+  },
+  {
+   "start": "20:05",
+   "end": "20:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "20:19",
+   "end": "20:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "20:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 203
+  }
+ ],
+ "alloc_min": {
+  "居所": 699,
+  "移動": 111,
+  "公務（内容未詳）": 414,
+  "党務": 138,
+  "会食": 70,
+  "式典・行事": 8
+ }
+}

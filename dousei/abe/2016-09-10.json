@@ -1,0 +1,151 @@
+{
+ "date": "2016-09-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 163,
+ "residence_min": 1187,
+ "meetings": 0,
+ "first_work": "10:52",
+ "events": [
+  {
+   "time": "10:52",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:25",
+   "label": "山形県を訪問される天皇、皇后両陛下を見送り",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:05",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:28",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と昼食",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "12:40",
+   "label": "稲田朋美防衛相",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "13:01",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "13:17",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "14:47",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 652
+  },
+  {
+   "start": "10:52",
+   "end": "11:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "11:25",
+   "end": "12:05",
+   "category": "移動",
+   "label": "山形県を訪問される天皇、皇后両陛下を見送り",
+   "minutes": 40
+  },
+  {
+   "start": "12:05",
+   "end": "12:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "12:28",
+   "end": "12:40",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と昼食",
+   "minutes": 12
+  },
+  {
+   "start": "12:40",
+   "end": "12:45",
+   "category": "移動",
+   "label": "稲田朋美防衛相",
+   "minutes": 5
+  },
+  {
+   "start": "12:45",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "13:01",
+   "end": "13:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "13:17",
+   "end": "14:47",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 90
+  },
+  {
+   "start": "14:47",
+   "end": "15:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "15:05",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 535
+  }
+ ],
+ "alloc_min": {
+  "居所": 1187,
+  "移動": 135,
+  "会食": 12,
+  "公務（内容未詳）": 16,
+  "個人": 90
+ }
+}

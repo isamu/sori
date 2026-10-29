@@ -1,0 +1,319 @@
+{
+ "date": "2024-05-09",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 650,
+ "residence_min": 790,
+ "meetings": 2,
+ "first_work": "08:06",
+ "events": [
+  {
+   "time": "08:06",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:10",
+   "label": "森屋宏官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:11",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:19",
+   "label": "春の叙勲大綬章親授式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:51",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "13:42",
+   "label": "伊藤信太郎環境相 和田篤也事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:59",
+   "label": "春の叙勲重光章伝達式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:19",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "14:28",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:01",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:08",
+   "label": "同ホテル内の宴会場「芙蓉の間」で日本農業新聞全国大会に出席。あいさつ。記念撮影",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:28",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "16:00",
+   "label": "参院内閣委員会",
+   "place": "国会 参院第３１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:17",
+   "label": "移動",
+   "place": "国会 参院第３１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:31",
+   "label": "新しい資本主義実現会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 486
+  },
+  {
+   "start": "08:06",
+   "end": "08:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:08",
+   "end": "08:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:10",
+   "end": "09:43",
+   "category": "面会・会談",
+   "label": "森屋宏官房副長官",
+   "minutes": 93
+  },
+  {
+   "start": "09:43",
+   "end": "10:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "10:11",
+   "end": "10:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:19",
+   "end": "10:51",
+   "category": "式典・行事",
+   "label": "春の叙勲大綬章親授式",
+   "minutes": 32
+  },
+  {
+   "start": "10:51",
+   "end": "10:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "10:58",
+   "end": "13:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 164
+  },
+  {
+   "start": "13:42",
+   "end": "13:45",
+   "category": "面会・会談",
+   "label": "伊藤信太郎環境相 和田篤也事務次官",
+   "minutes": 3
+  },
+  {
+   "start": "13:45",
+   "end": "13:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:51",
+   "end": "13:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "13:59",
+   "end": "14:19",
+   "category": "式典・行事",
+   "label": "春の叙勲重光章伝達式",
+   "minutes": 20
+  },
+  {
+   "start": "14:19",
+   "end": "14:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 33
+  },
+  {
+   "start": "15:01",
+   "end": "15:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "15:08",
+   "end": "15:28",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「芙蓉の間」で日本農業新聞全国大会に出席。あいさつ。記念撮影",
+   "minutes": 20
+  },
+  {
+   "start": "15:28",
+   "end": "15:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:37",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "16:00",
+   "end": "17:15",
+   "category": "国会",
+   "label": "参院内閣委員会",
+   "minutes": 75
+  },
+  {
+   "start": "17:15",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:17",
+   "end": "17:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:20",
+   "end": "17:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "17:31",
+   "end": "18:27",
+   "category": "官邸執務",
+   "label": "新しい資本主義実現会議",
+   "minutes": 56
+  },
+  {
+   "start": "18:27",
+   "end": "18:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "18:55",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:56",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 304
+  }
+ ],
+ "alloc_min": {
+  "居所": 790,
+  "移動": 54,
+  "公務（内容未詳）": 264,
+  "面会・会談": 96,
+  "式典・行事": 72,
+  "官邸執務": 89,
+  "国会": 75
+ }
+}

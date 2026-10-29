@@ -1,0 +1,179 @@
+{
+ "date": "2016-10-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 601,
+ "residence_min": 730,
+ "meetings": 1,
+ "first_work": "11:17",
+ "events": [
+  {
+   "time": "11:17",
+   "label": "ＪＲ京都駅",
+   "place": "ＪＲ京都駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:18",
+   "label": "移動",
+   "place": "ＪＲ京都駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:39",
+   "label": "サントリーホールディングスの佐治信忠会長夫妻、新浪剛史社長夫妻",
+   "place": "東京・赤坂 サントリーホール",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:05",
+   "label": "サントリーホール30周年記念ガラ・コンサートを鑑賞",
+   "place": "東京・赤坂 サントリーホール",
+   "category": "個人"
+  },
+  {
+   "time": "19:57",
+   "label": "移動",
+   "place": "東京・赤坂 サントリーホール",
+   "category": "移動"
+  },
+  {
+   "time": "20:03",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "20:41",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:50",
+   "label": "JR東京駅",
+   "place": "JR東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "23:45",
+   "label": "泊",
+   "place": "京都市左京区 グランドプリンスホテル京都",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 677
+  },
+  {
+   "start": "11:17",
+   "end": "11:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "11:21",
+   "end": "17:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 357
+  },
+  {
+   "start": "17:18",
+   "end": "17:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "17:37",
+   "end": "17:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:39",
+   "end": "17:55",
+   "category": "面会・会談",
+   "label": "サントリーホールディングスの佐治信忠会長夫妻、新浪剛史社長夫妻",
+   "minutes": 16
+  },
+  {
+   "start": "17:55",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "18:05",
+   "end": "19:54",
+   "category": "個人",
+   "label": "サントリーホール30周年記念ガラ・コンサートを鑑賞",
+   "minutes": 109
+  },
+  {
+   "start": "19:54",
+   "end": "19:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:57",
+   "end": "20:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "20:03",
+   "end": "20:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 38
+  },
+  {
+   "start": "20:41",
+   "end": "20:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "20:50",
+   "end": "21:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "21:00",
+   "end": "23:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 165
+  },
+  {
+   "start": "23:45",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 15
+  }
+ ],
+ "alloc_min": {
+  "居所": 730,
+  "移動": 38,
+  "公務（内容未詳）": 547,
+  "面会・会談": 16,
+  "個人": 109
+ }
+}

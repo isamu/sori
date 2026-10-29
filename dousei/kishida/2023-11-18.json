@@ -1,0 +1,22 @@
+{
+ "date": "2023-11-18",
+ "pm": "岸田文雄",
+ "source": "朝日新聞社 2023.11.18",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "米サンフランシスコ訪問（ＡＰＥＣ首脳会議出席）",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

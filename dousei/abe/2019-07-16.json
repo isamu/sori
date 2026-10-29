@@ -1,0 +1,404 @@
+{
+ "date": "2019-07-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 684,
+ "residence_min": 756,
+ "meetings": 2,
+ "first_work": "09:12",
+ "events": [
+  {
+   "time": "09:12",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:35",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:48",
+   "label": "金杉憲治アジア大洋州局長 岡野正敬国際法局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:11",
+   "label": "ハガティ駐日米大使、谷内正太郎国家安全保障局長、北村滋内閣情報官、鈴木量博外務省北米局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:34",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:37",
+   "label": "同党広報用の動画収録",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:01",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:20",
+   "label": "利用客と握手、写真撮影",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:16",
+   "label": "ＪＲ上越妙高駅",
+   "place": "ＪＲ上越妙高駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:21",
+   "label": "移動",
+   "place": "ＪＲ上越妙高駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:35",
+   "label": "街頭演説",
+   "place": "新潟県上越市 かに池公園",
+   "category": "党務"
+  },
+  {
+   "time": "14:11",
+   "label": "移動",
+   "place": "新潟県上越市 かに池公園",
+   "category": "移動"
+  },
+  {
+   "time": "14:52",
+   "label": "街頭演説",
+   "place": "同県柏崎市 文化会館アルフォーレ前",
+   "category": "党務"
+  },
+  {
+   "time": "15:29",
+   "label": "移動",
+   "place": "同県柏崎市 文化会館アルフォーレ前",
+   "category": "移動"
+  },
+  {
+   "time": "16:10",
+   "label": "街頭演説",
+   "place": "同県小千谷市 スーパー「原信　西小千谷店」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:51",
+   "label": "移動",
+   "place": "同県小千谷市 スーパー「原信　西小千谷店」前",
+   "category": "移動"
+  },
+  {
+   "time": "17:04",
+   "label": "休憩。揚げ餅を購入。利用客らと握手、写真撮影",
+   "place": "同県長岡市 関越自動車道越後川口サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:10",
+   "label": "移動",
+   "place": "同県長岡市 関越自動車道越後川口サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:33",
+   "label": "街頭演説",
+   "place": "同県南魚沼市 ＪＲ六日町駅前",
+   "category": "党務"
+  },
+  {
+   "time": "18:09",
+   "label": "移動",
+   "place": "同県南魚沼市 ＪＲ六日町駅前",
+   "category": "移動"
+  },
+  {
+   "time": "18:29",
+   "label": "同駅内のそば店「小嶋屋　越後湯沢店」で夕食",
+   "place": "ＪＲ越後湯沢駅",
+   "category": "会食"
+  },
+  {
+   "time": "18:49",
+   "label": "ＮＨＫのインタビュー収録",
+   "place": "ＪＲ越後湯沢駅",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:11",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "20:16",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 552
+  },
+  {
+   "start": "09:12",
+   "end": "09:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:25",
+   "end": "09:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "09:35",
+   "end": "09:43",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "09:43",
+   "end": "09:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:48",
+   "end": "10:04",
+   "category": "面会・会談",
+   "label": "金杉憲治アジア大洋州局長 岡野正敬国際法局長",
+   "minutes": 16
+  },
+  {
+   "start": "10:04",
+   "end": "10:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "10:11",
+   "end": "10:20",
+   "category": "面会・会談",
+   "label": "ハガティ駐日米大使、谷内正太郎国家安全保障局長、北村滋内閣情報官、鈴木量博外務省北米局長",
+   "minutes": 9
+  },
+  {
+   "start": "10:20",
+   "end": "10:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "10:34",
+   "end": "10:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:37",
+   "end": "11:01",
+   "category": "党務",
+   "label": "同党広報用の動画収録",
+   "minutes": 24
+  },
+  {
+   "start": "11:01",
+   "end": "11:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "11:17",
+   "end": "11:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:20",
+   "end": "11:22",
+   "category": "移動",
+   "label": "利用客と握手、写真撮影",
+   "minutes": 2
+  },
+  {
+   "start": "11:22",
+   "end": "13:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 114
+  },
+  {
+   "start": "13:16",
+   "end": "13:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "13:21",
+   "end": "13:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "13:35",
+   "end": "14:11",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "14:11",
+   "end": "14:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "14:52",
+   "end": "15:29",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 37
+  },
+  {
+   "start": "15:29",
+   "end": "16:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "16:10",
+   "end": "16:51",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 41
+  },
+  {
+   "start": "16:51",
+   "end": "17:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "17:04",
+   "end": "17:10",
+   "category": "移動",
+   "label": "休憩。揚げ餅を購入。利用客らと握手、写真撮影",
+   "minutes": 6
+  },
+  {
+   "start": "17:10",
+   "end": "17:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "17:33",
+   "end": "18:09",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "18:09",
+   "end": "18:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "18:29",
+   "end": "18:49",
+   "category": "会食",
+   "label": "同駅内のそば店「小嶋屋　越後湯沢店」で夕食",
+   "minutes": 20
+  },
+  {
+   "start": "18:49",
+   "end": "18:51",
+   "category": "取材・会見",
+   "label": "ＮＨＫのインタビュー収録",
+   "minutes": 2
+  },
+  {
+   "start": "18:51",
+   "end": "20:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 80
+  },
+  {
+   "start": "20:11",
+   "end": "20:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "20:16",
+   "end": "20:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "20:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 204
+  }
+ ],
+ "alloc_min": {
+  "居所": 756,
+  "移動": 217,
+  "公務（内容未詳）": 238,
+  "官邸執務": 8,
+  "面会・会談": 25,
+  "党務": 174,
+  "会食": 20,
+  "取材・会見": 2
+ }
+}

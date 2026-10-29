@@ -1,0 +1,83 @@
+{
+ "date": "2015-01-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "ネタニヤフ首相と会談",
+   "place": "首相府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "首相府",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "視察",
+   "place": "ホロコースト記念館",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "エルサレム市内 デービッド・シタデル・ホテル",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "ネタニヤフ首相主催の夕食会",
+   "place": "首相公邸",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "米共和党のマケイン上院議員による表敬",
+   "place": "エルサレム市内 デービッド・シタデル・ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "イスラエル・パレスチナ合同青年招聘（しょうへい）事業参加者の同窓会に出席",
+   "place": "エルサレム市内 デービッド・シタデル・ホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "野党労働党のヘルツォグ党首による表敬",
+   "place": "エルサレム市内 デービッド・シタデル・ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ユダヤ教聖地「嘆きの壁」などを視察",
+   "place": "エルサレム旧市街",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "リブリン大統領を表敬",
+   "place": "大統領府",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

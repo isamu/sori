@@ -1,0 +1,104 @@
+{
+ "date": "2016-02-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 183,
+ "residence_min": 872,
+ "meetings": 0,
+ "first_work": "06:33",
+ "events": [
+  {
+   "time": "06:33",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:28",
+   "label": "永山治中外製薬会長、秘書官らとゴルフ",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "個人"
+  },
+  {
+   "time": "13:53",
+   "label": "移動",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "移動"
+  },
+  {
+   "time": "14:50",
+   "label": "同ホテル内の宴会場「鳳凰の間」で友人をしのぶ会に出席",
+   "place": "東京・宇田川町 渋谷東武ホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:57",
+   "label": "移動",
+   "place": "東京・宇田川町 渋谷東武ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 393
+  },
+  {
+   "start": "06:33",
+   "end": "07:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 55
+  },
+  {
+   "start": "07:28",
+   "end": "13:53",
+   "category": "個人",
+   "label": "永山治中外製薬会長、秘書官らとゴルフ",
+   "minutes": 385
+  },
+  {
+   "start": "13:53",
+   "end": "14:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 57
+  },
+  {
+   "start": "14:50",
+   "end": "15:57",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「鳳凰の間」で友人をしのぶ会に出席",
+   "minutes": 67
+  },
+  {
+   "start": "15:57",
+   "end": "16:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "16:01",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 479
+  }
+ ],
+ "alloc_min": {
+  "居所": 872,
+  "移動": 116,
+  "個人": 385,
+  "式典・行事": 67
+ }
+}

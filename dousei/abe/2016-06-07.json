@@ -1,0 +1,555 @@
+{
+ "date": "2016-06-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 734,
+ "residence_min": 706,
+ "meetings": 15,
+ "first_work": "09:11",
+ "events": [
+  {
+   "time": "09:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:32",
+   "label": "総裁応接室で自民党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "09:58",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "10:02",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:05",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:14",
+   "label": "林幹雄経済産業相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:20",
+   "label": "森山裕農林水産相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:26",
+   "label": "遠藤利明五輪担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:54",
+   "label": "下村博文自民党総裁特別補佐",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:25",
+   "label": "河井克行首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:33",
+   "label": "木村太郎広報本部長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:02",
+   "label": "茂木敏充自民党選対委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "自民党全国幹事長会議に出席し、あいさつ",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "13:18",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "13:41",
+   "label": "岩城光英法相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:29",
+   "label": "二階俊博自民党総務会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "14:54",
+   "label": "河野太郎国家公安委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:10",
+   "label": "ラグビーワールドカップ2019日本大会成功議連の武田良太幹事長ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:03",
+   "label": "森健良北米局長 前田哲防衛政策局長 中島明彦地方協力局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:32",
+   "label": "斎木昭隆事務次官 石兼公博アジア大洋州局長 鈴木哲国際情報統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:49",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:35",
+   "label": "谷内正太郎国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:52",
+   "label": "森喜朗元首相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:14",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:31",
+   "label": "本田悦朗、谷口智彦両内閣官房参与らと会食",
+   "place": "東京・神楽坂 天ぷら料理店「天孝」",
+   "category": "会食"
+  },
+  {
+   "time": "21:05",
+   "label": "移動",
+   "place": "東京・神楽坂 天ぷら料理店「天孝」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 551
+  },
+  {
+   "start": "09:11",
+   "end": "09:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "09:28",
+   "end": "09:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:32",
+   "end": "09:55",
+   "category": "党務",
+   "label": "総裁応接室で自民党役員会",
+   "minutes": 23
+  },
+  {
+   "start": "09:55",
+   "end": "09:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:58",
+   "end": "10:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:01",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:02",
+   "end": "10:05",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "10:05",
+   "end": "10:11",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 6
+  },
+  {
+   "start": "10:11",
+   "end": "10:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:14",
+   "end": "10:19",
+   "category": "面会・会談",
+   "label": "林幹雄経済産業相",
+   "minutes": 5
+  },
+  {
+   "start": "10:19",
+   "end": "10:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:20",
+   "end": "10:25",
+   "category": "面会・会談",
+   "label": "森山裕農林水産相",
+   "minutes": 5
+  },
+  {
+   "start": "10:25",
+   "end": "10:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:26",
+   "end": "10:37",
+   "category": "面会・会談",
+   "label": "遠藤利明五輪担当相",
+   "minutes": 11
+  },
+  {
+   "start": "10:37",
+   "end": "10:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "10:54",
+   "end": "11:24",
+   "category": "面会・会談",
+   "label": "下村博文自民党総裁特別補佐",
+   "minutes": 30
+  },
+  {
+   "start": "11:24",
+   "end": "11:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:25",
+   "end": "11:32",
+   "category": "面会・会談",
+   "label": "河井克行首相補佐官",
+   "minutes": 7
+  },
+  {
+   "start": "11:32",
+   "end": "11:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:33",
+   "end": "11:42",
+   "category": "面会・会談",
+   "label": "木村太郎広報本部長",
+   "minutes": 9
+  },
+  {
+   "start": "11:42",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "12:02",
+   "end": "12:50",
+   "category": "面会・会談",
+   "label": "茂木敏充自民党選対委員長",
+   "minutes": 48
+  },
+  {
+   "start": "12:50",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "12:56",
+   "end": "12:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "13:17",
+   "category": "党務",
+   "label": "自民党全国幹事長会議に出席し、あいさつ",
+   "minutes": 17
+  },
+  {
+   "start": "13:17",
+   "end": "13:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:18",
+   "end": "13:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:20",
+   "end": "13:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "13:41",
+   "end": "13:53",
+   "category": "面会・会談",
+   "label": "岩城光英法相",
+   "minutes": 12
+  },
+  {
+   "start": "13:53",
+   "end": "14:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "14:29",
+   "end": "14:42",
+   "category": "党務",
+   "label": "二階俊博自民党総務会長",
+   "minutes": 13
+  },
+  {
+   "start": "14:42",
+   "end": "14:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "14:54",
+   "end": "15:09",
+   "category": "面会・会談",
+   "label": "河野太郎国家公安委員長",
+   "minutes": 15
+  },
+  {
+   "start": "15:09",
+   "end": "15:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:10",
+   "end": "15:22",
+   "category": "面会・会談",
+   "label": "ラグビーワールドカップ2019日本大会成功議連の武田良太幹事長ら",
+   "minutes": 12
+  },
+  {
+   "start": "15:22",
+   "end": "16:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "16:03",
+   "end": "16:31",
+   "category": "面会・会談",
+   "label": "森健良北米局長 前田哲防衛政策局長 中島明彦地方協力局長",
+   "minutes": 28
+  },
+  {
+   "start": "16:31",
+   "end": "16:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:32",
+   "end": "16:47",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官 石兼公博アジア大洋州局長 鈴木哲国際情報統括官",
+   "minutes": 15
+  },
+  {
+   "start": "16:47",
+   "end": "16:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:49",
+   "end": "17:09",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 20
+  },
+  {
+   "start": "17:09",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "17:35",
+   "end": "17:40",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長",
+   "minutes": 5
+  },
+  {
+   "start": "17:40",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "17:52",
+   "end": "18:06",
+   "category": "面会・会談",
+   "label": "森喜朗元首相",
+   "minutes": 14
+  },
+  {
+   "start": "18:06",
+   "end": "18:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "18:14",
+   "end": "18:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "18:31",
+   "end": "21:05",
+   "category": "会食",
+   "label": "本田悦朗、谷口智彦両内閣官房参与らと会食",
+   "minutes": 154
+  },
+  {
+   "start": "21:05",
+   "end": "21:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 155
+  }
+ ],
+ "alloc_min": {
+  "居所": 706,
+  "移動": 62,
+  "公務（内容未詳）": 220,
+  "党務": 53,
+  "取材・会見": 3,
+  "官邸執務": 6,
+  "面会・会談": 236,
+  "会食": 154
+ }
+}

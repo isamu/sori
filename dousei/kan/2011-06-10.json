@@ -1,0 +1,248 @@
+{
+ "date": "2011-06-10",
+ "pm": "菅直人",
+ "source": "朝日新聞社 2011.06.10",
+ "work_min": 849,
+ "residence_min": 591,
+ "meetings": 4,
+ "first_work": "05:58",
+ "events": [
+  {
+   "time": "05:58",
+   "label": "福山官房副長官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:30",
+   "label": "福山氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:50",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "07:56",
+   "label": "拉致問題対策本部",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:19",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:59",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:01",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "13:52",
+   "label": "本会議を途中退席",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "14:00",
+   "label": "参院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "政府・連合トップ会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:35",
+   "label": "食と農林漁業の再生実現会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:38",
+   "label": "同会議終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:41",
+   "label": "片山総務相、逢坂総務政務官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:07",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "05:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 358
+  },
+  {
+   "start": "05:58",
+   "end": "07:30",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 92
+  },
+  {
+   "start": "07:30",
+   "end": "07:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "07:50",
+   "end": "07:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:56",
+   "end": "08:19",
+   "category": "官邸執務",
+   "label": "拉致問題対策本部",
+   "minutes": 23
+  },
+  {
+   "start": "08:19",
+   "end": "09:00",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 41
+  },
+  {
+   "start": "09:00",
+   "end": "11:59",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 179
+  },
+  {
+   "start": "11:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 61
+  },
+  {
+   "start": "13:00",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:01",
+   "end": "13:52",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 51
+  },
+  {
+   "start": "13:52",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "14:00",
+   "end": "17:10",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 190
+  },
+  {
+   "start": "17:10",
+   "end": "17:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "17:47",
+   "end": "18:35",
+   "category": "面会・会談",
+   "label": "政府・連合トップ会談",
+   "minutes": 48
+  },
+  {
+   "start": "18:35",
+   "end": "19:38",
+   "category": "官邸執務",
+   "label": "食と農林漁業の再生実現会議",
+   "minutes": 63
+  },
+  {
+   "start": "19:38",
+   "end": "19:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:41",
+   "end": "20:07",
+   "category": "面会・会談",
+   "label": "片山総務相、逢坂総務政務官",
+   "minutes": 26
+  },
+  {
+   "start": "20:07",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 233
+  }
+ ],
+ "alloc_min": {
+  "居所": 591,
+  "面会・会談": 166,
+  "公務（内容未詳）": 136,
+  "官邸執務": 127,
+  "国会": 420
+ }
+}

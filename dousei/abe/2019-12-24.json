@@ -1,0 +1,77 @@
+{
+ "date": "2019-12-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "日中韓３首脳共同記者発表",
+   "place": "世紀城新国際会議センター",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "中国の李克強首相、韓国の文在寅大統領との３カ国首脳会談",
+   "place": "世紀城新国際会議センター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "「日中韓ビジネス・サミット」開幕式に出席",
+   "place": "世紀城新国際会議センター",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "シャングリラホテル成都",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "「日中韓協力２０周年記念式典」に出席",
+   "place": "杜甫草堂博物館",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "韓国の文在寅大統領と会談",
+   "place": "シャングリラホテル成都",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日中韓３カ国昼食会",
+   "place": "世紀城新国際会議センター",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "シャングリラホテル成都",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "シャングリラホテル成都",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

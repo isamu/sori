@@ -1,0 +1,275 @@
+{
+ "date": "2016-03-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 667,
+ "residence_min": 451,
+ "meetings": 2,
+ "first_work": "07:31",
+ "events": [
+  {
+   "time": "07:31",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:33",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "07:43",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:57",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:14",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:19",
+   "label": "自民党と各種団体の懇談会に出席",
+   "place": "東京・平河町 都市センターホテル",
+   "category": "党務"
+  },
+  {
+   "time": "17:33",
+   "label": "移動",
+   "place": "東京・平河町 都市センターホテル",
+   "category": "移動"
+  },
+  {
+   "time": "18:20",
+   "label": "斎木昭隆事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:38",
+   "label": "作家の竹田恒泰氏へのビデオメッセージ収録",
+   "place": "公邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": null,
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 451
+  },
+  {
+   "start": "07:31",
+   "end": "07:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:32",
+   "end": "07:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:33",
+   "end": "07:43",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 10
+  },
+  {
+   "start": "07:43",
+   "end": "08:39",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 56
+  },
+  {
+   "start": "08:39",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:00",
+   "end": "11:53",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 173
+  },
+  {
+   "start": "11:53",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:56",
+   "end": "11:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 58
+  },
+  {
+   "start": "12:55",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:12",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 252
+  },
+  {
+   "start": "17:12",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:14",
+   "end": "17:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "17:19",
+   "end": "17:33",
+   "category": "党務",
+   "label": "自民党と各種団体の懇談会に出席",
+   "minutes": 14
+  },
+  {
+   "start": "17:33",
+   "end": "17:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "17:39",
+   "end": "18:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "18:20",
+   "end": "18:35",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官",
+   "minutes": 15
+  },
+  {
+   "start": "18:35",
+   "end": "18:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:38",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 322
+  }
+ ],
+ "alloc_min": {
+  "居所": 451,
+  "移動": 15,
+  "公務（内容未詳）": 74,
+  "取材・会見": 10,
+  "面会・会談": 71,
+  "国会": 425,
+  "官邸執務": 58,
+  "党務": 14,
+  "個人": 322
+ }
+}

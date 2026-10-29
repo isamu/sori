@@ -1,0 +1,279 @@
+{
+ "date": "2017-10-12",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 788,
+ "residence_min": 652,
+ "meetings": 0,
+ "first_work": "08:37",
+ "events": [
+  {
+   "time": "08:37",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:05",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "11:18",
+   "label": "ＪＲ新発田駅",
+   "place": "ＪＲ新発田駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:25",
+   "label": "自民党衆院選立候補者の演説会に出席し、演説",
+   "place": "新潟県新発田市の市民文化会館",
+   "category": "党務"
+  },
+  {
+   "time": "12:52",
+   "label": "練り歩き。街頭演説",
+   "place": "新潟市中央区の本町通六番町商店街",
+   "category": "党務"
+  },
+  {
+   "time": "13:54",
+   "label": "「モスバーガー黒埼パーキングエリア店」で食事",
+   "place": "同市西区の北陸自動車道黒埼パーキングエリア",
+   "category": "会食"
+  },
+  {
+   "time": "14:38",
+   "label": "街頭演説",
+   "place": "同県燕市の吉田産業会館駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "15:29",
+   "label": "街頭演説",
+   "place": "同県三条市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "16:40",
+   "label": "街頭演説",
+   "place": "同県長岡市の多目的施設「シティホールプラザ・アオーレ長岡」前",
+   "category": "党務"
+  },
+  {
+   "time": "18:16",
+   "label": "街頭演説",
+   "place": "同県上越市のかに池公園",
+   "category": "党務"
+  },
+  {
+   "time": "18:58",
+   "label": "ＪＲ上越妙高駅",
+   "place": "ＪＲ上越妙高駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:18",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:23",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:37",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 517
+  },
+  {
+   "start": "08:37",
+   "end": "09:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "09:05",
+   "end": "09:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:12",
+   "end": "11:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 126
+  },
+  {
+   "start": "11:18",
+   "end": "11:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:21",
+   "end": "11:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:25",
+   "end": "12:15",
+   "category": "党務",
+   "label": "自民党衆院選立候補者の演説会に出席し、演説",
+   "minutes": 50
+  },
+  {
+   "start": "12:15",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "12:52",
+   "end": "13:30",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "13:30",
+   "end": "13:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "13:54",
+   "end": "14:10",
+   "category": "会食",
+   "label": "「モスバーガー黒埼パーキングエリア店」で食事",
+   "minutes": 16
+  },
+  {
+   "start": "14:10",
+   "end": "14:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "14:38",
+   "end": "15:08",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "15:08",
+   "end": "15:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "15:29",
+   "end": "16:01",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "16:01",
+   "end": "16:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "16:40",
+   "end": "17:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "17:10",
+   "end": "18:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 66
+  },
+  {
+   "start": "18:16",
+   "end": "18:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "18:44",
+   "end": "18:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "18:58",
+   "end": "19:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "19:13",
+   "end": "21:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 125
+  },
+  {
+   "start": "21:18",
+   "end": "21:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "21:23",
+   "end": "21:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "21:45",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 135
+  }
+ ],
+ "alloc_min": {
+  "居所": 652,
+  "移動": 68,
+  "公務（内容未詳）": 496,
+  "党務": 208,
+  "会食": 16
+ }
+}

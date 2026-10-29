@@ -1,0 +1,64 @@
+{
+ "date": "2017-05-28",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1148,
+ "residence_min": 292,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "18:21",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:40",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "18:21",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1101
+  },
+  {
+   "start": "18:21",
+   "end": "18:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "18:40",
+   "end": "19:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "19:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 292
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1101,
+  "移動": 47,
+  "居所": 292
+ }
+}

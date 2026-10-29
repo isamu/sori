@@ -1,0 +1,207 @@
+{
+ "date": "2016-03-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 272,
+ "residence_min": 1168,
+ "meetings": 1,
+ "first_work": "09:00",
+ "events": [
+  {
+   "time": "09:00",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:13",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:19",
+   "label": "陸上自衛隊ヘリコプター",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:46",
+   "label": "本館応接室で中谷元防衛相、国分良成防大学校長ら",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:01",
+   "label": "記念講堂で防大卒業式",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:07",
+   "label": "本館学校長応接室で中谷防衛相、国分大学校長らと昼食",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "会食"
+  },
+  {
+   "time": "12:36",
+   "label": "記念講堂で任命・宣誓式",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:54",
+   "label": "陸自ヘリ",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "移動"
+  },
+  {
+   "time": "13:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:19",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 540
+  },
+  {
+   "start": "09:00",
+   "end": "09:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "09:19",
+   "end": "09:40",
+   "category": "移動",
+   "label": "陸上自衛隊ヘリコプター",
+   "minutes": 21
+  },
+  {
+   "start": "09:40",
+   "end": "09:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:46",
+   "end": "09:55",
+   "category": "面会・会談",
+   "label": "本館応接室で中谷元防衛相、国分良成防大学校長ら",
+   "minutes": 9
+  },
+  {
+   "start": "09:55",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "10:01",
+   "end": "11:57",
+   "category": "式典・行事",
+   "label": "記念講堂で防大卒業式",
+   "minutes": 116
+  },
+  {
+   "start": "11:57",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "12:07",
+   "end": "12:31",
+   "category": "会食",
+   "label": "本館学校長応接室で中谷防衛相、国分大学校長らと昼食",
+   "minutes": 24
+  },
+  {
+   "start": "12:31",
+   "end": "12:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:36",
+   "end": "12:49",
+   "category": "式典・行事",
+   "label": "記念講堂で任命・宣誓式",
+   "minutes": 13
+  },
+  {
+   "start": "12:49",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:54",
+   "end": "13:14",
+   "category": "移動",
+   "label": "陸自ヘリ",
+   "minutes": 20
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "13:19",
+   "end": "13:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "13:32",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 628
+  }
+ ],
+ "alloc_min": {
+  "居所": 1168,
+  "移動": 67,
+  "官邸執務": 11,
+  "公務（内容未詳）": 32,
+  "面会・会談": 9,
+  "式典・行事": 129,
+  "会食": 24
+ }
+}

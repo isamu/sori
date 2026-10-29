@@ -1,0 +1,130 @@
+{
+ "date": "2019-12-28",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 202,
+ "residence_min": 1140,
+ "meetings": 0,
+ "first_work": "14:46",
+ "events": [
+  {
+   "time": "14:46",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:55",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "16:33",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": "16:50",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:36",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:54",
+   "label": "母親の洋子さん、実弟の岸信夫自民党衆院議員ら親族と食事",
+   "place": "東京・紀尾井町 中国料理店「維新號」",
+   "category": "会食"
+  },
+  {
+   "time": "20:12",
+   "label": "移動",
+   "place": "東京・紀尾井町 中国料理店「維新號」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 886
+  },
+  {
+   "start": "14:46",
+   "end": "14:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "14:55",
+   "end": "16:33",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 98
+  },
+  {
+   "start": "16:33",
+   "end": "16:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "16:50",
+   "end": "17:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 46
+  },
+  {
+   "start": "17:36",
+   "end": "17:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "17:54",
+   "end": "20:12",
+   "category": "会食",
+   "label": "母親の洋子さん、実弟の岸信夫自民党衆院議員ら親族と食事",
+   "minutes": 138
+  },
+  {
+   "start": "20:12",
+   "end": "20:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "20:32",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 208
+  }
+ ],
+ "alloc_min": {
+  "居所": 1140,
+  "移動": 64,
+  "個人": 98,
+  "会食": 138
+ }
+}

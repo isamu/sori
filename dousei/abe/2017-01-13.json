@@ -1,0 +1,77 @@
+{
+ "date": "2017-01-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "視察",
+   "place": "同市内のミンダナオ国際大学",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "ドゥテルテ氏と懇談",
+   "place": "「ウオーターフロント・インシュラー・ホテル・ダバオ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "フィリピンワシ命名式",
+   "place": "「ウオーターフロント・インシュラー・ホテル・ダバオ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ドゥテルテ氏と少人数会合",
+   "place": "「ウオーターフロント・インシュラー・ホテル・ダバオ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同行企業関係者が参加するビジネス会合に出席し、写真撮影",
+   "place": "「ウオーターフロント・インシュラー・ホテル・ダバオ」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "朝食。ドゥテルテ氏のパートナーのアバンセーニャさん、昭恵夫人同席",
+   "place": "フィリピン・ダバオ市内のドゥテルテ大統領の私邸",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "ダバオ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "「シャングリラ・ホテル」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "オーストラリアのシドニー国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

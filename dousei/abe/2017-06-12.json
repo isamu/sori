@@ -1,0 +1,207 @@
+{
+ "date": "2017-06-12",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 732,
+ "residence_min": 708,
+ "meetings": 2,
+ "first_work": "09:40",
+ "events": [
+  {
+   "time": "09:40",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:36",
+   "label": "石田直裕駐パラグアイ大使、加藤元彦駐ブルネイ大使、大村昌弘駐フィジー大使による就任あいさつ",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:49",
+   "label": "エチオピアのデメケ副首相の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:58",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:39",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:41",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:22",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:34",
+   "label": "同ホテル内の日本料理店「梢」で日本経済新聞社の芹川洋一論説主幹、内山清行政治部長と会食",
+   "place": "東京・西新宿 ホテル「パークハイアット東京」",
+   "category": "会食"
+  },
+  {
+   "time": "21:45",
+   "label": "移動",
+   "place": "東京・西新宿 ホテル「パークハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 580
+  },
+  {
+   "start": "09:40",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "09:55",
+   "end": "11:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 101
+  },
+  {
+   "start": "11:36",
+   "end": "11:56",
+   "category": "面会・会談",
+   "label": "石田直裕駐パラグアイ大使、加藤元彦駐ブルネイ大使、大村昌弘駐フィジー大使による就任あいさつ",
+   "minutes": 20
+  },
+  {
+   "start": "11:56",
+   "end": "14:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 173
+  },
+  {
+   "start": "14:49",
+   "end": "15:08",
+   "category": "面会・会談",
+   "label": "エチオピアのデメケ副首相の表敬",
+   "minutes": 19
+  },
+  {
+   "start": "15:08",
+   "end": "16:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 110
+  },
+  {
+   "start": "16:58",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:59",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:02",
+   "end": "17:36",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 34
+  },
+  {
+   "start": "17:36",
+   "end": "17:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:39",
+   "end": "17:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 41
+  },
+  {
+   "start": "18:22",
+   "end": "18:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "18:34",
+   "end": "21:45",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「梢」で日本経済新聞社の芹川洋一論説主幹、内山清行政治部長と会食",
+   "minutes": 191
+  },
+  {
+   "start": "21:45",
+   "end": "21:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "21:52",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 128
+  }
+ ],
+ "alloc_min": {
+  "居所": 708,
+  "移動": 37,
+  "公務（内容未詳）": 390,
+  "面会・会談": 39,
+  "党務": 34,
+  "官邸執務": 41,
+  "会食": 191
+ }
+}

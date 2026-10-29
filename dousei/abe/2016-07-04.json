@@ -1,0 +1,341 @@
+{
+ "date": "2016-07-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 767,
+ "residence_min": 673,
+ "meetings": 1,
+ "first_work": "09:06",
+ "events": [
+  {
+   "time": "09:06",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:39",
+   "label": "石原伸晃経済再生担当相",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:18",
+   "label": "大分空港",
+   "place": "大分空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:20",
+   "label": "練り歩き。同所前で街頭演説",
+   "place": "大分市 ショッピングセンター「トキハわさだタウン」",
+   "category": "党務"
+  },
+  {
+   "time": "13:52",
+   "label": "同所内のレストラン「岳庵」で衛藤征士郎自民党衆院議員らと昼食",
+   "place": "大分県由布市 道の駅「ゆふいん」",
+   "category": "会食"
+  },
+  {
+   "time": "14:19",
+   "label": "同所内で七夕の短冊に記入、飾り付け",
+   "place": "大分県由布市 道の駅「ゆふいん」",
+   "category": "移動"
+  },
+  {
+   "time": "14:58",
+   "label": "街頭演説",
+   "place": "同県日田市 市民文化会館「パトリア日田」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:51",
+   "label": "街頭演説",
+   "place": "同県杵築市 ＪＡおおいた杵築柑橘（かんきつ）選果場前",
+   "category": "党務"
+  },
+  {
+   "time": "17:52",
+   "label": "茂木敏充自民党選対委員長",
+   "place": "大分空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:44",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:58",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:21",
+   "label": "サッカー日本代表の本田圭佑選手と懇談",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "21:02",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "21:15",
+   "label": "イタリアのレンツィ首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:31",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:33",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 546
+  },
+  {
+   "start": "09:06",
+   "end": "09:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "09:35",
+   "end": "09:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:39",
+   "end": "09:42",
+   "category": "移動",
+   "label": "石原伸晃経済再生担当相",
+   "minutes": 3
+  },
+  {
+   "start": "09:42",
+   "end": "11:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 96
+  },
+  {
+   "start": "11:18",
+   "end": "11:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:26",
+   "end": "12:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "12:20",
+   "end": "13:21",
+   "category": "党務",
+   "label": "練り歩き。同所前で街頭演説",
+   "minutes": 61
+  },
+  {
+   "start": "13:21",
+   "end": "13:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "13:52",
+   "end": "14:19",
+   "category": "会食",
+   "label": "同所内のレストラン「岳庵」で衛藤征士郎自民党衆院議員らと昼食",
+   "minutes": 27
+  },
+  {
+   "start": "14:19",
+   "end": "14:21",
+   "category": "移動",
+   "label": "同所内で七夕の短冊に記入、飾り付け",
+   "minutes": 2
+  },
+  {
+   "start": "14:21",
+   "end": "14:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "14:58",
+   "end": "15:51",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 53
+  },
+  {
+   "start": "15:51",
+   "end": "16:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "16:51",
+   "end": "17:26",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "17:26",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "17:52",
+   "end": "18:09",
+   "category": "移動",
+   "label": "茂木敏充自民党選対委員長",
+   "minutes": 17
+  },
+  {
+   "start": "18:09",
+   "end": "19:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 95
+  },
+  {
+   "start": "19:44",
+   "end": "19:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "19:58",
+   "end": "20:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "20:19",
+   "end": "20:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "20:21",
+   "end": "20:37",
+   "category": "党務",
+   "label": "サッカー日本代表の本田圭佑選手と懇談",
+   "minutes": 16
+  },
+  {
+   "start": "20:37",
+   "end": "21:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "21:02",
+   "end": "21:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "21:04",
+   "end": "21:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "21:15",
+   "end": "21:25",
+   "category": "面会・会談",
+   "label": "イタリアのレンツィ首相と電話会談",
+   "minutes": 10
+  },
+  {
+   "start": "21:25",
+   "end": "21:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "21:31",
+   "end": "21:32",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "21:32",
+   "end": "21:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "21:33",
+   "end": "21:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 127
+  }
+ ],
+ "alloc_min": {
+  "居所": 673,
+  "移動": 116,
+  "公務（内容未詳）": 448,
+  "党務": 165,
+  "会食": 27,
+  "面会・会談": 10,
+  "取材・会見": 1
+ }
+}

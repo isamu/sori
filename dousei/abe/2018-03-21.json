@@ -1,0 +1,77 @@
+{
+ "date": "2018-03-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 84,
+ "residence_min": 1356,
+ "meetings": 0,
+ "first_work": "09:26",
+ "events": [
+  {
+   "time": "09:26",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:36",
+   "label": "春季皇霊祭・神殿祭の儀",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:35",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 566
+  },
+  {
+   "start": "09:26",
+   "end": "09:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "09:36",
+   "end": "10:35",
+   "category": "式典・行事",
+   "label": "春季皇霊祭・神殿祭の儀",
+   "minutes": 59
+  },
+  {
+   "start": "10:35",
+   "end": "10:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "10:50",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 790
+  }
+ ],
+ "alloc_min": {
+  "居所": 1356,
+  "移動": 25,
+  "式典・行事": 59
+ }
+}

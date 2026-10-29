@@ -1,0 +1,93 @@
+{
+ "date": "2018-05-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 309,
+ "residence_min": 1008,
+ "meetings": 0,
+ "first_work": "14:15",
+ "events": [
+  {
+   "time": "14:15",
+   "label": "移動",
+   "place": "同県鳴沢村の別荘",
+   "category": "移動"
+  },
+  {
+   "time": "14:24",
+   "label": "入浴",
+   "place": "同県富士吉田市の温泉施設「ふじやま温泉」",
+   "category": "個人"
+  },
+  {
+   "time": "16:27",
+   "label": "移動",
+   "place": "同県富士吉田市の温泉施設「ふじやま温泉」",
+   "category": "移動"
+  },
+  {
+   "time": "16:54",
+   "label": "松崎勲森永商事社長、長谷川栄一首相補佐官、秘書官らと食事",
+   "place": "同県鳴沢村の別荘",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:15",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 855
+  },
+  {
+   "start": "14:15",
+   "end": "14:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "14:24",
+   "end": "16:27",
+   "category": "個人",
+   "label": "入浴",
+   "minutes": 123
+  },
+  {
+   "start": "16:27",
+   "end": "16:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "16:37",
+   "end": "16:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "16:54",
+   "end": "21:27",
+   "category": "会食",
+   "label": "松崎勲森永商事社長、長谷川栄一首相補佐官、秘書官らと食事",
+   "minutes": 273
+  },
+  {
+   "start": "21:27",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 153
+  }
+ ],
+ "alloc_min": {
+  "居所": 1008,
+  "移動": 19,
+  "個人": 123,
+  "公務（内容未詳）": 17,
+  "会食": 273
+ }
+}

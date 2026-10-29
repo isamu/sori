@@ -1,0 +1,157 @@
+{
+ "date": "2015-12-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 386,
+ "residence_min": 636,
+ "meetings": 1,
+ "first_work": "07:10",
+ "events": [
+  {
+   "time": "07:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:00",
+   "label": "御手洗冨士夫経団連名誉会長、渡文明ＪＸホールディングス名誉顧問らとゴルフ",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "個人"
+  },
+  {
+   "time": "14:58",
+   "label": "移動",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "移動"
+  },
+  {
+   "time": "15:18",
+   "label": "伯父の岸信和氏夫妻と面会",
+   "place": "同市 老人ホーム「太陽の郷」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:38",
+   "label": "移動",
+   "place": "同市 老人ホーム「太陽の郷」",
+   "category": "移動"
+  },
+  {
+   "time": "16:44",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:50",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:20",
+   "label": "昭恵夫人の両親らと食事",
+   "place": "東京・玉川田園調布 親族宅",
+   "category": "会食"
+  },
+  {
+   "time": "21:16",
+   "label": "移動",
+   "place": "東京・玉川田園調布 親族宅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 430
+  },
+  {
+   "start": "07:10",
+   "end": "08:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 50
+  },
+  {
+   "start": "08:00",
+   "end": "14:58",
+   "category": "個人",
+   "label": "御手洗冨士夫経団連名誉会長、渡文明ＪＸホールディングス名誉顧問らとゴルフ",
+   "minutes": 418
+  },
+  {
+   "start": "14:58",
+   "end": "15:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "15:18",
+   "end": "15:38",
+   "category": "面会・会談",
+   "label": "伯父の岸信和氏夫妻と面会",
+   "minutes": 20
+  },
+  {
+   "start": "15:38",
+   "end": "16:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 66
+  },
+  {
+   "start": "16:44",
+   "end": "17:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 66
+  },
+  {
+   "start": "17:50",
+   "end": "18:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "18:20",
+   "end": "21:16",
+   "category": "会食",
+   "label": "昭恵夫人の両親らと食事",
+   "minutes": 176
+  },
+  {
+   "start": "21:16",
+   "end": "21:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "21:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 140
+  }
+ ],
+ "alloc_min": {
+  "居所": 636,
+  "移動": 190,
+  "個人": 418,
+  "面会・会談": 20,
+  "会食": 176
+ }
+}

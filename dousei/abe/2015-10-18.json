@@ -1,0 +1,305 @@
+{
+ "date": "2015-10-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 612,
+ "residence_min": 828,
+ "meetings": 1,
+ "first_work": "10:07",
+ "events": [
+  {
+   "time": "10:07",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:20",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:26",
+   "label": "海自ヘリ。河井克行、柴山昌彦両首相補佐官ら同行",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:59",
+   "label": "中谷元防衛相ら出迎え。昼食",
+   "place": "相模湾上 海自護衛艦「くらま」",
+   "category": "会食"
+  },
+  {
+   "time": "12:00",
+   "label": "自衛隊観艦式に出席し、観閲",
+   "place": "相模湾上 海自護衛艦「くらま」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:32",
+   "label": "隊員らに訓示",
+   "place": "相模湾上 海自護衛艦「くらま」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:07",
+   "label": "海自ヘリ",
+   "place": "相模湾上 海自護衛艦「くらま」",
+   "category": "移動"
+  },
+  {
+   "time": "14:42",
+   "label": "艦内を視察。麻生太郎副総理兼財務相、中谷防衛相同席",
+   "place": "海自護衛艦「いずも」",
+   "category": "視察"
+  },
+  {
+   "time": "15:36",
+   "label": "海自ヘリ",
+   "place": "海自護衛艦「いずも」",
+   "category": "移動"
+  },
+  {
+   "time": "15:48",
+   "label": "米海軍第３艦隊のタイソン司令官ら出迎え。懇談。",
+   "place": "米海軍の原子力空母「ロナルド・レーガン」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:04",
+   "label": "艦内を視察。麻生副総理兼財務相、中谷防衛相同席",
+   "place": "米海軍の原子力空母「ロナルド・レーガン」",
+   "category": "視察"
+  },
+  {
+   "time": "16:50",
+   "label": "海自ヘリ",
+   "place": "米海軍の原子力空母「ロナルド・レーガン」",
+   "category": "移動"
+  },
+  {
+   "time": "17:20",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:24",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:12",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "加藤勝信１億総活躍担当相、ジョルジ駐日イタリア大使らと会食",
+   "place": "東京・銀座 イタリア料理店「ジャッジョーロ銀座」",
+   "category": "会食"
+  },
+  {
+   "time": "20:24",
+   "label": "移動",
+   "place": "東京・銀座 イタリア料理店「ジャッジョーロ銀座」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 607
+  },
+  {
+   "start": "10:07",
+   "end": "10:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "10:26",
+   "end": "10:59",
+   "category": "移動",
+   "label": "海自ヘリ。河井克行、柴山昌彦両首相補佐官ら同行",
+   "minutes": 33
+  },
+  {
+   "start": "10:59",
+   "end": "12:00",
+   "category": "会食",
+   "label": "中谷元防衛相ら出迎え。昼食",
+   "minutes": 61
+  },
+  {
+   "start": "12:00",
+   "end": "13:32",
+   "category": "式典・行事",
+   "label": "自衛隊観艦式に出席し、観閲",
+   "minutes": 92
+  },
+  {
+   "start": "13:32",
+   "end": "13:47",
+   "category": "式典・行事",
+   "label": "隊員らに訓示",
+   "minutes": 15
+  },
+  {
+   "start": "13:47",
+   "end": "14:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "14:07",
+   "end": "14:20",
+   "category": "移動",
+   "label": "海自ヘリ",
+   "minutes": 13
+  },
+  {
+   "start": "14:20",
+   "end": "14:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "14:42",
+   "end": "15:20",
+   "category": "視察",
+   "label": "艦内を視察。麻生太郎副総理兼財務相、中谷防衛相同席",
+   "minutes": 38
+  },
+  {
+   "start": "15:20",
+   "end": "15:36",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "15:36",
+   "end": "15:48",
+   "category": "移動",
+   "label": "海自ヘリ",
+   "minutes": 12
+  },
+  {
+   "start": "15:48",
+   "end": "16:04",
+   "category": "面会・会談",
+   "label": "米海軍第３艦隊のタイソン司令官ら出迎え。懇談。",
+   "minutes": 16
+  },
+  {
+   "start": "16:04",
+   "end": "16:49",
+   "category": "視察",
+   "label": "艦内を視察。麻生副総理兼財務相、中谷防衛相同席",
+   "minutes": 45
+  },
+  {
+   "start": "16:49",
+   "end": "16:50",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:50",
+   "end": "17:20",
+   "category": "移動",
+   "label": "海自ヘリ",
+   "minutes": 30
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "17:24",
+   "end": "17:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "17:47",
+   "end": "18:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 25
+  },
+  {
+   "start": "18:12",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "18:30",
+   "end": "20:24",
+   "category": "会食",
+   "label": "加藤勝信１億総活躍担当相、ジョルジ駐日イタリア大使らと会食",
+   "minutes": 114
+  },
+  {
+   "start": "20:24",
+   "end": "20:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "20:44",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 196
+  }
+ ],
+ "alloc_min": {
+  "居所": 828,
+  "移動": 162,
+  "官邸執務": 10,
+  "会食": 175,
+  "式典・行事": 107,
+  "公務（内容未詳）": 42,
+  "視察": 100,
+  "面会・会談": 16
+ }
+}

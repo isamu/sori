@@ -1,0 +1,440 @@
+{
+ "date": "2014-10-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 726,
+ "residence_min": 714,
+ "meetings": 8,
+ "first_work": "08:31",
+ "events": [
+  {
+   "time": "08:31",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:47",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "国会 参院議長室",
+   "place": "国会 参院議長室",
+   "category": "国会"
+  },
+  {
+   "time": "10:14",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:21",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:00",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:03",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:51",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "15:56",
+   "label": "山谷えり子拉致問題担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:19",
+   "label": "日原洋文政策統括官 池内幸司水管理・国土保全局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:30",
+   "label": "谷内正太郎国家安全保障局長 平松賢司総合外交政策局長 冨田浩司北米局長 黒江哲郎防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:27",
+   "label": "斎木昭隆事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:36",
+   "label": "榊原定征経団連会長、張富士夫日中経済協会会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:14",
+   "label": "オマーンのハイサム遺産文化相。西村康稔日本・オマーン協会会長、上村司外務省中東アフリカ局長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:28",
+   "label": "江渡聡徳防衛相 徳地秀士防衛審議官 河野克俊海上幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:04",
+   "label": "経団連の今井敬、奥田碩、御手洗冨士夫各名誉会長ら財界人と会食",
+   "place": "東京・紀尾井町 日本料理店「福田家」",
+   "category": "会食"
+  },
+  {
+   "time": "20:22",
+   "label": "移動",
+   "place": "東京・紀尾井町 日本料理店「福田家」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 511
+  },
+  {
+   "start": "08:31",
+   "end": "08:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "08:46",
+   "end": "08:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:47",
+   "end": "09:22",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 35
+  },
+  {
+   "start": "09:22",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "09:52",
+   "end": "09:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:54",
+   "end": "09:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 19
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "10:18",
+   "end": "10:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:21",
+   "end": "11:58",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 97
+  },
+  {
+   "start": "11:58",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:00",
+   "end": "12:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 48
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "12:57",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:01",
+   "end": "15:49",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 168
+  },
+  {
+   "start": "15:49",
+   "end": "15:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:51",
+   "end": "15:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:53",
+   "end": "15:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:56",
+   "end": "16:19",
+   "category": "面会・会談",
+   "label": "山谷えり子拉致問題担当相",
+   "minutes": 23
+  },
+  {
+   "start": "16:19",
+   "end": "16:26",
+   "category": "面会・会談",
+   "label": "日原洋文政策統括官 池内幸司水管理・国土保全局長",
+   "minutes": 7
+  },
+  {
+   "start": "16:26",
+   "end": "16:29",
+   "category": "面会・会談",
+   "label": "山谷えり子拉致問題担当相",
+   "minutes": 3
+  },
+  {
+   "start": "16:29",
+   "end": "16:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:30",
+   "end": "16:43",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 平松賢司総合外交政策局長 冨田浩司北米局長 黒江哲郎防衛政策局長",
+   "minutes": 13
+  },
+  {
+   "start": "16:43",
+   "end": "17:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "17:27",
+   "end": "17:35",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官",
+   "minutes": 8
+  },
+  {
+   "start": "17:35",
+   "end": "17:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:36",
+   "end": "18:06",
+   "category": "面会・会談",
+   "label": "榊原定征経団連会長、張富士夫日中経済協会会長",
+   "minutes": 30
+  },
+  {
+   "start": "18:06",
+   "end": "18:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "18:14",
+   "end": "18:27",
+   "category": "面会・会談",
+   "label": "オマーンのハイサム遺産文化相。西村康稔日本・オマーン協会会長、上村司外務省中東アフリカ局長同席",
+   "minutes": 13
+  },
+  {
+   "start": "18:27",
+   "end": "18:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:28",
+   "end": "18:39",
+   "category": "面会・会談",
+   "label": "江渡聡徳防衛相 徳地秀士防衛審議官 河野克俊海上幕僚長",
+   "minutes": 11
+  },
+  {
+   "start": "18:39",
+   "end": "18:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "18:55",
+   "end": "19:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:04",
+   "end": "20:22",
+   "category": "会食",
+   "label": "経団連の今井敬、奥田碩、御手洗冨士夫各名誉会長ら財界人と会食",
+   "minutes": 78
+  },
+  {
+   "start": "20:22",
+   "end": "20:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "20:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 203
+  }
+ ],
+ "alloc_min": {
+  "居所": 714,
+  "移動": 48,
+  "公務（内容未詳）": 118,
+  "面会・会談": 143,
+  "国会": 291,
+  "官邸執務": 48,
+  "会食": 78
+ }
+}

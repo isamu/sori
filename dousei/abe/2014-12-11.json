@@ -1,0 +1,247 @@
+{
+ "date": "2014-12-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 862,
+ "residence_min": 578,
+ "meetings": 1,
+ "first_work": "07:25",
+ "events": [
+  {
+   "time": "07:25",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:59",
+   "label": "街頭演説",
+   "place": "長崎市 複合施設「ハマクロス４１１」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:53",
+   "label": "街頭演説",
+   "place": "佐賀県小城市 「ＪＡさが三日月支所」前",
+   "category": "党務"
+  },
+  {
+   "time": "13:57",
+   "label": "園児らと写真撮影",
+   "place": "佐賀県鳥栖市 「田代保育園」",
+   "category": "党務"
+  },
+  {
+   "time": "14:00",
+   "label": "秘書官らと食事",
+   "place": "同市 焼肉店「季楽鳥栖店」",
+   "category": "会食"
+  },
+  {
+   "time": "14:30",
+   "label": "街頭演説",
+   "place": "同市 鳥栖市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "15:03",
+   "label": "同駅応接室で中冨博隆久光製薬社長",
+   "place": "ＪＲ新鳥栖駅",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:11",
+   "label": "街頭演説",
+   "place": "熊本市中央区 「マクドナルド熊本新市街店」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:42",
+   "label": "街頭演説",
+   "place": "ＪＲ川内駅前",
+   "category": "党務"
+  },
+  {
+   "time": "19:10",
+   "label": "同空港内のレストラン「エアポート山形屋」で秘書官と食事",
+   "place": "鹿児島空港",
+   "category": "会食"
+  },
+  {
+   "time": "21:23",
+   "label": "移動",
+   "place": "鹿児島空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 445
+  },
+  {
+   "start": "07:25",
+   "end": "07:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "07:52",
+   "end": "10:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 187
+  },
+  {
+   "start": "10:59",
+   "end": "11:31",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "11:31",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 82
+  },
+  {
+   "start": "12:53",
+   "end": "13:20",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "13:20",
+   "end": "13:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "13:57",
+   "end": "14:00",
+   "category": "党務",
+   "label": "園児らと写真撮影",
+   "minutes": 3
+  },
+  {
+   "start": "14:00",
+   "end": "14:24",
+   "category": "会食",
+   "label": "秘書官らと食事",
+   "minutes": 24
+  },
+  {
+   "start": "14:24",
+   "end": "14:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "14:30",
+   "end": "14:56",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "14:56",
+   "end": "15:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "15:03",
+   "end": "15:28",
+   "category": "面会・会談",
+   "label": "同駅応接室で中冨博隆久光製薬社長",
+   "minutes": 25
+  },
+  {
+   "start": "15:28",
+   "end": "16:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "16:11",
+   "end": "16:40",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "16:40",
+   "end": "17:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 62
+  },
+  {
+   "start": "17:42",
+   "end": "18:09",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "18:09",
+   "end": "19:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 61
+  },
+  {
+   "start": "19:10",
+   "end": "19:57",
+   "category": "会食",
+   "label": "同空港内のレストラン「エアポート山形屋」で秘書官と食事",
+   "minutes": 47
+  },
+  {
+   "start": "19:57",
+   "end": "21:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 86
+  },
+  {
+   "start": "21:23",
+   "end": "21:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "21:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 133
+  }
+ ],
+ "alloc_min": {
+  "居所": 578,
+  "移動": 51,
+  "公務（内容未詳）": 571,
+  "党務": 144,
+  "会食": 71,
+  "面会・会談": 25
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "date": "2016-01-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 187,
+ "residence_min": 1253,
+ "meetings": 1,
+ "first_work": "17:44",
+ "events": [
+  {
+   "time": "17:44",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:59",
+   "label": "昭恵夫人とともに元秘書の見舞い",
+   "place": "東京・虎ノ門 虎の門病院",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:18",
+   "label": "移動",
+   "place": "東京・虎ノ門 虎の門病院",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "同ホテル内の日本料理店「舞」で昭恵夫人らと食事",
+   "place": "東京都目黒区三田 ウェスティンホテル東京",
+   "category": "会食"
+  },
+  {
+   "time": "20:38",
+   "label": "移動",
+   "place": "東京都目黒区三田 ウェスティンホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1064
+  },
+  {
+   "start": "17:44",
+   "end": "17:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "17:59",
+   "end": "18:18",
+   "category": "面会・会談",
+   "label": "昭恵夫人とともに元秘書の見舞い",
+   "minutes": 19
+  },
+  {
+   "start": "18:18",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "18:30",
+   "end": "20:38",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「舞」で昭恵夫人らと食事",
+   "minutes": 128
+  },
+  {
+   "start": "20:38",
+   "end": "20:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 189
+  }
+ ],
+ "alloc_min": {
+  "居所": 1253,
+  "移動": 40,
+  "面会・会談": 19,
+  "会食": 128
+ }
+}

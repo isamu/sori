@@ -1,0 +1,315 @@
+{
+ "date": "2019-07-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 763,
+ "residence_min": 677,
+ "meetings": 2,
+ "first_work": "08:51",
+ "events": [
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:18",
+   "label": "二田孝治自民党元衆院議員",
+   "place": "ＪＲ東京駅",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:51",
+   "label": "ＪＲ山形駅",
+   "place": "ＪＲ山形駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "ＪＲ山形駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:11",
+   "label": "街頭演説",
+   "place": "山形市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "12:44",
+   "label": "移動",
+   "place": "山形市役所前",
+   "category": "移動"
+  },
+  {
+   "time": "13:09",
+   "label": "休憩",
+   "place": "宮城県川崎町 山形自動車道古関パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:11",
+   "label": "移動",
+   "place": "宮城県川崎町 山形自動車道古関パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:28",
+   "label": "休憩。売店でバニラソフトクリームを購入。利用客らと握手、写真撮影",
+   "place": "同県村田町 東北自動車道菅生パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:39",
+   "label": "移動",
+   "place": "同県村田町 東北自動車道菅生パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:09",
+   "label": "街頭演説",
+   "place": "ＪＲ多賀城駅前",
+   "category": "党務"
+  },
+  {
+   "time": "14:57",
+   "label": "移動",
+   "place": "ＪＲ多賀城駅前",
+   "category": "移動"
+  },
+  {
+   "time": "15:42",
+   "label": "街頭演説",
+   "place": "同県大崎市 大崎市民会館前",
+   "category": "党務"
+  },
+  {
+   "time": "16:20",
+   "label": "移動",
+   "place": "同県大崎市 大崎市民会館前",
+   "category": "移動"
+  },
+  {
+   "time": "17:18",
+   "label": "街頭演説",
+   "place": "同県石巻市 ホームセンター「ＤＣＭホーマック石巻蛇田店」前",
+   "category": "党務"
+  },
+  {
+   "time": "18:00",
+   "label": "移動",
+   "place": "同県石巻市 ホームセンター「ＤＣＭホーマック石巻蛇田店」前",
+   "category": "移動"
+  },
+  {
+   "time": "18:50",
+   "label": "愛知和男元衆院議員",
+   "place": "ＪＲ仙台駅",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:03",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:07",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 531
+  },
+  {
+   "start": "08:51",
+   "end": "09:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "09:14",
+   "end": "09:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:18",
+   "end": "09:22",
+   "category": "面会・会談",
+   "label": "二田孝治自民党元衆院議員",
+   "minutes": 4
+  },
+  {
+   "start": "09:22",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 149
+  },
+  {
+   "start": "11:51",
+   "end": "12:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "12:04",
+   "end": "12:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "12:11",
+   "end": "12:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "12:44",
+   "end": "13:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "13:09",
+   "end": "13:11",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "13:11",
+   "end": "13:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "13:28",
+   "end": "13:39",
+   "category": "移動",
+   "label": "休憩。売店でバニラソフトクリームを購入。利用客らと握手、写真撮影",
+   "minutes": 11
+  },
+  {
+   "start": "13:39",
+   "end": "14:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "14:09",
+   "end": "14:57",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 48
+  },
+  {
+   "start": "14:57",
+   "end": "15:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 45
+  },
+  {
+   "start": "15:42",
+   "end": "16:20",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "16:20",
+   "end": "17:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 58
+  },
+  {
+   "start": "17:18",
+   "end": "18:00",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 42
+  },
+  {
+   "start": "18:00",
+   "end": "18:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 46
+  },
+  {
+   "start": "18:46",
+   "end": "18:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:50",
+   "end": "19:00",
+   "category": "面会・会談",
+   "label": "愛知和男元衆院議員",
+   "minutes": 10
+  },
+  {
+   "start": "19:00",
+   "end": "21:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 123
+  },
+  {
+   "start": "21:03",
+   "end": "21:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "21:07",
+   "end": "21:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "21:34",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 146
+  }
+ ],
+ "alloc_min": {
+  "居所": 677,
+  "移動": 304,
+  "公務（内容未詳）": 284,
+  "面会・会談": 14,
+  "党務": 161
+ }
+}

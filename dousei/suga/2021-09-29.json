@@ -1,0 +1,219 @@
+{
+ "date": "2021-09-29",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 540,
+ "residence_min": 777,
+ "meetings": 2,
+ "first_work": "07:52",
+ "events": [
+  {
+   "time": "07:52",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "07:57",
+   "label": "官邸の敷地内を散歩",
+   "place": "官邸",
+   "category": "個人"
+  },
+  {
+   "time": "10:00",
+   "label": "山口泰明自民党選対委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:31",
+   "label": "佐々木聖子出入国在留管理庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:34",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:48",
+   "label": "同ホテル内の宴会場「崑崙」で自民党総裁選の投票",
+   "place": "東京・高輪 グランドプリンスホテル新高輪",
+   "category": "移動"
+  },
+  {
+   "time": "15:07",
+   "label": "同宴会場で同党両院議員総会。あいさつ。岸田文雄新総裁から花束受け取り",
+   "place": "東京・高輪 グランドプリンスホテル新高輪",
+   "category": "党務"
+  },
+  {
+   "time": "15:29",
+   "label": "移動",
+   "place": "東京・高輪 グランドプリンスホテル新高輪",
+   "category": "移動"
+  },
+  {
+   "time": "15:48",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:07",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:09",
+   "label": "衆院第２議員会館",
+   "place": "衆院第２議員会館",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "18:49",
+   "label": "移動",
+   "place": "衆院第２議員会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 472
+  },
+  {
+   "start": "07:52",
+   "end": "07:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "07:57",
+   "end": "10:00",
+   "category": "個人",
+   "label": "官邸の敷地内を散歩",
+   "minutes": 123
+  },
+  {
+   "start": "10:00",
+   "end": "10:30",
+   "category": "面会・会談",
+   "label": "山口泰明自民党選対委員長",
+   "minutes": 30
+  },
+  {
+   "start": "10:30",
+   "end": "10:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:31",
+   "end": "10:40",
+   "category": "面会・会談",
+   "label": "佐々木聖子出入国在留管理庁長官",
+   "minutes": 9
+  },
+  {
+   "start": "10:40",
+   "end": "12:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 114
+  },
+  {
+   "start": "12:34",
+   "end": "12:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "12:48",
+   "end": "15:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 139
+  },
+  {
+   "start": "15:07",
+   "end": "15:27",
+   "category": "党務",
+   "label": "同宴会場で同党両院議員総会。あいさつ。岸田文雄新総裁から花束受け取り",
+   "minutes": 20
+  },
+  {
+   "start": "15:27",
+   "end": "15:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:29",
+   "end": "15:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 139
+  },
+  {
+   "start": "18:07",
+   "end": "18:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "公務（内容未詳）",
+   "label": null,
+   "minutes": 40
+  },
+  {
+   "start": "18:49",
+   "end": "18:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:55",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 305
+  }
+ ],
+ "alloc_min": {
+  "居所": 777,
+  "移動": 46,
+  "個人": 123,
+  "面会・会談": 39,
+  "公務（内容未詳）": 296,
+  "党務": 20,
+  "官邸執務": 139
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "date": "2019-11-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 133,
+ "residence_min": 1307,
+ "meetings": 0,
+ "first_work": "14:00",
+ "events": [
+  {
+   "time": "14:00",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:01",
+   "label": "祝賀御列の儀",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:02",
+   "label": "祝賀御列の儀",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:31",
+   "label": "祝賀御列の儀",
+   "place": "東京・元赤坂 赤坂御所",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:53",
+   "label": "移動",
+   "place": "東京・元赤坂 赤坂御所",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 840
+  },
+  {
+   "start": "14:00",
+   "end": "14:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "14:22",
+   "end": "15:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "15:01",
+   "end": "15:02",
+   "category": "式典・行事",
+   "label": "祝賀御列の儀",
+   "minutes": 1
+  },
+  {
+   "start": "15:02",
+   "end": "15:31",
+   "category": "式典・行事",
+   "label": "祝賀御列の儀",
+   "minutes": 29
+  },
+  {
+   "start": "15:31",
+   "end": "15:35",
+   "category": "式典・行事",
+   "label": "祝賀御列の儀",
+   "minutes": 4
+  },
+  {
+   "start": "15:35",
+   "end": "15:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "15:53",
+   "end": "16:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "16:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 467
+  }
+ ],
+ "alloc_min": {
+  "居所": 1307,
+  "移動": 42,
+  "公務（内容未詳）": 57,
+  "式典・行事": 34
+ }
+}

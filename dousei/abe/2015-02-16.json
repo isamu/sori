@@ -1,0 +1,321 @@
+{
+ "date": "2015-02-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 567,
+ "residence_min": 873,
+ "meetings": 5,
+ "first_work": "09:33",
+ "events": [
+  {
+   "time": "09:33",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:03",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:56",
+   "label": "山口俊一沖縄北方担当相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:58",
+   "label": "遠藤利明自民党衆院議員",
+   "place": "国会 衆院本会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:14",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "16:16",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:14",
+   "label": "谷垣禎一自民党幹事長",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:26",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:14",
+   "label": "米議会「日本研究グループ」のデゲット下院議員、ケネディ駐日米大使",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:50",
+   "label": "ファティ・ビロル国際エネルギー機関（ＩＥＡ）次期事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:59",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 573
+  },
+  {
+   "start": "09:33",
+   "end": "09:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "09:47",
+   "end": "10:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "10:03",
+   "end": "11:58",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 115
+  },
+  {
+   "start": "11:58",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "12:57",
+   "category": "国会",
+   "label": "山口俊一沖縄北方担当相",
+   "minutes": 1
+  },
+  {
+   "start": "12:57",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "面会・会談",
+   "label": "遠藤利明自民党衆院議員",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:02",
+   "end": "16:13",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 191
+  },
+  {
+   "start": "16:13",
+   "end": "16:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:14",
+   "end": "16:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 41
+  },
+  {
+   "start": "16:57",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:59",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:01",
+   "end": "17:13",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 12
+  },
+  {
+   "start": "17:13",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:14",
+   "end": "17:23",
+   "category": "面会・会談",
+   "label": "谷垣禎一自民党幹事長",
+   "minutes": 9
+  },
+  {
+   "start": "17:23",
+   "end": "17:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:26",
+   "end": "17:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:27",
+   "end": "18:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "18:14",
+   "end": "18:44",
+   "category": "面会・会談",
+   "label": "米議会「日本研究グループ」のデゲット下院議員、ケネディ駐日米大使",
+   "minutes": 30
+  },
+  {
+   "start": "18:44",
+   "end": "18:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:50",
+   "end": "18:55",
+   "category": "面会・会談",
+   "label": "ファティ・ビロル国際エネルギー機関（ＩＥＡ）次期事務局長",
+   "minutes": 5
+  },
+  {
+   "start": "18:55",
+   "end": "18:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:59",
+   "end": "19:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 300
+  }
+ ],
+ "alloc_min": {
+  "居所": 873,
+  "移動": 22,
+  "公務（内容未詳）": 140,
+  "面会・会談": 160,
+  "国会": 192,
+  "官邸執務": 41,
+  "党務": 12
+ }
+}

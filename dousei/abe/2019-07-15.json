@@ -1,0 +1,445 @@
+{
+ "date": "2019-07-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 794,
+ "residence_min": 646,
+ "meetings": 0,
+ "first_work": "09:52",
+ "events": [
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:17",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:57",
+   "label": "新千歳空港",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:12",
+   "label": "移動",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:42",
+   "label": "利用客らと握手、写真撮影。同所内のレストラン「マザーリーフ」で武部新自民党衆院議員らと昼食。ソフトクリーム店「ＭＩＬ　ＰＲＥＳＳＯ」で夕張メロンミルクを購入",
+   "place": "北海道北広島市 商業施設「三井アウトレットパーク札幌北広島」",
+   "category": "会食"
+  },
+  {
+   "time": "13:32",
+   "label": "移動",
+   "place": "北海道北広島市 商業施設「三井アウトレットパーク札幌北広島」",
+   "category": "移動"
+  },
+  {
+   "time": "13:46",
+   "label": "街頭演説",
+   "place": "札幌市清田区役所前",
+   "category": "党務"
+  },
+  {
+   "time": "14:21",
+   "label": "移動",
+   "place": "札幌市清田区役所前",
+   "category": "移動"
+  },
+  {
+   "time": "14:35",
+   "label": "利用者らと握手、写真撮影",
+   "place": "同市厚別区 科学館公園",
+   "category": "党務"
+  },
+  {
+   "time": "14:39",
+   "label": "徒歩",
+   "place": "同市厚別区 科学館公園",
+   "category": "移動"
+  },
+  {
+   "time": "14:44",
+   "label": "街頭演説",
+   "place": "ＪＲ新札幌駅前",
+   "category": "党務"
+  },
+  {
+   "time": "15:17",
+   "label": "移動",
+   "place": "ＪＲ新札幌駅前",
+   "category": "移動"
+  },
+  {
+   "time": "15:58",
+   "label": "練り歩き",
+   "place": "同市中央区 大通公園",
+   "category": "党務"
+  },
+  {
+   "time": "16:08",
+   "label": "徒歩",
+   "place": "同市中央区 大通公園",
+   "category": "移動"
+  },
+  {
+   "time": "16:09",
+   "label": "練り歩き",
+   "place": "同区 札幌駅前通地下歩行空間",
+   "category": "党務"
+  },
+  {
+   "time": "16:23",
+   "label": "徒歩",
+   "place": "同区 札幌駅前通地下歩行空間",
+   "category": "移動"
+  },
+  {
+   "time": "16:28",
+   "label": "街頭演説",
+   "place": "ＪＲ札幌駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "ＪＲ札幌駅前",
+   "category": "移動"
+  },
+  {
+   "time": "17:16",
+   "label": "街頭演説",
+   "place": "同区 百貨店「札幌三越」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:44",
+   "label": "徒歩",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "17:48",
+   "label": "練り歩き",
+   "place": "同区 札幌駅前通地下歩行空間",
+   "category": "党務"
+  },
+  {
+   "time": "18:01",
+   "label": "徒歩",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "18:02",
+   "label": "練り歩き",
+   "place": "同区 商業施設「赤れんがテラス」",
+   "category": "党務"
+  },
+  {
+   "time": "18:07",
+   "label": "移動",
+   "place": "同区 商業施設「赤れんがテラス」",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "同空港内のスープカレー店「ｌａｖｉ　新千歳空港店」で成蹊大の友人らと食事",
+   "place": "新千歳空港",
+   "category": "会食"
+  },
+  {
+   "time": "21:42",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:57",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "22:18",
+   "label": "参院選の同党選挙本部の幹部会合",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "22:53",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 592
+  },
+  {
+   "start": "09:52",
+   "end": "10:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "10:17",
+   "end": "10:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "10:48",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 69
+  },
+  {
+   "start": "11:57",
+   "end": "12:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "12:12",
+   "end": "12:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "12:42",
+   "end": "13:32",
+   "category": "会食",
+   "label": "利用客らと握手、写真撮影。同所内のレストラン「マザーリーフ」で武部新自民党衆院議員らと昼食。ソフトクリーム店「ＭＩＬ　ＰＲＥＳＳＯ」で夕張メロンミルクを購入",
+   "minutes": 50
+  },
+  {
+   "start": "13:32",
+   "end": "13:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "13:46",
+   "end": "14:21",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "14:21",
+   "end": "14:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "14:35",
+   "end": "14:39",
+   "category": "党務",
+   "label": "利用者らと握手、写真撮影",
+   "minutes": 4
+  },
+  {
+   "start": "14:39",
+   "end": "14:44",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 5
+  },
+  {
+   "start": "14:44",
+   "end": "15:17",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "15:17",
+   "end": "15:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "15:58",
+   "end": "16:08",
+   "category": "党務",
+   "label": "練り歩き",
+   "minutes": 10
+  },
+  {
+   "start": "16:08",
+   "end": "16:09",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 1
+  },
+  {
+   "start": "16:09",
+   "end": "16:23",
+   "category": "党務",
+   "label": "練り歩き",
+   "minutes": 14
+  },
+  {
+   "start": "16:23",
+   "end": "16:28",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 5
+  },
+  {
+   "start": "16:28",
+   "end": "17:06",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "17:06",
+   "end": "17:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "17:16",
+   "end": "17:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "17:44",
+   "end": "17:48",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 4
+  },
+  {
+   "start": "17:48",
+   "end": "18:01",
+   "category": "党務",
+   "label": "練り歩き",
+   "minutes": 13
+  },
+  {
+   "start": "18:01",
+   "end": "18:02",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 1
+  },
+  {
+   "start": "18:02",
+   "end": "18:07",
+   "category": "党務",
+   "label": "練り歩き",
+   "minutes": 5
+  },
+  {
+   "start": "18:07",
+   "end": "19:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 58
+  },
+  {
+   "start": "19:05",
+   "end": "20:30",
+   "category": "会食",
+   "label": "同空港内のスープカレー店「ｌａｖｉ　新千歳空港店」で成蹊大の友人らと食事",
+   "minutes": 85
+  },
+  {
+   "start": "20:30",
+   "end": "21:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 72
+  },
+  {
+   "start": "21:42",
+   "end": "21:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "21:57",
+   "end": "22:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "22:17",
+   "end": "22:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "22:18",
+   "end": "22:48",
+   "category": "党務",
+   "label": "参院選の同党選挙本部の幹部会合",
+   "minutes": 30
+  },
+  {
+   "start": "22:48",
+   "end": "22:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "22:53",
+   "end": "23:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "23:06",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 54
+  }
+ ],
+ "alloc_min": {
+  "居所": 646,
+  "移動": 302,
+  "公務（内容未詳）": 147,
+  "会食": 135,
+  "党務": 210
+ }
+}

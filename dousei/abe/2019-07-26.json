@@ -1,0 +1,77 @@
+{
+ "date": "2019-07-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 196,
+ "residence_min": 1244,
+ "meetings": 0,
+ "first_work": "18:38",
+ "events": [
+  {
+   "time": "18:38",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "18:55",
+   "label": "高橋精一郎元三井住友銀行副頭取、長谷川栄一首相補佐官、秘書官らと食事",
+   "place": "同県富士吉田市 「焼肉バル秀」",
+   "category": "会食"
+  },
+  {
+   "time": "21:37",
+   "label": "移動",
+   "place": "同県富士吉田市 「焼肉バル秀」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "18:38",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1118
+  },
+  {
+   "start": "18:38",
+   "end": "18:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "18:55",
+   "end": "21:37",
+   "category": "会食",
+   "label": "高橋精一郎元三井住友銀行副頭取、長谷川栄一首相補佐官、秘書官らと食事",
+   "minutes": 162
+  },
+  {
+   "start": "21:37",
+   "end": "21:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "21:54",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 126
+  }
+ ],
+ "alloc_min": {
+  "居所": 1244,
+  "移動": 34,
+  "会食": 162
+ }
+}

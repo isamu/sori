@@ -1,0 +1,156 @@
+{
+ "date": "2019-09-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 666,
+ "residence_min": 774,
+ "meetings": 2,
+ "first_work": "09:22",
+ "events": [
+  {
+   "time": "09:22",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:36",
+   "label": "秋季皇霊祭・神殿祭の儀",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:30",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ザ・キタノ・ニューヨーク",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "ヨルダンのアブドラ国王と夕食会",
+   "place": "ホテル「ザ・キタノ・ニューヨーク",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "エリス島名誉協会から「グローバル人道賞」を受賞",
+   "place": "ホテル「ザ・キタノ・ニューヨーク",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "「ユニバーサル・ヘルス・カバレッジ（ＵＨＣ）」に関する首脳級会合に出席",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "国際オリンピック委員会（ＩＯＣ）のバッハ会長と会談",
+   "place": "ホテル「ザ・キタノ・ニューヨーク」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "米ニューヨークのケネディ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:17",
+   "label": "移動",
+   "place": "米ニューヨークのケネディ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:48",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 562
+  },
+  {
+   "start": "09:22",
+   "end": "09:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "09:36",
+   "end": "10:30",
+   "category": "式典・行事",
+   "label": "秋季皇霊祭・神殿祭の儀",
+   "minutes": 54
+  },
+  {
+   "start": "10:30",
+   "end": "10:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "10:45",
+   "end": "14:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 212
+  },
+  {
+   "start": "14:17",
+   "end": "14:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "14:41",
+   "end": "14:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "14:48",
+   "end": "14:49",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "14:49",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 551
+  }
+ ],
+ "alloc_min": {
+  "居所": 774,
+  "移動": 53,
+  "式典・行事": 54,
+  "公務（内容未詳）": 7,
+  "取材・会見": 1,
+  "外遊": 551
+ }
+}

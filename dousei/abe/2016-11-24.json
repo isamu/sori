@@ -1,0 +1,254 @@
+{
+ "date": "2016-11-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 585,
+ "residence_min": 855,
+ "meetings": 6,
+ "first_work": "10:41",
+ "events": [
+  {
+   "time": "10:41",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:29",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院環太平洋連携協定（ＴＰＰ）特別委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:23",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "16:45",
+   "label": "高木陽介経済産業副大臣",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:58",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:25",
+   "label": "「日本の美」総合プロジェクト懇談会座長で俳優の津川雅彦氏",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:37",
+   "label": "同懇談会・「ジャポニスム２０１８」総合推進会議",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:04",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "同懇談会メンバーらと夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:22",
+   "label": "同懇談会メンバーらを見送り",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 641
+  },
+  {
+   "start": "10:41",
+   "end": "10:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "10:55",
+   "end": "11:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "11:29",
+   "end": "12:03",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 34
+  },
+  {
+   "start": "12:03",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "16:21",
+   "category": "国会",
+   "label": "参院環太平洋連携協定（ＴＰＰ）特別委員会",
+   "minutes": 201
+  },
+  {
+   "start": "16:21",
+   "end": "16:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:23",
+   "end": "16:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:26",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "16:45",
+   "end": "16:57",
+   "category": "面会・会談",
+   "label": "高木陽介経済産業副大臣",
+   "minutes": 12
+  },
+  {
+   "start": "16:57",
+   "end": "16:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:58",
+   "end": "17:21",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 23
+  },
+  {
+   "start": "17:21",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:25",
+   "end": "17:36",
+   "category": "面会・会談",
+   "label": "「日本の美」総合プロジェクト懇談会座長で俳優の津川雅彦氏",
+   "minutes": 11
+  },
+  {
+   "start": "17:36",
+   "end": "17:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:37",
+   "end": "18:49",
+   "category": "面会・会談",
+   "label": "同懇談会・「ジャポニスム２０１８」総合推進会議",
+   "minutes": 72
+  },
+  {
+   "start": "18:49",
+   "end": "19:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "19:04",
+   "end": "19:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:05",
+   "end": "20:22",
+   "category": "会食",
+   "label": "同懇談会メンバーらと夕食会",
+   "minutes": 77
+  },
+  {
+   "start": "20:22",
+   "end": "20:26",
+   "category": "面会・会談",
+   "label": "同懇談会メンバーらを見送り",
+   "minutes": 4
+  },
+  {
+   "start": "20:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 214
+  }
+ ],
+ "alloc_min": {
+  "居所": 855,
+  "移動": 20,
+  "公務（内容未詳）": 131,
+  "面会・会談": 156,
+  "国会": 201,
+  "会食": 77
+ }
+}

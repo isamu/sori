@@ -1,0 +1,65 @@
+{
+ "date": "2015-06-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 290,
+ "residence_min": 1150,
+ "meetings": 1,
+ "first_work": "14:05",
+ "events": [
+  {
+   "time": "14:05",
+   "label": "斎木昭隆事務次官 杉山晋輔外務審議官",
+   "place": "私邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:33",
+   "label": "岸信夫自民党衆院議員ら親族と食事",
+   "place": "私邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 845
+  },
+  {
+   "start": "14:05",
+   "end": "15:03",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官 杉山晋輔外務審議官",
+   "minutes": 58
+  },
+  {
+   "start": "15:03",
+   "end": "17:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 150
+  },
+  {
+   "start": "17:33",
+   "end": "21:25",
+   "category": "会食",
+   "label": "岸信夫自民党衆院議員ら親族と食事",
+   "minutes": 232
+  },
+  {
+   "start": "21:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 155
+  }
+ ],
+ "alloc_min": {
+  "居所": 1150,
+  "面会・会談": 58,
+  "会食": 232
+ }
+}

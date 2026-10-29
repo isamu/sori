@@ -1,0 +1,326 @@
+{
+ "date": "2014-11-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 808,
+ "residence_min": 632,
+ "meetings": 0,
+ "first_work": "06:45",
+ "events": [
+  {
+   "time": "06:45",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:32",
+   "label": "討論番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:30",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "討論番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:25",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "10:34",
+   "label": "党職員激励",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:39",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:04",
+   "label": "街頭演説",
+   "place": "横浜市青葉区 東急田園都市線たまプラーザ駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "12:08",
+   "label": "同ホテル内の中国料理店「トルファン」で秘書官と食事",
+   "place": "神奈川県厚木市 レンブラントホテル厚木",
+   "category": "会食"
+  },
+  {
+   "time": "12:54",
+   "label": "街頭演説",
+   "place": "同市 小田急本厚木駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "14:46",
+   "label": "街頭演説",
+   "place": "ＪＲ鎌倉駅東口ロータリー",
+   "category": "党務"
+  },
+  {
+   "time": "16:17",
+   "label": "街頭演説",
+   "place": "横浜市旭区 相模鉄道二俣川駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "17:25",
+   "label": "街頭演説",
+   "place": "川崎市麻生区 小田急新百合ケ丘駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "17:56",
+   "label": "移動",
+   "place": "川崎市麻生区 小田急新百合ケ丘駅南口",
+   "category": "移動"
+  },
+  {
+   "time": "18:37",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "19:57",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 405
+  },
+  {
+   "start": "06:45",
+   "end": "07:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "07:01",
+   "end": "07:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "07:32",
+   "end": "08:27",
+   "category": "取材・会見",
+   "label": "討論番組に出演",
+   "minutes": 55
+  },
+  {
+   "start": "08:27",
+   "end": "08:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:30",
+   "end": "08:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "08:47",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "09:00",
+   "end": "10:15",
+   "category": "取材・会見",
+   "label": "討論番組に出演",
+   "minutes": 75
+  },
+  {
+   "start": "10:15",
+   "end": "10:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "10:25",
+   "end": "10:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:27",
+   "end": "10:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "10:34",
+   "end": "10:38",
+   "category": "党務",
+   "label": "党職員激励",
+   "minutes": 4
+  },
+  {
+   "start": "10:38",
+   "end": "10:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:39",
+   "end": "11:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "11:04",
+   "end": "11:34",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "11:34",
+   "end": "12:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "12:08",
+   "end": "12:52",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「トルファン」で秘書官と食事",
+   "minutes": 44
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:54",
+   "end": "13:34",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 40
+  },
+  {
+   "start": "13:34",
+   "end": "14:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 72
+  },
+  {
+   "start": "14:46",
+   "end": "15:28",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 42
+  },
+  {
+   "start": "15:28",
+   "end": "16:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "16:17",
+   "end": "16:42",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "16:42",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "17:25",
+   "end": "17:56",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "17:56",
+   "end": "18:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "18:37",
+   "end": "19:57",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "minutes": 80
+  },
+  {
+   "start": "19:57",
+   "end": "20:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "20:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 227
+  }
+ ],
+ "alloc_min": {
+  "居所": 632,
+  "移動": 117,
+  "公務（内容未詳）": 265,
+  "取材・会見": 130,
+  "党務": 172,
+  "会食": 124
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "date": "2017-02-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 768,
+ "residence_min": 672,
+ "meetings": 2,
+ "first_work": "07:05",
+ "events": [
+  {
+   "time": "07:05",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:25",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:23",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:08",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:25",
+   "label": "谷内正太郎国家安全保障局長 杉山治樹公安調査庁次長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:43",
+   "label": "働き方改革実現会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:14",
+   "label": "同ホテル内の宴会場「飛鳥」で俳優なべおさみ氏のパーティーに出席し、あいさつ",
+   "place": "東京・下目黒 ホテル「目黒雅叙園」",
+   "category": "党務"
+  },
+  {
+   "time": "19:37",
+   "label": "移動",
+   "place": "東京・下目黒 ホテル「目黒雅叙園」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 425
+  },
+  {
+   "start": "07:05",
+   "end": "07:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "07:19",
+   "end": "07:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:25",
+   "end": "08:20",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 55
+  },
+  {
+   "start": "08:20",
+   "end": "08:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:23",
+   "end": "08:31",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "08:31",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "08:50",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:51",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:55",
+   "end": "08:58",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 3
+  },
+  {
+   "start": "08:58",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:59",
+   "end": "12:02",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 183
+  },
+  {
+   "start": "12:02",
+   "end": "12:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:05",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 48
+  },
+  {
+   "start": "12:56",
+   "end": "12:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:57",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:00",
+   "end": "17:05",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 245
+  },
+  {
+   "start": "17:05",
+   "end": "17:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:08",
+   "end": "17:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:09",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "17:25",
+   "end": "17:31",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 杉山治樹公安調査庁次長 北村滋内閣情報官",
+   "minutes": 6
+  },
+  {
+   "start": "17:31",
+   "end": "17:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "17:43",
+   "end": "18:26",
+   "category": "官邸執務",
+   "label": "働き方改革実現会議",
+   "minutes": 43
+  },
+  {
+   "start": "18:26",
+   "end": "18:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "18:57",
+   "end": "19:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "19:14",
+   "end": "19:37",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「飛鳥」で俳優なべおさみ氏のパーティーに出席し、あいさつ",
+   "minutes": 23
+  },
+  {
+   "start": "19:37",
+   "end": "19:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "19:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 247
+  }
+ ],
+ "alloc_min": {
+  "居所": 672,
+  "移動": 53,
+  "公務（内容未詳）": 101,
+  "面会・会談": 61,
+  "官邸執務": 99,
+  "国会": 431,
+  "党務": 23
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "date": "2016-08-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 884,
+ "residence_min": 556,
+ "meetings": 0,
+ "first_work": "09:16",
+ "events": [
+  {
+   "time": "09:16",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:46",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "同国の故ナーザン前大統領の弔問",
+   "place": "シンガポール議会",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "給油",
+   "place": "シンガポールのチャンギ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "同市内の宿泊先インターコンチネンタルホテル・ナイロビ",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ケニア・ナイロビのジョモ・ケニヤッタ国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 556
+  },
+  {
+   "start": "09:16",
+   "end": "09:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "09:40",
+   "end": "09:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:46",
+   "end": "09:48",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "09:48",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 852
+  }
+ ],
+ "alloc_min": {
+  "居所": 556,
+  "移動": 24,
+  "公務（内容未詳）": 6,
+  "取材・会見": 2,
+  "外遊": 852
+ }
+}

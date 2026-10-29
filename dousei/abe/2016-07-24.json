@@ -1,0 +1,66 @@
+{
+ "date": "2016-07-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 101,
+ "residence_min": 1339,
+ "meetings": 1,
+ "first_work": "09:25",
+ "events": [
+  {
+   "time": "09:25",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "友人の岩田高明氏",
+   "place": "私邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 565
+  },
+  {
+   "start": "09:25",
+   "end": "10:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 79
+  },
+  {
+   "start": "10:44",
+   "end": "10:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:45",
+   "end": "11:06",
+   "category": "面会・会談",
+   "label": "友人の岩田高明氏",
+   "minutes": 21
+  },
+  {
+   "start": "11:06",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 774
+  }
+ ],
+ "alloc_min": {
+  "居所": 1339,
+  "移動": 79,
+  "公務（内容未詳）": 1,
+  "面会・会談": 21
+ }
+}

@@ -1,0 +1,326 @@
+{
+ "date": "2018-03-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 427,
+ "residence_min": 1013,
+ "meetings": 2,
+ "first_work": "09:02",
+ "events": [
+  {
+   "time": "09:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:21",
+   "label": "陸自ヘリ",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:47",
+   "label": "本館応接室で小野寺五典防衛相、国分良成防大学校長ら",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:01",
+   "label": "記念講堂で防大卒業式",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:56",
+   "label": "本館学校長応接室で小野寺防衛相、国分防大学校長らと昼食",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "会食"
+  },
+  {
+   "time": "12:36",
+   "label": "記念講堂で任命・宣誓式",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:53",
+   "label": "陸自ヘリ",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "移動"
+  },
+  {
+   "time": "13:01",
+   "label": "同市 海上自衛隊横須賀基地内の横須賀地方総監部ヘリポート",
+   "place": "同市 海上自衛隊横須賀基地内の横須賀地方総監部ヘリポート",
+   "category": "その他"
+  },
+  {
+   "time": "13:04",
+   "label": "海自将官艇",
+   "place": "同市 海上自衛隊横須賀基地内の横須賀地方総監部ヘリポート",
+   "category": "移動"
+  },
+  {
+   "time": "13:25",
+   "label": "山下万喜自衛艦隊司令官による説明",
+   "place": "自衛艦隊司令部",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:08",
+   "label": "海自掃海艇「はつしま」を視察",
+   "place": "自衛艦隊司令部",
+   "category": "視察"
+  },
+  {
+   "time": "14:20",
+   "label": "海自潜水艦を視察",
+   "place": "自衛艦隊司令部",
+   "category": "視察"
+  },
+  {
+   "time": "15:14",
+   "label": "海自将官艇",
+   "place": "自衛艦隊司令部",
+   "category": "移動"
+  },
+  {
+   "time": "15:30",
+   "label": "横須賀地方総監部ヘリポート",
+   "place": "横須賀地方総監部ヘリポート",
+   "category": "その他"
+  },
+  {
+   "time": "15:35",
+   "label": "陸自ヘリ",
+   "place": "横須賀地方総監部ヘリポート",
+   "category": "移動"
+  },
+  {
+   "time": "15:50",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 542
+  },
+  {
+   "start": "09:02",
+   "end": "09:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "09:21",
+   "end": "09:39",
+   "category": "移動",
+   "label": "陸自ヘリ",
+   "minutes": 18
+  },
+  {
+   "start": "09:39",
+   "end": "09:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:47",
+   "end": "09:56",
+   "category": "面会・会談",
+   "label": "本館応接室で小野寺五典防衛相、国分良成防大学校長ら",
+   "minutes": 9
+  },
+  {
+   "start": "09:56",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "10:01",
+   "end": "11:48",
+   "category": "式典・行事",
+   "label": "記念講堂で防大卒業式",
+   "minutes": 107
+  },
+  {
+   "start": "11:48",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "11:56",
+   "end": "12:29",
+   "category": "会食",
+   "label": "本館学校長応接室で小野寺防衛相、国分防大学校長らと昼食",
+   "minutes": 33
+  },
+  {
+   "start": "12:29",
+   "end": "12:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "12:36",
+   "end": "12:46",
+   "category": "式典・行事",
+   "label": "記念講堂で任命・宣誓式",
+   "minutes": 10
+  },
+  {
+   "start": "12:46",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "12:53",
+   "end": "13:01",
+   "category": "移動",
+   "label": "陸自ヘリ",
+   "minutes": 8
+  },
+  {
+   "start": "13:01",
+   "end": "13:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:04",
+   "end": "13:25",
+   "category": "移動",
+   "label": "海自将官艇",
+   "minutes": 21
+  },
+  {
+   "start": "13:25",
+   "end": "14:08",
+   "category": "面会・会談",
+   "label": "山下万喜自衛艦隊司令官による説明",
+   "minutes": 43
+  },
+  {
+   "start": "14:08",
+   "end": "14:19",
+   "category": "視察",
+   "label": "海自掃海艇「はつしま」を視察",
+   "minutes": 11
+  },
+  {
+   "start": "14:19",
+   "end": "14:20",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:20",
+   "end": "15:06",
+   "category": "視察",
+   "label": "海自潜水艦を視察",
+   "minutes": 46
+  },
+  {
+   "start": "15:06",
+   "end": "15:14",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "15:14",
+   "end": "15:30",
+   "category": "移動",
+   "label": "海自将官艇",
+   "minutes": 16
+  },
+  {
+   "start": "15:30",
+   "end": "15:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "15:35",
+   "end": "15:50",
+   "category": "移動",
+   "label": "陸自ヘリ",
+   "minutes": 15
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "15:54",
+   "end": "16:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "16:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 471
+  }
+ ],
+ "alloc_min": {
+  "居所": 1013,
+  "移動": 105,
+  "官邸執務": 11,
+  "公務（内容未詳）": 43,
+  "面会・会談": 52,
+  "式典・行事": 117,
+  "会食": 33,
+  "視察": 66
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "date": "2023-09-20",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "ウクライナ情勢に関する安全保障理事会首脳級会合",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "イランのライシ大統領と会談",
+   "place": "ミレニアム・ヒルトン・ニューヨーク・ワン・ＵＮプラザ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ビル・アンド・メリンダ・ゲイツ財団主催の「グローバル・ゴールキーパー賞」授賞式",
+   "place": "ジャズ・アット・リンカーン・センター",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ザ・キタノ・ニューヨーク」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "米シンクタンク「大西洋評議会」主催の「グローバル市民賞」授賞式",
+   "place": "レストラン「シプリアーニ・ウォールストリート」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "日本人国連関係職員を激励",
+   "place": "パークレーンホテル",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "パークレーンホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "モンゴルのフレルスフ大統領とワーキングランチ",
+   "place": "米ニューヨークのホテル「ザ・キタノ・ニューヨーク」",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

@@ -1,0 +1,515 @@
+{
+ "date": "2016-02-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 554,
+ "residence_min": 886,
+ "meetings": 12,
+ "first_work": "09:23",
+ "events": [
+  {
+   "time": "09:23",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:32",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:43",
+   "label": "高鳥修一副大臣",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:49",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:59",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:40",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 秋葉剛男総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:14",
+   "label": "秋葉剛男総合外交政策局長 石兼公博アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:45",
+   "label": "下村博文自民党総裁特別補佐",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:38",
+   "label": "太田昭宏前国土交通相",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:43",
+   "label": "衆院予算委",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "15:02",
+   "label": "参院予算委",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:12",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "15:37",
+   "label": "定塚誠訟務局長 真部朗整備計画局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:11",
+   "label": "馳浩文科相 前川喜平審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:17",
+   "label": "稲田朋美自民党政調会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "17:21",
+   "label": "谷内正太郎国家安全保障局長 下平幸二内閣衛星情報センター所長 北村滋内閣情報官 滝沢裕昭国際テロ情報収集統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:10",
+   "label": "斎木昭隆事務次官 秋葉剛男総合外交政策局長 石兼公博アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:30",
+   "label": "斎木昭隆事務次官 梨田和也南部アジア部長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 563
+  },
+  {
+   "start": "09:23",
+   "end": "09:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:24",
+   "end": "09:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:32",
+   "end": "09:42",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 10
+  },
+  {
+   "start": "09:42",
+   "end": "09:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:43",
+   "end": "09:48",
+   "category": "面会・会談",
+   "label": "高鳥修一副大臣",
+   "minutes": 5
+  },
+  {
+   "start": "09:48",
+   "end": "09:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:49",
+   "end": "09:58",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 9
+  },
+  {
+   "start": "09:58",
+   "end": "09:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:59",
+   "end": "10:08",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 9
+  },
+  {
+   "start": "10:08",
+   "end": "10:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "10:40",
+   "end": "11:12",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 秋葉剛男総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "minutes": 32
+  },
+  {
+   "start": "11:12",
+   "end": "11:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:14",
+   "end": "11:44",
+   "category": "面会・会談",
+   "label": "秋葉剛男総合外交政策局長 石兼公博アジア大洋州局長",
+   "minutes": 30
+  },
+  {
+   "start": "11:44",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:45",
+   "end": "12:09",
+   "category": "面会・会談",
+   "label": "下村博文自民党総裁特別補佐",
+   "minutes": 24
+  },
+  {
+   "start": "12:09",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:02",
+   "end": "13:35",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 33
+  },
+  {
+   "start": "13:35",
+   "end": "13:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:38",
+   "end": "13:52",
+   "category": "面会・会談",
+   "label": "太田昭宏前国土交通相",
+   "minutes": 14
+  },
+  {
+   "start": "13:52",
+   "end": "13:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "13:57",
+   "end": "14:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "14:01",
+   "end": "14:38",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 37
+  },
+  {
+   "start": "14:38",
+   "end": "14:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "14:43",
+   "end": "14:50",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 7
+  },
+  {
+   "start": "14:50",
+   "end": "15:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "15:02",
+   "end": "15:10",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 8
+  },
+  {
+   "start": "15:10",
+   "end": "15:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:12",
+   "end": "15:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:14",
+   "end": "15:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "15:37",
+   "end": "16:10",
+   "category": "面会・会談",
+   "label": "定塚誠訟務局長 真部朗整備計画局長",
+   "minutes": 33
+  },
+  {
+   "start": "16:10",
+   "end": "16:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:11",
+   "end": "16:16",
+   "category": "面会・会談",
+   "label": "馳浩文科相 前川喜平審議官",
+   "minutes": 5
+  },
+  {
+   "start": "16:16",
+   "end": "16:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:17",
+   "end": "16:55",
+   "category": "党務",
+   "label": "稲田朋美自民党政調会長",
+   "minutes": 38
+  },
+  {
+   "start": "16:55",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "17:21",
+   "end": "17:31",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 下平幸二内閣衛星情報センター所長 北村滋内閣情報官 滝沢裕昭国際テロ情報収集統括官",
+   "minutes": 10
+  },
+  {
+   "start": "17:31",
+   "end": "18:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "18:10",
+   "end": "18:25",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官 秋葉剛男総合外交政策局長 石兼公博アジア大洋州局長",
+   "minutes": 15
+  },
+  {
+   "start": "18:25",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:30",
+   "end": "18:33",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官 梨田和也南部アジア部長",
+   "minutes": 3
+  },
+  {
+   "start": "18:33",
+   "end": "18:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:36",
+   "end": "18:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 323
+  }
+ ],
+ "alloc_min": {
+  "居所": 886,
+  "移動": 6,
+  "公務（内容未詳）": 218,
+  "官邸執務": 10,
+  "面会・会談": 189,
+  "国会": 93,
+  "党務": 38
+ }
+}

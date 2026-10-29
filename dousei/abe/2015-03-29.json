@@ -1,0 +1,85 @@
+{
+ "date": "2015-03-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1111,
+ "residence_min": 329,
+ "meetings": 0,
+ "first_work": "05:29",
+ "events": [
+  {
+   "time": "05:29",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "05:55",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "シンガポールのチャンギ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "シンガポールのチャンギ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "リー氏の国葬に参列",
+   "place": "シンガポール国立大学",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "05:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 329
+  },
+  {
+   "start": "05:29",
+   "end": "05:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "05:50",
+   "end": "05:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "05:55",
+   "end": "05:57",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "05:57",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1083
+  }
+ ],
+ "alloc_min": {
+  "居所": 329,
+  "移動": 21,
+  "公務（内容未詳）": 5,
+  "取材・会見": 2,
+  "外遊": 1083
+ }
+}

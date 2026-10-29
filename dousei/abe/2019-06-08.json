@@ -1,0 +1,104 @@
+{
+ "date": "2019-06-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 449,
+ "residence_min": 578,
+ "meetings": 0,
+ "first_work": "06:56",
+ "events": [
+  {
+   "time": "06:56",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:50",
+   "label": "豊商事の多々良義成相談役、長谷川栄一首相補佐官らとゴルフ",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "個人"
+  },
+  {
+   "time": "14:43",
+   "label": "移動",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "移動"
+  },
+  {
+   "time": "21:07",
+   "label": "移動",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 416
+  },
+  {
+   "start": "06:56",
+   "end": "07:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 54
+  },
+  {
+   "start": "07:50",
+   "end": "14:43",
+   "category": "個人",
+   "label": "豊商事の多々良義成相談役、長谷川栄一首相補佐官らとゴルフ",
+   "minutes": 413
+  },
+  {
+   "start": "14:43",
+   "end": "15:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 59
+  },
+  {
+   "start": "15:42",
+   "end": "21:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 325
+  },
+  {
+   "start": "21:07",
+   "end": "21:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "21:18",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 162
+  }
+ ],
+ "alloc_min": {
+  "居所": 578,
+  "移動": 124,
+  "個人": 413,
+  "公務（内容未詳）": 325
+ }
+}

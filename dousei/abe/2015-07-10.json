@@ -1,0 +1,414 @@
+{
+ "date": "2015-07-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 831,
+ "residence_min": 609,
+ "meetings": 6,
+ "first_work": "06:48",
+ "events": [
+  {
+   "time": "06:48",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:02",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:08",
+   "label": "水循環政策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:21",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:29",
+   "label": "山谷えり子拉致問題担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:31",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院平和安全法制特別委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:08",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:09",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院平和安全法制特別委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:09",
+   "label": "谷内正太郎国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:33",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:16",
+   "label": "韓日議員連盟の徐清源会長による表敬。額賀福志郎日韓議員連盟会長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:42",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "19:42",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "19:46",
+   "label": "党インターネット番組「カフェスタ」に出演",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:22",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 408
+  },
+  {
+   "start": "06:48",
+   "end": "07:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "07:01",
+   "end": "07:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:02",
+   "end": "08:07",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 65
+  },
+  {
+   "start": "08:07",
+   "end": "08:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:08",
+   "end": "08:17",
+   "category": "官邸執務",
+   "label": "水循環政策本部",
+   "minutes": 9
+  },
+  {
+   "start": "08:17",
+   "end": "08:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:21",
+   "end": "08:28",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 7
+  },
+  {
+   "start": "08:28",
+   "end": "08:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:29",
+   "end": "08:30",
+   "category": "面会・会談",
+   "label": "山谷えり子拉致問題担当相",
+   "minutes": 1
+  },
+  {
+   "start": "08:30",
+   "end": "08:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:31",
+   "end": "08:52",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 21
+  },
+  {
+   "start": "08:52",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:00",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院平和安全法制特別委",
+   "minutes": 185
+  },
+  {
+   "start": "12:05",
+   "end": "12:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:08",
+   "end": "12:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 45
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:02",
+   "category": "国会",
+   "label": "衆院平和安全法制特別委",
+   "minutes": 242
+  },
+  {
+   "start": "17:02",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:06",
+   "end": "17:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:07",
+   "end": "17:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:09",
+   "end": "17:32",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長",
+   "minutes": 23
+  },
+  {
+   "start": "17:32",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:33",
+   "end": "17:57",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 24
+  },
+  {
+   "start": "17:57",
+   "end": "18:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "18:16",
+   "end": "18:30",
+   "category": "面会・会談",
+   "label": "韓日議員連盟の徐清源会長による表敬。額賀福志郎日韓議員連盟会長同席",
+   "minutes": 14
+  },
+  {
+   "start": "18:30",
+   "end": "18:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "18:40",
+   "end": "18:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:42",
+   "end": "19:42",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "minutes": 60
+  },
+  {
+   "start": "19:42",
+   "end": "19:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "19:46",
+   "end": "20:22",
+   "category": "取材・会見",
+   "label": "党インターネット番組「カフェスタ」に出演",
+   "minutes": 36
+  },
+  {
+   "start": "20:22",
+   "end": "20:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "20:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 201
+  }
+ ],
+ "alloc_min": {
+  "居所": 609,
+  "移動": 40,
+  "公務（内容未詳）": 59,
+  "面会・会談": 148,
+  "官邸執務": 61,
+  "国会": 427,
+  "会食": 60,
+  "取材・会見": 36
+ }
+}

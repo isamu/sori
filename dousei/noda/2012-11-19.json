@@ -1,0 +1,71 @@
+{
+ "date": "2012-11-19",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.11.19",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 5,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間19日）午前、カンボジア・プノンペンの首相府で、日・東南アジア諸国連合（ＡＳＥＡＮ）首脳会議",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "午後、ＡＳＥＡＮ＋3（日中韓）首脳会議",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＡＳＥＡＮ＋3首脳昼食会",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "韓国の李明博大統領と会話",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ブルネイのボルキア国王と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ミャンマーのテインセイン大統領と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "オーストラリアのギラード首相と会談。ホテル「インターコンチネンタル・プノンペン」で同行記者団と懇談",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "国際会議・展示場「ＤＩＣＥセンター」でフン・セン首相夫妻主催の夕食会",
+   "place": "—",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

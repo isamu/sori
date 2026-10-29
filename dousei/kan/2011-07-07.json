@@ -1,0 +1,223 @@
+{
+ "date": "2011-07-07",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.07.07",
+ "work_min": 741,
+ "residence_min": 699,
+ "meetings": 4,
+ "first_work": "07:00",
+ "events": [
+  {
+   "time": "07:00",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:01",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:12",
+   "label": "福山官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:26",
+   "label": "福山氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:55",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:00",
+   "label": "自民党の谷垣総裁。同党の石原幹事長、逢沢国対委員長、枝野官房長官同席",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:03",
+   "label": "枝野長官",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:15",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:11",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:33",
+   "label": "地域主権戦略会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:22",
+   "label": "枝野長官、平野復興相、峰久復興対策本部事務局長",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:21",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 420
+  },
+  {
+   "start": "07:00",
+   "end": "07:01",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "07:01",
+   "end": "07:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "07:12",
+   "end": "09:26",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 134
+  },
+  {
+   "start": "09:26",
+   "end": "09:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "09:55",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "10:00",
+   "end": "12:00",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 120
+  },
+  {
+   "start": "12:00",
+   "end": "12:03",
+   "category": "面会・会談",
+   "label": "自民党の谷垣総裁。同党の石原幹事長、逢沢国対委員長、枝野官房長官同席",
+   "minutes": 3
+  },
+  {
+   "start": "12:03",
+   "end": "12:15",
+   "category": "面会・会談",
+   "label": "枝野長官",
+   "minutes": 12
+  },
+  {
+   "start": "12:15",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "12:53",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "17:11",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 251
+  },
+  {
+   "start": "17:11",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "17:33",
+   "end": "18:22",
+   "category": "官邸執務",
+   "label": "地域主権戦略会議",
+   "minutes": 49
+  },
+  {
+   "start": "18:22",
+   "end": "19:21",
+   "category": "官邸執務",
+   "label": "枝野長官、平野復興相、峰久復興対策本部事務局長",
+   "minutes": 59
+  },
+  {
+   "start": "19:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 279
+  }
+ ],
+ "alloc_min": {
+  "居所": 699,
+  "移動": 1,
+  "公務（内容未詳）": 112,
+  "面会・会談": 149,
+  "国会": 371,
+  "官邸執務": 108
+ }
+}

@@ -1,0 +1,375 @@
+{
+ "date": "2018-10-31",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 702,
+ "residence_min": 482,
+ "meetings": 5,
+ "first_work": "08:02",
+ "events": [
+  {
+   "time": "08:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:21",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:00",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:43",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:18",
+   "label": "谷垣禎一自民党前幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:55",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "16:29",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "16:36",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "16:40",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:07",
+   "label": "ソーンベリー米下院軍事委員長の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "「東南アジア青年の船」事業参加者の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:33",
+   "label": "自民党の森山裕国対委員長、松本純国対委員長代理、高木陽介公明党国対委員長らと会食。菅義偉官房長官同席",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "18:33",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 482
+  },
+  {
+   "start": "08:02",
+   "end": "08:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:16",
+   "end": "08:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:21",
+   "end": "08:51",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 30
+  },
+  {
+   "start": "08:51",
+   "end": "08:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:53",
+   "end": "09:46",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 53
+  },
+  {
+   "start": "09:46",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "09:57",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:00",
+   "end": "11:41",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 101
+  },
+  {
+   "start": "11:41",
+   "end": "11:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:43",
+   "end": "11:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:45",
+   "end": "12:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "12:18",
+   "end": "12:32",
+   "category": "面会・会談",
+   "label": "谷垣禎一自民党前幹事長",
+   "minutes": 14
+  },
+  {
+   "start": "12:32",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "12:56",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:01",
+   "end": "15:52",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 171
+  },
+  {
+   "start": "15:52",
+   "end": "15:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 18
+  },
+  {
+   "start": "16:13",
+   "end": "16:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "16:29",
+   "end": "16:33",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 4
+  },
+  {
+   "start": "16:33",
+   "end": "16:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:36",
+   "end": "16:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:38",
+   "end": "16:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:40",
+   "end": "16:54",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 14
+  },
+  {
+   "start": "16:54",
+   "end": "17:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "17:07",
+   "end": "17:28",
+   "category": "面会・会談",
+   "label": "ソーンベリー米下院軍事委員長の表敬",
+   "minutes": 21
+  },
+  {
+   "start": "17:28",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "18:02",
+   "end": "18:16",
+   "category": "面会・会談",
+   "label": "「東南アジア青年の船」事業参加者の表敬",
+   "minutes": 14
+  },
+  {
+   "start": "18:16",
+   "end": "18:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "18:33",
+   "end": "19:44",
+   "category": "会食",
+   "label": "自民党の森山裕国対委員長、松本純国対委員長代理、高木陽介公明党国対委員長らと会食。菅義偉官房長官同席",
+   "minutes": 71
+  },
+  {
+   "start": "19:44",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 256
+  }
+ ],
+ "alloc_min": {
+  "居所": 482,
+  "移動": 22,
+  "公務（内容未詳）": 165,
+  "面会・会談": 146,
+  "国会": 298,
+  "会食": 71,
+  "個人": 256
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "date": "2017-08-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 292,
+ "residence_min": 1148,
+ "meetings": 2,
+ "first_work": "16:20",
+ "events": [
+  {
+   "time": "16:20",
+   "label": "堀内詔子自民党衆院議員",
+   "place": "別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:44",
+   "label": "小林優鳴沢村長",
+   "place": "別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:50",
+   "label": "昭恵夫人、母親の洋子さん、岸信夫自民党衆院議員、秘書官らと食事",
+   "place": "別荘",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 980
+  },
+  {
+   "start": "16:20",
+   "end": "16:33",
+   "category": "面会・会談",
+   "label": "堀内詔子自民党衆院議員",
+   "minutes": 13
+  },
+  {
+   "start": "16:33",
+   "end": "16:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 11
+  },
+  {
+   "start": "16:44",
+   "end": "17:00",
+   "category": "面会・会談",
+   "label": "小林優鳴沢村長",
+   "minutes": 16
+  },
+  {
+   "start": "17:00",
+   "end": "17:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 50
+  },
+  {
+   "start": "17:50",
+   "end": "22:13",
+   "category": "会食",
+   "label": "昭恵夫人、母親の洋子さん、岸信夫自民党衆院議員、秘書官らと食事",
+   "minutes": 263
+  },
+  {
+   "start": "22:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 107
+  }
+ ],
+ "alloc_min": {
+  "居所": 1148,
+  "面会・会談": 29,
+  "会食": 263
+ }
+}

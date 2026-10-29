@@ -1,0 +1,287 @@
+{
+ "date": "2017-03-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 803,
+ "residence_min": 637,
+ "meetings": 3,
+ "first_work": "07:48",
+ "events": [
+  {
+   "time": "07:48",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:55",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:55",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:57",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:22",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:42",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:12",
+   "label": "シュバイツァー日仏パートナーシップ仏外相特別代表、ダナ駐日フランス大使",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:54",
+   "label": "葛西敬之ＪＲ東海名誉会長、北村内閣情報官と会食",
+   "place": "東京・赤坂 日本料理店「もりかわ」",
+   "category": "会食"
+  },
+  {
+   "time": "20:53",
+   "label": "移動",
+   "place": "東京・赤坂 日本料理店「もりかわ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 468
+  },
+  {
+   "start": "07:48",
+   "end": "07:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:49",
+   "end": "07:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:55",
+   "end": "08:20",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 25
+  },
+  {
+   "start": "08:20",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "08:54",
+   "end": "08:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:56",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:00",
+   "end": "11:52",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 172
+  },
+  {
+   "start": "11:52",
+   "end": "11:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:55",
+   "end": "11:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 58
+  },
+  {
+   "start": "12:55",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:19",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 259
+  },
+  {
+   "start": "17:19",
+   "end": "17:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:22",
+   "end": "17:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:24",
+   "end": "17:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "17:42",
+   "end": "18:00",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 18
+  },
+  {
+   "start": "18:00",
+   "end": "18:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "18:12",
+   "end": "18:44",
+   "category": "面会・会談",
+   "label": "シュバイツァー日仏パートナーシップ仏外相特別代表、ダナ駐日フランス大使",
+   "minutes": 32
+  },
+  {
+   "start": "18:44",
+   "end": "18:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:46",
+   "end": "18:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:54",
+   "end": "20:53",
+   "category": "会食",
+   "label": "葛西敬之ＪＲ東海名誉会長、北村内閣情報官と会食",
+   "minutes": 119
+  },
+  {
+   "start": "20:53",
+   "end": "21:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "21:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 169
+  }
+ ],
+ "alloc_min": {
+  "居所": 637,
+  "移動": 34,
+  "公務（内容未詳）": 86,
+  "面会・会談": 75,
+  "国会": 431,
+  "官邸執務": 58,
+  "会食": 119
+ }
+}

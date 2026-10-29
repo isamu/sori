@@ -1,0 +1,348 @@
+{
+ "date": "2015-02-12",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 699,
+ "residence_min": 741,
+ "meetings": 4,
+ "first_work": "08:53",
+ "events": [
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:14",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:24",
+   "label": "甘利明経済財政担当相 松山健士事務次官 前川守政策統括官 羽深成樹政策統括官 田和宏政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:51",
+   "label": "谷内正太郎国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:54",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議。施政方針演説",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:36",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "14:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:01",
+   "label": "参院本会議。施政方針演説",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:26",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:04",
+   "label": "上田隆之資源エネルギー庁長官 上村司中東アフリカ局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:15",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:05",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:13",
+   "label": "同ホテル内の宴会場「ルミエール」で、精神科医らでつくる首相の後援会「晋精会」の会合に出席し、懇談。萩生田光一自民党総裁特別補佐同席",
+   "place": "東京・新橋 第一ホテル東京",
+   "category": "党務"
+  },
+  {
+   "time": "18:47",
+   "label": "移動",
+   "place": "東京・新橋 第一ホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": "18:54",
+   "label": "自民党の溝手顕正参院議員会長、伊達忠一参院幹事長ら。世耕弘成官房副長官同席",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 533
+  },
+  {
+   "start": "08:53",
+   "end": "09:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "09:08",
+   "end": "09:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:14",
+   "end": "09:22",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 8
+  },
+  {
+   "start": "09:22",
+   "end": "09:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:24",
+   "end": "09:50",
+   "category": "面会・会談",
+   "label": "甘利明経済財政担当相 松山健士事務次官 前川守政策統括官 羽深成樹政策統括官 田和宏政策統括官",
+   "minutes": 26
+  },
+  {
+   "start": "09:50",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:51",
+   "end": "10:04",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長",
+   "minutes": 13
+  },
+  {
+   "start": "10:04",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 167
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "13:00",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:02",
+   "end": "14:33",
+   "category": "国会",
+   "label": "衆院本会議。施政方針演説",
+   "minutes": 91
+  },
+  {
+   "start": "14:33",
+   "end": "14:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 18
+  },
+  {
+   "start": "14:54",
+   "end": "14:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "14:57",
+   "end": "15:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:01",
+   "end": "16:24",
+   "category": "国会",
+   "label": "参院本会議。施政方針演説",
+   "minutes": 83
+  },
+  {
+   "start": "16:24",
+   "end": "16:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:26",
+   "end": "16:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:28",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "17:04",
+   "end": "17:14",
+   "category": "面会・会談",
+   "label": "上田隆之資源エネルギー庁長官 上村司中東アフリカ局長",
+   "minutes": 10
+  },
+  {
+   "start": "17:14",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:15",
+   "end": "18:03",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 48
+  },
+  {
+   "start": "18:03",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:05",
+   "end": "18:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:13",
+   "end": "18:47",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「ルミエール」で、精神科医らでつくる首相の後援会「晋精会」の会合に出席し、懇談。萩生田光一自民党総裁特別補佐同席",
+   "minutes": 34
+  },
+  {
+   "start": "18:47",
+   "end": "18:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "18:54",
+   "end": "20:32",
+   "category": "面会・会談",
+   "label": "自民党の溝手顕正参院議員会長、伊達忠一参院幹事長ら。世耕弘成官房副長官同席",
+   "minutes": 98
+  },
+  {
+   "start": "20:32",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 208
+  }
+ ],
+ "alloc_min": {
+  "居所": 741,
+  "移動": 34,
+  "公務（内容未詳）": 228,
+  "官邸執務": 56,
+  "面会・会談": 147,
+  "国会": 200,
+  "党務": 34
+ }
+}

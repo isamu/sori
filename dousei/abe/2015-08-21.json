@@ -1,0 +1,341 @@
+{
+ "date": "2015-08-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 678,
+ "residence_min": 762,
+ "meetings": 7,
+ "first_work": "08:43",
+ "events": [
+  {
+   "time": "08:43",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:03",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:13",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:19",
+   "label": "塩崎恭久厚生労働相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:06",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:17",
+   "label": "岸田文雄外相 斎木昭隆事務次官 伊原純一アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:04",
+   "label": "西村泰彦内閣危機管理監 高見沢将林官房副長官補 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院平和安全法制特別委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:14",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "16:30",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:40",
+   "label": "ヒロノ米上院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:30",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:18",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:20",
+   "label": "同ホテル内のレストラン『ＯＲＩＧＡＭＩ』で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "19:36",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 523
+  },
+  {
+   "start": "08:43",
+   "end": "08:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:57",
+   "end": "09:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:03",
+   "end": "09:12",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "09:12",
+   "end": "09:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:13",
+   "end": "09:18",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 5
+  },
+  {
+   "start": "09:18",
+   "end": "09:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:19",
+   "end": "09:36",
+   "category": "面会・会談",
+   "label": "塩崎恭久厚生労働相",
+   "minutes": 17
+  },
+  {
+   "start": "09:36",
+   "end": "10:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "10:06",
+   "end": "11:16",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 70
+  },
+  {
+   "start": "11:16",
+   "end": "11:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:17",
+   "end": "12:03",
+   "category": "面会・会談",
+   "label": "岸田文雄外相 斎木昭隆事務次官 伊原純一アジア大洋州局長",
+   "minutes": 46
+  },
+  {
+   "start": "12:03",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:04",
+   "end": "12:11",
+   "category": "面会・会談",
+   "label": "西村泰彦内閣危機管理監 高見沢将林官房副長官補 北村滋内閣情報官",
+   "minutes": 7
+  },
+  {
+   "start": "12:11",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "16:11",
+   "category": "国会",
+   "label": "参院平和安全法制特別委員会",
+   "minutes": 191
+  },
+  {
+   "start": "16:11",
+   "end": "16:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:14",
+   "end": "16:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:16",
+   "end": "16:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "16:30",
+   "end": "16:39",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 9
+  },
+  {
+   "start": "16:39",
+   "end": "16:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:40",
+   "end": "17:02",
+   "category": "面会・会談",
+   "label": "ヒロノ米上院議員",
+   "minutes": 22
+  },
+  {
+   "start": "17:02",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "17:30",
+   "end": "17:43",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 13
+  },
+  {
+   "start": "17:43",
+   "end": "18:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "18:18",
+   "end": "18:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:20",
+   "end": "19:36",
+   "category": "会食",
+   "label": "同ホテル内のレストラン『ＯＲＩＧＡＭＩ』で秘書官と食事",
+   "minutes": 76
+  },
+  {
+   "start": "19:36",
+   "end": "20:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "20:01",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 239
+  }
+ ],
+ "alloc_min": {
+  "居所": 762,
+  "移動": 45,
+  "公務（内容未詳）": 168,
+  "官邸執務": 22,
+  "面会・会談": 176,
+  "国会": 191,
+  "会食": 76
+ }
+}

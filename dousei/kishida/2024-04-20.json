@@ -1,0 +1,145 @@
+{
+ "date": "2024-04-20",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 331,
+ "residence_min": 907,
+ "meetings": 1,
+ "first_work": "08:48",
+ "events": [
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "散髪",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "個人"
+  },
+  {
+   "time": "10:38",
+   "label": "移動",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "移動"
+  },
+  {
+   "time": "10:50",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "11:19",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:27",
+   "label": "同ホテル内の宴会場「芙蓉の間」で盛山正仁文部科学相の三女の結婚披露宴に出席。あいさつ。裕子夫人同席",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "個人"
+  },
+  {
+   "time": "13:11",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "村井英樹官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 528
+  },
+  {
+   "start": "08:48",
+   "end": "09:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:00",
+   "end": "10:38",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 98
+  },
+  {
+   "start": "10:38",
+   "end": "10:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "10:50",
+   "end": "11:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 29
+  },
+  {
+   "start": "11:19",
+   "end": "11:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:27",
+   "end": "13:11",
+   "category": "個人",
+   "label": "同ホテル内の宴会場「芙蓉の間」で盛山正仁文部科学相の三女の結婚披露宴に出席。あいさつ。裕子夫人同席",
+   "minutes": 104
+  },
+  {
+   "start": "13:11",
+   "end": "13:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "13:16",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "14:00",
+   "end": "18:10",
+   "category": "面会・会談",
+   "label": "村井英樹官房副長官",
+   "minutes": 250
+  },
+  {
+   "start": "18:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 350
+  }
+ ],
+ "alloc_min": {
+  "居所": 907,
+  "移動": 37,
+  "個人": 202,
+  "公務（内容未詳）": 44,
+  "面会・会談": 250
+ }
+}

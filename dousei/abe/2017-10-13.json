@@ -1,0 +1,312 @@
+{
+ "date": "2017-10-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 854,
+ "residence_min": 586,
+ "meetings": 1,
+ "first_work": "08:14",
+ "events": [
+  {
+   "time": "08:14",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:46",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:47",
+   "label": "鹿児島空港",
+   "place": "鹿児島空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:28",
+   "label": "山口那津男公明党代表と街頭演説",
+   "place": "ＪＲ鹿児島中央駅東口前",
+   "category": "党務"
+  },
+  {
+   "time": "12:04",
+   "label": "ＪＲ鹿児島中央駅ーさくら404号ーＪＲ川内駅",
+   "place": "ＪＲ鹿児島中央駅東口前",
+   "category": "移動"
+  },
+  {
+   "time": "12:15",
+   "label": "街頭演説。利用客らと握手、写真撮影",
+   "place": "ＪＲ川内駅西口前",
+   "category": "党務"
+  },
+  {
+   "time": "13:35",
+   "label": "ＪＲ熊本駅",
+   "place": "ＪＲ熊本駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:50",
+   "label": "街頭演説。支持者らと握手",
+   "place": "熊本市中央区の「マクドナルド熊本新市街店」前",
+   "category": "党務"
+  },
+  {
+   "time": "15:06",
+   "label": "演説。同団地住民との意見交換。西村博則町長同席",
+   "place": "熊本県益城町の「テクノ仮設団地」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:24",
+   "label": "熊本市西区の熊本港",
+   "place": "熊本市西区の熊本港",
+   "category": "移動"
+  },
+  {
+   "time": "17:16",
+   "label": "街頭演説。支持者らと握手",
+   "place": "長崎県島原市の島原港",
+   "category": "党務"
+  },
+  {
+   "time": "19:04",
+   "label": "街頭演説。支持者らと握手",
+   "place": "長崎市の鉄橋",
+   "category": "党務"
+  },
+  {
+   "time": "20:09",
+   "label": "長崎空港",
+   "place": "長崎空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:51",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "22:01",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 494
+  },
+  {
+   "start": "08:14",
+   "end": "08:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "08:46",
+   "end": "09:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "09:18",
+   "end": "10:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 89
+  },
+  {
+   "start": "10:47",
+   "end": "10:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "10:54",
+   "end": "11:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "11:28",
+   "end": "12:01",
+   "category": "党務",
+   "label": "山口那津男公明党代表と街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "12:01",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:04",
+   "end": "12:15",
+   "category": "移動",
+   "label": "ＪＲ鹿児島中央駅ーさくら404号ーＪＲ川内駅",
+   "minutes": 11
+  },
+  {
+   "start": "12:15",
+   "end": "13:01",
+   "category": "党務",
+   "label": "街頭演説。利用客らと握手、写真撮影",
+   "minutes": 46
+  },
+  {
+   "start": "13:01",
+   "end": "13:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "13:35",
+   "end": "13:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "13:40",
+   "end": "13:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "13:50",
+   "end": "14:31",
+   "category": "党務",
+   "label": "街頭演説。支持者らと握手",
+   "minutes": 41
+  },
+  {
+   "start": "14:31",
+   "end": "15:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "15:06",
+   "end": "15:30",
+   "category": "面会・会談",
+   "label": "演説。同団地住民との意見交換。西村博則町長同席",
+   "minutes": 24
+  },
+  {
+   "start": "15:30",
+   "end": "16:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "16:24",
+   "end": "16:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "16:40",
+   "end": "17:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "17:16",
+   "end": "17:28",
+   "category": "党務",
+   "label": "街頭演説。支持者らと握手",
+   "minutes": 12
+  },
+  {
+   "start": "17:28",
+   "end": "19:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 96
+  },
+  {
+   "start": "19:04",
+   "end": "19:27",
+   "category": "党務",
+   "label": "街頭演説。支持者らと握手",
+   "minutes": 23
+  },
+  {
+   "start": "19:27",
+   "end": "20:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "20:09",
+   "end": "20:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "20:37",
+   "end": "21:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 74
+  },
+  {
+   "start": "21:51",
+   "end": "22:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "22:01",
+   "end": "22:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "22:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 92
+  }
+ ],
+ "alloc_min": {
+  "居所": 586,
+  "移動": 168,
+  "公務（内容未詳）": 507,
+  "党務": 155,
+  "面会・会談": 24
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "date": "2014-12-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 538,
+ "residence_min": 533,
+ "meetings": 0,
+ "first_work": "06:43",
+ "events": [
+  {
+   "time": "06:43",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:41",
+   "label": "友人や秘書官とゴルフ",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "個人"
+  },
+  {
+   "time": "18:38",
+   "label": "移動",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "移動"
+  },
+  {
+   "time": "18:55",
+   "label": "昭恵夫人や友人と食事",
+   "place": "東京・赤坂 飲食店「燻」",
+   "category": "会食"
+  },
+  {
+   "time": "21:31",
+   "label": "移動",
+   "place": "東京・赤坂 飲食店「燻」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 403
+  },
+  {
+   "start": "06:43",
+   "end": "07:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 58
+  },
+  {
+   "start": "07:41",
+   "end": "13:50",
+   "category": "個人",
+   "label": "友人や秘書官とゴルフ",
+   "minutes": 369
+  },
+  {
+   "start": "13:50",
+   "end": "18:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 288
+  },
+  {
+   "start": "18:38",
+   "end": "18:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "18:55",
+   "end": "21:31",
+   "category": "会食",
+   "label": "昭恵夫人や友人と食事",
+   "minutes": 156
+  },
+  {
+   "start": "21:31",
+   "end": "21:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "21:50",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 130
+  }
+ ],
+ "alloc_min": {
+  "居所": 533,
+  "移動": 94,
+  "個人": 369,
+  "公務（内容未詳）": 288,
+  "会食": 156
+ }
+}

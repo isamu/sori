@@ -1,0 +1,118 @@
+{
+ "date": "2016-02-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 170,
+ "residence_min": 1270,
+ "meetings": 0,
+ "first_work": "11:47",
+ "events": [
+  {
+   "time": "11:47",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "東京・永田町 ザ・キャピトルホテル東急",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "13:12",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "13:26",
+   "label": "ラジオ番組に出演",
+   "place": "東京・有楽町 ニッポン放送",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:31",
+   "label": "移動",
+   "place": "東京・有楽町 ニッポン放送",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 707
+  },
+  {
+   "start": "11:47",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "12:00",
+   "end": "13:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 72
+  },
+  {
+   "start": "13:12",
+   "end": "13:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "13:20",
+   "end": "13:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:26",
+   "end": "14:27",
+   "category": "取材・会見",
+   "label": "ラジオ番組に出演",
+   "minutes": 61
+  },
+  {
+   "start": "14:27",
+   "end": "14:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "14:31",
+   "end": "14:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "14:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 563
+  }
+ ],
+ "alloc_min": {
+  "居所": 1270,
+  "移動": 99,
+  "公務（内容未詳）": 10,
+  "取材・会見": 61
+ }
+}

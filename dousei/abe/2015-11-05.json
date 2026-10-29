@@ -1,0 +1,379 @@
+{
+ "date": "2015-11-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 700,
+ "residence_min": 740,
+ "meetings": 3,
+ "first_work": "08:36",
+ "events": [
+  {
+   "time": "08:36",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:12",
+   "label": "イランのサレヒ副大統領兼原子力庁長官による表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:02",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:08",
+   "label": "秋の叙勲大綬章親授式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:50",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:59",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:57",
+   "label": "「津波防災トークｉｎ丸の内」に出席",
+   "place": "東京・丸の内 丸の内ビルディング",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:23",
+   "label": "移動",
+   "place": "東京・丸の内 丸の内ビルディング",
+   "category": "移動"
+  },
+  {
+   "time": "13:31",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:19",
+   "label": "秋の叙勲重光章伝達式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:52",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "16:03",
+   "label": "田中一穂事務次官 佐藤慎一主税局長 麻生太郎財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:43",
+   "label": "加藤勝信１億総活躍担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:05",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:07",
+   "label": "自民党の「国土強靱化総合調査会」の第１００回記念会に出席し、あいさつ",
+   "place": "衆院第１議員会館",
+   "category": "党務"
+  },
+  {
+   "time": "17:16",
+   "label": "移動",
+   "place": "衆院第１議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "17:32",
+   "label": "未来投資に向けた官民対話",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:35",
+   "label": "「美しい日本の憲法をつくる国民の会」主催行事へのビデオメッセージ収録",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:53",
+   "label": "公明党の山口那津男代表、古屋範子副代表、井上義久幹事長、大口善徳国対委員長、太田昭宏前国土交通相ら党幹部との会食。菅義偉官房長官同席",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 516
+  },
+  {
+   "start": "08:36",
+   "end": "08:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:37",
+   "end": "09:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "09:12",
+   "end": "09:30",
+   "category": "面会・会談",
+   "label": "イランのサレヒ副大統領兼原子力庁長官による表敬",
+   "minutes": 18
+  },
+  {
+   "start": "09:30",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "10:02",
+   "end": "10:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "10:08",
+   "end": "10:50",
+   "category": "式典・行事",
+   "label": "秋の叙勲大綬章親授式",
+   "minutes": 42
+  },
+  {
+   "start": "10:50",
+   "end": "10:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 109
+  },
+  {
+   "start": "12:48",
+   "end": "12:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "12:57",
+   "end": "13:23",
+   "category": "式典・行事",
+   "label": "「津波防災トークｉｎ丸の内」に出席",
+   "minutes": 26
+  },
+  {
+   "start": "13:23",
+   "end": "13:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 41
+  },
+  {
+   "start": "14:12",
+   "end": "14:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:19",
+   "end": "14:52",
+   "category": "式典・行事",
+   "label": "秋の叙勲重光章伝達式",
+   "minutes": 33
+  },
+  {
+   "start": "14:52",
+   "end": "15:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:01",
+   "end": "16:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 62
+  },
+  {
+   "start": "16:03",
+   "end": "16:39",
+   "category": "面会・会談",
+   "label": "田中一穂事務次官 佐藤慎一主税局長 麻生太郎財務相",
+   "minutes": 36
+  },
+  {
+   "start": "16:39",
+   "end": "16:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:43",
+   "end": "17:03",
+   "category": "面会・会談",
+   "label": "加藤勝信１億総活躍担当相",
+   "minutes": 20
+  },
+  {
+   "start": "17:03",
+   "end": "17:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:05",
+   "end": "17:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:07",
+   "end": "17:16",
+   "category": "党務",
+   "label": "自民党の「国土強靱化総合調査会」の第１００回記念会に出席し、あいさつ",
+   "minutes": 9
+  },
+  {
+   "start": "17:16",
+   "end": "17:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:17",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "17:32",
+   "end": "18:33",
+   "category": "官邸執務",
+   "label": "未来投資に向けた官民対話",
+   "minutes": 61
+  },
+  {
+   "start": "18:33",
+   "end": "18:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:35",
+   "end": "18:51",
+   "category": "官邸執務",
+   "label": "「美しい日本の憲法をつくる国民の会」主催行事へのビデオメッセージ収録",
+   "minutes": 16
+  },
+  {
+   "start": "18:51",
+   "end": "18:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:52",
+   "end": "18:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:53",
+   "end": "20:16",
+   "category": "会食",
+   "label": "公明党の山口那津男代表、古屋範子副代表、井上義久幹事長、大口善徳国対委員長、太田昭宏前国土交通相ら党幹部との会食。菅義偉官房長官同席",
+   "minutes": 83
+  },
+  {
+   "start": "20:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 224
+  }
+ ],
+ "alloc_min": {
+  "居所": 740,
+  "移動": 53,
+  "公務（内容未詳）": 153,
+  "面会・会談": 74,
+  "式典・行事": 101,
+  "官邸執務": 227,
+  "党務": 9,
+  "会食": 83
+ }
+}

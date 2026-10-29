@@ -1,0 +1,205 @@
+{
+ "date": "2017-08-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 519,
+ "residence_min": 921,
+ "meetings": 4,
+ "first_work": "10:58",
+ "events": [
+  {
+   "time": "10:58",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "12:37",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:59",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:51",
+   "label": "ハガティ駐日米大使の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:01",
+   "label": "ダンフォード米統合参謀本部議長の表敬。ハガティ氏、菅義偉官房長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:02",
+   "label": "額賀福志郎日韓議員連盟会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:30",
+   "label": "谷内正太郎国家安全保障局長 金杉憲治アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:07",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:09",
+   "label": "同ホテル内の日本料理店「水簾」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "19:41",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 658
+  },
+  {
+   "start": "10:58",
+   "end": "12:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 99
+  },
+  {
+   "start": "12:37",
+   "end": "12:59",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 22
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "14:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 111
+  },
+  {
+   "start": "14:51",
+   "end": "15:27",
+   "category": "面会・会談",
+   "label": "ハガティ駐日米大使の表敬",
+   "minutes": 36
+  },
+  {
+   "start": "15:27",
+   "end": "16:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "16:01",
+   "end": "17:00",
+   "category": "面会・会談",
+   "label": "ダンフォード米統合参謀本部議長の表敬。ハガティ氏、菅義偉官房長官同席",
+   "minutes": 59
+  },
+  {
+   "start": "17:00",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:02",
+   "end": "17:28",
+   "category": "面会・会談",
+   "label": "額賀福志郎日韓議員連盟会長",
+   "minutes": 26
+  },
+  {
+   "start": "17:28",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:30",
+   "end": "17:45",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 金杉憲治アジア大洋州局長",
+   "minutes": 15
+  },
+  {
+   "start": "17:45",
+   "end": "18:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "18:07",
+   "end": "18:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:09",
+   "end": "19:41",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「水簾」で秘書官と食事",
+   "minutes": 92
+  },
+  {
+   "start": "19:41",
+   "end": "19:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "19:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 241
+  }
+ ],
+ "alloc_min": {
+  "居所": 921,
+  "移動": 120,
+  "公務（内容未詳）": 171,
+  "面会・会談": 136,
+  "会食": 92
+ }
+}

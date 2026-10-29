@@ -1,0 +1,95 @@
+{
+ "date": "2018-06-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 7,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "コンテ伊首相と会談",
+   "place": "シャルルボワのホテル「ル・マノワール・リシュリュー」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "トルドー加首相と会談",
+   "place": "シャルルボワのホテル「ル・マノワール・リシュリュー」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "「ル・マノワール・リシュリュー」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "首脳宣言についてＧ7で協議",
+   "place": "「ル・マノワール・リシュリュー」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "文化行事",
+   "place": "「ル・マノワール・リシュリュー」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "第3セッション",
+   "place": "宿泊施設「ブラック・ベア・シャレー」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "メルケル独首相と会談",
+   "place": "「ル・マノワール・リシュリュー」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "メイ英首相と会談",
+   "place": "「ル・マノワール・リシュリュー」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "第2セッション",
+   "place": "「ル・マノワール・リシュリュー」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "写真撮影",
+   "place": "カナダ・シャルルボワのゴルフ・クラブハウス",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "先進7カ国首脳による第1セッション",
+   "place": "カナダ・シャルルボワのゴルフ・クラブハウス",
+   "category": "個人"
+  },
+  {
+   "time": null,
+   "label": "トルドー加首相による歓迎",
+   "place": "シャルルボワのホテル「ル・マノワール・リシュリュー」",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

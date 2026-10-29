@@ -1,0 +1,284 @@
+{
+ "date": "2016-06-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 645,
+ "residence_min": 795,
+ "meetings": 0,
+ "first_work": "09:31",
+ "events": [
+  {
+   "time": "09:31",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:53",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "11:38",
+   "label": "ＪＲ仙台駅",
+   "place": "ＪＲ仙台駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:27",
+   "label": "街頭演説",
+   "place": "仙台市泉区 ショッピングセンター「セルバ」前",
+   "category": "党務"
+  },
+  {
+   "time": "13:37",
+   "label": "同館内のレストラン「パブリックハウス多賀城店」で昼食",
+   "place": "宮城県多賀城市 市立図書館",
+   "category": "会食"
+  },
+  {
+   "time": "14:11",
+   "label": "徒歩",
+   "place": "宮城県多賀城市 市立図書館",
+   "category": "移動"
+  },
+  {
+   "time": "14:12",
+   "label": "街頭演説",
+   "place": "ＪＲ多賀城駅",
+   "category": "党務"
+  },
+  {
+   "time": "15:10",
+   "label": "街頭演説",
+   "place": "同県岩沼市 商業施設「フーズガーデン玉浦食彩館」",
+   "category": "党務"
+  },
+  {
+   "time": "16:33",
+   "label": "街頭演説",
+   "place": "仙台市青葉区 複合施設「アエル」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:04",
+   "label": "徒歩",
+   "place": "仙台市青葉区 複合施設「アエル」前",
+   "category": "移動"
+  },
+  {
+   "time": "17:08",
+   "label": "ＪＲ仙台駅",
+   "place": "ＪＲ仙台駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:55",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "19:00",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:15",
+   "label": "自民党の谷垣禎一幹事長、茂木敏充選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "20:00",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 571
+  },
+  {
+   "start": "09:31",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "09:53",
+   "end": "10:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "10:04",
+   "end": "11:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 94
+  },
+  {
+   "start": "11:38",
+   "end": "11:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "11:52",
+   "end": "12:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "12:27",
+   "end": "13:05",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "13:05",
+   "end": "13:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "13:37",
+   "end": "14:11",
+   "category": "会食",
+   "label": "同館内のレストラン「パブリックハウス多賀城店」で昼食",
+   "minutes": 34
+  },
+  {
+   "start": "14:11",
+   "end": "14:12",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 1
+  },
+  {
+   "start": "14:12",
+   "end": "14:46",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "14:46",
+   "end": "15:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "15:10",
+   "end": "15:45",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "15:45",
+   "end": "16:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "16:33",
+   "end": "17:04",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "17:04",
+   "end": "17:08",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 4
+  },
+  {
+   "start": "17:08",
+   "end": "17:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "17:22",
+   "end": "18:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 93
+  },
+  {
+   "start": "18:55",
+   "end": "19:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "19:00",
+   "end": "19:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "19:15",
+   "end": "19:59",
+   "category": "党務",
+   "label": "自民党の谷垣禎一幹事長、茂木敏充選対委員長",
+   "minutes": 44
+  },
+  {
+   "start": "19:59",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:00",
+   "end": "20:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "20:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 224
+  }
+ ],
+ "alloc_min": {
+  "居所": 795,
+  "移動": 86,
+  "公務（内容未詳）": 343,
+  "党務": 182,
+  "会食": 34
+ }
+}

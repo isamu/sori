@@ -1,0 +1,367 @@
+{
+ "date": "2017-02-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 875,
+ "residence_min": 565,
+ "meetings": 6,
+ "first_work": "07:13",
+ "events": [
+  {
+   "time": "07:13",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:53",
+   "label": "菅義偉官房長官 今村雅弘復興相 山本幸三地方創生担当相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:57",
+   "label": "西村康稔自民党総裁特別補佐",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:03",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:20",
+   "label": "国際海洋法裁判所のウラジーミル・ゴリツィン所長、柳井俊二前所長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:38",
+   "label": "ジョージ・アリヨシ元米ハワイ州知事夫妻",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "秋葉剛男審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:19",
+   "label": "木野村謙一内閣衛星情報センター所長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:01",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:14",
+   "label": "渡辺恒雄読売新聞グループ本社主筆、福山正喜共同通信社社長らと会食",
+   "place": "東京・大手町 読売新聞東京本社",
+   "category": "会食"
+  },
+  {
+   "time": "21:32",
+   "label": "移動",
+   "place": "東京・大手町 読売新聞東京本社",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 433
+  },
+  {
+   "start": "07:13",
+   "end": "07:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "07:26",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "07:30",
+   "end": "08:21",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 51
+  },
+  {
+   "start": "08:21",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:53",
+   "end": "08:55",
+   "category": "国会",
+   "label": "菅義偉官房長官 今村雅弘復興相 山本幸三地方創生担当相",
+   "minutes": 2
+  },
+  {
+   "start": "08:55",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:59",
+   "end": "12:02",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 183
+  },
+  {
+   "start": "12:02",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:04",
+   "end": "12:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 50
+  },
+  {
+   "start": "12:55",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:56",
+   "end": "12:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:57",
+   "end": "12:58",
+   "category": "面会・会談",
+   "label": "西村康稔自民党総裁特別補佐",
+   "minutes": 1
+  },
+  {
+   "start": "12:58",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:00",
+   "end": "17:00",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 240
+  },
+  {
+   "start": "17:00",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:03",
+   "end": "17:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:04",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "17:20",
+   "end": "17:37",
+   "category": "面会・会談",
+   "label": "国際海洋法裁判所のウラジーミル・ゴリツィン所長、柳井俊二前所長",
+   "minutes": 17
+  },
+  {
+   "start": "17:37",
+   "end": "17:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:38",
+   "end": "18:01",
+   "category": "面会・会談",
+   "label": "ジョージ・アリヨシ元米ハワイ州知事夫妻",
+   "minutes": 23
+  },
+  {
+   "start": "18:01",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:02",
+   "end": "18:18",
+   "category": "面会・会談",
+   "label": "秋葉剛男審議官",
+   "minutes": 16
+  },
+  {
+   "start": "18:18",
+   "end": "18:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:19",
+   "end": "18:30",
+   "category": "面会・会談",
+   "label": "木野村謙一内閣衛星情報センター所長 北村滋内閣情報官",
+   "minutes": 11
+  },
+  {
+   "start": "18:30",
+   "end": "19:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "19:01",
+   "end": "19:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "19:14",
+   "end": "21:32",
+   "category": "会食",
+   "label": "渡辺恒雄読売新聞グループ本社主筆、福山正喜共同通信社社長らと会食",
+   "minutes": 138
+  },
+  {
+   "start": "21:32",
+   "end": "21:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "21:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 132
+  }
+ ],
+ "alloc_min": {
+  "居所": 565,
+  "移動": 46,
+  "公務（内容未詳）": 97,
+  "面会・会談": 119,
+  "国会": 425,
+  "官邸執務": 50,
+  "会食": 138
+ }
+}

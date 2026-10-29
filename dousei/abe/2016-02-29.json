@@ -1,0 +1,417 @@
+{
+ "date": "2016-02-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 854,
+ "residence_min": 586,
+ "meetings": 3,
+ "first_work": "07:10",
+ "events": [
+  {
+   "time": "07:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:25",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "11:55",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "12:17",
+   "label": "岸田文雄外相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:21",
+   "label": "エジプトのシシ大統領歓迎会。演説傍聴",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:49",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:16",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:26",
+   "label": "自民党の高村正彦副総裁、谷垣禎一幹事長、稲田朋美政調会長ら",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:44",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:32",
+   "label": "シシ大統領を出迎え。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:34",
+   "label": "儀仗（ぎじょう）隊による儀礼",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:42",
+   "label": "シシ大統領との首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:40",
+   "label": "署名式。共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:56",
+   "label": "首相主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "21:22",
+   "label": "シシ大統領を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 430
+  },
+  {
+   "start": "07:10",
+   "end": "07:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "07:23",
+   "end": "07:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "07:25",
+   "end": "08:05",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 40
+  },
+  {
+   "start": "08:05",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "08:50",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:51",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:54",
+   "end": "08:56",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 2
+  },
+  {
+   "start": "08:56",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:58",
+   "end": "11:52",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 174
+  },
+  {
+   "start": "11:52",
+   "end": "11:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 11
+  },
+  {
+   "start": "12:06",
+   "end": "12:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "12:17",
+   "end": "12:19",
+   "category": "国会",
+   "label": "岸田文雄外相",
+   "minutes": 2
+  },
+  {
+   "start": "12:19",
+   "end": "12:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:21",
+   "end": "12:47",
+   "category": "国会",
+   "label": "エジプトのシシ大統領歓迎会。演説傍聴",
+   "minutes": 26
+  },
+  {
+   "start": "12:47",
+   "end": "12:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:12",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 252
+  },
+  {
+   "start": "17:12",
+   "end": "17:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:16",
+   "end": "17:25",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 9
+  },
+  {
+   "start": "17:25",
+   "end": "17:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:26",
+   "end": "17:42",
+   "category": "面会・会談",
+   "label": "自民党の高村正彦副総裁、谷垣禎一幹事長、稲田朋美政調会長ら",
+   "minutes": 16
+  },
+  {
+   "start": "17:42",
+   "end": "17:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:44",
+   "end": "17:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:46",
+   "end": "18:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "18:32",
+   "end": "18:33",
+   "category": "式典・行事",
+   "label": "シシ大統領を出迎え。記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "18:33",
+   "end": "18:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:34",
+   "end": "18:40",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による儀礼",
+   "minutes": 6
+  },
+  {
+   "start": "18:40",
+   "end": "18:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:42",
+   "end": "19:36",
+   "category": "面会・会談",
+   "label": "シシ大統領との首脳会談",
+   "minutes": 54
+  },
+  {
+   "start": "19:36",
+   "end": "19:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "19:40",
+   "end": "19:54",
+   "category": "取材・会見",
+   "label": "署名式。共同記者発表",
+   "minutes": 14
+  },
+  {
+   "start": "19:54",
+   "end": "19:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:55",
+   "end": "19:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:56",
+   "end": "21:22",
+   "category": "会食",
+   "label": "首相主催の夕食会",
+   "minutes": 86
+  },
+  {
+   "start": "21:22",
+   "end": "21:24",
+   "category": "式典・行事",
+   "label": "シシ大統領を見送り",
+   "minutes": 2
+  },
+  {
+   "start": "21:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 156
+  }
+ ],
+ "alloc_min": {
+  "居所": 586,
+  "移動": 17,
+  "公務（内容未詳）": 136,
+  "面会・会談": 110,
+  "国会": 473,
+  "党務": 9,
+  "式典・行事": 9,
+  "取材・会見": 14,
+  "会食": 86
+ }
+}

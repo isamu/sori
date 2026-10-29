@@ -1,0 +1,83 @@
+{
+ "date": "2015-09-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 8,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "イランのロウハニ大統領と会談",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "カタールのタミム首長と会談",
+   "place": "カタール国連代表部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ザ・キタノ・ニューヨーク」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "ニュージーランドのキー首相と立ち話",
+   "place": "吉川元偉国連大使公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "和食レセプションに出席",
+   "place": "吉川元偉国連大使公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "国際オリンピック委員会（ＩＯＣ）のバッハ会長と会談",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "持続可能な開発に関する国連サミットに出席",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "気候変動に関する首脳級会合に出席",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "韓国の朴槿恵大統領、フランスのオランド大統領、ドイツのメルケル首相、潘基文国連事務総長らと個別に立ち話",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ジェンダー平等と女性活躍に関する会合に出席",
+   "place": "国連本部",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

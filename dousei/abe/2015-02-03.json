@@ -1,0 +1,466 @@
+{
+ "date": "2015-02-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 812,
+ "residence_min": 628,
+ "meetings": 4,
+ "first_work": "07:16",
+ "events": [
+  {
+   "time": "07:16",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:18",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:28",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:54",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:56",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:08",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "16:36",
+   "label": "谷内正太郎国家安全保障局長 下平幸二内閣衛星情報センター所長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:04",
+   "label": "ミャンマーの野党党首らの表敬。逢沢一郎自民党衆院議員同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:32",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:41",
+   "label": "日本鉄鋼協会創立１００周年祝賀パーティーに出席し、あいさつ",
+   "place": "東京・大手町 経団連会館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:51",
+   "label": "移動",
+   "place": "東京・大手町 経団連会館",
+   "category": "移動"
+  },
+  {
+   "time": "18:15",
+   "label": "トルコのエルドアン大統領と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:51",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "18:56",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "19:41",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "19:46",
+   "label": "参院の山崎正昭、輿石東正副議長、中川雅治議院運営委員長、与野党にあいさつまわり",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "19:58",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "20:06",
+   "label": "同ホテル内の宴会場「サンフラワーホール」で、自民党の政策グループ「きさらぎ会」の新年会に出席し、あいさつ",
+   "place": "東京・芝公園 東京プリンスホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:28",
+   "label": "移動",
+   "place": "東京・芝公園 東京プリンスホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 436
+  },
+  {
+   "start": "07:16",
+   "end": "07:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:17",
+   "end": "07:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:18",
+   "end": "08:26",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 68
+  },
+  {
+   "start": "08:26",
+   "end": "08:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:28",
+   "end": "08:36",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "08:36",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "08:55",
+   "end": "08:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:56",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:00",
+   "end": "11:52",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 172
+  },
+  {
+   "start": "11:52",
+   "end": "11:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:54",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 58
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "16:05",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 185
+  },
+  {
+   "start": "16:05",
+   "end": "16:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:08",
+   "end": "16:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:10",
+   "end": "16:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "16:36",
+   "end": "16:46",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 下平幸二内閣衛星情報センター所長 北村滋内閣情報官",
+   "minutes": 10
+  },
+  {
+   "start": "16:46",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "17:04",
+   "end": "17:30",
+   "category": "面会・会談",
+   "label": "ミャンマーの野党党首らの表敬。逢沢一郎自民党衆院議員同席",
+   "minutes": 26
+  },
+  {
+   "start": "17:30",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:32",
+   "end": "17:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "17:41",
+   "end": "17:51",
+   "category": "式典・行事",
+   "label": "日本鉄鋼協会創立１００周年祝賀パーティーに出席し、あいさつ",
+   "minutes": 10
+  },
+  {
+   "start": "17:51",
+   "end": "18:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:01",
+   "end": "18:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "18:15",
+   "end": "18:30",
+   "category": "面会・会談",
+   "label": "トルコのエルドアン大統領と電話会談",
+   "minutes": 15
+  },
+  {
+   "start": "18:30",
+   "end": "18:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "18:48",
+   "end": "18:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:49",
+   "end": "18:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "18:52",
+   "end": "18:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:56",
+   "end": "19:41",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 45
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "19:45",
+   "end": "19:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:46",
+   "end": "19:56",
+   "category": "国会",
+   "label": "参院の山崎正昭、輿石東正副議長、中川雅治議院運営委員長、与野党にあいさつまわり",
+   "minutes": 10
+  },
+  {
+   "start": "19:56",
+   "end": "19:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:58",
+   "end": "20:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "20:06",
+   "end": "20:28",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「サンフラワーホール」で、自民党の政策グループ「きさらぎ会」の新年会に出席し、あいさつ",
+   "minutes": 22
+  },
+  {
+   "start": "20:28",
+   "end": "20:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "20:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 192
+  }
+ ],
+ "alloc_min": {
+  "居所": 628,
+  "移動": 55,
+  "公務（内容未詳）": 123,
+  "面会・会談": 119,
+  "官邸執務": 66,
+  "国会": 417,
+  "式典・行事": 32
+ }
+}

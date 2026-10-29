@@ -1,0 +1,130 @@
+{
+ "date": "2016-08-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 290,
+ "residence_min": 699,
+ "meetings": 0,
+ "first_work": "06:19",
+ "events": [
+  {
+   "time": "06:19",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "06:42",
+   "label": "高橋精一郎三井住友銀行副頭取、加計孝太郎学校法人加計学園理事長らとゴルフ",
+   "place": "山梨県山中湖村のゴルフ場「富士ゴルフコース」",
+   "category": "個人"
+  },
+  {
+   "time": "14:13",
+   "label": "移動",
+   "place": "山梨県山中湖村のゴルフ場「富士ゴルフコース」",
+   "category": "移動"
+  },
+  {
+   "time": "16:15",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:14",
+   "label": "高橋三井住友銀行副頭取夫妻、秘書官らと食事",
+   "place": "東京・元代々木町 ピザ店「エンボカ東京」",
+   "category": "会食"
+  },
+  {
+   "time": "20:28",
+   "label": "移動",
+   "place": "東京・元代々木町 ピザ店「エンボカ東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 379
+  },
+  {
+   "start": "06:19",
+   "end": "06:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "06:42",
+   "end": "14:13",
+   "category": "個人",
+   "label": "高橋精一郎三井住友銀行副頭取、加計孝太郎学校法人加計学園理事長らとゴルフ",
+   "minutes": 451
+  },
+  {
+   "start": "14:13",
+   "end": "16:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 122
+  },
+  {
+   "start": "16:15",
+   "end": "18:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 115
+  },
+  {
+   "start": "18:10",
+   "end": "18:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "18:14",
+   "end": "20:28",
+   "category": "会食",
+   "label": "高橋三井住友銀行副頭取夫妻、秘書官らと食事",
+   "minutes": 134
+  },
+  {
+   "start": "20:28",
+   "end": "20:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "20:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 205
+  }
+ ],
+ "alloc_min": {
+  "居所": 699,
+  "移動": 156,
+  "個人": 451,
+  "会食": 134
+ }
+}

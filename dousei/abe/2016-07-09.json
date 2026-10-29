@@ -1,0 +1,387 @@
+{
+ "date": "2016-07-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 739,
+ "residence_min": 701,
+ "meetings": 0,
+ "first_work": "09:55",
+ "events": [
+  {
+   "time": "09:55",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:09",
+   "label": "広報用のインターネット動画の収録",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:32",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "10:56",
+   "label": "練り歩き。高岩寺を参拝。街頭演説",
+   "place": "東京・巣鴨 巣鴨地蔵通り商店街",
+   "category": "党務"
+  },
+  {
+   "time": "11:40",
+   "label": "移動",
+   "place": "東京・巣鴨 巣鴨地蔵通り商店街",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "練り歩き。街頭演説",
+   "place": "東京・大山町 ハッピーロード大山商店街",
+   "category": "党務"
+  },
+  {
+   "time": "12:49",
+   "label": "報道各社のインタビュー",
+   "place": "東京・大山町 ハッピーロード大山商店街",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "東京・大山町 ハッピーロード大山商店街",
+   "category": "移動"
+  },
+  {
+   "time": "13:16",
+   "label": "同施設内のレストラン「１２１ダイニング」で昼食",
+   "place": "東京・中野 複合施設「中野サンプラザ」",
+   "category": "会食"
+  },
+  {
+   "time": "13:29",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "13:32",
+   "label": "練り歩き。ＪＲ中野駅前で街頭演説",
+   "place": "東京・中野 中野サンモール商店街",
+   "category": "党務"
+  },
+  {
+   "time": "14:13",
+   "label": "移動",
+   "place": "東京・中野 中野サンモール商店街",
+   "category": "移動"
+  },
+  {
+   "time": "14:41",
+   "label": "練り歩き。神宮前交差点で街頭演説",
+   "place": "東京・北青山 表参道",
+   "category": "党務"
+  },
+  {
+   "time": "15:15",
+   "label": "移動",
+   "place": "東京・北青山 表参道",
+   "category": "移動"
+  },
+  {
+   "time": "15:38",
+   "label": "練り歩き。街頭演説",
+   "place": "東京・豊町 戸越銀座商店街",
+   "category": "党務"
+  },
+  {
+   "time": "16:24",
+   "label": "移動",
+   "place": "東京・豊町 戸越銀座商店街",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "参拝",
+   "place": "東京・浅草 浅草神社",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:12",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "17:13",
+   "label": "参拝。練り歩き。雷門前で街頭演説",
+   "place": "東京・浅草 浅草寺",
+   "category": "党務"
+  },
+  {
+   "time": "18:16",
+   "label": "移動",
+   "place": "東京・浅草 浅草寺",
+   "category": "移動"
+  },
+  {
+   "time": "18:27",
+   "label": "街頭演説。同施設内を練り歩き",
+   "place": "東京・押上 商業施設「東京ソラマチ」前",
+   "category": "党務"
+  },
+  {
+   "time": "18:52",
+   "label": "移動",
+   "place": "東京・押上 商業施設「東京ソラマチ」前",
+   "category": "移動"
+  },
+  {
+   "time": "19:29",
+   "label": "街頭演説",
+   "place": "ＪＲ秋葉原駅前",
+   "category": "党務"
+  },
+  {
+   "time": "20:09",
+   "label": "移動",
+   "place": "ＪＲ秋葉原駅前",
+   "category": "移動"
+  },
+  {
+   "time": "20:26",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "21:57",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 595
+  },
+  {
+   "start": "09:55",
+   "end": "10:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "10:09",
+   "end": "10:32",
+   "category": "党務",
+   "label": "広報用のインターネット動画の収録",
+   "minutes": 23
+  },
+  {
+   "start": "10:32",
+   "end": "10:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "10:56",
+   "end": "11:40",
+   "category": "党務",
+   "label": "練り歩き。高岩寺を参拝。街頭演説",
+   "minutes": 44
+  },
+  {
+   "start": "11:40",
+   "end": "12:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "12:04",
+   "end": "12:49",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 45
+  },
+  {
+   "start": "12:49",
+   "end": "12:50",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "12:50",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:51",
+   "end": "13:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "13:16",
+   "end": "13:29",
+   "category": "会食",
+   "label": "同施設内のレストラン「１２１ダイニング」で昼食",
+   "minutes": 13
+  },
+  {
+   "start": "13:29",
+   "end": "13:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:32",
+   "end": "14:13",
+   "category": "党務",
+   "label": "練り歩き。ＪＲ中野駅前で街頭演説",
+   "minutes": 41
+  },
+  {
+   "start": "14:13",
+   "end": "14:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "14:41",
+   "end": "15:15",
+   "category": "党務",
+   "label": "練り歩き。神宮前交差点で街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "15:15",
+   "end": "15:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "15:38",
+   "end": "16:24",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 46
+  },
+  {
+   "start": "16:24",
+   "end": "17:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "17:01",
+   "end": "17:12",
+   "category": "式典・行事",
+   "label": "参拝",
+   "minutes": 11
+  },
+  {
+   "start": "17:12",
+   "end": "17:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:13",
+   "end": "18:16",
+   "category": "党務",
+   "label": "参拝。練り歩き。雷門前で街頭演説",
+   "minutes": 63
+  },
+  {
+   "start": "18:16",
+   "end": "18:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:27",
+   "end": "18:52",
+   "category": "党務",
+   "label": "街頭演説。同施設内を練り歩き",
+   "minutes": 25
+  },
+  {
+   "start": "18:52",
+   "end": "19:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "19:29",
+   "end": "20:09",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 40
+  },
+  {
+   "start": "20:09",
+   "end": "20:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "20:26",
+   "end": "21:57",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "minutes": 91
+  },
+  {
+   "start": "21:57",
+   "end": "22:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "22:14",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 106
+  }
+ ],
+ "alloc_min": {
+  "居所": 701,
+  "移動": 261,
+  "党務": 361,
+  "取材・会見": 1,
+  "公務（内容未詳）": 1,
+  "会食": 104,
+  "式典・行事": 11
+ }
+}

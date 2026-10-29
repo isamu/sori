@@ -1,0 +1,309 @@
+{
+ "date": "2015-05-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 631,
+ "residence_min": 809,
+ "meetings": 4,
+ "first_work": "09:40",
+ "events": [
+  {
+   "time": "09:40",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:43",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "党首討論",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "15:53",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "15:56",
+   "label": "福田淳一官房長 田中一穂主計局長 麻生太郎財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:01",
+   "label": "大西倉雄山口県長門市長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:06",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:55",
+   "label": "モンゴルのエルベグドルジ大統領を出迎え。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:56",
+   "label": "儀仗隊による儀礼",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:04",
+   "label": "エルベグドルジ大統領と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:46",
+   "label": "共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:57",
+   "label": "首相主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:10",
+   "label": "エルベグドルジ大統領を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 580
+  },
+  {
+   "start": "09:40",
+   "end": "09:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:42",
+   "end": "09:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:43",
+   "end": "09:44",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:44",
+   "end": "14:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 310
+  },
+  {
+   "start": "14:54",
+   "end": "14:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:55",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "15:00",
+   "end": "15:49",
+   "category": "国会",
+   "label": "党首討論",
+   "minutes": 49
+  },
+  {
+   "start": "15:49",
+   "end": "15:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:53",
+   "end": "15:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:54",
+   "end": "15:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:56",
+   "end": "16:46",
+   "category": "面会・会談",
+   "label": "福田淳一官房長 田中一穂主計局長 麻生太郎財務相",
+   "minutes": 50
+  },
+  {
+   "start": "16:46",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "17:01",
+   "end": "17:05",
+   "category": "面会・会談",
+   "label": "大西倉雄山口県長門市長",
+   "minutes": 4
+  },
+  {
+   "start": "17:05",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:06",
+   "end": "17:14",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 8
+  },
+  {
+   "start": "17:14",
+   "end": "17:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "17:55",
+   "end": "17:56",
+   "category": "式典・行事",
+   "label": "モンゴルのエルベグドルジ大統領を出迎え。記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "17:56",
+   "end": "18:02",
+   "category": "式典・行事",
+   "label": "儀仗隊による儀礼",
+   "minutes": 6
+  },
+  {
+   "start": "18:02",
+   "end": "18:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:04",
+   "end": "18:43",
+   "category": "面会・会談",
+   "label": "エルベグドルジ大統領と首脳会談",
+   "minutes": 39
+  },
+  {
+   "start": "18:43",
+   "end": "18:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:46",
+   "end": "18:55",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 9
+  },
+  {
+   "start": "18:55",
+   "end": "18:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:56",
+   "end": "18:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:57",
+   "end": "20:10",
+   "category": "会食",
+   "label": "首相主催の夕食会",
+   "minutes": 73
+  },
+  {
+   "start": "20:10",
+   "end": "20:11",
+   "category": "式典・行事",
+   "label": "エルベグドルジ大統領を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "20:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 229
+  }
+ ],
+ "alloc_min": {
+  "居所": 809,
+  "移動": 5,
+  "公務（内容未詳）": 385,
+  "取材・会見": 10,
+  "国会": 49,
+  "面会・会談": 101,
+  "式典・行事": 8,
+  "会食": 73
+ }
+}

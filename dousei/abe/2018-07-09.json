@@ -1,0 +1,547 @@
+{
+ "date": "2018-07-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 708,
+ "residence_min": 732,
+ "meetings": 15,
+ "first_work": "09:11",
+ "events": [
+  {
+   "time": "09:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:50",
+   "label": "非常災害対策本部会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:14",
+   "label": "河野太郎外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:50",
+   "label": "金杉憲治アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:56",
+   "label": "河井克行自民党総裁外交特別補佐",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:48",
+   "label": "政府与党政策懇談会",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "11:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:56",
+   "label": "自民党の静岡県議と会食。西村康稔官房副長官同席",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "13:01",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:29",
+   "label": "中村時広愛媛県知事",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:45",
+   "label": "自民党の河村建夫、竹本直一両衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:45",
+   "label": "自民党の二階俊博幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:03",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:16",
+   "label": "豊田硬事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:24",
+   "label": "田端浩審議官 蝦名邦晴航空局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:20",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:32",
+   "label": "森山裕同党国対委員長",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:38",
+   "label": "平井卓也同党広報本部長、西村官房副長官",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "欧州連合（ＥＵ）のユンケル欧州委員長と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:00",
+   "label": "エジプトのシシ大統領と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:00",
+   "label": "サウジアラビアのサルマン国王と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:01",
+   "label": "小此木八郎防災担当相 菅義偉官房長官 野上浩太郎副官房長官 杉田和博副官房長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:27",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 551
+  },
+  {
+   "start": "09:11",
+   "end": "09:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "09:26",
+   "end": "09:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "09:50",
+   "end": "10:11",
+   "category": "官邸執務",
+   "label": "非常災害対策本部会議",
+   "minutes": 21
+  },
+  {
+   "start": "10:11",
+   "end": "10:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:14",
+   "end": "10:40",
+   "category": "面会・会談",
+   "label": "河野太郎外相",
+   "minutes": 26
+  },
+  {
+   "start": "10:40",
+   "end": "10:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "10:50",
+   "end": "10:55",
+   "category": "面会・会談",
+   "label": "金杉憲治アジア大洋州局長",
+   "minutes": 5
+  },
+  {
+   "start": "10:55",
+   "end": "10:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:56",
+   "end": "11:37",
+   "category": "面会・会談",
+   "label": "河井克行自民党総裁外交特別補佐",
+   "minutes": 41
+  },
+  {
+   "start": "11:37",
+   "end": "11:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "11:48",
+   "end": "11:54",
+   "category": "党務",
+   "label": "政府与党政策懇談会",
+   "minutes": 6
+  },
+  {
+   "start": "11:54",
+   "end": "11:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:55",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "11:56",
+   "end": "13:01",
+   "category": "会食",
+   "label": "自民党の静岡県議と会食。西村康稔官房副長官同席",
+   "minutes": 65
+  },
+  {
+   "start": "13:01",
+   "end": "13:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:02",
+   "end": "13:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "13:29",
+   "end": "13:37",
+   "category": "面会・会談",
+   "label": "中村時広愛媛県知事",
+   "minutes": 8
+  },
+  {
+   "start": "13:37",
+   "end": "13:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:45",
+   "end": "14:00",
+   "category": "面会・会談",
+   "label": "自民党の二階俊博幹事長",
+   "minutes": 15
+  },
+  {
+   "start": "14:00",
+   "end": "14:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:03",
+   "end": "14:15",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 12
+  },
+  {
+   "start": "14:15",
+   "end": "14:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:16",
+   "end": "14:25",
+   "category": "面会・会談",
+   "label": "豊田硬事務次官",
+   "minutes": 9
+  },
+  {
+   "start": "14:25",
+   "end": "15:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "15:24",
+   "end": "15:29",
+   "category": "面会・会談",
+   "label": "田端浩審議官 蝦名邦晴航空局長",
+   "minutes": 5
+  },
+  {
+   "start": "15:29",
+   "end": "16:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "16:20",
+   "end": "16:40",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 20
+  },
+  {
+   "start": "16:40",
+   "end": "16:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "16:57",
+   "end": "16:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:58",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:00",
+   "end": "17:29",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 29
+  },
+  {
+   "start": "17:29",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:32",
+   "end": "17:37",
+   "category": "面会・会談",
+   "label": "森山裕同党国対委員長",
+   "minutes": 5
+  },
+  {
+   "start": "17:37",
+   "end": "17:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:38",
+   "end": "17:59",
+   "category": "面会・会談",
+   "label": "平井卓也同党広報本部長、西村官房副長官",
+   "minutes": 21
+  },
+  {
+   "start": "17:59",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:02",
+   "end": "18:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:03",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "18:30",
+   "end": "18:45",
+   "category": "面会・会談",
+   "label": "欧州連合（ＥＵ）のユンケル欧州委員長と電話会談",
+   "minutes": 15
+  },
+  {
+   "start": "18:45",
+   "end": "19:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 66
+  },
+  {
+   "start": "19:51",
+   "end": "19:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:52",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "20:00",
+   "end": "20:10",
+   "category": "面会・会談",
+   "label": "エジプトのシシ大統領と電話会談",
+   "minutes": 10
+  },
+  {
+   "start": "20:10",
+   "end": "21:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 50
+  },
+  {
+   "start": "21:00",
+   "end": "21:10",
+   "category": "面会・会談",
+   "label": "サウジアラビアのサルマン国王と電話会談",
+   "minutes": 10
+  },
+  {
+   "start": "21:10",
+   "end": "22:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 51
+  },
+  {
+   "start": "22:01",
+   "end": "22:26",
+   "category": "面会・会談",
+   "label": "小此木八郎防災担当相 菅義偉官房長官 野上浩太郎副官房長官 杉田和博副官房長官",
+   "minutes": 25
+  },
+  {
+   "start": "22:26",
+   "end": "22:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "22:27",
+   "end": "22:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "22:41",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 79
+  }
+ ],
+ "alloc_min": {
+  "居所": 732,
+  "移動": 34,
+  "公務（内容未詳）": 326,
+  "官邸執務": 41,
+  "面会・会談": 207,
+  "党務": 35,
+  "会食": 65
+ }
+}

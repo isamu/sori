@@ -1,0 +1,536 @@
+{
+ "date": "2014-12-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 849,
+ "residence_min": 591,
+ "meetings": 4,
+ "first_work": "08:43",
+ "events": [
+  {
+   "time": "08:43",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:03",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:33",
+   "label": "自民党両院議員総会",
+   "place": "国会 衆院第１４控室",
+   "category": "党務"
+  },
+  {
+   "time": "12:51",
+   "label": "同党代議士会",
+   "place": "国会 衆院第１４控室",
+   "category": "党務"
+  },
+  {
+   "time": "13:03",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:42",
+   "label": "松木謙公維新の党衆院議員",
+   "place": "国会 衆院本会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:46",
+   "label": "野田毅自民党税制調査会長",
+   "place": "国会 衆院本会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:49",
+   "label": "北側一雄公明党副代表",
+   "place": "国会 衆院本会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:51",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "15:09",
+   "label": "衆院の町村信孝、川端達夫正副議長、林幹雄議院運営委員長、与野党各会派にあいさつ回り",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:29",
+   "label": "参院の山崎正昭、輿石東正副議長、中川雅治議院運営委員長、与野党各会派にあいさつ回り",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:47",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "16:19",
+   "label": "山口那津男公明党代表と与党党首会談。自民党の谷垣禎一、公明党の井上義久両幹事長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:25",
+   "label": "組閣本部設置",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:26",
+   "label": "新閣僚の呼び込み",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:30",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:38",
+   "label": "内奏、首相親任式、閣僚認証式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:22",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "20:47",
+   "label": "閣僚に補職辞令交付",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "21:12",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:45",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "22:13",
+   "label": "閣僚と記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "22:19",
+   "label": "衛藤晟一首相補佐官らに辞令交付",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "22:27",
+   "label": "首相補佐官らと記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "22:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 523
+  },
+  {
+   "start": "08:43",
+   "end": "08:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "08:56",
+   "end": "09:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:03",
+   "end": "09:14",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "09:14",
+   "end": "12:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 193
+  },
+  {
+   "start": "12:27",
+   "end": "12:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:29",
+   "end": "12:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "12:33",
+   "end": "12:44",
+   "category": "党務",
+   "label": "自民党両院議員総会",
+   "minutes": 11
+  },
+  {
+   "start": "12:44",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "12:51",
+   "end": "12:56",
+   "category": "党務",
+   "label": "同党代議士会",
+   "minutes": 5
+  },
+  {
+   "start": "12:56",
+   "end": "13:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:03",
+   "end": "13:42",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 39
+  },
+  {
+   "start": "13:42",
+   "end": "13:43",
+   "category": "面会・会談",
+   "label": "松木謙公維新の党衆院議員",
+   "minutes": 1
+  },
+  {
+   "start": "13:43",
+   "end": "13:46",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 3
+  },
+  {
+   "start": "13:46",
+   "end": "13:47",
+   "category": "面会・会談",
+   "label": "野田毅自民党税制調査会長",
+   "minutes": 1
+  },
+  {
+   "start": "13:47",
+   "end": "13:49",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 2
+  },
+  {
+   "start": "13:49",
+   "end": "13:50",
+   "category": "面会・会談",
+   "label": "北側一雄公明党副代表",
+   "minutes": 1
+  },
+  {
+   "start": "13:50",
+   "end": "14:50",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 60
+  },
+  {
+   "start": "14:50",
+   "end": "14:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 16
+  },
+  {
+   "start": "15:07",
+   "end": "15:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:09",
+   "end": "15:28",
+   "category": "国会",
+   "label": "衆院の町村信孝、川端達夫正副議長、林幹雄議院運営委員長、与野党各会派にあいさつ回り",
+   "minutes": 19
+  },
+  {
+   "start": "15:28",
+   "end": "15:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:29",
+   "end": "15:46",
+   "category": "国会",
+   "label": "参院の山崎正昭、輿石東正副議長、中川雅治議院運営委員長、与野党各会派にあいさつ回り",
+   "minutes": 17
+  },
+  {
+   "start": "15:46",
+   "end": "15:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:47",
+   "end": "15:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:49",
+   "end": "16:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "16:19",
+   "end": "16:24",
+   "category": "面会・会談",
+   "label": "山口那津男公明党代表と与党党首会談。自民党の谷垣禎一、公明党の井上義久両幹事長同席",
+   "minutes": 5
+  },
+  {
+   "start": "16:24",
+   "end": "16:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:25",
+   "end": "16:26",
+   "category": "官邸執務",
+   "label": "組閣本部設置",
+   "minutes": 1
+  },
+  {
+   "start": "16:26",
+   "end": "16:49",
+   "category": "官邸執務",
+   "label": "新閣僚の呼び込み",
+   "minutes": 23
+  },
+  {
+   "start": "16:49",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "17:30",
+   "end": "17:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "17:38",
+   "end": "20:22",
+   "category": "式典・行事",
+   "label": "内奏、首相親任式、閣僚認証式",
+   "minutes": 164
+  },
+  {
+   "start": "20:22",
+   "end": "20:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "20:30",
+   "end": "20:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "20:47",
+   "end": "20:55",
+   "category": "式典・行事",
+   "label": "閣僚に補職辞令交付",
+   "minutes": 8
+  },
+  {
+   "start": "20:55",
+   "end": "21:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "21:12",
+   "end": "21:36",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 24
+  },
+  {
+   "start": "21:36",
+   "end": "21:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "21:45",
+   "end": "22:10",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 25
+  },
+  {
+   "start": "22:10",
+   "end": "22:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "22:13",
+   "end": "22:16",
+   "category": "式典・行事",
+   "label": "閣僚と記念撮影",
+   "minutes": 3
+  },
+  {
+   "start": "22:16",
+   "end": "22:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "22:19",
+   "end": "22:25",
+   "category": "式典・行事",
+   "label": "衛藤晟一首相補佐官らに辞令交付",
+   "minutes": 6
+  },
+  {
+   "start": "22:25",
+   "end": "22:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "22:27",
+   "end": "22:29",
+   "category": "式典・行事",
+   "label": "首相補佐官らと記念撮影",
+   "minutes": 2
+  },
+  {
+   "start": "22:29",
+   "end": "22:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "22:36",
+   "end": "22:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "22:52",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 68
+  }
+ ],
+ "alloc_min": {
+  "居所": 591,
+  "移動": 49,
+  "公務（内容未詳）": 353,
+  "官邸執務": 60,
+  "党務": 16,
+  "国会": 156,
+  "面会・会談": 8,
+  "式典・行事": 183,
+  "取材・会見": 24
+ }
+}

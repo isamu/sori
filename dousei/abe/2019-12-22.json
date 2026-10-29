@@ -1,0 +1,203 @@
+{
+ "date": "2019-12-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 483,
+ "residence_min": 957,
+ "meetings": 0,
+ "first_work": "14:31",
+ "events": [
+  {
+   "time": "14:31",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:56",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "16:03",
+   "label": "ＪＲ静岡駅",
+   "place": "ＪＲ静岡駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:06",
+   "label": "移動",
+   "place": "ＪＲ静岡駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:29",
+   "label": "故望月義夫元環境相の通夜に参列",
+   "place": "静岡市清水区 葬儀場「あいネットホール江尻台」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:49",
+   "label": "移動",
+   "place": "静岡市清水区 葬儀場「あいネットホール江尻台」",
+   "category": "移動"
+  },
+  {
+   "time": "17:04",
+   "label": "ＪＲ静岡駅",
+   "place": "ＪＲ静岡駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:40",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "18:44",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:49",
+   "label": "南館内のエグゼクティブラウンジで高橋精一郎元三井住友銀行副頭取、増岡聡一郎鉄鋼ビルディング専務、昭恵夫人らと食事",
+   "place": "東京・丸の内 鉄鋼ビルディング",
+   "category": "会食"
+  },
+  {
+   "time": "22:13",
+   "label": "移動",
+   "place": "東京・丸の内 鉄鋼ビルディング",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 871
+  },
+  {
+   "start": "14:31",
+   "end": "14:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "14:56",
+   "end": "15:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "15:03",
+   "end": "16:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "16:03",
+   "end": "16:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:06",
+   "end": "16:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "16:29",
+   "end": "16:49",
+   "category": "式典・行事",
+   "label": "故望月義夫元環境相の通夜に参列",
+   "minutes": 20
+  },
+  {
+   "start": "16:49",
+   "end": "17:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "17:04",
+   "end": "17:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "17:39",
+   "end": "18:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 61
+  },
+  {
+   "start": "18:40",
+   "end": "18:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:44",
+   "end": "18:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:49",
+   "end": "22:13",
+   "category": "会食",
+   "label": "南館内のエグゼクティブラウンジで高橋精一郎元三井住友銀行副頭取、増岡聡一郎鉄鋼ビルディング専務、昭恵夫人らと食事",
+   "minutes": 204
+  },
+  {
+   "start": "22:13",
+   "end": "22:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "22:34",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 86
+  }
+ ],
+ "alloc_min": {
+  "居所": 957,
+  "移動": 127,
+  "公務（内容未詳）": 132,
+  "式典・行事": 20,
+  "会食": 204
+ }
+}

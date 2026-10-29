@@ -1,0 +1,103 @@
+{
+ "date": "2017-12-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 49,
+ "residence_min": 1207,
+ "meetings": 0,
+ "first_work": "11:59",
+ "events": [
+  {
+   "time": "11:59",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:13",
+   "label": "同ホテル内の宴会場「オーチャードルーム」で北村滋内閣情報官の親族の結婚披露宴に出席",
+   "place": "東京・虎ノ門 ホテルオークラ別館",
+   "category": "個人"
+  },
+  {
+   "time": "15:17",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテルオークラ別館",
+   "category": "移動"
+  },
+  {
+   "time": "15:35",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "16:46",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:59",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 719
+  },
+  {
+   "start": "11:59",
+   "end": "12:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "12:13",
+   "end": "15:17",
+   "category": "個人",
+   "label": "同ホテル内の宴会場「オーチャードルーム」で北村滋内閣情報官の親族の結婚披露宴に出席",
+   "minutes": 184
+  },
+  {
+   "start": "15:17",
+   "end": "15:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "15:35",
+   "end": "16:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 71
+  },
+  {
+   "start": "16:46",
+   "end": "17:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "17:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 417
+  }
+ ],
+ "alloc_min": {
+  "居所": 1207,
+  "移動": 49,
+  "個人": 184
+ }
+}

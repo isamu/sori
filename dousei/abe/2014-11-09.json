@@ -1,0 +1,97 @@
+{
+ "date": "2014-11-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 924,
+ "residence_min": 516,
+ "meetings": 4,
+ "first_work": "08:36",
+ "events": [
+  {
+   "time": "08:36",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:16",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "甘利明経済財政担当相と面会",
+   "place": "北京市内のホテル「長富宮飯店」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "カナダのハーパー首相と会談",
+   "place": "北京市内のホテル「長富宮飯店」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "岸田文雄外相と面会",
+   "place": "北京市内のホテル「長富宮飯店」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "北京首都国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ロシアのプーチン大統領と会談",
+   "place": "釣魚台迎賓館",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 516
+  },
+  {
+   "start": "08:36",
+   "end": "09:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "09:03",
+   "end": "09:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "09:16",
+   "end": "09:19",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "09:19",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 881
+  }
+ ],
+ "alloc_min": {
+  "居所": 516,
+  "移動": 27,
+  "公務（内容未詳）": 13,
+  "取材・会見": 3,
+  "外遊": 881
+ }
+}

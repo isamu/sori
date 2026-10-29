@@ -1,0 +1,406 @@
+{
+ "date": "2016-10-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 898,
+ "residence_min": 542,
+ "meetings": 1,
+ "first_work": "07:10",
+ "events": [
+  {
+   "time": "07:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:36",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:38",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "昭恵夫人とともにベルギーのフィリップ国王夫妻の歓迎行事",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:43",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "12:01",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:03",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "麻生太郎副総理兼財務相 稲田朋美防衛相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:46",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "15:48",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:15",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "17:21",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:56",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:39",
+   "label": "昭恵夫人とともにフィリップ国王夫妻歓迎の宮中晩さん会",
+   "place": "皇居",
+   "category": "会食"
+  },
+  {
+   "time": "21:53",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 430
+  },
+  {
+   "start": "07:10",
+   "end": "07:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:22",
+   "end": "07:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "07:36",
+   "end": "08:26",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 50
+  },
+  {
+   "start": "08:26",
+   "end": "08:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:38",
+   "end": "08:44",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 6
+  },
+  {
+   "start": "08:44",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:50",
+   "end": "08:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "08:59",
+   "end": "09:43",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともにベルギーのフィリップ国王夫妻の歓迎行事",
+   "minutes": 44
+  },
+  {
+   "start": "09:43",
+   "end": "09:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "09:51",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "10:00",
+   "end": "11:59",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 119
+  },
+  {
+   "start": "11:59",
+   "end": "12:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:01",
+   "end": "12:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 51
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 稲田朋美防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "15:42",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 162
+  },
+  {
+   "start": "15:42",
+   "end": "15:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:46",
+   "end": "15:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 84
+  },
+  {
+   "start": "17:12",
+   "end": "17:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:14",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "17:17",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:21",
+   "end": "17:54",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 33
+  },
+  {
+   "start": "17:54",
+   "end": "17:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:56",
+   "end": "17:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 33
+  },
+  {
+   "start": "18:31",
+   "end": "18:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:39",
+   "end": "21:53",
+   "category": "会食",
+   "label": "昭恵夫人とともにフィリップ国王夫妻歓迎の宮中晩さん会",
+   "minutes": 194
+  },
+  {
+   "start": "21:53",
+   "end": "22:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "22:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 112
+  }
+ ],
+ "alloc_min": {
+  "居所": 542,
+  "移動": 62,
+  "公務（内容未詳）": 57,
+  "面会・会談": 50,
+  "官邸執務": 174,
+  "式典・行事": 44,
+  "国会": 317,
+  "会食": 194
+ }
+}

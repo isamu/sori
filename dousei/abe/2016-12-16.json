@@ -1,0 +1,373 @@
+{
+ "date": "2016-12-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1434,
+ "residence_min": 6,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "10:24",
+   "label": "山口宇部空港",
+   "place": "山口宇部空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:42",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "13:48",
+   "label": "ロシアのプーチン大統領を出迎え",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:50",
+   "label": "プーチン大統領と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:32",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:34",
+   "label": "文書交換式、共同記者会見",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:31",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:41",
+   "label": "プーチン大統領と「日露ビジネス対話」の全体会合に出席し、あいさつ",
+   "place": "東京・大手町 経団連会館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:19",
+   "label": "移動",
+   "place": "東京・大手町 経団連会館",
+   "category": "移動"
+  },
+  {
+   "time": "17:26",
+   "label": "プーチン大統領、森喜朗元首相、山下泰裕全日本柔道連盟副会長と柔術の演武を見学。懇談",
+   "place": "東京・春日 講道館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:07",
+   "label": "移動",
+   "place": "東京・春日 講道館",
+   "category": "移動"
+  },
+  {
+   "time": "18:16",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:20",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:27",
+   "label": "同ホテル内の中国料理店「大観苑」で長谷川栄一首相補佐官、秘書官と食事",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "会食"
+  },
+  {
+   "time": "20:25",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "21:00",
+   "label": "報道番組に出演",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:29",
+   "label": "移動",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "移動"
+  },
+  {
+   "time": "22:02",
+   "label": "報道番組に出演",
+   "place": "東京・六本木 テレビ朝日",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:29",
+   "label": "移動",
+   "place": "東京・六本木 テレビ朝日",
+   "category": "移動"
+  },
+  {
+   "time": "23:32",
+   "label": "報道番組に出演",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 624
+  },
+  {
+   "start": "10:24",
+   "end": "10:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "10:43",
+   "end": "11:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "11:42",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "11:56",
+   "end": "12:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "12:15",
+   "end": "13:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 93
+  },
+  {
+   "start": "13:48",
+   "end": "13:50",
+   "category": "式典・行事",
+   "label": "ロシアのプーチン大統領を出迎え",
+   "minutes": 2
+  },
+  {
+   "start": "13:50",
+   "end": "15:02",
+   "category": "面会・会談",
+   "label": "プーチン大統領と首脳会談",
+   "minutes": 72
+  },
+  {
+   "start": "15:02",
+   "end": "15:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "15:32",
+   "end": "15:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:33",
+   "end": "15:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:34",
+   "end": "16:25",
+   "category": "取材・会見",
+   "label": "文書交換式、共同記者会見",
+   "minutes": 51
+  },
+  {
+   "start": "16:25",
+   "end": "16:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 6
+  },
+  {
+   "start": "16:31",
+   "end": "16:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "16:41",
+   "end": "17:19",
+   "category": "式典・行事",
+   "label": "プーチン大統領と「日露ビジネス対話」の全体会合に出席し、あいさつ",
+   "minutes": 38
+  },
+  {
+   "start": "17:19",
+   "end": "17:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "17:26",
+   "end": "18:07",
+   "category": "面会・会談",
+   "label": "プーチン大統領、森喜朗元首相、山下泰裕全日本柔道連盟副会長と柔術の演武を見学。懇談",
+   "minutes": 41
+  },
+  {
+   "start": "18:07",
+   "end": "18:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 64
+  },
+  {
+   "start": "19:20",
+   "end": "19:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "19:27",
+   "end": "20:25",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「大観苑」で長谷川栄一首相補佐官、秘書官と食事",
+   "minutes": 58
+  },
+  {
+   "start": "20:25",
+   "end": "20:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "20:40",
+   "end": "21:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "21:00",
+   "end": "21:25",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 25
+  },
+  {
+   "start": "21:25",
+   "end": "21:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "21:29",
+   "end": "21:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "21:42",
+   "end": "22:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "22:02",
+   "end": "22:25",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 23
+  },
+  {
+   "start": "22:25",
+   "end": "22:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "22:29",
+   "end": "22:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "22:39",
+   "end": "23:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "23:32",
+   "end": "24:00",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 28
+  }
+ ],
+ "alloc_min": {
+  "公務（内容未詳）": 908,
+  "移動": 124,
+  "式典・行事": 40,
+  "面会・会談": 113,
+  "取材・会見": 127,
+  "居所": 6,
+  "官邸執務": 64,
+  "会食": 58
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "date": "2018-11-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 111,
+ "residence_min": 1221,
+ "meetings": 0,
+ "first_work": "13:26",
+ "events": [
+  {
+   "time": "13:26",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:39",
+   "label": "特別展「躍動する明治－近代日本の幕開け－」鑑賞",
+   "place": "東京・北の丸公園 国立公文書館",
+   "category": "個人"
+  },
+  {
+   "time": "13:58",
+   "label": "移動",
+   "place": "東京・北の丸公園 国立公文書館",
+   "category": "移動"
+  },
+  {
+   "time": "14:21",
+   "label": "参拝。参拝者らと写真撮影、握手",
+   "place": "東京・代々木神園町 明治神宮",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:54",
+   "label": "報道各社のインタビュー",
+   "place": "東京・代々木神園町 明治神宮",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:05",
+   "label": "移動",
+   "place": "東京・代々木神園町 明治神宮",
+   "category": "移動"
+  },
+  {
+   "time": "15:17",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "16:50",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 806
+  },
+  {
+   "start": "13:26",
+   "end": "13:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "13:39",
+   "end": "13:54",
+   "category": "個人",
+   "label": "特別展「躍動する明治－近代日本の幕開け－」鑑賞",
+   "minutes": 15
+  },
+  {
+   "start": "13:54",
+   "end": "13:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:58",
+   "end": "14:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "14:21",
+   "end": "14:54",
+   "category": "式典・行事",
+   "label": "参拝。参拝者らと写真撮影、握手",
+   "minutes": 33
+  },
+  {
+   "start": "14:54",
+   "end": "15:05",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 11
+  },
+  {
+   "start": "15:05",
+   "end": "15:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "15:17",
+   "end": "16:50",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 93
+  },
+  {
+   "start": "16:50",
+   "end": "17:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "17:05",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 415
+  }
+ ],
+ "alloc_min": {
+  "居所": 1221,
+  "移動": 63,
+  "個人": 108,
+  "公務（内容未詳）": 4,
+  "式典・行事": 33,
+  "取材・会見": 11
+ }
+}

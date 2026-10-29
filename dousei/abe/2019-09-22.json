@@ -1,0 +1,44 @@
+{
+ "date": "2019-09-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 15,
+ "residence_min": 1425,
+ "meetings": 1,
+ "first_work": "21:23",
+ "events": [
+  {
+   "time": "21:23",
+   "label": "松崎勲森永商事社長",
+   "place": "私邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "21:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1283
+  },
+  {
+   "start": "21:23",
+   "end": "21:38",
+   "category": "面会・会談",
+   "label": "松崎勲森永商事社長",
+   "minutes": 15
+  },
+  {
+   "start": "21:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 142
+  }
+ ],
+ "alloc_min": {
+  "居所": 1425,
+  "面会・会談": 15
+ }
+}

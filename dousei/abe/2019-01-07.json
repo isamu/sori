@@ -1,0 +1,323 @@
+{
+ "date": "2019-01-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 718,
+ "residence_min": 722,
+ "meetings": 0,
+ "first_work": "09:26",
+ "events": [
+  {
+   "time": "09:26",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:22",
+   "label": "沿道の人々と握手。萩生田光一自民党幹事長代行同行",
+   "place": "東京都八王子市 南浅川橋",
+   "category": "党務"
+  },
+  {
+   "time": "10:26",
+   "label": "移動",
+   "place": "東京都八王子市 南浅川橋",
+   "category": "移動"
+  },
+  {
+   "time": "10:28",
+   "label": "昭和天皇３０年式年祭・山陵の儀に参列",
+   "place": "同市 武蔵野陵",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:01",
+   "label": "移動",
+   "place": "同市 武蔵野陵",
+   "category": "移動"
+  },
+  {
+   "time": "13:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:02",
+   "label": "同ホテル内の宴会場「孔雀の間」で経済３団体共催の新年祝賀パーティーに出席し、あいさつ",
+   "place": "東京・内幸町 帝国ホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:36",
+   "label": "移動",
+   "place": "東京・内幸町 帝国ホテル",
+   "category": "移動"
+  },
+  {
+   "time": "14:58",
+   "label": "党新年仕事始めに出席し、あいさつ",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "15:33",
+   "label": "党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "15:59",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "16:01",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:58",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "同ホテル内の宴会場「富士の間」で時事通信社、内外情勢調査会など主催の新年互礼会に出席し、あいさつ",
+   "place": "帝国ホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:32",
+   "label": "移動",
+   "place": "帝国ホテル",
+   "category": "移動"
+  },
+  {
+   "time": "17:38",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:44",
+   "label": "竹中平蔵元総務相らと会食",
+   "place": "東京・赤坂 ふぐ料理店「い津み」",
+   "category": "会食"
+  },
+  {
+   "time": "21:08",
+   "label": "移動",
+   "place": "東京・赤坂 ふぐ料理店「い津み」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 566
+  },
+  {
+   "start": "09:26",
+   "end": "10:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 56
+  },
+  {
+   "start": "10:22",
+   "end": "10:26",
+   "category": "党務",
+   "label": "沿道の人々と握手。萩生田光一自民党幹事長代行同行",
+   "minutes": 4
+  },
+  {
+   "start": "10:26",
+   "end": "10:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:28",
+   "end": "12:01",
+   "category": "式典・行事",
+   "label": "昭和天皇３０年式年祭・山陵の儀に参列",
+   "minutes": 93
+  },
+  {
+   "start": "12:01",
+   "end": "13:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 69
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 45
+  },
+  {
+   "start": "13:55",
+   "end": "14:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:02",
+   "end": "14:36",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「孔雀の間」で経済３団体共催の新年祝賀パーティーに出席し、あいさつ",
+   "minutes": 34
+  },
+  {
+   "start": "14:36",
+   "end": "14:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "14:44",
+   "end": "14:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "14:58",
+   "end": "15:18",
+   "category": "党務",
+   "label": "党新年仕事始めに出席し、あいさつ",
+   "minutes": 20
+  },
+  {
+   "start": "15:18",
+   "end": "15:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "15:33",
+   "end": "15:57",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 24
+  },
+  {
+   "start": "15:57",
+   "end": "15:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:59",
+   "end": "16:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 57
+  },
+  {
+   "start": "16:58",
+   "end": "17:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "17:02",
+   "end": "17:32",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「富士の間」で時事通信社、内外情勢調査会など主催の新年互礼会に出席し、あいさつ",
+   "minutes": 30
+  },
+  {
+   "start": "17:32",
+   "end": "17:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 58
+  },
+  {
+   "start": "18:36",
+   "end": "18:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:44",
+   "end": "21:08",
+   "category": "会食",
+   "label": "竹中平蔵元総務相らと会食",
+   "minutes": 144
+  },
+  {
+   "start": "21:08",
+   "end": "21:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "21:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 156
+  }
+ ],
+ "alloc_min": {
+  "居所": 722,
+  "移動": 178,
+  "党務": 48,
+  "式典・行事": 157,
+  "官邸執務": 160,
+  "公務（内容未詳）": 31,
+  "会食": 144
+ }
+}

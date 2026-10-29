@@ -1,0 +1,348 @@
+{
+ "date": "2018-03-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1098,
+ "residence_min": 342,
+ "meetings": 2,
+ "first_work": "00:04",
+ "events": [
+  {
+   "time": "00:04",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "00:08",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "07:12",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "07:20",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:56",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:59",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:03",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:21",
+   "label": "第2回国際宇宙探査フォーラム向けビデオメッセージ収録",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:42",
+   "label": "山本順三自民党愛媛県連会長らから要望書受け取り",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "18:00",
+   "label": "吉川貴盛同党北海道連会長らから要望書受け取り",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:21",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 4
+  },
+  {
+   "start": "00:04",
+   "end": "00:07",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "00:07",
+   "end": "00:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "00:08",
+   "end": "00:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "00:09",
+   "end": "07:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 423
+  },
+  {
+   "start": "07:12",
+   "end": "07:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "07:14",
+   "end": "07:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:20",
+   "end": "08:21",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 61
+  },
+  {
+   "start": "08:21",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:50",
+   "end": "08:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:56",
+   "end": "11:56",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 180
+  },
+  {
+   "start": "11:56",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:59",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 54
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "17:00",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 240
+  },
+  {
+   "start": "17:00",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:03",
+   "end": "17:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:05",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "17:21",
+   "end": "17:27",
+   "category": "官邸執務",
+   "label": "第2回国際宇宙探査フォーラム向けビデオメッセージ収録",
+   "minutes": 6
+  },
+  {
+   "start": "17:27",
+   "end": "17:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "17:42",
+   "end": "17:50",
+   "category": "党務",
+   "label": "山本順三自民党愛媛県連会長らから要望書受け取り",
+   "minutes": 8
+  },
+  {
+   "start": "17:50",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "18:00",
+   "end": "18:13",
+   "category": "面会・会談",
+   "label": "吉川貴盛同党北海道連会長らから要望書受け取り",
+   "minutes": 13
+  },
+  {
+   "start": "18:13",
+   "end": "18:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "18:21",
+   "end": "18:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 338
+  }
+ ],
+ "alloc_min": {
+  "居所": 342,
+  "取材・会見": 3,
+  "公務（内容未詳）": 522,
+  "移動": 10,
+  "面会・会談": 74,
+  "国会": 421,
+  "官邸執務": 60,
+  "党務": 8
+ }
+}

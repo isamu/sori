@@ -1,0 +1,77 @@
+{
+ "date": "2015-08-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 261,
+ "residence_min": 1179,
+ "meetings": 0,
+ "first_work": "17:14",
+ "events": [
+  {
+   "time": "17:14",
+   "label": "移動",
+   "place": "同県鳴沢村 別荘",
+   "category": "移動"
+  },
+  {
+   "time": "17:22",
+   "label": "母親の洋子さんと食事",
+   "place": "同県富士河口湖町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "会食"
+  },
+  {
+   "time": "19:36",
+   "label": "移動",
+   "place": "同県富士河口湖町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1034
+  },
+  {
+   "start": "17:14",
+   "end": "17:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "17:22",
+   "end": "19:36",
+   "category": "会食",
+   "label": "母親の洋子さんと食事",
+   "minutes": 134
+  },
+  {
+   "start": "19:36",
+   "end": "21:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 119
+  },
+  {
+   "start": "21:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 145
+  }
+ ],
+ "alloc_min": {
+  "居所": 1179,
+  "移動": 127,
+  "会食": 134
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "date": "2015-02-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 64,
+ "residence_min": 1208,
+ "meetings": 0,
+ "first_work": "11:58",
+ "events": [
+  {
+   "time": "11:58",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:07",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "個人"
+  },
+  {
+   "time": "14:55",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": "15:19",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "16:01",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:15",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:41",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 718
+  },
+  {
+   "start": "11:58",
+   "end": "12:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "12:07",
+   "end": "14:55",
+   "category": "個人",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "minutes": 168
+  },
+  {
+   "start": "14:55",
+   "end": "15:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "15:19",
+   "end": "16:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 42
+  },
+  {
+   "start": "16:01",
+   "end": "16:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "16:15",
+   "end": "18:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 146
+  },
+  {
+   "start": "18:41",
+   "end": "18:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "18:58",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 302
+  }
+ ],
+ "alloc_min": {
+  "居所": 1208,
+  "移動": 64,
+  "個人": 168
+ }
+}

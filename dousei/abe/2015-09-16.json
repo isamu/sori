@@ -1,0 +1,276 @@
+{
+ "date": "2015-09-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 866,
+ "residence_min": 574,
+ "meetings": 4,
+ "first_work": "09:34",
+ "events": [
+  {
+   "time": "09:34",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:35",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:30",
+   "label": "山口那津男公明党代表、松田公太日本を元気にする会代表、中山恭子次世代の党次期党首、荒井広幸新党改革代表と５党党首会談",
+   "place": "国会 常任委員長室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:53",
+   "label": "移動",
+   "place": "国会 常任委員長室",
+   "category": "移動"
+  },
+  {
+   "time": "10:56",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:02",
+   "label": "自民党近畿ブロック両院議員会の二階俊博会長らによるリニア中央新幹線に関する申し入れ",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "14:23",
+   "label": "岸田文雄外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:55",
+   "label": "河井克行自民党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:59",
+   "label": "吉田博美自民党参院国対委員長",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:43",
+   "label": "国会 参院第１委員会室",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "23:10",
+   "label": "世耕弘成官房副長官 菅義偉官房長官",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 574
+  },
+  {
+   "start": "09:34",
+   "end": "09:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 51
+  },
+  {
+   "start": "10:26",
+   "end": "10:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:28",
+   "end": "10:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:30",
+   "end": "10:52",
+   "category": "面会・会談",
+   "label": "山口那津男公明党代表、松田公太日本を元気にする会代表、中山恭子次世代の党次期党首、荒井広幸新党改革代表と５党党首会談",
+   "minutes": 22
+  },
+  {
+   "start": "10:52",
+   "end": "10:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:53",
+   "end": "10:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:55",
+   "end": "10:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:56",
+   "end": "10:57",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "10:57",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 185
+  },
+  {
+   "start": "14:02",
+   "end": "14:21",
+   "category": "党務",
+   "label": "自民党近畿ブロック両院議員会の二階俊博会長らによるリニア中央新幹線に関する申し入れ",
+   "minutes": 19
+  },
+  {
+   "start": "14:21",
+   "end": "14:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:23",
+   "end": "14:48",
+   "category": "面会・会談",
+   "label": "岸田文雄外相",
+   "minutes": 25
+  },
+  {
+   "start": "14:48",
+   "end": "14:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "14:55",
+   "end": "15:18",
+   "category": "面会・会談",
+   "label": "河井克行自民党衆院議員",
+   "minutes": 23
+  },
+  {
+   "start": "15:18",
+   "end": "18:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 215
+  },
+  {
+   "start": "18:53",
+   "end": "18:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:54",
+   "end": "18:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:59",
+   "end": "19:36",
+   "category": "面会・会談",
+   "label": "吉田博美自民党参院国対委員長",
+   "minutes": 37
+  },
+  {
+   "start": "19:36",
+   "end": "20:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 144
+  },
+  {
+   "start": "23:07",
+   "end": "23:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "23:10",
+   "end": "23:43",
+   "category": "国会",
+   "label": "世耕弘成官房副長官 菅義偉官房長官",
+   "minutes": 33
+  },
+  {
+   "start": "23:43",
+   "end": "24:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  }
+ ],
+ "alloc_min": {
+  "居所": 574,
+  "移動": 6,
+  "官邸執務": 51,
+  "公務（内容未詳）": 505,
+  "面会・会談": 107,
+  "取材・会見": 1,
+  "党務": 19,
+  "国会": 177
+ }
+}

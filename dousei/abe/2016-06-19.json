@@ -1,0 +1,407 @@
+{
+ "date": "2016-06-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 772,
+ "residence_min": 614,
+ "meetings": 1,
+ "first_work": "06:48",
+ "events": [
+  {
+   "time": "06:48",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:33",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:30",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "討論番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:20",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "10:22",
+   "label": "自民党本部",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:46",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:29",
+   "label": "街頭演説",
+   "place": "ＪＲ船橋駅前",
+   "category": "党務"
+  },
+  {
+   "time": "12:18",
+   "label": "桜田義孝自民党衆院議員らと昼食",
+   "place": "千葉県市川市 料理店「味のうえだ南店山荘」",
+   "category": "会食"
+  },
+  {
+   "time": "13:06",
+   "label": "街頭演説",
+   "place": "ＪＲ市川駅前",
+   "category": "党務"
+  },
+  {
+   "time": "13:41",
+   "label": "移動",
+   "place": "ＪＲ市川駅前",
+   "category": "移動"
+  },
+  {
+   "time": "14:17",
+   "label": "北村滋内閣情報官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:21",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:16",
+   "label": "街頭演説",
+   "place": "ＪＲ吉祥寺駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:03",
+   "label": "移動",
+   "place": "ＪＲ吉祥寺駅前",
+   "category": "移動"
+  },
+  {
+   "time": "17:36",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "18:30",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": "18:43",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "19:22",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:02",
+   "label": "インターネットの動画サービス「ニコニコ」など主催の党首討論会に出席",
+   "place": "東京・六本木 ライブハウス「ニコファーレ」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:21",
+   "label": "同サービス向けの参院選ビデオメッセージ収録",
+   "place": "東京・六本木 ライブハウス「ニコファーレ」",
+   "category": "官邸執務"
+  },
+  {
+   "time": "21:33",
+   "label": "移動",
+   "place": "東京・六本木 ライブハウス「ニコファーレ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 408
+  },
+  {
+   "start": "06:48",
+   "end": "07:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "07:05",
+   "end": "07:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "07:33",
+   "end": "08:27",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 54
+  },
+  {
+   "start": "08:27",
+   "end": "08:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:30",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "08:51",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "09:00",
+   "end": "10:15",
+   "category": "取材・会見",
+   "label": "討論番組に出演",
+   "minutes": 75
+  },
+  {
+   "start": "10:15",
+   "end": "10:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "10:20",
+   "end": "10:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "党務",
+   "label": null,
+   "minutes": 24
+  },
+  {
+   "start": "10:46",
+   "end": "11:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 43
+  },
+  {
+   "start": "11:29",
+   "end": "12:00",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "12:00",
+   "end": "12:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "12:18",
+   "end": "12:52",
+   "category": "会食",
+   "label": "桜田義孝自民党衆院議員らと昼食",
+   "minutes": 34
+  },
+  {
+   "start": "12:52",
+   "end": "13:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "13:06",
+   "end": "13:41",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "13:41",
+   "end": "14:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "14:16",
+   "end": "14:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:17",
+   "end": "14:47",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 30
+  },
+  {
+   "start": "14:47",
+   "end": "15:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 34
+  },
+  {
+   "start": "15:21",
+   "end": "16:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 55
+  },
+  {
+   "start": "16:16",
+   "end": "17:03",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 47
+  },
+  {
+   "start": "17:03",
+   "end": "17:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "17:36",
+   "end": "18:30",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 54
+  },
+  {
+   "start": "18:30",
+   "end": "18:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "18:43",
+   "end": "19:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 39
+  },
+  {
+   "start": "19:22",
+   "end": "19:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "19:34",
+   "end": "20:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "20:02",
+   "end": "21:19",
+   "category": "取材・会見",
+   "label": "インターネットの動画サービス「ニコニコ」など主催の党首討論会に出席",
+   "minutes": 77
+  },
+  {
+   "start": "21:19",
+   "end": "21:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "21:21",
+   "end": "21:31",
+   "category": "官邸執務",
+   "label": "同サービス向けの参院選ビデオメッセージ収録",
+   "minutes": 10
+  },
+  {
+   "start": "21:31",
+   "end": "21:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "21:33",
+   "end": "21:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "21:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 133
+  }
+ ],
+ "alloc_min": {
+  "居所": 614,
+  "移動": 245,
+  "公務（内容未詳）": 110,
+  "取材・会見": 206,
+  "党務": 137,
+  "会食": 34,
+  "面会・会談": 30,
+  "個人": 54,
+  "官邸執務": 10
+ }
+}

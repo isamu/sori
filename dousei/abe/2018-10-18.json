@@ -1,0 +1,83 @@
+{
+ "date": "2018-10-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 4,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "国連教育科学文化機関（ユネスコ）のアズレ事務局長と会談",
+   "place": "パリ日本文化会館",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "「縄文－日本における美の誕生」展を視察",
+   "place": "パリ日本文化会館",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ワーウィック・ブリュッセル・グランプラス",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "夕食会",
+   "place": "王立美術歴史博物館",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "アジア欧州会議（ＡＳＥＭ）首脳会議開会式",
+   "place": "ベルギー・ブリュッセルの欧州連合（ＥＵ）本部",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ドイツのメルケル首相と会談",
+   "place": "ベルギー・ブリュッセルの欧州連合（ＥＵ）本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＥＵのユンケル欧州委員長と会談",
+   "place": "ベルギー・ブリュッセルの欧州連合（ＥＵ）本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同国のペレグリニ首相、チェコのバビシュ首相、ポーランドのモラウィエツキ首相、ハンガリーのオルバン首相と会談",
+   "place": "ブリュッセルのスロバキア政府代表部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ベルギー・ブリュッセル郊外のメルスブルク空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "パリ郊外のオルリ空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

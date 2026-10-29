@@ -1,0 +1,130 @@
+{
+ "date": "2016-05-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 122,
+ "residence_min": 1190,
+ "meetings": 0,
+ "first_work": "08:45",
+ "events": [
+  {
+   "time": "08:45",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "実践倫理宏正会創立70周年記念式典に出席",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:22",
+   "label": "移動",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "移動"
+  },
+  {
+   "time": "10:37",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:47",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:49",
+   "label": "同氏の長男の結婚披露宴に出席",
+   "place": "東京・神山町 麻生太郎副総理兼財務相の自宅",
+   "category": "個人"
+  },
+  {
+   "time": "14:57",
+   "label": "移動",
+   "place": "東京・神山町 麻生太郎副総理兼財務相の自宅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 525
+  },
+  {
+   "start": "08:45",
+   "end": "08:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "08:58",
+   "end": "10:22",
+   "category": "式典・行事",
+   "label": "実践倫理宏正会創立70周年記念式典に出席",
+   "minutes": 84
+  },
+  {
+   "start": "10:22",
+   "end": "10:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "10:37",
+   "end": "12:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 130
+  },
+  {
+   "start": "12:47",
+   "end": "12:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:49",
+   "end": "14:57",
+   "category": "個人",
+   "label": "同氏の長男の結婚披露宴に出席",
+   "minutes": 128
+  },
+  {
+   "start": "14:57",
+   "end": "15:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "15:05",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 535
+  }
+ ],
+ "alloc_min": {
+  "居所": 1190,
+  "移動": 38,
+  "式典・行事": 84,
+  "個人": 128
+ }
+}

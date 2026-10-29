@@ -1,0 +1,64 @@
+{
+ "date": "2014-06-15",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2014.06.15",
+ "work_min": 11,
+ "residence_min": 1358,
+ "meetings": 0,
+ "first_work": "08:41",
+ "events": [
+  {
+   "time": "08:41",
+   "label": "私邸発",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:52",
+   "label": "東京・西新宿のホテル「ヒルトン東京」。村儀理容室で散髪",
+   "place": "ホテル「ヒルトン東京」",
+   "category": "個人"
+  },
+  {
+   "time": "10:03",
+   "label": "公邸。公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 521
+  },
+  {
+   "start": "08:41",
+   "end": "08:52",
+   "category": "移動",
+   "label": "私邸発",
+   "minutes": 11
+  },
+  {
+   "start": "08:52",
+   "end": "10:03",
+   "category": "個人",
+   "label": "東京・西新宿のホテル「ヒルトン東京」。村儀理容室で散髪",
+   "minutes": 71
+  },
+  {
+   "start": "10:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 837
+  }
+ ],
+ "alloc_min": {
+  "居所": 1358,
+  "移動": 11,
+  "個人": 71
+ }
+}

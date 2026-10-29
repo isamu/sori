@@ -1,0 +1,100 @@
+{
+ "date": "2018-02-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1339,
+ "residence_min": 101,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "日本選手団を激励",
+   "place": "韓国・平昌にある平昌冬季五輪の選手村",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "韓国・襄陽の襄陽空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "アイスホッケー女子の日本対スウェーデン戦を観戦",
+   "place": "アイスホッケー競技会場",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日本選手団を激励",
+   "place": "選手村",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "視察",
+   "place": "江陵のジャパンハウス",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "日本オリンピック委員会など主催のレセプションに出席",
+   "place": "江陵のジャパンハウス",
+   "category": "式典・行事"
+  },
+  {
+   "time": "21:40",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:54",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "21:40",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1300
+  },
+  {
+   "start": "21:40",
+   "end": "21:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "21:54",
+   "end": "22:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "22:19",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 101
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1300,
+  "移動": 39,
+  "居所": 101
+ }
+}

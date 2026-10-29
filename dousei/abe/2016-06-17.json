@@ -1,0 +1,366 @@
+{
+ "date": "2016-06-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 843,
+ "residence_min": 597,
+ "meetings": 1,
+ "first_work": "07:29",
+ "events": [
+  {
+   "time": "07:29",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:46",
+   "label": "国家安全保障会議の9大臣会合",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "07:57",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:09",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:24",
+   "label": "西川正郎新事務次官 松山健士旧事務次官 佐藤文俊新事務次官 桜井俊旧事務次官 佐藤慎一新事務次官 田中一穂旧事務次官 奥原正明新事務次官 本川一善旧事務次官 小林正明新事務次官 関荘一郎旧事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:47",
+   "label": "参院選比例代表の政見放送収録",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "党務"
+  },
+  {
+   "time": "10:43",
+   "label": "移動",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "移動"
+  },
+  {
+   "time": "11:17",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:33",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "街頭演説",
+   "place": "大阪市北区 家電量販店「ヨドバシカメラ　マルチメディア梅田」前",
+   "category": "党務"
+  },
+  {
+   "time": "14:37",
+   "label": "街頭演説",
+   "place": "ＪＲ石山駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "15:36",
+   "label": "街頭演説",
+   "place": "ＪＲ草津駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "16:49",
+   "label": "街頭演説",
+   "place": "滋賀県近江八幡市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "18:06",
+   "label": "街頭演説",
+   "place": "同県彦根市 スーパー「パリヤ」前",
+   "category": "党務"
+  },
+  {
+   "time": "18:46",
+   "label": "ＪＲ米原駅",
+   "place": "ＪＲ米原駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:10",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:14",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 449
+  },
+  {
+   "start": "07:29",
+   "end": "07:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "07:40",
+   "end": "07:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:46",
+   "end": "07:50",
+   "category": "官邸執務",
+   "label": "国家安全保障会議の9大臣会合",
+   "minutes": 4
+  },
+  {
+   "start": "07:50",
+   "end": "07:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:57",
+   "end": "08:04",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 7
+  },
+  {
+   "start": "08:04",
+   "end": "08:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:09",
+   "end": "08:21",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 12
+  },
+  {
+   "start": "08:21",
+   "end": "08:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:24",
+   "end": "08:28",
+   "category": "面会・会談",
+   "label": "西川正郎新事務次官 松山健士旧事務次官 佐藤文俊新事務次官 桜井俊旧事務次官 佐藤慎一新事務次官 田中一穂旧事務次官 奥原正明新事務次官 本川一善旧事務次官 小林正明新事務次官 関荘一郎旧事務次官",
+   "minutes": 4
+  },
+  {
+   "start": "08:28",
+   "end": "08:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:31",
+   "end": "08:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "08:47",
+   "end": "10:43",
+   "category": "党務",
+   "label": "参院選比例代表の政見放送収録",
+   "minutes": 116
+  },
+  {
+   "start": "10:43",
+   "end": "11:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "11:17",
+   "end": "11:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "11:47",
+   "end": "12:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "12:33",
+   "end": "12:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "12:40",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "12:58",
+   "end": "13:31",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "13:31",
+   "end": "14:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 66
+  },
+  {
+   "start": "14:37",
+   "end": "15:05",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "15:05",
+   "end": "15:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "15:36",
+   "end": "16:08",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "16:08",
+   "end": "16:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "16:49",
+   "end": "17:18",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "17:18",
+   "end": "18:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "18:06",
+   "end": "18:25",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 19
+  },
+  {
+   "start": "18:25",
+   "end": "18:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "18:46",
+   "end": "18:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "18:58",
+   "end": "21:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 132
+  },
+  {
+   "start": "21:10",
+   "end": "21:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "21:14",
+   "end": "21:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "21:32",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 148
+  }
+ ],
+ "alloc_min": {
+  "居所": 597,
+  "移動": 128,
+  "公務（内容未詳）": 431,
+  "官邸執務": 23,
+  "面会・会談": 4,
+  "党務": 257
+ }
+}

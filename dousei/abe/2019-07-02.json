@@ -1,0 +1,328 @@
+{
+ "date": "2019-07-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 698,
+ "residence_min": 742,
+ "meetings": 2,
+ "first_work": "09:22",
+ "events": [
+  {
+   "time": "09:22",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:26",
+   "label": "山本順三防災担当相 海堀安喜政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:43",
+   "label": "６月下旬からの大雨・山形県沖を震源とする地震に関する関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:01",
+   "label": "甘利明同党選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:21",
+   "label": "萩生田光一同党幹事長代行",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:51",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "14:01",
+   "label": "安全功労者表彰式",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:43",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "参院選比例代表の政見放送収録",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "党務"
+  },
+  {
+   "time": "17:00",
+   "label": "移動",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "移動"
+  },
+  {
+   "time": "17:42",
+   "label": "谷内正太郎国家安全保障局長 宮川正内閣衛星情報センター所長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:23",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:26",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "20:40",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 562
+  },
+  {
+   "start": "09:22",
+   "end": "09:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:23",
+   "end": "09:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:26",
+   "end": "09:36",
+   "category": "面会・会談",
+   "label": "山本順三防災担当相 海堀安喜政策統括官",
+   "minutes": 10
+  },
+  {
+   "start": "09:36",
+   "end": "09:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:43",
+   "end": "09:56",
+   "category": "官邸執務",
+   "label": "６月下旬からの大雨・山形県沖を震源とする地震に関する関係閣僚会議",
+   "minutes": 13
+  },
+  {
+   "start": "09:56",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "10:01",
+   "end": "10:19",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 18
+  },
+  {
+   "start": "10:19",
+   "end": "10:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "10:57",
+   "end": "10:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:59",
+   "end": "11:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:01",
+   "end": "11:20",
+   "category": "党務",
+   "label": "甘利明同党選対委員長",
+   "minutes": 19
+  },
+  {
+   "start": "11:20",
+   "end": "11:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:21",
+   "end": "11:49",
+   "category": "党務",
+   "label": "萩生田光一同党幹事長代行",
+   "minutes": 28
+  },
+  {
+   "start": "11:49",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:51",
+   "end": "11:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:53",
+   "end": "14:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 128
+  },
+  {
+   "start": "14:01",
+   "end": "14:17",
+   "category": "式典・行事",
+   "label": "安全功労者表彰式",
+   "minutes": 16
+  },
+  {
+   "start": "14:17",
+   "end": "14:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "14:43",
+   "end": "15:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "15:00",
+   "end": "17:00",
+   "category": "党務",
+   "label": "参院選比例代表の政見放送収録",
+   "minutes": 120
+  },
+  {
+   "start": "17:00",
+   "end": "17:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "17:20",
+   "end": "17:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "17:42",
+   "end": "17:51",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 宮川正内閣衛星情報センター所長 北村滋内閣情報官",
+   "minutes": 9
+  },
+  {
+   "start": "17:51",
+   "end": "18:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "18:23",
+   "end": "18:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:26",
+   "end": "20:40",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "minutes": 134
+  },
+  {
+   "start": "20:40",
+   "end": "21:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 180
+  }
+ ],
+ "alloc_min": {
+  "居所": 742,
+  "移動": 65,
+  "公務（内容未詳）": 266,
+  "面会・会談": 19,
+  "官邸執務": 31,
+  "党務": 167,
+  "式典・行事": 16,
+  "会食": 134
+ }
+}

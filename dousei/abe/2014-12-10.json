@@ -1,0 +1,273 @@
+{
+ "date": "2014-12-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 891,
+ "residence_min": 549,
+ "meetings": 0,
+ "first_work": "07:02",
+ "events": [
+  {
+   "time": "07:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "鈴木英敬三重県知事出迎え",
+   "place": "近鉄四日市駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:02",
+   "label": "街頭演説",
+   "place": "三重県四日市市 四日市市民公園",
+   "category": "党務"
+  },
+  {
+   "time": "11:59",
+   "label": "街頭演説",
+   "place": "京都市山科区 京阪山科駅前",
+   "category": "党務"
+  },
+  {
+   "time": "13:05",
+   "label": "街頭演説",
+   "place": "同市右京区 自民党衆院選立候補者の事務所前",
+   "category": "党務"
+  },
+  {
+   "time": "14:17",
+   "label": "街頭演説",
+   "place": "近鉄桃山御陵前駅前",
+   "category": "党務"
+  },
+  {
+   "time": "15:06",
+   "label": "街頭演説",
+   "place": "ＪＲ宇治駅前",
+   "category": "党務"
+  },
+  {
+   "time": "16:29",
+   "label": "街頭演説",
+   "place": "ＪＲ奈良駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "17:53",
+   "label": "街頭演説",
+   "place": "大阪市中央区 百貨店「高島屋大阪店」前",
+   "category": "党務"
+  },
+  {
+   "time": "18:45",
+   "label": "街頭演説",
+   "place": "同市北区 家電量販店「ヨドバシカメラ　マルチメディア梅田」前",
+   "category": "党務"
+  },
+  {
+   "time": "19:34",
+   "label": "同空港内のレストラン「５５１蓬莱飲茶ＣＡＦＥ」で秘書官と食事",
+   "place": "伊丹空港",
+   "category": "会食"
+  },
+  {
+   "time": "21:27",
+   "label": "移動",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 422
+  },
+  {
+   "start": "07:02",
+   "end": "07:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "07:19",
+   "end": "09:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 159
+  },
+  {
+   "start": "09:58",
+   "end": "10:00",
+   "category": "移動",
+   "label": "鈴木英敬三重県知事出迎え",
+   "minutes": 2
+  },
+  {
+   "start": "10:00",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:02",
+   "end": "10:40",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "10:40",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 79
+  },
+  {
+   "start": "11:59",
+   "end": "12:24",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "12:24",
+   "end": "13:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "13:05",
+   "end": "13:33",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "13:33",
+   "end": "14:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "14:17",
+   "end": "14:42",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "14:42",
+   "end": "15:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "15:06",
+   "end": "15:30",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "15:30",
+   "end": "16:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "16:29",
+   "end": "16:56",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "16:56",
+   "end": "17:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "17:53",
+   "end": "18:21",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "18:21",
+   "end": "18:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "18:45",
+   "end": "19:14",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "19:14",
+   "end": "19:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "19:34",
+   "end": "19:56",
+   "category": "会食",
+   "label": "同空港内のレストラン「５５１蓬莱飲茶ＣＡＦＥ」で秘書官と食事",
+   "minutes": 22
+  },
+  {
+   "start": "19:56",
+   "end": "21:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 91
+  },
+  {
+   "start": "21:27",
+   "end": "21:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "21:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 127
+  }
+ ],
+ "alloc_min": {
+  "居所": 549,
+  "移動": 45,
+  "公務（内容未詳）": 600,
+  "党務": 224,
+  "会食": 22
+ }
+}

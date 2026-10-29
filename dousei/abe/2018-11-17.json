@@ -1,0 +1,89 @@
+{
+ "date": "2018-11-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 4,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "発",
+   "place": "ダーウィン空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "献花",
+   "place": "ダーウィン市の旧日本海軍潜水艦の乗組員慰霊碑",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "海上保安庁の巡視船「えちご」を視察、訓示",
+   "place": "オーストラリア・ダーウィン港",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「クラウン・プラザ・ポートモレスビー」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "歓迎夕食会",
+   "place": "ホテル「ヒルトン・ポートモレスビー」",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "パプアニューギニアのオニール首相と会談",
+   "place": "国際会議場「ＡＰＥＣハウス」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "太平洋島しょ国首脳との対話に出席",
+   "place": "国際会議場「ＡＰＥＣハウス」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＡＰＥＣビジネス諮問委員会との対話に出席",
+   "place": "国際会議場「ＡＰＥＣハウス」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "待合室で中国の習近平国家主席、韓国の文在寅大統領らと個別にあいさつ",
+   "place": "国際会議場「ＡＰＥＣハウス」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "アジア太平洋経済協力会議（ＡＰＥＣ）参加国首脳と写真撮影",
+   "place": "国際会議場「ＡＰＥＣハウス」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "パプアニューギニア・ポートモレスビーのジャクソン国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

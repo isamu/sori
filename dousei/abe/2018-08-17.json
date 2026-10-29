@@ -1,0 +1,117 @@
+{
+ "date": "2018-08-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 185,
+ "residence_min": 1100,
+ "meetings": 0,
+ "first_work": "13:57",
+ "events": [
+  {
+   "time": "13:57",
+   "label": "入浴",
+   "place": "同県富士吉田市の温泉施設「ふじやま温泉」",
+   "category": "個人"
+  },
+  {
+   "time": "16:32",
+   "label": "移動",
+   "place": "同県富士吉田市の温泉施設「ふじやま温泉」",
+   "category": "移動"
+  },
+  {
+   "time": "16:44",
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  },
+  {
+   "time": "17:48",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "17:58",
+   "label": "高橋精一郎三井住友銀行上席顧問、増岡聡一郎鉄鋼ビルディング専務、松崎勲森永商事社長、昭恵夫人らと食事",
+   "place": "同市の「炭火串焼Ｉ．Ｗ」",
+   "category": "会食"
+  },
+  {
+   "time": "20:30",
+   "label": "移動",
+   "place": "同市の「炭火串焼Ｉ．Ｗ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 837
+  },
+  {
+   "start": "13:57",
+   "end": "16:32",
+   "category": "個人",
+   "label": "入浴",
+   "minutes": 155
+  },
+  {
+   "start": "16:32",
+   "end": "16:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "16:44",
+   "end": "17:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 64
+  },
+  {
+   "start": "17:48",
+   "end": "17:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "17:58",
+   "end": "20:30",
+   "category": "会食",
+   "label": "高橋精一郎三井住友銀行上席顧問、増岡聡一郎鉄鋼ビルディング専務、松崎勲森永商事社長、昭恵夫人らと食事",
+   "minutes": 152
+  },
+  {
+   "start": "20:30",
+   "end": "20:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "20:41",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 199
+  }
+ ],
+ "alloc_min": {
+  "居所": 1100,
+  "個人": 155,
+  "移動": 33,
+  "会食": 152
+ }
+}

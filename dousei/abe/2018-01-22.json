@@ -1,0 +1,683 @@
+{
+ "date": "2018-01-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 661,
+ "residence_min": 779,
+ "meetings": 2,
+ "first_work": "09:11",
+ "events": [
+  {
+   "time": "09:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:27",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:38",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:33",
+   "label": "自民党両院議員総会",
+   "place": "国会 衆院第14控室",
+   "category": "党務"
+  },
+  {
+   "time": "11:40",
+   "label": "自民党代議士会",
+   "place": "国会 衆院第14控室",
+   "category": "党務"
+  },
+  {
+   "time": "11:50",
+   "label": "太田昭宏公明党前代表",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:59",
+   "label": "鈴木俊一五輪担当相 小野寺五典防衛相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:37",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:40",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "第196通常国会開会式",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:13",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "13:15",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:44",
+   "label": "大島理森衆院議長、古屋圭司衆院議院運営委員長にあいさつ。菅義偉、西村康稔正副官房長官同席",
+   "place": "国会 衆院議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:46",
+   "label": "赤松広隆衆院副議長にあいさつ。菅、西村正副官房長官同席",
+   "place": "国会 衆院副議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:49",
+   "label": "伊達忠一参院議長、山本順三参院議院運営委員長にあいさつ。菅、野上浩太郎正副官房長官同席",
+   "place": "国会 参院議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:50",
+   "label": "郡司彰参院副議長にあいさつ。菅、野上正副官房長官同席",
+   "place": "国会 参院副議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:54",
+   "label": "茂木敏充経済再生担当相",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:56",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相 菅義偉官房長官",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議。施政方針演説",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:30",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "15:36",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:38",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:41",
+   "label": "参院本会議。施政方針演説",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:03",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:28",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:35",
+   "label": "鈴木宗男元衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:55",
+   "label": "ものづくり日本大賞表彰式",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:20",
+   "label": "受賞者の展示品を視察",
+   "place": "官邸",
+   "category": "視察"
+  },
+  {
+   "time": "18:27",
+   "label": "同賞祝賀会に出席し、あいさつ",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:53",
+   "label": "自民党の森山裕国対委員長、松本純国対委員長代理、大口善徳公明党国対委員長らと会食。菅、西村正副官房長官同席",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 551
+  },
+  {
+   "start": "09:11",
+   "end": "09:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "09:26",
+   "end": "09:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:27",
+   "end": "09:38",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 11
+  },
+  {
+   "start": "09:38",
+   "end": "09:46",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 8
+  },
+  {
+   "start": "09:46",
+   "end": "11:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 101
+  },
+  {
+   "start": "11:27",
+   "end": "11:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:29",
+   "end": "11:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:33",
+   "end": "11:38",
+   "category": "党務",
+   "label": "自民党両院議員総会",
+   "minutes": 5
+  },
+  {
+   "start": "11:38",
+   "end": "11:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:40",
+   "end": "11:43",
+   "category": "党務",
+   "label": "自民党代議士会",
+   "minutes": 3
+  },
+  {
+   "start": "11:43",
+   "end": "11:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "11:50",
+   "end": "11:55",
+   "category": "面会・会談",
+   "label": "太田昭宏公明党前代表",
+   "minutes": 5
+  },
+  {
+   "start": "11:55",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:59",
+   "end": "12:01",
+   "category": "国会",
+   "label": "鈴木俊一五輪担当相 小野寺五典防衛相",
+   "minutes": 2
+  },
+  {
+   "start": "12:01",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:02",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 3
+  },
+  {
+   "start": "12:05",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:07",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 29
+  },
+  {
+   "start": "12:37",
+   "end": "12:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:39",
+   "end": "12:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 13
+  },
+  {
+   "start": "12:53",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:01",
+   "end": "13:09",
+   "category": "国会",
+   "label": "第196通常国会開会式",
+   "minutes": 8
+  },
+  {
+   "start": "13:09",
+   "end": "13:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:13",
+   "end": "13:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 25
+  },
+  {
+   "start": "13:40",
+   "end": "13:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:42",
+   "end": "13:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:44",
+   "end": "13:46",
+   "category": "国会",
+   "label": "大島理森衆院議長、古屋圭司衆院議院運営委員長にあいさつ。菅義偉、西村康稔正副官房長官同席",
+   "minutes": 2
+  },
+  {
+   "start": "13:46",
+   "end": "13:49",
+   "category": "国会",
+   "label": "赤松広隆衆院副議長にあいさつ。菅、西村正副官房長官同席",
+   "minutes": 3
+  },
+  {
+   "start": "13:49",
+   "end": "13:50",
+   "category": "国会",
+   "label": "伊達忠一参院議長、山本順三参院議院運営委員長にあいさつ。菅、野上浩太郎正副官房長官同席",
+   "minutes": 1
+  },
+  {
+   "start": "13:50",
+   "end": "13:51",
+   "category": "国会",
+   "label": "郡司彰参院副議長にあいさつ。菅、野上正副官房長官同席",
+   "minutes": 1
+  },
+  {
+   "start": "13:51",
+   "end": "13:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:54",
+   "end": "13:55",
+   "category": "国会",
+   "label": "茂木敏充経済再生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "13:55",
+   "end": "13:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:56",
+   "end": "13:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相 菅義偉官房長官",
+   "minutes": 3
+  },
+  {
+   "start": "13:59",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:02",
+   "end": "15:28",
+   "category": "国会",
+   "label": "衆院本会議。施政方針演説",
+   "minutes": 86
+  },
+  {
+   "start": "15:28",
+   "end": "15:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "15:35",
+   "end": "15:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "15:37",
+   "end": "15:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:38",
+   "end": "15:41",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "minutes": 3
+  },
+  {
+   "start": "15:41",
+   "end": "16:58",
+   "category": "国会",
+   "label": "参院本会議。施政方針演説",
+   "minutes": 77
+  },
+  {
+   "start": "16:58",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:03",
+   "end": "17:26",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 23
+  },
+  {
+   "start": "17:26",
+   "end": "17:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:28",
+   "end": "17:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:30",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:35",
+   "end": "17:54",
+   "category": "面会・会談",
+   "label": "鈴木宗男元衆院議員",
+   "minutes": 19
+  },
+  {
+   "start": "17:54",
+   "end": "17:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:55",
+   "end": "18:19",
+   "category": "式典・行事",
+   "label": "ものづくり日本大賞表彰式",
+   "minutes": 24
+  },
+  {
+   "start": "18:19",
+   "end": "18:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:20",
+   "end": "18:26",
+   "category": "視察",
+   "label": "受賞者の展示品を視察",
+   "minutes": 6
+  },
+  {
+   "start": "18:26",
+   "end": "18:27",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:27",
+   "end": "18:35",
+   "category": "式典・行事",
+   "label": "同賞祝賀会に出席し、あいさつ",
+   "minutes": 8
+  },
+  {
+   "start": "18:35",
+   "end": "18:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "18:52",
+   "end": "18:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:53",
+   "end": "20:12",
+   "category": "会食",
+   "label": "自民党の森山裕国対委員長、松本純国対委員長代理、大口善徳公明党国対委員長らと会食。菅、西村正副官房長官同席",
+   "minutes": 79
+  },
+  {
+   "start": "20:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 228
+  }
+ ],
+ "alloc_min": {
+  "居所": 779,
+  "移動": 27,
+  "公務（内容未詳）": 179,
+  "取材・会見": 11,
+  "官邸執務": 62,
+  "党務": 31,
+  "面会・会談": 24,
+  "国会": 209,
+  "式典・行事": 32,
+  "視察": 7,
+  "会食": 79
+ }
+}

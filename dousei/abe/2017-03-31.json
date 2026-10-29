@@ -1,0 +1,369 @@
+{
+ "date": "2017-03-31",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 680,
+ "residence_min": 760,
+ "meetings": 4,
+ "first_work": "08:11",
+ "events": [
+  {
+   "time": "08:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:32",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:47",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:00",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "09:58",
+   "label": "岸田文雄外相",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:25",
+   "label": "公明党の太田昭宏前代表",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "14:04",
+   "label": "岸田文雄外相 谷内正太郎国家安全保障局長 杉山晋輔事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:41",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:59",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:01",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:16",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "15:50",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:50",
+   "label": "長谷川栄一首相補佐官、秘書官と食事",
+   "place": "山梨県富士吉田市 「炭火串焼Ｉ．Ｗ」",
+   "category": "会食"
+  },
+  {
+   "time": "19:50",
+   "label": "移動",
+   "place": "山梨県富士吉田市 「炭火串焼Ｉ．Ｗ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同県鳴沢村 別荘",
+   "place": "同県鳴沢村 別荘",
+   "category": "その他"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 491
+  },
+  {
+   "start": "08:11",
+   "end": "08:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "08:24",
+   "end": "08:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:32",
+   "end": "08:45",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 13
+  },
+  {
+   "start": "08:45",
+   "end": "08:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:47",
+   "end": "08:59",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 12
+  },
+  {
+   "start": "08:59",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:00",
+   "end": "09:29",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 29
+  },
+  {
+   "start": "09:29",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "09:54",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:55",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "09:57",
+   "end": "09:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:58",
+   "end": "10:00",
+   "category": "国会",
+   "label": "岸田文雄外相",
+   "minutes": 2
+  },
+  {
+   "start": "10:00",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:01",
+   "end": "12:05",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 124
+  },
+  {
+   "start": "12:05",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:07",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:08",
+   "end": "12:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "12:25",
+   "end": "13:17",
+   "category": "党務",
+   "label": "公明党の太田昭宏前代表",
+   "minutes": 52
+  },
+  {
+   "start": "13:17",
+   "end": "14:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "14:04",
+   "end": "14:34",
+   "category": "面会・会談",
+   "label": "岸田文雄外相 谷内正太郎国家安全保障局長 杉山晋輔事務次官",
+   "minutes": 30
+  },
+  {
+   "start": "14:34",
+   "end": "14:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "14:41",
+   "end": "14:45",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 4
+  },
+  {
+   "start": "14:45",
+   "end": "14:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "14:59",
+   "end": "15:00",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "15:00",
+   "end": "15:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:01",
+   "end": "15:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "15:16",
+   "end": "15:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 34
+  },
+  {
+   "start": "15:50",
+   "end": "17:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 120
+  },
+  {
+   "start": "17:50",
+   "end": "19:50",
+   "category": "会食",
+   "label": "長谷川栄一首相補佐官、秘書官と食事",
+   "minutes": 120
+  },
+  {
+   "start": "19:50",
+   "end": "20:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "20:05",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 235
+  }
+ ],
+ "alloc_min": {
+  "居所": 760,
+  "移動": 165,
+  "公務（内容未詳）": 127,
+  "官邸執務": 13,
+  "面会・会談": 75,
+  "国会": 127,
+  "党務": 52,
+  "取材・会見": 1,
+  "会食": 120
+ }
+}

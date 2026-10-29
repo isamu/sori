@@ -1,0 +1,178 @@
+{
+ "date": "2015-11-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1302,
+ "residence_min": 138,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "日韓首脳会談",
+   "place": "ソウルの青瓦台（大統領府）",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "ソウル空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ぶら下がり取材",
+   "place": "ロッテ・ホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:30",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:44",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:05",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:11",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "18:21",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "19:20",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "20:00",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:20",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:30",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1050
+  },
+  {
+   "start": "17:30",
+   "end": "17:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "17:44",
+   "end": "18:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "18:05",
+   "end": "18:11",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 6
+  },
+  {
+   "start": "18:11",
+   "end": "18:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:21",
+   "end": "19:20",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "minutes": 59
+  },
+  {
+   "start": "19:20",
+   "end": "19:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "19:37",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "20:00",
+   "end": "20:59",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 59
+  },
+  {
+   "start": "20:59",
+   "end": "21:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "21:20",
+   "end": "21:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "21:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 138
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1050,
+  "移動": 84,
+  "式典・行事": 6,
+  "会食": 59,
+  "公務（内容未詳）": 44,
+  "取材・会見": 59,
+  "居所": 138
+ }
+}

@@ -1,0 +1,335 @@
+{
+ "date": "2018-09-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 816,
+ "residence_min": 524,
+ "meetings": 1,
+ "first_work": "08:44",
+ "events": [
+  {
+   "time": "08:44",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "09:03",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:16",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:59",
+   "label": "日本記者クラブ主催の自民党総裁選立候補者討論会",
+   "place": "東京・内幸町 日本プレスセンタービル",
+   "category": "党務"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "東京・内幸町 日本プレスセンタービル",
+   "category": "移動"
+  },
+  {
+   "time": "12:01",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:43",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "党青年局、女性局主催の総裁選公開討論会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "14:30",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "14:32",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:25",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:52",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:03",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "同ホテル内の宴会場「孔雀」で、総裁選の決起集会に出席し、演説",
+   "place": "和歌山市のホテルアバローム紀の国",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:06",
+   "label": "休憩",
+   "place": "同市の阪和自動車道紀ノ川サービスエリア",
+   "category": "移動"
+  },
+  {
+   "time": "21:38",
+   "label": "同ホテル内の宴会場「ルイの間」で、自民党の西田昌司参院議員、京都府議らと懇談",
+   "place": "京都市中京区の京都ホテルオークラ",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 524
+  },
+  {
+   "start": "08:44",
+   "end": "08:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:58",
+   "end": "09:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:03",
+   "end": "09:11",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "09:11",
+   "end": "09:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:16",
+   "end": "09:28",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 12
+  },
+  {
+   "start": "09:28",
+   "end": "09:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "09:40",
+   "end": "09:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "09:46",
+   "end": "09:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "09:59",
+   "end": "11:54",
+   "category": "党務",
+   "label": "日本記者クラブ主催の自民党総裁選立候補者討論会",
+   "minutes": 115
+  },
+  {
+   "start": "11:54",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:57",
+   "end": "12:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 42
+  },
+  {
+   "start": "12:43",
+   "end": "12:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:46",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "13:00",
+   "end": "14:28",
+   "category": "党務",
+   "label": "党青年局、女性局主催の総裁選公開討論会",
+   "minutes": 88
+  },
+  {
+   "start": "14:28",
+   "end": "14:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:30",
+   "end": "14:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 53
+  },
+  {
+   "start": "15:25",
+   "end": "15:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "15:52",
+   "end": "16:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "16:16",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "17:03",
+   "end": "17:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "17:14",
+   "end": "19:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 111
+  },
+  {
+   "start": "19:05",
+   "end": "19:38",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「孔雀」で、総裁選の決起集会に出席し、演説",
+   "minutes": 33
+  },
+  {
+   "start": "19:38",
+   "end": "20:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "20:06",
+   "end": "20:09",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "20:09",
+   "end": "21:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 89
+  },
+  {
+   "start": "21:38",
+   "end": "22:20",
+   "category": "面会・会談",
+   "label": "同ホテル内の宴会場「ルイの間」で、自民党の西田昌司参院議員、京都府議らと懇談",
+   "minutes": 42
+  },
+  {
+   "start": "22:20",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 100
+  }
+ ],
+ "alloc_min": {
+  "居所": 524,
+  "移動": 94,
+  "公務（内容未詳）": 329,
+  "官邸執務": 115,
+  "党務": 203,
+  "式典・行事": 33,
+  "面会・会談": 42,
+  "個人": 100
+ }
+}

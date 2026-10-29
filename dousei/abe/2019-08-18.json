@@ -1,0 +1,114 @@
+{
+ "date": "2019-08-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 289,
+ "residence_min": 979,
+ "meetings": 1,
+ "first_work": "13:00",
+ "events": [
+  {
+   "time": "13:00",
+   "label": "移動",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "移動"
+  },
+  {
+   "time": "13:10",
+   "label": "入浴",
+   "place": "同県富士吉田市 温泉施設「ふじやま温泉」",
+   "category": "個人"
+  },
+  {
+   "time": "16:02",
+   "label": "移動",
+   "place": "同県富士吉田市 温泉施設「ふじやま温泉」",
+   "category": "移動"
+  },
+  {
+   "time": "16:20",
+   "label": "北村滋内閣情報官",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:41",
+   "label": "昭恵夫人、北村内閣情報官、本田悦朗前駐スイス大使らと会食",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 780
+  },
+  {
+   "start": "13:00",
+   "end": "13:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "13:10",
+   "end": "16:02",
+   "category": "個人",
+   "label": "入浴",
+   "minutes": 172
+  },
+  {
+   "start": "16:02",
+   "end": "16:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "16:14",
+   "end": "16:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "16:20",
+   "end": "16:57",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 37
+  },
+  {
+   "start": "16:57",
+   "end": "17:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 44
+  },
+  {
+   "start": "17:41",
+   "end": "21:25",
+   "category": "会食",
+   "label": "昭恵夫人、北村内閣情報官、本田悦朗前駐スイス大使らと会食",
+   "minutes": 224
+  },
+  {
+   "start": "21:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 155
+  }
+ ],
+ "alloc_min": {
+  "居所": 979,
+  "移動": 22,
+  "個人": 172,
+  "公務（内容未詳）": 6,
+  "面会・会談": 37,
+  "会食": 224
+ }
+}

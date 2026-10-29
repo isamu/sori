@@ -1,0 +1,179 @@
+{
+ "date": "2017-07-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 678,
+ "residence_min": 762,
+ "meetings": 0,
+ "first_work": "08:35",
+ "events": [
+  {
+   "time": "08:35",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:43",
+   "label": "那覇空港",
+   "place": "那覇空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:26",
+   "label": "同ホテル内の和食レストラン「あんのん」で秘書官らと食事",
+   "place": "沖縄県宜野湾市のラグナガーデンホテル",
+   "category": "会食"
+  },
+  {
+   "time": "13:44",
+   "label": "翁長雄志同県知事ら出迎え。故大田昌秀元同県知事の県民葬に出席。弔辞",
+   "place": "同市の沖縄コンベンションセンター",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:39",
+   "label": "那覇空港",
+   "place": "那覇空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:52",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:04",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:35",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 515
+  },
+  {
+   "start": "08:35",
+   "end": "08:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "08:58",
+   "end": "09:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "09:29",
+   "end": "11:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 134
+  },
+  {
+   "start": "11:43",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "11:56",
+   "end": "12:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "12:26",
+   "end": "13:41",
+   "category": "会食",
+   "label": "同ホテル内の和食レストラン「あんのん」で秘書官らと食事",
+   "minutes": 75
+  },
+  {
+   "start": "13:41",
+   "end": "13:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:44",
+   "end": "15:13",
+   "category": "式典・行事",
+   "label": "翁長雄志同県知事ら出迎え。故大田昌秀元同県知事の県民葬に出席。弔辞",
+   "minutes": 89
+  },
+  {
+   "start": "15:13",
+   "end": "15:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "15:39",
+   "end": "16:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 67
+  },
+  {
+   "start": "16:46",
+   "end": "18:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 126
+  },
+  {
+   "start": "18:52",
+   "end": "19:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "19:04",
+   "end": "19:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 49
+  },
+  {
+   "start": "19:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 247
+  }
+ ],
+ "alloc_min": {
+  "居所": 762,
+  "移動": 195,
+  "公務（内容未詳）": 319,
+  "会食": 75,
+  "式典・行事": 89
+ }
+}

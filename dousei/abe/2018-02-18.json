@@ -1,0 +1,56 @@
+{
+ "date": "2018-02-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 0,
+ "residence_min": 1348,
+ "meetings": 0,
+ "first_work": "10:43",
+ "events": [
+  {
+   "time": "10:43",
+   "label": "散歩",
+   "place": "私邸周辺",
+   "category": "個人"
+  },
+  {
+   "time": "12:15",
+   "label": "報道各社のインタビュー",
+   "place": "私邸周辺",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 643
+  },
+  {
+   "start": "10:43",
+   "end": "12:15",
+   "category": "個人",
+   "label": "散歩",
+   "minutes": 92
+  },
+  {
+   "start": "12:15",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 705
+  }
+ ],
+ "alloc_min": {
+  "居所": 1348,
+  "個人": 92
+ }
+}

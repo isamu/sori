@@ -1,0 +1,95 @@
+{
+ "date": "2016-09-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 9,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "ミャンマーのアウン・サン・スー・チー国家顧問と会談",
+   "place": "ラオス・ビエンチャンの国立会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ラオスのブンニャン国家主席と会談",
+   "place": "国家主席府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東南アジア諸国連合(ASEAN)ビジネス投資サミット",
+   "place": "ラオス・ビエンチャンのムオンタンホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日・メコン地域諸国首脳会議",
+   "place": "ラオス・ビエンチャンの国立会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ベトナムのグエン・スアン・フック首相と会談",
+   "place": "ラオス・ビエンチャンの国立会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "インドのモディ首相と会談",
+   "place": "ラオス・ビエンチャンの国立会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "韓国の朴槿恵大統領と会談",
+   "place": "ラオス・ビエンチャンの国立会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＡＳＥＡＮプラス3（日中韓）首脳会議",
+   "place": "ラオス・ビエンチャンの国立会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "オーストラリアのターンブル首相と会談",
+   "place": "ラオス・ビエンチャンの国立会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日・東南アジア諸国連合（ＡＳＥＡＮ）首脳会議",
+   "place": "ラオス・ビエンチャンの国立会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ラオ・プラザ・ホテル",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "夕食会",
+   "place": "ラオス・ビエンチャンの国立会議場",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

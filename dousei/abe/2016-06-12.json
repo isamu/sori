@@ -1,0 +1,351 @@
+{
+ "date": "2016-06-12",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 733,
+ "residence_min": 707,
+ "meetings": 0,
+ "first_work": "07:40",
+ "events": [
+  {
+   "time": "07:40",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:52",
+   "label": "ＪＲ新宿駅",
+   "place": "ＪＲ新宿駅",
+   "category": "その他"
+  },
+  {
+   "time": "10:07",
+   "label": "後藤茂之自民党衆院議員ら出迎え",
+   "place": "ＪＲ茅野駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:23",
+   "label": "街頭演説",
+   "place": "長野県飯田市 飯田駅多目的広場",
+   "category": "党務"
+  },
+  {
+   "time": "12:08",
+   "label": "宮下一郎自民党衆院議員と昼食",
+   "place": "同市 そば店「しみず」",
+   "category": "会食"
+  },
+  {
+   "time": "13:22",
+   "label": "街頭演説",
+   "place": "同県塩尻市 商業施設「ウイングロード」前",
+   "category": "党務"
+  },
+  {
+   "time": "14:24",
+   "label": "街頭演説",
+   "place": "ＪＲ松本駅前",
+   "category": "党務"
+  },
+  {
+   "time": "14:57",
+   "label": "ＪＲ松本駅",
+   "place": "ＪＲ松本駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:06",
+   "label": "ワイドビューしなの13号",
+   "place": "ＪＲ松本駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:58",
+   "label": "ＪＲ長野駅",
+   "place": "ＪＲ長野駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:03",
+   "label": "街頭演説",
+   "place": "ＪＲ長野駅善光寺口",
+   "category": "党務"
+  },
+  {
+   "time": "16:40",
+   "label": "ＪＲ長野駅",
+   "place": "ＪＲ長野駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:45",
+   "label": "あさま656号",
+   "place": "ＪＲ長野駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:57",
+   "label": "ＪＲ上田駅",
+   "place": "ＪＲ上田駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "街頭演説",
+   "place": "ＪＲ上田駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:42",
+   "label": "ＪＲ上田駅",
+   "place": "ＪＲ上田駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:31",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "19:35",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 460
+  },
+  {
+   "start": "07:40",
+   "end": "07:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:52",
+   "end": "08:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:00",
+   "end": "10:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 127
+  },
+  {
+   "start": "10:07",
+   "end": "10:10",
+   "category": "移動",
+   "label": "後藤茂之自民党衆院議員ら出迎え",
+   "minutes": 3
+  },
+  {
+   "start": "10:10",
+   "end": "11:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 73
+  },
+  {
+   "start": "11:23",
+   "end": "11:57",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "11:57",
+   "end": "12:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "12:08",
+   "end": "12:30",
+   "category": "会食",
+   "label": "宮下一郎自民党衆院議員と昼食",
+   "minutes": 22
+  },
+  {
+   "start": "12:30",
+   "end": "13:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "13:22",
+   "end": "13:56",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "13:56",
+   "end": "14:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "14:24",
+   "end": "14:50",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "14:50",
+   "end": "14:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "14:57",
+   "end": "15:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:06",
+   "end": "15:58",
+   "category": "移動",
+   "label": "ワイドビューしなの13号",
+   "minutes": 52
+  },
+  {
+   "start": "15:58",
+   "end": "15:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:59",
+   "end": "16:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:03",
+   "end": "16:28",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "16:28",
+   "end": "16:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "16:40",
+   "end": "16:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "16:45",
+   "end": "16:57",
+   "category": "移動",
+   "label": "あさま656号",
+   "minutes": 12
+  },
+  {
+   "start": "16:57",
+   "end": "16:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:58",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:01",
+   "end": "17:27",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "17:27",
+   "end": "17:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "17:42",
+   "end": "17:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "17:55",
+   "end": "19:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 96
+  },
+  {
+   "start": "19:31",
+   "end": "19:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "19:35",
+   "end": "19:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "19:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 247
+  }
+ ],
+ "alloc_min": {
+  "居所": 707,
+  "移動": 126,
+  "公務（内容未詳）": 440,
+  "党務": 145,
+  "会食": 22
+ }
+}

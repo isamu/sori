@@ -1,0 +1,508 @@
+{
+ "date": "2019-08-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 680,
+ "residence_min": 760,
+ "meetings": 10,
+ "first_work": "09:46",
+ "events": [
+  {
+   "time": "09:46",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:11",
+   "label": "俳優の杉良太郎氏",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:30",
+   "label": "浜田宏一参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:10",
+   "label": "谷内正太郎国家安全保障局長 秋葉剛男事務次官 槌道明宏防衛政策局長 高橋憲一事務次官 島田和久官房長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:28",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:36",
+   "label": "自民党両院議員総会",
+   "place": "国会 衆院第１４控室",
+   "category": "党務"
+  },
+  {
+   "time": "12:51",
+   "label": "自民党代議士会",
+   "place": "国会 衆院第１４控室",
+   "category": "党務"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:11",
+   "label": "郡司彰前参院副議長",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:15",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "13:16",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:39",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "15:00",
+   "label": "第１９９臨時国会開会式",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:10",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:21",
+   "label": "参院の山東昭子、小川敏夫正副議長",
+   "place": "国会 参院議長室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:23",
+   "label": "移動",
+   "place": "国会 参院議長室",
+   "category": "移動"
+  },
+  {
+   "time": "15:50",
+   "label": "鈴木俊彦事務次官 宮嵜雅則健康局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:01",
+   "label": "谷内正太郎国家安全保障局長 秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:41",
+   "label": "鈴木宗男日本維新の会参院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:03",
+   "label": "大谷直人最高裁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:45",
+   "label": "薗浦健太郎首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:27",
+   "label": "同ビル内のお好み焼き店「ちんちくりん　新橋本店」で岸田文雄自民党政調会長らと会食",
+   "place": "東京・新橋 新花ビル",
+   "category": "会食"
+  },
+  {
+   "time": "20:48",
+   "label": "移動",
+   "place": "東京・新橋 新花ビル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 586
+  },
+  {
+   "start": "09:46",
+   "end": "09:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:58",
+   "end": "10:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "10:11",
+   "end": "10:21",
+   "category": "面会・会談",
+   "label": "俳優の杉良太郎氏",
+   "minutes": 10
+  },
+  {
+   "start": "10:21",
+   "end": "10:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "10:30",
+   "end": "10:45",
+   "category": "面会・会談",
+   "label": "浜田宏一参与",
+   "minutes": 15
+  },
+  {
+   "start": "10:45",
+   "end": "11:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "11:10",
+   "end": "11:32",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 秋葉剛男事務次官 槌道明宏防衛政策局長 高橋憲一事務次官 島田和久官房長",
+   "minutes": 22
+  },
+  {
+   "start": "11:32",
+   "end": "12:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "12:28",
+   "end": "12:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:29",
+   "end": "12:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "12:36",
+   "end": "12:44",
+   "category": "党務",
+   "label": "自民党両院議員総会",
+   "minutes": 8
+  },
+  {
+   "start": "12:44",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "12:51",
+   "end": "12:53",
+   "category": "党務",
+   "label": "自民党代議士会",
+   "minutes": 2
+  },
+  {
+   "start": "12:53",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:02",
+   "end": "13:07",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 5
+  },
+  {
+   "start": "13:07",
+   "end": "13:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:11",
+   "end": "13:13",
+   "category": "面会・会談",
+   "label": "郡司彰前参院副議長",
+   "minutes": 2
+  },
+  {
+   "start": "13:13",
+   "end": "13:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:15",
+   "end": "13:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 80
+  },
+  {
+   "start": "14:36",
+   "end": "14:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:37",
+   "end": "14:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 12
+  },
+  {
+   "start": "14:51",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "15:00",
+   "end": "15:08",
+   "category": "国会",
+   "label": "第１９９臨時国会開会式",
+   "minutes": 8
+  },
+  {
+   "start": "15:08",
+   "end": "15:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 10
+  },
+  {
+   "start": "15:20",
+   "end": "15:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:21",
+   "end": "15:22",
+   "category": "面会・会談",
+   "label": "参院の山東昭子、小川敏夫正副議長",
+   "minutes": 1
+  },
+  {
+   "start": "15:22",
+   "end": "15:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:23",
+   "end": "15:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:24",
+   "end": "15:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "15:50",
+   "end": "16:00",
+   "category": "面会・会談",
+   "label": "鈴木俊彦事務次官 宮嵜雅則健康局長",
+   "minutes": 10
+  },
+  {
+   "start": "16:00",
+   "end": "16:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:01",
+   "end": "16:32",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 秋葉剛男事務次官",
+   "minutes": 31
+  },
+  {
+   "start": "16:32",
+   "end": "16:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "16:41",
+   "end": "17:01",
+   "category": "面会・会談",
+   "label": "鈴木宗男日本維新の会参院議員",
+   "minutes": 20
+  },
+  {
+   "start": "17:01",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:03",
+   "end": "17:18",
+   "category": "面会・会談",
+   "label": "大谷直人最高裁長官",
+   "minutes": 15
+  },
+  {
+   "start": "17:18",
+   "end": "17:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "17:45",
+   "end": "17:58",
+   "category": "面会・会談",
+   "label": "薗浦健太郎首相補佐官",
+   "minutes": 13
+  },
+  {
+   "start": "17:58",
+   "end": "18:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "18:17",
+   "end": "18:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:27",
+   "end": "20:48",
+   "category": "会食",
+   "label": "同ビル内のお好み焼き店「ちんちくりん　新橋本店」で岸田文雄自民党政調会長らと会食",
+   "minutes": 141
+  },
+  {
+   "start": "20:48",
+   "end": "21:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "21:06",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 174
+  }
+ ],
+ "alloc_min": {
+  "居所": 760,
+  "移動": 44,
+  "公務（内容未詳）": 231,
+  "面会・会談": 139,
+  "党務": 10,
+  "国会": 35,
+  "官邸執務": 80,
+  "会食": 141
+ }
+}

@@ -1,0 +1,447 @@
+{
+ "date": "2017-01-31",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 774,
+ "residence_min": 666,
+ "meetings": 3,
+ "first_work": "07:08",
+ "events": [
+  {
+   "time": "07:08",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:14",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:30",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:55",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:56",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "麻生太郎副総理兼財務相 石原伸晃経済再生担当相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:36",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "15:56",
+   "label": "北村滋内閣情報官 木野村謙一内閣衛星情報センター所長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:50",
+   "label": "バチカンのギャラガー外務局長。中村芳夫駐バチカン大使同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:32",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:35",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "17:39",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:41",
+   "label": "衆院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "18:17",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "18:21",
+   "label": "参院の伊達忠一、郡司彰正副議長、山本順三議院運営委員長、自民党、公明党、日本維新の会、日本のこころを大切にする党にあいさつ回り。麻生副総理兼財務相、菅義偉、野上正副官房長官ら同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "18:32",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "18:36",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "19:47",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 428
+  },
+  {
+   "start": "07:08",
+   "end": "07:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:09",
+   "end": "07:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "07:14",
+   "end": "08:27",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 73
+  },
+  {
+   "start": "08:27",
+   "end": "08:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:30",
+   "end": "08:40",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 10
+  },
+  {
+   "start": "08:40",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "08:53",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:55",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:00",
+   "end": "11:52",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 172
+  },
+  {
+   "start": "11:52",
+   "end": "11:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:55",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 58
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 石原伸晃経済再生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "15:33",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 153
+  },
+  {
+   "start": "15:33",
+   "end": "15:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:36",
+   "end": "15:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:38",
+   "end": "15:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "15:56",
+   "end": "16:28",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官 木野村謙一内閣衛星情報センター所長",
+   "minutes": 32
+  },
+  {
+   "start": "16:28",
+   "end": "16:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "16:50",
+   "end": "17:15",
+   "category": "面会・会談",
+   "label": "バチカンのギャラガー外務局長。中村芳夫駐バチカン大使同席",
+   "minutes": 25
+  },
+  {
+   "start": "17:15",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "17:32",
+   "end": "17:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:33",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "17:37",
+   "end": "17:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:39",
+   "end": "17:40",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "17:40",
+   "end": "17:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:41",
+   "end": "18:16",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 35
+  },
+  {
+   "start": "18:16",
+   "end": "18:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "18:20",
+   "end": "18:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:21",
+   "end": "18:30",
+   "category": "国会",
+   "label": "参院の伊達忠一、郡司彰正副議長、山本順三議院運営委員長、自民党、公明党、日本維新の会、日本のこころを大切にする党にあいさつ回り。麻生副総理兼財務相、菅義偉、野上正副官房長官ら同行",
+   "minutes": 9
+  },
+  {
+   "start": "18:30",
+   "end": "18:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:32",
+   "end": "18:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "18:36",
+   "end": "19:47",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "minutes": 71
+  },
+  {
+   "start": "19:47",
+   "end": "20:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "20:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 238
+  }
+ ],
+ "alloc_min": {
+  "居所": 666,
+  "移動": 27,
+  "公務（内容未詳）": 102,
+  "面会・会談": 130,
+  "官邸執務": 68,
+  "国会": 376,
+  "会食": 71
+ }
+}

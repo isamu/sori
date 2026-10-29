@@ -1,0 +1,77 @@
+{
+ "date": "2019-08-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 130,
+ "residence_min": 927,
+ "meetings": 0,
+ "first_work": "06:30",
+ "events": [
+  {
+   "time": "06:30",
+   "label": "移動",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "移動"
+  },
+  {
+   "time": "06:55",
+   "label": "昭恵夫人、河野雅治外務省中東和平担当特使、籔本雅巳錦秀会グループＣＥＯ、松崎勲森永商事社長らとゴルフ",
+   "place": "同県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "個人"
+  },
+  {
+   "time": "13:18",
+   "label": "移動",
+   "place": "同県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 390
+  },
+  {
+   "start": "06:30",
+   "end": "06:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "06:55",
+   "end": "13:18",
+   "category": "個人",
+   "label": "昭恵夫人、河野雅治外務省中東和平担当特使、籔本雅巳錦秀会グループＣＥＯ、松崎勲森永商事社長らとゴルフ",
+   "minutes": 383
+  },
+  {
+   "start": "13:18",
+   "end": "15:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 105
+  },
+  {
+   "start": "15:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 537
+  }
+ ],
+ "alloc_min": {
+  "居所": 927,
+  "移動": 130,
+  "個人": 383
+ }
+}

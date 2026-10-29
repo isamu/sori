@@ -1,0 +1,113 @@
+{
+ "date": "2018-07-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 117,
+ "residence_min": 1323,
+ "meetings": 1,
+ "first_work": "15:56",
+ "events": [
+  {
+   "time": "15:56",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:10",
+   "label": "高橋清孝内閣危機管理監 海堀安喜政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:31",
+   "label": "豪雨非常災害対策本部会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 956
+  },
+  {
+   "start": "15:56",
+   "end": "16:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "16:07",
+   "end": "16:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:10",
+   "end": "16:20",
+   "category": "面会・会談",
+   "label": "高橋清孝内閣危機管理監 海堀安喜政策統括官",
+   "minutes": 10
+  },
+  {
+   "start": "16:20",
+   "end": "16:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "16:31",
+   "end": "16:47",
+   "category": "官邸執務",
+   "label": "豪雨非常災害対策本部会議",
+   "minutes": 16
+  },
+  {
+   "start": "16:47",
+   "end": "17:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "17:40",
+   "end": "17:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "17:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 367
+  }
+ ],
+ "alloc_min": {
+  "居所": 1323,
+  "移動": 24,
+  "公務（内容未詳）": 67,
+  "面会・会談": 10,
+  "官邸執務": 16
+ }
+}

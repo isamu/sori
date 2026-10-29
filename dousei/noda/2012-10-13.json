@@ -1,0 +1,109 @@
+{
+ "date": "2012-10-13",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.10.13",
+ "work_min": 159,
+ "residence_min": 1281,
+ "meetings": 4,
+ "first_work": "09:59",
+ "events": [
+  {
+   "time": "09:59",
+   "label": "東京・市谷本村町の防衛省",
+   "place": "市谷本村町",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "自衛隊殉職隊員追悼式に参列、追悼の辞、献花",
+   "place": "市谷本村町",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:02",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:32",
+   "label": "斎藤官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:30",
+   "label": "斎藤氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:54",
+   "label": "民主党の輿石幹事長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:32",
+   "label": "輿石氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:59",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 599
+  },
+  {
+   "start": "09:59",
+   "end": "11:02",
+   "category": "式典・行事",
+   "label": "自衛隊殉職隊員追悼式に参列、追悼の辞、献花",
+   "minutes": 63
+  },
+  {
+   "start": "11:02",
+   "end": "15:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 270
+  },
+  {
+   "start": "15:32",
+   "end": "16:30",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官",
+   "minutes": 58
+  },
+  {
+   "start": "16:30",
+   "end": "16:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 24
+  },
+  {
+   "start": "16:54",
+   "end": "17:32",
+   "category": "面会・会談",
+   "label": "民主党の輿石幹事長",
+   "minutes": 38
+  },
+  {
+   "start": "17:32",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 388
+  }
+ ],
+ "alloc_min": {
+  "居所": 1281,
+  "式典・行事": 63,
+  "面会・会談": 96
+ }
+}

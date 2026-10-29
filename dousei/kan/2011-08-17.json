@@ -1,0 +1,155 @@
+{
+ "date": "2011-08-17",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.08.17",
+ "work_min": 384,
+ "residence_min": 1056,
+ "meetings": 6,
+ "first_work": "13:02",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "13:02",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:03",
+   "label": "官邸着",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:30",
+   "label": "作家の石川好氏",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:58",
+   "label": "石川氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:24",
+   "label": "民主党の斎藤国対委員長代理",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:13",
+   "label": "同党の岡田幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:54",
+   "label": "阿久津内閣府政務官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:32",
+   "label": "阿久津氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:26",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 782
+  },
+  {
+   "start": "13:02",
+   "end": "13:03",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "13:03",
+   "end": "13:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "13:30",
+   "end": "13:58",
+   "category": "面会・会談",
+   "label": "作家の石川好氏",
+   "minutes": 28
+  },
+  {
+   "start": "13:58",
+   "end": "16:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 146
+  },
+  {
+   "start": "16:24",
+   "end": "17:13",
+   "category": "面会・会談",
+   "label": "民主党の斎藤国対委員長代理",
+   "minutes": 49
+  },
+  {
+   "start": "17:13",
+   "end": "17:54",
+   "category": "面会・会談",
+   "label": "同党の岡田幹事長",
+   "minutes": 41
+  },
+  {
+   "start": "17:54",
+   "end": "18:32",
+   "category": "面会・会談",
+   "label": "阿久津内閣府政務官",
+   "minutes": 38
+  },
+  {
+   "start": "18:32",
+   "end": "19:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "19:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 274
+  }
+ ],
+ "alloc_min": {
+  "居所": 1056,
+  "移動": 1,
+  "公務（内容未詳）": 227,
+  "面会・会談": 156
+ }
+}

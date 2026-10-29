@@ -1,0 +1,181 @@
+{
+ "date": "2019-05-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 260,
+ "residence_min": 1180,
+ "meetings": 1,
+ "first_work": "08:28",
+ "events": [
+  {
+   "time": "08:28",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:47",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:00",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:59",
+   "label": "剣璽等承継の儀、即位後朝見の儀に参列。国民代表の辞",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:26",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "産経新聞のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:12",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 508
+  },
+  {
+   "start": "08:28",
+   "end": "08:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "08:37",
+   "end": "08:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:47",
+   "end": "08:55",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 8
+  },
+  {
+   "start": "08:55",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:00",
+   "end": "09:15",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 15
+  },
+  {
+   "start": "09:15",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "09:53",
+   "end": "09:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "09:59",
+   "end": "11:26",
+   "category": "式典・行事",
+   "label": "剣璽等承継の儀、即位後朝見の儀に参列。国民代表の辞",
+   "minutes": 87
+  },
+  {
+   "start": "11:26",
+   "end": "11:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:34",
+   "end": "12:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "12:00",
+   "end": "12:33",
+   "category": "取材・会見",
+   "label": "産経新聞のインタビュー",
+   "minutes": 33
+  },
+  {
+   "start": "12:33",
+   "end": "13:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 39
+  },
+  {
+   "start": "13:12",
+   "end": "13:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "13:27",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 633
+  }
+ ],
+ "alloc_min": {
+  "居所": 1180,
+  "移動": 38,
+  "公務（内容未詳）": 79,
+  "官邸執務": 8,
+  "面会・会談": 15,
+  "式典・行事": 87,
+  "取材・会見": 33
+ }
+}

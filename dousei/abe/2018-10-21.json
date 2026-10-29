@@ -1,0 +1,77 @@
+{
+ "date": "2018-10-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 113,
+ "residence_min": 926,
+ "meetings": 0,
+ "first_work": "06:55",
+ "events": [
+  {
+   "time": "06:55",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:43",
+   "label": "秘書官とゴルフ",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "個人"
+  },
+  {
+   "time": "14:24",
+   "label": "移動",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 415
+  },
+  {
+   "start": "06:55",
+   "end": "07:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 48
+  },
+  {
+   "start": "07:43",
+   "end": "14:24",
+   "category": "個人",
+   "label": "秘書官とゴルフ",
+   "minutes": 401
+  },
+  {
+   "start": "14:24",
+   "end": "15:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 65
+  },
+  {
+   "start": "15:29",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 511
+  }
+ ],
+ "alloc_min": {
+  "居所": 926,
+  "移動": 113,
+  "個人": 401
+ }
+}

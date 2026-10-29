@@ -1,0 +1,368 @@
+{
+ "date": "2015-09-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 943,
+ "residence_min": 497,
+ "meetings": 5,
+ "first_work": "08:17",
+ "events": [
+  {
+   "time": "08:17",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:37",
+   "label": "総合科学技術・イノベーション会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:06",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:18",
+   "label": "下村博文文部科学相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:00",
+   "label": "ターンブル豪首相との電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:30",
+   "label": "アボット前豪首相との電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:45",
+   "label": "国連総会に合わせて開催される貧困撲滅イベント「グローバル・シチズン・フェスティバル」向けのビデオメッセージ収録",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:45",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "16:05",
+   "label": "定塚誠訟務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:22",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:25",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "16:32",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "20:01",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "20:57",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 497
+  },
+  {
+   "start": "08:17",
+   "end": "08:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:31",
+   "end": "08:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:37",
+   "end": "09:01",
+   "category": "官邸執務",
+   "label": "総合科学技術・イノベーション会議",
+   "minutes": 24
+  },
+  {
+   "start": "09:01",
+   "end": "09:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:06",
+   "end": "09:16",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 10
+  },
+  {
+   "start": "09:16",
+   "end": "09:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:18",
+   "end": "09:47",
+   "category": "面会・会談",
+   "label": "下村博文文部科学相",
+   "minutes": 29
+  },
+  {
+   "start": "09:47",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "10:00",
+   "end": "10:20",
+   "category": "面会・会談",
+   "label": "ターンブル豪首相との電話会談",
+   "minutes": 20
+  },
+  {
+   "start": "10:20",
+   "end": "10:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "10:30",
+   "end": "10:45",
+   "category": "面会・会談",
+   "label": "アボット前豪首相との電話会談",
+   "minutes": 15
+  },
+  {
+   "start": "10:45",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "11:45",
+   "end": "11:50",
+   "category": "官邸執務",
+   "label": "国連総会に合わせて開催される貧困撲滅イベント「グローバル・シチズン・フェスティバル」向けのビデオメッセージ収録",
+   "minutes": 5
+  },
+  {
+   "start": "11:50",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "12:58",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:01",
+   "end": "14:43",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 102
+  },
+  {
+   "start": "14:43",
+   "end": "14:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:45",
+   "end": "14:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:46",
+   "end": "16:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 79
+  },
+  {
+   "start": "16:05",
+   "end": "16:14",
+   "category": "面会・会談",
+   "label": "定塚誠訟務局長",
+   "minutes": 9
+  },
+  {
+   "start": "16:14",
+   "end": "16:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "16:22",
+   "end": "16:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:24",
+   "end": "16:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "16:30",
+   "end": "16:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:32",
+   "end": "20:00",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 208
+  },
+  {
+   "start": "20:00",
+   "end": "20:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:01",
+   "end": "20:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "20:03",
+   "end": "20:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "20:57",
+   "end": "21:22",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 25
+  },
+  {
+   "start": "21:22",
+   "end": "24:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 158
+  }
+ ],
+ "alloc_min": {
+  "居所": 497,
+  "移動": 20,
+  "公務（内容未詳）": 468,
+  "官邸執務": 39,
+  "面会・会談": 98,
+  "国会": 318
+ }
+}

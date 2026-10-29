@@ -1,0 +1,224 @@
+{
+ "date": "2011-07-12",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.07.12",
+ "work_min": 740,
+ "residence_min": 700,
+ "meetings": 2,
+ "first_work": "07:01",
+ "events": [
+  {
+   "time": "07:01",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:02",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:04",
+   "label": "福山官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:02",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:54",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "衆院東日本大震災復興特別委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院復興特別委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:07",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:57",
+   "label": "静岡県の川勝平太知事。細野原発担当相同席",
+   "place": "官邸",
+   "category": "視察"
+  },
+  {
+   "time": "18:03",
+   "label": "食と農林漁業の再生実現会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:32",
+   "label": "同会議を途中退席",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:07",
+   "label": "民主党の寺田学衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:21",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 421
+  },
+  {
+   "start": "07:01",
+   "end": "07:02",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "07:02",
+   "end": "07:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "07:04",
+   "end": "08:02",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 58
+  },
+  {
+   "start": "08:02",
+   "end": "09:54",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 112
+  },
+  {
+   "start": "09:54",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "10:00",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院東日本大震災復興特別委員会",
+   "minutes": 125
+  },
+  {
+   "start": "12:05",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "12:53",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "17:07",
+   "category": "国会",
+   "label": "衆院復興特別委",
+   "minutes": 247
+  },
+  {
+   "start": "17:07",
+   "end": "17:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "17:57",
+   "end": "18:03",
+   "category": "視察",
+   "label": "静岡県の川勝平太知事。細野原発担当相同席",
+   "minutes": 6
+  },
+  {
+   "start": "18:03",
+   "end": "18:32",
+   "category": "官邸執務",
+   "label": "食と農林漁業の再生実現会議",
+   "minutes": 29
+  },
+  {
+   "start": "18:32",
+   "end": "19:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "19:07",
+   "end": "19:21",
+   "category": "面会・会談",
+   "label": "民主党の寺田学衆院議員",
+   "minutes": 14
+  },
+  {
+   "start": "19:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 279
+  }
+ ],
+ "alloc_min": {
+  "居所": 700,
+  "移動": 1,
+  "公務（内容未詳）": 148,
+  "面会・会談": 72,
+  "官邸執務": 141,
+  "国会": 372,
+  "視察": 6
+ }
+}

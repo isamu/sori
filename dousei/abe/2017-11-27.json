@@ -1,0 +1,334 @@
+{
+ "date": "2017-11-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 844,
+ "residence_min": 596,
+ "meetings": 2,
+ "first_work": "08:06",
+ "events": [
+  {
+   "time": "08:06",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:23",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "昭恵夫人とともにルクセンブルクのアンリ大公の歓迎行事",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:44",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "10:10",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:14",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:16",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "麻生太郎副総理兼財務相 小野寺五典防衛相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:48",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:52",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:30",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:39",
+   "label": "昭恵夫人とともにアンリ大公歓迎の宮中晩餐会",
+   "place": "皇居",
+   "category": "会食"
+  },
+  {
+   "time": "22:01",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 486
+  },
+  {
+   "start": "08:06",
+   "end": "08:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "08:21",
+   "end": "08:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:23",
+   "end": "08:45",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 22
+  },
+  {
+   "start": "08:45",
+   "end": "08:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:46",
+   "end": "08:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "08:58",
+   "end": "09:44",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともにルクセンブルクのアンリ大公の歓迎行事",
+   "minutes": 46
+  },
+  {
+   "start": "09:44",
+   "end": "09:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:57",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "10:04",
+   "end": "10:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "10:10",
+   "end": "12:12",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 122
+  },
+  {
+   "start": "12:12",
+   "end": "12:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:14",
+   "end": "12:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 38
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 小野寺五典防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "17:45",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 285
+  },
+  {
+   "start": "17:45",
+   "end": "17:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:48",
+   "end": "17:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:50",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:52",
+   "end": "17:58",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 6
+  },
+  {
+   "start": "17:58",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "18:30",
+   "end": "18:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:39",
+   "end": "22:01",
+   "category": "会食",
+   "label": "昭恵夫人とともにアンリ大公歓迎の宮中晩餐会",
+   "minutes": 202
+  },
+  {
+   "start": "22:01",
+   "end": "22:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "22:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 110
+  }
+ ],
+ "alloc_min": {
+  "居所": 596,
+  "移動": 63,
+  "公務（内容未詳）": 55,
+  "面会・会談": 28,
+  "式典・行事": 46,
+  "国会": 412,
+  "官邸執務": 38,
+  "会食": 202
+ }
+}

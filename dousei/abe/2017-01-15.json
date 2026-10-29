@@ -1,0 +1,95 @@
+{
+ "date": "2017-01-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 4,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "発",
+   "place": "オーストラリアのシドニー国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ジョコ大統領夫妻主催の歓迎夕食会",
+   "place": "ボゴール市内の大統領宮殿",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "同行企業関係者を交えた拡大首脳会合",
+   "place": "ボゴール市内の大統領宮殿",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "ボゴール市内の大統領宮殿",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ジョコ大統領と首脳会談",
+   "place": "ボゴール市内の大統領宮殿",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "歓迎式典",
+   "place": "ボゴール市内の大統領宮殿",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "同行企業関係者が参加するビジネス会合であいさつ",
+   "place": "ジャカルタ市内のホテル「フェアモント・ジャカルタ」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "インドネシア成蹊会関係者と懇談",
+   "place": "ジャカルタ市内のホテル「フェアモント・ジャカルタ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日本への留学経験者の表敬",
+   "place": "ジャカルタ市内のホテル「フェアモント・ジャカルタ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "「日本語パートナーズ」事業参加者と懇談",
+   "place": "ジャカルタ市内のホテル「フェアモント・ジャカルタ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "インドネシア・ジャカルタのハリム空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "フェアモント・ジャカルタ",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

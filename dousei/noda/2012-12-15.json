@@ -1,0 +1,260 @@
+{
+ "date": "2012-12-15",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.12.15",
+ "work_min": 736,
+ "residence_min": 704,
+ "meetings": 0,
+ "first_work": "08:56",
+ "events": [
+  {
+   "time": "08:56",
+   "label": "ＪＲ荻窪駅前。街頭演説",
+   "place": "ＪＲ荻窪駅前",
+   "category": "党務"
+  },
+  {
+   "time": "10:08",
+   "label": "東京・巣鴨の巣鴨地蔵通り商店街",
+   "place": "巣鴨",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "街頭演説",
+   "place": "巣鴨",
+   "category": "党務"
+  },
+  {
+   "time": "11:27",
+   "label": "ＪＲ亀有駅前。街頭演説",
+   "place": "ＪＲ亀有駅前",
+   "category": "党務"
+  },
+  {
+   "time": "12:37",
+   "label": "東京・浅草の雷門前",
+   "place": "浅草",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "街頭演説",
+   "place": "浅草",
+   "category": "党務"
+  },
+  {
+   "time": "13:14",
+   "label": "東京・神田花岡町の商業施設「ヨドバシカメラマルチメディアＡｋｉｂａ」前",
+   "place": "神田花岡町",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "街頭演説",
+   "place": "神田花岡町",
+   "category": "党務"
+  },
+  {
+   "time": "13:57",
+   "label": "民主党本部。昼食",
+   "place": "民主党本部",
+   "category": "会食"
+  },
+  {
+   "time": "15:07",
+   "label": "東京・大井のスーパー「イトーヨーカドー大井町店」前",
+   "place": "大井",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "街頭演説",
+   "place": "大井",
+   "category": "党務"
+  },
+  {
+   "time": "16:03",
+   "label": "東京・自由が丘の東急自由が丘駅前。街頭演説",
+   "place": "東京・自由が丘の東急自由が丘駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:14",
+   "label": "ＪＲ中野駅前。街頭演説",
+   "place": "ＪＲ中野駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:43",
+   "label": "ＪＲ新宿駅前。街頭演説",
+   "place": "ＪＲ新宿駅前",
+   "category": "党務"
+  },
+  {
+   "time": "18:54",
+   "label": "ＪＲ湘南新宿ラインで同駅発",
+   "place": "ＪＲ新宿駅前",
+   "category": "移動"
+  },
+  {
+   "time": "19:25",
+   "label": "ＪＲ大宮駅。同駅前で街頭演説",
+   "place": "ＪＲ大宮駅",
+   "category": "党務"
+  },
+  {
+   "time": "20:01",
+   "label": "報道各社のインタビュー",
+   "place": "ＪＲ大宮駅",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:31",
+   "label": "やまびこ156号で同駅発",
+   "place": "ＪＲ大宮駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:55",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:12",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 536
+  },
+  {
+   "start": "08:56",
+   "end": "10:08",
+   "category": "党務",
+   "label": "ＪＲ荻窪駅前。街頭演説",
+   "minutes": 72
+  },
+  {
+   "start": "10:08",
+   "end": "11:27",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 79
+  },
+  {
+   "start": "11:27",
+   "end": "12:37",
+   "category": "党務",
+   "label": "ＪＲ亀有駅前。街頭演説",
+   "minutes": 70
+  },
+  {
+   "start": "12:37",
+   "end": "13:14",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 37
+  },
+  {
+   "start": "13:14",
+   "end": "13:57",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 43
+  },
+  {
+   "start": "13:57",
+   "end": "15:07",
+   "category": "会食",
+   "label": "民主党本部。昼食",
+   "minutes": 70
+  },
+  {
+   "start": "15:07",
+   "end": "16:03",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 56
+  },
+  {
+   "start": "16:03",
+   "end": "17:14",
+   "category": "党務",
+   "label": "東京・自由が丘の東急自由が丘駅前。街頭演説",
+   "minutes": 71
+  },
+  {
+   "start": "17:14",
+   "end": "17:43",
+   "category": "党務",
+   "label": "ＪＲ中野駅前。街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "17:43",
+   "end": "18:54",
+   "category": "党務",
+   "label": "ＪＲ新宿駅前。街頭演説",
+   "minutes": 71
+  },
+  {
+   "start": "18:54",
+   "end": "19:25",
+   "category": "移動",
+   "label": "ＪＲ湘南新宿ラインで同駅発",
+   "minutes": 31
+  },
+  {
+   "start": "19:25",
+   "end": "20:01",
+   "category": "党務",
+   "label": "ＪＲ大宮駅。同駅前で街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "20:01",
+   "end": "20:31",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 30
+  },
+  {
+   "start": "20:31",
+   "end": "20:55",
+   "category": "移動",
+   "label": "やまびこ156号で同駅発",
+   "minutes": 24
+  },
+  {
+   "start": "20:55",
+   "end": "21:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "21:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 168
+  }
+ ],
+ "alloc_min": {
+  "居所": 704,
+  "党務": 564,
+  "会食": 70,
+  "移動": 55,
+  "取材・会見": 30,
+  "公務（内容未詳）": 17
+ }
+}

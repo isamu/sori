@@ -1,0 +1,129 @@
+{
+ "date": "2018-12-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 351,
+ "residence_min": 1089,
+ "meetings": 0,
+ "first_work": "12:27",
+ "events": [
+  {
+   "time": "12:27",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:35",
+   "label": "天皇誕生日祝賀の儀、昭恵夫人とともに宴会の儀に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:10",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "14:29",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:36",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:51",
+   "label": "同ホテル内の宴会場『鶴の間』で昭恵夫人、母親の洋子さんとともに、歌手のさだまさし氏のクリスマスディナーコンサートを鑑賞",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "21:10",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 747
+  },
+  {
+   "start": "12:27",
+   "end": "12:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "12:35",
+   "end": "14:10",
+   "category": "式典・行事",
+   "label": "天皇誕生日祝賀の儀、昭恵夫人とともに宴会の儀に出席",
+   "minutes": 95
+  },
+  {
+   "start": "14:10",
+   "end": "14:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "14:29",
+   "end": "17:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 187
+  },
+  {
+   "start": "17:36",
+   "end": "17:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "17:51",
+   "end": "21:10",
+   "category": "移動",
+   "label": "同ホテル内の宴会場『鶴の間』で昭恵夫人、母親の洋子さんとともに、歌手のさだまさし氏のクリスマスディナーコンサートを鑑賞",
+   "minutes": 199
+  },
+  {
+   "start": "21:10",
+   "end": "21:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "21:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 155
+  }
+ ],
+ "alloc_min": {
+  "居所": 1089,
+  "移動": 256,
+  "式典・行事": 95
+ }
+}

@@ -1,0 +1,234 @@
+{
+ "date": "2018-09-28",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1141,
+ "residence_min": 299,
+ "meetings": 5,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "13:22",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "13:41",
+   "label": "移動-13:41/td>",
+   "place": "14:02 皇居",
+   "category": "羽田空港"
+  },
+  {
+   "time": "14:02",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:08",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "15:11",
+   "label": "高橋清孝内閣危機管理監 田端浩観光庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:18",
+   "label": "北海道地震・台風21号に関する関係閣僚会議と観光戦略実行推進会議の合同会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:42",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:04",
+   "label": "二階俊博自民党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:37",
+   "label": "茂木敏充経済再生担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "高島宗一郎福岡市長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:39",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:22",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 802
+  },
+  {
+   "start": "13:22",
+   "end": "13:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "13:41",
+   "end": "14:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "14:02",
+   "end": "14:08",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 6
+  },
+  {
+   "start": "14:08",
+   "end": "14:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "14:17",
+   "end": "15:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "15:11",
+   "end": "15:16",
+   "category": "面会・会談",
+   "label": "高橋清孝内閣危機管理監 田端浩観光庁長官",
+   "minutes": 5
+  },
+  {
+   "start": "15:16",
+   "end": "15:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:18",
+   "end": "15:40",
+   "category": "官邸執務",
+   "label": "北海道地震・台風21号に関する関係閣僚会議と観光戦略実行推進会議の合同会議",
+   "minutes": 22
+  },
+  {
+   "start": "15:40",
+   "end": "15:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:42",
+   "end": "16:03",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 21
+  },
+  {
+   "start": "16:03",
+   "end": "16:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:04",
+   "end": "16:36",
+   "category": "面会・会談",
+   "label": "二階俊博自民党幹事長",
+   "minutes": 32
+  },
+  {
+   "start": "16:36",
+   "end": "16:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:37",
+   "end": "16:59",
+   "category": "面会・会談",
+   "label": "茂木敏充経済再生担当相",
+   "minutes": 22
+  },
+  {
+   "start": "16:59",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:00",
+   "end": "17:14",
+   "category": "面会・会談",
+   "label": "高島宗一郎福岡市長",
+   "minutes": 14
+  },
+  {
+   "start": "17:14",
+   "end": "18:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 85
+  },
+  {
+   "start": "18:39",
+   "end": "19:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "19:01",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 299
+  }
+ ],
+ "alloc_min": {
+  "外遊": 802,
+  "移動": 71,
+  "式典・行事": 6,
+  "公務（内容未詳）": 146,
+  "面会・会談": 94,
+  "官邸執務": 22,
+  "居所": 299
+ }
+}

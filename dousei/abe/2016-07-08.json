@@ -1,0 +1,278 @@
+{
+ "date": "2016-07-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 740,
+ "residence_min": 700,
+ "meetings": 0,
+ "first_work": "08:51",
+ "events": [
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:21",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:09",
+   "label": "新千歳空港",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:19",
+   "label": "練り歩き。街頭演説",
+   "place": "札幌市中央区 さっぽろテレビ塔前",
+   "category": "党務"
+  },
+  {
+   "time": "12:52",
+   "label": "街頭演説",
+   "place": "同区 大通西4交差点",
+   "category": "党務"
+  },
+  {
+   "time": "13:24",
+   "label": "自民党北海道連の伊達忠一会長、吉川貴盛会長代行と昼食",
+   "place": "同区 ラーメン店「吉山商店創成橋店」",
+   "category": "会食"
+  },
+  {
+   "time": "14:03",
+   "label": "練り歩き。街頭演説",
+   "place": "同区 狸小路商店街",
+   "category": "党務"
+  },
+  {
+   "time": "14:48",
+   "label": "街頭演説",
+   "place": "同区 札幌三越前",
+   "category": "党務"
+  },
+  {
+   "time": "15:13",
+   "label": "練り歩き。街頭演説",
+   "place": "同区 札幌駅前通",
+   "category": "党務"
+  },
+  {
+   "time": "16:05",
+   "label": "街頭演説",
+   "place": "ＪＲ札幌駅前",
+   "category": "党務"
+  },
+  {
+   "time": "16:44",
+   "label": "街頭演説",
+   "place": "同市東区役所前",
+   "category": "党務"
+  },
+  {
+   "time": "18:01",
+   "label": "同空港内のスープカレー店「ｌａｖｉ　新千歳空港店」で吉田正人自民党北海道連幹事長と食事",
+   "place": "新千歳空港",
+   "category": "会食"
+  },
+  {
+   "time": "20:26",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:43",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 531
+  },
+  {
+   "start": "08:51",
+   "end": "09:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "09:21",
+   "end": "09:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "09:57",
+   "end": "11:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 72
+  },
+  {
+   "start": "11:09",
+   "end": "11:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "11:23",
+   "end": "12:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "12:19",
+   "end": "12:52",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "12:52",
+   "end": "13:22",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "13:22",
+   "end": "13:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:24",
+   "end": "13:58",
+   "category": "会食",
+   "label": "自民党北海道連の伊達忠一会長、吉川貴盛会長代行と昼食",
+   "minutes": 34
+  },
+  {
+   "start": "13:58",
+   "end": "14:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "14:03",
+   "end": "14:48",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 45
+  },
+  {
+   "start": "14:48",
+   "end": "15:13",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "15:13",
+   "end": "16:04",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 51
+  },
+  {
+   "start": "16:04",
+   "end": "16:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:05",
+   "end": "16:34",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "16:34",
+   "end": "16:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "16:44",
+   "end": "17:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "17:10",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "18:01",
+   "end": "19:11",
+   "category": "会食",
+   "label": "同空港内のスープカレー店「ｌａｖｉ　新千歳空港店」で吉田正人自民党北海道連幹事長と食事",
+   "minutes": 70
+  },
+  {
+   "start": "19:11",
+   "end": "20:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 75
+  },
+  {
+   "start": "20:26",
+   "end": "20:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "20:43",
+   "end": "21:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "21:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 169
+  }
+ ],
+ "alloc_min": {
+  "居所": 700,
+  "移動": 125,
+  "公務（内容未詳）": 272,
+  "党務": 239,
+  "会食": 104
+ }
+}

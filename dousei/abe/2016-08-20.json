@@ -1,0 +1,73 @@
+{
+ "date": "2016-08-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 373,
+ "residence_min": 1067,
+ "meetings": 0,
+ "first_work": "17:47",
+ "events": [
+  {
+   "time": null,
+   "label": "給油",
+   "place": "米ロサンゼルス国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "移動",
+   "place": "米ロサンゼルス国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:14",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1067
+  },
+  {
+   "start": "17:47",
+   "end": "18:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "18:11",
+   "end": "18:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:14",
+   "end": "18:16",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "18:16",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 344
+  }
+ ],
+ "alloc_min": {
+  "居所": 1067,
+  "移動": 24,
+  "公務（内容未詳）": 3,
+  "取材・会見": 2,
+  "外遊": 344
+ }
+}

@@ -1,0 +1,288 @@
+{
+ "date": "2023-04-17",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 649,
+ "residence_min": 791,
+ "meetings": 4,
+ "first_work": "09:54",
+ "events": [
+  {
+   "time": "09:54",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:06",
+   "label": "「Ｗ７（Ｗｏｍｅｎ７）」の三輪敦子共同代表らから提言書受け取り。小倉将信女性活躍担当相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:50",
+   "label": "小倉将信孤独・孤立対策担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:17",
+   "label": "ケリー米気候変動問題担当大統領特使の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:51",
+   "label": "浄土真宗本願寺派の石上智康総長ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:15",
+   "label": "英字紙ジャパンタイムズのインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:03",
+   "label": "党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:28",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "17:30",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:15",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:29",
+   "label": "茂木敏充自民党幹事長と会食",
+   "place": "東京・南青山 天ぷら料理店「天ぷら　天青」",
+   "category": "会食"
+  },
+  {
+   "time": "20:34",
+   "label": "移動",
+   "place": "東京・南青山 天ぷら料理店「天ぷら　天青」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 594
+  },
+  {
+   "start": "09:54",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:55",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:56",
+   "end": "09:58",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "09:58",
+   "end": "10:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "10:06",
+   "end": "10:23",
+   "category": "面会・会談",
+   "label": "「Ｗ７（Ｗｏｍｅｎ７）」の三輪敦子共同代表らから提言書受け取り。小倉将信女性活躍担当相同席",
+   "minutes": 17
+  },
+  {
+   "start": "10:23",
+   "end": "10:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "10:50",
+   "end": "11:10",
+   "category": "面会・会談",
+   "label": "小倉将信孤独・孤立対策担当相",
+   "minutes": 20
+  },
+  {
+   "start": "11:10",
+   "end": "14:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 187
+  },
+  {
+   "start": "14:17",
+   "end": "14:48",
+   "category": "面会・会談",
+   "label": "ケリー米気候変動問題担当大統領特使の表敬",
+   "minutes": 31
+  },
+  {
+   "start": "14:48",
+   "end": "14:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:51",
+   "end": "15:01",
+   "category": "面会・会談",
+   "label": "浄土真宗本願寺派の石上智康総長ら",
+   "minutes": 10
+  },
+  {
+   "start": "15:01",
+   "end": "16:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 74
+  },
+  {
+   "start": "16:15",
+   "end": "16:53",
+   "category": "取材・会見",
+   "label": "英字紙ジャパンタイムズのインタビュー",
+   "minutes": 38
+  },
+  {
+   "start": "16:53",
+   "end": "16:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:54",
+   "end": "16:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:56",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "17:03",
+   "end": "17:17",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 14
+  },
+  {
+   "start": "17:17",
+   "end": "17:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "17:28",
+   "end": "17:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 45
+  },
+  {
+   "start": "18:15",
+   "end": "18:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "18:29",
+   "end": "20:34",
+   "category": "会食",
+   "label": "茂木敏充自民党幹事長と会食",
+   "minutes": 125
+  },
+  {
+   "start": "20:34",
+   "end": "20:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "20:43",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 197
+  }
+ ],
+ "alloc_min": {
+  "居所": 791,
+  "移動": 28,
+  "公務（内容未詳）": 319,
+  "取材・会見": 40,
+  "面会・会談": 78,
+  "党務": 14,
+  "官邸執務": 45,
+  "会食": 125
+ }
+}

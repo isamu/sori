@@ -1,0 +1,157 @@
+{
+ "date": "2018-08-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 416,
+ "residence_min": 1024,
+ "meetings": 0,
+ "first_work": "14:56",
+ "events": [
+  {
+   "time": "14:56",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "16:46",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:56",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:59",
+   "label": "党の地方組織の会合向けビデオメッセージ収録",
+   "place": "自民党本部",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:31",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "18:36",
+   "label": "同ホテル内の宴会場「鶴の間」で「第３回アジア地方議員フォーラム日本大会」に出席し、あいさつ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:57",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "20:35",
+   "label": "成蹊大の友人らと食事。昭恵夫人同席",
+   "place": "山梨県富士吉田市の「焼肉バル秀」",
+   "category": "会食"
+  },
+  {
+   "time": "22:47",
+   "label": "移動",
+   "place": "山梨県富士吉田市の「焼肉バル秀」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 896
+  },
+  {
+   "start": "14:56",
+   "end": "16:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 110
+  },
+  {
+   "start": "16:46",
+   "end": "17:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 70
+  },
+  {
+   "start": "17:56",
+   "end": "17:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:59",
+   "end": "18:31",
+   "category": "官邸執務",
+   "label": "党の地方組織の会合向けビデオメッセージ収録",
+   "minutes": 32
+  },
+  {
+   "start": "18:31",
+   "end": "18:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:36",
+   "end": "18:57",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「鶴の間」で「第３回アジア地方議員フォーラム日本大会」に出席し、あいさつ",
+   "minutes": 21
+  },
+  {
+   "start": "18:57",
+   "end": "20:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 98
+  },
+  {
+   "start": "20:35",
+   "end": "22:47",
+   "category": "会食",
+   "label": "成蹊大の友人らと食事。昭恵夫人同席",
+   "minutes": 132
+  },
+  {
+   "start": "22:47",
+   "end": "23:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "23:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 58
+  }
+ ],
+ "alloc_min": {
+  "居所": 1024,
+  "移動": 231,
+  "官邸執務": 32,
+  "式典・行事": 21,
+  "会食": 132
+ }
+}

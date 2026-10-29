@@ -1,0 +1,328 @@
+{
+ "date": "2019-07-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 799,
+ "residence_min": 641,
+ "meetings": 0,
+ "first_work": "08:16",
+ "events": [
+  {
+   "time": "08:16",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:40",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "11:46",
+   "label": "ＪＲ北上駅",
+   "place": "ＪＲ北上駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:49",
+   "label": "移動",
+   "place": "ＪＲ北上駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:52",
+   "label": "街頭演説",
+   "place": "岩手県北上市 「さくら野百貨店北上店」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:29",
+   "label": "移動",
+   "place": "岩手県北上市 「さくら野百貨店北上店」前",
+   "category": "移動"
+  },
+  {
+   "time": "12:37",
+   "label": "利用客らと握手、写真撮影。昼食",
+   "place": "同市 「農家レストラン　さん食亭」",
+   "category": "会食"
+  },
+  {
+   "time": "13:10",
+   "label": "移動",
+   "place": "同市 「農家レストラン　さん食亭」",
+   "category": "移動"
+  },
+  {
+   "time": "14:51",
+   "label": "視察し、生ウニやタケノコの水煮などを購入。利用客らと握手、写真撮影",
+   "place": "同県宮古市 「宮古市魚菜市場」",
+   "category": "視察"
+  },
+  {
+   "time": "15:19",
+   "label": "移動",
+   "place": "同県宮古市 「宮古市魚菜市場」",
+   "category": "移動"
+  },
+  {
+   "time": "15:22",
+   "label": "街頭演説",
+   "place": "同市 三陸鉄道宮古駅前",
+   "category": "党務"
+  },
+  {
+   "time": "15:58",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "16:42",
+   "label": "休憩。アイスクリームを購入",
+   "place": "同市 道の駅「やまびこ館」",
+   "category": "移動"
+  },
+  {
+   "time": "16:47",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "17:44",
+   "label": "練り歩き",
+   "place": "同市 盛岡市の大通り",
+   "category": "党務"
+  },
+  {
+   "time": "17:52",
+   "label": "徒歩",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "17:53",
+   "label": "街頭演説",
+   "place": "同市 商業施設「クロステラス盛岡」前",
+   "category": "党務"
+  },
+  {
+   "time": "18:33",
+   "label": "移動",
+   "place": "同市 商業施設「クロステラス盛岡」前",
+   "category": "移動"
+  },
+  {
+   "time": "18:36",
+   "label": "ＪＲ盛岡駅",
+   "place": "ＪＲ盛岡駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:03",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:08",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 496
+  },
+  {
+   "start": "08:16",
+   "end": "08:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "08:40",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:48",
+   "end": "11:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 178
+  },
+  {
+   "start": "11:46",
+   "end": "11:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:49",
+   "end": "11:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:52",
+   "end": "12:29",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 37
+  },
+  {
+   "start": "12:29",
+   "end": "12:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "12:37",
+   "end": "13:10",
+   "category": "会食",
+   "label": "利用客らと握手、写真撮影。昼食",
+   "minutes": 33
+  },
+  {
+   "start": "13:10",
+   "end": "14:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 101
+  },
+  {
+   "start": "14:51",
+   "end": "15:19",
+   "category": "視察",
+   "label": "視察し、生ウニやタケノコの水煮などを購入。利用客らと握手、写真撮影",
+   "minutes": 28
+  },
+  {
+   "start": "15:19",
+   "end": "15:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "15:22",
+   "end": "15:58",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "15:58",
+   "end": "16:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 44
+  },
+  {
+   "start": "16:42",
+   "end": "16:47",
+   "category": "移動",
+   "label": "休憩。アイスクリームを購入",
+   "minutes": 5
+  },
+  {
+   "start": "16:47",
+   "end": "17:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 57
+  },
+  {
+   "start": "17:44",
+   "end": "17:52",
+   "category": "党務",
+   "label": "練り歩き",
+   "minutes": 8
+  },
+  {
+   "start": "17:52",
+   "end": "17:53",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 1
+  },
+  {
+   "start": "17:53",
+   "end": "18:33",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 40
+  },
+  {
+   "start": "18:33",
+   "end": "18:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:36",
+   "end": "18:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "18:51",
+   "end": "21:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 132
+  },
+  {
+   "start": "21:03",
+   "end": "21:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "21:08",
+   "end": "21:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "21:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 145
+  }
+ ],
+ "alloc_min": {
+  "居所": 641,
+  "移動": 294,
+  "公務（内容未詳）": 323,
+  "党務": 121,
+  "会食": 33,
+  "視察": 28
+ }
+}

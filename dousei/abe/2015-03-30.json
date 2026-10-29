@@ -1,0 +1,461 @@
+{
+ "date": "2015-03-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1114,
+ "residence_min": 326,
+ "meetings": 4,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "00:55",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "01:05",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:05",
+   "label": "加藤勝信官房副長官 世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:23",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:30",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:12",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "12:24",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "12:32",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:44",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:38",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "16:48",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:53",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "17:11",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:26",
+   "label": "同党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:42",
+   "label": "同党の高村正彦副総裁、谷垣禎一幹事長、二階俊博総務会長",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:54",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:10",
+   "label": "インドのパリカル国防相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:26",
+   "label": "岡部俊哉新北部方面総監 田辺揮司良旧北部方面総監",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:33",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:55",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 55
+  },
+  {
+   "start": "00:55",
+   "end": "01:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "01:05",
+   "end": "01:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "01:27",
+   "end": "08:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 439
+  },
+  {
+   "start": "08:46",
+   "end": "09:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "09:01",
+   "end": "09:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:05",
+   "end": "09:19",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官 世耕弘成官房副長官",
+   "minutes": 14
+  },
+  {
+   "start": "09:19",
+   "end": "09:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:23",
+   "end": "09:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:25",
+   "end": "09:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:30",
+   "end": "12:08",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 158
+  },
+  {
+   "start": "12:08",
+   "end": "12:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 11
+  },
+  {
+   "start": "12:23",
+   "end": "12:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "12:30",
+   "end": "12:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:32",
+   "end": "12:43",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 11
+  },
+  {
+   "start": "12:43",
+   "end": "12:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 10
+  },
+  {
+   "start": "12:54",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "13:00",
+   "end": "16:36",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 216
+  },
+  {
+   "start": "16:36",
+   "end": "16:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:38",
+   "end": "16:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "16:48",
+   "end": "16:53",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 5
+  },
+  {
+   "start": "16:53",
+   "end": "17:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "17:00",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "17:08",
+   "end": "17:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:11",
+   "end": "17:15",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 4
+  },
+  {
+   "start": "17:15",
+   "end": "17:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "17:26",
+   "end": "17:41",
+   "category": "党務",
+   "label": "同党役員会",
+   "minutes": 15
+  },
+  {
+   "start": "17:41",
+   "end": "17:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:42",
+   "end": "17:52",
+   "category": "面会・会談",
+   "label": "同党の高村正彦副総裁、谷垣禎一幹事長、二階俊博総務会長",
+   "minutes": 10
+  },
+  {
+   "start": "17:52",
+   "end": "17:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:54",
+   "end": "17:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:55",
+   "end": "18:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "18:10",
+   "end": "18:25",
+   "category": "面会・会談",
+   "label": "インドのパリカル国防相",
+   "minutes": 15
+  },
+  {
+   "start": "18:25",
+   "end": "18:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:26",
+   "end": "18:32",
+   "category": "面会・会談",
+   "label": "岡部俊哉新北部方面総監 田辺揮司良旧北部方面総監",
+   "minutes": 6
+  },
+  {
+   "start": "18:32",
+   "end": "18:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:33",
+   "end": "18:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:34",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 326
+  }
+ ],
+ "alloc_min": {
+  "外遊": 55,
+  "移動": 68,
+  "公務（内容未詳）": 503,
+  "面会・会談": 45,
+  "国会": 423,
+  "式典・行事": 5,
+  "党務": 15,
+  "居所": 326
+ }
+}

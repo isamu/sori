@@ -1,0 +1,353 @@
+{
+ "date": "2019-01-31",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 633,
+ "residence_min": 802,
+ "meetings": 3,
+ "first_work": "08:01",
+ "events": [
+  {
+   "time": "08:01",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:21",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:45",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:41",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:56",
+   "label": "内堀雅雄福島県知事らによる「あんぽ柿」の贈呈",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:46",
+   "label": "山口県下関市議選の不在者投票",
+   "place": "東京・九段南 千代田区役所",
+   "category": "個人"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "東京・九段南 千代田区役所",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:54",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:21",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:22",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:38",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 481
+  },
+  {
+   "start": "08:01",
+   "end": "08:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "08:14",
+   "end": "08:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:21",
+   "end": "08:38",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 17
+  },
+  {
+   "start": "08:38",
+   "end": "08:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:45",
+   "end": "09:45",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 60
+  },
+  {
+   "start": "09:45",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:51",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:52",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:39",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 98
+  },
+  {
+   "start": "11:39",
+   "end": "11:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:41",
+   "end": "11:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "11:42",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "11:56",
+   "end": "12:03",
+   "category": "面会・会談",
+   "label": "内堀雅雄福島県知事らによる「あんぽ柿」の贈呈",
+   "minutes": 7
+  },
+  {
+   "start": "12:03",
+   "end": "12:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "12:36",
+   "end": "12:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "12:46",
+   "end": "12:51",
+   "category": "個人",
+   "label": "山口県下関市議選の不在者投票",
+   "minutes": 5
+  },
+  {
+   "start": "12:51",
+   "end": "13:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 49
+  },
+  {
+   "start": "13:51",
+   "end": "13:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:53",
+   "end": "13:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "14:00",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:02",
+   "end": "17:19",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 197
+  },
+  {
+   "start": "17:19",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:21",
+   "end": "17:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 76
+  },
+  {
+   "start": "18:38",
+   "end": "18:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 321
+  }
+ ],
+ "alloc_min": {
+  "居所": 802,
+  "移動": 39,
+  "公務（内容未詳）": 81,
+  "面会・会談": 84,
+  "国会": 304,
+  "個人": 5,
+  "官邸執務": 125
+ }
+}

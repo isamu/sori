@@ -1,0 +1,47 @@
+{
+ "date": "2014-11-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "着",
+   "place": "ブリスベン空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "南アフリカのズマ大統領と会談",
+   "place": "ブリスベン市内のホテル「プルマン」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ノボテル・ブリスベン」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "インドのモディ首相と会談",
+   "place": "会員制社交クラブ「タターサルズ・クラブ」",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

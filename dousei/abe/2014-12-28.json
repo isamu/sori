@@ -1,0 +1,98 @@
+{
+ "date": "2014-12-28",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 96,
+ "residence_min": 1138,
+ "meetings": 1,
+ "first_work": "16:33",
+ "events": [
+  {
+   "time": "16:33",
+   "label": "山口泰明自民党衆院議員",
+   "place": "私邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:13",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:50",
+   "label": "昭恵夫人とともにサザンオールスターズのコンサートを鑑賞",
+   "place": "横浜市港北区 横浜アリーナ",
+   "category": "個人"
+  },
+  {
+   "time": "21:16",
+   "label": "移動",
+   "place": "横浜市港北区 横浜アリーナ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 993
+  },
+  {
+   "start": "16:33",
+   "end": "16:55",
+   "category": "面会・会談",
+   "label": "山口泰明自民党衆院議員",
+   "minutes": 22
+  },
+  {
+   "start": "16:55",
+   "end": "17:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 18
+  },
+  {
+   "start": "17:13",
+   "end": "17:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "17:50",
+   "end": "21:16",
+   "category": "個人",
+   "label": "昭恵夫人とともにサザンオールスターズのコンサートを鑑賞",
+   "minutes": 206
+  },
+  {
+   "start": "21:16",
+   "end": "21:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "21:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 127
+  }
+ ],
+ "alloc_min": {
+  "居所": 1138,
+  "面会・会談": 22,
+  "移動": 74,
+  "個人": 206
+ }
+}

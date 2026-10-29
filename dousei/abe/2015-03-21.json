@@ -1,0 +1,129 @@
+{
+ "date": "2015-03-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 242,
+ "residence_min": 1198,
+ "meetings": 0,
+ "first_work": "09:21",
+ "events": [
+  {
+   "time": "09:21",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:29",
+   "label": "春季皇霊祭・神殿祭の儀に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:53",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:59",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "13:01",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:09",
+   "label": "東京・六本木 ホテル「グランドハイアット東京」",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": "15:15",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 561
+  },
+  {
+   "start": "09:21",
+   "end": "09:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "09:29",
+   "end": "10:53",
+   "category": "式典・行事",
+   "label": "春季皇霊祭・神殿祭の儀に出席",
+   "minutes": 84
+  },
+  {
+   "start": "10:53",
+   "end": "10:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "10:59",
+   "end": "13:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 122
+  },
+  {
+   "start": "13:01",
+   "end": "13:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "13:09",
+   "end": "15:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 126
+  },
+  {
+   "start": "15:15",
+   "end": "15:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "15:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 515
+  }
+ ],
+ "alloc_min": {
+  "居所": 1198,
+  "移動": 158,
+  "式典・行事": 84
+ }
+}

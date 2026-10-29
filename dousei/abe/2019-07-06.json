@@ -1,0 +1,335 @@
+{
+ "date": "2019-07-06",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 775,
+ "residence_min": 665,
+ "meetings": 0,
+ "first_work": "09:02",
+ "events": [
+  {
+   "time": "09:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:25",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "11:46",
+   "label": "利用客らと握手、写真撮影",
+   "place": "ＪＲ米原駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:48",
+   "label": "移動",
+   "place": "ＪＲ米原駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:12",
+   "label": "滋賀県長浜市 大通寺前",
+   "place": "滋賀県長浜市 大通寺前",
+   "category": "移動"
+  },
+  {
+   "time": "12:13",
+   "label": "徒歩",
+   "place": "滋賀県長浜市 大通寺前",
+   "category": "移動"
+  },
+  {
+   "time": "12:26",
+   "label": "街頭演説。練り歩き。同商店街のうどん店「茂美志や」で昼食",
+   "place": "同市 長浜大手門通り商店街",
+   "category": "会食"
+  },
+  {
+   "time": "13:20",
+   "label": "移動",
+   "place": "同市 長浜大手門通り商店街",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "街頭演説",
+   "place": "同県彦根市 スーパー「パリヤ」前",
+   "category": "党務"
+  },
+  {
+   "time": "14:25",
+   "label": "移動",
+   "place": "同県彦根市 スーパー「パリヤ」前",
+   "category": "移動"
+  },
+  {
+   "time": "15:26",
+   "label": "街頭演説",
+   "place": "ＪＲ草津駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "15:55",
+   "label": "移動",
+   "place": "ＪＲ草津駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "16:23",
+   "label": "大岡敏孝自民党衆院議員ら出迎え。視察、黙とう",
+   "place": "大津市 保育園児ら１６人が死傷した交通事故現場",
+   "category": "視察"
+  },
+  {
+   "time": "16:25",
+   "label": "移動",
+   "place": "大津市 保育園児ら１６人が死傷した交通事故現場",
+   "category": "移動"
+  },
+  {
+   "time": "17:04",
+   "label": "休憩、利用客と握手、写真撮影",
+   "place": "京都市南区 名神高速道路桂川パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:07",
+   "label": "移動",
+   "place": "京都市南区 名神高速道路桂川パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "練り歩き。街頭演説",
+   "place": "大阪市北区 天神橋筋商店街",
+   "category": "党務"
+  },
+  {
+   "time": "18:37",
+   "label": "移動",
+   "place": "大阪市北区 天神橋筋商店街",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "ＪＲ新大阪駅",
+   "place": "ＪＲ新大阪駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:33",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:37",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 542
+  },
+  {
+   "start": "09:02",
+   "end": "09:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "09:25",
+   "end": "09:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:33",
+   "end": "11:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 133
+  },
+  {
+   "start": "11:46",
+   "end": "11:47",
+   "category": "移動",
+   "label": "利用客らと握手、写真撮影",
+   "minutes": 1
+  },
+  {
+   "start": "11:47",
+   "end": "11:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:48",
+   "end": "12:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "12:12",
+   "end": "12:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:13",
+   "end": "12:26",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 13
+  },
+  {
+   "start": "12:26",
+   "end": "13:20",
+   "category": "会食",
+   "label": "街頭演説。練り歩き。同商店街のうどん店「茂美志や」で昼食",
+   "minutes": 54
+  },
+  {
+   "start": "13:20",
+   "end": "13:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "13:55",
+   "end": "14:25",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "14:25",
+   "end": "15:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 61
+  },
+  {
+   "start": "15:26",
+   "end": "15:55",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "15:55",
+   "end": "16:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "16:23",
+   "end": "16:25",
+   "category": "視察",
+   "label": "大岡敏孝自民党衆院議員ら出迎え。視察、黙とう",
+   "minutes": 2
+  },
+  {
+   "start": "16:25",
+   "end": "17:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "17:04",
+   "end": "17:07",
+   "category": "移動",
+   "label": "休憩、利用客と握手、写真撮影",
+   "minutes": 3
+  },
+  {
+   "start": "17:07",
+   "end": "17:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 40
+  },
+  {
+   "start": "17:47",
+   "end": "18:37",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 50
+  },
+  {
+   "start": "18:37",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "18:56",
+   "end": "19:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "19:07",
+   "end": "21:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 146
+  },
+  {
+   "start": "21:33",
+   "end": "21:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "21:37",
+   "end": "21:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:57",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 123
+  }
+ ],
+ "alloc_min": {
+  "居所": 665,
+  "移動": 318,
+  "公務（内容未詳）": 292,
+  "会食": 54,
+  "党務": 109,
+  "視察": 2
+ }
+}

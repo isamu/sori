@@ -1,0 +1,130 @@
+{
+ "date": "2018-11-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 112,
+ "residence_min": 1132,
+ "meetings": 0,
+ "first_work": "10:02",
+ "events": [
+  {
+   "time": "10:02",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:11",
+   "label": "文化勲章親授式に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:06",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:19",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:06",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:20",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "個人"
+  },
+  {
+   "time": "17:36",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 602
+  },
+  {
+   "start": "10:02",
+   "end": "10:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "10:11",
+   "end": "11:06",
+   "category": "式典・行事",
+   "label": "文化勲章親授式に出席",
+   "minutes": 55
+  },
+  {
+   "start": "11:06",
+   "end": "11:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "11:19",
+   "end": "14:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 167
+  },
+  {
+   "start": "14:06",
+   "end": "14:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "14:20",
+   "end": "17:36",
+   "category": "個人",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "minutes": 196
+  },
+  {
+   "start": "17:36",
+   "end": "17:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "17:57",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 363
+  }
+ ],
+ "alloc_min": {
+  "居所": 1132,
+  "移動": 57,
+  "式典・行事": 55,
+  "個人": 196
+ }
+}

@@ -1,0 +1,369 @@
+{
+ "date": "2018-02-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 968,
+ "residence_min": 472,
+ "meetings": 4,
+ "first_work": "07:12",
+ "events": [
+  {
+   "time": "07:12",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:03",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:08",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:26",
+   "label": "太宰府天満宮「梅の使節」の西高辻信良宮司",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "ノルウェーのソルベルグ首相出迎え、記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:03",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:10",
+   "label": "ソルベルグ首相と会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:05",
+   "label": "共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:14",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:15",
+   "label": "安倍晋三首相主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:45",
+   "label": "ソルベルグ首相を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "22:02",
+   "label": "トランプ米大統領と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "23:34",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 432
+  },
+  {
+   "start": "07:12",
+   "end": "07:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:13",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "07:30",
+   "end": "08:47",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 77
+  },
+  {
+   "start": "08:47",
+   "end": "08:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:51",
+   "end": "08:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:52",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:57",
+   "end": "11:59",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 182
+  },
+  {
+   "start": "11:59",
+   "end": "12:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "12:03",
+   "end": "12:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 51
+  },
+  {
+   "start": "12:55",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:05",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 245
+  },
+  {
+   "start": "17:05",
+   "end": "17:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:08",
+   "end": "17:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:10",
+   "end": "17:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "17:26",
+   "end": "17:32",
+   "category": "面会・会談",
+   "label": "太宰府天満宮「梅の使節」の西高辻信良宮司",
+   "minutes": 6
+  },
+  {
+   "start": "17:32",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "18:02",
+   "end": "18:03",
+   "category": "式典・行事",
+   "label": "ノルウェーのソルベルグ首相出迎え、記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "18:03",
+   "end": "18:09",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 6
+  },
+  {
+   "start": "18:09",
+   "end": "18:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:10",
+   "end": "19:02",
+   "category": "面会・会談",
+   "label": "ソルベルグ首相と会談",
+   "minutes": 52
+  },
+  {
+   "start": "19:02",
+   "end": "19:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:05",
+   "end": "19:13",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 8
+  },
+  {
+   "start": "19:13",
+   "end": "19:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:14",
+   "end": "19:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:15",
+   "end": "20:45",
+   "category": "会食",
+   "label": "安倍晋三首相主催の夕食会",
+   "minutes": 90
+  },
+  {
+   "start": "20:45",
+   "end": "22:02",
+   "category": "式典・行事",
+   "label": "ソルベルグ首相を見送り",
+   "minutes": 77
+  },
+  {
+   "start": "22:02",
+   "end": "23:18",
+   "category": "面会・会談",
+   "label": "トランプ米大統領と電話会談",
+   "minutes": 76
+  },
+  {
+   "start": "23:18",
+   "end": "23:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 16
+  },
+  {
+   "start": "23:34",
+   "end": "23:36",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "23:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 24
+  }
+ ],
+ "alloc_min": {
+  "居所": 472,
+  "移動": 7,
+  "公務（内容未詳）": 88,
+  "面会・会談": 211,
+  "国会": 427,
+  "官邸執務": 51,
+  "式典・行事": 84,
+  "取材・会見": 10,
+  "会食": 90
+ }
+}

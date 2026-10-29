@@ -1,0 +1,71 @@
+{
+ "date": "2019-01-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 4,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "世界経済フォーラムのシュワブ会長主催の昼食会に出席",
+   "place": "ダボスのコングレスセンター",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "世界経済フォーラム年次総会（ダボス会議）に出席し、演説",
+   "place": "ダボスのコングレスセンター",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "スイス・チューリヒのチューリヒ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日本企業など主催のイベント「ジャパン・ナイト」に出席し、あいさつ",
+   "place": "セントラルスポーツホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ブラジルのボルソナロ大統領と会談",
+   "place": "ホテル・ゼーホフ・ダボス",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ビジネス関係者と懇談",
+   "place": "スイス・ダボス市内",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "各国メディア関係者と意見交換",
+   "place": "ダボスのコングレスセンター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "スイスのマウラー大統領と立ち話",
+   "place": "ダボスのコングレスセンター",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

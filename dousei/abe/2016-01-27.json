@@ -1,0 +1,420 @@
+{
+ "date": "2016-01-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 725,
+ "residence_min": 715,
+ "meetings": 4,
+ "first_work": "08:16",
+ "events": [
+  {
+   "time": "08:16",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:34",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:55",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "09:58",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:31",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:32",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:58",
+   "label": "石破茂地方創生担当相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:00",
+   "label": "小野寺五典元防衛相",
+   "place": "国会 衆院本会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:20",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "16:45",
+   "label": "教育再生首長会議の松浦正人山口県防府市長らの表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:39",
+   "label": "同ホテル内の宴会場「芙蓉の間」で国民政治協会主催の「経済界と自民党役員との新年懇談会」出席",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "党務"
+  },
+  {
+   "time": "18:21",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "ビルの披露パーティーに出席し、あいさつ",
+   "place": "東京・虎ノ門 笹川平和財団ビル",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:38",
+   "label": "移動",
+   "place": "東京・虎ノ門 笹川平和財団ビル",
+   "category": "移動"
+  },
+  {
+   "time": "18:50",
+   "label": "同ホテル内の宴会場「橘」で自民党の政策グループ「きさらぎ会」の新年会に出席し、あいさつ",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:02",
+   "label": "移動",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 496
+  },
+  {
+   "start": "08:16",
+   "end": "08:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:17",
+   "end": "08:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "08:34",
+   "end": "08:54",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 20
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "09:03",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 8
+  },
+  {
+   "start": "09:03",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:54",
+   "end": "09:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "09:57",
+   "end": "09:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:58",
+   "end": "09:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "09:59",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:01",
+   "end": "11:28",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 87
+  },
+  {
+   "start": "11:28",
+   "end": "11:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:31",
+   "end": "11:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 143
+  },
+  {
+   "start": "13:55",
+   "end": "13:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:56",
+   "end": "13:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:58",
+   "end": "13:59",
+   "category": "国会",
+   "label": "石破茂地方創生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "13:59",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:00",
+   "end": "14:01",
+   "category": "面会・会談",
+   "label": "小野寺五典元防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "14:01",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:02",
+   "end": "16:18",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 136
+  },
+  {
+   "start": "16:18",
+   "end": "16:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:20",
+   "end": "16:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:21",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "16:45",
+   "end": "16:58",
+   "category": "面会・会談",
+   "label": "教育再生首長会議の松浦正人山口県防府市長らの表敬",
+   "minutes": 13
+  },
+  {
+   "start": "16:58",
+   "end": "17:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "17:31",
+   "end": "17:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "17:39",
+   "end": "18:21",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「芙蓉の間」で国民政治協会主催の「経済界と自民党役員との新年懇談会」出席",
+   "minutes": 42
+  },
+  {
+   "start": "18:21",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:30",
+   "end": "18:38",
+   "category": "式典・行事",
+   "label": "ビルの披露パーティーに出席し、あいさつ",
+   "minutes": 8
+  },
+  {
+   "start": "18:38",
+   "end": "18:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "18:50",
+   "end": "20:02",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「橘」で自民党の政策グループ「きさらぎ会」の新年会に出席し、あいさつ",
+   "minutes": 72
+  },
+  {
+   "start": "20:02",
+   "end": "20:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "20:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 219
+  }
+ ],
+ "alloc_min": {
+  "居所": 715,
+  "移動": 53,
+  "公務（内容未詳）": 138,
+  "面会・会談": 42,
+  "国会": 227,
+  "官邸執務": 143,
+  "党務": 42,
+  "式典・行事": 80
+ }
+}

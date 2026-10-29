@@ -1,0 +1,165 @@
+{
+ "date": "2016-08-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 290,
+ "residence_min": 1150,
+ "meetings": 2,
+ "first_work": "10:53",
+ "events": [
+  {
+   "time": "10:53",
+   "label": "西村泰彦内閣危機管理監",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:02",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:09",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:17",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "15:29",
+   "label": "原田親仁日ロ関係担当大使 杉山晋輔事務次官 秋葉剛男外務審議官 林肇欧州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:06",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:08",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:14",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 653
+  },
+  {
+   "start": "10:53",
+   "end": "11:04",
+   "category": "面会・会談",
+   "label": "西村泰彦内閣危機管理監",
+   "minutes": 11
+  },
+  {
+   "start": "11:04",
+   "end": "14:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 178
+  },
+  {
+   "start": "14:02",
+   "end": "14:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:09",
+   "end": "14:17",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 8
+  },
+  {
+   "start": "14:17",
+   "end": "14:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "14:26",
+   "end": "15:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "15:29",
+   "end": "17:11",
+   "category": "面会・会談",
+   "label": "原田親仁日ロ関係担当大使 杉山晋輔事務次官 秋葉剛男外務審議官 林肇欧州局長",
+   "minutes": 102
+  },
+  {
+   "start": "17:11",
+   "end": "18:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "18:06",
+   "end": "18:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:08",
+   "end": "18:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 6
+  },
+  {
+   "start": "18:14",
+   "end": "18:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "18:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 313
+  }
+ ],
+ "alloc_min": {
+  "居所": 1150,
+  "面会・会談": 113,
+  "移動": 51,
+  "式典・行事": 8,
+  "公務（内容未詳）": 118
+ }
+}

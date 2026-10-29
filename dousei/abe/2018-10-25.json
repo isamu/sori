@@ -1,0 +1,243 @@
+{
+ "date": "2018-10-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 915,
+ "residence_min": 525,
+ "meetings": 6,
+ "first_work": "08:45",
+ "events": [
+  {
+   "time": "08:45",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:15",
+   "label": "カナダのトルドー首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:49",
+   "label": "岡浩中東アフリカ局長 高橋泰三資源エネルギー庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:24",
+   "label": "鈴木哲総合外交政策局長 槌道明宏防衛政策局長 本松敬史統合幕僚副長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:01",
+   "label": "自民党の吉田博美参院幹事長、大家敏志参院副幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:25",
+   "label": "鈴木宗男元衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:58",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:01",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:20",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "長富宮飯店",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "李首相主催の非公式夕食会",
+   "place": "人民大会堂",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "同条約締結40周年レセプション",
+   "place": "人民大会堂",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "日中経済協力写真展を鑑賞",
+   "place": "人民大会堂",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日中平和友好条約の関係者と記念写真撮影",
+   "place": "人民大会堂",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "李克強首相と懇談",
+   "place": "人民大会堂",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "中国・北京市内の北京首都国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 525
+  },
+  {
+   "start": "08:45",
+   "end": "08:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "08:57",
+   "end": "09:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "09:15",
+   "end": "09:45",
+   "category": "面会・会談",
+   "label": "カナダのトルドー首相と電話会談",
+   "minutes": 30
+  },
+  {
+   "start": "09:45",
+   "end": "09:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:49",
+   "end": "09:59",
+   "category": "面会・会談",
+   "label": "岡浩中東アフリカ局長 高橋泰三資源エネルギー庁長官",
+   "minutes": 10
+  },
+  {
+   "start": "09:59",
+   "end": "10:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "10:24",
+   "end": "11:00",
+   "category": "面会・会談",
+   "label": "鈴木哲総合外交政策局長 槌道明宏防衛政策局長 本松敬史統合幕僚副長",
+   "minutes": 36
+  },
+  {
+   "start": "11:00",
+   "end": "11:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:01",
+   "end": "11:24",
+   "category": "面会・会談",
+   "label": "自民党の吉田博美参院幹事長、大家敏志参院副幹事長",
+   "minutes": 23
+  },
+  {
+   "start": "11:24",
+   "end": "11:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:25",
+   "end": "11:40",
+   "category": "面会・会談",
+   "label": "鈴木宗男元衆院議員",
+   "minutes": 15
+  },
+  {
+   "start": "11:40",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "11:58",
+   "end": "12:00",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "12:00",
+   "end": "12:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:01",
+   "end": "12:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "12:20",
+   "end": "12:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "12:44",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 676
+  }
+ ],
+ "alloc_min": {
+  "居所": 525,
+  "移動": 55,
+  "公務（内容未詳）": 68,
+  "面会・会談": 114,
+  "取材・会見": 2,
+  "外遊": 676
+ }
+}

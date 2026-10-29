@@ -1,0 +1,494 @@
+{
+ "date": "2015-02-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 790,
+ "residence_min": 650,
+ "meetings": 3,
+ "first_work": "08:01",
+ "events": [
+  {
+   "time": "08:01",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:20",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:15",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:33",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:35",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:51",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "16:11",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "16:20",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "16:28",
+   "label": "菅義偉官房長官",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:30",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:41",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "16:51",
+   "label": "甘利明経済財政担当相 松山健士事務次官 田和宏政策統括官",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:09",
+   "label": "中谷元防衛相 平松賢司総合外交政策局長 丸山則夫アフリカ部長 深山延暁運用企画局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:23",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:07",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:17",
+   "label": "日本女性エグゼクティブ協会のセミナーに出席し、あいさつ",
+   "place": "東京・麻布台 「東京アメリカンクラブ」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:46",
+   "label": "移動",
+   "place": "東京・麻布台 「東京アメリカンクラブ」",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "葛西敬之ＪＲ東海名誉会長、古森重隆富士フイルムホールディングス会長と会食",
+   "place": "東京・南麻布 日本料理店「有栖川清水」",
+   "category": "会食"
+  },
+  {
+   "time": "20:52",
+   "label": "移動",
+   "place": "東京・南麻布 日本料理店「有栖川清水」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 481
+  },
+  {
+   "start": "08:01",
+   "end": "08:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "08:16",
+   "end": "08:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:20",
+   "end": "09:07",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 47
+  },
+  {
+   "start": "09:07",
+   "end": "09:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:15",
+   "end": "09:37",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 22
+  },
+  {
+   "start": "09:37",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "09:53",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:55",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:31",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 90
+  },
+  {
+   "start": "11:31",
+   "end": "11:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:33",
+   "end": "11:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 77
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "12:57",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:01",
+   "end": "15:50",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 169
+  },
+  {
+   "start": "15:50",
+   "end": "15:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 14
+  },
+  {
+   "start": "16:05",
+   "end": "16:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "16:11",
+   "end": "16:18",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 7
+  },
+  {
+   "start": "16:18",
+   "end": "16:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "16:25",
+   "end": "16:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:28",
+   "end": "16:29",
+   "category": "国会",
+   "label": "菅義偉官房長官",
+   "minutes": 1
+  },
+  {
+   "start": "16:29",
+   "end": "16:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:30",
+   "end": "16:38",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 8
+  },
+  {
+   "start": "16:38",
+   "end": "16:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:41",
+   "end": "16:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:43",
+   "end": "16:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "16:51",
+   "end": "17:08",
+   "category": "官邸執務",
+   "label": "甘利明経済財政担当相 松山健士事務次官 田和宏政策統括官",
+   "minutes": 17
+  },
+  {
+   "start": "17:08",
+   "end": "17:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:09",
+   "end": "17:22",
+   "category": "面会・会談",
+   "label": "中谷元防衛相 平松賢司総合外交政策局長 丸山則夫アフリカ部長 深山延暁運用企画局長 河野克俊統合幕僚長",
+   "minutes": 13
+  },
+  {
+   "start": "17:22",
+   "end": "17:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:23",
+   "end": "18:05",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 42
+  },
+  {
+   "start": "18:05",
+   "end": "18:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:07",
+   "end": "18:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:17",
+   "end": "18:46",
+   "category": "式典・行事",
+   "label": "日本女性エグゼクティブ協会のセミナーに出席し、あいさつ",
+   "minutes": 29
+  },
+  {
+   "start": "18:46",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:56",
+   "end": "20:52",
+   "category": "会食",
+   "label": "葛西敬之ＪＲ東海名誉会長、古森重隆富士フイルムホールディングス会長と会食",
+   "minutes": 116
+  },
+  {
+   "start": "20:52",
+   "end": "21:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "21:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 169
+  }
+ ],
+ "alloc_min": {
+  "居所": 650,
+  "移動": 61,
+  "公務（内容未詳）": 68,
+  "面会・会談": 82,
+  "国会": 298,
+  "官邸執務": 136,
+  "式典・行事": 29,
+  "会食": 116
+ }
+}

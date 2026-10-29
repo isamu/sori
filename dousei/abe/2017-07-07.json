@@ -1,0 +1,107 @@
+{
+ "date": "2017-07-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 7,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "20カ国・地域（Ｇ20）首脳による非公式会合",
+   "place": "ハンブルクメッセ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "中国の習近平国家主席と立ち話",
+   "place": "ハンブルクメッセ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ドイツのメルケル首相による出迎え",
+   "place": "ハンブルクメッセ",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "韓国の文在寅大統領と会談",
+   "place": "ハンブルクメッセ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "「ラディソン・ブル・ホテル・ハンブルク」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "ドイツのメルケル首相夫妻主催夕食会",
+   "place": "ドイツ・ハンブルクのコンサートホール「エルプフィルハーモニー」",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "コンサート鑑賞",
+   "place": "ドイツ・ハンブルクのコンサートホール「エルプフィルハーモニー」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "20カ国・地域（Ｇ20）首脳と写真撮影",
+   "place": "ドイツ・ハンブルクのコンサートホール「エルプフィルハーモニー」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ロシアのプーチン大統領と会談",
+   "place": "ハンブルクメッセ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "首脳会合",
+   "place": "ハンブルクメッセ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "トルコのエルドアン大統領と会談",
+   "place": "ハンブルクメッセ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "インドのモディ首相と会談",
+   "place": "ハンブルクメッセ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ワーキングランチ",
+   "place": "ハンブルクメッセ",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "Ｇ20首脳と写真撮影",
+   "place": "ハンブルクメッセ",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

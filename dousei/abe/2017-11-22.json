@@ -1,0 +1,422 @@
+{
+ "date": "2017-11-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 794,
+ "residence_min": 646,
+ "meetings": 4,
+ "first_work": "08:11",
+ "events": [
+  {
+   "time": "08:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:32",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:03",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "10:06",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:35",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:37",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:56",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:00",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "15:24",
+   "label": "山口那津男公明党代表",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "15:50",
+   "label": "杉山晋輔事務次官 秋葉剛男審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:19",
+   "label": "中川雅治環境相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:09",
+   "label": "公明党の大口善徳国対委員長、浮島智子文科部会長らによる私立高校無償化などに関する申し入れ",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "17:19",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:55",
+   "label": "「ディスカバー農山漁村の宝」選定事業者と記念撮影。交流会であいさつ",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:02",
+   "label": "同ホテル内の日本料理店「千代田」で渡辺恒雄読売新聞グループ本社主筆と会食",
+   "place": "東京・飯田橋 ホテルグランドパレス",
+   "category": "会食"
+  },
+  {
+   "time": "21:08",
+   "label": "移動",
+   "place": "東京・飯田橋 ホテルグランドパレス",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 491
+  },
+  {
+   "start": "08:11",
+   "end": "08:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "08:24",
+   "end": "08:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:32",
+   "end": "09:30",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 58
+  },
+  {
+   "start": "09:30",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "09:52",
+   "end": "09:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:54",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "10:02",
+   "end": "10:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:03",
+   "end": "10:04",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "10:04",
+   "end": "10:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:06",
+   "end": "11:33",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 87
+  },
+  {
+   "start": "11:33",
+   "end": "11:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:35",
+   "end": "11:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 76
+  },
+  {
+   "start": "12:53",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:55",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "12:57",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:01",
+   "end": "14:58",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 117
+  },
+  {
+   "start": "14:58",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:00",
+   "end": "15:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:02",
+   "end": "15:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "15:24",
+   "end": "15:49",
+   "category": "党務",
+   "label": "山口那津男公明党代表",
+   "minutes": 25
+  },
+  {
+   "start": "15:49",
+   "end": "15:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:50",
+   "end": "16:18",
+   "category": "面会・会談",
+   "label": "杉山晋輔事務次官 秋葉剛男審議官",
+   "minutes": 28
+  },
+  {
+   "start": "16:18",
+   "end": "16:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:19",
+   "end": "16:41",
+   "category": "面会・会談",
+   "label": "中川雅治環境相",
+   "minutes": 22
+  },
+  {
+   "start": "16:41",
+   "end": "17:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "17:09",
+   "end": "17:17",
+   "category": "党務",
+   "label": "公明党の大口善徳国対委員長、浮島智子文科部会長らによる私立高校無償化などに関する申し入れ",
+   "minutes": 8
+  },
+  {
+   "start": "17:17",
+   "end": "17:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:19",
+   "end": "17:45",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "minutes": 26
+  },
+  {
+   "start": "17:45",
+   "end": "17:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:55",
+   "end": "18:52",
+   "category": "式典・行事",
+   "label": "「ディスカバー農山漁村の宝」選定事業者と記念撮影。交流会であいさつ",
+   "minutes": 57
+  },
+  {
+   "start": "18:52",
+   "end": "19:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "19:02",
+   "end": "21:08",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「千代田」で渡辺恒雄読売新聞グループ本社主筆と会食",
+   "minutes": 126
+  },
+  {
+   "start": "21:08",
+   "end": "21:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "21:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 155
+  }
+ ],
+ "alloc_min": {
+  "居所": 646,
+  "移動": 48,
+  "公務（内容未詳）": 108,
+  "面会・会談": 134,
+  "国会": 212,
+  "官邸執務": 76,
+  "党務": 33,
+  "式典・行事": 57,
+  "会食": 126
+ }
+}

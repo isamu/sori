@@ -1,0 +1,335 @@
+{
+ "date": "2018-04-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 544,
+ "residence_min": 866,
+ "meetings": 4,
+ "first_work": "09:10",
+ "events": [
+  {
+   "time": "09:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:27",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:35",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:02",
+   "label": "情報保全諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:18",
+   "label": "秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:25",
+   "label": "小野寺五典防衛相 前田哲防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:22",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 鈴木哲総合外交政策局長 岡真臣防衛政策局次長 本松敬史統合幕僚副長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:00",
+   "label": "歯の治療",
+   "place": "東京・富士見 日本歯科大付属病院",
+   "category": "個人"
+  },
+  {
+   "time": "16:30",
+   "label": "移動",
+   "place": "東京・富士見 日本歯科大付属病院",
+   "category": "移動"
+  },
+  {
+   "time": "16:45",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "17:03",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:32",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:35",
+   "label": "鈴木哲総合外交政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:20",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:28",
+   "label": "同ホテル内の宴会場「鶴の間」で自民党二階派のパーティーに出席し、あいさつ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "党務"
+  },
+  {
+   "time": "18:38",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 550
+  },
+  {
+   "start": "09:10",
+   "end": "09:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "09:27",
+   "end": "09:35",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 8
+  },
+  {
+   "start": "09:35",
+   "end": "09:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "09:42",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "10:02",
+   "end": "10:09",
+   "category": "官邸執務",
+   "label": "情報保全諮問会議",
+   "minutes": 7
+  },
+  {
+   "start": "10:09",
+   "end": "11:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 69
+  },
+  {
+   "start": "11:18",
+   "end": "12:00",
+   "category": "面会・会談",
+   "label": "秋葉剛男事務次官",
+   "minutes": 42
+  },
+  {
+   "start": "12:00",
+   "end": "14:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 145
+  },
+  {
+   "start": "14:25",
+   "end": "15:21",
+   "category": "面会・会談",
+   "label": "小野寺五典防衛相 前田哲防衛政策局長",
+   "minutes": 56
+  },
+  {
+   "start": "15:21",
+   "end": "15:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:22",
+   "end": "15:36",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 鈴木哲総合外交政策局長 岡真臣防衛政策局次長 本松敬史統合幕僚副長",
+   "minutes": 14
+  },
+  {
+   "start": "15:36",
+   "end": "15:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "15:48",
+   "end": "16:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "16:00",
+   "end": "16:30",
+   "category": "個人",
+   "label": "歯の治療",
+   "minutes": 30
+  },
+  {
+   "start": "16:30",
+   "end": "16:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "16:44",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 16
+  },
+  {
+   "start": "17:01",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:03",
+   "end": "17:30",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 27
+  },
+  {
+   "start": "17:30",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:32",
+   "end": "17:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:34",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:35",
+   "end": "18:00",
+   "category": "面会・会談",
+   "label": "鈴木哲総合外交政策局長",
+   "minutes": 25
+  },
+  {
+   "start": "18:00",
+   "end": "18:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "18:20",
+   "end": "18:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:28",
+   "end": "18:38",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「鶴の間」で自民党二階派のパーティーに出席し、あいさつ",
+   "minutes": 10
+  },
+  {
+   "start": "18:38",
+   "end": "18:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:44",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 316
+  }
+ ],
+ "alloc_min": {
+  "居所": 866,
+  "移動": 66,
+  "式典・行事": 8,
+  "公務（内容未詳）": 273,
+  "官邸執務": 7,
+  "面会・会談": 137,
+  "個人": 30,
+  "国会": 16,
+  "党務": 37
+ }
+}

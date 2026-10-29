@@ -1,0 +1,77 @@
+{
+ "date": "2024-08-04",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 176,
+ "residence_min": 1264,
+ "meetings": 0,
+ "first_work": "11:41",
+ "events": [
+  {
+   "time": "11:41",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:53",
+   "label": "裕子夫人ら親族と食事",
+   "place": "東京・神宮前 中国料理店「南国酒家　原宿本店」",
+   "category": "会食"
+  },
+  {
+   "time": "14:25",
+   "label": "移動",
+   "place": "東京・神宮前 中国料理店「南国酒家　原宿本店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 701
+  },
+  {
+   "start": "11:41",
+   "end": "11:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "11:53",
+   "end": "14:25",
+   "category": "会食",
+   "label": "裕子夫人ら親族と食事",
+   "minutes": 152
+  },
+  {
+   "start": "14:25",
+   "end": "14:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "14:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 563
+  }
+ ],
+ "alloc_min": {
+  "居所": 1264,
+  "移動": 24,
+  "会食": 152
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "date": "2019-09-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 50,
+ "residence_min": 1292,
+ "meetings": 0,
+ "first_work": "15:29",
+ "events": [
+  {
+   "time": "15:29",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:48",
+   "label": "同館内の宴会場「ローズＷｅｓｔ」で亀岡偉民文部科学副大臣兼内閣府副大臣の長男の結婚披露宴に出席",
+   "place": "東京・丸の内 東京会館",
+   "category": "個人"
+  },
+  {
+   "time": "17:26",
+   "label": "移動",
+   "place": "東京・丸の内 東京会館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 929
+  },
+  {
+   "start": "15:29",
+   "end": "15:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "15:48",
+   "end": "17:26",
+   "category": "個人",
+   "label": "同館内の宴会場「ローズＷｅｓｔ」で亀岡偉民文部科学副大臣兼内閣府副大臣の長男の結婚披露宴に出席",
+   "minutes": 98
+  },
+  {
+   "start": "17:26",
+   "end": "17:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "17:57",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 363
+  }
+ ],
+ "alloc_min": {
+  "居所": 1292,
+  "移動": 50,
+  "個人": 98
+ }
+}

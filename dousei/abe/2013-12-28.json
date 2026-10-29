@@ -1,0 +1,50 @@
+{
+ "date": "2013-12-28",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2013.12.28",
+ "work_min": 0,
+ "residence_min": 1341,
+ "meetings": 0,
+ "first_work": "10:20",
+ "events": [
+  {
+   "time": "10:20",
+   "label": "東京・渋谷の美容室「ＨＡＩＲ ＧＵＥＳＴ」で散髪",
+   "place": "渋谷",
+   "category": "個人"
+  },
+  {
+   "time": "11:59",
+   "label": "公邸。公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 620
+  },
+  {
+   "start": "10:20",
+   "end": "11:59",
+   "category": "個人",
+   "label": "東京・渋谷の美容室「ＨＡＩＲ ＧＵＥＳＴ」で散髪",
+   "minutes": 99
+  },
+  {
+   "start": "11:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 721
+  }
+ ],
+ "alloc_min": {
+  "居所": 1341,
+  "個人": 99
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "date": "2015-10-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "トルクメニスタン大統領宮殿",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "共同声明などの署名式",
+   "place": "トルクメニスタン大統領宮殿",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ベルドイムハメドフ大統領と会談",
+   "place": "トルクメニスタン大統領宮殿",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "歓迎式典",
+   "place": "トルクメニスタン大統領宮殿",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "トルクメニスタンのホテル「ソフィテル・アシガバート・オグスケント」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "晩さん会。茶会",
+   "place": "トルクメニスタン大統領宮殿",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "名誉教授号授与式に出席し、あいさつ",
+   "place": "トルクメニスタン国立総合大学",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "経済ミッションとの会合に出席。ビジネスフォーラムであいさつ",
+   "place": "インディス・ホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ベルドイムハメドフ大統領と「アハルテケ馬」を鑑賞",
+   "place": "大統領競馬場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "献花、植樹式",
+   "place": "独立記念塔",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "経済ミッションとの昼食会",
+   "place": "ホテル「ソフィテル・アシガバート・オグスケント」",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

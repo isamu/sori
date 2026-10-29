@@ -1,0 +1,156 @@
+{
+ "date": "2015-12-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 214,
+ "residence_min": 1115,
+ "meetings": 0,
+ "first_work": "10:55",
+ "events": [
+  {
+   "time": "10:55",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:10",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "15:47",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:59",
+   "label": "同ホテル内の「村儀理容室」で散髪",
+   "place": "東京・西新宿 ホテル「ヒルトン東京」",
+   "category": "個人"
+  },
+  {
+   "time": "17:01",
+   "label": "移動",
+   "place": "東京・西新宿 ホテル「ヒルトン東京」",
+   "category": "移動"
+  },
+  {
+   "time": "17:19",
+   "label": "買い物",
+   "place": "東京・道玄坂 東急百貨店本店",
+   "category": "個人"
+  },
+  {
+   "time": "18:08",
+   "label": "移動",
+   "place": "東京・道玄坂 東急百貨店本店",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "同ホテル内のレストラン「アンダーズ　タヴァン」で昭恵夫人とともに北村滋内閣情報官夫妻、田中一穂財務事務次官夫妻、林肇外務省欧州局長夫妻らと食事",
+   "place": "東京・虎ノ門 ホテル「アンダーズ東京」",
+   "category": "会食"
+  },
+  {
+   "time": "20:41",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「アンダーズ東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 655
+  },
+  {
+   "start": "10:55",
+   "end": "11:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "11:10",
+   "end": "15:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 277
+  },
+  {
+   "start": "15:47",
+   "end": "15:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "15:59",
+   "end": "17:01",
+   "category": "個人",
+   "label": "同ホテル内の「村儀理容室」で散髪",
+   "minutes": 62
+  },
+  {
+   "start": "17:01",
+   "end": "17:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "17:19",
+   "end": "18:08",
+   "category": "個人",
+   "label": "買い物",
+   "minutes": 49
+  },
+  {
+   "start": "18:08",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "18:30",
+   "end": "20:41",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「アンダーズ　タヴァン」で昭恵夫人とともに北村滋内閣情報官夫妻、田中一穂財務事務次官夫妻、林肇外務省欧州局長夫妻らと食事",
+   "minutes": 131
+  },
+  {
+   "start": "20:41",
+   "end": "20:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "20:57",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 183
+  }
+ ],
+ "alloc_min": {
+  "居所": 1115,
+  "移動": 83,
+  "個人": 111,
+  "会食": 131
+ }
+}

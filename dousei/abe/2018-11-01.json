@@ -1,0 +1,306 @@
+{
+ "date": "2018-11-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 866,
+ "residence_min": 574,
+ "meetings": 1,
+ "first_work": "07:14",
+ "events": [
+  {
+   "time": "07:14",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:16",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:06",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:04",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:06",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:57",
+   "label": "準天頂衛星システム「みちびき」サービス開始記念式典に出席し、あいさつ。記念撮影",
+   "place": "東京・赤坂 複合施設「赤坂インターシティＡＩＲ」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:07",
+   "label": "移動",
+   "place": "東京・赤坂 複合施設「赤坂インターシティＡＩＲ」",
+   "category": "移動"
+  },
+  {
+   "time": "18:26",
+   "label": "同ホテル内の宴会場「グランドホール椿」で自衛隊記念日のレセプションに出席し、あいさつ",
+   "place": "東京・関口 ホテル椿山荘東京",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:46",
+   "label": "移動",
+   "place": "東京・関口 ホテル椿山荘東京",
+   "category": "移動"
+  },
+  {
+   "time": "19:06",
+   "label": "同ホテル内のフランス料理店「アジュール　フォーティーファイブ」で吉田博美自民党参院幹事長、世耕弘成経済産業相らと会食",
+   "place": "東京・赤坂 ホテル「ザ・リッツ・カールトン東京」",
+   "category": "会食"
+  },
+  {
+   "time": "21:26",
+   "label": "移動",
+   "place": "東京・赤坂 ホテル「ザ・リッツ・カールトン東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 434
+  },
+  {
+   "start": "07:14",
+   "end": "07:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:15",
+   "end": "07:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:16",
+   "end": "08:47",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 91
+  },
+  {
+   "start": "08:47",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:59",
+   "end": "12:02",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 183
+  },
+  {
+   "start": "12:02",
+   "end": "12:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:05",
+   "end": "12:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 48
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:00",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 240
+  },
+  {
+   "start": "17:00",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:04",
+   "end": "17:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 48
+  },
+  {
+   "start": "17:54",
+   "end": "17:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:57",
+   "end": "18:07",
+   "category": "式典・行事",
+   "label": "準天頂衛星システム「みちびき」サービス開始記念式典に出席し、あいさつ。記念撮影",
+   "minutes": 10
+  },
+  {
+   "start": "18:07",
+   "end": "18:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "18:26",
+   "end": "18:46",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「グランドホール椿」で自衛隊記念日のレセプションに出席し、あいさつ",
+   "minutes": 20
+  },
+  {
+   "start": "18:46",
+   "end": "19:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "19:06",
+   "end": "21:26",
+   "category": "会食",
+   "label": "同ホテル内のフランス料理店「アジュール　フォーティーファイブ」で吉田博美自民党参院幹事長、世耕弘成経済産業相らと会食",
+   "minutes": 140
+  },
+  {
+   "start": "21:26",
+   "end": "21:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "21:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 140
+  }
+ ],
+ "alloc_min": {
+  "居所": 574,
+  "移動": 62,
+  "公務（内容未詳）": 24,
+  "面会・会談": 91,
+  "国会": 423,
+  "官邸執務": 96,
+  "式典・行事": 30,
+  "会食": 140
+ }
+}

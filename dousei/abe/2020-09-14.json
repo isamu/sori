@@ -1,0 +1,213 @@
+{
+ "date": "2020-09-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 533,
+ "residence_min": 907,
+ "meetings": 2,
+ "first_work": "09:41",
+ "events": [
+  {
+   "time": "09:41",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:03",
+   "label": "秋葉賢也首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "同ホテルの宴会場「崑崙」で自民党の新総裁を選ぶ両院議員総会",
+   "place": "東京・高輪 グランドプリンスホテル新高輪",
+   "category": "移動"
+  },
+  {
+   "time": "15:24",
+   "label": "あいさつ",
+   "place": "東京・高輪 グランドプリンスホテル新高輪",
+   "category": "党務"
+  },
+  {
+   "time": "15:42",
+   "label": "菅義偉自民党新総裁から花束受け取り",
+   "place": "東京・高輪 グランドプリンスホテル新高輪",
+   "category": "移動"
+  },
+  {
+   "time": "15:45",
+   "label": "移動",
+   "place": "東京・高輪 グランドプリンスホテル新高輪",
+   "category": "移動"
+  },
+  {
+   "time": "16:06",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:14",
+   "label": "北村滋国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 581
+  },
+  {
+   "start": "09:41",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "09:55",
+   "end": "10:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "10:03",
+   "end": "10:17",
+   "category": "面会・会談",
+   "label": "秋葉賢也首相補佐官",
+   "minutes": 14
+  },
+  {
+   "start": "10:17",
+   "end": "13:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 189
+  },
+  {
+   "start": "13:26",
+   "end": "13:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "13:43",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "14:00",
+   "end": "15:24",
+   "category": "移動",
+   "label": "同ホテルの宴会場「崑崙」で自民党の新総裁を選ぶ両院議員総会",
+   "minutes": 84
+  },
+  {
+   "start": "15:24",
+   "end": "15:30",
+   "category": "党務",
+   "label": "あいさつ",
+   "minutes": 6
+  },
+  {
+   "start": "15:30",
+   "end": "15:43",
+   "category": "移動",
+   "label": "同ホテルの宴会場「崑崙」で自民党の新総裁を選ぶ両院議員総会",
+   "minutes": 13
+  },
+  {
+   "start": "15:43",
+   "end": "15:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:45",
+   "end": "16:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "16:05",
+   "end": "16:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:06",
+   "end": "17:14",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 68
+  },
+  {
+   "start": "17:14",
+   "end": "17:19",
+   "category": "面会・会談",
+   "label": "北村滋国家安全保障局長",
+   "minutes": 5
+  },
+  {
+   "start": "17:19",
+   "end": "18:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "18:12",
+   "end": "18:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "18:34",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 326
+  }
+ ],
+ "alloc_min": {
+  "居所": 907,
+  "移動": 170,
+  "公務（内容未詳）": 270,
+  "面会・会談": 19,
+  "党務": 6,
+  "取材・会見": 68
+ }
+}

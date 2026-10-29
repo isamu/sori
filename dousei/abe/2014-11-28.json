@@ -1,0 +1,260 @@
+{
+ "date": "2014-11-28",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 618,
+ "residence_min": 822,
+ "meetings": 3,
+ "first_work": "08:41",
+ "events": [
+  {
+   "time": "08:41",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:03",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:21",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:43",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:07",
+   "label": "街頭演説",
+   "place": "大分市 商店街「ガレリア竹町」",
+   "category": "党務"
+  },
+  {
+   "time": "16:22",
+   "label": "移動",
+   "place": "大分市 商店街「ガレリア竹町」",
+   "category": "移動"
+  },
+  {
+   "time": "16:56",
+   "label": "仲井真弘多沖縄県知事。菅義偉官房長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:14",
+   "label": "インドのアンドラプラデシュ州のナイドゥ首相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:33",
+   "label": "河村建夫自民党地方創生実行統合本部長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "17:59",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:27",
+   "label": "街頭演説",
+   "place": "ＪＲ新宿駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "18:49",
+   "label": "移動",
+   "place": "ＪＲ新宿駅西口",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 521
+  },
+  {
+   "start": "08:41",
+   "end": "08:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "08:56",
+   "end": "09:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:03",
+   "end": "09:16",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 13
+  },
+  {
+   "start": "09:16",
+   "end": "09:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:21",
+   "end": "09:36",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 15
+  },
+  {
+   "start": "09:36",
+   "end": "09:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:43",
+   "end": "10:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "10:10",
+   "end": "13:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 177
+  },
+  {
+   "start": "13:07",
+   "end": "13:38",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "13:38",
+   "end": "16:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 164
+  },
+  {
+   "start": "16:22",
+   "end": "16:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "16:55",
+   "end": "16:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:56",
+   "end": "17:12",
+   "category": "面会・会談",
+   "label": "仲井真弘多沖縄県知事。菅義偉官房長官同席",
+   "minutes": 16
+  },
+  {
+   "start": "17:12",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:14",
+   "end": "17:32",
+   "category": "面会・会談",
+   "label": "インドのアンドラプラデシュ州のナイドゥ首相",
+   "minutes": 18
+  },
+  {
+   "start": "17:32",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:33",
+   "end": "17:54",
+   "category": "党務",
+   "label": "河村建夫自民党地方創生実行統合本部長",
+   "minutes": 21
+  },
+  {
+   "start": "17:54",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:59",
+   "end": "18:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "18:27",
+   "end": "18:49",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "18:49",
+   "end": "18:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 301
+  }
+ ],
+ "alloc_min": {
+  "居所": 822,
+  "移動": 113,
+  "公務（内容未詳）": 369,
+  "官邸執務": 13,
+  "面会・会談": 49,
+  "党務": 74
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "date": "2017-03-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 25,
+ "residence_min": 1052,
+ "meetings": 0,
+ "first_work": "08:22",
+ "events": [
+  {
+   "time": "08:22",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:32",
+   "label": "人間ドック",
+   "place": "東京・信濃町 慶応大病院",
+   "category": "個人"
+  },
+  {
+   "time": "14:35",
+   "label": "移動",
+   "place": "東京・信濃町 慶応大病院",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 502
+  },
+  {
+   "start": "08:22",
+   "end": "08:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "08:32",
+   "end": "14:35",
+   "category": "個人",
+   "label": "人間ドック",
+   "minutes": 363
+  },
+  {
+   "start": "14:35",
+   "end": "14:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "14:50",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 550
+  }
+ ],
+ "alloc_min": {
+  "居所": 1052,
+  "移動": 25,
+  "個人": 363
+ }
+}

@@ -1,0 +1,291 @@
+{
+ "date": "2023-07-08",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 393,
+ "residence_min": 951,
+ "meetings": 1,
+ "first_work": "10:43",
+ "events": [
+  {
+   "time": "10:43",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:53",
+   "label": "故安倍晋三元首相の一周忌法要",
+   "place": "東京・芝公園 増上寺",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:13",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "11:14",
+   "label": "同ホテル内の宴会場「コンベンションホール」で故安倍元首相をしのぶ食事会に出席し、あいさつ",
+   "place": "東京・芝公園 ホテル「ザ・プリンスパークタワー東京」",
+   "category": "会食"
+  },
+  {
+   "time": "12:41",
+   "label": "移動",
+   "place": "東京・芝公園 ホテル「ザ・プリンスパークタワー東京」",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:15",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:27",
+   "label": "故安倍元首相夫人の昭恵さん",
+   "place": "東京・元赤坂 明治記念館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:04",
+   "label": "同館内の宴会場「富士の間」で「安倍晋三元総理の志を継承する集い」に出席し、あいさつ",
+   "place": "東京・元赤坂 明治記念館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:15",
+   "label": "移動",
+   "place": "東京・元赤坂 明治記念館",
+   "category": "移動"
+  },
+  {
+   "time": "15:22",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "15:35",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:47",
+   "label": "散髪",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "個人"
+  },
+  {
+   "time": "17:23",
+   "label": "移動",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "移動"
+  },
+  {
+   "time": "17:51",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:30",
+   "label": "広島空港",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:41",
+   "label": "移動",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "広島市南区 自宅",
+   "place": "広島市南区 自宅",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 643
+  },
+  {
+   "start": "10:43",
+   "end": "10:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "10:53",
+   "end": "11:13",
+   "category": "式典・行事",
+   "label": "故安倍晋三元首相の一周忌法要",
+   "minutes": 20
+  },
+  {
+   "start": "11:13",
+   "end": "11:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "11:14",
+   "end": "12:41",
+   "category": "会食",
+   "label": "同ホテル内の宴会場「コンベンションホール」で故安倍元首相をしのぶ食事会に出席し、あいさつ",
+   "minutes": 87
+  },
+  {
+   "start": "12:41",
+   "end": "12:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "12:51",
+   "end": "14:15",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 84
+  },
+  {
+   "start": "14:15",
+   "end": "14:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "14:23",
+   "end": "14:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "14:27",
+   "end": "14:28",
+   "category": "面会・会談",
+   "label": "故安倍元首相夫人の昭恵さん",
+   "minutes": 1
+  },
+  {
+   "start": "14:28",
+   "end": "15:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "15:04",
+   "end": "15:14",
+   "category": "式典・行事",
+   "label": "同館内の宴会場「富士の間」で「安倍晋三元総理の志を継承する集い」に出席し、あいさつ",
+   "minutes": 10
+  },
+  {
+   "start": "15:14",
+   "end": "15:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:15",
+   "end": "15:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "15:22",
+   "end": "15:35",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 13
+  },
+  {
+   "start": "15:35",
+   "end": "15:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "15:47",
+   "end": "17:23",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 96
+  },
+  {
+   "start": "17:23",
+   "end": "17:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "17:51",
+   "end": "18:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "18:21",
+   "end": "19:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 69
+  },
+  {
+   "start": "19:30",
+   "end": "19:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "19:41",
+   "end": "20:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 48
+  },
+  {
+   "start": "20:29",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 211
+  }
+ ],
+ "alloc_min": {
+  "居所": 951,
+  "移動": 165,
+  "式典・行事": 30,
+  "会食": 87,
+  "公務（内容未詳）": 110,
+  "面会・会談": 1,
+  "個人": 96
+ }
+}

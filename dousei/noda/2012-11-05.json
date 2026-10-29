@@ -1,0 +1,83 @@
+{
+ "date": "2012-11-05",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.11.05",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 4,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間5日）午前、ラオス・ビエンチャンの政府宿泊施設「ドンチャン・ビラ」で、カンボジアのフン・セン首相と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ポーランドのトゥスク首相と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "欧州連合（ＥＵ）のファンロンパイ首脳会議常任議長と会談。午後、国立会議場で、ラオスのチュンマリ国家主席が出迎え",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "各国首脳らと写真撮影",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "新規参加国を迎える式典",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "アジア欧州会議（ＡＳＥＭ）首脳会合の開会式",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "フィリピンのアキノ大統領と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "第1セッション。ドンチャン・ビラで、同行記者団と懇談",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ホテル「ドンチャン・パレス」で、チュンマリ国家主席夫妻主催の夕食会",
+   "place": "ホテル「ドンチャン・パレス」",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ドンチャン・ビラ泊",
+   "place": "ホテル「ドンチャン・パレス」",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

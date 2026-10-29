@@ -1,0 +1,246 @@
+{
+ "date": "2016-06-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 584,
+ "residence_min": 856,
+ "meetings": 0,
+ "first_work": "08:47",
+ "events": [
+  {
+   "time": "08:47",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:05",
+   "label": "視察。北村滋内閣情報官、木野村謙一内閣衛星情報センター所長同行",
+   "place": "東京・市谷本村町 内閣衛星情報センター",
+   "category": "視察"
+  },
+  {
+   "time": "09:38",
+   "label": "移動",
+   "place": "東京・市谷本村町 内閣衛星情報センター",
+   "category": "移動"
+  },
+  {
+   "time": "09:49",
+   "label": "同ホテル内の宴会場「鶴の間」で全国市長会議に出席し、あいさつ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:23",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "10:29",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:42",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:29",
+   "label": "街頭演説",
+   "place": "ＪＲ甲府駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "13:15",
+   "label": "昼食",
+   "place": "甲府市 郷土料理店「奥藤本店甲府駅前店」",
+   "category": "会食"
+  },
+  {
+   "time": "14:25",
+   "label": "街頭演説",
+   "place": "山梨県山梨市 スーパー跡地",
+   "category": "党務"
+  },
+  {
+   "time": "15:55",
+   "label": "街頭演説",
+   "place": "同県都留市 スーパー「フーズマーケットおかじま都留店」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:41",
+   "label": "移動",
+   "place": "同県都留市 スーパー「フーズマーケットおかじま都留店」前",
+   "category": "移動"
+  },
+  {
+   "time": "18:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:30",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 527
+  },
+  {
+   "start": "08:47",
+   "end": "09:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "09:05",
+   "end": "09:38",
+   "category": "視察",
+   "label": "視察。北村滋内閣情報官、木野村謙一内閣衛星情報センター所長同行",
+   "minutes": 33
+  },
+  {
+   "start": "09:38",
+   "end": "09:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "09:49",
+   "end": "10:23",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「鶴の間」で全国市長会議に出席し、あいさつ",
+   "minutes": 34
+  },
+  {
+   "start": "10:23",
+   "end": "10:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 13
+  },
+  {
+   "start": "10:42",
+   "end": "12:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 107
+  },
+  {
+   "start": "12:29",
+   "end": "13:11",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 42
+  },
+  {
+   "start": "13:11",
+   "end": "13:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:15",
+   "end": "13:55",
+   "category": "会食",
+   "label": "昼食",
+   "minutes": 40
+  },
+  {
+   "start": "13:55",
+   "end": "14:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "14:25",
+   "end": "15:00",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "15:00",
+   "end": "15:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "15:55",
+   "end": "16:41",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 46
+  },
+  {
+   "start": "16:41",
+   "end": "18:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 93
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 16
+  },
+  {
+   "start": "18:30",
+   "end": "18:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 329
+  }
+ ],
+ "alloc_min": {
+  "居所": 856,
+  "移動": 236,
+  "視察": 33,
+  "式典・行事": 34,
+  "官邸執務": 29,
+  "党務": 123,
+  "公務（内容未詳）": 89,
+  "会食": 40
+ }
+}

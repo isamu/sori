@@ -1,0 +1,254 @@
+{
+ "date": "2024-03-02",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 671,
+ "residence_min": 769,
+ "meetings": 1,
+ "first_work": "06:31",
+ "events": [
+  {
+   "time": "06:31",
+   "label": "村井英樹官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "14:48",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "14:50",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:21",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:24",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:32",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:59",
+   "label": "衆院の額賀福志郎、海江田万里正副議長、山口俊一議院運営委員長、与野党各会派にあいさつ回り。鈴木俊一財務相、林芳正、村井正副官房長官、自民党の浜田靖一、公明党の佐藤茂樹両国対委員長同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:18",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:44",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:47",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 391
+  },
+  {
+   "start": "06:31",
+   "end": "08:42",
+   "category": "面会・会談",
+   "label": "村井英樹官房副長官",
+   "minutes": 131
+  },
+  {
+   "start": "08:42",
+   "end": "08:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 6
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "09:00",
+   "end": "14:46",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 346
+  },
+  {
+   "start": "14:46",
+   "end": "14:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:48",
+   "end": "14:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 31
+  },
+  {
+   "start": "15:21",
+   "end": "15:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:23",
+   "end": "15:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "15:30",
+   "end": "15:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:32",
+   "end": "16:56",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 84
+  },
+  {
+   "start": "16:56",
+   "end": "16:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:59",
+   "end": "17:17",
+   "category": "国会",
+   "label": "衆院の額賀福志郎、海江田万里正副議長、山口俊一議院運営委員長、与野党各会派にあいさつ回り。鈴木俊一財務相、林芳正、村井正副官房長官、自民党の浜田靖一、公明党の佐藤茂樹両国対委員長同行",
+   "minutes": 18
+  },
+  {
+   "start": "17:17",
+   "end": "17:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:18",
+   "end": "17:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:20",
+   "end": "17:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "17:44",
+   "end": "17:47",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "17:47",
+   "end": "17:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 372
+  }
+ ],
+ "alloc_min": {
+  "居所": 769,
+  "面会・会談": 131,
+  "移動": 8,
+  "公務（内容未詳）": 44,
+  "国会": 454,
+  "官邸執務": 31,
+  "取材・会見": 3
+ }
+}

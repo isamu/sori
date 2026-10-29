@@ -1,0 +1,103 @@
+{
+ "date": "2018-11-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 992,
+ "residence_min": 448,
+ "meetings": 3,
+ "first_work": "07:28",
+ "events": [
+  {
+   "time": "07:28",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:02",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「マンダリン・オリエンタル・シンガポール」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "ホテル「マンダリン・オリエンタル・シンガポール」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ロシアのプーチン大統領と会談",
+   "place": "シャングリラ・ホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東アジア地域包括的経済連携（ＲＣＥＰ）首脳会議に出席",
+   "place": "サンテック国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日・東南アジア諸国連合（ＡＳＥＡＮ）首脳会議に出席",
+   "place": "サンテック国際会議場",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "シンガポールのチャンギ国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 448
+  },
+  {
+   "start": "07:28",
+   "end": "07:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "07:50",
+   "end": "08:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:02",
+   "end": "08:03",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "08:03",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 957
+  }
+ ],
+ "alloc_min": {
+  "居所": 448,
+  "移動": 22,
+  "公務（内容未詳）": 12,
+  "取材・会見": 1,
+  "外遊": 957
+ }
+}

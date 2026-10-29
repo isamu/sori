@@ -1,0 +1,219 @@
+{
+ "date": "2015-08-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 664,
+ "residence_min": 776,
+ "meetings": 1,
+ "first_work": "11:07",
+ "events": [
+  {
+   "time": "11:07",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:22",
+   "label": "献花",
+   "place": "東京・三番町 千鳥ケ淵戦没者墓宛",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:25",
+   "label": "移動",
+   "place": "東京・三番町 千鳥ケ淵戦没者墓宛",
+   "category": "移動"
+  },
+  {
+   "time": "11:51",
+   "label": "全国戦没者追悼式",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:17",
+   "label": "移動",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "移動"
+  },
+  {
+   "time": "12:19",
+   "label": "同ホテル内の日本料理店「水簾」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "12:47",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "岸田文雄外相",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:46",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:19",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:40",
+   "label": "高橋精一郎三井住友銀行副頭取、加計孝太郎学校法人加計学園理事長、本田悦朗内閣官房参与らと会食",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 667
+  },
+  {
+   "start": "11:07",
+   "end": "11:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "11:22",
+   "end": "11:25",
+   "category": "式典・行事",
+   "label": "献花",
+   "minutes": 3
+  },
+  {
+   "start": "11:25",
+   "end": "11:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "11:30",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "11:51",
+   "end": "12:17",
+   "category": "式典・行事",
+   "label": "全国戦没者追悼式",
+   "minutes": 26
+  },
+  {
+   "start": "12:17",
+   "end": "12:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:19",
+   "end": "12:47",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「水簾」で秘書官と食事",
+   "minutes": 28
+  },
+  {
+   "start": "12:47",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「水簾」で秘書官と食事",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:07",
+   "category": "面会・会談",
+   "label": "岸田文雄外相",
+   "minutes": 12
+  },
+  {
+   "start": "13:07",
+   "end": "13:46",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「水簾」で秘書官と食事",
+   "minutes": 39
+  },
+  {
+   "start": "13:46",
+   "end": "14:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "14:00",
+   "end": "14:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 19
+  },
+  {
+   "start": "14:19",
+   "end": "15:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 85
+  },
+  {
+   "start": "15:44",
+   "end": "17:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 116
+  },
+  {
+   "start": "17:40",
+   "end": "22:30",
+   "category": "会食",
+   "label": "高橋精一郎三井住友銀行副頭取、加計孝太郎学校法人加計学園理事長、本田悦朗内閣官房参与らと会食",
+   "minutes": 290
+  },
+  {
+   "start": "22:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 90
+  }
+ ],
+ "alloc_min": {
+  "居所": 776,
+  "移動": 128,
+  "式典・行事": 29,
+  "公務（内容未詳）": 137,
+  "会食": 358,
+  "面会・会談": 12
+ }
+}

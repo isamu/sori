@@ -1,0 +1,239 @@
+{
+ "date": "2025-10-11",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 253,
+ "residence_min": 1147,
+ "meetings": 0,
+ "first_work": "07:51",
+ "events": [
+  {
+   "time": "07:51",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:00",
+   "label": "同ホテル内の「ヒロ銀座パレスホテル東京店」で散髪",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "個人"
+  },
+  {
+   "time": "08:40",
+   "label": "移動",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": "08:47",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "09:40",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:57",
+   "label": "移動",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "移動"
+  },
+  {
+   "time": "11:34",
+   "label": "日本海新聞のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:04",
+   "label": "山陰中央新報のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:38",
+   "label": "東海テレビのインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:29",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:33",
+   "label": "佳子夫人、秘書官と食事",
+   "place": "東京・赤坂 ラーメン店「支那麺はしご赤坂店」",
+   "category": "会食"
+  },
+  {
+   "time": "13:59",
+   "label": "移動",
+   "place": "東京・赤坂 ラーメン店「支那麺はしご赤坂店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 471
+  },
+  {
+   "start": "07:51",
+   "end": "08:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "08:00",
+   "end": "08:40",
+   "category": "個人",
+   "label": "同ホテル内の「ヒロ銀座パレスホテル東京店」で散髪",
+   "minutes": 40
+  },
+  {
+   "start": "08:40",
+   "end": "08:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "08:47",
+   "end": "09:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 53
+  },
+  {
+   "start": "09:40",
+   "end": "09:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "09:58",
+   "end": "10:57",
+   "category": "式典・行事",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "minutes": 59
+  },
+  {
+   "start": "10:57",
+   "end": "11:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "11:08",
+   "end": "11:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "11:34",
+   "end": "12:01",
+   "category": "取材・会見",
+   "label": "日本海新聞のインタビュー",
+   "minutes": 27
+  },
+  {
+   "start": "12:01",
+   "end": "12:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 3
+  },
+  {
+   "start": "12:04",
+   "end": "12:34",
+   "category": "取材・会見",
+   "label": "山陰中央新報のインタビュー",
+   "minutes": 30
+  },
+  {
+   "start": "12:34",
+   "end": "12:38",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 4
+  },
+  {
+   "start": "12:38",
+   "end": "13:10",
+   "category": "取材・会見",
+   "label": "東海テレビのインタビュー",
+   "minutes": 32
+  },
+  {
+   "start": "13:10",
+   "end": "13:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 19
+  },
+  {
+   "start": "13:29",
+   "end": "13:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "13:33",
+   "end": "13:59",
+   "category": "会食",
+   "label": "佳子夫人、秘書官と食事",
+   "minutes": 26
+  },
+  {
+   "start": "13:59",
+   "end": "14:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "14:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 597
+  }
+ ],
+ "alloc_min": {
+  "居所": 1147,
+  "移動": 53,
+  "個人": 40,
+  "式典・行事": 59,
+  "公務（内容未詳）": 26,
+  "取材・会見": 89,
+  "会食": 26
+ }
+}

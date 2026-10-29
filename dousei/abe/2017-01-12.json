@@ -1,0 +1,121 @@
+{
+ "date": "2017-01-12",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 823,
+ "residence_min": 617,
+ "meetings": 2,
+ "first_work": "10:17",
+ "events": [
+  {
+   "time": "10:17",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ドゥテルテ大統領主催の歓迎夕食会",
+   "place": "マラカニアン宮殿",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "同行企業関係者を交えた拡大首脳会合",
+   "place": "マラカニアン宮殿",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "署名式・共同記者発表",
+   "place": "マラカニアン宮殿",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ドゥテルテ大統領と首脳会談",
+   "place": "マラカニアン宮殿",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "歓迎式典",
+   "place": "マラカニアン宮殿",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "フィリピンのマニラ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「マルコ・ポーロ・ダバオ」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ダバオ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "フィリピンのマニラ国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 617
+  },
+  {
+   "start": "10:17",
+   "end": "10:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "10:40",
+   "end": "10:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "10:45",
+   "end": "10:46",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "10:46",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 794
+  }
+ ],
+ "alloc_min": {
+  "居所": 617,
+  "移動": 23,
+  "公務（内容未詳）": 5,
+  "取材・会見": 1,
+  "外遊": 794
+ }
+}

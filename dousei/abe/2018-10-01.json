@@ -1,0 +1,181 @@
+{
+ "date": "2018-10-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 620,
+ "residence_min": 820,
+ "meetings": 4,
+ "first_work": "09:34",
+ "events": [
+  {
+   "time": "09:34",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:48",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:49",
+   "label": "橋田俊彦気象庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:51",
+   "label": "高村正彦自民党副総裁",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:39",
+   "label": "萩生田光一自民党幹事長代行",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:28",
+   "label": "山口那津男公明党代表",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "18:10",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:52",
+   "label": "ノーベル医学生理学賞受賞が決まった本庶佑・京都大特別教授と電話",
+   "place": "私邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 574
+  },
+  {
+   "start": "09:34",
+   "end": "09:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:47",
+   "end": "09:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:48",
+   "end": "09:49",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:49",
+   "end": "10:00",
+   "category": "面会・会談",
+   "label": "橋田俊彦気象庁長官",
+   "minutes": 11
+  },
+  {
+   "start": "10:00",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 111
+  },
+  {
+   "start": "11:51",
+   "end": "12:02",
+   "category": "面会・会談",
+   "label": "高村正彦自民党副総裁",
+   "minutes": 11
+  },
+  {
+   "start": "12:02",
+   "end": "12:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "12:39",
+   "end": "13:07",
+   "category": "面会・会談",
+   "label": "萩生田光一自民党幹事長代行",
+   "minutes": 28
+  },
+  {
+   "start": "13:07",
+   "end": "13:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "13:28",
+   "end": "13:55",
+   "category": "党務",
+   "label": "山口那津男公明党代表",
+   "minutes": 27
+  },
+  {
+   "start": "13:55",
+   "end": "18:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 255
+  },
+  {
+   "start": "18:10",
+   "end": "18:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "18:45",
+   "end": "19:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "19:52",
+   "end": "19:54",
+   "category": "面会・会談",
+   "label": "ノーベル医学生理学賞受賞が決まった本庶佑・京都大特別教授と電話",
+   "minutes": 2
+  },
+  {
+   "start": "19:54",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 246
+  }
+ ],
+ "alloc_min": {
+  "居所": 820,
+  "移動": 48,
+  "公務（内容未詳）": 492,
+  "取材・会見": 1,
+  "面会・会談": 52,
+  "党務": 27
+ }
+}

@@ -1,0 +1,395 @@
+{
+ "date": "2019-07-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 868,
+ "residence_min": 572,
+ "meetings": 2,
+ "first_work": "06:45",
+ "events": [
+  {
+   "time": "06:45",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:22",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "報道番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:21",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "11:05",
+   "label": "街頭演説",
+   "place": "ＪＲ船橋駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "11:43",
+   "label": "移動",
+   "place": "ＪＲ船橋駅南口",
+   "category": "移動"
+  },
+  {
+   "time": "12:05",
+   "label": "街頭演説。聴衆と握手",
+   "place": "ＪＲ津田沼駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "12:30",
+   "label": "移動",
+   "place": "ＪＲ津田沼駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "13:10",
+   "label": "同施設内のファミリーレストラン「ラ・パウザ」で子育て中の地元住民らと昼食。利用客らと写真撮影",
+   "place": "東京・台場 商業施設「アクアシティお台場」",
+   "category": "会食"
+  },
+  {
+   "time": "13:59",
+   "label": "移動",
+   "place": "東京・台場 商業施設「アクアシティお台場」",
+   "category": "移動"
+  },
+  {
+   "time": "14:21",
+   "label": "街頭演説",
+   "place": "ＪＲ蒲田駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "14:52",
+   "label": "移動",
+   "place": "ＪＲ蒲田駅西口",
+   "category": "移動"
+  },
+  {
+   "time": "15:34",
+   "label": "練り歩き",
+   "place": "東京・中野 中野サンモール商店街",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:50",
+   "label": "徒歩",
+   "place": "東京・中野 中野サンモール商店街",
+   "category": "移動"
+  },
+  {
+   "time": "15:51",
+   "label": "街頭演説",
+   "place": "ＪＲ中野駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "16:16",
+   "label": "移動",
+   "place": "ＪＲ中野駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "17:11",
+   "label": "練り歩き",
+   "place": "東京都武蔵野市 吉祥寺サンロード商店街",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:20",
+   "label": "徒歩",
+   "place": "東京都武蔵野市 吉祥寺サンロード商店街",
+   "category": "移動"
+  },
+  {
+   "time": "17:21",
+   "label": "街頭演説",
+   "place": "ＪＲ吉祥寺駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "17:49",
+   "label": "徒歩",
+   "place": "ＪＲ吉祥寺駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "18:39",
+   "label": "街頭演説。聴衆と握手",
+   "place": "ＪＲ立川駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "19:09",
+   "label": "移動",
+   "place": "ＪＲ立川駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "19:23",
+   "label": "自民党の萩生田光一幹事長代行、長島昭久、小田原潔両衆院議員と会食",
+   "place": "東京都国立市 レストラン「オレンジハウスすえひろ亭」",
+   "category": "会食"
+  },
+  {
+   "time": "20:41",
+   "label": "移動",
+   "place": "東京都国立市 レストラン「オレンジハウスすえひろ亭」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 405
+  },
+  {
+   "start": "06:45",
+   "end": "07:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "07:01",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "07:30",
+   "end": "08:20",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 50
+  },
+  {
+   "start": "08:20",
+   "end": "08:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:22",
+   "end": "08:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "08:38",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "09:00",
+   "end": "10:10",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 70
+  },
+  {
+   "start": "10:10",
+   "end": "10:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "10:21",
+   "end": "11:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 44
+  },
+  {
+   "start": "11:05",
+   "end": "11:43",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "11:43",
+   "end": "12:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "12:05",
+   "end": "12:30",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 25
+  },
+  {
+   "start": "12:30",
+   "end": "13:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 40
+  },
+  {
+   "start": "13:10",
+   "end": "13:59",
+   "category": "会食",
+   "label": "同施設内のファミリーレストラン「ラ・パウザ」で子育て中の地元住民らと昼食。利用客らと写真撮影",
+   "minutes": 49
+  },
+  {
+   "start": "13:59",
+   "end": "14:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "14:21",
+   "end": "14:52",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "14:52",
+   "end": "15:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "15:34",
+   "end": "15:50",
+   "category": "面会・会談",
+   "label": "練り歩き",
+   "minutes": 16
+  },
+  {
+   "start": "15:50",
+   "end": "15:51",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 1
+  },
+  {
+   "start": "15:51",
+   "end": "16:16",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "16:16",
+   "end": "17:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 55
+  },
+  {
+   "start": "17:11",
+   "end": "17:20",
+   "category": "面会・会談",
+   "label": "練り歩き",
+   "minutes": 9
+  },
+  {
+   "start": "17:20",
+   "end": "17:21",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 1
+  },
+  {
+   "start": "17:21",
+   "end": "17:49",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "17:49",
+   "end": "18:39",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 50
+  },
+  {
+   "start": "18:39",
+   "end": "19:09",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手",
+   "minutes": 30
+  },
+  {
+   "start": "19:09",
+   "end": "19:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "19:23",
+   "end": "20:41",
+   "category": "会食",
+   "label": "自民党の萩生田光一幹事長代行、長島昭久、小田原潔両衆院議員と会食",
+   "minutes": 78
+  },
+  {
+   "start": "20:41",
+   "end": "21:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "21:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 167
+  }
+ ],
+ "alloc_min": {
+  "居所": 572,
+  "移動": 355,
+  "公務（内容未詳）": 64,
+  "取材・会見": 120,
+  "党務": 177,
+  "会食": 127,
+  "面会・会談": 25
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "date": "2017-09-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 36,
+ "residence_min": 1388,
+ "meetings": 0,
+ "first_work": "13:01",
+ "events": [
+  {
+   "time": "13:01",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:13",
+   "label": "母親の洋子さんとともに書道展「矢萩春恵と門人書展」を観賞",
+   "place": "東京・銀座 松屋銀座",
+   "category": "個人"
+  },
+  {
+   "time": "13:29",
+   "label": "移動",
+   "place": "東京・銀座 松屋銀座",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 781
+  },
+  {
+   "start": "13:01",
+   "end": "13:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "13:13",
+   "end": "13:29",
+   "category": "個人",
+   "label": "母親の洋子さんとともに書道展「矢萩春恵と門人書展」を観賞",
+   "minutes": 16
+  },
+  {
+   "start": "13:29",
+   "end": "13:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "13:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 607
+  }
+ ],
+ "alloc_min": {
+  "居所": 1388,
+  "移動": 36,
+  "個人": 16
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "date": "2016-12-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 105,
+ "residence_min": 962,
+ "meetings": 0,
+ "first_work": "07:11",
+ "events": [
+  {
+   "time": "07:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:01",
+   "label": "増岡聡一郎鉄鋼ビルディング専務らとゴルフ",
+   "place": "千葉県袖ケ浦市 ゴルフ場「カメリアヒルズカントリークラブ」",
+   "category": "個人"
+  },
+  {
+   "time": "14:14",
+   "label": "移動",
+   "place": "千葉県袖ケ浦市 ゴルフ場「カメリアヒルズカントリークラブ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 431
+  },
+  {
+   "start": "07:11",
+   "end": "08:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 50
+  },
+  {
+   "start": "08:01",
+   "end": "14:14",
+   "category": "個人",
+   "label": "増岡聡一郎鉄鋼ビルディング専務らとゴルフ",
+   "minutes": 373
+  },
+  {
+   "start": "14:14",
+   "end": "15:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 55
+  },
+  {
+   "start": "15:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 531
+  }
+ ],
+ "alloc_min": {
+  "居所": 962,
+  "移動": 105,
+  "個人": 373
+ }
+}

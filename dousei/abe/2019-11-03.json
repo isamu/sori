@@ -1,0 +1,138 @@
+{
+ "date": "2019-11-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 754,
+ "residence_min": 686,
+ "meetings": 0,
+ "first_work": "10:02",
+ "events": [
+  {
+   "time": "10:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:15",
+   "label": "文化勲章親授式に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:00",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:15",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:39",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "アテネホテル・ラグジュアリーコレクションホテル・バンコク",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "ＡＳＥＡＮ首脳との夕食会。冒頭の写真撮影会で韓国の文在寅大統領と握手し、あいさつ",
+   "place": "バンコク近郊の会場",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "タイ・バンコクのドンムアン空港",
+   "category": "移動"
+  },
+  {
+   "time": "13:15",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 602
+  },
+  {
+   "start": "10:02",
+   "end": "10:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "10:15",
+   "end": "11:00",
+   "category": "式典・行事",
+   "label": "文化勲章親授式に出席",
+   "minutes": 45
+  },
+  {
+   "start": "11:00",
+   "end": "11:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "11:15",
+   "end": "12:39",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 84
+  },
+  {
+   "start": "12:39",
+   "end": "13:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "13:03",
+   "end": "13:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "13:15",
+   "end": "13:17",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "13:17",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 643
+  }
+ ],
+ "alloc_min": {
+  "居所": 686,
+  "移動": 52,
+  "式典・行事": 45,
+  "公務（内容未詳）": 12,
+  "取材・会見": 2,
+  "外遊": 643
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "date": "2015-10-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 112,
+ "residence_min": 1239,
+ "meetings": 0,
+ "first_work": "09:46",
+ "events": [
+  {
+   "time": "09:46",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:02",
+   "label": "移動",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "移動"
+  },
+  {
+   "time": "11:19",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:49",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:57",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "14:26",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 586
+  },
+  {
+   "start": "09:46",
+   "end": "09:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:58",
+   "end": "11:02",
+   "category": "式典・行事",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "minutes": 64
+  },
+  {
+   "start": "11:02",
+   "end": "11:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "11:19",
+   "end": "12:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 90
+  },
+  {
+   "start": "12:49",
+   "end": "12:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "12:57",
+   "end": "14:26",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 89
+  },
+  {
+   "start": "14:26",
+   "end": "14:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "14:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 563
+  }
+ ],
+ "alloc_min": {
+  "居所": 1239,
+  "移動": 48,
+  "式典・行事": 64,
+  "個人": 89
+ }
+}

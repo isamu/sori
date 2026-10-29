@@ -1,0 +1,89 @@
+{
+ "date": "2015-04-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "着",
+   "place": "サンフランシスコ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "米科学技術関係者との朝食会",
+   "place": "全米科学アカデミー",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "日米交流関係者を招いてのカクテル・レセプション",
+   "place": "ザ・フェアモント・サンフランシスコ・ホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ブラウン・カリフォルニア州知事",
+   "place": "ザ・フェアモント・サンフランシスコ・ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "山中伸弥上級研究員と懇談",
+   "place": "カリフォルニア大学サンフランシスコ校グラッドストーン研究所",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "視察",
+   "place": "フェイスブック本社",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "視察",
+   "place": "テスラ・モーターズ本社",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "同大日本人研究者らを激励",
+   "place": "スタンフォード大",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "シリコンバレー・ジャパン・イノベーション・プログラムで講演",
+   "place": "スタンフォード大",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "米国経済人やテクノロジー業界関係者らのラウンドテーブルに参加",
+   "place": "シリコンバレーのホテル「ローズウッド・サンド・ヒル」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "ワシントン近郊 アンドルーズ空軍基地",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

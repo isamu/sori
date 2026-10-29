@@ -1,0 +1,103 @@
+{
+ "date": "2019-03-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 62,
+ "residence_min": 1053,
+ "meetings": 0,
+ "first_work": "14:47",
+ "events": [
+  {
+   "time": "14:47",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:57",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "16:36",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": "17:12",
+   "label": "昭恵夫人とともにシンガー・ソングライター松任谷由実さんのコンサートを鑑賞",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "個人"
+  },
+  {
+   "time": "20:58",
+   "label": "移動",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 887
+  },
+  {
+   "start": "14:47",
+   "end": "14:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "14:57",
+   "end": "16:36",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 99
+  },
+  {
+   "start": "16:36",
+   "end": "17:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "17:12",
+   "end": "20:58",
+   "category": "個人",
+   "label": "昭恵夫人とともにシンガー・ソングライター松任谷由実さんのコンサートを鑑賞",
+   "minutes": 226
+  },
+  {
+   "start": "20:58",
+   "end": "21:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "21:14",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 166
+  }
+ ],
+ "alloc_min": {
+  "居所": 1053,
+  "移動": 62,
+  "個人": 325
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "date": "2024-09-14",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 25,
+ "residence_min": 1329,
+ "meetings": 0,
+ "first_work": "13:18",
+ "events": [
+  {
+   "time": "13:18",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:32",
+   "label": "散髪",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "個人"
+  },
+  {
+   "time": "14:58",
+   "label": "移動",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 798
+  },
+  {
+   "start": "13:18",
+   "end": "13:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "13:32",
+   "end": "14:58",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 86
+  },
+  {
+   "start": "14:58",
+   "end": "15:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "15:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 531
+  }
+ ],
+ "alloc_min": {
+  "居所": 1329,
+  "移動": 25,
+  "個人": 86
+ }
+}

@@ -1,0 +1,275 @@
+{
+ "date": "2011-08-05",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.08.05",
+ "work_min": 810,
+ "residence_min": 487,
+ "meetings": 11,
+ "first_work": "08:07",
+ "events": [
+  {
+   "time": "08:07",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:09",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:16",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:38",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "国民新党の亀井代表",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:58",
+   "label": "亀井氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:38",
+   "label": "民主党の斎藤国対委員長代理",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:08",
+   "label": "枝野官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:35",
+   "label": "阿久津内閣府政務官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:47",
+   "label": "同党の岡田幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:39",
+   "label": "玄葉国家戦略相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:45",
+   "label": "山口内閣府副大臣加わる",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:45",
+   "label": "福山官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:09",
+   "label": "福山氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:20",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:32",
+   "label": "全日空687便で同空港発",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:41",
+   "label": "広島空港着",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:37",
+   "label": "広島市南区のグランドプリンスホテル広島。同ホテルに宿泊",
+   "place": "グランドプリンスホテル広島",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 487
+  },
+  {
+   "start": "08:07",
+   "end": "08:09",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:09",
+   "end": "08:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:16",
+   "end": "08:38",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 22
+  },
+  {
+   "start": "08:38",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 260
+  },
+  {
+   "start": "12:58",
+   "end": "13:58",
+   "category": "面会・会談",
+   "label": "国民新党の亀井代表",
+   "minutes": 60
+  },
+  {
+   "start": "13:58",
+   "end": "14:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "14:38",
+   "end": "15:08",
+   "category": "面会・会談",
+   "label": "民主党の斎藤国対委員長代理",
+   "minutes": 30
+  },
+  {
+   "start": "15:08",
+   "end": "15:35",
+   "category": "面会・会談",
+   "label": "枝野官房長官",
+   "minutes": 27
+  },
+  {
+   "start": "15:35",
+   "end": "15:47",
+   "category": "面会・会談",
+   "label": "阿久津内閣府政務官",
+   "minutes": 12
+  },
+  {
+   "start": "15:47",
+   "end": "16:39",
+   "category": "面会・会談",
+   "label": "同党の岡田幹事長",
+   "minutes": 52
+  },
+  {
+   "start": "16:39",
+   "end": "16:45",
+   "category": "面会・会談",
+   "label": "玄葉国家戦略相",
+   "minutes": 6
+  },
+  {
+   "start": "16:45",
+   "end": "17:00",
+   "category": "面会・会談",
+   "label": "山口内閣府副大臣加わる",
+   "minutes": 15
+  },
+  {
+   "start": "17:00",
+   "end": "17:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "17:45",
+   "end": "18:09",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 24
+  },
+  {
+   "start": "18:09",
+   "end": "19:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "19:20",
+   "end": "19:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "19:32",
+   "end": "20:41",
+   "category": "移動",
+   "label": "全日空687便で同空港発",
+   "minutes": 69
+  },
+  {
+   "start": "20:41",
+   "end": "21:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "21:37",
+   "end": "24:00",
+   "category": "個人",
+   "label": "グランドプリンスホテル広島宿泊",
+   "minutes": 143
+  }
+ ],
+ "alloc_min": {
+  "居所": 487,
+  "移動": 71,
+  "公務（内容未詳）": 491,
+  "官邸執務": 22,
+  "面会・会談": 226,
+  "個人": 143
+ }
+}

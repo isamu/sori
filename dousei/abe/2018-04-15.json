@@ -1,0 +1,77 @@
+{
+ "date": "2018-04-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 85,
+ "residence_min": 1355,
+ "meetings": 1,
+ "first_work": "14:51",
+ "events": [
+  {
+   "time": "14:51",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:24",
+   "label": "北朝鮮による拉致被害者横田めぐみさんの父滋さんの見舞い",
+   "place": "川崎市川崎区 日本鋼管病院",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:41",
+   "label": "移動",
+   "place": "川崎市川崎区 日本鋼管病院",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 891
+  },
+  {
+   "start": "14:51",
+   "end": "15:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "15:24",
+   "end": "15:41",
+   "category": "面会・会談",
+   "label": "北朝鮮による拉致被害者横田めぐみさんの父滋さんの見舞い",
+   "minutes": 17
+  },
+  {
+   "start": "15:41",
+   "end": "16:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "16:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 464
+  }
+ ],
+ "alloc_min": {
+  "居所": 1355,
+  "移動": 68,
+  "面会・会談": 17
+ }
+}

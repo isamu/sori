@@ -1,0 +1,77 @@
+{
+ "date": "2014-10-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 77,
+ "residence_min": 1363,
+ "meetings": 0,
+ "first_work": "09:44",
+ "events": [
+  {
+   "time": "09:44",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:53",
+   "label": "移動",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 584
+  },
+  {
+   "start": "09:44",
+   "end": "09:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "09:58",
+   "end": "10:53",
+   "category": "式典・行事",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "minutes": 55
+  },
+  {
+   "start": "10:53",
+   "end": "11:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:01",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 779
+  }
+ ],
+ "alloc_min": {
+  "居所": 1363,
+  "移動": 22,
+  "式典・行事": 55
+ }
+}

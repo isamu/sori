@@ -1,0 +1,91 @@
+{
+ "date": "2019-01-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1120,
+ "residence_min": 320,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "17:35",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:45",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:09",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:16",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:35",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1055
+  },
+  {
+   "start": "17:35",
+   "end": "17:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "17:45",
+   "end": "18:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "18:09",
+   "end": "18:16",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 7
+  },
+  {
+   "start": "18:16",
+   "end": "18:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "18:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 320
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1055,
+  "移動": 58,
+  "式典・行事": 7,
+  "居所": 320
+ }
+}

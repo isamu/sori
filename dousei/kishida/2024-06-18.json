@@ -1,0 +1,322 @@
+{
+ "date": "2024-06-18",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 729,
+ "residence_min": 711,
+ "meetings": 2,
+ "first_work": "08:49",
+ "events": [
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:16",
+   "label": "犯罪対策閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:59",
+   "label": "森屋宏官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:33",
+   "label": "原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:48",
+   "label": "自民党の議員連盟「憲法改正を速やかに実現する中堅・若手の会」の石川昭政、和田政宗両共同代表から決議文受け取り",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "15:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:15",
+   "label": "同党の麻生太郎副総裁、茂木敏充幹事長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "15:47",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "16:00",
+   "label": "参院政治改革特別委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "18:04",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "18:12",
+   "label": "デジタル行財政改革会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:20",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:25",
+   "label": "同ホテル内の日本料理店「山里」で麻生同党副総裁と会食",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "会食"
+  },
+  {
+   "time": "20:53",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「Ｔｈｅ　Ｏｋｕｒａ　Ｔｏｋｙｏ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 529
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:59",
+   "end": "09:11",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 12
+  },
+  {
+   "start": "09:11",
+   "end": "09:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:16",
+   "end": "09:29",
+   "category": "官邸執務",
+   "label": "犯罪対策閣僚会議",
+   "minutes": 13
+  },
+  {
+   "start": "09:29",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 150
+  },
+  {
+   "start": "11:59",
+   "end": "12:49",
+   "category": "面会・会談",
+   "label": "森屋宏官房副長官",
+   "minutes": 50
+  },
+  {
+   "start": "12:49",
+   "end": "13:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "13:33",
+   "end": "13:45",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 12
+  },
+  {
+   "start": "13:45",
+   "end": "13:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:48",
+   "end": "14:00",
+   "category": "党務",
+   "label": "自民党の議員連盟「憲法改正を速やかに実現する中堅・若手の会」の石川昭政、和田政宗両共同代表から決議文受け取り",
+   "minutes": 12
+  },
+  {
+   "start": "14:00",
+   "end": "15:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 72
+  },
+  {
+   "start": "15:12",
+   "end": "15:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:14",
+   "end": "15:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:15",
+   "end": "15:46",
+   "category": "党務",
+   "label": "同党の麻生太郎副総裁、茂木敏充幹事長",
+   "minutes": 31
+  },
+  {
+   "start": "15:46",
+   "end": "15:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:47",
+   "end": "15:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "15:50",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "16:00",
+   "end": "18:01",
+   "category": "国会",
+   "label": "参院政治改革特別委員会",
+   "minutes": 121
+  },
+  {
+   "start": "18:01",
+   "end": "18:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:04",
+   "end": "18:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:07",
+   "end": "18:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:12",
+   "end": "18:19",
+   "category": "官邸執務",
+   "label": "デジタル行財政改革会議",
+   "minutes": 7
+  },
+  {
+   "start": "18:19",
+   "end": "18:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:20",
+   "end": "18:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:25",
+   "end": "20:53",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「山里」で麻生同党副総裁と会食",
+   "minutes": 148
+  },
+  {
+   "start": "20:53",
+   "end": "20:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "20:58",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 182
+  }
+ ],
+ "alloc_min": {
+  "居所": 711,
+  "移動": 19,
+  "公務（内容未詳）": 304,
+  "官邸執務": 32,
+  "面会・会談": 62,
+  "党務": 43,
+  "国会": 121,
+  "会食": 148
+ }
+}

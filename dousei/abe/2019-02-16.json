@@ -1,0 +1,130 @@
+{
+ "date": "2019-02-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 106,
+ "residence_min": 1334,
+ "meetings": 0,
+ "first_work": "10:54",
+ "events": [
+  {
+   "time": "10:54",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:03",
+   "label": "同ホテル内の宴会場「ゴールデンルーム」で昭恵夫人とともに「長州友の会」の懇親会に出席し、あいさつ",
+   "place": "東京・飯田橋 ホテルグランドパレス",
+   "category": "会食"
+  },
+  {
+   "time": "11:51",
+   "label": "移動",
+   "place": "東京・飯田橋 ホテルグランドパレス",
+   "category": "移動"
+  },
+  {
+   "time": "12:05",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:00",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:13",
+   "label": "元経済企画庁（現内閣府）長官で作家の故堺屋太一氏の通夜に参列",
+   "place": "東京・南青山 青山葬儀所",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:18",
+   "label": "移動",
+   "place": "東京・南青山 青山葬儀所",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 654
+  },
+  {
+   "start": "10:54",
+   "end": "11:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "11:03",
+   "end": "11:51",
+   "category": "会食",
+   "label": "同ホテル内の宴会場「ゴールデンルーム」で昭恵夫人とともに「長州友の会」の懇親会に出席し、あいさつ",
+   "minutes": 48
+  },
+  {
+   "start": "11:51",
+   "end": "12:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "12:05",
+   "end": "18:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 355
+  },
+  {
+   "start": "18:00",
+   "end": "18:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "18:13",
+   "end": "18:18",
+   "category": "式典・行事",
+   "label": "元経済企画庁（現内閣府）長官で作家の故堺屋太一氏の通夜に参列",
+   "minutes": 5
+  },
+  {
+   "start": "18:18",
+   "end": "18:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "18:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 325
+  }
+ ],
+ "alloc_min": {
+  "居所": 1334,
+  "移動": 53,
+  "会食": 48,
+  "式典・行事": 5
+ }
+}

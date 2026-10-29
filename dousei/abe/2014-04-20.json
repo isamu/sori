@@ -1,0 +1,82 @@
+{
+ "date": "2014-04-20",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.04.20",
+ "work_min": 28,
+ "residence_min": 1296,
+ "meetings": 0,
+ "first_work": "16:02",
+ "events": [
+  {
+   "time": null,
+   "label": "東京・富ケ谷の自宅で過ごす",
+   "place": "富ケ谷",
+   "category": "居所"
+  },
+  {
+   "time": "16:02",
+   "label": "東京・谷中の全生庵",
+   "place": "谷中",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "土居征夫城西大特任教授と座禅",
+   "place": "谷中",
+   "category": "個人"
+  },
+  {
+   "time": "17:58",
+   "label": "東京・代沢の知人の自宅",
+   "place": "代沢",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "弔問",
+   "place": "代沢",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:26",
+   "label": "自宅",
+   "place": "自宅",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 962
+  },
+  {
+   "start": "16:02",
+   "end": "17:58",
+   "category": "個人",
+   "label": "土居征夫城西大特任教授と座禅",
+   "minutes": 116
+  },
+  {
+   "start": "17:58",
+   "end": "18:26",
+   "category": "式典・行事",
+   "label": "弔問",
+   "minutes": 28
+  },
+  {
+   "start": "18:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 334
+  }
+ ],
+ "alloc_min": {
+  "居所": 1296,
+  "個人": 116,
+  "式典・行事": 28
+ }
+}

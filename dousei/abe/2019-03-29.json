@@ -1,0 +1,346 @@
+{
+ "date": "2019-03-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 826,
+ "residence_min": 614,
+ "meetings": 5,
+ "first_work": "08:18",
+ "events": [
+  {
+   "time": "08:18",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:44",
+   "label": "外国人材の受け入れ・共生に関する関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:42",
+   "label": "西井孝明社長から働き方改革の説明。社員と懇談。オフィス視察",
+   "place": "東京・京橋 味の素本社ビル",
+   "category": "視察"
+  },
+  {
+   "time": "10:19",
+   "label": "移動",
+   "place": "東京・京橋 味の素本社ビル",
+   "category": "移動"
+  },
+  {
+   "time": "10:32",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:01",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:08",
+   "label": "内奏",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:51",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "13:45",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:40",
+   "label": "岡本薫明事務次官 麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:26",
+   "label": "兼原信克官房副長官補 秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:03",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:57",
+   "label": "皇太子さまと面会",
+   "place": "東京・元赤坂 東宮御所",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:17",
+   "label": "移動",
+   "place": "東京・元赤坂 東宮御所",
+   "category": "移動"
+  },
+  {
+   "time": "19:35",
+   "label": "葛西敬之ＪＲ東海名誉会長、北村内閣情報官と会食",
+   "place": "東京・銀座 日本料理店「室井」",
+   "category": "会食"
+  },
+  {
+   "time": "21:47",
+   "label": "移動",
+   "place": "東京・銀座 日本料理店「室井」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 498
+  },
+  {
+   "start": "08:18",
+   "end": "08:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "08:31",
+   "end": "08:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "08:44",
+   "end": "08:55",
+   "category": "官邸執務",
+   "label": "外国人材の受け入れ・共生に関する関係閣僚会議",
+   "minutes": 11
+  },
+  {
+   "start": "08:55",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:01",
+   "end": "09:19",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 18
+  },
+  {
+   "start": "09:19",
+   "end": "09:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "09:31",
+   "end": "09:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "09:42",
+   "end": "10:19",
+   "category": "視察",
+   "label": "西井孝明社長から働き方改革の説明。社員と懇談。オフィス視察",
+   "minutes": 37
+  },
+  {
+   "start": "10:19",
+   "end": "10:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 29
+  },
+  {
+   "start": "11:01",
+   "end": "11:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "11:08",
+   "end": "11:51",
+   "category": "式典・行事",
+   "label": "内奏",
+   "minutes": 43
+  },
+  {
+   "start": "11:51",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "11:58",
+   "end": "13:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 107
+  },
+  {
+   "start": "13:45",
+   "end": "14:17",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 32
+  },
+  {
+   "start": "14:17",
+   "end": "15:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 83
+  },
+  {
+   "start": "15:40",
+   "end": "15:43",
+   "category": "面会・会談",
+   "label": "岡本薫明事務次官 麻生太郎副総理兼財務相",
+   "minutes": 3
+  },
+  {
+   "start": "15:43",
+   "end": "16:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "16:26",
+   "end": "16:58",
+   "category": "面会・会談",
+   "label": "兼原信克官房副長官補 秋葉剛男事務次官",
+   "minutes": 32
+  },
+  {
+   "start": "16:58",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:03",
+   "end": "17:32",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 29
+  },
+  {
+   "start": "17:32",
+   "end": "18:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 74
+  },
+  {
+   "start": "18:46",
+   "end": "18:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:57",
+   "end": "19:17",
+   "category": "面会・会談",
+   "label": "皇太子さまと面会",
+   "minutes": 20
+  },
+  {
+   "start": "19:17",
+   "end": "19:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "19:35",
+   "end": "21:47",
+   "category": "会食",
+   "label": "葛西敬之ＪＲ東海名誉会長、北村内閣情報官と会食",
+   "minutes": 132
+  },
+  {
+   "start": "21:47",
+   "end": "22:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "22:04",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 116
+  }
+ ],
+ "alloc_min": {
+  "居所": 614,
+  "移動": 97,
+  "公務（内容未詳）": 343,
+  "官邸執務": 58,
+  "視察": 37,
+  "式典・行事": 43,
+  "面会・会談": 116,
+  "会食": 132
+ }
+}

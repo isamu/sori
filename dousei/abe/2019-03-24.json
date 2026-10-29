@@ -1,0 +1,77 @@
+{
+ "date": "2019-03-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 36,
+ "residence_min": 1380,
+ "meetings": 0,
+ "first_work": "13:48",
+ "events": [
+  {
+   "time": "13:48",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:05",
+   "label": "実弟の岸信夫自民党衆院議員の義母の見舞い",
+   "place": "東京・西五反田 五反田リハビリテーション病院",
+   "category": "個人"
+  },
+  {
+   "time": "14:29",
+   "label": "移動",
+   "place": "東京・西五反田 五反田リハビリテーション病院",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 828
+  },
+  {
+   "start": "13:48",
+   "end": "14:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "14:05",
+   "end": "14:29",
+   "category": "個人",
+   "label": "実弟の岸信夫自民党衆院議員の義母の見舞い",
+   "minutes": 24
+  },
+  {
+   "start": "14:29",
+   "end": "14:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "14:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 552
+  }
+ ],
+ "alloc_min": {
+  "居所": 1380,
+  "移動": 36,
+  "個人": 24
+ }
+}

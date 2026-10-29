@@ -1,0 +1,56 @@
+{
+ "date": "2012-10-28",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.10.28",
+ "work_min": 0,
+ "residence_min": 1343,
+ "meetings": 0,
+ "first_work": "13:31",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "13:31",
+   "label": "東京・永田町のザ・キャピトルホテル東急。スパ＆バーバー「カージュラジャ ティアド」で散髪",
+   "place": "ザ・キャピトルホテル東急",
+   "category": "個人"
+  },
+  {
+   "time": "15:08",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 811
+  },
+  {
+   "start": "13:31",
+   "end": "15:08",
+   "category": "個人",
+   "label": "東京・永田町のザ・キャピトルホテル東急。スパ＆バーバー「カージュラジャ ティアド」で散髪",
+   "minutes": 97
+  },
+  {
+   "start": "15:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 532
+  }
+ ],
+ "alloc_min": {
+  "居所": 1343,
+  "個人": 97
+ }
+}

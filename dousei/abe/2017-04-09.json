@@ -1,0 +1,297 @@
+{
+ "date": "2017-04-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 349,
+ "residence_min": 734,
+ "meetings": 1,
+ "first_work": "07:26",
+ "events": [
+  {
+   "time": "07:26",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:10",
+   "label": "トランプ米大統領と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:03",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:05",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:06",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "10:07",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:17",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "個人"
+  },
+  {
+   "time": "11:46",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": "12:09",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:45",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "14:35",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": "14:51",
+   "label": "大劇場で谷村新司氏のコンサートを鑑賞。長谷川栄一首相補佐官同席",
+   "place": "東京・隼町 国立劇場",
+   "category": "個人"
+  },
+  {
+   "time": "17:43",
+   "label": "移動",
+   "place": "東京・隼町 国立劇場",
+   "category": "移動"
+  },
+  {
+   "time": "17:57",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:45",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "京料理店「花郷　銀座店」で昭恵夫人、親族と食事",
+   "place": "東京・銀座 デビアス銀座ビル",
+   "category": "会食"
+  },
+  {
+   "time": "21:18",
+   "label": "移動",
+   "place": "東京・銀座 デビアス銀座ビル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 446
+  },
+  {
+   "start": "07:26",
+   "end": "07:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:38",
+   "end": "08:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "08:10",
+   "end": "08:55",
+   "category": "面会・会談",
+   "label": "トランプ米大統領と電話会談",
+   "minutes": 45
+  },
+  {
+   "start": "08:55",
+   "end": "09:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:03",
+   "end": "09:04",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:04",
+   "end": "09:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:05",
+   "end": "09:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:06",
+   "end": "10:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 61
+  },
+  {
+   "start": "10:07",
+   "end": "10:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "10:17",
+   "end": "11:46",
+   "category": "個人",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "minutes": 89
+  },
+  {
+   "start": "11:46",
+   "end": "12:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "12:09",
+   "end": "12:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 36
+  },
+  {
+   "start": "12:45",
+   "end": "12:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "12:59",
+   "end": "14:35",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 96
+  },
+  {
+   "start": "14:35",
+   "end": "14:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "14:51",
+   "end": "17:43",
+   "category": "個人",
+   "label": "大劇場で谷村新司氏のコンサートを鑑賞。長谷川栄一首相補佐官同席",
+   "minutes": 172
+  },
+  {
+   "start": "17:43",
+   "end": "17:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "17:57",
+   "end": "18:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 48
+  },
+  {
+   "start": "18:45",
+   "end": "19:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "19:05",
+   "end": "21:18",
+   "category": "会食",
+   "label": "京料理店「花郷　銀座店」で昭恵夫人、親族と食事",
+   "minutes": 133
+  },
+  {
+   "start": "21:18",
+   "end": "21:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "21:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 143
+  }
+ ],
+ "alloc_min": {
+  "居所": 734,
+  "移動": 129,
+  "公務（内容未詳）": 41,
+  "面会・会談": 45,
+  "取材・会見": 1,
+  "個人": 357,
+  "会食": 133
+ }
+}

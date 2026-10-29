@@ -1,0 +1,219 @@
+{
+ "date": "2017-10-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 675,
+ "residence_min": 765,
+ "meetings": 2,
+ "first_work": "09:43",
+ "events": [
+  {
+   "time": "09:43",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "山口那津男公明党代表と街頭演説",
+   "place": "東京・赤羽 ＪＲ赤羽駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "13:46",
+   "label": "移動",
+   "place": "東京・赤羽 ＪＲ赤羽駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "14:22",
+   "label": "同施設内の「カレッタスタジオ」で選挙用のＣＭ撮影。和田政宗自民党参院議員同席",
+   "place": "東京・東新橋 複合施設「カレッタ汐留」",
+   "category": "党務"
+  },
+  {
+   "time": "17:19",
+   "label": "移動",
+   "place": "東京・東新橋 複合施設「カレッタ汐留」",
+   "category": "移動"
+  },
+  {
+   "time": "17:36",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:03",
+   "label": "日本学術会議会員との懇談会に出席し、あいさつ",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "同ホテル内の中国料理店「大観苑」で秘書官と食事",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "会食"
+  },
+  {
+   "time": "20:42",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 583
+  },
+  {
+   "start": "09:43",
+   "end": "09:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 148
+  },
+  {
+   "start": "12:26",
+   "end": "13:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "13:00",
+   "end": "13:46",
+   "category": "党務",
+   "label": "山口那津男公明党代表と街頭演説",
+   "minutes": 46
+  },
+  {
+   "start": "13:46",
+   "end": "14:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "14:22",
+   "end": "17:19",
+   "category": "党務",
+   "label": "同施設内の「カレッタスタジオ」で選挙用のＣＭ撮影。和田政宗自民党参院議員同席",
+   "minutes": 177
+  },
+  {
+   "start": "17:19",
+   "end": "17:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "17:32",
+   "end": "17:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:36",
+   "end": "17:53",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 17
+  },
+  {
+   "start": "17:53",
+   "end": "18:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "18:03",
+   "end": "18:19",
+   "category": "面会・会談",
+   "label": "日本学術会議会員との懇談会に出席し、あいさつ",
+   "minutes": 16
+  },
+  {
+   "start": "18:19",
+   "end": "18:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "18:49",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "18:56",
+   "end": "20:42",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「大観苑」で秘書官と食事",
+   "minutes": 106
+  },
+  {
+   "start": "20:42",
+   "end": "20:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "20:58",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 182
+  }
+ ],
+ "alloc_min": {
+  "居所": 765,
+  "移動": 121,
+  "官邸執務": 148,
+  "党務": 223,
+  "公務（内容未詳）": 44,
+  "面会・会談": 33,
+  "会食": 106
+ }
+}

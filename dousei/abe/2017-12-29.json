@@ -1,0 +1,119 @@
+{
+ "date": "2017-12-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 412,
+ "residence_min": 472,
+ "meetings": 0,
+ "first_work": "07:03",
+ "events": [
+  {
+   "time": "07:03",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:18",
+   "label": "親族らとゴルフ",
+   "place": "千葉県市原市 ゴルフ場「森永高滝カントリー倶楽部」",
+   "category": "個人"
+  },
+  {
+   "time": "15:24",
+   "label": "移動",
+   "place": "千葉県市原市 ゴルフ場「森永高滝カントリー倶楽部」",
+   "category": "移動"
+  },
+  {
+   "time": "16:51",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:40",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:24",
+   "label": "同ホテル内の中国料理店「ＣＨＩＮＡＲＯＯＭ」で友人と食事",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 423
+  },
+  {
+   "start": "07:03",
+   "end": "08:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 75
+  },
+  {
+   "start": "08:18",
+   "end": "15:24",
+   "category": "個人",
+   "label": "親族らとゴルフ",
+   "minutes": 426
+  },
+  {
+   "start": "15:24",
+   "end": "16:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 87
+  },
+  {
+   "start": "16:51",
+   "end": "17:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 49
+  },
+  {
+   "start": "17:40",
+   "end": "17:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "17:55",
+   "end": "18:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "18:24",
+   "end": "21:50",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「ＣＨＩＮＡＲＯＯＭ」で友人と食事",
+   "minutes": 206
+  },
+  {
+   "start": "21:50",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 130
+  }
+ ],
+ "alloc_min": {
+  "居所": 472,
+  "移動": 177,
+  "個人": 556,
+  "公務（内容未詳）": 29,
+  "会食": 206
+ }
+}

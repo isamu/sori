@@ -1,0 +1,159 @@
+{
+ "date": "2019-11-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 217,
+ "residence_min": 1223,
+ "meetings": 1,
+ "first_work": "10:34",
+ "events": [
+  {
+   "time": "10:34",
+   "label": "公邸見学の聖心女子学院中等科の生徒らと面会",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:35",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:50",
+   "label": "原子力総合防災訓練",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:28",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:44",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "16:41",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:05",
+   "label": "天皇陛下御即位をお祝いする国民祭典の祝賀式典に出席し、祝辞",
+   "place": "皇居前広場",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:48",
+   "label": "移動",
+   "place": "皇居前広場",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 634
+  },
+  {
+   "start": "10:34",
+   "end": "10:35",
+   "category": "面会・会談",
+   "label": "公邸見学の聖心女子学院中等科の生徒らと面会",
+   "minutes": 1
+  },
+  {
+   "start": "10:35",
+   "end": "10:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "10:36",
+   "end": "10:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "10:50",
+   "end": "11:22",
+   "category": "官邸執務",
+   "label": "原子力総合防災訓練",
+   "minutes": 32
+  },
+  {
+   "start": "11:22",
+   "end": "11:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "11:28",
+   "end": "11:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "11:44",
+   "end": "16:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 297
+  },
+  {
+   "start": "16:41",
+   "end": "17:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "17:05",
+   "end": "18:48",
+   "category": "式典・行事",
+   "label": "天皇陛下御即位をお祝いする国民祭典の祝賀式典に出席し、祝辞",
+   "minutes": 103
+  },
+  {
+   "start": "18:48",
+   "end": "19:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "19:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 292
+  }
+ ],
+ "alloc_min": {
+  "居所": 1223,
+  "面会・会談": 1,
+  "移動": 61,
+  "公務（内容未詳）": 20,
+  "官邸執務": 32,
+  "式典・行事": 103
+ }
+}

@@ -1,0 +1,328 @@
+{
+ "date": "2018-03-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 818,
+ "residence_min": 622,
+ "meetings": 2,
+ "first_work": "07:10",
+ "events": [
+  {
+   "time": "07:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:41",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:53",
+   "label": "麻生太郎副総理兼財務相 加藤勝信厚生労働相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:04",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:55",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:57",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:29",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:47",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:02",
+   "label": "在米日系人リーダー招聘プログラム参加者のアイリーン・ヒラノ・イノウエ米日カウンシル会長らの表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:19",
+   "label": "長野県の阿部守一知事、後藤茂之自民党県連会長らから要望書受け取り",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "18:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:03",
+   "label": "同ホテル内の洋食店「ＢｉｓｔｒｏＷ」で自民党「奪還の会」メンバーと会食",
+   "place": "東京・四谷 ホテルウィングインターナショナルプレミアム東京四谷",
+   "category": "会食"
+  },
+  {
+   "time": "20:30",
+   "label": "移動",
+   "place": "東京・四谷 ホテルウィングインターナショナルプレミアム東京四谷",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 430
+  },
+  {
+   "start": "07:10",
+   "end": "07:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "07:23",
+   "end": "07:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "07:41",
+   "end": "08:40",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 59
+  },
+  {
+   "start": "08:40",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 加藤勝信厚生労働相",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "09:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "09:04",
+   "end": "11:52",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 168
+  },
+  {
+   "start": "11:52",
+   "end": "11:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:55",
+   "end": "11:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 59
+  },
+  {
+   "start": "12:56",
+   "end": "12:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:58",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:00",
+   "end": "17:26",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 266
+  },
+  {
+   "start": "17:26",
+   "end": "17:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:29",
+   "end": "17:45",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 16
+  },
+  {
+   "start": "17:45",
+   "end": "17:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:47",
+   "end": "17:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:49",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "18:02",
+   "end": "18:18",
+   "category": "面会・会談",
+   "label": "在米日系人リーダー招聘プログラム参加者のアイリーン・ヒラノ・イノウエ米日カウンシル会長らの表敬",
+   "minutes": 16
+  },
+  {
+   "start": "18:18",
+   "end": "18:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:19",
+   "end": "18:29",
+   "category": "党務",
+   "label": "長野県の阿部守一知事、後藤茂之自民党県連会長らから要望書受け取り",
+   "minutes": 10
+  },
+  {
+   "start": "18:29",
+   "end": "18:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "18:51",
+   "end": "19:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "19:03",
+   "end": "20:30",
+   "category": "会食",
+   "label": "同ホテル内の洋食店「ＢｉｓｔｒｏＷ」で自民党「奪還の会」メンバーと会食",
+   "minutes": 87
+  },
+  {
+   "start": "20:30",
+   "end": "20:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "20:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 192
+  }
+ ],
+ "alloc_min": {
+  "居所": 622,
+  "移動": 50,
+  "公務（内容未詳）": 86,
+  "面会・会談": 75,
+  "国会": 435,
+  "官邸執務": 59,
+  "党務": 26,
+  "会食": 87
+ }
+}

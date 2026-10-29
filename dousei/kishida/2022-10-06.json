@@ -1,0 +1,387 @@
+{
+ "date": "2022-10-06",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 852,
+ "residence_min": 588,
+ "meetings": 5,
+ "first_work": "06:58",
+ "events": [
+  {
+   "time": "06:58",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:00",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "07:02",
+   "label": "磯崎仁彦官房副長官 栗生俊一官房副長官 村田隆内閣危機管理監 秋葉剛男国家安全保障局長 高橋憲一官房副長官補 市川恵一総合外交政策局長 増田和夫防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:14",
+   "label": "磯崎仁彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:31",
+   "label": "木原誠二官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:27",
+   "label": "木原誠二官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:53",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:45",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:37",
+   "label": "韓国の尹錫悦大統領と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:37",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:45",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:52",
+   "label": "茂木敏充自民党幹事長と会食",
+   "place": "東京・赤坂 日本料理店「もりかわ」",
+   "category": "会食"
+  },
+  {
+   "time": "21:04",
+   "label": "移動",
+   "place": "東京・赤坂 日本料理店「もりかわ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 418
+  },
+  {
+   "start": "06:58",
+   "end": "07:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "07:00",
+   "end": "07:02",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "07:02",
+   "end": "07:10",
+   "category": "面会・会談",
+   "label": "磯崎仁彦官房副長官 栗生俊一官房副長官 村田隆内閣危機管理監 秋葉剛男国家安全保障局長 高橋憲一官房副長官補 市川恵一総合外交政策局長 増田和夫防衛政策局長",
+   "minutes": 8
+  },
+  {
+   "start": "07:10",
+   "end": "07:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "07:14",
+   "end": "08:25",
+   "category": "面会・会談",
+   "label": "磯崎仁彦官房副長官",
+   "minutes": 71
+  },
+  {
+   "start": "08:25",
+   "end": "08:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:31",
+   "end": "09:23",
+   "category": "面会・会談",
+   "label": "木原誠二官房副長官",
+   "minutes": 52
+  },
+  {
+   "start": "09:23",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "09:52",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "09:58",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:01",
+   "end": "11:54",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 113
+  },
+  {
+   "start": "11:54",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:56",
+   "end": "11:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:59",
+   "end": "12:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "12:27",
+   "end": "12:47",
+   "category": "面会・会談",
+   "label": "木原誠二官房副長官",
+   "minutes": 20
+  },
+  {
+   "start": "12:47",
+   "end": "13:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 64
+  },
+  {
+   "start": "13:51",
+   "end": "13:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:52",
+   "end": "13:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "14:00",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:02",
+   "end": "16:43",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 161
+  },
+  {
+   "start": "16:43",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:45",
+   "end": "16:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "16:51",
+   "end": "17:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "17:37",
+   "end": "18:01",
+   "category": "面会・会談",
+   "label": "韓国の尹錫悦大統領と電話会談",
+   "minutes": 24
+  },
+  {
+   "start": "18:01",
+   "end": "18:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "18:37",
+   "end": "18:44",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 7
+  },
+  {
+   "start": "18:44",
+   "end": "18:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:45",
+   "end": "18:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "18:52",
+   "end": "21:04",
+   "category": "会食",
+   "label": "茂木敏充自民党幹事長と会食",
+   "minutes": 132
+  },
+  {
+   "start": "21:04",
+   "end": "21:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "21:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 170
+  }
+ ],
+ "alloc_min": {
+  "居所": 588,
+  "移動": 26,
+  "取材・会見": 9,
+  "面会・会談": 175,
+  "公務（内容未詳）": 225,
+  "国会": 285,
+  "会食": 132
+ }
+}

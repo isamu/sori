@@ -1,0 +1,414 @@
+{
+ "date": "2015-04-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 871,
+ "residence_min": 569,
+ "meetings": 2,
+ "first_work": "07:27",
+ "events": [
+  {
+   "time": "07:27",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:32",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "12:12",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:33",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "15:56",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "16:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:53",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "17:03",
+   "label": "参院の山崎正昭、輿石東正副議長、中川雅治議院運営委員長、与野党にあいさつまわり",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:18",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:21",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:53",
+   "label": "谷内正太郎国家安全保障局長 斎木昭隆事務次官 冨田浩司北米局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:20",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:19",
+   "label": "パラオから帰国した天皇、皇后両陛下を昭恵夫人らとともに出迎え",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:29",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 447
+  },
+  {
+   "start": "07:27",
+   "end": "07:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:28",
+   "end": "07:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "07:32",
+   "end": "08:23",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 51
+  },
+  {
+   "start": "08:23",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "08:53",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:55",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:57",
+   "end": "08:58",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "08:58",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:00",
+   "end": "12:10",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 190
+  },
+  {
+   "start": "12:10",
+   "end": "12:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:12",
+   "end": "12:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 40
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "15:31",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 151
+  },
+  {
+   "start": "15:31",
+   "end": "15:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 22
+  },
+  {
+   "start": "15:55",
+   "end": "15:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "15:57",
+   "end": "16:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:01",
+   "end": "16:53",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 52
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 9
+  },
+  {
+   "start": "17:02",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:03",
+   "end": "17:17",
+   "category": "国会",
+   "label": "参院の山崎正昭、輿石東正副議長、中川雅治議院運営委員長、与野党にあいさつまわり",
+   "minutes": 14
+  },
+  {
+   "start": "17:17",
+   "end": "17:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:18",
+   "end": "17:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:20",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:21",
+   "end": "17:23",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "17:23",
+   "end": "17:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "17:53",
+   "end": "18:16",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 斎木昭隆事務次官 冨田浩司北米局長",
+   "minutes": 23
+  },
+  {
+   "start": "18:16",
+   "end": "20:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 124
+  },
+  {
+   "start": "20:20",
+   "end": "20:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "20:45",
+   "end": "21:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "21:19",
+   "end": "21:24",
+   "category": "移動",
+   "label": "パラオから帰国した天皇、皇后両陛下を昭恵夫人らとともに出迎え",
+   "minutes": 5
+  },
+  {
+   "start": "21:24",
+   "end": "21:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "21:29",
+   "end": "21:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "21:58",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 122
+  }
+ ],
+ "alloc_min": {
+  "居所": 569,
+  "移動": 67,
+  "公務（内容未詳）": 248,
+  "面会・会談": 74,
+  "国会": 440,
+  "官邸執務": 40,
+  "取材・会見": 2
+ }
+}

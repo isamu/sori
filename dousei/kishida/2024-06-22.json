@@ -1,0 +1,77 @@
+{
+ "date": "2024-06-22",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 15,
+ "residence_min": 1330,
+ "meetings": 0,
+ "first_work": "15:20",
+ "events": [
+  {
+   "time": "15:20",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:29",
+   "label": "同ホテル内の「ヘアサロン大野」で散髪",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "個人"
+  },
+  {
+   "time": "17:04",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 920
+  },
+  {
+   "start": "15:20",
+   "end": "15:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:29",
+   "end": "17:04",
+   "category": "個人",
+   "label": "同ホテル内の「ヘアサロン大野」で散髪",
+   "minutes": 95
+  },
+  {
+   "start": "17:04",
+   "end": "17:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "17:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 410
+  }
+ ],
+ "alloc_min": {
+  "居所": 1330,
+  "移動": 15,
+  "個人": 95
+ }
+}

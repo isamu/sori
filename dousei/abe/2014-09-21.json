@@ -1,0 +1,213 @@
+{
+ "date": "2014-09-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 455,
+ "residence_min": 985,
+ "meetings": 1,
+ "first_work": "13:33",
+ "events": [
+  {
+   "time": "13:33",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:05",
+   "label": "第10回公明党大会に出席し、あいさつ",
+   "place": "東京・港南 品川インターシティホール",
+   "category": "党務"
+  },
+  {
+   "time": "14:27",
+   "label": "移動",
+   "place": "東京・港南 品川インターシティホール",
+   "category": "移動"
+  },
+  {
+   "time": "14:52",
+   "label": "国際放送番組収録",
+   "place": "東京・神南 NHK",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:44",
+   "label": "移動",
+   "place": "東京・神南 NHK",
+   "category": "移動"
+  },
+  {
+   "time": "16:05",
+   "label": "ロシアのプーチン大統領と電話会談。菅義偉官房長官、加藤勝信、世耕弘成両官房副長官同席。",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:29",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:22",
+   "label": "同ホテル内のラウンジバー『プリヴェ』で昭恵夫人や友人と食事。",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "会食"
+  },
+  {
+   "time": "21:04",
+   "label": "移動",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 813
+  },
+  {
+   "start": "13:33",
+   "end": "13:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "13:47",
+   "end": "14:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "14:05",
+   "end": "14:26",
+   "category": "党務",
+   "label": "第10回公明党大会に出席し、あいさつ",
+   "minutes": 21
+  },
+  {
+   "start": "14:26",
+   "end": "14:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:27",
+   "end": "14:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "14:52",
+   "end": "15:31",
+   "category": "取材・会見",
+   "label": "国際放送番組収録",
+   "minutes": 39
+  },
+  {
+   "start": "15:31",
+   "end": "15:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "15:44",
+   "end": "16:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "16:05",
+   "end": "16:15",
+   "category": "面会・会談",
+   "label": "ロシアのプーチン大統領と電話会談。菅義偉官房長官、加藤勝信、世耕弘成両官房副長官同席。",
+   "minutes": 10
+  },
+  {
+   "start": "16:15",
+   "end": "16:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 14
+  },
+  {
+   "start": "16:29",
+   "end": "16:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "16:45",
+   "end": "19:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 140
+  },
+  {
+   "start": "19:05",
+   "end": "19:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "19:22",
+   "end": "21:04",
+   "category": "会食",
+   "label": "同ホテル内のラウンジバー『プリヴェ』で昭恵夫人や友人と食事。",
+   "minutes": 102
+  },
+  {
+   "start": "21:04",
+   "end": "21:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "21:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 158
+  }
+ ],
+ "alloc_min": {
+  "居所": 985,
+  "移動": 111,
+  "公務（内容未詳）": 172,
+  "党務": 21,
+  "取材・会見": 39,
+  "面会・会談": 10,
+  "会食": 102
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "date": "2015-09-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "発",
+   "place": "米ニューヨークのケネディ空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ペガサスホテル",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "シンプソンミラー首相主催の夕食会に出席",
+   "place": "首相公邸",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "同行記者団と懇談",
+   "place": "ペガサスホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "視察。シンプソンミラー首相同席。",
+   "place": "ボブ・マーリー博物館",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "ジャマイカ首相府",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "共同声明署名式",
+   "place": "ジャマイカ首相府",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "シンプソンミラー首相と会談",
+   "place": "ジャマイカ首相府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "戦没者慰霊碑に献花",
+   "place": "国立英雄公園",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "歓迎式典",
+   "place": "ジャマイカ・キングストンのノーマン・マンリー空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ジャマイカ・キングストンのノーマン・マンリー空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

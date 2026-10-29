@@ -1,0 +1,326 @@
+{
+ "date": "2014-12-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 892,
+ "residence_min": 548,
+ "meetings": 0,
+ "first_work": "06:46",
+ "events": [
+  {
+   "time": "06:46",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:44",
+   "label": "ＮＨＫのインタビュー",
+   "place": "新幹線車内",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:27",
+   "label": "街頭演説",
+   "place": "福島県相馬市 松川浦漁港",
+   "category": "党務"
+  },
+  {
+   "time": "11:26",
+   "label": "秘書官と昼食",
+   "place": "宮城県山元町 定食屋「花膳」",
+   "category": "会食"
+  },
+  {
+   "time": "12:03",
+   "label": "街頭演説",
+   "place": "同町 「和風レストラン　田園　山元店」前",
+   "category": "党務"
+  },
+  {
+   "time": "13:19",
+   "label": "街頭演説",
+   "place": "宮城県石巻市 スーパー「ヨークベニマル石巻蛇田店」前",
+   "category": "党務"
+  },
+  {
+   "time": "14:11",
+   "label": "売店で買い物",
+   "place": "宮城県利府町 春日パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:56",
+   "label": "街頭演説",
+   "place": "仙台市 複合施設「アエル」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:52",
+   "label": "移動",
+   "place": "仙台市 複合施設「アエル」前",
+   "category": "移動"
+  },
+  {
+   "time": "18:06",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:59",
+   "label": "報道番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:44",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "19:48",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "20:32",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:39",
+   "label": "報道番組の収録",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:05",
+   "label": "移動",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 406
+  },
+  {
+   "start": "06:46",
+   "end": "07:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "07:06",
+   "end": "07:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "07:44",
+   "end": "07:49",
+   "category": "取材・会見",
+   "label": "ＮＨＫのインタビュー",
+   "minutes": 5
+  },
+  {
+   "start": "07:49",
+   "end": "10:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 158
+  },
+  {
+   "start": "10:27",
+   "end": "11:01",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "11:01",
+   "end": "11:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "11:26",
+   "end": "11:59",
+   "category": "会食",
+   "label": "秘書官と昼食",
+   "minutes": 33
+  },
+  {
+   "start": "11:59",
+   "end": "12:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "12:03",
+   "end": "12:16",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 13
+  },
+  {
+   "start": "12:16",
+   "end": "13:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "13:19",
+   "end": "13:46",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "13:46",
+   "end": "14:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "14:11",
+   "end": "14:20",
+   "category": "移動",
+   "label": "売店で買い物",
+   "minutes": 9
+  },
+  {
+   "start": "14:20",
+   "end": "14:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "14:56",
+   "end": "15:21",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "15:21",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 151
+  },
+  {
+   "start": "17:52",
+   "end": "18:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 48
+  },
+  {
+   "start": "18:54",
+   "end": "18:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:59",
+   "end": "19:44",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 45
+  },
+  {
+   "start": "19:44",
+   "end": "19:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "19:48",
+   "end": "20:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 43
+  },
+  {
+   "start": "20:31",
+   "end": "20:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "20:32",
+   "end": "20:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "20:39",
+   "end": "22:05",
+   "category": "取材・会見",
+   "label": "報道番組の収録",
+   "minutes": 86
+  },
+  {
+   "start": "22:05",
+   "end": "22:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "22:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 98
+  }
+ ],
+ "alloc_min": {
+  "居所": 548,
+  "移動": 76,
+  "公務（内容未詳）": 500,
+  "取材・会見": 136,
+  "党務": 99,
+  "会食": 33,
+  "官邸執務": 48
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "date": "2019-12-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 539,
+ "residence_min": 901,
+ "meetings": 1,
+ "first_work": "09:41",
+ "events": [
+  {
+   "time": "09:41",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:32",
+   "label": "下村博文自民党選対委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:39",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 581
+  },
+  {
+   "start": "09:41",
+   "end": "09:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "09:57",
+   "end": "16:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 395
+  },
+  {
+   "start": "16:32",
+   "end": "17:02",
+   "category": "面会・会談",
+   "label": "下村博文自民党選対委員長",
+   "minutes": 30
+  },
+  {
+   "start": "17:02",
+   "end": "18:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 97
+  },
+  {
+   "start": "18:39",
+   "end": "18:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 320
+  }
+ ],
+ "alloc_min": {
+  "居所": 901,
+  "移動": 17,
+  "公務（内容未詳）": 492,
+  "面会・会談": 30
+ }
+}

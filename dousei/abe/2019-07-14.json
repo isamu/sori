@@ -1,0 +1,392 @@
+{
+ "date": "2019-07-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 760,
+ "residence_min": 680,
+ "meetings": 0,
+ "first_work": "09:07",
+ "events": [
+  {
+   "time": "09:07",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:33",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:10",
+   "label": "広島空港",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:16",
+   "label": "移動",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:10",
+   "label": "街頭演説",
+   "place": "広島市中区 呉服店「叶や」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:38",
+   "label": "移動",
+   "place": "広島市中区 呉服店「叶や」前",
+   "category": "移動"
+  },
+  {
+   "time": "12:44",
+   "label": "街頭演説",
+   "place": "同区 百貨店「福屋八丁堀本店」前",
+   "category": "党務"
+  },
+  {
+   "time": "13:12",
+   "label": "移動",
+   "place": "同区 百貨店「福屋八丁堀本店」前",
+   "category": "移動"
+  },
+  {
+   "time": "13:35",
+   "label": "利用客らと握手、写真撮影、サイン",
+   "place": "ＪＲ広島駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:39",
+   "label": "のぞみ３０号",
+   "place": "ＪＲ広島駅",
+   "category": "移動"
+  },
+  {
+   "time": "14:51",
+   "label": "ＪＲ新神戸駅",
+   "place": "ＪＲ新神戸駅",
+   "category": "移動"
+  },
+  {
+   "time": "14:53",
+   "label": "移動",
+   "place": "ＪＲ新神戸駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:07",
+   "label": "街頭演説",
+   "place": "神戸市中央区 百貨店「そごう神戸店」前",
+   "category": "党務"
+  },
+  {
+   "time": "15:31",
+   "label": "移動",
+   "place": "神戸市中央区 百貨店「そごう神戸店」前",
+   "category": "移動"
+  },
+  {
+   "time": "15:33",
+   "label": "街頭演説",
+   "place": "同区 神戸国際会館前",
+   "category": "党務"
+  },
+  {
+   "time": "16:02",
+   "label": "移動",
+   "place": "同区 神戸国際会館前",
+   "category": "移動"
+  },
+  {
+   "time": "16:13",
+   "label": "ＪＲ新神戸駅",
+   "place": "ＪＲ新神戸駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:30",
+   "label": "ひかり４７６号",
+   "place": "ＪＲ新神戸駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:35",
+   "label": "街頭演説",
+   "place": "ＪＲ名古屋駅前",
+   "category": "党務"
+  },
+  {
+   "time": "18:13",
+   "label": "移動",
+   "place": "ＪＲ名古屋駅前",
+   "category": "移動"
+  },
+  {
+   "time": "18:32",
+   "label": "街頭演説",
+   "place": "名古屋市中区 久屋大通公園",
+   "category": "党務"
+  },
+  {
+   "time": "19:05",
+   "label": "移動",
+   "place": "名古屋市中区 久屋大通公園",
+   "category": "移動"
+  },
+  {
+   "time": "19:18",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:23",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:27",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 547
+  },
+  {
+   "start": "09:07",
+   "end": "09:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "09:33",
+   "end": "10:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "10:02",
+   "end": "11:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 68
+  },
+  {
+   "start": "11:10",
+   "end": "11:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "11:16",
+   "end": "12:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 54
+  },
+  {
+   "start": "12:10",
+   "end": "12:38",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "12:38",
+   "end": "12:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "12:44",
+   "end": "13:12",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "13:12",
+   "end": "13:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "13:26",
+   "end": "13:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:35",
+   "end": "13:36",
+   "category": "移動",
+   "label": "利用客らと握手、写真撮影、サイン",
+   "minutes": 1
+  },
+  {
+   "start": "13:36",
+   "end": "13:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:39",
+   "end": "14:51",
+   "category": "移動",
+   "label": "のぞみ３０号",
+   "minutes": 72
+  },
+  {
+   "start": "14:51",
+   "end": "14:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:53",
+   "end": "15:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "15:07",
+   "end": "15:31",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "15:31",
+   "end": "15:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:33",
+   "end": "16:02",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "16:02",
+   "end": "16:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "16:13",
+   "end": "16:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "16:30",
+   "end": "17:35",
+   "category": "移動",
+   "label": "ひかり４７６号",
+   "minutes": 65
+  },
+  {
+   "start": "17:35",
+   "end": "18:13",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "18:13",
+   "end": "18:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "18:32",
+   "end": "19:05",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "19:05",
+   "end": "19:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "19:18",
+   "end": "19:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "19:44",
+   "end": "21:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 99
+  },
+  {
+   "start": "21:23",
+   "end": "21:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "21:27",
+   "end": "21:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 133
+  }
+ ],
+ "alloc_min": {
+  "居所": 680,
+  "移動": 397,
+  "公務（内容未詳）": 183,
+  "党務": 180
+ }
+}

@@ -1,0 +1,187 @@
+{
+ "date": "2016-10-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 285,
+ "residence_min": 1155,
+ "meetings": 1,
+ "first_work": "09:22",
+ "events": [
+  {
+   "time": "09:22",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:34",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:43",
+   "label": "海上自衛隊のヘリコプター。長谷川栄一首相補佐官同行",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:05",
+   "label": "稲田朋美防衛相",
+   "place": "東部方面総監部庁舎",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:31",
+   "label": "自衛隊観閲式に出席し、訓示",
+   "place": "朝霞訓練場",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:41",
+   "label": "稲田防衛相、山口那津男公明党代表らと食事",
+   "place": "東部方面総監部庁舎",
+   "category": "会食"
+  },
+  {
+   "time": "13:37",
+   "label": "海自ヘリ",
+   "place": "東部方面総監部庁舎",
+   "category": "移動"
+  },
+  {
+   "time": "13:48",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 562
+  },
+  {
+   "start": "09:22",
+   "end": "09:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 9
+  },
+  {
+   "start": "09:43",
+   "end": "09:58",
+   "category": "移動",
+   "label": "海上自衛隊のヘリコプター。長谷川栄一首相補佐官同行",
+   "minutes": 15
+  },
+  {
+   "start": "09:58",
+   "end": "10:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "10:05",
+   "end": "10:20",
+   "category": "面会・会談",
+   "label": "稲田朋美防衛相",
+   "minutes": 15
+  },
+  {
+   "start": "10:20",
+   "end": "10:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "10:31",
+   "end": "12:19",
+   "category": "式典・行事",
+   "label": "自衛隊観閲式に出席し、訓示",
+   "minutes": 108
+  },
+  {
+   "start": "12:19",
+   "end": "12:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "12:41",
+   "end": "13:11",
+   "category": "会食",
+   "label": "稲田防衛相、山口那津男公明党代表らと食事",
+   "minutes": 30
+  },
+  {
+   "start": "13:11",
+   "end": "13:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "13:37",
+   "end": "13:48",
+   "category": "移動",
+   "label": "海自ヘリ",
+   "minutes": 11
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "13:52",
+   "end": "14:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "14:07",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 593
+  }
+ ],
+ "alloc_min": {
+  "居所": 1155,
+  "移動": 53,
+  "官邸執務": 13,
+  "公務（内容未詳）": 66,
+  "面会・会談": 15,
+  "式典・行事": 108,
+  "会食": 30
+ }
+}

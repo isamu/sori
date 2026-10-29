@@ -1,0 +1,442 @@
+{
+ "date": "2016-03-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 872,
+ "residence_min": 568,
+ "meetings": 5,
+ "first_work": "07:06",
+ "events": [
+  {
+   "time": "07:06",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:17",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "07:20",
+   "label": "西村泰彦内閣危機管理監 谷内正太郎国家安全保障局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:28",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:07",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:18",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "中谷元防衛相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "08:56",
+   "label": "参院予算委",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "08:57",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:22",
+   "label": "西村泰彦内閣危機管理監 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:04",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:11",
+   "label": "斎木昭隆事務次官 長嶺安政外務審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:01",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:36",
+   "label": "高橋精一郎三井住友銀行副頭取、加計孝太郎学校法人加計学園理事長と会食",
+   "place": "東京・赤坂 日本料理店「佐藤」",
+   "category": "会食"
+  },
+  {
+   "time": "21:22",
+   "label": "移動",
+   "place": "東京・赤坂 日本料理店「佐藤」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 426
+  },
+  {
+   "start": "07:06",
+   "end": "07:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "07:16",
+   "end": "07:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:17",
+   "end": "07:18",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "07:18",
+   "end": "07:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "07:20",
+   "end": "07:27",
+   "category": "面会・会談",
+   "label": "西村泰彦内閣危機管理監 谷内正太郎国家安全保障局長",
+   "minutes": 7
+  },
+  {
+   "start": "07:27",
+   "end": "07:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:28",
+   "end": "08:05",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 37
+  },
+  {
+   "start": "08:05",
+   "end": "08:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:07",
+   "end": "08:12",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 5
+  },
+  {
+   "start": "08:12",
+   "end": "08:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:18",
+   "end": "08:31",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 13
+  },
+  {
+   "start": "08:31",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "08:50",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:51",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "国会",
+   "label": "中谷元防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "08:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:56",
+   "end": "08:57",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 1
+  },
+  {
+   "start": "08:57",
+   "end": "08:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 2
+  },
+  {
+   "start": "08:59",
+   "end": "11:54",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 175
+  },
+  {
+   "start": "11:54",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:56",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:58",
+   "end": "12:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "12:22",
+   "end": "12:36",
+   "category": "面会・会談",
+   "label": "西村泰彦内閣危機管理監 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "minutes": 14
+  },
+  {
+   "start": "12:36",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "17:00",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 240
+  },
+  {
+   "start": "17:00",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:04",
+   "end": "17:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:06",
+   "end": "17:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:11",
+   "end": "17:41",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官 長嶺安政外務審議官",
+   "minutes": 30
+  },
+  {
+   "start": "17:41",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "18:01",
+   "end": "18:23",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 22
+  },
+  {
+   "start": "18:23",
+   "end": "18:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "18:31",
+   "end": "18:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:36",
+   "end": "21:22",
+   "category": "会食",
+   "label": "高橋精一郎三井住友銀行副頭取、加計孝太郎学校法人加計学園理事長と会食",
+   "minutes": 166
+  },
+  {
+   "start": "21:22",
+   "end": "21:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "21:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 142
+  }
+ ],
+ "alloc_min": {
+  "居所": 568,
+  "移動": 37,
+  "公務（内容未詳）": 120,
+  "取材・会見": 1,
+  "面会・会談": 110,
+  "官邸執務": 18,
+  "国会": 420,
+  "会食": 166
+ }
+}

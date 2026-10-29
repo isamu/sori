@@ -1,0 +1,159 @@
+{
+ "date": "2018-07-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 259,
+ "residence_min": 1181,
+ "meetings": 3,
+ "first_work": "10:51",
+ "events": [
+  {
+   "time": "10:51",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:13",
+   "label": "高橋清孝内閣危機管理監 橋田俊彦気象庁長官 海堀安喜政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:31",
+   "label": "豪雨非常災害対策本部会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:42",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:18",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:23",
+   "label": "全身の施術",
+   "place": "東京・赤坂 赤坂島田整骨院",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:47",
+   "label": "移動",
+   "place": "東京・赤坂 赤坂島田整骨院",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 651
+  },
+  {
+   "start": "10:51",
+   "end": "11:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "11:04",
+   "end": "11:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "11:13",
+   "end": "11:19",
+   "category": "面会・会談",
+   "label": "高橋清孝内閣危機管理監 橋田俊彦気象庁長官 海堀安喜政策統括官",
+   "minutes": 6
+  },
+  {
+   "start": "11:19",
+   "end": "11:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "11:31",
+   "end": "11:47",
+   "category": "官邸執務",
+   "label": "豪雨非常災害対策本部会議",
+   "minutes": 16
+  },
+  {
+   "start": "11:47",
+   "end": "12:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "12:42",
+   "end": "13:16",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 34
+  },
+  {
+   "start": "13:16",
+   "end": "13:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:18",
+   "end": "13:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "13:23",
+   "end": "14:47",
+   "category": "面会・会談",
+   "label": "全身の施術",
+   "minutes": 84
+  },
+  {
+   "start": "14:47",
+   "end": "15:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "15:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 530
+  }
+ ],
+ "alloc_min": {
+  "居所": 1181,
+  "移動": 41,
+  "公務（内容未詳）": 78,
+  "面会・会談": 124,
+  "官邸執務": 16
+ }
+}

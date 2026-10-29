@@ -1,0 +1,77 @@
+{
+ "date": "2016-01-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 146,
+ "residence_min": 1294,
+ "meetings": 0,
+ "first_work": "16:28",
+ "events": [
+  {
+   "time": "16:28",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:48",
+   "label": "昭恵夫人、母親の洋子さんとともに初釜式に出席",
+   "place": "東京・二番町 表千家東京稽古場",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:39",
+   "label": "移動",
+   "place": "東京・二番町 表千家東京稽古場",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 988
+  },
+  {
+   "start": "16:28",
+   "end": "16:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "16:48",
+   "end": "18:39",
+   "category": "式典・行事",
+   "label": "昭恵夫人、母親の洋子さんとともに初釜式に出席",
+   "minutes": 111
+  },
+  {
+   "start": "18:39",
+   "end": "18:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "18:54",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 306
+  }
+ ],
+ "alloc_min": {
+  "居所": 1294,
+  "移動": 35,
+  "式典・行事": 111
+ }
+}

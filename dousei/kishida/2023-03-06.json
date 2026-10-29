@@ -1,0 +1,322 @@
+{
+ "date": "2023-03-06",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 822,
+ "residence_min": 618,
+ "meetings": 1,
+ "first_work": "07:06",
+ "events": [
+  {
+   "time": "07:06",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:11",
+   "label": "磯崎仁彦官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:01",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:55",
+   "label": "国会 参院第８理事会室",
+   "place": "国会 参院第８理事会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:59",
+   "label": "報道各社のインタビュー",
+   "place": "国会",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:02",
+   "label": "磯崎仁彦官房副長官",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:34",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:42",
+   "label": "自民党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:57",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "18:43",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:01",
+   "label": "茶道裏千家の例会に出席",
+   "place": "東京・銀座 日本料理店「新ばし金田中」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:39",
+   "label": "移動",
+   "place": "東京・銀座 日本料理店「新ばし金田中」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 426
+  },
+  {
+   "start": "07:06",
+   "end": "07:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:07",
+   "end": "07:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "07:11",
+   "end": "08:33",
+   "category": "面会・会談",
+   "label": "磯崎仁彦官房副長官",
+   "minutes": 82
+  },
+  {
+   "start": "08:33",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "09:01",
+   "end": "11:53",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 172
+  },
+  {
+   "start": "11:53",
+   "end": "11:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "11:56",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:59",
+   "end": "12:00",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "12:00",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:02",
+   "end": "12:15",
+   "category": "国会",
+   "label": "磯崎仁彦官房副長官",
+   "minutes": 13
+  },
+  {
+   "start": "12:15",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "13:00",
+   "end": "17:32",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 272
+  },
+  {
+   "start": "17:32",
+   "end": "17:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:34",
+   "end": "17:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:37",
+   "end": "17:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:42",
+   "end": "17:56",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 14
+  },
+  {
+   "start": "17:56",
+   "end": "17:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:57",
+   "end": "18:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:00",
+   "end": "18:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "18:43",
+   "end": "18:49",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 6
+  },
+  {
+   "start": "18:49",
+   "end": "18:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:50",
+   "end": "19:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "19:01",
+   "end": "20:39",
+   "category": "式典・行事",
+   "label": "茶道裏千家の例会に出席",
+   "minutes": 98
+  },
+  {
+   "start": "20:39",
+   "end": "20:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "20:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 192
+  }
+ ],
+ "alloc_min": {
+  "居所": 618,
+  "移動": 28,
+  "公務（内容未詳）": 135,
+  "面会・会談": 82,
+  "国会": 458,
+  "取材・会見": 7,
+  "党務": 14,
+  "式典・行事": 98
+ }
+}

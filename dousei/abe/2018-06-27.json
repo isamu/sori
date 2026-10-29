@@ -1,0 +1,368 @@
+{
+ "date": "2018-06-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 701,
+ "residence_min": 739,
+ "meetings": 5,
+ "first_work": "09:11",
+ "events": [
+  {
+   "time": "09:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:42",
+   "label": "野上浩太郎官房副長官 西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:01",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "11:09",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:10",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:12",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "党首討論",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:58",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "16:03",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:21",
+   "label": "長坂康正自民党衆院議員、愛知県議ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:41",
+   "label": "水谷亨、福山正喜共同通信社新旧社長。松浦基明同社政治部長ら同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:05",
+   "label": "男女共同参画社会づくり功労者らへの表彰",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:20",
+   "label": "功労者らとの懇談会に出席し、あいさつ",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:24",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:34",
+   "label": "河井克行自民党総裁外交特別補佐ら同党の衆参議員と会食",
+   "place": "東京・新橋 お好み焼き店「広島焼ＨＩＤＥ坊　新橋本店」",
+   "category": "会食"
+  },
+  {
+   "time": "20:30",
+   "label": "移動",
+   "place": "東京・新橋 お好み焼き店「広島焼ＨＩＤＥ坊　新橋本店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 551
+  },
+  {
+   "start": "09:11",
+   "end": "09:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:23",
+   "end": "09:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "09:42",
+   "end": "09:50",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官 西村康稔官房副長官",
+   "minutes": 8
+  },
+  {
+   "start": "09:50",
+   "end": "10:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "10:57",
+   "end": "10:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "10:58",
+   "end": "11:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:01",
+   "end": "11:08",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 7
+  },
+  {
+   "start": "11:08",
+   "end": "11:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:09",
+   "end": "12:08",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 59
+  },
+  {
+   "start": "12:08",
+   "end": "12:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:10",
+   "end": "12:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 159
+  },
+  {
+   "start": "14:51",
+   "end": "14:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:53",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "15:00",
+   "end": "15:55",
+   "category": "国会",
+   "label": "党首討論",
+   "minutes": 55
+  },
+  {
+   "start": "15:55",
+   "end": "15:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:58",
+   "end": "15:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:59",
+   "end": "16:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:03",
+   "end": "16:13",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 10
+  },
+  {
+   "start": "16:13",
+   "end": "16:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "16:21",
+   "end": "16:31",
+   "category": "面会・会談",
+   "label": "長坂康正自民党衆院議員、愛知県議ら",
+   "minutes": 10
+  },
+  {
+   "start": "16:31",
+   "end": "16:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "16:41",
+   "end": "17:01",
+   "category": "面会・会談",
+   "label": "水谷亨、福山正喜共同通信社新旧社長。松浦基明同社政治部長ら同席",
+   "minutes": 20
+  },
+  {
+   "start": "17:01",
+   "end": "17:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:05",
+   "end": "17:17",
+   "category": "式典・行事",
+   "label": "男女共同参画社会づくり功労者らへの表彰",
+   "minutes": 12
+  },
+  {
+   "start": "17:17",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:20",
+   "end": "17:37",
+   "category": "面会・会談",
+   "label": "功労者らとの懇談会に出席し、あいさつ",
+   "minutes": 17
+  },
+  {
+   "start": "17:37",
+   "end": "18:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "18:24",
+   "end": "18:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:34",
+   "end": "20:30",
+   "category": "会食",
+   "label": "河井克行自民党総裁外交特別補佐ら同党の衆参議員と会食",
+   "minutes": 116
+  },
+  {
+   "start": "20:30",
+   "end": "20:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "20:52",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 188
+  }
+ ],
+ "alloc_min": {
+  "居所": 739,
+  "移動": 50,
+  "公務（内容未詳）": 178,
+  "面会・会談": 65,
+  "国会": 121,
+  "官邸執務": 159,
+  "式典・行事": 12,
+  "会食": 116
+ }
+}

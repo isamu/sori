@@ -1,0 +1,421 @@
+{
+ "date": "2018-02-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 810,
+ "residence_min": 630,
+ "meetings": 3,
+ "first_work": "07:05",
+ "events": [
+  {
+   "time": "07:05",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:25",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:09",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "14:56",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "15:26",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:31",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:12",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "16:17",
+   "label": "参院の伊達忠一、郡司彰正副議長、山本順三議院運営委員長、自民党、公明党、日本維新の会にあいさつ回り。麻生副総理兼財務相、菅義偉官房長官ら同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "16:31",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:15",
+   "label": "未来投資会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:56",
+   "label": "アラブ首長国連邦（ＵＡＥ）のジャベル国務相の表敬。世耕弘成経済産業相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:21",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:33",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:34",
+   "label": "自民党の衆院当選１回議員と会食。菅、西村康稔正副官房長官同席",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 425
+  },
+  {
+   "start": "07:05",
+   "end": "07:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "07:19",
+   "end": "07:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:25",
+   "end": "08:27",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 62
+  },
+  {
+   "start": "08:27",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "08:53",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:55",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:58",
+   "end": "08:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "08:59",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:00",
+   "end": "12:04",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 184
+  },
+  {
+   "start": "12:04",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:07",
+   "end": "12:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 45
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "14:52",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 112
+  },
+  {
+   "start": "14:52",
+   "end": "14:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 28
+  },
+  {
+   "start": "15:24",
+   "end": "15:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "15:27",
+   "end": "15:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:31",
+   "end": "16:11",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 40
+  },
+  {
+   "start": "16:11",
+   "end": "16:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "16:16",
+   "end": "16:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:17",
+   "end": "16:29",
+   "category": "国会",
+   "label": "参院の伊達忠一、郡司彰正副議長、山本順三議院運営委員長、自民党、公明党、日本維新の会にあいさつ回り。麻生副総理兼財務相、菅義偉官房長官ら同行",
+   "minutes": 12
+  },
+  {
+   "start": "16:29",
+   "end": "16:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:31",
+   "end": "16:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:33",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "17:15",
+   "end": "17:55",
+   "category": "官邸執務",
+   "label": "未来投資会議",
+   "minutes": 40
+  },
+  {
+   "start": "17:55",
+   "end": "17:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:56",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "アラブ首長国連邦（ＵＡＥ）のジャベル国務相の表敬。世耕弘成経済産業相同席",
+   "minutes": 24
+  },
+  {
+   "start": "18:20",
+   "end": "18:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:21",
+   "end": "18:32",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 11
+  },
+  {
+   "start": "18:32",
+   "end": "18:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:33",
+   "end": "18:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:34",
+   "end": "20:35",
+   "category": "会食",
+   "label": "自民党の衆院当選１回議員と会食。菅、西村康稔正副官房長官同席",
+   "minutes": 121
+  },
+  {
+   "start": "20:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 205
+  }
+ ],
+ "alloc_min": {
+  "居所": 630,
+  "移動": 23,
+  "公務（内容未詳）": 101,
+  "面会・会談": 97,
+  "国会": 383,
+  "官邸執務": 85,
+  "会食": 121
+ }
+}

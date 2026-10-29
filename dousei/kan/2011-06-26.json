@@ -1,0 +1,56 @@
+{
+ "date": "2011-06-26",
+ "pm": "菅直人",
+ "source": "朝日新聞社 2011.06.26",
+ "work_min": 22,
+ "residence_min": 1418,
+ "meetings": 2,
+ "first_work": "17:40",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:40",
+   "label": "枝野官房長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "枝野氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "17:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1060
+  },
+  {
+   "start": "17:40",
+   "end": "18:02",
+   "category": "面会・会談",
+   "label": "枝野官房長官",
+   "minutes": 22
+  },
+  {
+   "start": "18:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 358
+  }
+ ],
+ "alloc_min": {
+  "居所": 1418,
+  "面会・会談": 22
+ }
+}

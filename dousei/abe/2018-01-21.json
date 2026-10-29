@@ -1,0 +1,29 @@
+{
+ "date": "2018-01-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 0,
+ "residence_min": 1440,
+ "meetings": 0,
+ "first_work": "—",
+ "events": [
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "私邸に滞在",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "居所": 1440
+ }
+}

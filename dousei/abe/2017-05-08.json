@@ -1,0 +1,481 @@
+{
+ "date": "2017-05-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 859,
+ "residence_min": 581,
+ "meetings": 5,
+ "first_work": "07:21",
+ "events": [
+  {
+   "time": "07:21",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:42",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:56",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "15:03",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "15:34",
+   "label": "ベトナムのファム・ビン・ミン副首相兼外相の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:57",
+   "label": "嶋崎郁駐チェコ大使らによる就任あいさつ",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:18",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:22",
+   "label": "東京都議選立候補予定者と写真撮影",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:04",
+   "label": "党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:25",
+   "label": "高村正彦副総裁、二階俊博幹事長、古屋圭司選対委員長、細田博之総務会長、茂木敏充政調会長ら",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:33",
+   "label": "二階俊博幹事長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:35",
+   "label": "西村康稔総裁特別補佐",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:36",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "17:50",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:23",
+   "label": "杉山晋輔事務次官 金杉憲治アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:45",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:54",
+   "label": "山本幸三地方創生担当相、林芳正元農林水産相らと会食",
+   "place": "東京・銀座 日本料理店「銀座ろくさん亭」",
+   "category": "会食"
+  },
+  {
+   "time": "21:17",
+   "label": "移動",
+   "place": "東京・銀座 日本料理店「銀座ろくさん亭」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 441
+  },
+  {
+   "start": "07:21",
+   "end": "07:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "07:31",
+   "end": "07:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "07:42",
+   "end": "08:38",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 56
+  },
+  {
+   "start": "08:38",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:56",
+   "end": "08:57",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "08:57",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:58",
+   "end": "12:04",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 186
+  },
+  {
+   "start": "12:04",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:07",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 46
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "15:00",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 120
+  },
+  {
+   "start": "15:00",
+   "end": "15:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:03",
+   "end": "15:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:04",
+   "end": "15:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "15:34",
+   "end": "15:56",
+   "category": "面会・会談",
+   "label": "ベトナムのファム・ビン・ミン副首相兼外相の表敬",
+   "minutes": 22
+  },
+  {
+   "start": "15:56",
+   "end": "15:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:57",
+   "end": "16:12",
+   "category": "面会・会談",
+   "label": "嶋崎郁駐チェコ大使らによる就任あいさつ",
+   "minutes": 15
+  },
+  {
+   "start": "16:12",
+   "end": "16:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "16:18",
+   "end": "16:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:21",
+   "end": "16:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:22",
+   "end": "16:40",
+   "category": "党務",
+   "label": "東京都議選立候補予定者と写真撮影",
+   "minutes": 18
+  },
+  {
+   "start": "16:40",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "17:04",
+   "end": "17:24",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 20
+  },
+  {
+   "start": "17:24",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:25",
+   "end": "17:32",
+   "category": "党務",
+   "label": "高村正彦副総裁、二階俊博幹事長、古屋圭司選対委員長、細田博之総務会長、茂木敏充政調会長ら",
+   "minutes": 7
+  },
+  {
+   "start": "17:32",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:33",
+   "end": "17:34",
+   "category": "党務",
+   "label": "二階俊博幹事長",
+   "minutes": 1
+  },
+  {
+   "start": "17:34",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:35",
+   "end": "17:36",
+   "category": "党務",
+   "label": "西村康稔総裁特別補佐",
+   "minutes": 1
+  },
+  {
+   "start": "17:36",
+   "end": "17:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:38",
+   "end": "17:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "17:50",
+   "end": "18:22",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 32
+  },
+  {
+   "start": "18:22",
+   "end": "18:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:23",
+   "end": "18:38",
+   "category": "面会・会談",
+   "label": "杉山晋輔事務次官 金杉憲治アジア大洋州局長",
+   "minutes": 15
+  },
+  {
+   "start": "18:38",
+   "end": "18:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "18:45",
+   "end": "18:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:54",
+   "end": "21:17",
+   "category": "会食",
+   "label": "山本幸三地方創生担当相、林芳正元農林水産相らと会食",
+   "minutes": 143
+  },
+  {
+   "start": "21:17",
+   "end": "21:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "21:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 140
+  }
+ ],
+ "alloc_min": {
+  "居所": 581,
+  "移動": 52,
+  "公務（内容未詳）": 124,
+  "面会・会談": 140,
+  "国会": 307,
+  "官邸執務": 46,
+  "党務": 47,
+  "会食": 143
+ }
+}

@@ -1,0 +1,302 @@
+{
+ "date": "2023-04-15",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 665,
+ "residence_min": 684,
+ "meetings": 1,
+ "first_work": "08:02",
+ "events": [
+  {
+   "time": "08:02",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:25",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:03",
+   "label": "関西空港",
+   "place": "関西空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:20",
+   "label": "移動",
+   "place": "関西空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:17",
+   "label": "地元漁業関係者と意見交換。爆発物が投げ込まれ、街頭演説を中止",
+   "place": "和歌山市 雑賀崎漁港",
+   "category": "党務"
+  },
+  {
+   "time": "11:35",
+   "label": "移動",
+   "place": "和歌山市 雑賀崎漁港",
+   "category": "移動"
+  },
+  {
+   "time": "11:48",
+   "label": "和歌山県警本部",
+   "place": "和歌山県警本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:31",
+   "label": "移動",
+   "place": "和歌山県警本部",
+   "category": "移動"
+  },
+  {
+   "time": "12:42",
+   "label": "街頭演説",
+   "place": "ＪＲ和歌山駅前",
+   "category": "党務"
+  },
+  {
+   "time": "13:04",
+   "label": "移動",
+   "place": "ＪＲ和歌山駅前",
+   "category": "移動"
+  },
+  {
+   "time": "13:42",
+   "label": "関西空港",
+   "place": "関西空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:13",
+   "label": "原和也警察庁警備局長",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:06",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:40",
+   "label": "街頭演説",
+   "place": "ＪＲ新浦安駅前広場",
+   "category": "党務"
+  },
+  {
+   "time": "17:15",
+   "label": "移動",
+   "place": "ＪＲ新浦安駅前広場",
+   "category": "移動"
+  },
+  {
+   "time": "17:46",
+   "label": "街頭演説",
+   "place": "ＪＲ本八幡駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "18:19",
+   "label": "移動",
+   "place": "ＪＲ本八幡駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "18:54",
+   "label": "散髪",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "個人"
+  },
+  {
+   "time": "20:25",
+   "label": "移動",
+   "place": "東京・鍛冶町 「ヘア　モード　キクチ神田日銀通り店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 482
+  },
+  {
+   "start": "08:02",
+   "end": "08:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "08:25",
+   "end": "09:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "09:06",
+   "end": "10:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "10:03",
+   "end": "10:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "10:20",
+   "end": "11:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 57
+  },
+  {
+   "start": "11:17",
+   "end": "11:35",
+   "category": "党務",
+   "label": "地元漁業関係者と意見交換。爆発物が投げ込まれ、街頭演説を中止",
+   "minutes": 18
+  },
+  {
+   "start": "11:35",
+   "end": "11:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "面会・会談",
+   "label": null,
+   "minutes": 43
+  },
+  {
+   "start": "12:31",
+   "end": "12:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "12:42",
+   "end": "13:04",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "13:04",
+   "end": "13:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 38
+  },
+  {
+   "start": "13:42",
+   "end": "14:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 43
+  },
+  {
+   "start": "14:25",
+   "end": "15:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "15:13",
+   "end": "16:06",
+   "category": "移動",
+   "label": "原和也警察庁警備局長",
+   "minutes": 53
+  },
+  {
+   "start": "16:06",
+   "end": "16:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "16:40",
+   "end": "17:15",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "17:15",
+   "end": "17:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "17:46",
+   "end": "18:19",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "18:19",
+   "end": "18:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "18:54",
+   "end": "20:25",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 91
+  },
+  {
+   "start": "20:25",
+   "end": "20:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:38",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 202
+  }
+ ],
+ "alloc_min": {
+  "居所": 684,
+  "移動": 409,
+  "公務（内容未詳）": 105,
+  "党務": 108,
+  "面会・会談": 43,
+  "個人": 91
+ }
+}

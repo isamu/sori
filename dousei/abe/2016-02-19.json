@@ -1,0 +1,408 @@
+{
+ "date": "2016-02-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 865,
+ "residence_min": 575,
+ "meetings": 4,
+ "first_work": "07:12",
+ "events": [
+  {
+   "time": "07:12",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:23",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:03",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:07",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:11",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:33",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:43",
+   "label": "斎木昭隆事務次官 秋葉剛男総合外交政策局長 梨田和也南部アジア部長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "スウェーデンのカール16世グスタフ国王を出迎え。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:04",
+   "label": "カール16世グスタフ国王と懇談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:39",
+   "label": "国王を見送り",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "同ビル内の「紀尾井倶楽部」で今井敬経団連名誉会長、秘書官らと会食",
+   "place": "東京・紀尾井町 新日鉄住金紀尾井ビル",
+   "category": "会食"
+  },
+  {
+   "time": "21:20",
+   "label": "移動",
+   "place": "東京・紀尾井町 新日鉄住金紀尾井ビル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 432
+  },
+  {
+   "start": "07:12",
+   "end": "07:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "07:23",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:30",
+   "end": "08:21",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 51
+  },
+  {
+   "start": "08:21",
+   "end": "08:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:23",
+   "end": "08:34",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "08:34",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:54",
+   "end": "08:58",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 4
+  },
+  {
+   "start": "08:58",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:59",
+   "end": "12:01",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 182
+  },
+  {
+   "start": "12:01",
+   "end": "12:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:03",
+   "end": "12:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 49
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:04",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 244
+  },
+  {
+   "start": "17:04",
+   "end": "17:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:07",
+   "end": "17:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:08",
+   "end": "17:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:11",
+   "end": "17:27",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 16
+  },
+  {
+   "start": "17:27",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:33",
+   "end": "17:40",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 7
+  },
+  {
+   "start": "17:40",
+   "end": "17:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:43",
+   "end": "17:54",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官 秋葉剛男総合外交政策局長 梨田和也南部アジア部長",
+   "minutes": 11
+  },
+  {
+   "start": "17:54",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "18:02",
+   "end": "18:03",
+   "category": "式典・行事",
+   "label": "スウェーデンのカール16世グスタフ国王を出迎え。記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "18:03",
+   "end": "18:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:04",
+   "end": "18:38",
+   "category": "面会・会談",
+   "label": "カール16世グスタフ国王と懇談",
+   "minutes": 34
+  },
+  {
+   "start": "18:38",
+   "end": "18:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:39",
+   "end": "18:40",
+   "category": "式典・行事",
+   "label": "国王を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "18:40",
+   "end": "18:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "18:56",
+   "end": "19:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:05",
+   "end": "21:20",
+   "category": "会食",
+   "label": "同ビル内の「紀尾井倶楽部」で今井敬経団連名誉会長、秘書官らと会食",
+   "minutes": 135
+  },
+  {
+   "start": "21:20",
+   "end": "21:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "21:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 143
+  }
+ ],
+ "alloc_min": {
+  "居所": 575,
+  "移動": 43,
+  "公務（内容未詳）": 76,
+  "面会・会談": 112,
+  "官邸執務": 67,
+  "国会": 430,
+  "式典・行事": 2,
+  "会食": 135
+ }
+}

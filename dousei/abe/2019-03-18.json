@@ -1,0 +1,321 @@
+{
+ "date": "2019-03-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 687,
+ "residence_min": 753,
+ "meetings": 3,
+ "first_work": "07:10",
+ "events": [
+  {
+   "time": "07:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:27",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:53",
+   "label": "麻生太郎副総理兼財務相 河野太郎外相 岩屋毅防衛相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "08:55",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:17",
+   "label": "神奈川県知事選立候補予定者に推薦証渡し",
+   "place": "国会 自民党幹事長会議室",
+   "category": "党務"
+  },
+  {
+   "time": "17:21",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:36",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:39",
+   "label": "兼原信克官房副長官補 和泉洋人首相補佐官 鈴木哲総合外交政策局長 武内良樹国際局長 石川正樹貿易経済協力局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:06",
+   "label": "神津里季生連合会長ら「Ｌ２０」から要請書受け取り",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 430
+  },
+  {
+   "start": "07:10",
+   "end": "07:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:22",
+   "end": "07:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "07:27",
+   "end": "08:47",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 80
+  },
+  {
+   "start": "08:47",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:49",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:51",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 河野太郎外相 岩屋毅防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "11:54",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 179
+  },
+  {
+   "start": "11:54",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:57",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 56
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:13",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 253
+  },
+  {
+   "start": "17:13",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:17",
+   "end": "17:18",
+   "category": "党務",
+   "label": "神奈川県知事選立候補予定者に推薦証渡し",
+   "minutes": 1
+  },
+  {
+   "start": "17:18",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:21",
+   "end": "17:34",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 13
+  },
+  {
+   "start": "17:34",
+   "end": "17:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:36",
+   "end": "17:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:37",
+   "end": "17:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:39",
+   "end": "17:59",
+   "category": "面会・会談",
+   "label": "兼原信克官房副長官補 和泉洋人首相補佐官 鈴木哲総合外交政策局長 武内良樹国際局長 石川正樹貿易経済協力局長",
+   "minutes": 20
+  },
+  {
+   "start": "17:59",
+   "end": "18:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "18:06",
+   "end": "18:32",
+   "category": "面会・会談",
+   "label": "神津里季生連合会長ら「Ｌ２０」から要請書受け取り",
+   "minutes": 26
+  },
+  {
+   "start": "18:32",
+   "end": "18:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:36",
+   "end": "18:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 323
+  }
+ ],
+ "alloc_min": {
+  "居所": 753,
+  "移動": 19,
+  "公務（内容未詳）": 39,
+  "面会・会談": 126,
+  "国会": 433,
+  "官邸執務": 56,
+  "党務": 14
+ }
+}
