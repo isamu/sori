@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>総理の毎年</title>
+<meta name="description" content="2011年3月11日以降の首相動静を、公務1時間＝1コミットとして暦年ごとにGitHubの草の形で可視化。年の途中で替わる総理を在任バーで示し、年ごとの稼働日や面会件数を見比べられます。">
+<link rel="canonical" href="https://isamu.github.io/sori/all.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="総理の１年">
+<meta property="og:title" content="総理の毎年">
+<meta property="og:description" content="2011年3月11日以降の首相動静を、公務1時間＝1コミットとして暦年ごとにGitHubの草の形で可視化。">
+<meta property="og:url" content="https://isamu.github.io/sori/all.html">
+<meta property="og:image" content="https://isamu.github.io/sori/og.png">
+<meta property="og:image:width" content="2000">
+<meta property="og:image:height" content="1414">
+<meta property="og:image:alt" content="歴代総理の公務時間を GitHub の草の形に並べた図">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="総理の毎年">
+<meta name="twitter:description" content="2011年3月11日以降の首相動静を、公務1時間＝1コミットとして暦年ごとにGitHubの草の形で可視化。">
+<meta name="twitter:image" content="https://isamu.github.io/sori/og.png">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"総理の毎年","url":"https://isamu.github.io/sori/all.html","inLanguage":"ja","description":"2011年3月11日以降の首相動静を、公務1時間＝1コミットとして暦年ごとにGitHubの草の形で可視化。","isBasedOn":"https://www.kanteilog.com/pm","image":"https://isamu.github.io/sori/og.png"}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap">
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<style type="text/tailwindcss">
+/* Tailwind theme only: GitHub's contribution greens (light / dark), paper and ink tokens, and the two typefaces. */
+@theme {
+  --color-grass-0: #ebedf0; --color-grass-1: #9be9a8; --color-grass-2: #40c463; --color-grass-3: #30a14e; --color-grass-4: #216e39;
+  --color-grassd-0: #161b22; --color-grassd-1: #0e4429; --color-grassd-2: #006d32; --color-grassd-3: #26a641; --color-grassd-4: #39d353;
+  --color-paper: #ffffff; --color-paperd: #0d1117; --color-panel: #f6f8fa; --color-paneld: #161b22;
+  --color-ink: #1f2328; --color-inkd: #e6edf3; --color-muted: #59636e; --color-mutedd: #8b949e; --color-rule: #d1d9e0; --color-ruled: #30363d;
+  --color-accent: #1a7f37; --color-accentd: #3fb950; --color-link: #0969da; --color-linkd: #4493f8;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+/* v-cloak cannot be a utility: it must hide the raw template until Vue mounts. */
+@layer base { [v-cloak] { display: none; } }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/vue@3.5.13/dist/vue.global.prod.js"></script>
+</head>
+<body class="m-0 bg-paper font-sans text-sm leading-relaxed text-ink dark:bg-paperd dark:text-inkd">
+<div id="app" v-cloak class="mx-auto max-w-[1000px] px-4 pt-6 pb-12">
+
+  <header class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-2 border-b border-rule pb-4 dark:border-ruled">
+    <div class="min-w-0">
+      <h1 class="text-2xl font-semibold leading-tight text-balance">総理の毎年</h1>
+      <p class="mt-1 text-[13px] text-muted dark:text-mutedd">データが確認できた 2011/3/11 から {{ fmtDateShort(until) }} までの首相動静を、暦年ごとにまとめています。公務 1 時間 = 1 commit。総理ごとの就任 1 年目は <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="./">総理の１年</a> へ。</p>
+    </div>
+    <span class="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-muted dark:text-mutedd">
+      <span class="inline-flex items-center gap-[3px]">0h
+        <i v-for="lv in [0,1,2,3,4]" :key="'legend-' + lv" class="inline-block size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-black/5 dark:outline-white/5" :class="levelClass[lv]"></i>
+      16h+</span>
+      <span class="inline-flex items-center gap-1.5"><i class="inline-block size-[11px] rounded-[2px] border" :class="rankClass[1]"></i>1 位 <i class="ml-1 inline-block size-[11px] rounded-[2px] border" :class="rankClass[2]"></i>2 位 <span class="ml-1">（1 月から 12 月までそろっている年の中で、値の大きい順）</span></span>
+    </span>
+  </header>
+
+  <section v-for="y in years" :key="y.year" :id="'y' + y.year" class="mt-6 scroll-mt-4 rounded-md border border-rule p-4 dark:border-ruled">
+    <div class="mb-3 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1">
+      <h2 class="text-base font-semibold">{{ y.year }} 年 <span class="font-normal text-muted dark:text-mutedd">{{ y.segments.map(s => s.name).join(' → ') }}</span></h2>
+      <span v-if="y.days.length" class="text-xs text-muted dark:text-mutedd"><span class="tabular-nums font-semibold text-ink dark:text-inkd">{{ fmtInt(y.commits) }}</span> commits in {{ y.year }}<span v-if="y.projectedCommits != null">（年換算 <span class="tabular-nums font-semibold text-ink dark:text-inkd">{{ fmtInt(y.projectedCommits) }}</span>）</span></span>
+    </div>
+    <p v-if="y.note" class="mb-3 text-xs text-muted dark:text-mutedd">{{ y.note }}</p>
+    <div v-if="y.days.length" class="overflow-x-auto pb-1">
+      <div class="grid w-max grid-cols-[28px_1fr] grid-rows-[16px_1fr_24px] gap-x-1">
+        <div class="relative col-start-2 row-start-1 h-4 text-[11px] text-muted dark:text-mutedd">
+          <span v-for="m in y.grid.labels" :key="m.id" class="absolute top-0 whitespace-nowrap" :style="{ left: m.left + 'px' }">{{ m.text }}</span>
+        </div>
+        <div class="col-start-1 row-start-2 grid grid-rows-7 gap-y-[3px] text-[10px] leading-[11px] text-muted dark:text-mutedd" aria-hidden="true">
+          <span v-for="d in dowLabels" :key="d.id">{{ d.text }}</span>
+        </div>
+        <div class="col-start-2 row-start-2 grid grid-flow-col grid-rows-7 gap-[3px]" role="grid" :aria-label="y.year + ' 年の日別公務時間'">
+          <template v-for="week in y.grid.weeks" :key="week.id">
+            <template v-for="cell in week.cells" :key="cell.id">
+              <div v-if="cell.kind === 'blank'" class="size-[11px]"></div>
+              <div v-else-if="cell.kind === 'missing'" class="size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-dashed outline-rule dark:outline-ruled" :title="cell.date + ' 収録なし'"></div>
+              <div v-else role="gridcell" tabindex="0"
+                class="size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-black/5 focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-link dark:outline-white/5"
+                :class="levelClass[cell.level]" :aria-label="cell.aria"
+                @pointerenter="showTip($event, y, cell)" @pointerleave="hideTip" @focus="showTip($event, y, cell)" @blur="hideTip"></div>
+            </template>
+          </template>
+        </div>
+        <div class="relative col-start-2 row-start-3 h-6" aria-label="在任">
+          <template v-for="seg in y.bars" :key="seg.id">
+            <span class="absolute top-[7px] h-[4px] rounded-full" :class="pmColor[seg.id]" :style="{ left: seg.left + 'px', width: seg.width + 'px' }" :title="seg.name + ' ' + fmtDateShort(seg.start) + ' 〜 ' + fmtDateShort(seg.end)"></span>
+            <span class="absolute top-[12px] whitespace-nowrap text-[10px] leading-[12px] text-muted dark:text-mutedd" :style="seg.labelStyle">{{ seg.name }}</span>
+          </template>
+        </div>
+      </div>
+    </div>
+    <div v-else class="rounded-md border border-dashed border-rule px-4 py-6 text-center text-xs text-muted dark:border-ruled dark:text-mutedd">収録なし</div>
+    <div v-if="y.stats" class="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-5">
+      <div v-for="tile in y.tiles" :key="y.year + '-' + tile.id" class="relative min-w-0 rounded-md border px-3 py-2.5" :class="rankClass[tile.rank] || 'border-rule bg-panel dark:border-ruled dark:bg-paneld'">
+        <span v-if="tile.rank" class="absolute top-2 right-2 rounded-full px-1.5 text-[10px] font-semibold" :class="rankBadgeClass[tile.rank]">{{ tile.rank }} 位</span>
+        <div class="mb-1 text-[11px] tracking-wider text-muted dark:text-mutedd">{{ tile.label }}</div>
+        <div class="text-xl leading-tight font-semibold tabular-nums">{{ tile.value }}<small class="ml-0.5 text-xs font-normal text-muted dark:text-mutedd">{{ tile.unit }}</small></div>
+        <div v-if="tile.projected" class="text-[11px] tabular-nums text-muted dark:text-mutedd">年換算 <span class="font-semibold text-ink dark:text-inkd">{{ tile.projected }}</span>{{ tile.unit }}</div>
+        <div class="mt-0.5 text-[11px] text-muted dark:text-mutedd">{{ tile.note }}</div>
+      </div>
+    </div>
+    <p v-if="y.stats" class="mt-2.5 text-xs text-muted dark:text-mutedd">平日平均 {{ y.stats.weekdayAvgH }} h / 土日平均 {{ y.stats.weekendAvgH }} h · 最も長い国内の一日 {{ y.stats.busiestH }} h（{{ fmtDateShort(y.stats.busiestDate) }}）</p>
+  </section>
+
+  <div v-if="tip" class="pointer-events-none fixed z-10 max-w-[280px] -translate-x-1/2 -translate-y-full rounded-md bg-[#25292e] px-2.5 py-1.5 text-xs leading-normal text-white shadow-lg dark:bg-[#3d444d]" :style="{ left: tip.x + 'px', top: tip.y + 'px' }" role="tooltip">
+    <b class="font-semibold">{{ tip.head }}</b> {{ tip.date }} · {{ tip.pm }}<br>{{ tip.detail }}
+  </div>
+
+  <section class="mt-7 text-[13px] text-muted dark:text-mutedd">
+    <h2 class="text-base font-semibold text-ink dark:text-inkd">集計の決め方</h2>
+    <ul class="my-1.5 list-disc pl-5">
+      <li class="my-1"><strong>1 commit = 公務 1 時間</strong>（分を 60 で割って四捨五入）。マスの濃さは 4 時間ごとに一段濃くなり、<strong>16 時間以上は同じ最濃色</strong>です。一日の仕事の上限を 16 時間程度とみなし、外遊で終日 24 時間扱いになる日が色を独占しないようにしています。点線のマスは官邸ログに収録のない日です。</li>
+      <li class="my-1"><strong>公務時間</strong>は官邸ログの「公務の合計時間」。24 時間から居所（公邸・私邸・議員宿舎）滞在を引いた値で、移動時間を含み、外遊中は出国から帰国まで終日 24 時間として数えます。会議や面会の中身は問いません。</li>
+      <li class="my-1">「終日、公邸で過ごす」と報じられた日は 0 commit。首相動静に載らない私的な活動や、公邸内での執務は数えられません。</li>
+      <li class="my-1">1 枚の草が暦年の 1 月から 12 月。官邸ログの収録は 2011-03-11 からなので 2011 年はそこから、今年は取得済みの最終日までで、範囲外は空白にしています。年の途中で総理が替わる箇所は草の下のバーで示し、マスの色は総理によらず公務時間だけで決まります。1 位 2 位の色分けは 1 月から 12 月までそろっている年の中だけで付けています。</li>
+      <li class="my-1">1 月から 12 月までそろっていない年には、取得済みの日数から 1 年分に引き伸ばした<strong>年換算</strong>の値を補足として添えています（commit 数・稼働日・休養日・外遊・面会。最長連続稼働は引き伸ばしません）。残りの日も同じ調子で続いたらという目安で、予測ではありません。</li>
+      <li class="my-1">出典: <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="https://www.kanteilog.com/pm" target="_blank" rel="noopener">官邸ログ 歴代首相の動静</a>（時事通信社・日本経済新聞社・朝日新聞社の首相動静を構造化）。</li>
+    </ul>
+  </section>
+
+  <footer class="mt-8 border-t border-rule pt-3 text-xs text-muted dark:border-ruled dark:text-mutedd">データ取得日 {{ generated }}。首相動静の著作権は各報道機関に、構造化データは官邸ログにあります。このページは個人の可視化です。</footer>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const { createApp, ref } = Vue;
+
+const MIN_PER_COMMIT = 60;
+const HOURS_PER_LEVEL = 4;
+const LEVEL_CAP_HOURS = 16;
+const CELL_PITCH_PX = 14;
+const CELL_GAP_PX = 3;
+const MS_PER_DAY = 86400000;
+const DAYS_PER_WEEK = 7;
+const MIN_LABEL_GAP_COLS = 3;
+const YEAR_LABEL_GAP_COLS = 5;
+const EARLY_ENOUGH_DAY = 10;
+const BAR_LABEL_PX_PER_CHAR = 10;
+const DOW = ['日', '月', '火', '水', '木', '金', '土'];
+
+const parseDate = s => { const [y, m, d] = s.split('-').map(Number); return new Date(y, m - 1, d); };
+const isoDate = dt => `${dt.getFullYear()}-${String(dt.getMonth() + 1).padStart(2, '0')}-${String(dt.getDate()).padStart(2, '0')}`;
+const fmtDate = s => { const dt = parseDate(s); return `${dt.getFullYear()}年${dt.getMonth() + 1}月${dt.getDate()}日（${DOW[dt.getDay()]}）`; };
+const fmtDateShort = s => fmtDate(s).replace(/（.*/, '');
+const fmtHM = min => `${Math.floor(min / 60)}時間${String(min % 60).padStart(2, '0')}分`;
+const fmtInt = n => n.toLocaleString('ja-JP');
+const commitsOf = d => Math.round(d.m / MIN_PER_COMMIT);
+const levelOf = c => c === 0 ? 0 : Math.min(4, Math.ceil(Math.min(c, LEVEL_CAP_HOURS) / HOURS_PER_LEVEL));
+const weekStart = s => { const dt = parseDate(s); dt.setDate(dt.getDate() - dt.getDay()); return dt; };
+const colOf = (s, first) => Math.floor(Math.round((parseDate(s) - first) / MS_PER_DAY) / DAYS_PER_WEEK);
+
+// The grid always spans the whole calendar year; days outside [validStart, validEnd] are blank, not "missing".
+const buildGrid = (days, gridStart, gridEnd, validStart, validEnd) => {
+  const byDate = new Map(days.map(d => [d.d, d]));
+  const first = weekStart(gridStart);
+  const last = parseDate(gridEnd); last.setDate(last.getDate() + (6 - last.getDay()));
+  const weeks = [], labels = [];
+  let col = 0, lastMonth = -1, lastLabelCol = -99, lastLabelHadYear = false, week = null;
+  for (let dt = new Date(first); dt <= last; dt.setDate(dt.getDate() + 1)) {
+    if (dt.getDay() === 0) { if (week) col++; week = { id: isoDate(dt), cells: [] }; weeks.push(week); }
+    const key = isoDate(dt), d = byDate.get(key);
+    if (key < validStart || key > validEnd) week.cells.push({ id: 'blank-' + key, kind: 'blank' });
+    else if (!d) week.cells.push({ id: 'missing-' + key, kind: 'missing', date: key });
+    else {
+      const c = commitsOf(d);
+      week.cells.push({ id: key, kind: 'day', date: key, level: levelOf(c), commits: c, aria: `${fmtDate(key)} ${c} commits、公務 ${fmtHM(d.m)}` });
+    }
+    if (dt.getMonth() !== lastMonth && dt.getDate() === 1 && key <= gridEnd) {
+      const neededGap = lastLabelHadYear ? YEAR_LABEL_GAP_COLS : MIN_LABEL_GAP_COLS;
+      if (col - lastLabelCol >= neededGap && dt.getDate() <= EARLY_ENOUGH_DAY) {
+        const withYear = dt.getMonth() === 0;
+        labels.push({ id: key, left: col * CELL_PITCH_PX, text: withYear ? `${dt.getFullYear()}年1月` : `${dt.getMonth() + 1}月` });
+        lastLabelCol = col; lastLabelHadYear = withYear;
+      }
+      lastMonth = dt.getMonth();
+    }
+  }
+  return { weeks, labels, first };
+};
+
+// Each term becomes a bar under the grid, from the column of its first day to the column of its last day.
+// A bar too narrow for its name gets the name right-aligned so it does not spill past the bar on the left.
+const barsOf = (segments, first) => segments.map(seg => {
+  const left = colOf(seg.start, first) * CELL_PITCH_PX;
+  const width = (colOf(seg.end, first) + 1) * CELL_PITCH_PX - CELL_GAP_PX;
+  const narrow = width < seg.name.length * BAR_LABEL_PX_PER_CHAR;
+  const labelStyle = narrow ? { left: (left + width) + 'px', transform: 'translateX(-100%)' } : { left: left + 'px' };
+  return { ...seg, left, width, labelStyle };
+});
+
+const fmtH = min => (min / 60).toFixed(1);
+const isWeekend = d => { const w = parseDate(d.d).getDay(); return w === 0 || w === 6; };
+const sumMin = list => list.reduce((a, d) => a + d.m, 0);
+const avgMin = list => list.length ? sumMin(list) / list.length : 0;
+
+const MIN_PER_DAY = 24 * 60;
+const RANKED_METRICS = ['worked', 'rest', 'longest', 'abroad', 'meetings'];
+// A streak is not a count, so it is the one tile that cannot be stretched to a full year.
+const PROJECTED_METRICS = ['worked', 'rest', 'abroad', 'meetings'];
+
+const annualized = (value, y) => y.full || !y.days.length ? null : Math.round(value * y.days_in_year / y.days.length);
+const projectionOf = (y, metric) => PROJECTED_METRICS.includes(metric) ? annualized(y.stats[metric], y) : null;
+
+const statsOf = days => {
+  if (!days.length) return null;
+  const worked = days.filter(d => commitsOf(d) > 0);
+  let longest = 0, run = 0, longestEnd = null;
+  days.forEach(d => { if (commitsOf(d) > 0) { run++; if (run > longest) { longest = run; longestEnd = d.d; } } else run = 0; });
+  const longestStart = longestEnd ? isoDate(new Date(parseDate(longestEnd).getTime() - (longest - 1) * MS_PER_DAY)) : null;
+  const domestic = days.filter(d => !d.a);
+  const busiest = (domestic.length ? domestic : days).reduce((a, d) => d.m > a.m ? d : a);
+  const weekdays = days.filter(d => !isWeekend(d)), weekends = days.filter(isWeekend);
+  const meetings = days.reduce((a, d) => a + d.k, 0);
+  return { worked: worked.length, rest: days.length - worked.length, longest, longestStart, longestEnd,
+    abroad: days.filter(d => d.a).length, full24: days.filter(d => d.m >= MIN_PER_DAY).length, meetings,
+    busiestH: fmtH(busiest.m), busiestDate: busiest.d, weekdayAvgH: fmtH(avgMin(weekdays)), weekendAvgH: fmtH(avgMin(weekends)) };
+};
+
+// Only years covering January through December compete for 1 位 / 2 位; a partial year would rank low for lack of days, not for lack of work.
+const rankTop2 = years => {
+  const ranked = years.filter(y => y.stats && y.full);
+  const ranks = new Map(years.map(y => [y.year, {}]));
+  RANKED_METRICS.forEach(metric => {
+    const values = [...new Set(ranked.map(y => y.stats[metric]))].sort((a, b) => b - a);
+    ranked.forEach(y => { const r = values.indexOf(y.stats[metric]) + 1; if (r <= 2) ranks.get(y.year)[metric] = r; });
+  });
+  return ranks;
+};
+
+const tilesOf = (y, ranks) => {
+  const s = y.stats, r = ranks.get(y.year) || {};
+  const tiles = [
+    { id: 'worked', label: '稼働日', value: String(s.worked), unit: '日', note: '公務 30 分以上の日（1 commit 以上）', rank: r.worked },
+    { id: 'rest', label: '休養日', value: String(s.rest), unit: '日', note: '公務 30 分未満の日。首相動静が「終日、公邸で過ごす」などで、公邸内の執務や私的な予定は数えない', rank: r.rest },
+    { id: 'longest', label: '最長連続稼働', value: String(s.longest), unit: '日', note: s.longestStart ? `${fmtDateShort(s.longestStart)} 〜 ${fmtDateShort(s.longestEnd)}` : '', rank: r.longest },
+    { id: 'abroad', label: '外遊・空港利用を含む日', value: String(s.abroad), unit: '日', note: `うち終日 24 時間扱い ${s.full24} 日`, rank: r.abroad },
+    { id: 'meetings', label: '面会・会談の合計', value: fmtInt(s.meetings), unit: '件', note: `1 日平均 ${(s.meetings / y.days.length).toFixed(1)} 件`, rank: r.meetings },
+  ];
+  return tiles.map(t => { const p = projectionOf(y, t.id); return { ...t, projected: p == null ? null : fmtInt(p) }; });
+};
+
+const noteOf = y => {
+  const span = `${fmtDateShort(y.start)} 〜 ${fmtDateShort(y.end)}`;
+  if (y.full) return y.days.length < y.grid.dayCount ? `${y.grid.dayCount - y.days.length} 日は収録なし（点線）` : '';
+  return `この年は ${span} の分だけ（${y.days.length} 日）。年換算は ${y.days_in_year} 日分に引き伸ばした目安`;
+};
+
+createApp({
+  setup() {
+    const data = JSON.parse(document.getElementById('data').textContent);
+    const pmName = new Map(data.pms.map(p => [p.id, p.name]));
+    const PM_COLORS = ['bg-sky-500', 'bg-amber-500', 'bg-violet-500', 'bg-rose-500', 'bg-teal-500', 'bg-orange-500', 'bg-indigo-500', 'bg-lime-600'];
+    const pmColor = Object.fromEntries(data.pms.map((p, i) => [p.id, PM_COLORS[i % PM_COLORS.length]]));
+    const years = data.years.map(y => {
+      const grid = buildGrid(y.days, `${y.year}-01-01`, `${y.year}-12-31`, y.start, y.end);
+      grid.dayCount = Math.round((parseDate(y.end) - parseDate(y.start)) / MS_PER_DAY) + 1;
+      return { ...y, byDate: new Map(y.days.map(d => [d.d, d])), grid, bars: barsOf(y.segments, grid.first),
+        commits: y.days.reduce((a, d) => a + commitsOf(d), 0), stats: statsOf(y.days) };
+    });
+    const ranks = rankTop2(years);
+    years.forEach(y => { y.tiles = y.stats ? tilesOf(y, ranks) : []; y.note = noteOf(y); y.projectedCommits = annualized(y.commits, y); });
+    const rankClass = { 1: 'border-amber-400 bg-amber-50 dark:border-amber-500 dark:bg-amber-950/40', 2: 'border-sky-400 bg-sky-50 dark:border-sky-500 dark:bg-sky-950/40' };
+    const rankBadgeClass = { 1: 'bg-amber-400 text-amber-950', 2: 'bg-sky-300 text-sky-950' };
+    const tip = ref(null);
+    const levelClass = ['bg-grass-0 dark:bg-grassd-0', 'bg-grass-1 dark:bg-grassd-1', 'bg-grass-2 dark:bg-grassd-2', 'bg-grass-3 dark:bg-grassd-3', 'bg-grass-4 dark:bg-grassd-4'];
+    const dowLabels = DOW.map((t, i) => ({ id: 'dow-' + t, text: i % 2 === 1 ? t : '' }));
+
+    const showTip = (event, y, cell) => {
+      const d = y.byDate.get(cell.date); if (!d) return;
+      const r = event.currentTarget.getBoundingClientRect();
+      const detail = [`公務 ${fmtHM(d.m)}`, d.f && d.f !== '—' ? `最初の公務 ${d.f}` : null, d.k ? `面会 ${d.k} 件` : null].filter(Boolean).join(' · ');
+      const TIP_HALF_WIDTH_PX = 140, TIP_GAP_PX = 8;
+      tip.value = { head: cell.commits === 0 ? 'No commits' : `${cell.commits} commit${cell.commits > 1 ? 's' : ''}`, date: fmtDate(d.d), pm: pmName.get(d.p) || d.p, detail,
+        x: Math.min(Math.max(r.left + r.width / 2, TIP_HALF_WIDTH_PX), window.innerWidth - TIP_HALF_WIDTH_PX), y: Math.max(r.top - TIP_GAP_PX, 48) };
+    };
+    const hideTip = () => { tip.value = null; };
+    window.addEventListener('scroll', hideTip, { passive: true });
+
+    return { years, until: data.until, generated: data.generated, dowLabels, levelClass, rankClass, rankBadgeClass, pmColor, tip, showTip, hideTip, fmtDateShort, fmtInt };
+  },
+}).mount('#app');
+</script>
+</body>
+</html>

@@ -15,7 +15,9 @@
 | `site/og.png` | OGP 画像（2000×1414）。ユーザーが用意した草とタイルのスクリーンショット。上書きしない |
 | `site/og-grass.png` | `build_og.py` が作る代替の OGP 画像（1200×630、7 人分の草を 2 列）。使うなら index の og:image を差し替える |
 | `site/pm-first-year-grass.html` | 歴代総理 1 年目の草を 1 枚に並べたもの |
-| `scripts/` | 取り込み → 解析 → 生成 |
+| `site/all.html` | 「総理の毎年」。2011-03-11 以降の全期間を暦年ごとに 1 枚の草で並べ、草の下に在任バー、年ごとに 5 タイル。`build_pages.py all` で生成。`parsed/` を経由せず `dousei/` を直接読む |
+| `scripts/` | 取り込み → 解析 → 生成。`by_year.py` は暦年への振り分けと在任区間の純粋関数 |
+| `test/` | `python3 -m unittest discover -s test -p 'test_*.py'` |
 
 `<pm>` は `config.py` の `PMS` の id: hatoyama / kan / noda / abe / suga / kishida / ishiba / takaichi。
 
@@ -24,11 +26,13 @@
 ```sh
 cd scripts
 python3 fetch_days.py <pm>            # 就任日から 365 日を raw/html/<pm>/ へ（取得済みは飛ばす）
-python3 fetch_days.py takaichi 2026-10-21 2026-12-31   # 範囲指定（現職の追加取り込み）
+python3 fetch_days.py takaichi 2026-10-21 2026-12-31   # 範囲指定（現職の追加取り込み、在任期間の残り）
 python3 extract_days.py <pm>          # raw/html/<pm>/ → dousei/<pm>/<date>.json（事実部分だけ）
 python3 parse_all.py                  # dousei/ → parsed/pms-first-year.json
 python3 build_pages.py index          # site/index.html（草だけ）
 python3 build_pages.py multi          # site/pm-first-year-grass.html（比較表と commit log つき）
+python3 build_pages.py all            # site/all.html（全期間を暦年ごとに）
+python3 -m unittest discover -s test -p 'test_*.py'   # by_year.py の検証
 python3 build_og.py                   # site/og-grass.png（代替 OGP 画像。og.png は手製なので触らない）
 python3 parse_days.py <raw/html/.../x.html.gz>   # 1 ページ分の解析結果を眺める（デバッグ用）
 ```
@@ -66,11 +70,14 @@ mulmoclaude の画面に出すときは `~/mulmoclaude/artifacts/html/2026/10/` 
 - 収録のない日は点線のマス。
 - 「最も長い一日」は外遊日と空港利用日（ラベルに 空港 / 政府専用機 / チャーター機）を除いた国内の日。
 - 1 年目 = 就任日から 365 日。安倍は第 2 次政権の 1 年目。
+- `all.html` は暦年ごと（1 月〜12 月）。2011 年は収録開始日から、今年は取得済みの最終日まで。範囲外は空白、範囲内で収録のない日は点線。在任は `config.py` の `start`/`end` から（退任日の前日まで）、ツールチップの総理名は各日の `pm` フィールドから。1 位 2 位は 1 月〜12 月そろった年の中だけ。そろっていない年には取得済み日数から 1 年分に引き伸ばした年換算を commit 数と数えるタイルに添える（最長連続稼働は除く）。
 - テンプレートは Composition API、`:key` は日付などの識別子、`<style>` は Tailwind の `@theme` と `v-cloak` だけ。文言は直書き（単一 HTML なので vue-i18n は使っていない）。
 
-## 状態（2026-10-28 時点）
+## 状態（2026-10-29 時点）
 
-- 取り込み・抽出済み: takaichi 2025-10-21〜2026-10-27（全日）、kan 89 日（収録分すべて）、noda / abe / suga / kishida / ishiba 各 1 年目 365 日。制限待ちも欠損もなし。
+- 取り込み・抽出済み: 2011-03-11〜2026-10-27 の全日（kan は収録開始から退任まで、noda / abe / suga / kishida / ishiba は在任の全期間、takaichi は就任から取得済みの最終日まで）。制限待ちも欠損もなし。取得日当日のページは数値が「—」のままなので取り込まない（`parse_days.is_unrecorded` が収録なし扱いにする）。
+- `site/all.html`（「総理の毎年」）に 2011〜2026 の暦年ごとの草を並べてある。index からのリンクは未設置。
+- 菅直人の 2011-08-31 と 09-01 は動静の行はあるのに時刻がなく、官邸ログの公務時間が 0（配分は終日「その他」）。そのまま 0 commit で出している。
 - `site/index.html`（草だけ）と `site/pm-first-year-grass.html`（詳細版）に 7 人分を並べてある。収録が 1 日もない鳩山はページに出さない（`build_pages.py` の `with_data`）。トップの一文は「データが確認できた 2011/3/11 以降、総理就任からの 1 年のみ」。
 - 1 年目の公務時間は 野田 3,717 / 安倍 4,385 / 菅義偉 3,532 / 岸田 3,891 / 石破 4,072 / 高市 2,961 時間（菅直人は 89 日で 1,088 時間）。高市だけ 0 commit の日が 69 日と多い（他は 4〜28 日）。公邸住まいで「終日、公邸」が週末に多いためか、媒体の書き方の違いかは未確認。比べるときはこの点に注意。
 - 次にやりたいこと（ユーザーの意向）: 分類別の集計。面会・国会・会食などを総理ごと・月ごとに比べる。材料は `alloc_min` と `intervals`。
