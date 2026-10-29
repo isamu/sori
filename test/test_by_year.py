@@ -79,11 +79,11 @@ class EventTest(unittest.TestCase):
     def test_no_event_outside(self):
         self.assertEqual(events_in([ELECTION, QUAKE], "2020-01-01", "2020-12-31"), [])
 
-    def test_event_list_is_newest_first_with_window_and_source(self):
-        rows = event_list([ELECTION, QUAKE, NEW_YEAR_QUAKE])
-        self.assertEqual([r["name"] for r in rows], ["年またぎ", QUAKE["name"], ELECTION["name"]])
+    def test_event_list_is_oldest_first_with_window_and_source(self):
+        rows = event_list([NEW_YEAR_QUAKE, QUAKE, ELECTION])
+        self.assertEqual([r["name"] for r in rows], [ELECTION["name"], QUAKE["name"], "年またぎ"])
         self.assertEqual(rows[1], {"kind": "quake", "name": QUAKE["name"], "start": "2016-04-14", "end": "2016-04-22", "source": QUAKE["source"]})
-        self.assertEqual(rows[2]["end"], "2012-12-16")
+        self.assertEqual(rows[0]["end"], "2012-12-16")
 
 
 class GroupTest(unittest.TestCase):

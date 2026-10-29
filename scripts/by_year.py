@@ -53,10 +53,10 @@ def events_in(events, start, end):
 
 
 def event_list(events):
-    """出来事ごとの窓と出典を新しい順に。ページ下部の一覧用。"""
+    """出来事ごとの窓と出典を古い順に。ページ下部の一覧用。"""
     rows = [{"kind": e["kind"], "name": e["name"], "start": s, "end": t, "source": e["source"]}
             for e in events for s, t in [event_window(e)]]
-    return sorted(rows, key=lambda r: r["start"], reverse=True)
+    return sorted(rows, key=lambda r: r["start"])
 
 
 def group_by_year(days):

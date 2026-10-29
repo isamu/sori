@@ -76,7 +76,7 @@ def build_all():
     by_year = group_by_year(all_days)
     render("vue_all_template.html", {
         "pms": [{"id": t["id"], "name": t["name"], "party": t["party"]} for t in terms],
-        "years": [year_payload(y, by_year, terms, until) for y in reversed(years_covered(until))],
+        "years": [year_payload(y, by_year, terms, until) for y in years_covered(until)],
         "kinds": KINDS, "events": event_list(EVENTS), "until": until, "generated": today,
     }, "all.html")
 
