@@ -15,6 +15,11 @@ ALLOC_NOTE = '※ 時間配分・居所滞在は記録に基づく推定値'
 SEG_RE = re.compile(r'(?:aria-label="(\d{1,2}:\d{2})[–-](\d{1,2}:\d{2}) ([^："]+)：([^"]*)"[^>]*)?style="width:([\d.]+)%;background:var\(--color-([a-z-]+)\)')
 LEGEND_RE = re.compile(r'background:var\(--color-([a-z-]+)\)"></span>([^<]+)</span>')
 
+def is_unrecorded(work_min, events):
+    """数値も時系列もないページ。官邸ログがまだ埋めていない日（当日など）は収録なしと同じ扱いにする。"""
+    return work_min is None and not events
+
+
 def parse_allocation(h):
     """The day's 24h bar: each segment is a (start, end, category, label) interval; width% of 24h gives minutes."""
     note = h.find(ALLOC_NOTE)
@@ -56,12 +61,15 @@ def parse(path):
                        "label": rest[0] if rest else '',
                        "place": rest[1] if len(rest) > 1 else '',
                        "category": rest[2] if len(rest) > 2 else ''})
+    work_min = hhmm_to_min(metrics.get('公務の合計時間'))
+    if is_unrecorded(work_min, events):
+        return {"date": date, "missing": True, "title": t.group(0), "pm": pm}
     intervals, alloc = parse_allocation(h)
     timed = [hhmm_to_min(e["time"]) for e in events if e["time"]]
     span = (max(timed) - min(timed)) if timed else 0
     return {
         "date": date, "pm": pm, "source": src.group(1).strip() if src else None,
-        "work_min": hhmm_to_min(metrics.get('公務の合計時間')),
+        "work_min": work_min,
         "residence_min": hhmm_to_min(metrics.get('居所での滞在時間')),
         "meetings": int(re.sub(r'\D', '', metrics.get('面会・会談件数', '0')) or 0),
         "first_work": metrics.get('最初の公務'),
