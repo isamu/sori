@@ -1,0 +1,266 @@
+{
+ "date": "2016-06-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 729,
+ "residence_min": 711,
+ "meetings": 0,
+ "first_work": "09:43",
+ "events": [
+  {
+   "time": "09:43",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:24",
+   "label": "竹下亘前復興相",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:39",
+   "label": "青森空港",
+   "place": "青森空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:10",
+   "label": "街頭演説",
+   "place": "青森市 青森駅前公園",
+   "category": "党務"
+  },
+  {
+   "time": "12:54",
+   "label": "昼食",
+   "place": "同市 そば店「小巾亭西バイパス店」",
+   "category": "会食"
+  },
+  {
+   "time": "13:36",
+   "label": "ＪＲ新青森駅",
+   "place": "ＪＲ新青森駅",
+   "category": "移動"
+  },
+  {
+   "time": "14:43",
+   "label": "ＪＲ盛岡駅",
+   "place": "ＪＲ盛岡駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:29",
+   "label": "街頭演説",
+   "place": "秋田県横手市 場外馬券売場「テレトラック横手」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:59",
+   "label": "街頭演説",
+   "place": "秋田市 秋田駅前アゴラ広場",
+   "category": "党務"
+  },
+  {
+   "time": "19:04",
+   "label": "同空港内のレストラン「そら」で食事",
+   "place": "秋田空港",
+   "category": "会食"
+  },
+  {
+   "time": "21:04",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:20",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 583
+  },
+  {
+   "start": "09:43",
+   "end": "10:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "10:18",
+   "end": "10:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "10:24",
+   "end": "10:29",
+   "category": "移動",
+   "label": "竹下亘前復興相",
+   "minutes": 5
+  },
+  {
+   "start": "10:29",
+   "end": "11:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 70
+  },
+  {
+   "start": "11:39",
+   "end": "11:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "11:49",
+   "end": "12:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "12:10",
+   "end": "12:46",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "12:46",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "12:54",
+   "end": "13:33",
+   "category": "会食",
+   "label": "昼食",
+   "minutes": 39
+  },
+  {
+   "start": "13:33",
+   "end": "13:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:36",
+   "end": "13:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "13:52",
+   "end": "14:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "14:43",
+   "end": "14:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:50",
+   "end": "16:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 99
+  },
+  {
+   "start": "16:29",
+   "end": "17:02",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "17:02",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "17:59",
+   "end": "18:33",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "18:33",
+   "end": "19:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "19:04",
+   "end": "20:12",
+   "category": "会食",
+   "label": "同空港内のレストラン「そら」で食事",
+   "minutes": 68
+  },
+  {
+   "start": "20:12",
+   "end": "21:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "21:04",
+   "end": "21:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "21:20",
+   "end": "21:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "21:52",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 128
+  }
+ ],
+ "alloc_min": {
+  "居所": 711,
+  "移動": 121,
+  "公務（内容未詳）": 398,
+  "党務": 103,
+  "会食": 107
+ }
+}

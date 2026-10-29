@@ -1,0 +1,83 @@
+{
+ "date": "2016-09-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 6,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "トムソン国連総会議長と会談",
+   "place": "米ニューヨークの国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同国のタミム首長と会談",
+   "place": "カタール国連代表部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日本政府観光局主催の訪日観光セミナーに出席",
+   "place": "ＪＷ・マリオットホテル・エセックス・ハウス・ニューヨーク",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "対日投資セミナーに出席",
+   "place": "ホテル「ザ・ピエール・ニューヨーク」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "米シンクタンク「大西洋評議会」主催の「地球市民賞」授賞式に出席",
+   "place": "アメリカ自然史博物館",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "米大統領選民主党候補のヒラリー・クリントン前国務長官と会談",
+   "place": "ホテル「ザ・キタノ・ニューヨーク」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "「難民と移民に関する国連サミット」に出席",
+   "place": "米ニューヨークの国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "コロンビアのサントス大統領と会談",
+   "place": "米ニューヨークの国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "アフガニスタンのガニ大統領と電話会談",
+   "place": "米ニューヨークの国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ザ・キタノ・ニューヨーク」",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

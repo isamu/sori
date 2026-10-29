@@ -1,0 +1,65 @@
+{
+ "date": "2016-05-06",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "発",
+   "place": "ロンドン郊外のスタンステッド空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同行記者団のインタビュー",
+   "place": "ハイアット・リージェンシー・ソチ",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "夕食会",
+   "place": "ソチの大統領公邸",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "日ロ首脳会談",
+   "place": "ソチの大統領公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "午後 ハイアット・リージェンシー・ソチ",
+   "place": "ハイアット・リージェンシー・ソチ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ロシア・ソチ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ハイアット・リージェンシー・ソチ",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

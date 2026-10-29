@@ -1,0 +1,228 @@
+{
+ "date": "2011-08-08",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.08.08",
+ "work_min": 748,
+ "residence_min": 692,
+ "meetings": 7,
+ "first_work": "07:32",
+ "events": [
+  {
+   "time": "07:32",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:33",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:35",
+   "label": "福山官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:01",
+   "label": "福山氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:53",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:56",
+   "label": "野田財務相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "11:59",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:04",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:05",
+   "label": "潘基文（パン・ギムン）国連事務総長。福山副長官、高橋外務副大臣、西田恒夫国連大使ら同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:58",
+   "label": "細野原発担当相、福山副長官、経産省の菅原産業技術環境局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:27",
+   "label": "菅原氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:30",
+   "label": "細野、福山両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:00",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 452
+  },
+  {
+   "start": "07:32",
+   "end": "07:33",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "07:33",
+   "end": "07:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "07:35",
+   "end": "08:01",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 26
+  },
+  {
+   "start": "08:01",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "08:53",
+   "end": "08:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:56",
+   "end": "09:00",
+   "category": "面会・会談",
+   "label": "野田財務相",
+   "minutes": 4
+  },
+  {
+   "start": "09:00",
+   "end": "11:59",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 179
+  },
+  {
+   "start": "11:59",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "12:51",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:00",
+   "end": "15:04",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 124
+  },
+  {
+   "start": "15:04",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 181
+  },
+  {
+   "start": "18:05",
+   "end": "18:58",
+   "category": "面会・会談",
+   "label": "潘基文（パン・ギムン）国連事務総長。福山副長官、高橋外務副大臣、西田恒夫国連大使ら同席",
+   "minutes": 53
+  },
+  {
+   "start": "18:58",
+   "end": "19:30",
+   "category": "面会・会談",
+   "label": "細野原発担当相、福山副長官、経産省の菅原産業技術環境局長",
+   "minutes": 32
+  },
+  {
+   "start": "19:30",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "20:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 240
+  }
+ ],
+ "alloc_min": {
+  "居所": 692,
+  "移動": 1,
+  "公務（内容未詳）": 329,
+  "面会・会談": 115,
+  "国会": 303
+ }
+}

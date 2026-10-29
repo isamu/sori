@@ -1,0 +1,412 @@
+{
+ "date": "2017-05-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 901,
+ "residence_min": 539,
+ "meetings": 5,
+ "first_work": "08:17",
+ "events": [
+  {
+   "time": "08:17",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:33",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:46",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:03",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:09",
+   "label": "春の叙勲大綬章勲章親授式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:55",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:02",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:56",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "14:21",
+   "label": "移動",
+   "place": "国会 参院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "14:23",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:39",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:48",
+   "label": "春の叙勲重光章勲章伝達式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:14",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "15:24",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:50",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:57",
+   "label": "移動",
+   "place": "国会 参院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "18:35",
+   "label": "上田清司埼玉県知事、森田健作千葉県知事、黒岩祐治神奈川県知事",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:42",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:30",
+   "label": "フランスのマクロン次期大統領と電話会談。萩生田光一、野上両官房副長官ら同席",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:45",
+   "label": "萩生田光一官房副長官 野上浩太郎官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "丸川珠代五輪担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 497
+  },
+  {
+   "start": "08:17",
+   "end": "08:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "08:27",
+   "end": "08:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:33",
+   "end": "08:42",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "08:42",
+   "end": "08:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:46",
+   "end": "09:27",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 41
+  },
+  {
+   "start": "09:27",
+   "end": "10:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "10:03",
+   "end": "10:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "10:09",
+   "end": "10:55",
+   "category": "式典・行事",
+   "label": "春の叙勲大綬章勲章親授式",
+   "minutes": 46
+  },
+  {
+   "start": "10:55",
+   "end": "11:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 107
+  },
+  {
+   "start": "12:49",
+   "end": "12:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:51",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:56",
+   "end": "14:18",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 82
+  },
+  {
+   "start": "14:18",
+   "end": "14:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:21",
+   "end": "14:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 16
+  },
+  {
+   "start": "14:39",
+   "end": "14:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "14:48",
+   "end": "15:14",
+   "category": "式典・行事",
+   "label": "春の叙勲重光章勲章伝達式",
+   "minutes": 26
+  },
+  {
+   "start": "15:14",
+   "end": "15:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 22
+  },
+  {
+   "start": "15:46",
+   "end": "15:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:48",
+   "end": "15:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:50",
+   "end": "17:54",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 124
+  },
+  {
+   "start": "17:54",
+   "end": "17:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:57",
+   "end": "17:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:59",
+   "end": "18:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "18:35",
+   "end": "18:54",
+   "category": "面会・会談",
+   "label": "上田清司埼玉県知事、森田健作千葉県知事、黒岩祐治神奈川県知事",
+   "minutes": 19
+  },
+  {
+   "start": "18:54",
+   "end": "18:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:59",
+   "end": "19:00",
+   "category": "面会・会談",
+   "label": "丸川珠代五輪担当相",
+   "minutes": 1
+  },
+  {
+   "start": "19:00",
+   "end": "19:42",
+   "category": "居所",
+   "label": "私邸に滞在",
+   "minutes": 42
+  },
+  {
+   "start": "19:42",
+   "end": "19:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:43",
+   "end": "21:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 107
+  },
+  {
+   "start": "21:30",
+   "end": "21:45",
+   "category": "面会・会談",
+   "label": "フランスのマクロン次期大統領と電話会談。萩生田光一、野上両官房副長官ら同席",
+   "minutes": 15
+  },
+  {
+   "start": "21:45",
+   "end": "21:50",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官 野上浩太郎官房副長官",
+   "minutes": 5
+  },
+  {
+   "start": "21:50",
+   "end": "24:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 130
+  }
+ ],
+ "alloc_min": {
+  "居所": 539,
+  "移動": 51,
+  "公務（内容未詳）": 337,
+  "官邸執務": 154,
+  "面会・会談": 81,
+  "式典・行事": 72,
+  "国会": 206
+ }
+}

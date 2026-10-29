@@ -1,0 +1,279 @@
+{
+ "date": "2019-12-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 913,
+ "residence_min": 527,
+ "meetings": 3,
+ "first_work": "08:47",
+ "events": [
+  {
+   "time": "08:47",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "地方分権改革推進本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:11",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:25",
+   "label": "犯罪対策閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:51",
+   "label": "茂木敏充外相 北村滋国家安全保障局長 秋葉剛男事務次官 森健良審議官 正木靖欧州局長 岡野正敬国際法局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:39",
+   "label": "上皇陛下誕生日祝賀に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:52",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:11",
+   "label": "滝沢裕昭内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:22",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:24",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:42",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "習主席主催夕食会",
+   "place": "人民大会堂",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "習近平国家主席と会談",
+   "place": "人民大会堂",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "北京首都国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "四川省成都市の成都国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "北京首都国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 527
+  },
+  {
+   "start": "08:47",
+   "end": "08:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "08:57",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:59",
+   "end": "09:05",
+   "category": "官邸執務",
+   "label": "地方分権改革推進本部",
+   "minutes": 6
+  },
+  {
+   "start": "09:05",
+   "end": "09:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:11",
+   "end": "09:20",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "09:20",
+   "end": "09:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:25",
+   "end": "09:42",
+   "category": "官邸執務",
+   "label": "犯罪対策閣僚会議",
+   "minutes": 17
+  },
+  {
+   "start": "09:42",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "09:51",
+   "end": "10:24",
+   "category": "面会・会談",
+   "label": "茂木敏充外相 北村滋国家安全保障局長 秋葉剛男事務次官 森健良審議官 正木靖欧州局長 岡野正敬国際法局長",
+   "minutes": 33
+  },
+  {
+   "start": "10:24",
+   "end": "10:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "10:31",
+   "end": "10:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:39",
+   "end": "10:52",
+   "category": "式典・行事",
+   "label": "上皇陛下誕生日祝賀に出席",
+   "minutes": 13
+  },
+  {
+   "start": "10:52",
+   "end": "10:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "10:59",
+   "end": "11:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "11:11",
+   "end": "11:39",
+   "category": "面会・会談",
+   "label": "滝沢裕昭内閣情報官",
+   "minutes": 28
+  },
+  {
+   "start": "11:39",
+   "end": "12:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "12:22",
+   "end": "12:23",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "12:23",
+   "end": "12:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:24",
+   "end": "12:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "12:42",
+   "end": "13:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "13:04",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 656
+  }
+ ],
+ "alloc_min": {
+  "居所": 527,
+  "移動": 65,
+  "公務（内容未詳）": 85,
+  "官邸執務": 32,
+  "面会・会談": 61,
+  "式典・行事": 13,
+  "取材・会見": 1,
+  "外遊": 656
+ }
+}

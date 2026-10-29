@@ -1,0 +1,192 @@
+{
+ "date": "2019-05-06",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 229,
+ "residence_min": 882,
+ "meetings": 1,
+ "first_work": "07:25",
+ "events": [
+  {
+   "time": "07:25",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "07:49",
+   "label": "高橋精一郎元三井住友銀行副頭取、増岡聡一郎鉄鋼ビルディング専務、松崎勲森永商事社長、籔本雅巳錦秀会グループＣＥＯらとゴルフ",
+   "place": "同県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "個人"
+  },
+  {
+   "time": "13:18",
+   "label": "移動",
+   "place": "同県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "移動"
+  },
+  {
+   "time": "13:44",
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  },
+  {
+   "time": "13:57",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "15:21",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "21:01",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:42",
+   "label": "トランプ米大統領と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:45",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:48",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 445
+  },
+  {
+   "start": "07:25",
+   "end": "07:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "07:49",
+   "end": "13:18",
+   "category": "個人",
+   "label": "高橋精一郎元三井住友銀行副頭取、増岡聡一郎鉄鋼ビルディング専務、松崎勲森永商事社長、籔本雅巳錦秀会グループＣＥＯらとゴルフ",
+   "minutes": 329
+  },
+  {
+   "start": "13:18",
+   "end": "13:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "13:44",
+   "end": "13:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 13
+  },
+  {
+   "start": "13:57",
+   "end": "15:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 84
+  },
+  {
+   "start": "15:21",
+   "end": "21:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 340
+  },
+  {
+   "start": "21:01",
+   "end": "21:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "21:11",
+   "end": "21:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "21:42",
+   "end": "22:22",
+   "category": "面会・会談",
+   "label": "トランプ米大統領と電話会談",
+   "minutes": 40
+  },
+  {
+   "start": "22:22",
+   "end": "22:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 23
+  },
+  {
+   "start": "22:45",
+   "end": "22:47",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "22:47",
+   "end": "22:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "22:48",
+   "end": "23:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "23:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 60
+  }
+ ],
+ "alloc_min": {
+  "居所": 882,
+  "移動": 156,
+  "個人": 329,
+  "公務（内容未詳）": 31,
+  "面会・会談": 40,
+  "取材・会見": 2
+ }
+}

@@ -1,0 +1,157 @@
+{
+ "date": "2014-10-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 341,
+ "residence_min": 917,
+ "meetings": 0,
+ "first_work": "09:41",
+ "events": [
+  {
+   "time": "09:41",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "個人"
+  },
+  {
+   "time": "12:56",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": "15:04",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": "16:43",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "国際法曹協会の年次総会に出席し、あいさつ",
+   "place": "東京・丸の内 東京国際フォーラム",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:05",
+   "label": "移動",
+   "place": "東京・丸の内 東京国際フォーラム",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 ＡＮＡインターコンチネンタルホテル東京",
+   "place": "東京・赤坂 ＡＮＡインターコンチネンタルホテル東京",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 581
+  },
+  {
+   "start": "09:41",
+   "end": "09:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:54",
+   "end": "12:56",
+   "category": "個人",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "minutes": 182
+  },
+  {
+   "start": "12:56",
+   "end": "13:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "13:06",
+   "end": "15:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 118
+  },
+  {
+   "start": "15:04",
+   "end": "15:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "15:19",
+   "end": "16:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 84
+  },
+  {
+   "start": "16:43",
+   "end": "17:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "17:00",
+   "end": "18:05",
+   "category": "式典・行事",
+   "label": "国際法曹協会の年次総会に出席し、あいさつ",
+   "minutes": 65
+  },
+  {
+   "start": "18:05",
+   "end": "18:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "18:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 336
+  }
+ ],
+ "alloc_min": {
+  "居所": 917,
+  "移動": 74,
+  "個人": 182,
+  "公務（内容未詳）": 202,
+  "式典・行事": 65
+ }
+}

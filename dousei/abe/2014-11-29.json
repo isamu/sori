@@ -1,0 +1,298 @@
+{
+ "date": "2014-11-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 722,
+ "residence_min": 718,
+ "meetings": 0,
+ "first_work": "09:42",
+ "events": [
+  {
+   "time": "09:42",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:22",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "12:14",
+   "label": "街頭演説",
+   "place": "ＪＲ稲毛海岸駅前",
+   "category": "党務"
+  },
+  {
+   "time": "13:16",
+   "label": "街頭演説",
+   "place": "ＪＲ津田沼駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "14:32",
+   "label": "街頭演説",
+   "place": "ＪＲ市川駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "15:26",
+   "label": "街頭演説",
+   "place": "ＪＲ松戸駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "16:22",
+   "label": "街頭演説",
+   "place": "ＪＲ柏駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:37",
+   "label": "街頭演説",
+   "place": "千葉県松戸市 ダイエー新松戸店前",
+   "category": "党務"
+  },
+  {
+   "time": "17:58",
+   "label": "移動",
+   "place": "千葉県松戸市 ダイエー新松戸店前",
+   "category": "移動"
+  },
+  {
+   "time": "19:11",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "19:18",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:21",
+   "label": "同ホテル内の日本料理店「水簾」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "19:36",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "20:00",
+   "label": "インターネットの動画サービス「ニコニコ」など主催の党首討論会に出席",
+   "place": "東京・六本木 ライブハウス「ニコファーレ」邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:35",
+   "label": "移動",
+   "place": "東京・六本木 ライブハウス「ニコファーレ」邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 582
+  },
+  {
+   "start": "09:42",
+   "end": "09:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "09:56",
+   "end": "11:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 86
+  },
+  {
+   "start": "11:22",
+   "end": "12:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 52
+  },
+  {
+   "start": "12:14",
+   "end": "12:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "12:44",
+   "end": "13:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "13:16",
+   "end": "13:37",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 21
+  },
+  {
+   "start": "13:37",
+   "end": "14:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "14:32",
+   "end": "14:55",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 23
+  },
+  {
+   "start": "14:55",
+   "end": "15:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "15:26",
+   "end": "15:46",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 20
+  },
+  {
+   "start": "15:46",
+   "end": "16:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "16:22",
+   "end": "16:50",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "16:50",
+   "end": "17:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "17:37",
+   "end": "17:58",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 21
+  },
+  {
+   "start": "17:58",
+   "end": "19:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 73
+  },
+  {
+   "start": "19:11",
+   "end": "19:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 7
+  },
+  {
+   "start": "19:18",
+   "end": "19:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "19:21",
+   "end": "19:36",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「水簾」で秘書官と食事",
+   "minutes": 15
+  },
+  {
+   "start": "19:36",
+   "end": "19:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "19:44",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "20:00",
+   "end": "21:13",
+   "category": "取材・会見",
+   "label": "インターネットの動画サービス「ニコニコ」など主催の党首討論会に出席",
+   "minutes": 73
+  },
+  {
+   "start": "21:13",
+   "end": "21:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "21:35",
+   "end": "21:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "21:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 129
+  }
+ ],
+ "alloc_min": {
+  "居所": 718,
+  "移動": 166,
+  "公務（内容未詳）": 325,
+  "党務": 143,
+  "会食": 15,
+  "取材・会見": 73
+ }
+}

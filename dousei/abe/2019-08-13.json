@@ -1,0 +1,590 @@
+{
+ "date": "2019-08-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 825,
+ "residence_min": 565,
+ "meetings": 1,
+ "first_work": "08:32",
+ "events": [
+  {
+   "time": "08:32",
+   "label": "移動",
+   "place": "自宅",
+   "category": "移動"
+  },
+  {
+   "time": "08:52",
+   "label": "昭恵夫人とともに父安倍晋太郎元外相の墓参り",
+   "place": "長門市 安倍家の墓",
+   "category": "個人"
+  },
+  {
+   "time": "08:57",
+   "label": "地元支援者らにあいさつ、握手、写真撮影",
+   "place": "長門市 安倍家の墓",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:14",
+   "label": "報道各社のインタビュー",
+   "place": "長門市 安倍家の墓",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:16",
+   "label": "移動",
+   "place": "長門市 安倍家の墓",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "弔問。地元住民らと写真撮影",
+   "place": "山口県下関市 支援者宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:15",
+   "label": "移動",
+   "place": "山口県下関市 支援者宅",
+   "category": "移動"
+  },
+  {
+   "time": "10:43",
+   "label": "弔問",
+   "place": "同市 支援者宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:53",
+   "label": "移動",
+   "place": "同市 支援者宅",
+   "category": "移動"
+  },
+  {
+   "time": "11:27",
+   "label": "支援者の見舞い",
+   "place": "下関市 安岡病院",
+   "category": "移動"
+  },
+  {
+   "time": "11:49",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "11:50",
+   "label": "弔問",
+   "place": "下関市 支援者宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:02",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "12:25",
+   "label": "後援会幹部らと昼食",
+   "place": "下関市 自宅",
+   "category": "会食"
+  },
+  {
+   "time": "13:49",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "弔問",
+   "place": "下関市 支援者宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:05",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "14:18",
+   "label": "弔問",
+   "place": "下関市 支援者ら宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:33",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "14:39",
+   "label": "弔問",
+   "place": "下関市 支援者宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:47",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "15:07",
+   "label": "弔問。地元住民らと写真撮影",
+   "place": "下関市 支援者宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:17",
+   "label": "移動",
+   "place": "下関市 支援者宅",
+   "category": "移動"
+  },
+  {
+   "time": "15:29",
+   "label": "弔問",
+   "place": "同市 支援者宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:39",
+   "label": "移動",
+   "place": "同市 支援者宅",
+   "category": "移動"
+  },
+  {
+   "time": "15:51",
+   "label": "弔問。帰省客らと握手、写真撮影",
+   "place": "下関市 支援者宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:03",
+   "label": "移動",
+   "place": "下関市 支援者宅",
+   "category": "移動"
+  },
+  {
+   "time": "16:08",
+   "label": "弔問。地元住民らと握手、写真撮影",
+   "place": "同市 後援会関係者宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:29",
+   "label": "移動",
+   "place": "同市 後援会関係者宅",
+   "category": "移動"
+  },
+  {
+   "time": "16:42",
+   "label": "自宅",
+   "place": "自宅",
+   "category": "移動"
+  },
+  {
+   "time": "18:34",
+   "label": "移動",
+   "place": "自宅",
+   "category": "移動"
+  },
+  {
+   "time": "18:40",
+   "label": "吉村猛山口フィナンシャルグループ社長、神田一成山口銀行頭取らと懇談",
+   "place": "下関市 「やまぎん史料館」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:16",
+   "label": "徒歩",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "19:32",
+   "label": "練り歩き。あいさつ。昭恵夫人とともに観賞",
+   "place": "下関市 関門海峡花火大会会場",
+   "category": "個人"
+  },
+  {
+   "time": "20:17",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "20:46",
+   "label": "数方庭祭であいさつ。練り歩き",
+   "place": "下関市 忌宮神社",
+   "category": "式典・行事"
+  },
+  {
+   "time": "21:24",
+   "label": "移動",
+   "place": "下関市 忌宮神社",
+   "category": "移動"
+  },
+  {
+   "time": "21:26",
+   "label": "寺関係者、地元住民らと握手、写真撮影",
+   "place": "同市 正円寺",
+   "category": "式典・行事"
+  },
+  {
+   "time": "21:35",
+   "label": "移動",
+   "place": "同市 正円寺",
+   "category": "移動"
+  },
+  {
+   "time": "21:51",
+   "label": "昭恵夫人とともに前田晋太郎同市長、後援会若手関係者と夕食",
+   "place": "下関市 鶏料理専門店「金鶏」",
+   "category": "会食"
+  },
+  {
+   "time": "22:58",
+   "label": "移動",
+   "place": "下関市 鶏料理専門店「金鶏」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "自宅",
+   "place": "自宅",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 512
+  },
+  {
+   "start": "08:32",
+   "end": "08:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "08:52",
+   "end": "08:57",
+   "category": "個人",
+   "label": "昭恵夫人とともに父安倍晋太郎元外相の墓参り",
+   "minutes": 5
+  },
+  {
+   "start": "08:57",
+   "end": "09:13",
+   "category": "式典・行事",
+   "label": "地元支援者らにあいさつ、握手、写真撮影",
+   "minutes": 16
+  },
+  {
+   "start": "09:13",
+   "end": "09:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:14",
+   "end": "09:15",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:15",
+   "end": "09:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:16",
+   "end": "10:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 44
+  },
+  {
+   "start": "10:00",
+   "end": "10:15",
+   "category": "式典・行事",
+   "label": "弔問。地元住民らと写真撮影",
+   "minutes": 15
+  },
+  {
+   "start": "10:15",
+   "end": "10:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "10:43",
+   "end": "10:53",
+   "category": "式典・行事",
+   "label": "弔問",
+   "minutes": 10
+  },
+  {
+   "start": "10:53",
+   "end": "11:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "11:27",
+   "end": "11:49",
+   "category": "移動",
+   "label": "支援者の見舞い",
+   "minutes": 22
+  },
+  {
+   "start": "11:49",
+   "end": "11:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "11:50",
+   "end": "12:02",
+   "category": "式典・行事",
+   "label": "弔問",
+   "minutes": 12
+  },
+  {
+   "start": "12:02",
+   "end": "12:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "12:25",
+   "end": "13:49",
+   "category": "会食",
+   "label": "後援会幹部らと昼食",
+   "minutes": 84
+  },
+  {
+   "start": "13:49",
+   "end": "13:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "13:55",
+   "end": "14:05",
+   "category": "式典・行事",
+   "label": "弔問",
+   "minutes": 10
+  },
+  {
+   "start": "14:05",
+   "end": "14:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "14:18",
+   "end": "14:33",
+   "category": "式典・行事",
+   "label": "弔問",
+   "minutes": 15
+  },
+  {
+   "start": "14:33",
+   "end": "14:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "14:39",
+   "end": "14:47",
+   "category": "式典・行事",
+   "label": "弔問",
+   "minutes": 8
+  },
+  {
+   "start": "14:47",
+   "end": "15:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "15:07",
+   "end": "15:17",
+   "category": "式典・行事",
+   "label": "弔問。地元住民らと写真撮影",
+   "minutes": 10
+  },
+  {
+   "start": "15:17",
+   "end": "15:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "15:29",
+   "end": "15:39",
+   "category": "式典・行事",
+   "label": "弔問",
+   "minutes": 10
+  },
+  {
+   "start": "15:39",
+   "end": "15:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "15:51",
+   "end": "16:03",
+   "category": "式典・行事",
+   "label": "弔問。帰省客らと握手、写真撮影",
+   "minutes": 12
+  },
+  {
+   "start": "16:03",
+   "end": "16:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "16:08",
+   "end": "16:29",
+   "category": "式典・行事",
+   "label": "弔問。地元住民らと握手、写真撮影",
+   "minutes": 21
+  },
+  {
+   "start": "16:29",
+   "end": "16:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "16:42",
+   "end": "18:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 112
+  },
+  {
+   "start": "18:34",
+   "end": "18:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:40",
+   "end": "19:16",
+   "category": "面会・会談",
+   "label": "吉村猛山口フィナンシャルグループ社長、神田一成山口銀行頭取らと懇談",
+   "minutes": 36
+  },
+  {
+   "start": "19:16",
+   "end": "19:32",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 16
+  },
+  {
+   "start": "19:32",
+   "end": "20:17",
+   "category": "個人",
+   "label": "練り歩き。あいさつ。昭恵夫人とともに観賞",
+   "minutes": 45
+  },
+  {
+   "start": "20:17",
+   "end": "20:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "20:46",
+   "end": "21:24",
+   "category": "式典・行事",
+   "label": "数方庭祭であいさつ。練り歩き",
+   "minutes": 38
+  },
+  {
+   "start": "21:24",
+   "end": "21:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "21:26",
+   "end": "21:35",
+   "category": "式典・行事",
+   "label": "寺関係者、地元住民らと握手、写真撮影",
+   "minutes": 9
+  },
+  {
+   "start": "21:35",
+   "end": "21:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "21:51",
+   "end": "22:58",
+   "category": "会食",
+   "label": "昭恵夫人とともに前田晋太郎同市長、後援会若手関係者と夕食",
+   "minutes": 67
+  },
+  {
+   "start": "22:58",
+   "end": "23:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "23:07",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 53
+  }
+ ],
+ "alloc_min": {
+  "居所": 565,
+  "移動": 449,
+  "個人": 50,
+  "式典・行事": 186,
+  "公務（内容未詳）": 2,
+  "取材・会見": 1,
+  "会食": 151,
+  "面会・会談": 36
+ }
+}

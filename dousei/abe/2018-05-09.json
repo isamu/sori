@@ -1,0 +1,393 @@
+{
+ "date": "2018-05-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 746,
+ "residence_min": 694,
+ "meetings": 3,
+ "first_work": "08:48",
+ "events": [
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:59",
+   "label": "中国の李克強首相、韓国の文在寅大統領と首脳会談",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:24",
+   "label": "共同記者発表",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:05",
+   "label": "移動",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "移動"
+  },
+  {
+   "time": "12:15",
+   "label": "日中韓ビジネス・サミットに出席し、あいさつ",
+   "place": "東京・大手町 経団連会館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:39",
+   "label": "移動",
+   "place": "東京・大手町 経団連会館",
+   "category": "移動"
+  },
+  {
+   "time": "13:01",
+   "label": "文大統領を出迎え",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:02",
+   "label": "文大統領と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:59",
+   "label": "文大統領との安倍晋三首相主催の昼食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "14:54",
+   "label": "文大統領を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:56",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:57",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:05",
+   "label": "李首相を出迎え",
+   "place": "迎賓館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:06",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "迎賓館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:14",
+   "label": "李首相と首脳会談",
+   "place": "迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:26",
+   "label": "署名式、共同記者発表",
+   "place": "迎賓館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:20",
+   "label": "李首相との安倍首相主催の夕食会",
+   "place": "迎賓館",
+   "category": "会食"
+  },
+  {
+   "time": "20:36",
+   "label": "李首相を見送り",
+   "place": "迎賓館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:59",
+   "label": "移動",
+   "place": "迎賓館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 528
+  },
+  {
+   "start": "08:48",
+   "end": "09:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "09:03",
+   "end": "09:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "09:59",
+   "end": "11:13",
+   "category": "面会・会談",
+   "label": "中国の李克強首相、韓国の文在寅大統領と首脳会談",
+   "minutes": 74
+  },
+  {
+   "start": "11:13",
+   "end": "11:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "11:24",
+   "end": "11:44",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 20
+  },
+  {
+   "start": "11:44",
+   "end": "12:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "12:05",
+   "end": "12:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "12:15",
+   "end": "12:39",
+   "category": "式典・行事",
+   "label": "日中韓ビジネス・サミットに出席し、あいさつ",
+   "minutes": 24
+  },
+  {
+   "start": "12:39",
+   "end": "12:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "12:45",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "13:01",
+   "end": "13:02",
+   "category": "式典・行事",
+   "label": "文大統領を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "13:02",
+   "end": "13:53",
+   "category": "面会・会談",
+   "label": "文大統領と首脳会談",
+   "minutes": 51
+  },
+  {
+   "start": "13:53",
+   "end": "13:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:54",
+   "end": "13:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:55",
+   "end": "13:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:59",
+   "end": "14:53",
+   "category": "会食",
+   "label": "文大統領との安倍晋三首相主催の昼食会",
+   "minutes": 54
+  },
+  {
+   "start": "14:53",
+   "end": "14:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "14:54",
+   "end": "14:56",
+   "category": "式典・行事",
+   "label": "文大統領を見送り",
+   "minutes": 2
+  },
+  {
+   "start": "14:56",
+   "end": "14:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 20
+  },
+  {
+   "start": "15:17",
+   "end": "15:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "15:25",
+   "end": "16:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "16:05",
+   "end": "16:06",
+   "category": "式典・行事",
+   "label": "李首相を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "16:06",
+   "end": "16:13",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 7
+  },
+  {
+   "start": "16:13",
+   "end": "16:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:14",
+   "end": "18:04",
+   "category": "面会・会談",
+   "label": "李首相と首脳会談",
+   "minutes": 110
+  },
+  {
+   "start": "18:04",
+   "end": "18:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "18:26",
+   "end": "19:11",
+   "category": "取材・会見",
+   "label": "署名式、共同記者発表",
+   "minutes": 45
+  },
+  {
+   "start": "19:11",
+   "end": "19:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "19:20",
+   "end": "20:36",
+   "category": "会食",
+   "label": "李首相との安倍首相主催の夕食会",
+   "minutes": 76
+  },
+  {
+   "start": "20:36",
+   "end": "20:59",
+   "category": "式典・行事",
+   "label": "李首相を見送り",
+   "minutes": 23
+  },
+  {
+   "start": "20:59",
+   "end": "21:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "21:15",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 165
+  }
+ ],
+ "alloc_min": {
+  "居所": 694,
+  "移動": 57,
+  "公務（内容未詳）": 181,
+  "面会・会談": 235,
+  "取材・会見": 65,
+  "式典・行事": 58,
+  "会食": 130,
+  "官邸執務": 20
+ }
+}

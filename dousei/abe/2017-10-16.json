@@ -1,0 +1,334 @@
+{
+ "date": "2017-10-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 805,
+ "residence_min": 635,
+ "meetings": 1,
+ "first_work": "08:50",
+ "events": [
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:22",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:38",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:26",
+   "label": "街頭演説",
+   "place": "ＪＲ高槻駅前",
+   "category": "党務"
+  },
+  {
+   "time": "12:32",
+   "label": "同大学内の学生食堂で学生らと食事。ＮＨＫ番組の収録",
+   "place": "大阪府吹田市の大和大学",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:02",
+   "label": "街頭演説",
+   "place": "近鉄八尾駅前",
+   "category": "党務"
+  },
+  {
+   "time": "14:59",
+   "label": "街頭演説",
+   "place": "近鉄河内松原駅前",
+   "category": "党務"
+  },
+  {
+   "time": "15:55",
+   "label": "街頭演説",
+   "place": "大阪府貝塚市の東山中央公園",
+   "category": "党務"
+  },
+  {
+   "time": "17:17",
+   "label": "街頭演説",
+   "place": "大阪市中央区の百貨店「高島屋大阪店」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:59",
+   "label": "街頭演説",
+   "place": "同市北区の家電量販店「ヨドバシカメラ　マルチメディア梅田」前",
+   "category": "党務"
+  },
+  {
+   "time": "18:45",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:02",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:15",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:00",
+   "label": "自民党選挙本部の幹部会合",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "21:47",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "22:04",
+   "label": "北村滋内閣情報官",
+   "place": "私邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 530
+  },
+  {
+   "start": "08:50",
+   "end": "09:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "09:22",
+   "end": "09:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "09:51",
+   "end": "10:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "10:38",
+   "end": "10:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "10:48",
+   "end": "11:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "11:26",
+   "end": "11:51",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "11:51",
+   "end": "12:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "12:32",
+   "end": "13:05",
+   "category": "取材・会見",
+   "label": "同大学内の学生食堂で学生らと食事。ＮＨＫ番組の収録",
+   "minutes": 33
+  },
+  {
+   "start": "13:05",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "14:02",
+   "end": "14:20",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 18
+  },
+  {
+   "start": "14:20",
+   "end": "14:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "14:59",
+   "end": "15:19",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 20
+  },
+  {
+   "start": "15:19",
+   "end": "15:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "15:55",
+   "end": "16:23",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "16:23",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "17:17",
+   "end": "17:36",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 19
+  },
+  {
+   "start": "17:36",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "17:59",
+   "end": "18:20",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 21
+  },
+  {
+   "start": "18:20",
+   "end": "18:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "18:45",
+   "end": "19:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "19:13",
+   "end": "20:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "20:02",
+   "end": "20:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:15",
+   "end": "20:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "20:39",
+   "end": "21:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "21:00",
+   "end": "21:37",
+   "category": "党務",
+   "label": "自民党選挙本部の幹部会合",
+   "minutes": 37
+  },
+  {
+   "start": "21:37",
+   "end": "21:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "21:47",
+   "end": "22:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "22:02",
+   "end": "22:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "22:04",
+   "end": "22:15",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 11
+  },
+  {
+   "start": "22:15",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 105
+  }
+ ],
+ "alloc_min": {
+  "居所": 635,
+  "移動": 151,
+  "公務（内容未詳）": 442,
+  "党務": 168,
+  "取材・会見": 33,
+  "面会・会談": 11
+ }
+}

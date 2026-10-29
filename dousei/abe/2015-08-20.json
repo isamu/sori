@@ -1,0 +1,50 @@
+{
+ "date": "2015-08-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 93,
+ "residence_min": 1347,
+ "meetings": 0,
+ "first_work": "14:57",
+ "events": [
+  {
+   "time": "14:57",
+   "label": "移動",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 897
+  },
+  {
+   "start": "14:57",
+   "end": "16:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 93
+  },
+  {
+   "start": "16:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 450
+  }
+ ],
+ "alloc_min": {
+  "居所": 1347,
+  "移動": 93
+ }
+}

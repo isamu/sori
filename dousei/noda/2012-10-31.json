@@ -1,0 +1,197 @@
+{
+ "date": "2012-10-31",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.10.31",
+ "work_min": 654,
+ "residence_min": 786,
+ "meetings": 6,
+ "first_work": "09:30",
+ "events": [
+  {
+   "time": "09:30",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:31",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:40",
+   "label": "斎藤官房副長官、三谷首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:59",
+   "label": "両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:49",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "16:19",
+   "label": "民主党の輿石幹事長",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:21",
+   "label": "芝官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:32",
+   "label": "樽床総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:29",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "民主党の坂口岳洋、近藤和也両氏ら衆院当選1回の議員と会食",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:25",
+   "label": "全員出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 570
+  },
+  {
+   "start": "09:30",
+   "end": "09:31",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:31",
+   "end": "09:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "09:40",
+   "end": "10:59",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、三谷首相補佐官",
+   "minutes": 79
+  },
+  {
+   "start": "10:59",
+   "end": "12:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 110
+  },
+  {
+   "start": "12:49",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "13:02",
+   "end": "16:19",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 197
+  },
+  {
+   "start": "16:19",
+   "end": "16:58",
+   "category": "面会・会談",
+   "label": "民主党の輿石幹事長",
+   "minutes": 39
+  },
+  {
+   "start": "16:58",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "17:21",
+   "end": "17:32",
+   "category": "面会・会談",
+   "label": "芝官房副長官",
+   "minutes": 11
+  },
+  {
+   "start": "17:32",
+   "end": "18:29",
+   "category": "面会・会談",
+   "label": "樽床総務相",
+   "minutes": 57
+  },
+  {
+   "start": "18:29",
+   "end": "18:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "18:30",
+   "end": "20:25",
+   "category": "会食",
+   "label": "民主党の坂口岳洋、近藤和也両氏ら衆院当選1回の議員と会食",
+   "minutes": 115
+  },
+  {
+   "start": "20:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 215
+  }
+ ],
+ "alloc_min": {
+  "居所": 786,
+  "移動": 1,
+  "公務（内容未詳）": 155,
+  "面会・会談": 186,
+  "国会": 197,
+  "会食": 115
+ }
+}

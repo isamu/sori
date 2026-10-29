@@ -1,0 +1,314 @@
+{
+ "date": "2017-04-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 540,
+ "residence_min": 900,
+ "meetings": 7,
+ "first_work": "09:36",
+ "events": [
+  {
+   "time": "09:36",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:44",
+   "label": "フェルナンデス国際刑事裁判所所長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:03",
+   "label": "政府・与党連絡会議",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "12:31",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:15",
+   "label": "林肇駐ベルギー大使、池田敏雄駐モザンビーク大使らによる就任あいさつ",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:25",
+   "label": "鈴木宗男元衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:04",
+   "label": "新国立公文書館建設議連の河村建夫会長代行ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:12",
+   "label": "石井啓一国土交通相 特定複合観光施設区域整備推進本部の森重俊也事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:35",
+   "label": "秋葉剛男審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:58",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:24",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:45",
+   "label": "国家安全保障会議。石井国交相同席",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:34",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 576
+  },
+  {
+   "start": "09:36",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "09:52",
+   "end": "10:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "10:44",
+   "end": "11:13",
+   "category": "面会・会談",
+   "label": "フェルナンデス国際刑事裁判所所長",
+   "minutes": 29
+  },
+  {
+   "start": "11:13",
+   "end": "12:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "12:03",
+   "end": "12:28",
+   "category": "党務",
+   "label": "政府・与党連絡会議",
+   "minutes": 25
+  },
+  {
+   "start": "12:28",
+   "end": "12:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:31",
+   "end": "12:44",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 13
+  },
+  {
+   "start": "12:44",
+   "end": "15:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 151
+  },
+  {
+   "start": "15:15",
+   "end": "15:20",
+   "category": "面会・会談",
+   "label": "林肇駐ベルギー大使、池田敏雄駐モザンビーク大使らによる就任あいさつ",
+   "minutes": 5
+  },
+  {
+   "start": "15:20",
+   "end": "15:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "15:25",
+   "end": "15:56",
+   "category": "面会・会談",
+   "label": "鈴木宗男元衆院議員",
+   "minutes": 31
+  },
+  {
+   "start": "15:56",
+   "end": "16:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "16:04",
+   "end": "16:10",
+   "category": "面会・会談",
+   "label": "新国立公文書館建設議連の河村建夫会長代行ら",
+   "minutes": 6
+  },
+  {
+   "start": "16:10",
+   "end": "16:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:12",
+   "end": "16:27",
+   "category": "面会・会談",
+   "label": "石井啓一国土交通相 特定複合観光施設区域整備推進本部の森重俊也事務局長",
+   "minutes": 15
+  },
+  {
+   "start": "16:27",
+   "end": "16:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "16:35",
+   "end": "16:54",
+   "category": "面会・会談",
+   "label": "秋葉剛男審議官",
+   "minutes": 19
+  },
+  {
+   "start": "16:54",
+   "end": "16:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:58",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:59",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:01",
+   "end": "17:21",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 20
+  },
+  {
+   "start": "17:21",
+   "end": "17:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:24",
+   "end": "17:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:26",
+   "end": "17:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "17:45",
+   "end": "18:13",
+   "category": "官邸執務",
+   "label": "国家安全保障会議。石井国交相同席",
+   "minutes": 28
+  },
+  {
+   "start": "18:13",
+   "end": "18:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "18:34",
+   "end": "18:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 324
+  }
+ ],
+ "alloc_min": {
+  "居所": 900,
+  "移動": 21,
+  "公務（内容未詳）": 328,
+  "面会・会談": 118,
+  "党務": 45,
+  "官邸執務": 28
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "date": "2019-11-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 87,
+ "residence_min": 1353,
+ "meetings": 1,
+ "first_work": "14:19",
+ "events": [
+  {
+   "time": "14:19",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:56",
+   "label": "淵上貫之弁護士の見舞い",
+   "place": "埼玉県和光市 埼玉病院",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:16",
+   "label": "移動",
+   "place": "埼玉県和光市 埼玉病院",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 859
+  },
+  {
+   "start": "14:19",
+   "end": "14:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "14:56",
+   "end": "15:16",
+   "category": "面会・会談",
+   "label": "淵上貫之弁護士の見舞い",
+   "minutes": 20
+  },
+  {
+   "start": "15:16",
+   "end": "15:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "15:46",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 494
+  }
+ ],
+ "alloc_min": {
+  "居所": 1353,
+  "移動": 67,
+  "面会・会談": 20
+ }
+}

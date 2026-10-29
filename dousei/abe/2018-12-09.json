@@ -1,0 +1,83 @@
+{
+ "date": "2018-12-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 43,
+ "residence_min": 1339,
+ "meetings": 0,
+ "first_work": "12:58",
+ "events": [
+  {
+   "time": "12:58",
+   "label": "徒歩",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:22",
+   "label": "買い物",
+   "place": "東京・道玄坂 東急百貨店本店",
+   "category": "個人"
+  },
+  {
+   "time": "14:20",
+   "label": "徒歩",
+   "place": "東京・道玄坂 東急百貨店本店",
+   "category": "移動"
+  },
+  {
+   "time": "14:38",
+   "label": "報道各社のインタビュー",
+   "place": "移動中",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 778
+  },
+  {
+   "start": "12:58",
+   "end": "13:22",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 24
+  },
+  {
+   "start": "13:22",
+   "end": "14:20",
+   "category": "個人",
+   "label": "買い物",
+   "minutes": 58
+  },
+  {
+   "start": "14:20",
+   "end": "14:39",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 19
+  },
+  {
+   "start": "14:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 561
+  }
+ ],
+ "alloc_min": {
+  "居所": 1339,
+  "移動": 43,
+  "個人": 58
+ }
+}

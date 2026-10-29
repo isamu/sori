@@ -1,0 +1,185 @@
+{
+ "date": "2017-01-28",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 118,
+ "residence_min": 1134,
+ "meetings": 1,
+ "first_work": "12:52",
+ "events": [
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "同ビル内の歯科オノザワで治療",
+   "place": "東京・内幸町 日本プレスセンタービル",
+   "category": "個人"
+  },
+  {
+   "time": "13:45",
+   "label": "移動",
+   "place": "東京・内幸町 日本プレスセンタービル",
+   "category": "移動"
+  },
+  {
+   "time": "13:58",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "個人"
+  },
+  {
+   "time": "16:19",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": "16:29",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "22:31",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "23:05",
+   "label": "トランプ米大統領と電話会談。菅義偉官房長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "23:57",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "23:59",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 772
+  },
+  {
+   "start": "12:52",
+   "end": "12:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "12:58",
+   "end": "13:45",
+   "category": "個人",
+   "label": "同ビル内の歯科オノザワで治療",
+   "minutes": 47
+  },
+  {
+   "start": "13:45",
+   "end": "13:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "13:58",
+   "end": "16:19",
+   "category": "個人",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "minutes": 141
+  },
+  {
+   "start": "16:19",
+   "end": "16:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "16:29",
+   "end": "22:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 362
+  },
+  {
+   "start": "22:31",
+   "end": "22:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "22:32",
+   "end": "23:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "23:05",
+   "end": "23:47",
+   "category": "面会・会談",
+   "label": "トランプ米大統領と電話会談。菅義偉官房長官同席",
+   "minutes": 42
+  },
+  {
+   "start": "23:47",
+   "end": "23:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "23:57",
+   "end": "23:58",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "23:58",
+   "end": "23:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "23:59",
+   "end": "24:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  }
+ ],
+ "alloc_min": {
+  "居所": 1134,
+  "移動": 31,
+  "個人": 188,
+  "公務（内容未詳）": 44,
+  "面会・会談": 42,
+  "取材・会見": 1
+ }
+}

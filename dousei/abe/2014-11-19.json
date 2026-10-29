@@ -1,0 +1,469 @@
+{
+ "date": "2014-11-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 711,
+ "residence_min": 729,
+ "meetings": 7,
+ "first_work": "08:12",
+ "events": [
+  {
+   "time": "08:12",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:35",
+   "label": "政労使会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:42",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:21",
+   "label": "香川俊介事務次官 田中一穂主計局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:10",
+   "label": "河村建夫自民党地方創生実行統合本部長から提言書受け取り",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "11:25",
+   "label": "木村太郎首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:31",
+   "label": "萩生田光一自民党総裁特別補佐",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:53",
+   "label": "全国町村長大会に出席し、あいさつ",
+   "place": "東京・神南 NHKホール",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:12",
+   "label": "移動",
+   "place": "東京・神南 NHKホール",
+   "category": "移動"
+  },
+  {
+   "time": "12:28",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "石破茂地方創生担当相",
+   "place": "国会 参院第1委員会",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院地方創生特別委員会",
+   "place": "国会 参院第1委員会",
+   "category": "国会"
+  },
+  {
+   "time": "14:06",
+   "label": "移動",
+   "place": "国会 参院第1委員会",
+   "category": "移動"
+  },
+  {
+   "time": "15:22",
+   "label": "山田賢司自民党衆院議員ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:29",
+   "label": "産経新聞のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:02",
+   "label": "読売新聞のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:06",
+   "label": "子ども若者育成・子育て支援功労者への表彰。有村治子女性活躍・少子化担当相同席",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:19",
+   "label": "自民党の衛藤征士郎外交・経済連携本部長、秋葉賢也外交部会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "17:29",
+   "label": "北村滋内閣情報官 平松賢司総合外交政策局長 黒江哲郎防衛政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:55",
+   "label": "斎木昭隆事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:41",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 492
+  },
+  {
+   "start": "08:12",
+   "end": "08:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "08:30",
+   "end": "08:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:35",
+   "end": "09:34",
+   "category": "官邸執務",
+   "label": "政労使会議",
+   "minutes": 59
+  },
+  {
+   "start": "09:34",
+   "end": "09:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:42",
+   "end": "09:56",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 14
+  },
+  {
+   "start": "09:56",
+   "end": "10:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "10:21",
+   "end": "11:03",
+   "category": "面会・会談",
+   "label": "香川俊介事務次官 田中一穂主計局長",
+   "minutes": 42
+  },
+  {
+   "start": "11:03",
+   "end": "11:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "11:10",
+   "end": "11:23",
+   "category": "党務",
+   "label": "河村建夫自民党地方創生実行統合本部長から提言書受け取り",
+   "minutes": 13
+  },
+  {
+   "start": "11:23",
+   "end": "11:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:25",
+   "end": "11:30",
+   "category": "面会・会談",
+   "label": "木村太郎首相補佐官",
+   "minutes": 5
+  },
+  {
+   "start": "11:30",
+   "end": "11:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:31",
+   "end": "11:38",
+   "category": "面会・会談",
+   "label": "萩生田光一自民党総裁特別補佐",
+   "minutes": 7
+  },
+  {
+   "start": "11:38",
+   "end": "11:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:40",
+   "end": "11:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "11:53",
+   "end": "12:12",
+   "category": "式典・行事",
+   "label": "全国町村長大会に出席し、あいさつ",
+   "minutes": 19
+  },
+  {
+   "start": "12:12",
+   "end": "12:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 26
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "国会",
+   "label": "石破茂地方創生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "14:04",
+   "category": "国会",
+   "label": "参院地方創生特別委員会",
+   "minutes": 64
+  },
+  {
+   "start": "14:04",
+   "end": "14:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:06",
+   "end": "14:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:08",
+   "end": "15:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 74
+  },
+  {
+   "start": "15:22",
+   "end": "15:26",
+   "category": "面会・会談",
+   "label": "山田賢司自民党衆院議員ら",
+   "minutes": 4
+  },
+  {
+   "start": "15:26",
+   "end": "15:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:29",
+   "end": "16:01",
+   "category": "取材・会見",
+   "label": "産経新聞のインタビュー",
+   "minutes": 32
+  },
+  {
+   "start": "16:01",
+   "end": "16:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:02",
+   "end": "16:25",
+   "category": "取材・会見",
+   "label": "読売新聞のインタビュー",
+   "minutes": 23
+  },
+  {
+   "start": "16:25",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "17:06",
+   "end": "17:18",
+   "category": "式典・行事",
+   "label": "子ども若者育成・子育て支援功労者への表彰。有村治子女性活躍・少子化担当相同席",
+   "minutes": 12
+  },
+  {
+   "start": "17:18",
+   "end": "17:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:19",
+   "end": "17:28",
+   "category": "党務",
+   "label": "自民党の衛藤征士郎外交・経済連携本部長、秋葉賢也外交部会長",
+   "minutes": 9
+  },
+  {
+   "start": "17:28",
+   "end": "17:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:29",
+   "end": "17:46",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官 平松賢司総合外交政策局長 黒江哲郎防衛政策局長 河野克俊統合幕僚長",
+   "minutes": 17
+  },
+  {
+   "start": "17:46",
+   "end": "17:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "17:55",
+   "end": "18:30",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官",
+   "minutes": 35
+  },
+  {
+   "start": "18:30",
+   "end": "19:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "19:41",
+   "end": "20:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "20:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 237
+  }
+ ],
+ "alloc_min": {
+  "居所": 729,
+  "移動": 73,
+  "公務（内容未詳）": 256,
+  "官邸執務": 85,
+  "面会・会談": 124,
+  "党務": 22,
+  "式典・行事": 31,
+  "国会": 65,
+  "取材・会見": 55
+ }
+}

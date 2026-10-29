@@ -1,0 +1,151 @@
+{
+ "date": "2025-10-12",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 388,
+ "residence_min": 985,
+ "meetings": 0,
+ "first_work": "16:25",
+ "events": [
+  {
+   "time": "16:25",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:37",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "19:21",
+   "label": "ＪＲ新大阪駅",
+   "place": "ＪＲ新大阪駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:24",
+   "label": "移動",
+   "place": "ＪＲ新大阪駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:43",
+   "label": "大阪市中央区 ホテルニューオータニ大阪",
+   "place": "大阪市中央区 ホテルニューオータニ大阪",
+   "category": "移動"
+  },
+  {
+   "time": "20:10",
+   "label": "移動",
+   "place": "大阪市中央区 ホテルニューオータニ大阪",
+   "category": "移動"
+  },
+  {
+   "time": "20:30",
+   "label": "青木一彦官房副長官、秘書官と食事",
+   "place": "同市北区 カウラナビル着。「串　創作料理　Ｒｉｎ」",
+   "category": "会食"
+  },
+  {
+   "time": "22:42",
+   "label": "移動",
+   "place": "同市北区 カウラナビル着。「串　創作料理　Ｒｉｎ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "大阪市中央区 ホテルニューオータニ大阪",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 985
+  },
+  {
+   "start": "16:25",
+   "end": "16:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "16:37",
+   "end": "16:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "16:51",
+   "end": "19:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 150
+  },
+  {
+   "start": "19:21",
+   "end": "19:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "19:24",
+   "end": "19:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "19:43",
+   "end": "20:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "20:10",
+   "end": "20:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "20:30",
+   "end": "22:42",
+   "category": "会食",
+   "label": "青木一彦官房副長官、秘書官と食事",
+   "minutes": 132
+  },
+  {
+   "start": "22:42",
+   "end": "22:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "22:53",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 67
+  }
+ ],
+ "alloc_min": {
+  "居所": 985,
+  "移動": 92,
+  "公務（内容未詳）": 164,
+  "会食": 132,
+  "個人": 67
+ }
+}

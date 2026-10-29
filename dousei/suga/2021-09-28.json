@@ -1,0 +1,356 @@
+{
+ "date": "2021-09-28",
+ "pm": "菅義偉",
+ "source": null,
+ "work_min": 816,
+ "residence_min": 624,
+ "meetings": 2,
+ "first_work": "07:13",
+ "events": [
+  {
+   "time": "07:13",
+   "label": "移動",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "移動"
+  },
+  {
+   "time": "08:00",
+   "label": "加藤勝信官房長官 沖田芳樹内閣危機管理監 滝沢裕昭内閣情報官 岡野正敬総合外交政策局長 山崎幸二統合幕僚長 ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:01",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:03",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:10",
+   "label": "元宿仁自民党本部事務総長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "09:34",
+   "label": "自民党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "10:02",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:55",
+   "label": "北村経夫自民党参院議員、同党山口県連の友田有幹事長、柳居俊学常任顧問",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院議院運営委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "14:00",
+   "label": "参院議院運営委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:08",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "新型コロナウイルス感染症対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:01",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:44",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 433
+  },
+  {
+   "start": "07:13",
+   "end": "07:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "07:16",
+   "end": "08:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "08:00",
+   "end": "08:05",
+   "category": "面会・会談",
+   "label": "加藤勝信官房長官 沖田芳樹内閣危機管理監 滝沢裕昭内閣情報官 岡野正敬総合外交政策局長 山崎幸二統合幕僚長 ら",
+   "minutes": 5
+  },
+  {
+   "start": "08:05",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "09:01",
+   "end": "09:02",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:02",
+   "end": "09:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:03",
+   "end": "09:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "09:07",
+   "end": "09:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:10",
+   "end": "09:30",
+   "category": "党務",
+   "label": "元宿仁自民党本部事務総長",
+   "minutes": 20
+  },
+  {
+   "start": "09:30",
+   "end": "09:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:34",
+   "end": "09:50",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 16
+  },
+  {
+   "start": "09:50",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:52",
+   "end": "09:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "09:56",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "10:02",
+   "end": "10:13",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "10:13",
+   "end": "10:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "10:55",
+   "end": "11:10",
+   "category": "面会・会談",
+   "label": "北村経夫自民党参院議員、同党山口県連の友田有幹事長、柳居俊学常任顧問",
+   "minutes": 15
+  },
+  {
+   "start": "11:10",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 103
+  },
+  {
+   "start": "12:53",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "13:47",
+   "category": "国会",
+   "label": "衆院議院運営委員会",
+   "minutes": 47
+  },
+  {
+   "start": "13:47",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "14:00",
+   "end": "15:05",
+   "category": "国会",
+   "label": "参院議院運営委員会",
+   "minutes": 65
+  },
+  {
+   "start": "15:05",
+   "end": "15:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:08",
+   "end": "15:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "15:11",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 110
+  },
+  {
+   "start": "17:01",
+   "end": "17:26",
+   "category": "官邸執務",
+   "label": "新型コロナウイルス感染症対策本部",
+   "minutes": 25
+  },
+  {
+   "start": "17:26",
+   "end": "19:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 95
+  },
+  {
+   "start": "19:01",
+   "end": "20:05",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 64
+  },
+  {
+   "start": "20:05",
+   "end": "20:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "20:44",
+   "end": "20:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "20:49",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 191
+  }
+ ],
+ "alloc_min": {
+  "居所": 624,
+  "移動": 21,
+  "公務（内容未詳）": 526,
+  "面会・会談": 20,
+  "取材・会見": 65,
+  "党務": 36,
+  "官邸執務": 36,
+  "国会": 112
+ }
+}

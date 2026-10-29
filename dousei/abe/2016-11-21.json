@@ -1,0 +1,83 @@
+{
+ "date": "2016-11-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "日系アルゼンチン人による歓迎会に出席し、あいさつ",
+   "place": "ブエノスアイレスの「在亜沖縄県人連合会会館」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "日亜経済フォーラム",
+   "place": "市内の「ヒルトン・ブエノスアイレス・ホテル」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同大統領主催の昼食会",
+   "place": "大統領府博物館",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "マクリ大統領と共同記者発表",
+   "place": "アルゼンチンの首都ブエノスアイレスの大統領官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "アルゼンチンのマクリ大統領と会談",
+   "place": "アルゼンチンの首都ブエノスアイレスの大統領官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "献花式",
+   "place": "市内の「サンマルティン広場」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "エセイサ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "「ホテル・エンペラドール・ブエノスアイレス」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "市内の「ホテル・エンペラドール・ブエノスアイレス」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "アルゼンチンの首都ブエノスアイレスのエセイサ国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

@@ -1,0 +1,366 @@
+{
+ "date": "2016-07-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 652,
+ "residence_min": 788,
+ "meetings": 2,
+ "first_work": "08:41",
+ "events": [
+  {
+   "time": "08:41",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "菅義偉官房長官 梨田和也南部アジア部長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:09",
+   "label": "国家安全保障会議。河野太郎国家公安委員長同席",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:27",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:22",
+   "label": "街頭演説",
+   "place": "ＪＲ千葉駅前",
+   "category": "党務"
+  },
+  {
+   "time": "11:25",
+   "label": "街頭演説",
+   "place": "ＪＲ津田沼駅前",
+   "category": "党務"
+  },
+  {
+   "time": "12:29",
+   "label": "昼食",
+   "place": "千葉県市川市 そば店「本八幡松栄庵」",
+   "category": "会食"
+  },
+  {
+   "time": "13:17",
+   "label": "街頭演説",
+   "place": "ＪＲ市川駅前",
+   "category": "党務"
+  },
+  {
+   "time": "14:02",
+   "label": "移動",
+   "place": "ＪＲ市川駅前",
+   "category": "移動"
+  },
+  {
+   "time": "14:57",
+   "label": "街頭演説",
+   "place": "東京・豊洲 ホームセンター「スーパービバホーム豊洲店」前",
+   "category": "党務"
+  },
+  {
+   "time": "15:38",
+   "label": "移動",
+   "place": "東京・豊洲 ホームセンター「スーパービバホーム豊洲店」前",
+   "category": "移動"
+  },
+  {
+   "time": "16:15",
+   "label": "街頭演説",
+   "place": "東京・銀座 三越銀座店前",
+   "category": "党務"
+  },
+  {
+   "time": "16:43",
+   "label": "移動",
+   "place": "東京・銀座 三越銀座店前",
+   "category": "移動"
+  },
+  {
+   "time": "16:51",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:32",
+   "label": "街頭演説",
+   "place": "ＪＲ渋谷駅ハチ公口",
+   "category": "党務"
+  },
+  {
+   "time": "18:04",
+   "label": "移動",
+   "place": "ＪＲ渋谷駅ハチ公口",
+   "category": "移動"
+  },
+  {
+   "time": "18:20",
+   "label": "杉田和博官房副長官 西村泰彦内閣危機管理監 北村滋内閣情報官 山崎和之官房長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 521
+  },
+  {
+   "start": "08:41",
+   "end": "08:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "08:53",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:55",
+   "end": "09:08",
+   "category": "面会・会談",
+   "label": "菅義偉官房長官 梨田和也南部アジア部長",
+   "minutes": 13
+  },
+  {
+   "start": "09:08",
+   "end": "09:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:09",
+   "end": "09:20",
+   "category": "官邸執務",
+   "label": "国家安全保障会議。河野太郎国家公安委員長同席",
+   "minutes": 11
+  },
+  {
+   "start": "09:20",
+   "end": "09:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:27",
+   "end": "09:30",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "09:30",
+   "end": "09:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:31",
+   "end": "10:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 51
+  },
+  {
+   "start": "10:22",
+   "end": "10:57",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "10:57",
+   "end": "11:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "11:25",
+   "end": "12:02",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 37
+  },
+  {
+   "start": "12:02",
+   "end": "12:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "12:29",
+   "end": "12:57",
+   "category": "会食",
+   "label": "昼食",
+   "minutes": 28
+  },
+  {
+   "start": "12:57",
+   "end": "13:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "13:17",
+   "end": "14:02",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 45
+  },
+  {
+   "start": "14:02",
+   "end": "14:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 55
+  },
+  {
+   "start": "14:57",
+   "end": "15:38",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 41
+  },
+  {
+   "start": "15:38",
+   "end": "16:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "16:15",
+   "end": "16:43",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 28
+  },
+  {
+   "start": "16:43",
+   "end": "16:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 26
+  },
+  {
+   "start": "17:17",
+   "end": "17:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "17:32",
+   "end": "18:04",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "18:04",
+   "end": "18:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:15",
+   "end": "18:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:20",
+   "end": "18:30",
+   "category": "面会・会談",
+   "label": "杉田和博官房副長官 西村泰彦内閣危機管理監 北村滋内閣情報官 山崎和之官房長 河野克俊統合幕僚長",
+   "minutes": 10
+  },
+  {
+   "start": "18:30",
+   "end": "19:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "19:17",
+   "end": "19:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "19:33",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 267
+  }
+ ],
+ "alloc_min": {
+  "居所": 788,
+  "移動": 205,
+  "公務（内容未詳）": 138,
+  "面会・会談": 23,
+  "官邸執務": 37,
+  "取材・会見": 3,
+  "党務": 218,
+  "会食": 28
+ }
+}

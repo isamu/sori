@@ -1,0 +1,158 @@
+{
+ "date": "2016-07-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 480,
+ "residence_min": 960,
+ "meetings": 2,
+ "first_work": "11:21",
+ "events": [
+  {
+   "time": "11:21",
+   "label": "北村滋内閣情報官",
+   "place": "別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:36",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "12:46",
+   "label": "北村内閣情報官、秘書官と食事",
+   "place": "同県富士河口湖町 ハンバーガー店「ムースヒルズバーガー」",
+   "category": "会食"
+  },
+  {
+   "time": "14:03",
+   "label": "移動",
+   "place": "同県富士河口湖町 ハンバーガー店「ムースヒルズバーガー」",
+   "category": "移動"
+  },
+  {
+   "time": "14:13",
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  },
+  {
+   "time": "18:51",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "18:59",
+   "label": "増岡聡一郎鉄鋼ビルディング専務らと食事",
+   "place": "同町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "会食"
+  },
+  {
+   "time": "21:08",
+   "label": "移動",
+   "place": "同町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "移動"
+  },
+  {
+   "time": "21:17",
+   "label": "増岡氏ら",
+   "place": "別荘",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 681
+  },
+  {
+   "start": "11:21",
+   "end": "12:35",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 74
+  },
+  {
+   "start": "12:35",
+   "end": "12:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "12:36",
+   "end": "12:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "12:46",
+   "end": "14:03",
+   "category": "会食",
+   "label": "北村内閣情報官、秘書官と食事",
+   "minutes": 77
+  },
+  {
+   "start": "14:03",
+   "end": "14:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "14:13",
+   "end": "18:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 278
+  },
+  {
+   "start": "18:51",
+   "end": "18:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:59",
+   "end": "21:08",
+   "category": "会食",
+   "label": "増岡聡一郎鉄鋼ビルディング専務らと食事",
+   "minutes": 129
+  },
+  {
+   "start": "21:08",
+   "end": "21:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "21:16",
+   "end": "21:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "21:17",
+   "end": "24:00",
+   "category": "面会・会談",
+   "label": "増岡氏ら",
+   "minutes": 163
+  }
+ ],
+ "alloc_min": {
+  "居所": 960,
+  "面会・会談": 237,
+  "移動": 36,
+  "会食": 206,
+  "公務（内容未詳）": 1
+ }
+}

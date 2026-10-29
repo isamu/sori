@@ -1,0 +1,276 @@
+{
+ "date": "2023-11-19",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 785,
+ "residence_min": 655,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "00:13",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "00:30",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "00:53",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "07:46",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:09",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:37",
+   "label": "広島空港",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:46",
+   "label": "移動",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:04",
+   "label": "裕子夫人の父・故和田邦二郎氏の葬儀に参列",
+   "place": "広島県三次市 斎場「平安祭典　三次会館」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:39",
+   "label": "移動",
+   "place": "広島県三次市 斎場「平安祭典　三次会館」",
+   "category": "移動"
+  },
+  {
+   "time": "14:05",
+   "label": "同市 火葬場「三次市斎場悠久の森」",
+   "place": "同市 火葬場「三次市斎場悠久の森」",
+   "category": "移動"
+  },
+  {
+   "time": "15:28",
+   "label": "移動",
+   "place": "同市 火葬場「三次市斎場悠久の森」",
+   "category": "移動"
+  },
+  {
+   "time": "16:36",
+   "label": "広島空港",
+   "place": "広島空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:41",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:01",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:30",
+   "label": "同会の故池田大作名誉会長の弔問。原田稔会長、池田博正主任副会長と面会",
+   "place": "東京・信濃町 創価学会本部別館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:49",
+   "label": "移動",
+   "place": "東京・信濃町 創価学会本部別館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:13",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 13
+  },
+  {
+   "start": "00:13",
+   "end": "00:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "00:30",
+   "end": "00:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "00:53",
+   "end": "07:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 413
+  },
+  {
+   "start": "07:46",
+   "end": "08:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "08:09",
+   "end": "08:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "08:33",
+   "end": "09:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 64
+  },
+  {
+   "start": "09:37",
+   "end": "09:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "09:46",
+   "end": "11:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 78
+  },
+  {
+   "start": "11:04",
+   "end": "13:39",
+   "category": "式典・行事",
+   "label": "裕子夫人の父・故和田邦二郎氏の葬儀に参列",
+   "minutes": 155
+  },
+  {
+   "start": "13:39",
+   "end": "14:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "14:05",
+   "end": "15:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 83
+  },
+  {
+   "start": "15:28",
+   "end": "16:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 68
+  },
+  {
+   "start": "16:36",
+   "end": "17:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 42
+  },
+  {
+   "start": "17:18",
+   "end": "18:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 83
+  },
+  {
+   "start": "18:41",
+   "end": "19:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "19:01",
+   "end": "19:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "19:28",
+   "end": "19:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:30",
+   "end": "19:45",
+   "category": "式典・行事",
+   "label": "同会の故池田大作名誉会長の弔問。原田稔会長、池田博正主任副会長と面会",
+   "minutes": 15
+  },
+  {
+   "start": "19:45",
+   "end": "19:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "19:49",
+   "end": "19:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:58",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 242
+  }
+ ],
+ "alloc_min": {
+  "外遊": 13,
+  "移動": 449,
+  "居所": 655,
+  "公務（内容未詳）": 153,
+  "式典・行事": 170
+ }
+}

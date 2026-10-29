@@ -1,0 +1,93 @@
+{
+ "date": "2024-08-03",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 207,
+ "residence_min": 1132,
+ "meetings": 1,
+ "first_work": "13:14",
+ "events": [
+  {
+   "time": "13:14",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:21",
+   "label": "同ホテル内の「ヘアサロン大野」で散髪",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "個人"
+  },
+  {
+   "time": "15:02",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "16:57",
+   "label": "林芳正官房長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 794
+  },
+  {
+   "start": "13:14",
+   "end": "13:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "13:21",
+   "end": "15:02",
+   "category": "個人",
+   "label": "同ホテル内の「ヘアサロン大野」で散髪",
+   "minutes": 101
+  },
+  {
+   "start": "15:02",
+   "end": "15:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "15:10",
+   "end": "16:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 107
+  },
+  {
+   "start": "16:57",
+   "end": "18:22",
+   "category": "面会・会談",
+   "label": "林芳正官房長官",
+   "minutes": 85
+  },
+  {
+   "start": "18:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 338
+  }
+ ],
+ "alloc_min": {
+  "居所": 1132,
+  "移動": 15,
+  "個人": 101,
+  "公務（内容未詳）": 107,
+  "面会・会談": 85
+ }
+}

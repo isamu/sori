@@ -1,0 +1,65 @@
+{
+ "date": "2014-05-02",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.05.02",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間1日）午後、ロンドンの金融街シティーのギルドホールで晩餐（ばんさん）会に出席し、スピーチ",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ドーチェスターホテル泊",
+   "place": "ドーチェスターホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間2日）午前、日立製作所の高速列車に試乗",
+   "place": "ドーチェスターホテル",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "オリンピックパークを視察",
+   "place": "ドーチェスターホテル",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "ラグビーのトゥイッケナム競技場を視察",
+   "place": "ドーチェスターホテル",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "午後、政府専用機でヒースロー空港発",
+   "place": "ドーチェスターホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ポルトガル・リスボンのフィーゴ・マドゥーロ軍事空港着",
+   "place": "フィーゴ・マドゥーロ軍事空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

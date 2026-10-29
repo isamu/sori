@@ -1,0 +1,227 @@
+{
+ "date": "2016-02-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 222,
+ "residence_min": 1218,
+ "meetings": 1,
+ "first_work": "09:42",
+ "events": [
+  {
+   "time": "09:42",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:44",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:14",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:27",
+   "label": "岸田文雄外相 谷内正太郎国家安全保障局長 秋葉剛男総合外交政策局長 石兼公博アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:38",
+   "label": "北方領土返還要求全国大会に出席し、あいさつ",
+   "place": "東京・日比谷公園 日比谷公会堂",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:22",
+   "label": "移動",
+   "place": "東京・日比谷公園 日比谷公会堂",
+   "category": "移動"
+  },
+  {
+   "time": "13:01",
+   "label": "拉致問題に関する4大臣会合",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:10",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:11",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "13:16",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 582
+  },
+  {
+   "start": "09:42",
+   "end": "09:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:43",
+   "end": "09:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:44",
+   "end": "09:45",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:45",
+   "end": "10:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "10:14",
+   "end": "10:26",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 12
+  },
+  {
+   "start": "10:26",
+   "end": "10:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:27",
+   "end": "11:11",
+   "category": "面会・会談",
+   "label": "岸田文雄外相 谷内正太郎国家安全保障局長 秋葉剛男総合外交政策局長 石兼公博アジア大洋州局長",
+   "minutes": 44
+  },
+  {
+   "start": "11:11",
+   "end": "11:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "11:36",
+   "end": "11:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:38",
+   "end": "12:22",
+   "category": "式典・行事",
+   "label": "北方領土返還要求全国大会に出席し、あいさつ",
+   "minutes": 44
+  },
+  {
+   "start": "12:22",
+   "end": "12:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:25",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "13:01",
+   "end": "13:09",
+   "category": "官邸執務",
+   "label": "拉致問題に関する4大臣会合",
+   "minutes": 8
+  },
+  {
+   "start": "13:09",
+   "end": "13:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:10",
+   "end": "13:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:11",
+   "end": "13:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 5
+  },
+  {
+   "start": "13:16",
+   "end": "13:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "13:29",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 631
+  }
+ ],
+ "alloc_min": {
+  "居所": 1218,
+  "移動": 20,
+  "公務（内容未詳）": 93,
+  "取材・会見": 1,
+  "官邸執務": 20,
+  "面会・会談": 44,
+  "式典・行事": 44
+ }
+}

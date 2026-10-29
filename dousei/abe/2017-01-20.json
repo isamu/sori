@@ -1,0 +1,640 @@
+{
+ "date": "2017-01-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 731,
+ "residence_min": 709,
+ "meetings": 3,
+ "first_work": "09:02",
+ "events": [
+  {
+   "time": "09:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:29",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:46",
+   "label": "山本幸三規制改革担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:54",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:02",
+   "label": "国家戦略特区諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:28",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:32",
+   "label": "自民党両院議員総会",
+   "place": "国会 衆院第14控室",
+   "category": "党務"
+  },
+  {
+   "time": "11:37",
+   "label": "自民党代議士会",
+   "place": "国会 衆院第14控室",
+   "category": "党務"
+  },
+  {
+   "time": "11:45",
+   "label": "高市早苗総務相",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:09",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:37",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:40",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "第１９３通常国会開会式",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:12",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "13:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:41",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:44",
+   "label": "大島理森議長、佐藤勉衆院議院運営委員長にあいさつ。菅義偉、萩生田光一正副官房長官同席",
+   "place": "国会 衆院議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:47",
+   "label": "川端達夫副議長にあいさつ。菅、萩生田正副官房長官同席",
+   "place": "国会 衆院副議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:50",
+   "label": "伊達忠一議長、山本順三参院議院運営委員長にあいさつ。菅、野上浩太郎正副官房長官同席",
+   "place": "国会 参院議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:51",
+   "label": "郡司彰副議長にあいさつ。菅、野上正副官房長官同席",
+   "place": "国会 参院副議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:55",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議。施政方針演説",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:29",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:36",
+   "label": "参院本会議。施政方針演説",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:53",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:19",
+   "label": "谷内正太郎国家安全保障局長 塩川実喜夫内閣衛星情報センター次長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:09",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:17",
+   "label": "虎ノ門ヒルズフォーラムで「女性リーダーのための経営戦略講座」レセプションに出席し、あいさつ",
+   "place": "東京・虎ノ門 虎ノ門ヒルズ",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:36",
+   "label": "移動",
+   "place": "東京・虎ノ門 虎ノ門ヒルズ",
+   "category": "移動"
+  },
+  {
+   "time": "19:01",
+   "label": "成蹊小学校時代の同級生と食事",
+   "place": "東京・両国 ちゃんこ料理店「巴潟」",
+   "category": "会食"
+  },
+  {
+   "time": "20:55",
+   "label": "移動",
+   "place": "東京・両国 ちゃんこ料理店「巴潟」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 542
+  },
+  {
+   "start": "09:02",
+   "end": "09:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "09:21",
+   "end": "09:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:29",
+   "end": "09:42",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 13
+  },
+  {
+   "start": "09:42",
+   "end": "09:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:46",
+   "end": "09:53",
+   "category": "面会・会談",
+   "label": "山本幸三規制改革担当相",
+   "minutes": 7
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:54",
+   "end": "09:59",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 5
+  },
+  {
+   "start": "09:59",
+   "end": "11:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "11:02",
+   "end": "11:21",
+   "category": "官邸執務",
+   "label": "国家戦略特区諮問会議",
+   "minutes": 19
+  },
+  {
+   "start": "11:21",
+   "end": "11:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "11:28",
+   "end": "11:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:30",
+   "end": "11:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:32",
+   "end": "11:36",
+   "category": "党務",
+   "label": "自民党両院議員総会",
+   "minutes": 4
+  },
+  {
+   "start": "11:36",
+   "end": "11:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:37",
+   "end": "11:41",
+   "category": "党務",
+   "label": "自民党代議士会",
+   "minutes": 4
+  },
+  {
+   "start": "11:41",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:45",
+   "end": "11:53",
+   "category": "国会",
+   "label": "高市早苗総務相",
+   "minutes": 8
+  },
+  {
+   "start": "11:53",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:57",
+   "end": "11:58",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "11:58",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "12:02",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 3
+  },
+  {
+   "start": "12:05",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:07",
+   "end": "12:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 28
+  },
+  {
+   "start": "12:37",
+   "end": "12:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:39",
+   "end": "12:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 11
+  },
+  {
+   "start": "12:51",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:00",
+   "end": "13:08",
+   "category": "国会",
+   "label": "第１９３通常国会開会式",
+   "minutes": 8
+  },
+  {
+   "start": "13:08",
+   "end": "13:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:12",
+   "end": "13:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 27
+  },
+  {
+   "start": "13:41",
+   "end": "13:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:43",
+   "end": "13:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:44",
+   "end": "13:47",
+   "category": "国会",
+   "label": "大島理森議長、佐藤勉衆院議院運営委員長にあいさつ。菅義偉、萩生田光一正副官房長官同席",
+   "minutes": 3
+  },
+  {
+   "start": "13:47",
+   "end": "13:50",
+   "category": "国会",
+   "label": "川端達夫副議長にあいさつ。菅、萩生田正副官房長官同席",
+   "minutes": 3
+  },
+  {
+   "start": "13:50",
+   "end": "13:51",
+   "category": "国会",
+   "label": "伊達忠一議長、山本順三参院議院運営委員長にあいさつ。菅、野上浩太郎正副官房長官同席",
+   "minutes": 1
+  },
+  {
+   "start": "13:51",
+   "end": "13:52",
+   "category": "国会",
+   "label": "郡司彰副議長にあいさつ。菅、野上正副官房長官同席",
+   "minutes": 1
+  },
+  {
+   "start": "13:52",
+   "end": "13:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "14:00",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:02",
+   "end": "15:25",
+   "category": "国会",
+   "label": "衆院本会議。施政方針演説",
+   "minutes": 83
+  },
+  {
+   "start": "15:25",
+   "end": "15:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 3
+  },
+  {
+   "start": "15:32",
+   "end": "15:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:36",
+   "end": "16:51",
+   "category": "国会",
+   "label": "参院本会議。施政方針演説",
+   "minutes": 75
+  },
+  {
+   "start": "16:51",
+   "end": "16:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:53",
+   "end": "16:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:55",
+   "end": "17:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "17:19",
+   "end": "17:27",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 塩川実喜夫内閣衛星情報センター次長 北村滋内閣情報官",
+   "minutes": 8
+  },
+  {
+   "start": "17:27",
+   "end": "18:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "18:09",
+   "end": "18:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:17",
+   "end": "18:36",
+   "category": "式典・行事",
+   "label": "虎ノ門ヒルズフォーラムで「女性リーダーのための経営戦略講座」レセプションに出席し、あいさつ",
+   "minutes": 19
+  },
+  {
+   "start": "18:36",
+   "end": "19:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "19:01",
+   "end": "20:55",
+   "category": "会食",
+   "label": "成蹊小学校時代の同級生と食事",
+   "minutes": 114
+  },
+  {
+   "start": "20:55",
+   "end": "21:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "21:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 167
+  }
+ ],
+ "alloc_min": {
+  "居所": 709,
+  "移動": 82,
+  "公務（内容未詳）": 196,
+  "官邸執務": 87,
+  "面会・会談": 20,
+  "党務": 8,
+  "国会": 205,
+  "式典・行事": 19,
+  "会食": 114
+ }
+}

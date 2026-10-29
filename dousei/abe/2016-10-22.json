@@ -1,0 +1,178 @@
+{
+ "date": "2016-10-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 206,
+ "residence_min": 941,
+ "meetings": 0,
+ "first_work": "09:40",
+ "events": [
+  {
+   "time": "09:40",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:09",
+   "label": "移動",
+   "place": "東京・市谷本村町 防衛省",
+   "category": "移動"
+  },
+  {
+   "time": "11:17",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "11:45",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:59",
+   "label": "「あしなが学生募金」に寄付。下村博文自民党幹事長代行同席",
+   "place": "ＪＲ新宿駅前",
+   "category": "党務"
+  },
+  {
+   "time": "12:18",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "15:08",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:53",
+   "label": "同ホテル内の宴会場「飛鳥」で成蹊小卒業５０周年の同窓会に出席",
+   "place": "東京都武蔵野市 吉祥寺第一ホテル",
+   "category": "個人"
+  },
+  {
+   "time": "20:46",
+   "label": "移動",
+   "place": "東京都武蔵野市 吉祥寺第一ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 580
+  },
+  {
+   "start": "09:40",
+   "end": "09:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "09:58",
+   "end": "11:09",
+   "category": "式典・行事",
+   "label": "自衛隊殉職隊員追悼式に参列し、追悼の辞、献花",
+   "minutes": 71
+  },
+  {
+   "start": "11:09",
+   "end": "11:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:17",
+   "end": "11:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 28
+  },
+  {
+   "start": "11:45",
+   "end": "11:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "11:59",
+   "end": "12:04",
+   "category": "党務",
+   "label": "「あしなが学生募金」に寄付。下村博文自民党幹事長代行同席",
+   "minutes": 5
+  },
+  {
+   "start": "12:04",
+   "end": "12:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "12:18",
+   "end": "15:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 170
+  },
+  {
+   "start": "15:08",
+   "end": "15:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 45
+  },
+  {
+   "start": "15:53",
+   "end": "20:46",
+   "category": "個人",
+   "label": "同ホテル内の宴会場「飛鳥」で成蹊小卒業５０周年の同窓会に出席",
+   "minutes": 293
+  },
+  {
+   "start": "20:46",
+   "end": "21:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "21:17",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 163
+  }
+ ],
+ "alloc_min": {
+  "居所": 941,
+  "移動": 116,
+  "式典・行事": 71,
+  "党務": 5,
+  "公務（内容未詳）": 14,
+  "個人": 293
+ }
+}

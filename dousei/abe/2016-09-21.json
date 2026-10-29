@@ -1,0 +1,77 @@
+{
+ "date": "2016-09-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 5,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "トルコのエルドアン大統領と会談",
+   "place": "ホテル「ザ・ペニンシュラ・ニューヨーク」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "シリア情勢に関する国連安保理ハイレベル会合に出席",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "中国の李克強首相と立ち話",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "投資家や金融関係者に講演",
+   "place": "トムソン・ロイター本社",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日本政府主催の和食レセプションに出席",
+   "place": "カーネギーホール",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "イランのロウハニ大統領と会談",
+   "place": "ホテル「Ｏｎｅ・ＵＮ・ＮＹ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "国連総会で一般討論演説",
+   "place": "国連本部",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "バイデン米副大統領の表敬",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ザ・キタノ・ニューヨーク」",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

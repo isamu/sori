@@ -1,0 +1,77 @@
+{
+ "date": "2019-08-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 4,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "拡大セッション",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "先進７カ国首脳会議（Ｇ７サミット）セッション",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "劇場「ガール・デュ・ミディ」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "セッション",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "拡大ワーキングランチ",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "フランス南西部のボルドー・メリニャック空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "フランス南西部のボルドー・メリニャック空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "軍用機で発",
+   "place": "ビアリッツ・アングレ・バイヨンヌ空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ジョンソン英首相と会談",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

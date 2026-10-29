@@ -1,0 +1,259 @@
+{
+ "date": "2019-10-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 496,
+ "residence_min": 944,
+ "meetings": 1,
+ "first_work": "08:30",
+ "events": [
+  {
+   "time": "08:30",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:44",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:29",
+   "label": "今井絵理子内閣府政務官、務台俊介自民党衆院議員、阿部守一知事出迎え",
+   "place": "長野市 長野運動公園総合運動場",
+   "category": "移動"
+  },
+  {
+   "time": "10:35",
+   "label": "移動",
+   "place": "長野市 長野運動公園総合運動場",
+   "category": "移動"
+  },
+  {
+   "time": "10:50",
+   "label": "台風１９号の被害現場を視察、黙とう",
+   "place": "同市穂保地区 千曲川",
+   "category": "視察"
+  },
+  {
+   "time": "11:10",
+   "label": "移動",
+   "place": "同市穂保地区 千曲川",
+   "category": "移動"
+  },
+  {
+   "time": "11:31",
+   "label": "避難所で被災者を激励",
+   "place": "同市 運動施設「北部スポーツ・レクリエーションパーク」",
+   "category": "視察"
+  },
+  {
+   "time": "12:05",
+   "label": "移動",
+   "place": "同市 運動施設「北部スポーツ・レクリエーションパーク」",
+   "category": "移動"
+  },
+  {
+   "time": "12:33",
+   "label": "阿部知事、加藤久雄市長らと意見交換、要望書受け取り",
+   "place": "長野県庁",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:16",
+   "label": "報道各社のインタビュー",
+   "place": "長野県庁",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:22",
+   "label": "移動",
+   "place": "長野県庁",
+   "category": "移動"
+  },
+  {
+   "time": "13:38",
+   "label": "地元住民らと握手、写真撮影",
+   "place": "同市 長野運動公園総合運動場",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:03",
+   "label": "台風１９号非常災害対策本部会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:30",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "陸上自衛隊ヘリコプターで長野県の千曲川周辺など台風１９号の被害現場を上空から視察",
+   "place": "—",
+   "category": "視察"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 510
+  },
+  {
+   "start": "08:30",
+   "end": "08:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 18
+  },
+  {
+   "start": "09:02",
+   "end": "10:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 87
+  },
+  {
+   "start": "10:29",
+   "end": "10:35",
+   "category": "移動",
+   "label": "今井絵理子内閣府政務官、務台俊介自民党衆院議員、阿部守一知事出迎え",
+   "minutes": 6
+  },
+  {
+   "start": "10:35",
+   "end": "10:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "10:50",
+   "end": "11:10",
+   "category": "視察",
+   "label": "台風１９号の被害現場を視察、黙とう",
+   "minutes": 20
+  },
+  {
+   "start": "11:10",
+   "end": "11:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "11:31",
+   "end": "12:05",
+   "category": "視察",
+   "label": "避難所で被災者を激励",
+   "minutes": 34
+  },
+  {
+   "start": "12:05",
+   "end": "12:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "12:33",
+   "end": "13:16",
+   "category": "面会・会談",
+   "label": "阿部知事、加藤久雄市長らと意見交換、要望書受け取り",
+   "minutes": 43
+  },
+  {
+   "start": "13:16",
+   "end": "13:20",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 4
+  },
+  {
+   "start": "13:20",
+   "end": "13:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:22",
+   "end": "13:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "13:38",
+   "end": "13:45",
+   "category": "式典・行事",
+   "label": "地元住民らと握手、写真撮影",
+   "minutes": 7
+  },
+  {
+   "start": "13:45",
+   "end": "16:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 138
+  },
+  {
+   "start": "16:03",
+   "end": "16:19",
+   "category": "官邸執務",
+   "label": "台風１９号非常災害対策本部会議",
+   "minutes": 16
+  },
+  {
+   "start": "16:19",
+   "end": "16:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "16:30",
+   "end": "16:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "16:46",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 434
+  }
+ ],
+ "alloc_min": {
+  "居所": 944,
+  "移動": 116,
+  "官邸執務": 34,
+  "公務（内容未詳）": 238,
+  "視察": 54,
+  "面会・会談": 43,
+  "取材・会見": 4,
+  "式典・行事": 7
+ }
+}

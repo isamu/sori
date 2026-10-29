@@ -1,0 +1,288 @@
+{
+ "date": "2024-01-31",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 668,
+ "residence_min": 772,
+ "meetings": 5,
+ "first_work": "08:24",
+ "events": [
+  {
+   "time": "08:24",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:30",
+   "label": "村井英樹官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:42",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:30",
+   "label": "「水戸の梅まつり」「筑波山梅まつり」関係者の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:53",
+   "label": "福本茂伸拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:15",
+   "label": "西田昭二総務政務官、尾崎正直国土交通政務官に辞令交付。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:41",
+   "label": "森屋宏官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:00",
+   "label": "村井英樹官房副長官 森屋宏官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:29",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:24",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 504
+  },
+  {
+   "start": "08:24",
+   "end": "08:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:25",
+   "end": "08:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:30",
+   "end": "10:44",
+   "category": "面会・会談",
+   "label": "村井英樹官房副長官",
+   "minutes": 134
+  },
+  {
+   "start": "10:44",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 127
+  },
+  {
+   "start": "12:51",
+   "end": "12:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:52",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 7
+  },
+  {
+   "start": "13:00",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:02",
+   "end": "15:41",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 159
+  },
+  {
+   "start": "15:41",
+   "end": "15:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:42",
+   "end": "15:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:44",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 106
+  },
+  {
+   "start": "17:30",
+   "end": "17:43",
+   "category": "面会・会談",
+   "label": "「水戸の梅まつり」「筑波山梅まつり」関係者の表敬",
+   "minutes": 13
+  },
+  {
+   "start": "17:43",
+   "end": "17:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:53",
+   "end": "18:03",
+   "category": "面会・会談",
+   "label": "福本茂伸拉致問題対策本部事務局長",
+   "minutes": 10
+  },
+  {
+   "start": "18:03",
+   "end": "18:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "18:15",
+   "end": "18:18",
+   "category": "式典・行事",
+   "label": "西田昭二総務政務官、尾崎正直国土交通政務官に辞令交付。記念撮影",
+   "minutes": 3
+  },
+  {
+   "start": "18:18",
+   "end": "18:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "18:41",
+   "end": "18:59",
+   "category": "面会・会談",
+   "label": "森屋宏官房副長官",
+   "minutes": 18
+  },
+  {
+   "start": "18:59",
+   "end": "19:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:00",
+   "end": "19:25",
+   "category": "面会・会談",
+   "label": "村井英樹官房副長官 森屋宏官房副長官",
+   "minutes": 25
+  },
+  {
+   "start": "19:25",
+   "end": "19:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "19:29",
+   "end": "19:31",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "19:31",
+   "end": "19:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:32",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 268
+  }
+ ],
+ "alloc_min": {
+  "居所": 772,
+  "移動": 5,
+  "公務（内容未詳）": 292,
+  "面会・会談": 200,
+  "国会": 166,
+  "式典・行事": 3,
+  "取材・会見": 2
+ }
+}

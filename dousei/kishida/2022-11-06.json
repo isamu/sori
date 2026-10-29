@@ -1,0 +1,266 @@
+{
+ "date": "2022-11-06",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 350,
+ "residence_min": 980,
+ "meetings": 1,
+ "first_work": "09:52",
+ "events": [
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:02",
+   "label": "海自ヘリ",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "10:02",
+   "label": "海上自衛隊のヘリコプターで官邸屋上へリポート発",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:10",
+   "label": "国際観艦式に出席し、観閲",
+   "place": "相模湾上の海自護衛艦「いずも」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:50",
+   "label": "隊員らに訓示",
+   "place": "相模湾上の海自護衛艦「いずも」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:44",
+   "label": "海自ヘリ",
+   "place": "相模湾上の海自護衛艦「いずも」",
+   "category": "移動"
+  },
+  {
+   "time": "14:06",
+   "label": "エマニュエル駐日米大使ら出迎え。懇談",
+   "place": "米海軍の原子力空母「ロナルド・レーガン」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:14",
+   "label": "艦内視察。浜田靖一防衛相が同行",
+   "place": "米海軍の原子力空母「ロナルド・レーガン」",
+   "category": "視察"
+  },
+  {
+   "time": "14:51",
+   "label": "海自ヘリ",
+   "place": "米海軍の原子力空母「ロナルド・レーガン」",
+   "category": "移動"
+  },
+  {
+   "time": "15:18",
+   "label": "官邸屋上へリポート着",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:21",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:22",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "16:42",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:52",
+   "label": "マッサージ",
+   "place": "東京・銀座 リラクセーションサロン「クイーンズウェイ銀座並木通り店」",
+   "category": "個人"
+  },
+  {
+   "time": "18:42",
+   "label": "移動",
+   "place": "東京・銀座 リラクセーションサロン「クイーンズウェイ銀座並木通り店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 592
+  },
+  {
+   "start": "09:52",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:53",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "10:02",
+   "end": "10:30",
+   "category": "移動",
+   "label": "海自ヘリ",
+   "minutes": 28
+  },
+  {
+   "start": "10:30",
+   "end": "11:10",
+   "category": "官邸執務",
+   "label": "海上自衛隊のヘリコプターで官邸屋上へリポート発",
+   "minutes": 40
+  },
+  {
+   "start": "11:10",
+   "end": "11:59",
+   "category": "式典・行事",
+   "label": "国際観艦式に出席し、観閲",
+   "minutes": 49
+  },
+  {
+   "start": "11:59",
+   "end": "12:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "12:50",
+   "end": "13:01",
+   "category": "式典・行事",
+   "label": "隊員らに訓示",
+   "minutes": 11
+  },
+  {
+   "start": "13:01",
+   "end": "13:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "13:44",
+   "end": "14:06",
+   "category": "移動",
+   "label": "海自ヘリ",
+   "minutes": 22
+  },
+  {
+   "start": "14:06",
+   "end": "14:14",
+   "category": "面会・会談",
+   "label": "エマニュエル駐日米大使ら出迎え。懇談",
+   "minutes": 8
+  },
+  {
+   "start": "14:14",
+   "end": "14:39",
+   "category": "視察",
+   "label": "艦内視察。浜田靖一防衛相が同行",
+   "minutes": 25
+  },
+  {
+   "start": "14:39",
+   "end": "14:51",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "14:51",
+   "end": "15:18",
+   "category": "移動",
+   "label": "海自ヘリ",
+   "minutes": 27
+  },
+  {
+   "start": "15:18",
+   "end": "15:21",
+   "category": "官邸執務",
+   "label": "官邸屋上へリポート着",
+   "minutes": 3
+  },
+  {
+   "start": "15:21",
+   "end": "15:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:22",
+   "end": "16:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 80
+  },
+  {
+   "start": "16:42",
+   "end": "16:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "16:52",
+   "end": "18:42",
+   "category": "個人",
+   "label": "マッサージ",
+   "minutes": 110
+  },
+  {
+   "start": "18:42",
+   "end": "18:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:52",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 308
+  }
+ ],
+ "alloc_min": {
+  "居所": 980,
+  "移動": 99,
+  "公務（内容未詳）": 103,
+  "官邸執務": 43,
+  "式典・行事": 60,
+  "面会・会談": 8,
+  "視察": 37,
+  "個人": 110
+ }
+}

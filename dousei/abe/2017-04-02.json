@@ -1,0 +1,77 @@
+{
+ "date": "2017-04-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 166,
+ "residence_min": 1274,
+ "meetings": 0,
+ "first_work": "12:01",
+ "events": [
+  {
+   "time": "12:01",
+   "label": "移動",
+   "place": "同県鳴沢村 別荘",
+   "category": "移動"
+  },
+  {
+   "time": "12:14",
+   "label": "昭恵夫人、秘書官と食事",
+   "place": "同県富士河口湖町 ハンバーガー店「ムースヒルズバーガー」",
+   "category": "会食"
+  },
+  {
+   "time": "13:24",
+   "label": "移動",
+   "place": "同県富士河口湖町 ハンバーガー店「ムースヒルズバーガー」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 721
+  },
+  {
+   "start": "12:01",
+   "end": "12:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "12:14",
+   "end": "13:24",
+   "category": "会食",
+   "label": "昭恵夫人、秘書官と食事",
+   "minutes": 70
+  },
+  {
+   "start": "13:24",
+   "end": "14:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 83
+  },
+  {
+   "start": "14:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 553
+  }
+ ],
+ "alloc_min": {
+  "居所": 1274,
+  "移動": 96,
+  "会食": 70
+ }
+}

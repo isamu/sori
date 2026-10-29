@@ -1,0 +1,396 @@
+{
+ "date": "2018-04-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 758,
+ "residence_min": 682,
+ "meetings": 4,
+ "first_work": "08:16",
+ "events": [
+  {
+   "time": "08:16",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:35",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:19",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:25",
+   "label": "麻生太郎副総理兼財務相 小野寺五典防衛相",
+   "place": "国会 衆院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "10:28",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "12:06",
+   "label": "移動",
+   "place": "国会 衆院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:07",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:19",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "17:30",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "17:33",
+   "label": "タイソン米海軍退役中将らの表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:50",
+   "label": "本田悦朗駐スイス大使",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:21",
+   "label": "ブータンのトブゲイ首相出迎え。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:22",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:30",
+   "label": "トブゲイ首相と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:19",
+   "label": "共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:32",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:33",
+   "label": "安倍晋三首相夫妻主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:53",
+   "label": "昭恵夫人とともにトブゲイ首相夫妻を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 496
+  },
+  {
+   "start": "08:16",
+   "end": "08:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:30",
+   "end": "08:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:35",
+   "end": "09:23",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 48
+  },
+  {
+   "start": "09:23",
+   "end": "10:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "10:19",
+   "end": "10:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "10:23",
+   "end": "10:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:25",
+   "end": "10:26",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 小野寺五典防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "10:26",
+   "end": "10:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:28",
+   "end": "12:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 93
+  },
+  {
+   "start": "12:01",
+   "end": "12:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:06",
+   "end": "12:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 47
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:15",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 255
+  },
+  {
+   "start": "17:15",
+   "end": "17:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:19",
+   "end": "17:28",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 9
+  },
+  {
+   "start": "17:28",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:30",
+   "end": "17:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:32",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:33",
+   "end": "17:49",
+   "category": "面会・会談",
+   "label": "タイソン米海軍退役中将らの表敬",
+   "minutes": 16
+  },
+  {
+   "start": "17:49",
+   "end": "17:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:50",
+   "end": "17:52",
+   "category": "面会・会談",
+   "label": "本田悦朗駐スイス大使",
+   "minutes": 2
+  },
+  {
+   "start": "17:52",
+   "end": "18:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "18:21",
+   "end": "18:22",
+   "category": "式典・行事",
+   "label": "ブータンのトブゲイ首相出迎え。記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "18:22",
+   "end": "18:28",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 6
+  },
+  {
+   "start": "18:28",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:30",
+   "end": "19:16",
+   "category": "面会・会談",
+   "label": "トブゲイ首相と首脳会談",
+   "minutes": 46
+  },
+  {
+   "start": "19:16",
+   "end": "19:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:19",
+   "end": "19:31",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 12
+  },
+  {
+   "start": "19:31",
+   "end": "19:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:32",
+   "end": "19:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:33",
+   "end": "20:53",
+   "category": "会食",
+   "label": "安倍晋三首相夫妻主催の夕食会",
+   "minutes": 80
+  },
+  {
+   "start": "20:53",
+   "end": "20:54",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともにトブゲイ首相夫妻を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "20:54",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 186
+  }
+ ],
+ "alloc_min": {
+  "居所": 682,
+  "移動": 23,
+  "公務（内容未詳）": 118,
+  "面会・会談": 112,
+  "国会": 358,
+  "官邸執務": 47,
+  "式典・行事": 8,
+  "取材・会見": 12,
+  "会食": 80
+ }
+}

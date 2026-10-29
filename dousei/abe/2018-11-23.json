@@ -1,0 +1,103 @@
+{
+ "date": "2018-11-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 156,
+ "residence_min": 1284,
+ "meetings": 0,
+ "first_work": "13:31",
+ "events": [
+  {
+   "time": "13:31",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:45",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:46",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:59",
+   "label": "新嘗祭神嘉殿の儀に参列",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:54",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 811
+  },
+  {
+   "start": "13:31",
+   "end": "13:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "13:45",
+   "end": "18:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 301
+  },
+  {
+   "start": "18:46",
+   "end": "18:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "18:59",
+   "end": "20:54",
+   "category": "式典・行事",
+   "label": "新嘗祭神嘉殿の儀に参列",
+   "minutes": 115
+  },
+  {
+   "start": "20:54",
+   "end": "21:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "21:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 172
+  }
+ ],
+ "alloc_min": {
+  "居所": 1284,
+  "移動": 41,
+  "式典・行事": 115
+ }
+}

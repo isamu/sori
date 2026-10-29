@@ -1,0 +1,338 @@
+{
+ "date": "2024-07-24",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 825,
+ "residence_min": 615,
+ "meetings": 1,
+ "first_work": "07:28",
+ "events": [
+  {
+   "time": "07:28",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:51",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:34",
+   "label": "新千歳空港",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:46",
+   "label": "移動",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:31",
+   "label": "視察",
+   "place": "札幌市東区 児童発達支援センター「むぎのこ」",
+   "category": "視察"
+  },
+  {
+   "time": "10:48",
+   "label": "移動",
+   "place": "札幌市東区 児童発達支援センター「むぎのこ」",
+   "category": "移動"
+  },
+  {
+   "time": "10:51",
+   "label": "職員、保護者らと意見交換",
+   "place": "同区 「麦の子館」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:16",
+   "label": "移動",
+   "place": "同区 「麦の子館」",
+   "category": "移動"
+  },
+  {
+   "time": "11:44",
+   "label": "同ホテル内の個室「ハマナス」で古野重幸札幌商工会議所常議員ら地元経済界関係者と意見交換。昼食",
+   "place": "札幌市中央区 札幌プリンスホテル",
+   "category": "会食"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "札幌市中央区 札幌プリンスホテル",
+   "category": "移動"
+  },
+  {
+   "time": "13:54",
+   "label": "同社の東哲郎会長、小池淳義社長と意見交換。次世代半導体の生産工場建設現場を視察",
+   "place": "北海道千歳市 「ラピダス」工場予定地",
+   "category": "視察"
+  },
+  {
+   "time": "14:53",
+   "label": "報道各社のインタビュー",
+   "place": "北海道千歳市 「ラピダス」工場予定地",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:04",
+   "label": "移動",
+   "place": "北海道千歳市 「ラピダス」工場予定地",
+   "category": "移動"
+  },
+  {
+   "time": "15:18",
+   "label": "新千歳空港",
+   "place": "新千歳空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:14",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:32",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:08",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:37",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:48",
+   "label": "本庄大介全国清涼飲料連合会会長と会食",
+   "place": "東京・銀座 イタリア・フランス料理店「セット・セッテ」",
+   "category": "会食"
+  },
+  {
+   "time": "21:05",
+   "label": "移動",
+   "place": "東京・銀座 イタリア・フランス料理店「セット・セッテ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 448
+  },
+  {
+   "start": "07:28",
+   "end": "07:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "07:51",
+   "end": "08:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "08:15",
+   "end": "09:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 79
+  },
+  {
+   "start": "09:34",
+   "end": "09:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:46",
+   "end": "10:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 45
+  },
+  {
+   "start": "10:31",
+   "end": "10:48",
+   "category": "視察",
+   "label": "視察",
+   "minutes": 17
+  },
+  {
+   "start": "10:48",
+   "end": "10:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:50",
+   "end": "10:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:51",
+   "end": "11:13",
+   "category": "面会・会談",
+   "label": "職員、保護者らと意見交換",
+   "minutes": 22
+  },
+  {
+   "start": "11:13",
+   "end": "11:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:16",
+   "end": "11:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "11:44",
+   "end": "12:52",
+   "category": "会食",
+   "label": "同ホテル内の個室「ハマナス」で古野重幸札幌商工会議所常議員ら地元経済界関係者と意見交換。昼食",
+   "minutes": 68
+  },
+  {
+   "start": "12:52",
+   "end": "13:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 62
+  },
+  {
+   "start": "13:54",
+   "end": "14:53",
+   "category": "視察",
+   "label": "同社の東哲郎会長、小池淳義社長と意見交換。次世代半導体の生産工場建設現場を視察",
+   "minutes": 59
+  },
+  {
+   "start": "14:53",
+   "end": "15:03",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 10
+  },
+  {
+   "start": "15:03",
+   "end": "15:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:04",
+   "end": "15:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "15:18",
+   "end": "15:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "15:57",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 77
+  },
+  {
+   "start": "17:14",
+   "end": "17:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "17:32",
+   "end": "18:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 29
+  },
+  {
+   "start": "18:37",
+   "end": "18:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:48",
+   "end": "21:05",
+   "category": "会食",
+   "label": "本庄大介全国清涼飲料連合会会長と会食",
+   "minutes": 137
+  },
+  {
+   "start": "21:05",
+   "end": "21:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "21:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 167
+  }
+ ],
+ "alloc_min": {
+  "居所": 615,
+  "移動": 322,
+  "公務（内容未詳）": 161,
+  "視察": 76,
+  "面会・会談": 22,
+  "会食": 205,
+  "取材・会見": 10,
+  "官邸執務": 29
+ }
+}

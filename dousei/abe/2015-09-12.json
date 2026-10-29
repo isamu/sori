@@ -1,0 +1,265 @@
+{
+ "date": "2015-09-12",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 540,
+ "residence_min": 900,
+ "meetings": 2,
+ "first_work": "08:02",
+ "events": [
+  {
+   "time": "08:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:16",
+   "label": "防衛省",
+   "place": "防衛省",
+   "category": "その他"
+  },
+  {
+   "time": "08:26",
+   "label": "陸自ヘリで上空から視察",
+   "place": "茨城県の被災現場",
+   "category": "視察"
+  },
+  {
+   "time": "09:40",
+   "label": "同公園周辺の被災現場を視察",
+   "place": "茨城県常総市 石下総合運動公園",
+   "category": "視察"
+  },
+  {
+   "time": "10:32",
+   "label": "同公園内の避難所で被災者を激励",
+   "place": "茨城県常総市 石下総合運動公園",
+   "category": "視察"
+  },
+  {
+   "time": "11:15",
+   "label": "報道各社のインタビュー",
+   "place": "茨城県常総市 石下総合運動公園",
+   "category": "取材・会見"
+  },
+  {
+   "time": "11:43",
+   "label": "茨城県ひたちなか市 陸自勝田駐屯地",
+   "place": "茨城県ひたちなか市 陸自勝田駐屯地",
+   "category": "移動"
+  },
+  {
+   "time": "12:26",
+   "label": "橋本昌知事と意見交換",
+   "place": "茨城県庁",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:34",
+   "label": "勝田駐屯地",
+   "place": "勝田駐屯地",
+   "category": "移動"
+  },
+  {
+   "time": "13:48",
+   "label": "陸自ヘリで上空から視察",
+   "place": "栃木県の被災現場",
+   "category": "視察"
+  },
+  {
+   "time": "14:37",
+   "label": "宇都宮市 陸自北宇都宮駐屯地",
+   "place": "宇都宮市 陸自北宇都宮駐屯地",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "福田富一知事と意見交換",
+   "place": "栃木県庁",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:28",
+   "label": "防衛省",
+   "place": "防衛省",
+   "category": "その他"
+  },
+  {
+   "time": "16:33",
+   "label": "移動",
+   "place": "防衛省",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 482
+  },
+  {
+   "start": "08:02",
+   "end": "08:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:16",
+   "end": "08:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:26",
+   "end": "09:40",
+   "category": "視察",
+   "label": "陸自ヘリで上空から視察",
+   "minutes": 74
+  },
+  {
+   "start": "09:40",
+   "end": "10:32",
+   "category": "視察",
+   "label": "同公園周辺の被災現場を視察",
+   "minutes": 52
+  },
+  {
+   "start": "10:32",
+   "end": "11:13",
+   "category": "視察",
+   "label": "同公園内の避難所で被災者を激励",
+   "minutes": 41
+  },
+  {
+   "start": "11:13",
+   "end": "11:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:15",
+   "end": "11:17",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "11:17",
+   "end": "11:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "11:43",
+   "end": "11:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:46",
+   "end": "12:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "12:26",
+   "end": "12:55",
+   "category": "面会・会談",
+   "label": "橋本昌知事と意見交換",
+   "minutes": 29
+  },
+  {
+   "start": "12:55",
+   "end": "13:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "13:34",
+   "end": "13:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "13:48",
+   "end": "14:37",
+   "category": "視察",
+   "label": "陸自ヘリで上空から視察",
+   "minutes": 49
+  },
+  {
+   "start": "14:37",
+   "end": "14:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "14:41",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "15:00",
+   "end": "15:32",
+   "category": "面会・会談",
+   "label": "福田富一知事と意見交換",
+   "minutes": 32
+  },
+  {
+   "start": "15:32",
+   "end": "16:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "16:28",
+   "end": "16:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "16:33",
+   "end": "17:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "17:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 418
+  }
+ ],
+ "alloc_min": {
+  "居所": 900,
+  "移動": 64,
+  "公務（内容未詳）": 197,
+  "視察": 216,
+  "取材・会見": 2,
+  "面会・会談": 61
+ }
+}

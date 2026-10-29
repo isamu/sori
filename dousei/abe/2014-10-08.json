@@ -1,0 +1,335 @@
+{
+ "date": "2014-10-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 789,
+ "residence_min": 651,
+ "meetings": 2,
+ "first_work": "07:33",
+ "events": [
+  {
+   "time": "07:33",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:46",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "07:48",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "太田昭宏国土交通相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "08:59",
+   "label": "麻生太郎副総理兼財務相 下村博文文部科学相 山口俊一科学技術担当相 菅義偉官房長官",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:01",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:58",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:31",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:09",
+   "label": "佐々江賢一郎駐米大使 斎木昭隆事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:41",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:49",
+   "label": "同ホテル内の宴会場「ＰＡＬＡＺＺＯ　ＯＴＡＮＩ」で昭恵夫人とともに千家国麿さんと典子さんの結婚晩餐会に出席",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "会食"
+  },
+  {
+   "time": "20:23",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 453
+  },
+  {
+   "start": "07:33",
+   "end": "07:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:45",
+   "end": "07:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:46",
+   "end": "07:47",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "07:47",
+   "end": "07:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:48",
+   "end": "08:52",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 64
+  },
+  {
+   "start": "08:52",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:57",
+   "end": "08:58",
+   "category": "国会",
+   "label": "太田昭宏国土交通相",
+   "minutes": 1
+  },
+  {
+   "start": "08:58",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:59",
+   "end": "09:00",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 下村博文文部科学相 山口俊一科学技術担当相 菅義偉官房長官",
+   "minutes": 1
+  },
+  {
+   "start": "09:00",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:01",
+   "end": "11:54",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 173
+  },
+  {
+   "start": "11:54",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:58",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 54
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "12:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:57",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:00",
+   "end": "16:28",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 208
+  },
+  {
+   "start": "16:28",
+   "end": "16:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:31",
+   "end": "16:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:33",
+   "end": "17:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "17:09",
+   "end": "17:26",
+   "category": "面会・会談",
+   "label": "佐々江賢一郎駐米大使 斎木昭隆事務次官",
+   "minutes": 17
+  },
+  {
+   "start": "17:26",
+   "end": "17:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "17:41",
+   "end": "17:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "17:49",
+   "end": "20:23",
+   "category": "会食",
+   "label": "同ホテル内の宴会場「ＰＡＬＡＺＺＯ　ＯＴＡＮＩ」で昭恵夫人とともに千家国麿さんと典子さんの結婚晩餐会に出席",
+   "minutes": 154
+  },
+  {
+   "start": "20:23",
+   "end": "20:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "20:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 198
+  }
+ ],
+ "alloc_min": {
+  "居所": 651,
+  "移動": 45,
+  "公務（内容未詳）": 71,
+  "取材・会見": 1,
+  "面会・会談": 81,
+  "国会": 383,
+  "官邸執務": 54,
+  "会食": 154
+ }
+}

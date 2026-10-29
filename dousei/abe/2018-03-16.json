@@ -1,0 +1,233 @@
+{
+ "date": "2018-03-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 641,
+ "residence_min": 799,
+ "meetings": 6,
+ "first_work": "08:10",
+ "events": [
+  {
+   "time": "08:10",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:24",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:02",
+   "label": "秋葉剛男外務事務次官 山上信吾国際情報統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:46",
+   "label": "鈴木哲総合外交政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:09",
+   "label": "秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:30",
+   "label": "韓国の文在寅大統領と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:17",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:32",
+   "label": "吉田博美自民党参院幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:17",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 490
+  },
+  {
+   "start": "08:10",
+   "end": "08:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:12",
+   "end": "08:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:24",
+   "end": "08:40",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 16
+  },
+  {
+   "start": "08:40",
+   "end": "11:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 142
+  },
+  {
+   "start": "11:02",
+   "end": "11:45",
+   "category": "面会・会談",
+   "label": "秋葉剛男外務事務次官 山上信吾国際情報統括官",
+   "minutes": 43
+  },
+  {
+   "start": "11:45",
+   "end": "11:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:46",
+   "end": "11:55",
+   "category": "面会・会談",
+   "label": "鈴木哲総合外交政策局長",
+   "minutes": 9
+  },
+  {
+   "start": "11:55",
+   "end": "16:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 254
+  },
+  {
+   "start": "16:09",
+   "end": "16:16",
+   "category": "面会・会談",
+   "label": "秋葉剛男事務次官",
+   "minutes": 7
+  },
+  {
+   "start": "16:16",
+   "end": "16:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "16:30",
+   "end": "17:05",
+   "category": "面会・会談",
+   "label": "韓国の文在寅大統領と電話会談",
+   "minutes": 35
+  },
+  {
+   "start": "17:05",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "17:17",
+   "end": "17:31",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 14
+  },
+  {
+   "start": "17:31",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:32",
+   "end": "18:05",
+   "category": "面会・会談",
+   "label": "吉田博美自民党参院幹事長",
+   "minutes": 33
+  },
+  {
+   "start": "18:05",
+   "end": "18:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "18:17",
+   "end": "18:46",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 29
+  },
+  {
+   "start": "18:46",
+   "end": "18:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:49",
+   "end": "18:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 309
+  }
+ ],
+ "alloc_min": {
+  "居所": 799,
+  "移動": 4,
+  "公務（内容未詳）": 451,
+  "官邸執務": 30,
+  "面会・会談": 156
+ }
+}

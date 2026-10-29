@@ -1,0 +1,44 @@
+{
+ "date": "2018-11-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 137,
+ "residence_min": 1303,
+ "meetings": 1,
+ "first_work": "15:58",
+ "events": [
+  {
+   "time": "15:58",
+   "label": "西村康稔官房副長官 野上浩太郎官房副長官",
+   "place": "私邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 958
+  },
+  {
+   "start": "15:58",
+   "end": "18:15",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官 野上浩太郎官房副長官",
+   "minutes": 137
+  },
+  {
+   "start": "18:15",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 345
+  }
+ ],
+ "alloc_min": {
+  "居所": 1303,
+  "面会・会談": 137
+ }
+}

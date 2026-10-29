@@ -1,0 +1,100 @@
+{
+ "date": "2020-01-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 926,
+ "residence_min": 514,
+ "meetings": 1,
+ "first_work": "08:34",
+ "events": [
+  {
+   "time": "08:34",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "カナダのトルドー首相と電話会談",
+   "place": "羽田空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:35",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "キング・サウード迎賓館",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "サウジアラビア・リヤドのキング・ハーリド国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 514
+  },
+  {
+   "start": "08:34",
+   "end": "08:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "08:56",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:00",
+   "end": "09:20",
+   "category": "面会・会談",
+   "label": "カナダのトルドー首相と電話会談",
+   "minutes": 20
+  },
+  {
+   "start": "09:20",
+   "end": "09:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "09:35",
+   "end": "09:37",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "09:37",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 863
+  }
+ ],
+ "alloc_min": {
+  "居所": 514,
+  "移動": 22,
+  "公務（内容未詳）": 19,
+  "面会・会談": 20,
+  "取材・会見": 2,
+  "外遊": 863
+ }
+}

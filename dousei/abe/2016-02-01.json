@@ -1,0 +1,220 @@
+{
+ "date": "2016-02-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 528,
+ "residence_min": 912,
+ "meetings": 3,
+ "first_work": "09:40",
+ "events": [
+  {
+   "time": "09:40",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:46",
+   "label": "「無電柱化を推進する市区町村長の会」会長の山下和弥奈良県葛城市長ら。萩生田光一官房副長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:55",
+   "label": "茂木敏充自民党選対委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:44",
+   "label": "河村建夫衆院議院運営委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:23",
+   "label": "衆院北海道5区補選の立候補予定者に公認証を手渡し",
+   "place": "国会 自民党幹事長会議室",
+   "category": "党務"
+  },
+  {
+   "time": "17:30",
+   "label": "移動",
+   "place": "国会 自民党幹事長会議室",
+   "category": "移動"
+  },
+  {
+   "time": "17:31",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 580
+  },
+  {
+   "start": "09:40",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:53",
+   "end": "11:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 113
+  },
+  {
+   "start": "11:46",
+   "end": "12:01",
+   "category": "面会・会談",
+   "label": "「無電柱化を推進する市区町村長の会」会長の山下和弥奈良県葛城市長ら。萩生田光一官房副長官同席",
+   "minutes": 15
+  },
+  {
+   "start": "12:01",
+   "end": "13:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 114
+  },
+  {
+   "start": "13:55",
+   "end": "14:43",
+   "category": "面会・会談",
+   "label": "茂木敏充自民党選対委員長",
+   "minutes": 48
+  },
+  {
+   "start": "14:43",
+   "end": "14:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:44",
+   "end": "15:15",
+   "category": "面会・会談",
+   "label": "河村建夫衆院議院運営委員長",
+   "minutes": 31
+  },
+  {
+   "start": "15:15",
+   "end": "16:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 102
+  },
+  {
+   "start": "16:57",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:59",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:01",
+   "end": "17:18",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 17
+  },
+  {
+   "start": "17:18",
+   "end": "17:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:23",
+   "end": "17:26",
+   "category": "党務",
+   "label": "衆院北海道5区補選の立候補予定者に公認証を手渡し",
+   "minutes": 3
+  },
+  {
+   "start": "17:26",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:30",
+   "end": "17:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 56
+  },
+  {
+   "start": "18:27",
+   "end": "18:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 332
+  }
+ ],
+ "alloc_min": {
+  "居所": 912,
+  "移動": 17,
+  "公務（内容未詳）": 341,
+  "面会・会談": 94,
+  "党務": 20,
+  "官邸執務": 56
+ }
+}

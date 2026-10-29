@@ -1,0 +1,181 @@
+{
+ "date": "2018-02-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 953,
+ "residence_min": 487,
+ "meetings": 3,
+ "first_work": "08:07",
+ "events": [
+  {
+   "time": "08:07",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:32",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:49",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:10",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "束草のホテル「ロッテリゾート束草」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "束草のホテル「ロッテリゾート束草」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "平昌冬季五輪開会式に出席",
+   "place": "平昌五輪スタジアム",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "北朝鮮の金永南最高人民会議常任委員長と立ち話",
+   "place": "平昌の竜平リゾート",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "文大統領主催のレセプションに出席",
+   "place": "平昌の竜平リゾート",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "文大統領、ペンス米副大統領と記念撮影",
+   "place": "平昌の竜平リゾート",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ペンス米副大統領と会談",
+   "place": "平昌の竜平リゾート",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "平昌の竜平リゾート",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "文在寅大統領と会談",
+   "place": "平昌の竜平リゾート",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "韓国・襄陽の襄陽空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 487
+  },
+  {
+   "start": "08:07",
+   "end": "08:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "08:20",
+   "end": "08:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:32",
+   "end": "08:44",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 12
+  },
+  {
+   "start": "08:44",
+   "end": "09:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 65
+  },
+  {
+   "start": "09:49",
+   "end": "09:51",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "09:51",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:52",
+   "end": "10:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "10:10",
+   "end": "10:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "10:34",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 806
+  }
+ ],
+ "alloc_min": {
+  "居所": 487,
+  "移動": 55,
+  "公務（内容未詳）": 78,
+  "官邸執務": 12,
+  "取材・会見": 2,
+  "外遊": 806
+ }
+}

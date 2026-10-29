@@ -1,0 +1,83 @@
+{
+ "date": "2014-09-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 5,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "パナマのバレーラ大統領と懇談",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日・アフリカ地域経済共同体議長国首脳会合に出席",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "フランスのオランド大統領と会談",
+   "place": "ニューヨークのランハムホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ヒラリー・クリントン前米国務長官と対談",
+   "place": "シェラトン・ニューヨークタイムズスクエアホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "クリントン財団主催の国際会議に出席",
+   "place": "シェラトン・ニューヨークタイムズスクエアホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "和食レセプションに出席",
+   "place": "吉川元偉国連大使公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "国連の日本人職員らを激励",
+   "place": "ニューヨークのホテル「ウォルドルフ・アストリア」",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "オーストラリアのアボット首相と会談",
+   "place": "ニューヨーク市内のすし店「寿司田」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "潘基文国連事務総長と会談",
+   "place": "国連本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ニューヨークのホテル「ウォルドルフ・アストリア」",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

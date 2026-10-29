@@ -1,0 +1,237 @@
+{
+ "date": "2014-02-27",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2014.02.27",
+ "work_min": 781,
+ "residence_min": 659,
+ "meetings": 4,
+ "first_work": "07:16",
+ "events": [
+  {
+   "time": "07:16",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:18",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:19",
+   "label": "加藤官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:50",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "麻生副総理兼財務相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:57",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:06",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:57",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:07",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:33",
+   "label": "国家安全保障会議の4大臣会合",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:21",
+   "label": "浜田、本田両内閣官房参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:30",
+   "label": "米村内閣危機管理監",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:53",
+   "label": "公邸。ビデオメッセージ収録",
+   "place": "公邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:11",
+   "label": "東京・永田町のザ・キャピトルホテル東急。中華料理店「星ケ丘」で秘書官と食事",
+   "place": "ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "20:17",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 436
+  },
+  {
+   "start": "07:16",
+   "end": "07:18",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "07:18",
+   "end": "07:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:19",
+   "end": "08:50",
+   "category": "面会・会談",
+   "label": "加藤官房副長官",
+   "minutes": 91
+  },
+  {
+   "start": "08:50",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:54",
+   "end": "08:57",
+   "category": "面会・会談",
+   "label": "麻生副総理兼財務相",
+   "minutes": 3
+  },
+  {
+   "start": "08:57",
+   "end": "12:06",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 189
+  },
+  {
+   "start": "12:06",
+   "end": "12:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "12:57",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:00",
+   "end": "17:07",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 247
+  },
+  {
+   "start": "17:07",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "17:33",
+   "end": "18:21",
+   "category": "官邸執務",
+   "label": "国家安全保障会議の4大臣会合",
+   "minutes": 48
+  },
+  {
+   "start": "18:21",
+   "end": "18:30",
+   "category": "面会・会談",
+   "label": "浜田、本田両内閣官房参与",
+   "minutes": 9
+  },
+  {
+   "start": "18:30",
+   "end": "18:53",
+   "category": "面会・会談",
+   "label": "米村内閣危機管理監",
+   "minutes": 23
+  },
+  {
+   "start": "18:53",
+   "end": "19:11",
+   "category": "官邸執務",
+   "label": "公邸。ビデオメッセージ収録",
+   "minutes": 18
+  },
+  {
+   "start": "19:11",
+   "end": "20:17",
+   "category": "会食",
+   "label": "東京・永田町のザ・キャピトルホテル東急。中華料理店「星ケ丘」で秘書官と食事",
+   "minutes": 66
+  },
+  {
+   "start": "20:17",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 223
+  }
+ ],
+ "alloc_min": {
+  "居所": 659,
+  "移動": 2,
+  "公務（内容未詳）": 85,
+  "面会・会談": 126,
+  "国会": 436,
+  "官邸執務": 66,
+  "会食": 66
+ }
+}

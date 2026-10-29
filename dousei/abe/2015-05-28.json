@@ -1,0 +1,334 @@
+{
+ "date": "2015-05-28",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 876,
+ "residence_min": 564,
+ "meetings": 2,
+ "first_work": "07:12",
+ "events": [
+  {
+   "time": "07:12",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:26",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:03",
+   "label": "衆院平和安全法制特別委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:47",
+   "label": "菅義偉官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院平和安全法制特別委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:07",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:19",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:03",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:11",
+   "label": "同ホテル内の宴会場「鳳凰の間」で細田博之自民党衆院議員のパーティーに出席し、あいさつ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "党務"
+  },
+  {
+   "time": "18:22",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "18:40",
+   "label": "世耕弘成官房副長官らと会食",
+   "place": "東京・銀座 日本料理店「新ばし松山」",
+   "category": "会食"
+  },
+  {
+   "time": "19:21",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "19:27",
+   "label": "自民党の二階俊博総務会長、河村建夫衆院議員らと会食",
+   "place": "東京・銀座 ステーキ店「かわむら」",
+   "category": "会食"
+  },
+  {
+   "time": "21:28",
+   "label": "移動",
+   "place": "東京・銀座 ステーキ店「かわむら」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 432
+  },
+  {
+   "start": "07:12",
+   "end": "07:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:24",
+   "end": "07:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "07:26",
+   "end": "08:53",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 87
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "09:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:03",
+   "end": "12:02",
+   "category": "国会",
+   "label": "衆院平和安全法制特別委",
+   "minutes": 179
+  },
+  {
+   "start": "12:02",
+   "end": "12:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:05",
+   "end": "12:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:06",
+   "end": "12:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "12:47",
+   "end": "12:52",
+   "category": "面会・会談",
+   "label": "菅義偉官房長官",
+   "minutes": 5
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:04",
+   "category": "国会",
+   "label": "衆院平和安全法制特別委",
+   "minutes": 244
+  },
+  {
+   "start": "17:04",
+   "end": "17:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:07",
+   "end": "17:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:08",
+   "end": "17:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "17:19",
+   "end": "17:54",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 35
+  },
+  {
+   "start": "17:54",
+   "end": "18:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "18:03",
+   "end": "18:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:11",
+   "end": "18:22",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「鳳凰の間」で細田博之自民党衆院議員のパーティーに出席し、あいさつ",
+   "minutes": 11
+  },
+  {
+   "start": "18:22",
+   "end": "18:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "18:40",
+   "end": "19:21",
+   "category": "会食",
+   "label": "世耕弘成官房副長官らと会食",
+   "minutes": 41
+  },
+  {
+   "start": "19:21",
+   "end": "19:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "19:27",
+   "end": "21:28",
+   "category": "会食",
+   "label": "自民党の二階俊博総務会長、河村建夫衆院議員らと会食",
+   "minutes": 121
+  },
+  {
+   "start": "21:28",
+   "end": "21:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 132
+  }
+ ],
+ "alloc_min": {
+  "居所": 564,
+  "移動": 68,
+  "公務（内容未詳）": 85,
+  "面会・会談": 92,
+  "国会": 423,
+  "官邸執務": 35,
+  "党務": 11,
+  "会食": 162
+ }
+}

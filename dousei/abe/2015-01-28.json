@@ -1,0 +1,401 @@
+{
+ "date": "2015-01-28",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 688,
+ "residence_min": 752,
+ "meetings": 3,
+ "first_work": "00:25",
+ "events": [
+  {
+   "time": "00:25",
+   "label": "菅義偉官房長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:25",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:27",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:25",
+   "label": "岸田文雄外相 斎木昭隆事務次官 上村司中東アフリカ局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:37",
+   "label": "関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:44",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:26",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:28",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:56",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議 14:11 菅官房長官 15:37-38 岸田外相",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:02",
+   "label": "衆院予算委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "16:13",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "16:22",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:27",
+   "label": "教育再生実行会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:34",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 25
+  },
+  {
+   "start": "00:25",
+   "end": "00:42",
+   "category": "面会・会談",
+   "label": "菅義偉官房長官",
+   "minutes": 17
+  },
+  {
+   "start": "00:42",
+   "end": "08:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 463
+  },
+  {
+   "start": "08:25",
+   "end": "08:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:26",
+   "end": "08:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:27",
+   "end": "09:24",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 57
+  },
+  {
+   "start": "09:24",
+   "end": "09:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:25",
+   "end": "09:35",
+   "category": "面会・会談",
+   "label": "岸田文雄外相 斎木昭隆事務次官 上村司中東アフリカ局長",
+   "minutes": 10
+  },
+  {
+   "start": "09:35",
+   "end": "09:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:37",
+   "end": "09:43",
+   "category": "官邸執務",
+   "label": "関係閣僚会議",
+   "minutes": 6
+  },
+  {
+   "start": "09:43",
+   "end": "09:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:44",
+   "end": "09:45",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:45",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:51",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "09:58",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:01",
+   "end": "11:24",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 83
+  },
+  {
+   "start": "11:24",
+   "end": "11:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:26",
+   "end": "11:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 85
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "12:58",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:01",
+   "end": "15:55",
+   "category": "国会",
+   "label": "参院本会議 14:11 菅官房長官 15:37-38 岸田外相",
+   "minutes": 174
+  },
+  {
+   "start": "15:55",
+   "end": "16:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:02",
+   "end": "16:06",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 4
+  },
+  {
+   "start": "16:06",
+   "end": "16:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:13",
+   "end": "16:18",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 5
+  },
+  {
+   "start": "16:18",
+   "end": "16:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:22",
+   "end": "16:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:23",
+   "end": "17:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 64
+  },
+  {
+   "start": "17:27",
+   "end": "17:47",
+   "category": "官邸執務",
+   "label": "教育再生実行会議",
+   "minutes": 20
+  },
+  {
+   "start": "17:47",
+   "end": "19:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 107
+  },
+  {
+   "start": "19:34",
+   "end": "19:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "19:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 264
+  }
+ ],
+ "alloc_min": {
+  "居所": 752,
+  "面会・会談": 84,
+  "移動": 9,
+  "公務（内容未詳）": 211,
+  "官邸執務": 111,
+  "取材・会見": 1,
+  "国会": 272
+ }
+}

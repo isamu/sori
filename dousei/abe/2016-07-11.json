@@ -1,0 +1,428 @@
+{
+ "date": "2016-07-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1169,
+ "residence_min": 246,
+ "meetings": 8,
+ "first_work": "00:22",
+ "events": [
+  {
+   "time": "00:22",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:22",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "10:48",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:05",
+   "label": "自民党臨時役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "13:03",
+   "label": "山口那津男公明党代表との与党党首会談。谷垣禎一自民党幹事長、井上義久公明党幹事長同席。",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "記者会見",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:24",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "14:27",
+   "label": "同会館内の歯科診療室で治療",
+   "place": "衆院第1議員会館",
+   "category": "個人"
+  },
+  {
+   "time": "14:52",
+   "label": "移動",
+   "place": "衆院第1議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "15:10",
+   "label": "高市早苗総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:26",
+   "label": "岸田文雄外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:56",
+   "label": "麻生太郎副総理兼財務相 佐藤慎一事務次官 福田淳一主計局長 佐川宣寿理財局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:26",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:53",
+   "label": "秋葉剛男外務審議官 金杉憲治アジア大洋州局長 林肇欧州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:12",
+   "label": "西田昌司自民党参院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:53",
+   "label": "伊達忠一自民党参院幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:15",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 22
+  },
+  {
+   "start": "00:22",
+   "end": "00:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "00:36",
+   "end": "10:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 586
+  },
+  {
+   "start": "10:22",
+   "end": "10:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "10:35",
+   "end": "10:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "10:48",
+   "end": "10:56",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 8
+  },
+  {
+   "start": "10:56",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 61
+  },
+  {
+   "start": "11:57",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:00",
+   "end": "12:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:05",
+   "end": "12:48",
+   "category": "党務",
+   "label": "自民党臨時役員会",
+   "minutes": 43
+  },
+  {
+   "start": "12:48",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:53",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:56",
+   "end": "13:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:03",
+   "end": "13:25",
+   "category": "面会・会談",
+   "label": "山口那津男公明党代表との与党党首会談。谷垣禎一自民党幹事長、井上義久公明党幹事長同席。",
+   "minutes": 22
+  },
+  {
+   "start": "13:25",
+   "end": "13:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "13:53",
+   "end": "13:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:55",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "14:00",
+   "end": "14:23",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 23
+  },
+  {
+   "start": "14:23",
+   "end": "14:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:24",
+   "end": "14:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "14:27",
+   "end": "14:52",
+   "category": "個人",
+   "label": "同会館内の歯科診療室で治療",
+   "minutes": 25
+  },
+  {
+   "start": "14:52",
+   "end": "14:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:54",
+   "end": "15:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "15:10",
+   "end": "15:25",
+   "category": "面会・会談",
+   "label": "高市早苗総務相",
+   "minutes": 15
+  },
+  {
+   "start": "15:25",
+   "end": "15:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:26",
+   "end": "15:55",
+   "category": "面会・会談",
+   "label": "岸田文雄外相",
+   "minutes": 29
+  },
+  {
+   "start": "15:55",
+   "end": "15:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:56",
+   "end": "16:25",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相 佐藤慎一事務次官 福田淳一主計局長 佐川宣寿理財局長",
+   "minutes": 29
+  },
+  {
+   "start": "16:25",
+   "end": "16:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:26",
+   "end": "16:40",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 14
+  },
+  {
+   "start": "16:40",
+   "end": "16:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "16:53",
+   "end": "17:15",
+   "category": "面会・会談",
+   "label": "秋葉剛男外務審議官 金杉憲治アジア大洋州局長 林肇欧州局長",
+   "minutes": 22
+  },
+  {
+   "start": "17:15",
+   "end": "18:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "18:12",
+   "end": "18:53",
+   "category": "面会・会談",
+   "label": "西田昌司自民党参院議員",
+   "minutes": 41
+  },
+  {
+   "start": "18:53",
+   "end": "19:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "19:53",
+   "end": "20:11",
+   "category": "面会・会談",
+   "label": "伊達忠一自民党参院幹事長",
+   "minutes": 18
+  },
+  {
+   "start": "20:11",
+   "end": "20:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "20:15",
+   "end": "20:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "20:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 224
+  }
+ ],
+ "alloc_min": {
+  "居所": 246,
+  "移動": 41,
+  "公務（内容未詳）": 864,
+  "官邸執務": 8,
+  "党務": 43,
+  "面会・会談": 190,
+  "取材・会見": 23,
+  "個人": 25
+ }
+}

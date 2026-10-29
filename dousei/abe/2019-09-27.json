@@ -1,0 +1,41 @@
+{
+ "date": "2019-09-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "欧州連合（ＥＵ）本部で欧州連結性フォーラムに出席し、基調講演",
+   "place": "欧州連合（ＥＵ）本部",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "ベルギー・ブリュッセルのメルスブルク空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ＥＵのユンケル欧州委員長と昼食会",
+   "place": "欧州連合（ＥＵ）本部",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

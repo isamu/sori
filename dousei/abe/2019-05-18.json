@@ -1,0 +1,77 @@
+{
+ "date": "2019-05-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 120,
+ "residence_min": 924,
+ "meetings": 0,
+ "first_work": "06:49",
+ "events": [
+  {
+   "time": "06:49",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:50",
+   "label": "松崎勲森永商事社長、井本眞道三興グループ代表らとゴルフ",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "個人"
+  },
+  {
+   "time": "14:26",
+   "label": "移動",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 409
+  },
+  {
+   "start": "06:49",
+   "end": "07:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 61
+  },
+  {
+   "start": "07:50",
+   "end": "14:26",
+   "category": "個人",
+   "label": "松崎勲森永商事社長、井本眞道三興グループ代表らとゴルフ",
+   "minutes": 396
+  },
+  {
+   "start": "14:26",
+   "end": "15:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 59
+  },
+  {
+   "start": "15:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 515
+  }
+ ],
+ "alloc_min": {
+  "居所": 924,
+  "移動": 120,
+  "個人": 396
+ }
+}

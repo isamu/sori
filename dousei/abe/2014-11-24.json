@@ -1,0 +1,206 @@
+{
+ "date": "2014-11-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 389,
+ "residence_min": 960,
+ "meetings": 1,
+ "first_work": "10:37",
+ "events": [
+  {
+   "time": "10:37",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:30",
+   "label": "全員協議会室で長野県の阿部守一知事、下川正剛白馬村長、松本久志小谷村長と意見交換",
+   "place": "白馬村役場",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:54",
+   "label": "同センター内の避難所を視察。被災者を激励",
+   "place": "同村の「保健福祉ふれあいセンター」",
+   "category": "視察"
+  },
+  {
+   "time": "13:23",
+   "label": "被災現場を視察",
+   "place": "同村の神城地区",
+   "category": "視察"
+  },
+  {
+   "time": "13:35",
+   "label": "報道各社のインタビュー",
+   "place": "同村の神城地区",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:51",
+   "label": "移動",
+   "place": "同村の神城地区",
+   "category": "移動"
+  },
+  {
+   "time": "16:46",
+   "label": "移動",
+   "place": "同村の神城地区",
+   "category": "移動"
+  },
+  {
+   "time": "16:56",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "18:27",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "陸自ヘリで上空から視察",
+   "place": "長野・岐阜県境 御嶽山の噴火災害現場",
+   "category": "視察"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:37",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 637
+  },
+  {
+   "start": "10:37",
+   "end": "10:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "10:53",
+   "end": "12:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 97
+  },
+  {
+   "start": "12:30",
+   "end": "12:53",
+   "category": "面会・会談",
+   "label": "全員協議会室で長野県の阿部守一知事、下川正剛白馬村長、松本久志小谷村長と意見交換",
+   "minutes": 23
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:54",
+   "end": "13:08",
+   "category": "視察",
+   "label": "同センター内の避難所を視察。被災者を激励",
+   "minutes": 14
+  },
+  {
+   "start": "13:08",
+   "end": "13:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "13:23",
+   "end": "13:35",
+   "category": "視察",
+   "label": "被災現場を視察",
+   "minutes": 12
+  },
+  {
+   "start": "13:35",
+   "end": "13:38",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "13:38",
+   "end": "15:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 133
+  },
+  {
+   "start": "15:51",
+   "end": "16:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "16:10",
+   "end": "16:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "16:46",
+   "end": "16:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "16:56",
+   "end": "18:27",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 91
+  },
+  {
+   "start": "18:27",
+   "end": "18:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 323
+  }
+ ],
+ "alloc_min": {
+  "居所": 960,
+  "移動": 55,
+  "公務（内容未詳）": 282,
+  "面会・会談": 23,
+  "視察": 26,
+  "取材・会見": 3,
+  "個人": 91
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "date": "2017-10-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 883,
+ "residence_min": 557,
+ "meetings": 0,
+ "first_work": "08:22",
+ "events": [
+  {
+   "time": "08:22",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:48",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "11:33",
+   "label": "ＪＲ美濃太田駅",
+   "place": "ＪＲ美濃太田駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:55",
+   "label": "街頭演説",
+   "place": "岐阜県可児市のふるさと川公園",
+   "category": "党務"
+  },
+  {
+   "time": "13:27",
+   "label": "街頭演説",
+   "place": "愛知県東海市の名鉄太田川駅前",
+   "category": "党務"
+  },
+  {
+   "time": "14:17",
+   "label": "街頭演説",
+   "place": "ＪＲ金山駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "14:57",
+   "label": "街頭演説",
+   "place": "名古屋市昭和区の滝子交差点",
+   "category": "党務"
+  },
+  {
+   "time": "15:48",
+   "label": "街頭演説",
+   "place": "同市中区の百貨店「松坂屋名古屋店」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:31",
+   "label": "街頭演説",
+   "place": "同市中村区の百貨店「ジェイアール名古屋タカシマヤ」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:47",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "18:43",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "18:49",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:30",
+   "label": "街頭演説",
+   "place": "ＪＲ秋葉原駅電気街口",
+   "category": "党務"
+  },
+  {
+   "time": "20:05",
+   "label": "移動",
+   "place": "ＪＲ秋葉原駅電気街口",
+   "category": "移動"
+  },
+  {
+   "time": "20:27",
+   "label": "党インターネット番組「カフェスタ」に出演",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:36",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "20:50",
+   "label": "秘書官と食事",
+   "place": "東京都渋谷区本町 焼き肉店「カレア」",
+   "category": "会食"
+  },
+  {
+   "time": "22:47",
+   "label": "移動",
+   "place": "東京都渋谷区本町 焼き肉店「カレア」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "徒歩",
+   "place": "—",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 502
+  },
+  {
+   "start": "08:22",
+   "end": "08:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "08:48",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:53",
+   "end": "11:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 160
+  },
+  {
+   "start": "11:33",
+   "end": "11:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:35",
+   "end": "11:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "11:55",
+   "end": "12:20",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "12:20",
+   "end": "13:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "13:27",
+   "end": "13:51",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "13:51",
+   "end": "14:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "14:17",
+   "end": "14:41",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "14:41",
+   "end": "14:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "14:57",
+   "end": "15:21",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "15:21",
+   "end": "15:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "15:48",
+   "end": "16:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "16:10",
+   "end": "16:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "16:31",
+   "end": "16:45",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 14
+  },
+  {
+   "start": "16:45",
+   "end": "16:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:47",
+   "end": "17:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "17:03",
+   "end": "18:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 100
+  },
+  {
+   "start": "18:43",
+   "end": "18:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:49",
+   "end": "19:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "19:30",
+   "end": "20:05",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "20:05",
+   "end": "20:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "20:24",
+   "end": "20:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "20:27",
+   "end": "20:35",
+   "category": "取材・会見",
+   "label": "党インターネット番組「カフェスタ」に出演",
+   "minutes": 8
+  },
+  {
+   "start": "20:35",
+   "end": "20:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:36",
+   "end": "20:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "20:50",
+   "end": "22:47",
+   "category": "会食",
+   "label": "秘書官と食事",
+   "minutes": 117
+  },
+  {
+   "start": "22:47",
+   "end": "23:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "23:05",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 55
+  }
+ ],
+ "alloc_min": {
+  "居所": 557,
+  "移動": 136,
+  "公務（内容未詳）": 454,
+  "党務": 168,
+  "取材・会見": 8,
+  "会食": 117
+ }
+}

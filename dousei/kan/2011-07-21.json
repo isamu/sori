@@ -1,0 +1,275 @@
+{
+ "date": "2011-07-21",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.07.21",
+ "work_min": 819,
+ "residence_min": 621,
+ "meetings": 5,
+ "first_work": "06:02",
+ "events": [
+  {
+   "time": "06:02",
+   "label": "福山官房副長官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:46",
+   "label": "福山氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:11",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:13",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:49",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "10:09",
+   "label": "同委員会休憩",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "10:45",
+   "label": "同委員会再開",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:57",
+   "label": "森ゆうこ参院予算委員会民主党筆頭理事、芝首相補佐官ら",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:13",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "参院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "16:35",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:48",
+   "label": "福島県の佐藤雄平知事。福山副長官ら同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:32",
+   "label": "行政刷新会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:15",
+   "label": "芝補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:33",
+   "label": "東日本大震災復興対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:03",
+   "label": "終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "20:06",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 362
+  },
+  {
+   "start": "06:02",
+   "end": "07:46",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 104
+  },
+  {
+   "start": "07:46",
+   "end": "08:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 25
+  },
+  {
+   "start": "08:11",
+   "end": "08:13",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:13",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "08:49",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:54",
+   "end": "10:09",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 75
+  },
+  {
+   "start": "10:09",
+   "end": "10:45",
+   "category": "国会",
+   "label": "同委員会休憩",
+   "minutes": 36
+  },
+  {
+   "start": "10:45",
+   "end": "11:57",
+   "category": "面会・会談",
+   "label": "同委員会再開",
+   "minutes": 72
+  },
+  {
+   "start": "11:57",
+   "end": "12:13",
+   "category": "国会",
+   "label": "森ゆうこ参院予算委員会民主党筆頭理事、芝首相補佐官ら",
+   "minutes": 16
+  },
+  {
+   "start": "12:13",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "12:51",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "12:59",
+   "end": "16:35",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 216
+  },
+  {
+   "start": "16:35",
+   "end": "16:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "16:48",
+   "end": "17:32",
+   "category": "面会・会談",
+   "label": "福島県の佐藤雄平知事。福山副長官ら同席",
+   "minutes": 44
+  },
+  {
+   "start": "17:32",
+   "end": "18:15",
+   "category": "官邸執務",
+   "label": "行政刷新会議",
+   "minutes": 43
+  },
+  {
+   "start": "18:15",
+   "end": "18:33",
+   "category": "面会・会談",
+   "label": "芝補佐官",
+   "minutes": 18
+  },
+  {
+   "start": "18:33",
+   "end": "19:03",
+   "category": "官邸執務",
+   "label": "東日本大震災復興対策本部",
+   "minutes": 30
+  },
+  {
+   "start": "19:03",
+   "end": "20:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "20:06",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 234
+  }
+ ],
+ "alloc_min": {
+  "居所": 621,
+  "面会・会談": 238,
+  "移動": 2,
+  "公務（内容未詳）": 163,
+  "国会": 343,
+  "官邸執務": 73
+ }
+}

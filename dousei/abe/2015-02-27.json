@@ -1,0 +1,389 @@
+{
+ "date": "2015-02-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 823,
+ "residence_min": 617,
+ "meetings": 2,
+ "first_work": "07:07",
+ "events": [
+  {
+   "time": "07:07",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:10",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:18",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:52",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:06",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "麻生副総理兼財務相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:04",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "18:02",
+   "label": "ポーランドのコモロフスキ大統領を迎える儀仗隊による儀礼",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:08",
+   "label": "コモロフスキ大統領と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:56",
+   "label": "署名式。共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:18",
+   "label": "首相夫妻主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:21",
+   "label": "コモロフスキ大統領を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:23",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 427
+  },
+  {
+   "start": "07:07",
+   "end": "07:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:08",
+   "end": "08:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 62
+  },
+  {
+   "start": "08:10",
+   "end": "08:15",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 5
+  },
+  {
+   "start": "08:15",
+   "end": "08:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:18",
+   "end": "08:28",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 10
+  },
+  {
+   "start": "08:28",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "08:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:52",
+   "end": "08:54",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 2
+  },
+  {
+   "start": "08:54",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:59",
+   "end": "12:02",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 183
+  },
+  {
+   "start": "12:02",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:04",
+   "end": "12:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 48
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "国会",
+   "label": "麻生副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "17:01",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 241
+  },
+  {
+   "start": "17:01",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:04",
+   "end": "17:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:05",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "18:02",
+   "end": "18:06",
+   "category": "式典・行事",
+   "label": "ポーランドのコモロフスキ大統領を迎える儀仗隊による儀礼",
+   "minutes": 4
+  },
+  {
+   "start": "18:06",
+   "end": "18:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:08",
+   "end": "18:53",
+   "category": "面会・会談",
+   "label": "コモロフスキ大統領と首脳会談",
+   "minutes": 45
+  },
+  {
+   "start": "18:53",
+   "end": "18:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:56",
+   "end": "19:15",
+   "category": "取材・会見",
+   "label": "署名式。共同記者発表",
+   "minutes": 19
+  },
+  {
+   "start": "19:15",
+   "end": "19:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:17",
+   "end": "19:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:18",
+   "end": "20:21",
+   "category": "会食",
+   "label": "首相夫妻主催の夕食会",
+   "minutes": 63
+  },
+  {
+   "start": "20:21",
+   "end": "20:22",
+   "category": "式典・行事",
+   "label": "コモロフスキ大統領を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "20:22",
+   "end": "20:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "20:23",
+   "end": "20:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "20:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 189
+  }
+ ],
+ "alloc_min": {
+  "居所": 617,
+  "移動": 35,
+  "公務（内容未詳）": 166,
+  "面会・会談": 50,
+  "官邸執務": 58,
+  "国会": 427,
+  "式典・行事": 5,
+  "取材・会見": 19,
+  "会食": 63
+ }
+}

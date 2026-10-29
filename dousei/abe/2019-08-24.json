@@ -1,0 +1,71 @@
+{
+ "date": "2019-08-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "着",
+   "place": "フランス南西部のビアリッツ・アングレ・バイヨンヌ空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "軍用機で発",
+   "place": "フランス南西部のボルドー・メリニャック空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "トルドー・カナダ首相と会談",
+   "place": "ビアリッツのオテル・デュ・パレ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "メルケル独首相と会談",
+   "place": "ビアリッツのオテル・デュ・パレ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ビアリッツのオテル・デュ・パレ",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "マクロン氏主催夕食会",
+   "place": "ビアリッツ灯台前広場",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "マクロン氏による出迎え",
+   "place": "ビアリッツ灯台前広場",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "マクロン仏大統領と会談",
+   "place": "ビアリッツのオテル・デュ・パレ",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

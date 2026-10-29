@@ -1,0 +1,119 @@
+{
+ "date": "2019-12-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 286,
+ "residence_min": 519,
+ "meetings": 0,
+ "first_work": "07:44",
+ "events": [
+  {
+   "time": "07:44",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:15",
+   "label": "成蹊大の友人、長谷川栄一首相補佐官とゴルフ",
+   "place": "東京都稲城市 よみうりゴルフ倶楽部",
+   "category": "個人"
+  },
+  {
+   "time": "15:39",
+   "label": "移動",
+   "place": "東京都稲城市 よみうりゴルフ倶楽部",
+   "category": "移動"
+  },
+  {
+   "time": "16:15",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "同ホテル内の中国料理店「ＣＨＩＮＡＲＯＯＭ」で成蹊大の友人と食事",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 464
+  },
+  {
+   "start": "07:44",
+   "end": "08:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "08:15",
+   "end": "15:39",
+   "category": "個人",
+   "label": "成蹊大の友人、長谷川栄一首相補佐官とゴルフ",
+   "minutes": 444
+  },
+  {
+   "start": "15:39",
+   "end": "16:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 36
+  },
+  {
+   "start": "16:15",
+   "end": "17:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 55
+  },
+  {
+   "start": "17:10",
+   "end": "17:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "17:26",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "18:00",
+   "end": "20:49",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「ＣＨＩＮＡＲＯＯＭ」で成蹊大の友人と食事",
+   "minutes": 169
+  },
+  {
+   "start": "20:49",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 191
+  }
+ ],
+ "alloc_min": {
+  "居所": 519,
+  "移動": 83,
+  "個人": 635,
+  "公務（内容未詳）": 34,
+  "会食": 169
+ }
+}

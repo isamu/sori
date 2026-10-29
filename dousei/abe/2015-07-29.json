@@ -1,0 +1,280 @@
+{
+ "date": "2015-07-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 674,
+ "residence_min": 766,
+ "meetings": 3,
+ "first_work": "07:16",
+ "events": [
+  {
+   "time": "07:16",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:36",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "岸田文雄外相 中谷元防衛相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:00",
+   "label": "参院平和安全法制特別委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:55",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:56",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院平和安全法制特別委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:18",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:36",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:45",
+   "label": "高市早苗総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:29",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 436
+  },
+  {
+   "start": "07:16",
+   "end": "07:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:28",
+   "end": "07:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "07:36",
+   "end": "08:50",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 74
+  },
+  {
+   "start": "08:50",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:58",
+   "end": "08:59",
+   "category": "国会",
+   "label": "岸田文雄外相 中谷元防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "08:59",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:00",
+   "end": "11:52",
+   "category": "国会",
+   "label": "参院平和安全法制特別委",
+   "minutes": 172
+  },
+  {
+   "start": "11:52",
+   "end": "11:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:55",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 58
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:15",
+   "category": "国会",
+   "label": "参院平和安全法制特別委",
+   "minutes": 255
+  },
+  {
+   "start": "17:15",
+   "end": "17:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:18",
+   "end": "17:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:20",
+   "end": "17:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "17:36",
+   "end": "17:43",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 7
+  },
+  {
+   "start": "17:43",
+   "end": "17:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:45",
+   "end": "18:06",
+   "category": "面会・会談",
+   "label": "高市早苗総務相",
+   "minutes": 21
+  },
+  {
+   "start": "18:06",
+   "end": "18:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "18:29",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 330
+  }
+ ],
+ "alloc_min": {
+  "居所": 766,
+  "移動": 19,
+  "公務（内容未詳）": 67,
+  "面会・会談": 102,
+  "国会": 428,
+  "官邸執務": 58
+ }
+}

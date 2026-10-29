@@ -1,0 +1,359 @@
+{
+ "date": "2017-04-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 585,
+ "residence_min": 855,
+ "meetings": 6,
+ "first_work": "09:19",
+ "events": [
+  {
+   "time": "09:19",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:36",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:34",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:38",
+   "label": "国会 参院第34理事会室",
+   "place": "国会 参院第34理事会室",
+   "category": "国会"
+  },
+  {
+   "time": "10:44",
+   "label": "参院外交防衛委員会",
+   "place": "国会 参院第34委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:51",
+   "label": "移動",
+   "place": "国会 参院第34委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:10",
+   "label": "山本有二農林水産相 岸田文雄外相 世耕弘成経済産業相 石原伸晃経済再生担当相 麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:21",
+   "label": "菅義偉官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:24",
+   "label": "谷内正太郎国家安全保障局長 石兼公博総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:57",
+   "label": "グリア経済協力開発機構（ＯＥＣＤ）事務総長の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:42",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:52",
+   "label": "内奏",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:29",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "16:02",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:32",
+   "label": "石原伸晃経済再生担当相 柳瀬唯夫経済産業政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:02",
+   "label": "岸田文雄外相 秋葉剛男審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "同ホテル内の宴会場「孔雀の間」で日米協会創立１００周年記念式典に出席し、あいさつ",
+   "place": "東京・内幸町の帝国ホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:59",
+   "label": "移動",
+   "place": "東京・内幸町の帝国ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 559
+  },
+  {
+   "start": "09:19",
+   "end": "09:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 58
+  },
+  {
+   "start": "10:34",
+   "end": "10:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:36",
+   "end": "10:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "10:44",
+   "end": "11:50",
+   "category": "国会",
+   "label": "参院外交防衛委員会",
+   "minutes": 66
+  },
+  {
+   "start": "11:50",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:51",
+   "end": "11:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:53",
+   "end": "12:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "12:10",
+   "end": "12:21",
+   "category": "面会・会談",
+   "label": "山本有二農林水産相 岸田文雄外相 世耕弘成経済産業相 石原伸晃経済再生担当相 麻生太郎副総理兼財務相",
+   "minutes": 11
+  },
+  {
+   "start": "12:21",
+   "end": "13:20",
+   "category": "面会・会談",
+   "label": "菅義偉官房長官",
+   "minutes": 59
+  },
+  {
+   "start": "13:20",
+   "end": "13:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:24",
+   "end": "13:34",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 石兼公博総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "minutes": 10
+  },
+  {
+   "start": "13:34",
+   "end": "13:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "13:57",
+   "end": "14:32",
+   "category": "面会・会談",
+   "label": "グリア経済協力開発機構（ＯＥＣＤ）事務総長の表敬",
+   "minutes": 35
+  },
+  {
+   "start": "14:32",
+   "end": "14:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "14:42",
+   "end": "14:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "14:52",
+   "end": "15:29",
+   "category": "式典・行事",
+   "label": "内奏",
+   "minutes": 37
+  },
+  {
+   "start": "15:29",
+   "end": "15:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "15:37",
+   "end": "16:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "16:02",
+   "end": "16:31",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 29
+  },
+  {
+   "start": "16:31",
+   "end": "16:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:32",
+   "end": "16:50",
+   "category": "面会・会談",
+   "label": "石原伸晃経済再生担当相 柳瀬唯夫経済産業政策局長",
+   "minutes": 18
+  },
+  {
+   "start": "16:50",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "17:02",
+   "end": "17:36",
+   "category": "面会・会談",
+   "label": "岸田文雄外相 秋葉剛男審議官",
+   "minutes": 34
+  },
+  {
+   "start": "17:36",
+   "end": "17:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "17:55",
+   "end": "18:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:00",
+   "end": "18:59",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「孔雀の間」で日米協会創立１００周年記念式典に出席し、あいさつ",
+   "minutes": 59
+  },
+  {
+   "start": "18:59",
+   "end": "19:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:04",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 296
+  }
+ ],
+ "alloc_min": {
+  "居所": 855,
+  "移動": 49,
+  "官邸執務": 87,
+  "公務（内容未詳）": 114,
+  "国会": 72,
+  "面会・会談": 167,
+  "式典・行事": 96
+ }
+}

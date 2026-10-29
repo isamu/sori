@@ -1,0 +1,138 @@
+{
+ "date": "2017-12-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 44,
+ "residence_min": 1319,
+ "meetings": 0,
+ "first_work": "14:20",
+ "events": [
+  {
+   "time": "14:20",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:27",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "15:32",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": "15:51",
+   "label": "利用客らと記念撮影",
+   "place": "東京・日本橋室町 日本橋三越本店",
+   "category": "個人"
+  },
+  {
+   "time": "15:55",
+   "label": "「2017年報道写真展」を鑑賞",
+   "place": "東京・日本橋室町 日本橋三越本店",
+   "category": "個人"
+  },
+  {
+   "time": "16:04",
+   "label": "報道各社のインタビュー",
+   "place": "東京・日本橋室町 日本橋三越本店",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:09",
+   "label": "移動",
+   "place": "東京・日本橋室町 日本橋三越本店",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 860
+  },
+  {
+   "start": "14:20",
+   "end": "14:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:27",
+   "end": "15:32",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 65
+  },
+  {
+   "start": "15:32",
+   "end": "15:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "15:51",
+   "end": "15:55",
+   "category": "個人",
+   "label": "利用客らと記念撮影",
+   "minutes": 4
+  },
+  {
+   "start": "15:55",
+   "end": "16:03",
+   "category": "個人",
+   "label": "「2017年報道写真展」を鑑賞",
+   "minutes": 8
+  },
+  {
+   "start": "16:03",
+   "end": "16:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:04",
+   "end": "16:09",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 5
+  },
+  {
+   "start": "16:09",
+   "end": "16:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "16:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 459
+  }
+ ],
+ "alloc_min": {
+  "居所": 1319,
+  "移動": 38,
+  "個人": 77,
+  "公務（内容未詳）": 1,
+  "取材・会見": 5
+ }
+}

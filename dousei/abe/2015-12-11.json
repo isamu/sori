@@ -1,0 +1,151 @@
+{
+ "date": "2015-12-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 913,
+ "residence_min": 527,
+ "meetings": 1,
+ "first_work": "08:47",
+ "events": [
+  {
+   "time": "08:47",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:08",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:38",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:41",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日印の企業関係者らが参加する「日インド・イノベーションセミナー」に出席し、あいさつ",
+   "place": "タージパレスホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ジャワハルラル・ネルー大学からの名誉博士号授与式",
+   "place": "タージパレスホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "スワラジ外相と会談",
+   "place": "タージパレスホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "インド・ニューデリーのパラム空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "タージパレスホテル",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 527
+  },
+  {
+   "start": "08:47",
+   "end": "09:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "09:04",
+   "end": "09:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:08",
+   "end": "09:25",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 17
+  },
+  {
+   "start": "09:25",
+   "end": "09:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "09:38",
+   "end": "09:40",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "09:40",
+   "end": "09:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:41",
+   "end": "10:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "10:00",
+   "end": "10:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "10:21",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 819
+  }
+ ],
+ "alloc_min": {
+  "居所": 527,
+  "移動": 57,
+  "公務（内容未詳）": 18,
+  "官邸執務": 17,
+  "取材・会見": 2,
+  "外遊": 819
+ }
+}

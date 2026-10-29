@@ -1,0 +1,259 @@
+{
+ "date": "2016-10-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 640,
+ "residence_min": 800,
+ "meetings": 1,
+ "first_work": "08:30",
+ "events": [
+  {
+   "time": "08:30",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:02",
+   "label": "花巻空港",
+   "place": "花巻空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:16",
+   "label": "達増拓也同県知事出迎え",
+   "place": "岩手県岩泉町の道の駅「三田貝分校」",
+   "category": "移動"
+  },
+  {
+   "time": "13:09",
+   "label": "視察",
+   "place": "同町の高齢者グループホーム「楽ん楽ん」",
+   "category": "視察"
+  },
+  {
+   "time": "13:19",
+   "label": "徒歩",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "13:21",
+   "label": "工場を視察",
+   "place": "同町の岩泉乳業",
+   "category": "視察"
+  },
+  {
+   "time": "13:44",
+   "label": "避難所を視察",
+   "place": "同町の岩泉町民会館",
+   "category": "視察"
+  },
+  {
+   "time": "13:59",
+   "label": "達増同県知事らと意見交換",
+   "place": "岩泉町役場",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:32",
+   "label": "報道各社のインタビュー",
+   "place": "岩泉町役場",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:14",
+   "label": "花巻空港",
+   "place": "花巻空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:17",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:29",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 510
+  },
+  {
+   "start": "08:30",
+   "end": "08:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "08:57",
+   "end": "09:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:09",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "10:02",
+   "end": "10:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "10:14",
+   "end": "12:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 122
+  },
+  {
+   "start": "12:16",
+   "end": "12:21",
+   "category": "移動",
+   "label": "達増拓也同県知事出迎え",
+   "minutes": 5
+  },
+  {
+   "start": "12:21",
+   "end": "13:09",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "13:09",
+   "end": "13:19",
+   "category": "視察",
+   "label": "視察",
+   "minutes": 10
+  },
+  {
+   "start": "13:19",
+   "end": "13:21",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 2
+  },
+  {
+   "start": "13:21",
+   "end": "13:30",
+   "category": "視察",
+   "label": "工場を視察",
+   "minutes": 9
+  },
+  {
+   "start": "13:30",
+   "end": "13:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "13:44",
+   "end": "13:58",
+   "category": "視察",
+   "label": "避難所を視察",
+   "minutes": 14
+  },
+  {
+   "start": "13:58",
+   "end": "13:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:59",
+   "end": "14:32",
+   "category": "面会・会談",
+   "label": "達増同県知事らと意見交換",
+   "minutes": 33
+  },
+  {
+   "start": "14:32",
+   "end": "14:35",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "14:35",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 159
+  },
+  {
+   "start": "17:14",
+   "end": "17:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "17:23",
+   "end": "18:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "18:17",
+   "end": "18:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "18:29",
+   "end": "19:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "19:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 290
+  }
+ ],
+ "alloc_min": {
+  "居所": 800,
+  "移動": 120,
+  "公務（内容未詳）": 403,
+  "視察": 81,
+  "面会・会談": 33,
+  "取材・会見": 3
+ }
+}

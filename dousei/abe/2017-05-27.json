@@ -1,0 +1,119 @@
+{
+ "date": "2017-05-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "Ｇ7首脳ワーキングランチ",
+   "place": "「サン・ドメニコ・パレス・ホテル」",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "Ｇ7首脳討議",
+   "place": "「サン・ドメニコ・パレス・ホテル」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "国連のグテレス事務総長と懇談",
+   "place": "「サン・ドメニコ・パレス・ホテル」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同首脳らと写真撮影",
+   "place": "「サン・ドメニコ・パレス・ホテル」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "Ｇ7とアフリカ5カ国、国際機関首脳との討議",
+   "place": "「サン・ドメニコ・パレス・ホテル」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ケニアのケニヤッタ大統領と立ち話",
+   "place": "「サン・ドメニコ・パレス・ホテル」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "地中海の島国マルタの首都バレッタ近郊のマルタ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "イタリア南部シチリア島のシゴネラ空軍基地",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "タオルミナ近郊の「アタホテル・ナクソス・ビーチ」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "マルタ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ムスカット氏主催の夕食会",
+   "place": "首相府",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "首相府",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ムスカット氏と会談",
+   "place": "首相府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "記帳",
+   "place": "首相府",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ムスカット首相による歓迎行事",
+   "place": "首相府",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "献花",
+   "place": "旧日本海軍戦没者墓地",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

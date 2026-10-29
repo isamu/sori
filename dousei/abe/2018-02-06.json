@@ -1,0 +1,416 @@
+{
+ "date": "2018-02-06",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 810,
+ "residence_min": 630,
+ "meetings": 4,
+ "first_work": "07:12",
+ "events": [
+  {
+   "time": "07:12",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:20",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:24",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:36",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "小野寺五典防衛相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "09:00",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "09:07",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:16",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:18",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:10",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:21",
+   "label": "谷内正太郎国家安全保障局長 秋葉剛男事務次官 森健良外務審議官 金杉憲治アジア大洋州局長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:52",
+   "label": "ドイツのシュタインマイヤー大統領を出迎え",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:53",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:01",
+   "label": "シュタインマイヤー大統領と会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:07",
+   "label": "共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:25",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:26",
+   "label": "首相夫妻主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:41",
+   "label": "昭恵夫人とともにシュタインマイヤー大統領夫妻を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 432
+  },
+  {
+   "start": "07:12",
+   "end": "07:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:13",
+   "end": "07:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:20",
+   "end": "08:20",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 60
+  },
+  {
+   "start": "08:20",
+   "end": "08:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:24",
+   "end": "08:35",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "08:35",
+   "end": "08:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:36",
+   "end": "08:39",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 3
+  },
+  {
+   "start": "08:39",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:58",
+   "end": "08:59",
+   "category": "国会",
+   "label": "小野寺五典防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "08:59",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:00",
+   "end": "09:04",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "minutes": 4
+  },
+  {
+   "start": "09:04",
+   "end": "09:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:07",
+   "end": "12:13",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 186
+  },
+  {
+   "start": "12:13",
+   "end": "12:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:16",
+   "end": "12:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 36
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:06",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 246
+  },
+  {
+   "start": "17:06",
+   "end": "17:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:10",
+   "end": "17:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:11",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:21",
+   "end": "17:36",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 秋葉剛男事務次官 森健良外務審議官 金杉憲治アジア大洋州局長 北村滋内閣情報官",
+   "minutes": 15
+  },
+  {
+   "start": "17:36",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "17:52",
+   "end": "17:53",
+   "category": "式典・行事",
+   "label": "ドイツのシュタインマイヤー大統領を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "17:53",
+   "end": "17:59",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 6
+  },
+  {
+   "start": "17:59",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:01",
+   "end": "19:04",
+   "category": "面会・会談",
+   "label": "シュタインマイヤー大統領と会談",
+   "minutes": 63
+  },
+  {
+   "start": "19:04",
+   "end": "19:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:07",
+   "end": "19:24",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 17
+  },
+  {
+   "start": "19:24",
+   "end": "19:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:25",
+   "end": "19:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:26",
+   "end": "20:41",
+   "category": "会食",
+   "label": "首相夫妻主催の夕食会",
+   "minutes": 75
+  },
+  {
+   "start": "20:41",
+   "end": "20:42",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともにシュタインマイヤー大統領夫妻を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "20:42",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 198
+  }
+ ],
+ "alloc_min": {
+  "居所": 630,
+  "移動": 8,
+  "公務（内容未詳）": 77,
+  "面会・会談": 141,
+  "官邸執務": 47,
+  "国会": 437,
+  "式典・行事": 8,
+  "取材・会見": 17,
+  "会食": 75
+ }
+}

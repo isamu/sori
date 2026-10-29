@@ -1,0 +1,266 @@
+{
+ "date": "2016-06-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 705,
+ "residence_min": 735,
+ "meetings": 0,
+ "first_work": "08:31",
+ "events": [
+  {
+   "time": "08:31",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:42",
+   "label": "ＪＲ新宿駅",
+   "place": "ＪＲ新宿駅",
+   "category": "その他"
+  },
+  {
+   "time": "10:38",
+   "label": "ＪＲ甲府駅",
+   "place": "ＪＲ甲府駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:51",
+   "label": "街頭演説",
+   "place": "甲府市 「井上鋼材」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:01",
+   "label": "街頭演説",
+   "place": "同市 朝気熊野神社前",
+   "category": "党務"
+  },
+  {
+   "time": "12:27",
+   "label": "参拝",
+   "place": "同市 朝気熊野神社",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:24",
+   "label": "トウモロコシなどを購入。昼食",
+   "place": "長野県富士見町 道の駅「信州蔦木宿」",
+   "category": "会食"
+  },
+  {
+   "time": "14:37",
+   "label": "街頭演説",
+   "place": "ＪＲ茅野駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "16:01",
+   "label": "街頭演説",
+   "place": "同県安曇野市 イベントホール安曇野スイス村サンモリッツ前",
+   "category": "党務"
+  },
+  {
+   "time": "17:41",
+   "label": "二線路通りを練り歩き",
+   "place": "長野市 「ショッピングプラザ　ａｇａｉｎ」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:50",
+   "label": "街頭演説、練り歩き",
+   "place": "ＪＲ長野駅善光寺口",
+   "category": "党務"
+  },
+  {
+   "time": "19:59",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "20:03",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 511
+  },
+  {
+   "start": "08:31",
+   "end": "08:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "08:42",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "09:01",
+   "end": "10:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 97
+  },
+  {
+   "start": "10:38",
+   "end": "10:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "10:39",
+   "end": "10:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "10:51",
+   "end": "11:31",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 40
+  },
+  {
+   "start": "11:31",
+   "end": "12:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "12:01",
+   "end": "12:27",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "12:27",
+   "end": "12:31",
+   "category": "式典・行事",
+   "label": "参拝",
+   "minutes": 4
+  },
+  {
+   "start": "12:31",
+   "end": "13:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "13:24",
+   "end": "14:05",
+   "category": "会食",
+   "label": "トウモロコシなどを購入。昼食",
+   "minutes": 41
+  },
+  {
+   "start": "14:05",
+   "end": "14:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "14:37",
+   "end": "15:16",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 39
+  },
+  {
+   "start": "15:16",
+   "end": "16:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "16:01",
+   "end": "16:34",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "16:34",
+   "end": "17:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "17:41",
+   "end": "17:50",
+   "category": "党務",
+   "label": "二線路通りを練り歩き",
+   "minutes": 9
+  },
+  {
+   "start": "17:50",
+   "end": "18:22",
+   "category": "党務",
+   "label": "街頭演説、練り歩き",
+   "minutes": 32
+  },
+  {
+   "start": "18:22",
+   "end": "19:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 97
+  },
+  {
+   "start": "19:59",
+   "end": "20:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "20:03",
+   "end": "20:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 224
+  }
+ ],
+ "alloc_min": {
+  "居所": 735,
+  "移動": 25,
+  "公務（内容未詳）": 456,
+  "党務": 179,
+  "式典・行事": 4,
+  "会食": 41
+ }
+}

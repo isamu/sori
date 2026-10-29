@@ -1,0 +1,130 @@
+{
+ "date": "2017-05-06",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 171,
+ "residence_min": 1118,
+ "meetings": 0,
+ "first_work": "13:27",
+ "events": [
+  {
+   "time": "13:27",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "13:38",
+   "label": "入浴",
+   "place": "山梨県富士吉田市 温泉施設「ふじやま温泉」",
+   "category": "個人"
+  },
+  {
+   "time": "16:09",
+   "label": "移動",
+   "place": "山梨県富士吉田市 温泉施設「ふじやま温泉」",
+   "category": "移動"
+  },
+  {
+   "time": "16:18",
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  },
+  {
+   "time": "18:13",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "18:22",
+   "label": "渋谷耕一リッキービジネスソリューション代表取締役、松崎勲森永商事社長、昭恵夫人らと食事。",
+   "place": "同県富士河口湖町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "会食"
+  },
+  {
+   "time": "20:35",
+   "label": "移動",
+   "place": "同県富士河口湖町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 807
+  },
+  {
+   "start": "13:27",
+   "end": "13:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "13:38",
+   "end": "16:09",
+   "category": "個人",
+   "label": "入浴",
+   "minutes": 151
+  },
+  {
+   "start": "16:09",
+   "end": "16:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "16:18",
+   "end": "18:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 115
+  },
+  {
+   "start": "18:13",
+   "end": "18:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:22",
+   "end": "20:35",
+   "category": "会食",
+   "label": "渋谷耕一リッキービジネスソリューション代表取締役、松崎勲森永商事社長、昭恵夫人らと食事。",
+   "minutes": 133
+  },
+  {
+   "start": "20:35",
+   "end": "20:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "20:44",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 196
+  }
+ ],
+ "alloc_min": {
+  "居所": 1118,
+  "移動": 38,
+  "個人": 151,
+  "会食": 133
+ }
+}

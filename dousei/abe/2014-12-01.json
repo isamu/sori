@@ -1,0 +1,334 @@
+{
+ "date": "2014-12-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 767,
+ "residence_min": 673,
+ "meetings": 3,
+ "first_work": "09:12",
+ "events": [
+  {
+   "time": "09:12",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:34",
+   "label": "北方領土隣接地域振興対策根室管内市町連絡協議会の長谷川俊輔北海道根室市長らの表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:44",
+   "label": "西村泰彦内閣危機管理監 高見沢将林官房副長官補 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:37",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:05",
+   "label": "日本記者クラブ主催の８党党首討論会",
+   "place": "東京・内幸町 日本プレスセンタービル",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:09",
+   "label": "移動",
+   "place": "東京・内幸町 日本プレスセンタービル",
+   "category": "移動"
+  },
+  {
+   "time": "15:22",
+   "label": "党選挙対策幹部会議",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "17:09",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:32",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:54",
+   "label": "控室で有村治子女性活躍担当相",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:23",
+   "label": "衆院選比例代表の政見放送収録",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "党務"
+  },
+  {
+   "time": "19:01",
+   "label": "移動",
+   "place": "東京・神南 ＮＨＫ",
+   "category": "移動"
+  },
+  {
+   "time": "19:14",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "20:00",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "20:09",
+   "label": "報道番組の収録",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:39",
+   "label": "移動",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 552
+  },
+  {
+   "start": "09:12",
+   "end": "09:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "09:29",
+   "end": "09:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:34",
+   "end": "09:43",
+   "category": "面会・会談",
+   "label": "北方領土隣接地域振興対策根室管内市町連絡協議会の長谷川俊輔北海道根室市長らの表敬",
+   "minutes": 9
+  },
+  {
+   "start": "09:43",
+   "end": "09:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:44",
+   "end": "09:54",
+   "category": "面会・会談",
+   "label": "西村泰彦内閣危機管理監 高見沢将林官房副長官補 北村滋内閣情報官",
+   "minutes": 10
+  },
+  {
+   "start": "09:54",
+   "end": "12:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 163
+  },
+  {
+   "start": "12:37",
+   "end": "12:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "12:44",
+   "end": "13:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "13:05",
+   "end": "15:07",
+   "category": "取材・会見",
+   "label": "日本記者クラブ主催の８党党首討論会",
+   "minutes": 122
+  },
+  {
+   "start": "15:07",
+   "end": "15:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:09",
+   "end": "15:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "15:14",
+   "end": "15:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "15:22",
+   "end": "16:44",
+   "category": "党務",
+   "label": "党選挙対策幹部会議",
+   "minutes": 82
+  },
+  {
+   "start": "16:44",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "17:06",
+   "end": "17:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 23
+  },
+  {
+   "start": "17:32",
+   "end": "17:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "17:51",
+   "end": "17:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:54",
+   "end": "17:59",
+   "category": "面会・会談",
+   "label": "控室で有村治子女性活躍担当相",
+   "minutes": 5
+  },
+  {
+   "start": "17:59",
+   "end": "18:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "18:23",
+   "end": "18:58",
+   "category": "党務",
+   "label": "衆院選比例代表の政見放送収録",
+   "minutes": 35
+  },
+  {
+   "start": "18:58",
+   "end": "19:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:01",
+   "end": "19:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "19:14",
+   "end": "20:00",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "minutes": 46
+  },
+  {
+   "start": "20:00",
+   "end": "20:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "20:09",
+   "end": "21:39",
+   "category": "取材・会見",
+   "label": "報道番組の収録",
+   "minutes": 90
+  },
+  {
+   "start": "21:39",
+   "end": "21:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "21:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 121
+  }
+ ],
+ "alloc_min": {
+  "居所": 673,
+  "移動": 93,
+  "公務（内容未詳）": 252,
+  "面会・会談": 24,
+  "取材・会見": 212,
+  "党務": 117,
+  "官邸執務": 23,
+  "会食": 46
+ }
+}

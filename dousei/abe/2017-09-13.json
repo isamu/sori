@@ -1,0 +1,97 @@
+{
+ "date": "2017-09-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 875,
+ "residence_min": 565,
+ "meetings": 0,
+ "first_work": "09:25",
+ "events": [
+  {
+   "time": "09:25",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:50",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "モディ首相主催夕食会",
+   "place": "レストラン「アガシエ」",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "視察",
+   "place": "シディ・サイヤド・モスク",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "モディ首相と視察",
+   "place": "マハトマ・ガンジーが独立運動の拠点としたサバルマティ・アシュラム",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "インド西部グジャラート州アーメダバードのサルダル・バラブバイ・パテル国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ハイアット・アーメダバード",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 565
+  },
+  {
+   "start": "09:25",
+   "end": "09:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "09:44",
+   "end": "09:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:50",
+   "end": "09:51",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:51",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 849
+  }
+ ],
+ "alloc_min": {
+  "居所": 565,
+  "移動": 19,
+  "公務（内容未詳）": 6,
+  "取材・会見": 1,
+  "外遊": 849
+ }
+}

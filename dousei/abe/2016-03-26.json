@@ -1,0 +1,104 @@
+{
+ "date": "2016-03-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 337,
+ "residence_min": 605,
+ "meetings": 0,
+ "first_work": "07:41",
+ "events": [
+  {
+   "time": "07:41",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:29",
+   "label": "友人とゴルフ",
+   "place": "静岡県小山町 ゴルフ場「東富士カントリークラブ」",
+   "category": "個人"
+  },
+  {
+   "time": "17:47",
+   "label": "移動",
+   "place": "静岡県小山町 ゴルフ場「東富士カントリークラブ」",
+   "category": "移動"
+  },
+  {
+   "time": "18:21",
+   "label": "友人、秘書官と食事",
+   "place": "山梨県富士河口湖町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "会食"
+  },
+  {
+   "time": "20:19",
+   "label": "移動",
+   "place": "山梨県富士河口湖町 中国料理店「異彩中国菜館　湖宮」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 461
+  },
+  {
+   "start": "07:41",
+   "end": "09:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 108
+  },
+  {
+   "start": "09:29",
+   "end": "17:47",
+   "category": "個人",
+   "label": "友人とゴルフ",
+   "minutes": 498
+  },
+  {
+   "start": "17:47",
+   "end": "18:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "18:21",
+   "end": "20:19",
+   "category": "会食",
+   "label": "友人、秘書官と食事",
+   "minutes": 118
+  },
+  {
+   "start": "20:19",
+   "end": "21:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 77
+  },
+  {
+   "start": "21:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 144
+  }
+ ],
+ "alloc_min": {
+  "居所": 605,
+  "移動": 219,
+  "個人": 498,
+  "会食": 118
+ }
+}

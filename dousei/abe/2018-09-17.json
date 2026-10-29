@@ -1,0 +1,378 @@
+{
+ "date": "2018-09-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 939,
+ "residence_min": 501,
+ "meetings": 0,
+ "first_work": "07:21",
+ "events": [
+  {
+   "time": "07:21",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:45",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:08",
+   "label": "青森空港",
+   "place": "青森空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "同ホテル内の宴会場「孔雀の間」で自民党総裁選の決起集会に出席し、演説",
+   "place": "青森市のホテル青森",
+   "category": "党務"
+  },
+  {
+   "time": "11:06",
+   "label": "同ホテル内の宴会場「あすなろの間」で青森県議らと昼食。写真撮影",
+   "place": "青森市のホテル青森",
+   "category": "会食"
+  },
+  {
+   "time": "12:14",
+   "label": "利用客と握手、写真撮影",
+   "place": "ＪＲ新青森駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:55",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "16:00",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "16:50",
+   "label": "報道番組に出演",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:29",
+   "label": "移動",
+   "place": "東京・東新橋 日本テレビ",
+   "category": "移動"
+  },
+  {
+   "time": "18:04",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:44",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": "19:03",
+   "label": "同ホテル内のレストラン『ＯＲＩＧＡＭＩ』で三谷英弘自民党衆院議員、和田政宗同党参院議員らと食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "19:43",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "19:52",
+   "label": "報道番組の収録",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:44",
+   "label": "移動",
+   "place": "東京・赤坂 ＴＢＳ",
+   "category": "移動"
+  },
+  {
+   "time": "20:50",
+   "label": "報道番組の収録",
+   "place": "東京・六本木 テレビ東京",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:40",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "22:08",
+   "label": "報道番組に出演",
+   "place": "東京・六本木 テレビ朝日",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:45",
+   "label": "移動",
+   "place": "東京・六本木 テレビ朝日",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 441
+  },
+  {
+   "start": "07:21",
+   "end": "07:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "07:45",
+   "end": "08:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "08:14",
+   "end": "09:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "09:08",
+   "end": "09:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "09:18",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "10:00",
+   "end": "10:56",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「孔雀の間」で自民党総裁選の決起集会に出席し、演説",
+   "minutes": 56
+  },
+  {
+   "start": "10:56",
+   "end": "11:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "11:06",
+   "end": "11:53",
+   "category": "会食",
+   "label": "同ホテル内の宴会場「あすなろの間」で青森県議らと昼食。写真撮影",
+   "minutes": 47
+  },
+  {
+   "start": "11:53",
+   "end": "12:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "12:14",
+   "end": "12:31",
+   "category": "移動",
+   "label": "利用客と握手、写真撮影",
+   "minutes": 17
+  },
+  {
+   "start": "12:31",
+   "end": "15:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 204
+  },
+  {
+   "start": "15:55",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "16:00",
+   "end": "16:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "16:12",
+   "end": "16:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "16:50",
+   "end": "17:25",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 35
+  },
+  {
+   "start": "17:25",
+   "end": "17:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:29",
+   "end": "17:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "17:41",
+   "end": "18:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "18:04",
+   "end": "18:42",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 38
+  },
+  {
+   "start": "18:42",
+   "end": "18:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:44",
+   "end": "19:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "19:03",
+   "end": "19:43",
+   "category": "会食",
+   "label": "同ホテル内のレストラン『ＯＲＩＧＡＭＩ』で三谷英弘自民党衆院議員、和田政宗同党参院議員らと食事",
+   "minutes": 40
+  },
+  {
+   "start": "19:43",
+   "end": "19:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:52",
+   "end": "20:44",
+   "category": "取材・会見",
+   "label": "報道番組の収録",
+   "minutes": 52
+  },
+  {
+   "start": "20:44",
+   "end": "20:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "20:50",
+   "end": "21:40",
+   "category": "取材・会見",
+   "label": "報道番組の収録",
+   "minutes": 50
+  },
+  {
+   "start": "21:40",
+   "end": "21:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "21:47",
+   "end": "22:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "22:08",
+   "end": "22:41",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 33
+  },
+  {
+   "start": "22:41",
+   "end": "22:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "22:45",
+   "end": "23:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "23:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 60
+  }
+ ],
+ "alloc_min": {
+  "居所": 501,
+  "移動": 160,
+  "公務（内容未詳）": 428,
+  "党務": 56,
+  "会食": 87,
+  "取材・会見": 208
+ }
+}

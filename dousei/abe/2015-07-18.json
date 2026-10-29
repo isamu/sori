@@ -1,0 +1,77 @@
+{
+ "date": "2015-07-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 51,
+ "residence_min": 1219,
+ "meetings": 0,
+ "first_work": "14:13",
+ "events": [
+  {
+   "time": "14:13",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:33",
+   "label": "江島潔自民党参院議員の長女の結婚披露宴に出席",
+   "place": "東京・下目黒 結婚式場「目黒雅叙園」",
+   "category": "個人"
+  },
+  {
+   "time": "17:23",
+   "label": "移動",
+   "place": "東京・下目黒 結婚式場「目黒雅叙園」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 853
+  },
+  {
+   "start": "14:13",
+   "end": "14:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "14:33",
+   "end": "17:23",
+   "category": "個人",
+   "label": "江島潔自民党参院議員の長女の結婚披露宴に出席",
+   "minutes": 170
+  },
+  {
+   "start": "17:23",
+   "end": "17:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "17:54",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 366
+  }
+ ],
+ "alloc_min": {
+  "居所": 1219,
+  "移動": 51,
+  "個人": 170
+ }
+}

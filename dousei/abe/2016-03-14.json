@@ -1,0 +1,295 @@
+{
+ "date": "2016-03-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 752,
+ "residence_min": 688,
+ "meetings": 2,
+ "first_work": "07:17",
+ "events": [
+  {
+   "time": "07:17",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:34",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "参院予算委",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:59",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "麻生太郎副総理兼財務相 塩崎恭久厚生労働相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:05",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:20",
+   "label": "自民党の谷垣禎一幹事長、二階俊博総務会長、稲田朋美政調会長ら",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:36",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:37",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:29",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "自民党の佐藤勉、公明党の大口善徳両国対委員長らと会食",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 437
+  },
+  {
+   "start": "07:17",
+   "end": "07:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "07:28",
+   "end": "07:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:34",
+   "end": "08:39",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 65
+  },
+  {
+   "start": "08:39",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:50",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:55",
+   "end": "11:55",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 180
+  },
+  {
+   "start": "11:55",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:57",
+   "end": "11:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 55
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 塩崎恭久厚生労働相",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "17:02",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 242
+  },
+  {
+   "start": "17:02",
+   "end": "17:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:05",
+   "end": "17:19",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 14
+  },
+  {
+   "start": "17:19",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:20",
+   "end": "17:33",
+   "category": "面会・会談",
+   "label": "自民党の谷垣禎一幹事長、二階俊博総務会長、稲田朋美政調会長ら",
+   "minutes": 13
+  },
+  {
+   "start": "17:33",
+   "end": "17:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:36",
+   "end": "17:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 52
+  },
+  {
+   "start": "18:29",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:30",
+   "end": "19:49",
+   "category": "会食",
+   "label": "自民党の佐藤勉、公明党の大口善徳両国対委員長らと会食",
+   "minutes": 79
+  },
+  {
+   "start": "19:49",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 251
+  }
+ ],
+ "alloc_min": {
+  "居所": 688,
+  "移動": 18,
+  "公務（内容未詳）": 33,
+  "面会・会談": 78,
+  "国会": 423,
+  "官邸執務": 107,
+  "党務": 14,
+  "会食": 79
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "date": "2014-12-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 723,
+ "residence_min": 709,
+ "meetings": 0,
+ "first_work": "09:29",
+ "events": [
+  {
+   "time": "09:29",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:33",
+   "label": "衆院選の不在者投票",
+   "place": "東京・宇田川町 渋谷区役所",
+   "category": "個人"
+  },
+  {
+   "time": "10:12",
+   "label": "街頭演説",
+   "place": "東京・西葛西 東京メトロ東西線西葛西駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "11:00",
+   "label": "街頭演説",
+   "place": "東京・豊洲 ホームセンター「スーパービバホーム豊洲店」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:23",
+   "label": "街頭演説",
+   "place": "ＪＲ赤羽駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "13:17",
+   "label": "街頭演説",
+   "place": "ＪＲ中野駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "13:44",
+   "label": "同施設内のレストラン「１２１ダイニング」で秘書官らと食事",
+   "place": "東京・中野 複合施設「中野サンプラザ」",
+   "category": "会食"
+  },
+  {
+   "time": "14:45",
+   "label": "街頭演説",
+   "place": "ＪＲ大井町駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "16:10",
+   "label": "街頭演説",
+   "place": "東京都府中市 ショッピングセンター「フォーリス」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:03",
+   "label": "街頭演説",
+   "place": "ＪＲ国分寺駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "18:05",
+   "label": "街頭演説",
+   "place": "ＪＲ立川駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "19:11",
+   "label": "街頭演説",
+   "place": "ＪＲ八王子駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "19:35",
+   "label": "移動",
+   "place": "ＪＲ八王子駅北口",
+   "category": "移動"
+  },
+  {
+   "time": "21:15",
+   "label": "ＮＨＫのインタビュー",
+   "place": "私邸",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 569
+  },
+  {
+   "start": "09:29",
+   "end": "09:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "09:33",
+   "end": "09:41",
+   "category": "個人",
+   "label": "衆院選の不在者投票",
+   "minutes": 8
+  },
+  {
+   "start": "09:41",
+   "end": "10:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "10:12",
+   "end": "10:41",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "10:41",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "11:00",
+   "end": "11:26",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "11:26",
+   "end": "12:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "12:23",
+   "end": "12:49",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "12:49",
+   "end": "13:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "13:17",
+   "end": "13:41",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "13:41",
+   "end": "13:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:44",
+   "end": "14:07",
+   "category": "会食",
+   "label": "同施設内のレストラン「１２１ダイニング」で秘書官らと食事",
+   "minutes": 23
+  },
+  {
+   "start": "14:07",
+   "end": "14:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "14:45",
+   "end": "15:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "15:10",
+   "end": "16:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "16:10",
+   "end": "16:42",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "16:42",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "17:03",
+   "end": "17:26",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 23
+  },
+  {
+   "start": "17:26",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "18:05",
+   "end": "18:32",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "18:32",
+   "end": "19:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "19:11",
+   "end": "19:35",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "19:35",
+   "end": "20:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 44
+  },
+  {
+   "start": "20:19",
+   "end": "21:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "21:15",
+   "end": "21:40",
+   "category": "取材・会見",
+   "label": "ＮＨＫのインタビュー",
+   "minutes": 25
+  },
+  {
+   "start": "21:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 140
+  }
+ ],
+ "alloc_min": {
+  "居所": 709,
+  "移動": 48,
+  "個人": 8,
+  "公務（内容未詳）": 391,
+  "党務": 236,
+  "会食": 23,
+  "取材・会見": 25
+ }
+}

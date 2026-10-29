@@ -1,0 +1,86 @@
+{
+ "date": "2018-05-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1150,
+ "residence_min": 290,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "発",
+   "place": "モスクワのブヌコボ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:46",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:01",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:56",
+   "label": "西村康稔官房副長官 野上浩太郎官房副長官",
+   "place": "私邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:46",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 886
+  },
+  {
+   "start": "14:46",
+   "end": "15:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "15:01",
+   "end": "15:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "15:27",
+   "end": "16:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 89
+  },
+  {
+   "start": "16:56",
+   "end": "19:10",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官 野上浩太郎官房副長官",
+   "minutes": 134
+  },
+  {
+   "start": "19:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 290
+  }
+ ],
+ "alloc_min": {
+  "外遊": 886,
+  "移動": 41,
+  "公務（内容未詳）": 89,
+  "面会・会談": 134,
+  "居所": 290
+ }
+}

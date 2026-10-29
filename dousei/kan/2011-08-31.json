@@ -1,0 +1,77 @@
+{
+ "date": "2011-08-31",
+ "pm": "菅直人",
+ "source": "朝日新聞社 2011.08.31",
+ "work_min": 0,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "野田新首相",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": null,
+   "label": "民主党両院議員総会",
+   "place": "国会",
+   "category": "党務"
+  },
+  {
+   "time": null,
+   "label": "衆院第1議員会館の菅事務所",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・神田駿河台の総評会館内の連合本部で古賀伸明会長",
+   "place": "神田駿河台",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東京・八重洲の京セラ東京八重洲事業所で同社の稲盛和夫名誉会長",
+   "place": "八重洲",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "その他",
+   "label": "内容未詳",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "その他": 1440
+ }
+}

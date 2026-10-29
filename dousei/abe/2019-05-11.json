@@ -1,0 +1,77 @@
+{
+ "date": "2019-05-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 53,
+ "residence_min": 1327,
+ "meetings": 0,
+ "first_work": "12:07",
+ "events": [
+  {
+   "time": "12:07",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:33",
+   "label": "昭恵夫人とともに母親の洋子さんの見舞い",
+   "place": "東京・本郷 東京大医学部付属病院",
+   "category": "個人"
+  },
+  {
+   "time": "13:33",
+   "label": "移動",
+   "place": "東京・本郷 東京大医学部付属病院",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 727
+  },
+  {
+   "start": "12:07",
+   "end": "12:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "12:33",
+   "end": "13:33",
+   "category": "個人",
+   "label": "昭恵夫人とともに母親の洋子さんの見舞い",
+   "minutes": 60
+  },
+  {
+   "start": "13:33",
+   "end": "14:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "14:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 600
+  }
+ ],
+ "alloc_min": {
+  "居所": 1327,
+  "移動": 53,
+  "個人": 60
+ }
+}

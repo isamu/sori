@@ -1,0 +1,313 @@
+{
+ "date": "2017-02-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 929,
+ "residence_min": 511,
+ "meetings": 2,
+ "first_work": "06:56",
+ "events": [
+  {
+   "time": "06:56",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:11",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:29",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:12",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:13",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:04",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:38",
+   "label": "マティス米国防長官の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:42",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:44",
+   "label": "同ホテル内の日本料理店「水簾」でトヨタ自動車の豊田章男社長と会食。菅義偉官房長官同席",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "20:35",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "20:55",
+   "label": "同ホテル内の宴会場「蘭の間」で稲田朋美防衛相主催のマティス米国防長官との夕食会に出席",
+   "place": "東京・内幸町 帝国ホテル",
+   "category": "会食"
+  },
+  {
+   "time": "22:06",
+   "label": "移動",
+   "place": "東京・内幸町 帝国ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 416
+  },
+  {
+   "start": "06:56",
+   "end": "07:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "07:10",
+   "end": "07:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:11",
+   "end": "08:20",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 69
+  },
+  {
+   "start": "08:20",
+   "end": "08:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:29",
+   "end": "08:38",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "08:38",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:00",
+   "end": "12:08",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 188
+  },
+  {
+   "start": "12:08",
+   "end": "12:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "12:12",
+   "end": "12:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 41
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 241
+  },
+  {
+   "start": "17:01",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:04",
+   "end": "17:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:06",
+   "end": "17:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "17:38",
+   "end": "18:30",
+   "category": "面会・会談",
+   "label": "マティス米国防長官の表敬",
+   "minutes": 52
+  },
+  {
+   "start": "18:30",
+   "end": "18:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "18:42",
+   "end": "18:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:44",
+   "end": "20:35",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「水簾」でトヨタ自動車の豊田章男社長と会食。菅義偉官房長官同席",
+   "minutes": 111
+  },
+  {
+   "start": "20:35",
+   "end": "20:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "20:55",
+   "end": "22:06",
+   "category": "会食",
+   "label": "同ホテル内の宴会場「蘭の間」で稲田朋美防衛相主催のマティス米国防長官との夕食会に出席",
+   "minutes": 71
+  },
+  {
+   "start": "22:06",
+   "end": "22:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "22:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 95
+  }
+ ],
+ "alloc_min": {
+  "居所": 511,
+  "移動": 60,
+  "公務（内容未詳）": 87,
+  "面会・会談": 121,
+  "官邸執務": 50,
+  "国会": 429,
+  "会食": 182
+ }
+}

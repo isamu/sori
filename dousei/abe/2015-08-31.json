@@ -1,0 +1,208 @@
+{
+ "date": "2015-08-31",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 593,
+ "residence_min": 847,
+ "meetings": 3,
+ "first_work": "09:31",
+ "events": [
+  {
+   "time": "09:31",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:53",
+   "label": "佐々江賢一郎駐米大使 斎木昭隆事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:45",
+   "label": "谷本正憲石川県知事によるブドウの贈呈。北村茂男環境副大臣同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:18",
+   "label": "平松賢司総合外交政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:58",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:41",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:42",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:59",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "衆院平和安全法制特別委員会の浜田靖一委員長、遠山清彦理事らと会食。菅義偉、加藤勝信正副官房長官同席",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 571
+  },
+  {
+   "start": "09:31",
+   "end": "09:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:44",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "09:53",
+   "end": "10:37",
+   "category": "面会・会談",
+   "label": "佐々江賢一郎駐米大使 斎木昭隆事務次官",
+   "minutes": 44
+  },
+  {
+   "start": "10:37",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 68
+  },
+  {
+   "start": "11:45",
+   "end": "11:53",
+   "category": "面会・会談",
+   "label": "谷本正憲石川県知事によるブドウの贈呈。北村茂男環境副大臣同席",
+   "minutes": 8
+  },
+  {
+   "start": "11:53",
+   "end": "16:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 265
+  },
+  {
+   "start": "16:18",
+   "end": "16:43",
+   "category": "面会・会談",
+   "label": "平松賢司総合外交政策局長",
+   "minutes": 25
+  },
+  {
+   "start": "16:43",
+   "end": "16:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "16:58",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:59",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:01",
+   "end": "17:15",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 14
+  },
+  {
+   "start": "17:15",
+   "end": "17:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "17:41",
+   "end": "17:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 17
+  },
+  {
+   "start": "17:59",
+   "end": "18:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:00",
+   "end": "19:24",
+   "category": "会食",
+   "label": "衆院平和安全法制特別委員会の浜田靖一委員長、遠山清彦理事らと会食。菅義偉、加藤勝信正副官房長官同席",
+   "minutes": 84
+  },
+  {
+   "start": "19:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 276
+  }
+ ],
+ "alloc_min": {
+  "居所": 847,
+  "移動": 16,
+  "公務（内容未詳）": 385,
+  "面会・会談": 77,
+  "党務": 14,
+  "官邸執務": 17,
+  "会食": 84
+ }
+}

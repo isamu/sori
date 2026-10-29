@@ -1,0 +1,44 @@
+{
+ "date": "2017-09-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 90,
+ "residence_min": 1350,
+ "meetings": 1,
+ "first_work": "20:20",
+ "events": [
+  {
+   "time": "20:20",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "私邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "20:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1220
+  },
+  {
+   "start": "20:20",
+   "end": "21:50",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 90
+  },
+  {
+   "start": "21:50",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 130
+  }
+ ],
+ "alloc_min": {
+  "居所": 1350,
+  "面会・会談": 90
+ }
+}

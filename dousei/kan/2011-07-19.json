@@ -1,0 +1,172 @@
+{
+ "date": "2011-07-19",
+ "pm": "菅直人",
+ "source": "朝日新聞社 2011.07.19",
+ "work_min": 736,
+ "residence_min": 704,
+ "meetings": 4,
+ "first_work": "07:03",
+ "events": [
+  {
+   "time": "07:03",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同6分、福山官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同43分、福山氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:14",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同16分、閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同10分、サッカー日本女子代表の佐々木則夫監督、沢穂希主将ら。枝野官房長官、高木文科相ら同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同23分、枝野長官、大塚厚労副大臣、筒井農水副大臣",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "同56分、国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同59分、衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:17",
+   "label": "東京・内幸町の帝国ホテル。故・笹森清さんのお別れの会に出席",
+   "place": "帝国ホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "同57分、官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:34",
+   "label": "原子力災害対策本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:19",
+   "label": "同本部終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": null,
+   "label": "同59分、公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 423
+  },
+  {
+   "start": "07:03",
+   "end": "08:14",
+   "category": "面会・会談",
+   "label": "同6分、福山官房副長官",
+   "minutes": 71
+  },
+  {
+   "start": "08:14",
+   "end": "09:00",
+   "category": "官邸執務",
+   "label": "同16分、閣議",
+   "minutes": 46
+  },
+  {
+   "start": "09:00",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 185
+  },
+  {
+   "start": "12:05",
+   "end": "17:17",
+   "category": "面会・会談",
+   "label": "同10分、サッカー日本女子代表の佐々木則夫監督、沢穂希主将ら。枝野官房長官、高木文科相ら同席",
+   "minutes": 312
+  },
+  {
+   "start": "17:17",
+   "end": "18:34",
+   "category": "式典・行事",
+   "label": "東京・内幸町の帝国ホテル。故・笹森清さんのお別れの会に出席",
+   "minutes": 77
+  },
+  {
+   "start": "18:34",
+   "end": "19:19",
+   "category": "官邸執務",
+   "label": "原子力災害対策本部",
+   "minutes": 45
+  },
+  {
+   "start": "19:19",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 281
+  }
+ ],
+ "alloc_min": {
+  "居所": 704,
+  "面会・会談": 383,
+  "官邸執務": 91,
+  "国会": 185,
+  "式典・行事": 77
+ }
+}

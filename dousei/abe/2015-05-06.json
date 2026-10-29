@@ -1,0 +1,77 @@
+{
+ "date": "2015-05-06",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 114,
+ "residence_min": 912,
+ "meetings": 0,
+ "first_work": "07:24",
+ "events": [
+  {
+   "time": "07:24",
+   "label": "移動",
+   "place": "山梨県鳴沢村の別荘",
+   "category": "移動"
+  },
+  {
+   "time": "07:47",
+   "label": "経団連の御手洗冨士夫名誉会長、榊原定征会長、渡文明ＪＸホールディングス名誉顧問とゴルフ",
+   "place": "同県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "個人"
+  },
+  {
+   "time": "14:41",
+   "label": "移動",
+   "place": "同県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:24",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 444
+  },
+  {
+   "start": "07:24",
+   "end": "07:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "07:47",
+   "end": "14:41",
+   "category": "個人",
+   "label": "経団連の御手洗冨士夫名誉会長、榊原定征会長、渡文明ＪＸホールディングス名誉顧問とゴルフ",
+   "minutes": 414
+  },
+  {
+   "start": "14:41",
+   "end": "16:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 91
+  },
+  {
+   "start": "16:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 468
+  }
+ ],
+ "alloc_min": {
+  "居所": 912,
+  "移動": 114,
+  "個人": 414
+ }
+}

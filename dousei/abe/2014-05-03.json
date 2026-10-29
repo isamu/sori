@@ -1,0 +1,77 @@
+{
+ "date": "2014-05-03",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.05.03",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間2日）午後、ポルトガル・リスボンのシャンパリモー財団「未知の世界センター」訪問",
+   "place": "—",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "ベレン宮殿でカバコシルバ大統領を表敬",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "首相官邸でコエリョ首相と首脳会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日ポルトガル共同記者発表",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "コエリョ首相主催の晩餐（ばんさん）会",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "フォーシーズンズホテルリッツ泊",
+   "place": "フォーシーズンズホテルリッツ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間3日）午前、ジェロニモス修道院訪問",
+   "place": "フォーシーズンズホテルリッツ",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "避暑地のシントラでペナ宮殿を視察",
+   "place": "フォーシーズンズホテルリッツ",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "午後、ロカ岬を視察",
+   "place": "フォーシーズンズホテルリッツ",
+   "category": "視察"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

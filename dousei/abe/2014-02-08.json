@@ -1,0 +1,59 @@
+{
+ "date": "2014-02-08",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.02.08",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間7日）午後、ロシア・ソチの五輪スタジアムで開かれた冬季五輪開会式に出席",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ダゴミスホテル泊",
+   "place": "ダゴミスホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間8日）午前、五輪選手村で日本選手団を激励",
+   "place": "ダゴミスホテル",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "午後、大統領公邸でプーチン大統領と首脳会談",
+   "place": "ダゴミスホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "大統領主催の昼食会",
+   "place": "ダゴミスホテル",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ダゴミスホテルで内外記者会見",
+   "place": "ダゴミスホテル",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

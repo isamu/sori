@@ -1,0 +1,77 @@
+{
+ "date": "2016-10-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 35,
+ "residence_min": 1234,
+ "meetings": 0,
+ "first_work": "10:00",
+ "events": [
+  {
+   "time": "10:00",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:16",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "個人"
+  },
+  {
+   "time": "13:07",
+   "label": "移動",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 600
+  },
+  {
+   "start": "10:00",
+   "end": "10:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "10:16",
+   "end": "13:07",
+   "category": "個人",
+   "label": "同ホテル内の「ＮＡＧＯＭＩスパアンドフィットネス」で運動",
+   "minutes": 171
+  },
+  {
+   "start": "13:07",
+   "end": "13:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "13:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 634
+  }
+ ],
+ "alloc_min": {
+  "居所": 1234,
+  "移動": 35,
+  "個人": 171
+ }
+}

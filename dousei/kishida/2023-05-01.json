@@ -1,0 +1,89 @@
+{
+ "date": "2023-05-01",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "発",
+   "place": "エジプト・カイロのカイロ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "「ケンピンスキー・ホテル・ゴールド・コースト・シティ」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "「ケンピンスキー・ホテル・ゴールド・コースト・シティ」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "大統領主催の夕食会",
+   "place": "大統領府",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "大統領府",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "署名式",
+   "place": "大統領府",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "アクフォアド大統領と首脳会談",
+   "place": "大統領府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "視察",
+   "place": "ガーナ大の野口記念医学研究所",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "国際協力機構（ＪＩＣＡ）海外協力隊員らの表敬",
+   "place": "ホテル「ケンピンスキー・ホテル・ゴールド・コースト・シティ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日本企業関係者と昼食会",
+   "place": "ホテル「ケンピンスキー・ホテル・ゴールド・コースト・シティ」",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ガーナ・アクラのコトカ国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

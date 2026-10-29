@@ -1,0 +1,261 @@
+{
+ "date": "2018-03-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 704,
+ "residence_min": 736,
+ "meetings": 2,
+ "first_work": "07:12",
+ "events": [
+  {
+   "time": "07:12",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:35",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:20",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:47",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:05",
+   "label": "ロシアのプーチン大統領と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 432
+  },
+  {
+   "start": "07:12",
+   "end": "07:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "07:23",
+   "end": "07:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "07:35",
+   "end": "08:39",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 64
+  },
+  {
+   "start": "08:39",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:58",
+   "end": "11:54",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 176
+  },
+  {
+   "start": "11:54",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:56",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 57
+  },
+  {
+   "start": "12:55",
+   "end": "12:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:57",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:00",
+   "end": "17:17",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 257
+  },
+  {
+   "start": "17:17",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:20",
+   "end": "17:43",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 23
+  },
+  {
+   "start": "17:43",
+   "end": "17:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:47",
+   "end": "17:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:48",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "18:05",
+   "end": "18:25",
+   "category": "面会・会談",
+   "label": "ロシアのプーチン大統領と電話会談",
+   "minutes": 20
+  },
+  {
+   "start": "18:25",
+   "end": "18:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "18:55",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:56",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 304
+  }
+ ],
+ "alloc_min": {
+  "居所": 736,
+  "移動": 18,
+  "公務（内容未詳）": 89,
+  "面会・会談": 84,
+  "国会": 433,
+  "官邸執務": 57,
+  "党務": 23
+ }
+}

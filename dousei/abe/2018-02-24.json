@@ -1,0 +1,77 @@
+{
+ "date": "2018-02-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 29,
+ "residence_min": 1324,
+ "meetings": 0,
+ "first_work": "14:41",
+ "events": [
+  {
+   "time": "14:41",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:57",
+   "label": "同ホテル内の「村儀理容室」で散髪",
+   "place": "東京・西新宿 ホテル「ヒルトン東京」",
+   "category": "個人"
+  },
+  {
+   "time": "16:24",
+   "label": "移動",
+   "place": "東京・西新宿 ホテル「ヒルトン東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 881
+  },
+  {
+   "start": "14:41",
+   "end": "14:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "14:57",
+   "end": "16:24",
+   "category": "個人",
+   "label": "同ホテル内の「村儀理容室」で散髪",
+   "minutes": 87
+  },
+  {
+   "start": "16:24",
+   "end": "16:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "16:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 443
+  }
+ ],
+ "alloc_min": {
+  "居所": 1324,
+  "移動": 29,
+  "個人": 87
+ }
+}

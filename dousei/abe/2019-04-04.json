@@ -1,0 +1,355 @@
+{
+ "date": "2019-04-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 795,
+ "residence_min": 645,
+ "meetings": 3,
+ "first_work": "07:28",
+ "events": [
+  {
+   "time": "07:28",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:35",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "参院決算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:01",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院決算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:08",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "18:07",
+   "label": "パナマのバレラ大統領を出迎え。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:08",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:17",
+   "label": "バレラ大統領と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:57",
+   "label": "共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:13",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:14",
+   "label": "首相夫妻主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:29",
+   "label": "昭恵夫人とともにバレラ大統領を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:35",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 448
+  },
+  {
+   "start": "07:28",
+   "end": "07:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:29",
+   "end": "07:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:35",
+   "end": "08:48",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 73
+  },
+  {
+   "start": "08:48",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:54",
+   "end": "08:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "08:58",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:00",
+   "end": "11:53",
+   "category": "国会",
+   "label": "参院決算委員会",
+   "minutes": 173
+  },
+  {
+   "start": "11:53",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:56",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:58",
+   "end": "12:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:01",
+   "end": "12:05",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 4
+  },
+  {
+   "start": "12:05",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:05",
+   "category": "国会",
+   "label": "参院決算委員会",
+   "minutes": 245
+  },
+  {
+   "start": "17:05",
+   "end": "17:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:08",
+   "end": "17:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:10",
+   "end": "18:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "18:07",
+   "end": "18:08",
+   "category": "式典・行事",
+   "label": "パナマのバレラ大統領を出迎え。記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "18:08",
+   "end": "18:15",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 7
+  },
+  {
+   "start": "18:15",
+   "end": "18:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:17",
+   "end": "18:53",
+   "category": "面会・会談",
+   "label": "バレラ大統領と首脳会談",
+   "minutes": 36
+  },
+  {
+   "start": "18:53",
+   "end": "18:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:57",
+   "end": "19:12",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 15
+  },
+  {
+   "start": "19:12",
+   "end": "19:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:13",
+   "end": "19:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:14",
+   "end": "20:29",
+   "category": "会食",
+   "label": "首相夫妻主催の夕食会",
+   "minutes": 75
+  },
+  {
+   "start": "20:29",
+   "end": "20:30",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともにバレラ大統領を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "20:30",
+   "end": "20:35",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 5
+  },
+  {
+   "start": "20:35",
+   "end": "20:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 192
+  }
+ ],
+ "alloc_min": {
+  "居所": 645,
+  "移動": 25,
+  "公務（内容未詳）": 140,
+  "面会・会談": 113,
+  "国会": 418,
+  "式典・行事": 9,
+  "取材・会見": 15,
+  "会食": 75
+ }
+}

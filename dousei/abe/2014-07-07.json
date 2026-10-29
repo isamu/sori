@@ -1,0 +1,113 @@
+{
+ "date": "2014-07-07",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.07.07",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間7日）午前、ニュージーランド・オークランドの総督官邸で歓迎行事",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "キー首相と首脳会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "共同記者会見",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ワイン醸造所「ヴィラ・マリア」でラグビーのニュージーランド代表「オールブラックス」メンバーらによる表敬",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "キー首相主催の昼食会",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "午後、カンリフ野党党首による表敬",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "政府専用機でオークランド国際空港発",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "クライストチャーチ国際空港着",
+   "place": "クライストチャーチ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "カンタベリーテレビ（ＣＴＶ）ビル跡地、仮設大聖堂を視察",
+   "place": "クライストチャーチ国際空港",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "クライストチャーチ国際空港発",
+   "place": "クライストチャーチ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "キャンベラ国際空港着",
+   "place": "キャンベラ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ハイアットホテル・キャンベラ",
+   "place": "ハイアットホテル・キャンベラ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "議会でアボット豪首相らと食事",
+   "place": "ハイアットホテル・キャンベラ",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "同ホテル",
+   "place": "ハイアットホテル・キャンベラ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日経新聞のインタビュー",
+   "place": "ハイアットホテル・キャンベラ",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

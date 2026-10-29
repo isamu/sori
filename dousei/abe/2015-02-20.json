@@ -1,0 +1,329 @@
+{
+ "date": "2015-02-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 802,
+ "residence_min": 638,
+ "meetings": 3,
+ "first_work": "07:09",
+ "events": [
+  {
+   "time": "07:09",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:11",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:17",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:52",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:03",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:17",
+   "label": "斎木昭隆事務次官 杉山晋輔外務審議官 林肇欧州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:16",
+   "label": "カタールのタミム首長を迎える儀仗隊（ぎじょうたい）による儀礼",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:23",
+   "label": "タミム首長と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:07",
+   "label": "署名式",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:18",
+   "label": "安倍晋三首相主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:31",
+   "label": "タミム首長を見送り",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:09",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 429
+  },
+  {
+   "start": "07:09",
+   "end": "07:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:10",
+   "end": "07:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:11",
+   "end": "08:16",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 65
+  },
+  {
+   "start": "08:16",
+   "end": "08:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:17",
+   "end": "08:26",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "08:26",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:50",
+   "end": "08:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:52",
+   "end": "08:54",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 2
+  },
+  {
+   "start": "08:54",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:59",
+   "end": "12:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 182
+  },
+  {
+   "start": "12:01",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 241
+  },
+  {
+   "start": "17:01",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:03",
+   "end": "17:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:04",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "17:17",
+   "end": "17:51",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官 杉山晋輔外務審議官 林肇欧州局長",
+   "minutes": 34
+  },
+  {
+   "start": "17:51",
+   "end": "18:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "18:16",
+   "end": "18:21",
+   "category": "式典・行事",
+   "label": "カタールのタミム首長を迎える儀仗隊（ぎじょうたい）による儀礼",
+   "minutes": 5
+  },
+  {
+   "start": "18:21",
+   "end": "18:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:23",
+   "end": "18:57",
+   "category": "面会・会談",
+   "label": "タミム首長と首脳会談",
+   "minutes": 34
+  },
+  {
+   "start": "18:57",
+   "end": "19:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "19:07",
+   "end": "19:16",
+   "category": "式典・行事",
+   "label": "署名式",
+   "minutes": 9
+  },
+  {
+   "start": "19:16",
+   "end": "19:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:17",
+   "end": "19:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:18",
+   "end": "20:31",
+   "category": "会食",
+   "label": "安倍晋三首相主催の夕食会",
+   "minutes": 73
+  },
+  {
+   "start": "20:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 209
+  }
+ ],
+ "alloc_min": {
+  "居所": 638,
+  "移動": 6,
+  "公務（内容未詳）": 142,
+  "面会・会談": 133,
+  "官邸執務": 9,
+  "国会": 425,
+  "式典・行事": 14,
+  "会食": 73
+ }
+}

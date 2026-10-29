@@ -1,0 +1,83 @@
+{
+ "date": "2019-08-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 6,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "トランプ米大統領と会談",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "Ｇ７首脳のセッション",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "チリのピニェラ大統領と会談",
+   "place": "ビアリッツのオテル・デュ・パレ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "拡大セッション",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "トランプ大統領と再会談",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "拡大ワーキングランチ",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "オーストラリアのモリソン首相と会談",
+   "place": "ベルビュー・コンベンションセンター",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ビアリッツのオテル・デュ・パレ",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "マクロン仏大統領夫妻主催拡大夕食会",
+   "place": "ビアリッツのオテル・デュ・パレ",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "写真撮影",
+   "place": "ビアリッツのオテル・デュ・パレ",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

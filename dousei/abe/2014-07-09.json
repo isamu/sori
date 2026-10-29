@@ -1,0 +1,101 @@
+{
+ "date": "2014-07-09",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.07.09",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間9日）午前、豪政府専用機でオーストラリアのキャンベラ国際空港発",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "西豪州のパラバドゥー空港着",
+   "place": "パラバドゥー空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "午後、豪政府調達機に乗り換え、パラバドゥー空港発",
+   "place": "パラバドゥー空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ウエスト・アンジェラス空港着",
+   "place": "ウエスト・アンジェラス空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ウエスト・アンジェラス鉱山で採掘現場を視察",
+   "place": "ウエスト・アンジェラス空港",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "ウエスト・アンジェラス空港発",
+   "place": "ウエスト・アンジェラス空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "パラバドゥー空港着",
+   "place": "パラバドゥー空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "豪政府専用機に乗り換え、パラバドゥー空港発",
+   "place": "パラバドゥー空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "パース空港着",
+   "place": "パース空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ハイアットリージェンシー・パース",
+   "place": "パース空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "クラウンパースホテルでバーネット西豪州首相による表敬",
+   "place": "パース空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "アボット豪首相、バーネット氏共催の夕食会",
+   "place": "パース空港",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ハイアットリージェンシー・パース泊",
+   "place": "パース空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

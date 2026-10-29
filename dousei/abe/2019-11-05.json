@@ -1,0 +1,103 @@
+{
+ "date": "2019-11-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1197,
+ "residence_min": 243,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "発",
+   "place": "タイ・バンコクのドンムアン空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日系企業関係者と朝食会",
+   "place": "タイ・バンコク",
+   "category": "会食"
+  },
+  {
+   "time": "18:59",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:10",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:34",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:43",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "18:59",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1139
+  },
+  {
+   "start": "18:59",
+   "end": "19:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "19:10",
+   "end": "19:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "19:34",
+   "end": "19:43",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 9
+  },
+  {
+   "start": "19:43",
+   "end": "19:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "19:57",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 243
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1139,
+  "移動": 49,
+  "式典・行事": 9,
+  "居所": 243
+ }
+}

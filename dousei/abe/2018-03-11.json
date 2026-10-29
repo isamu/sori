@@ -1,0 +1,92 @@
+{
+ "date": "2018-03-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 115,
+ "residence_min": 1325,
+ "meetings": 0,
+ "first_work": "13:56",
+ "events": [
+  {
+   "time": "13:56",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:30",
+   "label": "政府主催の「東日本大震災７周年追悼式」に参列し、式辞、献花",
+   "place": "東京・隼町 国立劇場",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:31",
+   "label": "移動",
+   "place": "東京・隼町 国立劇場",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:56",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 836
+  },
+  {
+   "start": "13:56",
+   "end": "14:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "14:14",
+   "end": "14:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "14:30",
+   "end": "15:30",
+   "category": "式典・行事",
+   "label": "政府主催の「東日本大震災７周年追悼式」に参列し、式辞、献花",
+   "minutes": 60
+  },
+  {
+   "start": "15:30",
+   "end": "15:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:31",
+   "end": "15:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "15:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 489
+  }
+ ],
+ "alloc_min": {
+  "居所": 1325,
+  "移動": 38,
+  "公務（内容未詳）": 17,
+  "式典・行事": 60
+ }
+}

@@ -1,0 +1,489 @@
+{
+ "date": "2014-11-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 670,
+ "residence_min": 770,
+ "meetings": 11,
+ "first_work": "09:29",
+ "events": [
+  {
+   "time": "09:29",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:42",
+   "label": "野田毅税制調査会長 額賀福志郎同調査会小委員長 高村正彦副総裁",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:19",
+   "label": "ジェエンベコフ・キルギス議会議長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:36",
+   "label": "塩崎恭久厚生労働相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:45",
+   "label": "上川陽子法相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:49",
+   "label": "望月義夫環境相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:51",
+   "label": "下村博文文部科学相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:04",
+   "label": "西川公也農林水産相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:50",
+   "label": "高市早苗総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:07",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:20",
+   "label": "商工会全国大会に出席し、あいさつ",
+   "place": "東京・神南 NHKホール",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:39",
+   "label": "移動",
+   "place": "東京・神南 NHKホール",
+   "category": "移動"
+  },
+  {
+   "time": "14:09",
+   "label": "稲田朋美自民党政調会長らから提言書受け取り",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "14:34",
+   "label": "飯島勲内閣官房参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:45",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:49",
+   "label": "ポスター用の写真撮影。馳浩同党広報本部長同席",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "16:57",
+   "label": "同党の稲田政調会長、塩谷立政調会長代行",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:31",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "17:35",
+   "label": "太田昭宏国土交通相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:31",
+   "label": "ヨルダンのアブドラ国王と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:21",
+   "label": "署名式・共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:33",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:37",
+   "label": "アブドラ国王を出迎え。安倍晋三首相主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:38",
+   "label": "アブドラ国王を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 569
+  },
+  {
+   "start": "09:29",
+   "end": "09:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "09:44",
+   "end": "10:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 58
+  },
+  {
+   "start": "10:42",
+   "end": "11:12",
+   "category": "面会・会談",
+   "label": "野田毅税制調査会長 額賀福志郎同調査会小委員長 高村正彦副総裁",
+   "minutes": 30
+  },
+  {
+   "start": "11:12",
+   "end": "11:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "11:19",
+   "end": "11:35",
+   "category": "面会・会談",
+   "label": "ジェエンベコフ・キルギス議会議長",
+   "minutes": 16
+  },
+  {
+   "start": "11:35",
+   "end": "11:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:36",
+   "end": "11:44",
+   "category": "面会・会談",
+   "label": "塩崎恭久厚生労働相",
+   "minutes": 8
+  },
+  {
+   "start": "11:44",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:45",
+   "end": "11:48",
+   "category": "面会・会談",
+   "label": "上川陽子法相",
+   "minutes": 3
+  },
+  {
+   "start": "11:48",
+   "end": "11:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:49",
+   "end": "11:50",
+   "category": "面会・会談",
+   "label": "望月義夫環境相",
+   "minutes": 1
+  },
+  {
+   "start": "11:50",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:51",
+   "end": "12:02",
+   "category": "面会・会談",
+   "label": "下村博文文部科学相",
+   "minutes": 11
+  },
+  {
+   "start": "12:02",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:04",
+   "end": "12:10",
+   "category": "面会・会談",
+   "label": "西川公也農林水産相",
+   "minutes": 6
+  },
+  {
+   "start": "12:10",
+   "end": "12:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "12:50",
+   "end": "13:05",
+   "category": "面会・会談",
+   "label": "高市早苗総務相",
+   "minutes": 15
+  },
+  {
+   "start": "13:05",
+   "end": "13:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:07",
+   "end": "13:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "13:20",
+   "end": "13:39",
+   "category": "式典・行事",
+   "label": "商工会全国大会に出席し、あいさつ",
+   "minutes": 19
+  },
+  {
+   "start": "13:39",
+   "end": "13:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "13:59",
+   "end": "14:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "14:09",
+   "end": "14:33",
+   "category": "党務",
+   "label": "稲田朋美自民党政調会長らから提言書受け取り",
+   "minutes": 24
+  },
+  {
+   "start": "14:33",
+   "end": "14:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:34",
+   "end": "14:50",
+   "category": "面会・会談",
+   "label": "飯島勲内閣官房参与",
+   "minutes": 16
+  },
+  {
+   "start": "14:50",
+   "end": "15:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "15:45",
+   "end": "15:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "15:48",
+   "end": "15:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:49",
+   "end": "16:51",
+   "category": "党務",
+   "label": "ポスター用の写真撮影。馳浩同党広報本部長同席",
+   "minutes": 62
+  },
+  {
+   "start": "16:51",
+   "end": "16:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "16:57",
+   "end": "17:30",
+   "category": "党務",
+   "label": "同党の稲田政調会長、塩谷立政調会長代行",
+   "minutes": 33
+  },
+  {
+   "start": "17:30",
+   "end": "17:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:31",
+   "end": "17:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:33",
+   "end": "17:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:35",
+   "end": "17:50",
+   "category": "面会・会談",
+   "label": "太田昭宏国土交通相",
+   "minutes": 15
+  },
+  {
+   "start": "17:50",
+   "end": "18:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "18:31",
+   "end": "19:20",
+   "category": "面会・会談",
+   "label": "ヨルダンのアブドラ国王と首脳会談",
+   "minutes": 49
+  },
+  {
+   "start": "19:20",
+   "end": "19:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:21",
+   "end": "19:32",
+   "category": "取材・会見",
+   "label": "署名式・共同記者発表",
+   "minutes": 11
+  },
+  {
+   "start": "19:32",
+   "end": "19:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:33",
+   "end": "19:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "19:35",
+   "end": "19:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:37",
+   "end": "20:38",
+   "category": "会食",
+   "label": "アブドラ国王を出迎え。安倍晋三首相主催の夕食会",
+   "minutes": 61
+  },
+  {
+   "start": "20:38",
+   "end": "20:39",
+   "category": "式典・行事",
+   "label": "アブドラ国王を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "20:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 201
+  }
+ ],
+ "alloc_min": {
+  "居所": 770,
+  "移動": 55,
+  "公務（内容未詳）": 234,
+  "面会・会談": 170,
+  "式典・行事": 20,
+  "党務": 119,
+  "取材・会見": 11,
+  "会食": 61
+ }
+}

@@ -1,0 +1,428 @@
+{
+ "date": "2015-05-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 822,
+ "residence_min": 618,
+ "meetings": 6,
+ "first_work": "07:27",
+ "events": [
+  {
+   "time": "07:27",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:32",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:24",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:41",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "参院厚生労働委員会",
+   "place": "国会 参院第４３委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "国会 参院第４３委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:06",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:41",
+   "label": "松野頼久維新の党代表",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:55",
+   "label": "麻生太郎副総理兼財務相 中谷元防衛相",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:02",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "16:05",
+   "label": "宮沢洋一経済産業相 高木陽介経産副大臣",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:48",
+   "label": "谷内正太郎国家安全保障局長 下平幸二内閣衛星情報センター所長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:17",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:28",
+   "label": "消費者支援功労者表彰式",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:56",
+   "label": "米下院のロジャース軍事委員会戦略軍小委員長の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:15",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:32",
+   "label": "ＡＮＡホールディングスの伊東信一郎会長、片野坂真哉社長らと会食",
+   "place": "東京都渋谷区 イタリア料理店「リストランテＡＳＯ」",
+   "category": "会食"
+  },
+  {
+   "time": "21:01",
+   "label": "移動",
+   "place": "東京都渋谷区 イタリア料理店「リストランテＡＳＯ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 447
+  },
+  {
+   "start": "07:27",
+   "end": "07:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:28",
+   "end": "07:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "07:32",
+   "end": "08:13",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 41
+  },
+  {
+   "start": "08:13",
+   "end": "08:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "08:24",
+   "end": "08:40",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 16
+  },
+  {
+   "start": "08:40",
+   "end": "08:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:41",
+   "end": "09:53",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 72
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:54",
+   "end": "09:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:56",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:00",
+   "end": "12:03",
+   "category": "国会",
+   "label": "参院厚生労働委員会",
+   "minutes": 123
+  },
+  {
+   "start": "12:03",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:04",
+   "end": "12:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 30
+  },
+  {
+   "start": "12:36",
+   "end": "12:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:38",
+   "end": "12:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:41",
+   "end": "12:49",
+   "category": "面会・会談",
+   "label": "松野頼久維新の党代表",
+   "minutes": 8
+  },
+  {
+   "start": "12:49",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "12:55",
+   "end": "12:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 中谷元防衛相",
+   "minutes": 4
+  },
+  {
+   "start": "12:59",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:02",
+   "end": "16:01",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 179
+  },
+  {
+   "start": "16:01",
+   "end": "16:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:02",
+   "end": "16:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:04",
+   "end": "16:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:05",
+   "end": "16:23",
+   "category": "面会・会談",
+   "label": "宮沢洋一経済産業相 高木陽介経産副大臣",
+   "minutes": 18
+  },
+  {
+   "start": "16:23",
+   "end": "16:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "16:48",
+   "end": "16:56",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 下平幸二内閣衛星情報センター所長 北村滋内閣情報官",
+   "minutes": 8
+  },
+  {
+   "start": "16:56",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "17:17",
+   "end": "18:22",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 65
+  },
+  {
+   "start": "18:22",
+   "end": "18:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:28",
+   "end": "18:40",
+   "category": "式典・行事",
+   "label": "消費者支援功労者表彰式",
+   "minutes": 12
+  },
+  {
+   "start": "18:40",
+   "end": "18:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "18:56",
+   "end": "19:13",
+   "category": "面会・会談",
+   "label": "米下院のロジャース軍事委員会戦略軍小委員長の表敬",
+   "minutes": 17
+  },
+  {
+   "start": "19:13",
+   "end": "19:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:15",
+   "end": "19:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "19:32",
+   "end": "21:01",
+   "category": "会食",
+   "label": "ＡＮＡホールディングスの伊東信一郎会長、片野坂真哉社長らと会食",
+   "minutes": 89
+  },
+  {
+   "start": "21:01",
+   "end": "21:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "21:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 171
+  }
+ ],
+ "alloc_min": {
+  "居所": 618,
+  "移動": 34,
+  "公務（内容未詳）": 106,
+  "面会・会談": 164,
+  "官邸執務": 111,
+  "国会": 306,
+  "式典・行事": 12,
+  "会食": 89
+ }
+}

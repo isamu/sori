@@ -1,0 +1,117 @@
+{
+ "date": "2018-01-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 148,
+ "residence_min": 1126,
+ "meetings": 0,
+ "first_work": "15:04",
+ "events": [
+  {
+   "time": "15:04",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:13",
+   "label": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "その他"
+  },
+  {
+   "time": "16:58",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": "17:13",
+   "label": "松本白鸚さん、幸四郎さん、市川染五郎さんと面会。「勧進帳」を鑑賞",
+   "place": "東京・銀座 歌舞伎座",
+   "category": "個人"
+  },
+  {
+   "time": "19:59",
+   "label": "東京・銀座 歌舞伎座",
+   "place": "東京・銀座 歌舞伎座",
+   "category": "その他"
+  },
+  {
+   "time": "20:00",
+   "label": "移動",
+   "place": "東京・銀座 歌舞伎座",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 904
+  },
+  {
+   "start": "15:04",
+   "end": "15:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:13",
+   "end": "16:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 105
+  },
+  {
+   "start": "16:58",
+   "end": "17:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "17:13",
+   "end": "19:59",
+   "category": "個人",
+   "label": "松本白鸚さん、幸四郎さん、市川染五郎さんと面会。「勧進帳」を鑑賞",
+   "minutes": 166
+  },
+  {
+   "start": "19:59",
+   "end": "20:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:00",
+   "end": "20:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "20:18",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 222
+  }
+ ],
+ "alloc_min": {
+  "居所": 1126,
+  "移動": 42,
+  "公務（内容未詳）": 106,
+  "個人": 166
+ }
+}

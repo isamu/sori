@@ -1,0 +1,77 @@
+{
+ "date": "2016-10-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 94,
+ "residence_min": 1346,
+ "meetings": 0,
+ "first_work": "14:45",
+ "events": [
+  {
+   "time": "14:45",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:15",
+   "label": "小池百合子東京都知事、山口那津男公明党代表と街頭演説",
+   "place": "ＪＲ池袋駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "15:51",
+   "label": "移動",
+   "place": "ＪＲ池袋駅東口",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 885
+  },
+  {
+   "start": "14:45",
+   "end": "15:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "15:15",
+   "end": "15:51",
+   "category": "党務",
+   "label": "小池百合子東京都知事、山口那津男公明党代表と街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "15:51",
+   "end": "16:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "16:19",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 461
+  }
+ ],
+ "alloc_min": {
+  "居所": 1346,
+  "移動": 58,
+  "党務": 36
+ }
+}

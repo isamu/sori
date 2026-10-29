@@ -1,0 +1,442 @@
+{
+ "date": "2016-01-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 713,
+ "residence_min": 727,
+ "meetings": 6,
+ "first_work": "08:43",
+ "events": [
+  {
+   "time": "08:43",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:07",
+   "label": "農林水産業・地域の活力創造本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:23",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:41",
+   "label": "原田親仁日ロ関係担当大使 杉山晋輔外務審議官 林肇欧州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:58",
+   "label": "柴山昌彦首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:14",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議。施政方針演説。",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:30",
+   "label": "麻生副総理兼財務相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:37",
+   "label": "「運転従事者の健康と安全を守るための脳ＭＲＩ検診推進超党派議員連盟」の二階俊博会長による申し入れ",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:42",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "15:46",
+   "label": "参院本会議。施政方針演説。",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:17",
+   "label": "麻生副総理兼財務相",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:25",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:40",
+   "label": "田中一穂事務次官 浅川雅嗣財務官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:46",
+   "label": "木村太郎自民党広報本部長ら",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "18:00",
+   "label": "ロシアのプーチン大統領と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:51",
+   "label": "二階自民党総務会長、林幹雄経済産業相ら二階派議員らと会食",
+   "place": "東京・赤坂 日本料理店「口悦」",
+   "category": "会食"
+  },
+  {
+   "time": "20:31",
+   "label": "移動",
+   "place": "東京・赤坂 日本料理店「口悦」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 523
+  },
+  {
+   "start": "08:43",
+   "end": "08:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "08:59",
+   "end": "09:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:07",
+   "end": "09:18",
+   "category": "官邸執務",
+   "label": "農林水産業・地域の活力創造本部",
+   "minutes": 11
+  },
+  {
+   "start": "09:18",
+   "end": "09:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:23",
+   "end": "09:45",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 22
+  },
+  {
+   "start": "09:45",
+   "end": "10:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "10:41",
+   "end": "10:51",
+   "category": "面会・会談",
+   "label": "原田親仁日ロ関係担当大使 杉山晋輔外務審議官 林肇欧州局長",
+   "minutes": 10
+  },
+  {
+   "start": "10:51",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "11:58",
+   "end": "12:06",
+   "category": "面会・会談",
+   "label": "柴山昌彦首相補佐官",
+   "minutes": 8
+  },
+  {
+   "start": "12:06",
+   "end": "13:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 68
+  },
+  {
+   "start": "13:14",
+   "end": "13:29",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 15
+  },
+  {
+   "start": "13:29",
+   "end": "13:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "13:52",
+   "end": "13:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:54",
+   "end": "13:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "14:00",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:02",
+   "end": "15:30",
+   "category": "国会",
+   "label": "衆院本会議。施政方針演説。",
+   "minutes": 88
+  },
+  {
+   "start": "15:30",
+   "end": "15:32",
+   "category": "国会",
+   "label": "麻生副総理兼財務相",
+   "minutes": 2
+  },
+  {
+   "start": "15:32",
+   "end": "15:34",
+   "category": "国会",
+   "label": "衆院本会議。施政方針演説。",
+   "minutes": 2
+  },
+  {
+   "start": "15:34",
+   "end": "15:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:37",
+   "end": "15:39",
+   "category": "面会・会談",
+   "label": "「運転従事者の健康と安全を守るための脳ＭＲＩ検診推進超党派議員連盟」の二階俊博会長による申し入れ",
+   "minutes": 2
+  },
+  {
+   "start": "15:39",
+   "end": "15:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "15:43",
+   "end": "15:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:46",
+   "end": "17:17",
+   "category": "国会",
+   "label": "参院本会議。施政方針演説。",
+   "minutes": 91
+  },
+  {
+   "start": "17:17",
+   "end": "17:20",
+   "category": "国会",
+   "label": "麻生副総理兼財務相",
+   "minutes": 3
+  },
+  {
+   "start": "17:20",
+   "end": "17:23",
+   "category": "国会",
+   "label": "参院本会議。施政方針演説。",
+   "minutes": 3
+  },
+  {
+   "start": "17:23",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:25",
+   "end": "17:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:27",
+   "end": "17:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "17:40",
+   "end": "17:45",
+   "category": "面会・会談",
+   "label": "田中一穂事務次官 浅川雅嗣財務官",
+   "minutes": 5
+  },
+  {
+   "start": "17:45",
+   "end": "17:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:46",
+   "end": "17:58",
+   "category": "党務",
+   "label": "木村太郎自民党広報本部長ら",
+   "minutes": 12
+  },
+  {
+   "start": "17:58",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:00",
+   "end": "18:40",
+   "category": "面会・会談",
+   "label": "ロシアのプーチン大統領と電話会談",
+   "minutes": 40
+  },
+  {
+   "start": "18:40",
+   "end": "18:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:46",
+   "end": "18:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:51",
+   "end": "20:31",
+   "category": "会食",
+   "label": "二階自民党総務会長、林幹雄経済産業相ら二階派議員らと会食",
+   "minutes": 100
+  },
+  {
+   "start": "20:31",
+   "end": "20:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "20:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 204
+  }
+ ],
+ "alloc_min": {
+  "居所": 727,
+  "移動": 30,
+  "公務（内容未詳）": 263,
+  "官邸執務": 33,
+  "面会・会談": 80,
+  "国会": 195,
+  "党務": 12,
+  "会食": 100
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "date": "2014-05-21",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2014.05.21",
+ "work_min": 761,
+ "residence_min": 679,
+ "meetings": 5,
+ "first_work": "08:27",
+ "events": [
+  {
+   "time": "08:27",
+   "label": "私邸発",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:42",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:43",
+   "label": "世耕官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:54",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "10:15",
+   "label": "参院本会議休憩",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": null,
+   "label": "参院議長応接室",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "11:56",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:45",
+   "label": "衛藤首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:09",
+   "label": "町村信孝自民党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:56",
+   "label": "額賀日韓議連会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:01",
+   "label": "マレーシアのナジブ首相と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:41",
+   "label": "共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:57",
+   "label": "公邸。安倍首相夫妻主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "21:08",
+   "label": "ナジブ首相を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 507
+  },
+  {
+   "start": "08:27",
+   "end": "08:42",
+   "category": "移動",
+   "label": "私邸発",
+   "minutes": 15
+  },
+  {
+   "start": "08:42",
+   "end": "08:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:43",
+   "end": "09:54",
+   "category": "面会・会談",
+   "label": "世耕官房副長官",
+   "minutes": 71
+  },
+  {
+   "start": "09:54",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "10:01",
+   "end": "10:15",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 14
+  },
+  {
+   "start": "10:15",
+   "end": "11:56",
+   "category": "国会",
+   "label": "参院本会議休憩",
+   "minutes": 101
+  },
+  {
+   "start": "11:56",
+   "end": "14:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 169
+  },
+  {
+   "start": "14:45",
+   "end": "16:09",
+   "category": "面会・会談",
+   "label": "衛藤首相補佐官",
+   "minutes": 84
+  },
+  {
+   "start": "16:09",
+   "end": "16:56",
+   "category": "面会・会談",
+   "label": "町村信孝自民党衆院議員",
+   "minutes": 47
+  },
+  {
+   "start": "16:56",
+   "end": "19:01",
+   "category": "面会・会談",
+   "label": "額賀日韓議連会長",
+   "minutes": 125
+  },
+  {
+   "start": "19:01",
+   "end": "19:41",
+   "category": "面会・会談",
+   "label": "マレーシアのナジブ首相と首脳会談",
+   "minutes": 40
+  },
+  {
+   "start": "19:41",
+   "end": "19:57",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 16
+  },
+  {
+   "start": "19:57",
+   "end": "21:08",
+   "category": "会食",
+   "label": "公邸。安倍首相夫妻主催の夕食会",
+   "minutes": 71
+  },
+  {
+   "start": "21:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 172
+  }
+ ],
+ "alloc_min": {
+  "居所": 679,
+  "移動": 15,
+  "公務（内容未詳）": 177,
+  "面会・会談": 367,
+  "国会": 115,
+  "取材・会見": 16,
+  "会食": 71
+ }
+}

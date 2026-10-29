@@ -1,0 +1,89 @@
+{
+ "date": "2023-04-30",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "シシ大統領と大統領府で首脳会談",
+   "place": "アラブ連盟本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "アブルゲイト事務局長と会談",
+   "place": "アラブ連盟本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "カイロ近郊ギザの「大エジプト博物館」建設現場",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "マドブリ首相と視察",
+   "place": "カイロ近郊ギザの「大エジプト博物館」建設現場",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "大統領主催の昼食会",
+   "place": "アラブ連盟本部",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "アラブ連盟本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "署名式",
+   "place": "アラブ連盟本部",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ザ・ナイル・リッツ・カールトン・カイロ」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "日・エジプト・ビジネスフォーラム出席",
+   "place": "ホテル「ザ・ナイル・リッツ・カールトン・カイロ」",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "マドブリ氏と会談",
+   "place": "ホテル「ザ・ナイル・リッツ・カールトン・カイロ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日本留学経験者や在留邦人らとの合同レセプション",
+   "place": "カイロの「シェラトン・カイロ・ホテル」",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

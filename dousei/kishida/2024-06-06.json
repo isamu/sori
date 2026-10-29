@@ -1,0 +1,480 @@
+{
+ "date": "2024-06-06",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 652,
+ "residence_min": 788,
+ "meetings": 3,
+ "first_work": "07:35",
+ "events": [
+  {
+   "time": "07:35",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:40",
+   "label": "森屋宏官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "小泉龍司法相",
+   "place": "国会 参院第２３委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "10:00",
+   "label": "参院法務委員会",
+   "place": "国会 参院第２３委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:07",
+   "label": "移動",
+   "place": "国会 参院第２３委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:59",
+   "label": "党の国際政治・外交論文コンテスト授賞式",
+   "place": "自民党本部",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:15",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "12:18",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:48",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "逢坂誠二立憲民主党代表代行",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:04",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "14:34",
+   "label": "月刊誌「Ｖｏｉｃｅ」のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:47",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:56",
+   "label": "宴会場「ローズ」でフランスの投資銀行ナティクシス主催の国際会議に出席し、あいさつ",
+   "place": "東京・丸の内 東京会館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:16",
+   "label": "移動",
+   "place": "東京・丸の内 東京会館",
+   "category": "移動"
+  },
+  {
+   "time": "16:41",
+   "label": "全米さくらの女王アレッサンドラ・イベンジャリスタさんの表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:01",
+   "label": "デジタル行財政改革会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:58",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:00",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:07",
+   "label": "同ホテル内の宴会場「鶴の間」で国民生活産業・消費者団体連合会の定時総会に出席し、あいさつ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:18",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:35",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 455
+  },
+  {
+   "start": "07:35",
+   "end": "07:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:36",
+   "end": "07:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "07:40",
+   "end": "09:00",
+   "category": "面会・会談",
+   "label": "森屋宏官房副長官",
+   "minutes": 80
+  },
+  {
+   "start": "09:00",
+   "end": "09:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "09:50",
+   "end": "09:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:52",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:56",
+   "end": "09:59",
+   "category": "国会",
+   "label": "小泉龍司法相",
+   "minutes": 3
+  },
+  {
+   "start": "09:59",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:00",
+   "end": "11:06",
+   "category": "国会",
+   "label": "参院法務委員会",
+   "minutes": 66
+  },
+  {
+   "start": "11:06",
+   "end": "11:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:07",
+   "end": "11:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 45
+  },
+  {
+   "start": "11:55",
+   "end": "11:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:57",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:59",
+   "end": "12:13",
+   "category": "式典・行事",
+   "label": "党の国際政治・外交論文コンテスト授賞式",
+   "minutes": 14
+  },
+  {
+   "start": "12:13",
+   "end": "12:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:15",
+   "end": "12:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 88
+  },
+  {
+   "start": "13:46",
+   "end": "13:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:47",
+   "end": "13:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:48",
+   "end": "14:01",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 13
+  },
+  {
+   "start": "14:01",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:02",
+   "end": "14:03",
+   "category": "面会・会談",
+   "label": "逢坂誠二立憲民主党代表代行",
+   "minutes": 1
+  },
+  {
+   "start": "14:03",
+   "end": "14:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:04",
+   "end": "14:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:05",
+   "end": "14:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "14:34",
+   "end": "15:19",
+   "category": "取材・会見",
+   "label": "月刊誌「Ｖｏｉｃｅ」のインタビュー",
+   "minutes": 45
+  },
+  {
+   "start": "15:19",
+   "end": "15:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "15:47",
+   "end": "15:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:56",
+   "end": "16:16",
+   "category": "式典・行事",
+   "label": "宴会場「ローズ」でフランスの投資銀行ナティクシス主催の国際会議に出席し、あいさつ",
+   "minutes": 20
+  },
+  {
+   "start": "16:16",
+   "end": "16:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "16:23",
+   "end": "16:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "16:41",
+   "end": "16:58",
+   "category": "面会・会談",
+   "label": "全米さくらの女王アレッサンドラ・イベンジャリスタさんの表敬",
+   "minutes": 17
+  },
+  {
+   "start": "16:58",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:01",
+   "end": "17:41",
+   "category": "官邸執務",
+   "label": "デジタル行財政改革会議",
+   "minutes": 40
+  },
+  {
+   "start": "17:41",
+   "end": "17:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "17:58",
+   "end": "17:59",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "17:59",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:00",
+   "end": "18:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "18:07",
+   "end": "18:18",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「鶴の間」で国民生活産業・消費者団体連合会の定時総会に出席し、あいさつ",
+   "minutes": 11
+  },
+  {
+   "start": "18:18",
+   "end": "18:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:27",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 333
+  }
+ ],
+ "alloc_min": {
+  "居所": 788,
+  "移動": 45,
+  "公務（内容未詳）": 163,
+  "面会・会談": 98,
+  "国会": 82,
+  "官邸執務": 173,
+  "式典・行事": 45,
+  "取材・会見": 46
+ }
+}

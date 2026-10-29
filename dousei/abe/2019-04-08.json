@@ -1,0 +1,348 @@
+{
+ "date": "2019-04-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 641,
+ "residence_min": 799,
+ "meetings": 6,
+ "first_work": "09:31",
+ "events": [
+  {
+   "time": "09:31",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:46",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:27",
+   "label": "皇太子さまと面会",
+   "place": "東京・元赤坂 東宮御所",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:51",
+   "label": "移動",
+   "place": "東京・元赤坂 東宮御所",
+   "category": "移動"
+  },
+  {
+   "time": "11:00",
+   "label": "森健良審議官 河野太郎外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:10",
+   "label": "政府・与党連絡会議",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "13:47",
+   "label": "「泡盛の女王」の砂辺由美さんらによる泡盛の贈呈。宮腰光寛沖縄・北方担当相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:40",
+   "label": "江藤拓首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:20",
+   "label": "李洙勲駐日韓国大使。金杉憲治外務省アジア大洋州局長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:47",
+   "label": "槌道明宏防衛政策局長 大塚海夫情報本部長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:37",
+   "label": "国会見学者と写真撮影",
+   "place": "国会",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:38",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "宮島喜文自民党参院議員に財務政務官の辞令交付。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:29",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "中小企業経営者らと会食",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 571
+  },
+  {
+   "start": "09:31",
+   "end": "09:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 31
+  },
+  {
+   "start": "10:17",
+   "end": "10:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "10:27",
+   "end": "10:51",
+   "category": "面会・会談",
+   "label": "皇太子さまと面会",
+   "minutes": 24
+  },
+  {
+   "start": "10:51",
+   "end": "10:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:59",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:00",
+   "end": "11:28",
+   "category": "面会・会談",
+   "label": "森健良審議官 河野太郎外相",
+   "minutes": 28
+  },
+  {
+   "start": "11:28",
+   "end": "12:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "12:10",
+   "end": "12:27",
+   "category": "党務",
+   "label": "政府・与党連絡会議",
+   "minutes": 17
+  },
+  {
+   "start": "12:27",
+   "end": "13:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 80
+  },
+  {
+   "start": "13:47",
+   "end": "13:58",
+   "category": "面会・会談",
+   "label": "「泡盛の女王」の砂辺由美さんらによる泡盛の贈呈。宮腰光寛沖縄・北方担当相同席",
+   "minutes": 11
+  },
+  {
+   "start": "13:58",
+   "end": "14:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "14:40",
+   "end": "15:00",
+   "category": "面会・会談",
+   "label": "江藤拓首相補佐官",
+   "minutes": 20
+  },
+  {
+   "start": "15:00",
+   "end": "15:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "15:20",
+   "end": "15:30",
+   "category": "面会・会談",
+   "label": "李洙勲駐日韓国大使。金杉憲治外務省アジア大洋州局長同席",
+   "minutes": 10
+  },
+  {
+   "start": "15:30",
+   "end": "15:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "15:47",
+   "end": "16:14",
+   "category": "面会・会談",
+   "label": "槌道明宏防衛政策局長 大塚海夫情報本部長",
+   "minutes": 27
+  },
+  {
+   "start": "16:14",
+   "end": "16:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "16:57",
+   "end": "16:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:58",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:01",
+   "end": "17:31",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 30
+  },
+  {
+   "start": "17:31",
+   "end": "17:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:37",
+   "end": "17:38",
+   "category": "式典・行事",
+   "label": "国会見学者と写真撮影",
+   "minutes": 1
+  },
+  {
+   "start": "17:38",
+   "end": "17:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:41",
+   "end": "17:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:47",
+   "end": "17:49",
+   "category": "式典・行事",
+   "label": "宮島喜文自民党参院議員に財務政務官の辞令交付。記念撮影",
+   "minutes": 2
+  },
+  {
+   "start": "17:49",
+   "end": "18:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "18:29",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:30",
+   "end": "20:12",
+   "category": "会食",
+   "label": "中小企業経営者らと会食",
+   "minutes": 102
+  },
+  {
+   "start": "20:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 228
+  }
+ ],
+ "alloc_min": {
+  "居所": 799,
+  "移動": 38,
+  "官邸執務": 31,
+  "面会・会談": 120,
+  "公務（内容未詳）": 300,
+  "党務": 47,
+  "式典・行事": 3,
+  "会食": 102
+ }
+}

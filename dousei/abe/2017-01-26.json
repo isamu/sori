@@ -1,0 +1,313 @@
+{
+ "date": "2017-01-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 702,
+ "residence_min": 738,
+ "meetings": 3,
+ "first_work": "06:53",
+ "events": [
+  {
+   "time": "06:53",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:10",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "菅義偉官房長官",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:58",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:02",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:08",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:12",
+   "label": "杉山晋輔事務次官 秋葉剛男審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:43",
+   "label": "国家安全保障会議。世耕弘成経済産業相同席",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:18",
+   "label": "宮島昭夫国際平和協力本部事務局長 石兼公博総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:34",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 413
+  },
+  {
+   "start": "06:53",
+   "end": "07:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "07:07",
+   "end": "07:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "07:10",
+   "end": "08:06",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 56
+  },
+  {
+   "start": "08:06",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:55",
+   "end": "08:56",
+   "category": "国会",
+   "label": "菅義偉官房長官",
+   "minutes": 1
+  },
+  {
+   "start": "08:56",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:58",
+   "end": "08:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "08:59",
+   "end": "12:00",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 181
+  },
+  {
+   "start": "12:00",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:02",
+   "end": "12:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 51
+  },
+  {
+   "start": "12:55",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:05",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 245
+  },
+  {
+   "start": "17:05",
+   "end": "17:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:08",
+   "end": "17:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:09",
+   "end": "17:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:12",
+   "end": "17:42",
+   "category": "面会・会談",
+   "label": "杉山晋輔事務次官 秋葉剛男審議官",
+   "minutes": 30
+  },
+  {
+   "start": "17:42",
+   "end": "17:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:43",
+   "end": "18:17",
+   "category": "官邸執務",
+   "label": "国家安全保障会議。世耕弘成経済産業相同席",
+   "minutes": 34
+  },
+  {
+   "start": "18:17",
+   "end": "18:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:18",
+   "end": "18:27",
+   "category": "面会・会談",
+   "label": "宮島昭夫国際平和協力本部事務局長 石兼公博総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "minutes": 9
+  },
+  {
+   "start": "18:27",
+   "end": "18:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "18:34",
+   "end": "18:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 325
+  }
+ ],
+ "alloc_min": {
+  "居所": 738,
+  "移動": 20,
+  "公務（内容未詳）": 74,
+  "面会・会談": 95,
+  "国会": 428,
+  "官邸執務": 85
+ }
+}

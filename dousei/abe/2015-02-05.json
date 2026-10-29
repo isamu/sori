@@ -1,0 +1,408 @@
+{
+ "date": "2015-02-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 796,
+ "residence_min": 644,
+ "meetings": 4,
+ "first_work": "07:32",
+ "events": [
+  {
+   "time": "07:32",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:35",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "太田昭宏国土交通相",
+   "place": "国会 参院第１委員会室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:02",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "12:12",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:20",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "12:22",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:33",
+   "label": "三重県知事選立候補予定者への推薦証渡し。写真撮影",
+   "place": "国会 自民党幹事長会議室",
+   "category": "党務"
+  },
+  {
+   "time": "17:36",
+   "label": "移動",
+   "place": "国会 自民党幹事長会議室",
+   "category": "移動"
+  },
+  {
+   "time": "17:40",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:05",
+   "label": "山崎達雄財務官 浅川雅嗣国際局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:18",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:22",
+   "label": "自由民主法曹団新年会に出席",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "18:29",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "18:41",
+   "label": "同ホテル内の日本料理店「千代田」で渡辺恒雄読売新聞グループ本社会長と会食",
+   "place": "東京・飯田橋 「ホテルグランドパレス」",
+   "category": "会食"
+  },
+  {
+   "time": "20:35",
+   "label": "移動",
+   "place": "東京・飯田橋 「ホテルグランドパレス」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 452
+  },
+  {
+   "start": "07:32",
+   "end": "07:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "07:34",
+   "end": "07:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:35",
+   "end": "08:45",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 70
+  },
+  {
+   "start": "08:45",
+   "end": "08:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:53",
+   "end": "08:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:54",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:57",
+   "end": "08:58",
+   "category": "面会・会談",
+   "label": "太田昭宏国土交通相",
+   "minutes": 1
+  },
+  {
+   "start": "08:58",
+   "end": "09:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:02",
+   "end": "11:55",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 173
+  },
+  {
+   "start": "11:55",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 12
+  },
+  {
+   "start": "12:09",
+   "end": "12:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:12",
+   "end": "12:18",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 6
+  },
+  {
+   "start": "12:18",
+   "end": "12:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:20",
+   "end": "12:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 32
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:31",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 271
+  },
+  {
+   "start": "17:31",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:33",
+   "end": "17:35",
+   "category": "党務",
+   "label": "三重県知事選立候補予定者への推薦証渡し。写真撮影",
+   "minutes": 2
+  },
+  {
+   "start": "17:35",
+   "end": "17:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:36",
+   "end": "17:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:38",
+   "end": "17:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:40",
+   "end": "18:04",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 24
+  },
+  {
+   "start": "18:04",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:05",
+   "end": "18:15",
+   "category": "面会・会談",
+   "label": "山崎達雄財務官 浅川雅嗣国際局長",
+   "minutes": 10
+  },
+  {
+   "start": "18:15",
+   "end": "18:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:18",
+   "end": "18:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:21",
+   "end": "18:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:22",
+   "end": "18:28",
+   "category": "党務",
+   "label": "自由民主法曹団新年会に出席",
+   "minutes": 6
+  },
+  {
+   "start": "18:28",
+   "end": "18:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:29",
+   "end": "18:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "18:41",
+   "end": "20:35",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「千代田」で渡辺恒雄読売新聞グループ本社会長と会食",
+   "minutes": 114
+  },
+  {
+   "start": "20:35",
+   "end": "20:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 192
+  }
+ ],
+ "alloc_min": {
+  "居所": 644,
+  "移動": 36,
+  "公務（内容未詳）": 39,
+  "面会・会談": 105,
+  "国会": 462,
+  "官邸執務": 32,
+  "党務": 8,
+  "会食": 114
+ }
+}

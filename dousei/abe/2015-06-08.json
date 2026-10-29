@@ -1,0 +1,65 @@
+{
+ "date": "2015-06-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "先進７カ国（Ｇ７）首脳会議（サミット）に出席。気候変動、テロ対策などに関する討議",
+   "place": "ドイツ南部バイエルン州エルマウ城",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "英国のキャメロン首相と会談",
+   "place": "ドイツ南部バイエルン州エルマウ城",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＮＨＫのインタビュー",
+   "place": "ドイツ・ミュンヘン市内のホテル「ホリデイ・イン・ミュンヘン・シティ・センター」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "ドイツ・ミュンヘン市内のホテル「ホリデイ・イン・ミュンヘン・シティ・センター」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ワーキングランチ",
+   "place": "ドイツ南部バイエルン州エルマウ城",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "集合写真撮影",
+   "place": "ドイツ南部バイエルン州エルマウ城",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "ミュンヘン国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

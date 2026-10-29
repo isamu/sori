@@ -1,0 +1,118 @@
+{
+ "date": "2016-12-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 140,
+ "residence_min": 1300,
+ "meetings": 0,
+ "first_work": "11:01",
+ "events": [
+  {
+   "time": "11:01",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "11:15",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "21:14",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "22:00",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:58",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 661
+  },
+  {
+   "start": "11:01",
+   "end": "11:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "11:15",
+   "end": "21:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 599
+  },
+  {
+   "start": "21:14",
+   "end": "21:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "21:33",
+   "end": "22:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "22:00",
+   "end": "22:41",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 41
+  },
+  {
+   "start": "22:41",
+   "end": "22:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "22:58",
+   "end": "23:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "23:20",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 40
+  }
+ ],
+ "alloc_min": {
+  "居所": 1300,
+  "移動": 55,
+  "公務（内容未詳）": 44,
+  "取材・会見": 41
+ }
+}

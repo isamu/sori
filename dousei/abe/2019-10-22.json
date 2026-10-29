@@ -1,0 +1,324 @@
+{
+ "date": "2019-10-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 709,
+ "residence_min": 731,
+ "meetings": 4,
+ "first_work": "08:27",
+ "events": [
+  {
+   "time": "08:27",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:35",
+   "label": "即位礼当日賢所大前の儀、即位礼当日皇霊殿神殿に奉告の儀に参列",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:17",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:25",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:11",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:05",
+   "label": "正殿「松の間」で即位礼正殿の儀に参列し、寿詞。参列者と万歳三唱",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:44",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "13:52",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:54",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:20",
+   "label": "ベルギーのフィリップ国王と会談",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:42",
+   "label": "マレーシアのアブドラ国王と会談",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:18",
+   "label": "カンボジアのシハモニ国王と会談",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:49",
+   "label": "ブータンのワンチュク国王と会談",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "移動"
+  },
+  {
+   "time": "17:17",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:47",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "昭恵夫人とともに、饗宴の儀に参列",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "22:34",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 507
+  },
+  {
+   "start": "08:27",
+   "end": "08:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "08:35",
+   "end": "10:17",
+   "category": "式典・行事",
+   "label": "即位礼当日賢所大前の儀、即位礼当日皇霊殿神殿に奉告の儀に参列",
+   "minutes": 102
+  },
+  {
+   "start": "10:17",
+   "end": "10:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 106
+  },
+  {
+   "start": "12:11",
+   "end": "12:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "12:20",
+   "end": "13:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "13:05",
+   "end": "13:35",
+   "category": "式典・行事",
+   "label": "正殿「松の間」で即位礼正殿の儀に参列し、寿詞。参列者と万歳三唱",
+   "minutes": 30
+  },
+  {
+   "start": "13:35",
+   "end": "13:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:44",
+   "end": "13:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "13:52",
+   "end": "14:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 62
+  },
+  {
+   "start": "14:54",
+   "end": "15:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "15:00",
+   "end": "15:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "15:20",
+   "end": "15:33",
+   "category": "面会・会談",
+   "label": "ベルギーのフィリップ国王と会談",
+   "minutes": 13
+  },
+  {
+   "start": "15:33",
+   "end": "15:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "15:42",
+   "end": "15:54",
+   "category": "面会・会談",
+   "label": "マレーシアのアブドラ国王と会談",
+   "minutes": 12
+  },
+  {
+   "start": "15:54",
+   "end": "16:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "16:18",
+   "end": "16:46",
+   "category": "面会・会談",
+   "label": "カンボジアのシハモニ国王と会談",
+   "minutes": 28
+  },
+  {
+   "start": "16:46",
+   "end": "16:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:49",
+   "end": "17:00",
+   "category": "面会・会談",
+   "label": "ブータンのワンチュク国王と会談",
+   "minutes": 11
+  },
+  {
+   "start": "17:00",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:06",
+   "end": "17:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "17:17",
+   "end": "18:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 90
+  },
+  {
+   "start": "18:47",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:56",
+   "end": "22:34",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともに、饗宴の儀に参列",
+   "minutes": 218
+  },
+  {
+   "start": "22:34",
+   "end": "22:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "22:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 72
+  }
+ ],
+ "alloc_min": {
+  "居所": 731,
+  "移動": 73,
+  "式典・行事": 350,
+  "官邸執務": 106,
+  "公務（内容未詳）": 116,
+  "面会・会談": 64
+ }
+}

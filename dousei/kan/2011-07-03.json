@@ -1,0 +1,56 @@
+{
+ "date": "2011-07-03",
+ "pm": "菅直人",
+ "source": "朝日新聞社 2011.07.03",
+ "work_min": 158,
+ "residence_min": 1282,
+ "meetings": 2,
+ "first_work": "18:45",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:45",
+   "label": "民主党の前川清成参院議員、藤田一枝衆院議員ら",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:23",
+   "label": "全員出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "18:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1125
+  },
+  {
+   "start": "18:45",
+   "end": "21:23",
+   "category": "面会・会談",
+   "label": "民主党の前川清成参院議員、藤田一枝衆院議員ら",
+   "minutes": 158
+  },
+  {
+   "start": "21:23",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 157
+  }
+ ],
+ "alloc_min": {
+  "居所": 1282,
+  "面会・会談": 158
+ }
+}

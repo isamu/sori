@@ -1,0 +1,361 @@
+{
+ "date": "2023-04-03",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 788,
+ "residence_min": 652,
+ "meetings": 1,
+ "first_work": "08:04",
+ "events": [
+  {
+   "time": "08:04",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:07",
+   "label": "林芳正外相 森健良事務次官 船越健裕アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "参院決算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "こども家庭庁発足式に出席し、あいさつ",
+   "place": "東京・霞が関 霞が関ビルディング",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:24",
+   "label": "移動",
+   "place": "東京・霞が関 霞が関ビルディング",
+   "category": "移動"
+  },
+  {
+   "time": "12:33",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院決算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:09",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:14",
+   "label": "党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:28",
+   "label": "同党の二階俊博元幹事長、林幹雄元幹事長代理",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:44",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "17:47",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:16",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:35",
+   "label": "中曽根弘文日米国会議員連盟会長らによる米下院議員訪日団歓迎の夕食会に出席し、あいさつ",
+   "place": "東京・日本橋人形町 日本料理店「玄冶店　浜田家」",
+   "category": "会食"
+  },
+  {
+   "time": "18:42",
+   "label": "移動",
+   "place": "東京・日本橋人形町 日本料理店「玄冶店　浜田家」",
+   "category": "移動"
+  },
+  {
+   "time": "18:59",
+   "label": "武井俊輔外務副大臣ら自民党衆院議員と会食",
+   "place": "東京・日比谷公園 フランス料理店「日比谷松本楼」",
+   "category": "会食"
+  },
+  {
+   "time": "21:06",
+   "label": "移動",
+   "place": "東京・日比谷公園 フランス料理店「日比谷松本楼」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 484
+  },
+  {
+   "start": "08:04",
+   "end": "08:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:05",
+   "end": "08:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:07",
+   "end": "08:22",
+   "category": "面会・会談",
+   "label": "林芳正外相 森健良事務次官 船越健裕アジア大洋州局長",
+   "minutes": 15
+  },
+  {
+   "start": "08:22",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "08:50",
+   "end": "08:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:52",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:00",
+   "end": "11:55",
+   "category": "国会",
+   "label": "参院決算委員会",
+   "minutes": 175
+  },
+  {
+   "start": "11:55",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:57",
+   "end": "12:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "12:04",
+   "end": "12:24",
+   "category": "式典・行事",
+   "label": "こども家庭庁発足式に出席し、あいさつ",
+   "minutes": 20
+  },
+  {
+   "start": "12:24",
+   "end": "12:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "12:30",
+   "end": "12:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 18
+  },
+  {
+   "start": "12:51",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:00",
+   "end": "17:07",
+   "category": "国会",
+   "label": "参院決算委員会",
+   "minutes": 247
+  },
+  {
+   "start": "17:07",
+   "end": "17:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:09",
+   "end": "17:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:12",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:14",
+   "end": "17:25",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 11
+  },
+  {
+   "start": "17:25",
+   "end": "17:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:28",
+   "end": "17:42",
+   "category": "党務",
+   "label": "同党の二階俊博元幹事長、林幹雄元幹事長代理",
+   "minutes": 14
+  },
+  {
+   "start": "17:42",
+   "end": "17:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:44",
+   "end": "17:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 29
+  },
+  {
+   "start": "18:16",
+   "end": "18:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "18:35",
+   "end": "18:42",
+   "category": "会食",
+   "label": "中曽根弘文日米国会議員連盟会長らによる米下院議員訪日団歓迎の夕食会に出席し、あいさつ",
+   "minutes": 7
+  },
+  {
+   "start": "18:42",
+   "end": "18:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "18:59",
+   "end": "21:06",
+   "category": "会食",
+   "label": "武井俊輔外務副大臣ら自民党衆院議員と会食",
+   "minutes": 127
+  },
+  {
+   "start": "21:06",
+   "end": "21:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "21:12",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 168
+  }
+ ],
+ "alloc_min": {
+  "居所": 652,
+  "移動": 64,
+  "公務（内容未詳）": 61,
+  "面会・会談": 15,
+  "国会": 440,
+  "式典・行事": 20,
+  "党務": 25,
+  "官邸執務": 29,
+  "会食": 134
+ }
+}

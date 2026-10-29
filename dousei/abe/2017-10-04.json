@@ -1,0 +1,214 @@
+{
+ "date": "2017-10-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 769,
+ "residence_min": 671,
+ "meetings": 1,
+ "first_work": "09:40",
+ "events": [
+  {
+   "time": "09:40",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:39",
+   "label": "読売新聞のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:06",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:15",
+   "label": "街頭演説",
+   "place": "茨城県つくば市のつくばエクスプレスつくば駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:42",
+   "label": "街頭演説",
+   "place": "水戸市のＪＲ水戸駅前",
+   "category": "党務"
+  },
+  {
+   "time": "18:41",
+   "label": "住民らと記念撮影。田所嘉徳前衆院議員、大井川和彦茨城県知事らと食事",
+   "place": "同市の「レストラン　イイジマ」",
+   "category": "会食"
+  },
+  {
+   "time": "19:36",
+   "label": "移動",
+   "place": "同市の「レストラン　イイジマ」",
+   "category": "移動"
+  },
+  {
+   "time": "22:00",
+   "label": "トランプ米大統領と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:17",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:18",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 580
+  },
+  {
+   "start": "09:40",
+   "end": "09:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:53",
+   "end": "11:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 106
+  },
+  {
+   "start": "11:39",
+   "end": "12:06",
+   "category": "取材・会見",
+   "label": "読売新聞のインタビュー",
+   "minutes": 27
+  },
+  {
+   "start": "12:06",
+   "end": "15:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 180
+  },
+  {
+   "start": "15:06",
+   "end": "16:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 69
+  },
+  {
+   "start": "16:15",
+   "end": "16:52",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 37
+  },
+  {
+   "start": "16:52",
+   "end": "17:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "17:42",
+   "end": "18:15",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "18:15",
+   "end": "18:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "18:41",
+   "end": "19:36",
+   "category": "会食",
+   "label": "住民らと記念撮影。田所嘉徳前衆院議員、大井川和彦茨城県知事らと食事",
+   "minutes": 55
+  },
+  {
+   "start": "19:36",
+   "end": "21:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 93
+  },
+  {
+   "start": "21:09",
+   "end": "22:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "22:00",
+   "end": "22:12",
+   "category": "面会・会談",
+   "label": "トランプ米大統領と電話会談",
+   "minutes": 12
+  },
+  {
+   "start": "22:12",
+   "end": "22:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 5
+  },
+  {
+   "start": "22:17",
+   "end": "22:18",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "22:18",
+   "end": "22:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "22:34",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 86
+  }
+ ],
+ "alloc_min": {
+  "居所": 671,
+  "移動": 191,
+  "公務（内容未詳）": 413,
+  "取材・会見": 28,
+  "党務": 70,
+  "会食": 55,
+  "面会・会談": 12
+ }
+}

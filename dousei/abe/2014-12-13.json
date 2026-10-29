@@ -1,0 +1,307 @@
+{
+ "date": "2014-12-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 876,
+ "residence_min": 564,
+ "meetings": 2,
+ "first_work": "09:04",
+ "events": [
+  {
+   "time": "09:04",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:36",
+   "label": "練り歩き",
+   "place": "ＪＲ大月駅前",
+   "category": "党務"
+  },
+  {
+   "time": "11:38",
+   "label": "街頭演説",
+   "place": "山梨県甲州市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "12:49",
+   "label": "街頭演説",
+   "place": "ＪＲ甲府駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "13:20",
+   "label": "同駅内の山梨県警鉄道警察隊事務所で自民党の清水武則山梨県連会長、森屋宏参院議員",
+   "place": "ＪＲ甲府駅",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:01",
+   "label": "街頭演説",
+   "place": "ＪＲ長野駅善光寺口",
+   "category": "党務"
+  },
+  {
+   "time": "16:49",
+   "label": "あさま540号",
+   "place": "ＪＲ長野駅善光寺口",
+   "category": "移動"
+  },
+  {
+   "time": "17:03",
+   "label": "街頭演説",
+   "place": "ＪＲ上田駅お城口",
+   "category": "党務"
+  },
+  {
+   "time": "17:27",
+   "label": "同駅内の駅長事務室で自民党の小坂憲次、若林健太両参院議員",
+   "place": "ＪＲ上田駅",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:32",
+   "label": "街頭演説",
+   "place": "ＪＲ秋葉原駅電気街口",
+   "category": "党務"
+  },
+  {
+   "time": "20:04",
+   "label": "移動",
+   "place": "ＪＲ秋葉原駅電気街口",
+   "category": "移動"
+  },
+  {
+   "time": "20:26",
+   "label": "党インターネット番組「カフェスタ」に出演",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:34",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "20:44",
+   "label": "秘書官と食事",
+   "place": "東京・四谷 焼肉店「龍月園」",
+   "category": "会食"
+  },
+  {
+   "time": "23:33",
+   "label": "移動",
+   "place": "東京・四谷 焼肉店「龍月園」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 544
+  },
+  {
+   "start": "09:04",
+   "end": "09:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "09:21",
+   "end": "10:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 75
+  },
+  {
+   "start": "10:36",
+   "end": "10:50",
+   "category": "党務",
+   "label": "練り歩き",
+   "minutes": 14
+  },
+  {
+   "start": "10:50",
+   "end": "11:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "11:38",
+   "end": "12:08",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "12:08",
+   "end": "12:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "12:49",
+   "end": "13:15",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "13:15",
+   "end": "13:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:20",
+   "end": "13:28",
+   "category": "面会・会談",
+   "label": "同駅内の山梨県警鉄道警察隊事務所で自民党の清水武則山梨県連会長、森屋宏参院議員",
+   "minutes": 8
+  },
+  {
+   "start": "13:28",
+   "end": "16:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 153
+  },
+  {
+   "start": "16:01",
+   "end": "16:27",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "16:27",
+   "end": "16:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "16:49",
+   "end": "17:01",
+   "category": "移動",
+   "label": "あさま540号",
+   "minutes": 12
+  },
+  {
+   "start": "17:01",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:03",
+   "end": "17:25",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "17:25",
+   "end": "17:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:27",
+   "end": "17:37",
+   "category": "面会・会談",
+   "label": "同駅内の駅長事務室で自民党の小坂憲次、若林健太両参院議員",
+   "minutes": 10
+  },
+  {
+   "start": "17:37",
+   "end": "19:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 115
+  },
+  {
+   "start": "19:32",
+   "end": "20:04",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "20:04",
+   "end": "20:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "20:24",
+   "end": "20:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "20:26",
+   "end": "20:34",
+   "category": "取材・会見",
+   "label": "党インターネット番組「カフェスタ」に出演",
+   "minutes": 8
+  },
+  {
+   "start": "20:34",
+   "end": "20:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "20:44",
+   "end": "23:33",
+   "category": "会食",
+   "label": "秘書官と食事",
+   "minutes": 169
+  },
+  {
+   "start": "23:33",
+   "end": "23:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "23:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 20
+  }
+ ],
+ "alloc_min": {
+  "居所": 564,
+  "移動": 66,
+  "公務（内容未詳）": 465,
+  "党務": 150,
+  "面会・会談": 18,
+  "取材・会見": 8,
+  "会食": 169
+ }
+}

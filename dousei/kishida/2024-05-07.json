@@ -1,0 +1,495 @@
+{
+ "date": "2024-05-07",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 596,
+ "residence_min": 841,
+ "meetings": 5,
+ "first_work": "08:33",
+ "events": [
+  {
+   "time": "08:33",
+   "label": "木原誠二自民党幹事長代理",
+   "place": "公邸",
+   "category": "党務"
+  },
+  {
+   "time": "09:14",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:16",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:59",
+   "label": "同党の浜田靖一国対委員長、石井準一参院国対委員長",
+   "place": "国会 自民党国対委員長室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:35",
+   "label": "移動",
+   "place": "国会 自民党国対委員長室",
+   "category": "移動"
+  },
+  {
+   "time": "11:41",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:50",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "12:03",
+   "label": "森山裕同党総務会長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:35",
+   "label": "元宿仁同党本部事務総長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:46",
+   "label": "茂木敏充同党幹事長、元宿事務総長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:54",
+   "label": "元宿事務総長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:59",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "13:01",
+   "label": "ＡＴＭを利用",
+   "place": "国会",
+   "category": "個人"
+  },
+  {
+   "time": "13:04",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "14:00",
+   "label": "原和也内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "同党の麻生太郎副総裁、茂木幹事長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "15:48",
+   "label": "同党の衆院島根１区補欠選挙立候補者の錦織功政氏、細田重雄島根県連会長",
+   "place": "自民党本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:00",
+   "label": "渡海紀三朗同党政調会長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "16:34",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "植田和男日銀総裁と会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:32",
+   "label": "山本有二自民党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:30",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:32",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 513
+  },
+  {
+   "start": "08:33",
+   "end": "09:13",
+   "category": "党務",
+   "label": "木原誠二自民党幹事長代理",
+   "minutes": 40
+  },
+  {
+   "start": "09:13",
+   "end": "09:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "09:14",
+   "end": "09:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 99
+  },
+  {
+   "start": "10:55",
+   "end": "10:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "10:56",
+   "end": "10:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:59",
+   "end": "11:32",
+   "category": "面会・会談",
+   "label": "同党の浜田靖一国対委員長、石井準一参院国対委員長",
+   "minutes": 33
+  },
+  {
+   "start": "11:32",
+   "end": "11:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:35",
+   "end": "11:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "11:41",
+   "end": "11:50",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 9
+  },
+  {
+   "start": "11:50",
+   "end": "12:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "12:02",
+   "end": "12:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:03",
+   "end": "12:29",
+   "category": "党務",
+   "label": "森山裕同党総務会長",
+   "minutes": 26
+  },
+  {
+   "start": "12:29",
+   "end": "12:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "12:35",
+   "end": "12:45",
+   "category": "党務",
+   "label": "元宿仁同党本部事務総長",
+   "minutes": 10
+  },
+  {
+   "start": "12:45",
+   "end": "12:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:46",
+   "end": "12:53",
+   "category": "党務",
+   "label": "茂木敏充同党幹事長、元宿事務総長",
+   "minutes": 7
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:54",
+   "end": "12:58",
+   "category": "党務",
+   "label": "元宿事務総長",
+   "minutes": 4
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:01",
+   "end": "13:04",
+   "category": "個人",
+   "label": "ＡＴＭを利用",
+   "minutes": 3
+  },
+  {
+   "start": "13:04",
+   "end": "13:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:06",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "14:00",
+   "end": "14:25",
+   "category": "面会・会談",
+   "label": "原和也内閣情報官",
+   "minutes": 25
+  },
+  {
+   "start": "14:25",
+   "end": "14:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "14:56",
+   "end": "14:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "14:59",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:00",
+   "end": "15:47",
+   "category": "党務",
+   "label": "同党の麻生太郎副総裁、茂木幹事長",
+   "minutes": 47
+  },
+  {
+   "start": "15:47",
+   "end": "15:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:48",
+   "end": "15:58",
+   "category": "面会・会談",
+   "label": "同党の衆院島根１区補欠選挙立候補者の錦織功政氏、細田重雄島根県連会長",
+   "minutes": 10
+  },
+  {
+   "start": "15:58",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:00",
+   "end": "16:32",
+   "category": "党務",
+   "label": "渡海紀三朗同党政調会長",
+   "minutes": 32
+  },
+  {
+   "start": "16:32",
+   "end": "16:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:34",
+   "end": "16:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:37",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "17:01",
+   "end": "17:30",
+   "category": "面会・会談",
+   "label": "植田和男日銀総裁と会談",
+   "minutes": 29
+  },
+  {
+   "start": "17:30",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:32",
+   "end": "18:00",
+   "category": "面会・会談",
+   "label": "山本有二自民党衆院議員",
+   "minutes": 28
+  },
+  {
+   "start": "18:00",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "18:30",
+   "end": "18:31",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "18:31",
+   "end": "18:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:32",
+   "end": "18:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:33",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 327
+  }
+ ],
+ "alloc_min": {
+  "居所": 841,
+  "党務": 166,
+  "移動": 32,
+  "官邸執務": 99,
+  "公務（内容未詳）": 164,
+  "面会・会談": 125,
+  "式典・行事": 9,
+  "個人": 3,
+  "取材・会見": 1
+ }
+}

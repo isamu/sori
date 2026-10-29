@@ -1,0 +1,288 @@
+{
+ "date": "2019-11-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 630,
+ "residence_min": 810,
+ "meetings": 5,
+ "first_work": "09:40",
+ "events": [
+  {
+   "time": "09:40",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:32",
+   "label": "中国の王毅国務委員兼外相と会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:25",
+   "label": "滝沢裕昭内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:13",
+   "label": "ゲオルギエワ国際通貨基金（ＩＭＦ）専務理事の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:38",
+   "label": "高市早苗総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:58",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:02",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:21",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:12",
+   "label": "フランシスコ・ローマ教皇を出迎え",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:13",
+   "label": "教皇と会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:43",
+   "label": "「要人および外交団らとの集い」に出席し、あいさつ",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:11",
+   "label": "教皇を見送り",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 580
+  },
+  {
+   "start": "09:40",
+   "end": "09:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "09:57",
+   "end": "10:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "10:32",
+   "end": "11:00",
+   "category": "面会・会談",
+   "label": "中国の王毅国務委員兼外相と会談",
+   "minutes": 28
+  },
+  {
+   "start": "11:00",
+   "end": "15:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 265
+  },
+  {
+   "start": "15:25",
+   "end": "15:54",
+   "category": "面会・会談",
+   "label": "滝沢裕昭内閣情報官",
+   "minutes": 29
+  },
+  {
+   "start": "15:54",
+   "end": "16:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "16:13",
+   "end": "16:37",
+   "category": "面会・会談",
+   "label": "ゲオルギエワ国際通貨基金（ＩＭＦ）専務理事の表敬",
+   "minutes": 24
+  },
+  {
+   "start": "16:37",
+   "end": "16:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:38",
+   "end": "16:51",
+   "category": "面会・会談",
+   "label": "高市早苗総務相",
+   "minutes": 13
+  },
+  {
+   "start": "16:51",
+   "end": "16:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:58",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:59",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:02",
+   "end": "17:20",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 18
+  },
+  {
+   "start": "17:20",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:21",
+   "end": "17:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:23",
+   "end": "18:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "18:12",
+   "end": "18:13",
+   "category": "官邸執務",
+   "label": "フランシスコ・ローマ教皇を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "18:13",
+   "end": "18:39",
+   "category": "面会・会談",
+   "label": "教皇と会談",
+   "minutes": 26
+  },
+  {
+   "start": "18:39",
+   "end": "18:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:43",
+   "end": "19:10",
+   "category": "式典・行事",
+   "label": "「要人および外交団らとの集い」に出席し、あいさつ",
+   "minutes": 27
+  },
+  {
+   "start": "19:10",
+   "end": "19:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:11",
+   "end": "19:14",
+   "category": "官邸執務",
+   "label": "教皇を見送り",
+   "minutes": 3
+  },
+  {
+   "start": "19:14",
+   "end": "19:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "19:53",
+   "end": "20:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "20:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 230
+  }
+ ],
+ "alloc_min": {
+  "居所": 810,
+  "移動": 37,
+  "公務（内容未詳）": 424,
+  "面会・会談": 120,
+  "党務": 18,
+  "官邸執務": 4,
+  "式典・行事": 27
+ }
+}

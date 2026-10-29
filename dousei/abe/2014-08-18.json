@@ -1,0 +1,116 @@
+{
+ "date": "2014-08-18",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.08.18",
+ "work_min": 355,
+ "residence_min": 842,
+ "meetings": 3,
+ "first_work": "12:49",
+ "events": [
+  {
+   "time": null,
+   "label": "山梨県鳴沢村の別荘で過ごす",
+   "place": "別荘",
+   "category": "個人"
+  },
+  {
+   "time": "12:49",
+   "label": "同県富士吉田市の温泉施設「ふじやま温泉」。入浴",
+   "place": "温泉施設「ふじやま温泉」",
+   "category": "個人"
+  },
+  {
+   "time": "15:19",
+   "label": "別荘",
+   "place": "別荘",
+   "category": "個人"
+  },
+  {
+   "time": "16:52",
+   "label": "田中財務省主計局長",
+   "place": "別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:36",
+   "label": "田中氏や秘書官と食事",
+   "place": "別荘",
+   "category": "会食"
+  },
+  {
+   "time": "17:43",
+   "label": "本田内閣官房参与加わる",
+   "place": "別荘",
+   "category": "会食"
+  },
+  {
+   "time": "22:35",
+   "label": "本田氏出る",
+   "place": "別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:47",
+   "label": "全員出る",
+   "place": "別荘",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 769
+  },
+  {
+   "start": "12:49",
+   "end": "15:19",
+   "category": "個人",
+   "label": "同県富士吉田市の温泉施設「ふじやま温泉」。入浴",
+   "minutes": 150
+  },
+  {
+   "start": "15:19",
+   "end": "16:52",
+   "category": "個人",
+   "label": "別荘",
+   "minutes": 93
+  },
+  {
+   "start": "16:52",
+   "end": "17:36",
+   "category": "面会・会談",
+   "label": "田中財務省主計局長",
+   "minutes": 44
+  },
+  {
+   "start": "17:36",
+   "end": "17:43",
+   "category": "会食",
+   "label": "田中氏や秘書官と食事",
+   "minutes": 7
+  },
+  {
+   "start": "17:43",
+   "end": "22:47",
+   "category": "会食",
+   "label": "本田内閣官房参与加わる",
+   "minutes": 304
+  },
+  {
+   "start": "22:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 73
+  }
+ ],
+ "alloc_min": {
+  "居所": 842,
+  "個人": 243,
+  "面会・会談": 44,
+  "会食": 311
+ }
+}

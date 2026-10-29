@@ -1,0 +1,160 @@
+{
+ "date": "2015-12-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1199,
+ "residence_min": 241,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "16:05",
+   "label": "帰国の記帳",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:14",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:39",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:46",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "17:21",
+   "label": "茂木敏充自民党選対委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:30",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:31",
+   "label": "各省副大臣と会食。菅義偉官房長官、萩生田光一、世耕弘成両官房副長官同席",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "19:44",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:05",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 965
+  },
+  {
+   "start": "16:05",
+   "end": "16:14",
+   "category": "移動",
+   "label": "帰国の記帳",
+   "minutes": 9
+  },
+  {
+   "start": "16:14",
+   "end": "16:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "16:39",
+   "end": "16:46",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 7
+  },
+  {
+   "start": "16:46",
+   "end": "16:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "16:53",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "17:21",
+   "end": "17:50",
+   "category": "面会・会談",
+   "label": "茂木敏充自民党選対委員長",
+   "minutes": 29
+  },
+  {
+   "start": "17:50",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "18:30",
+   "end": "18:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:31",
+   "end": "19:44",
+   "category": "会食",
+   "label": "各省副大臣と会食。菅義偉官房長官、萩生田光一、世耕弘成両官房副長官同席",
+   "minutes": 73
+  },
+  {
+   "start": "19:44",
+   "end": "19:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "19:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 241
+  }
+ ],
+ "alloc_min": {
+  "外遊": 965,
+  "移動": 57,
+  "式典・行事": 7,
+  "公務（内容未詳）": 68,
+  "面会・会談": 29,
+  "会食": 73,
+  "居所": 241
+ }
+}

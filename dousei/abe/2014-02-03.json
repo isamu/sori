@@ -1,0 +1,244 @@
+{
+ "date": "2014-02-03",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2014.02.03",
+ "work_min": 903,
+ "residence_min": 537,
+ "meetings": 4,
+ "first_work": "07:00",
+ "events": [
+  {
+   "time": "07:00",
+   "label": "私邸発",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:12",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:13",
+   "label": "加藤官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:55",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:20",
+   "label": "政府・与党連絡会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:56",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:05",
+   "label": "自民党役員会",
+   "place": "国会",
+   "category": "党務"
+  },
+  {
+   "time": "17:31",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:48",
+   "label": "小野寺防衛相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:12",
+   "label": "米太平洋軍のロックリアー司令官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:40",
+   "label": "スペインのポサダ下院議長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:05",
+   "label": "東京・平河町の日本料理店「下関春帆楼 東京店」",
+   "place": "平河町",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "毎日新聞の朝比奈豊社長らと食事",
+   "place": "平河町",
+   "category": "会食"
+  },
+  {
+   "time": "22:03",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 420
+  },
+  {
+   "start": "07:00",
+   "end": "07:12",
+   "category": "移動",
+   "label": "私邸発",
+   "minutes": 12
+  },
+  {
+   "start": "07:12",
+   "end": "07:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:13",
+   "end": "08:55",
+   "category": "面会・会談",
+   "label": "加藤官房副長官",
+   "minutes": 102
+  },
+  {
+   "start": "08:55",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:00",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 185
+  },
+  {
+   "start": "12:05",
+   "end": "12:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "12:20",
+   "end": "12:56",
+   "category": "官邸執務",
+   "label": "政府・与党連絡会議",
+   "minutes": 36
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:05",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 245
+  },
+  {
+   "start": "17:05",
+   "end": "17:31",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 26
+  },
+  {
+   "start": "17:31",
+   "end": "17:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "17:48",
+   "end": "18:12",
+   "category": "面会・会談",
+   "label": "小野寺防衛相",
+   "minutes": 24
+  },
+  {
+   "start": "18:12",
+   "end": "18:40",
+   "category": "面会・会談",
+   "label": "米太平洋軍のロックリアー司令官",
+   "minutes": 28
+  },
+  {
+   "start": "18:40",
+   "end": "19:05",
+   "category": "面会・会談",
+   "label": "スペインのポサダ下院議長",
+   "minutes": 25
+  },
+  {
+   "start": "19:05",
+   "end": "22:03",
+   "category": "会食",
+   "label": "毎日新聞の朝比奈豊社長らと食事",
+   "minutes": 178
+  },
+  {
+   "start": "22:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 117
+  }
+ ],
+ "alloc_min": {
+  "居所": 537,
+  "移動": 12,
+  "公務（内容未詳）": 42,
+  "面会・会談": 179,
+  "国会": 430,
+  "官邸執務": 36,
+  "党務": 26,
+  "会食": 178
+ }
+}

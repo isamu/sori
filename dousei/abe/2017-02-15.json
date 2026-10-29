@@ -1,0 +1,348 @@
+{
+ "date": "2017-02-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 774,
+ "residence_min": 666,
+ "meetings": 6,
+ "first_work": "08:32",
+ "events": [
+  {
+   "time": "08:32",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:36",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:41",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "石原伸晃経済再生担当相 西川正郎事務次官 羽深成樹審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:21",
+   "label": "柳瀬唯夫経済産業政策局長 石原伸晃経済再生担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:10",
+   "label": "谷内正太郎国家安全保障局長 杉山晋輔事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:17",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:11",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:33",
+   "label": "自民党の派閥横断勉強会「きさらぎ会」の新年会に出席し、あいさつ",
+   "place": "東京・赤坂 中国料理店「赤坂飯店」",
+   "category": "党務"
+  },
+  {
+   "time": "19:03",
+   "label": "移動",
+   "place": "東京・赤坂 中国料理店「赤坂飯店」",
+   "category": "移動"
+  },
+  {
+   "time": "19:13",
+   "label": "評論家の金美齢氏、青山繁晴自民党参院議員らと会食",
+   "place": "東京・六本木 京料理店「花郷　六本木店」",
+   "category": "会食"
+  },
+  {
+   "time": "21:09",
+   "label": "移動",
+   "place": "東京・六本木 京料理店「花郷　六本木店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 512
+  },
+  {
+   "start": "08:32",
+   "end": "08:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "08:45",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:57",
+   "end": "09:35",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 38
+  },
+  {
+   "start": "09:35",
+   "end": "09:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:36",
+   "end": "09:40",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 4
+  },
+  {
+   "start": "09:40",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "09:52",
+   "end": "09:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:54",
+   "end": "09:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:39",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 98
+  },
+  {
+   "start": "11:39",
+   "end": "11:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:41",
+   "end": "11:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:43",
+   "end": "13:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 132
+  },
+  {
+   "start": "13:55",
+   "end": "14:20",
+   "category": "面会・会談",
+   "label": "石原伸晃経済再生担当相 西川正郎事務次官 羽深成樹審議官",
+   "minutes": 25
+  },
+  {
+   "start": "14:20",
+   "end": "14:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:21",
+   "end": "14:36",
+   "category": "面会・会談",
+   "label": "柳瀬唯夫経済産業政策局長 石原伸晃経済再生担当相",
+   "minutes": 15
+  },
+  {
+   "start": "14:36",
+   "end": "15:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "15:10",
+   "end": "15:59",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 杉山晋輔事務次官",
+   "minutes": 49
+  },
+  {
+   "start": "15:59",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 78
+  },
+  {
+   "start": "17:17",
+   "end": "18:10",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 53
+  },
+  {
+   "start": "18:10",
+   "end": "18:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:11",
+   "end": "18:23",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 12
+  },
+  {
+   "start": "18:23",
+   "end": "18:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:27",
+   "end": "18:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "18:33",
+   "end": "19:03",
+   "category": "党務",
+   "label": "自民党の派閥横断勉強会「きさらぎ会」の新年会に出席し、あいさつ",
+   "minutes": 30
+  },
+  {
+   "start": "19:03",
+   "end": "19:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "19:13",
+   "end": "21:09",
+   "category": "会食",
+   "label": "評論家の金美齢氏、青山繁晴自民党参院議員らと会食",
+   "minutes": 116
+  },
+  {
+   "start": "21:09",
+   "end": "21:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "21:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 154
+  }
+ ],
+ "alloc_min": {
+  "居所": 666,
+  "移動": 50,
+  "公務（内容未詳）": 282,
+  "面会・会談": 143,
+  "国会": 100,
+  "官邸執務": 53,
+  "党務": 30,
+  "会食": 116
+ }
+}

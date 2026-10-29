@@ -1,0 +1,127 @@
+{
+ "date": "2015-10-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 943,
+ "residence_min": 497,
+ "meetings": 3,
+ "first_work": "08:17",
+ "events": [
+  {
+   "time": "08:17",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ソフィテル・アシガバート・オグスケント」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "トルクメニスタンのアシガバート国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "モンゴル・ウランバートルのチンギスハーン国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "献花",
+   "place": "日本人抑留中死亡者慰霊碑",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "国民大会議のエンフボルド議長と懇談",
+   "place": "政府庁舎",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "迎賓館",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "日・モンゴル協力覚書の署名式",
+   "place": "迎賓館",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "サイハンビレグ首相と会談",
+   "place": "迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "エルベグドルジ大統領と会談",
+   "place": "大統領公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "モンゴル・ウランバートルのチンギスハーン国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 497
+  },
+  {
+   "start": "08:17",
+   "end": "08:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "08:41",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "08:54",
+   "end": "08:56",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "08:56",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 904
+  }
+ ],
+ "alloc_min": {
+  "居所": 497,
+  "移動": 24,
+  "公務（内容未詳）": 13,
+  "取材・会見": 2,
+  "外遊": 904
+ }
+}

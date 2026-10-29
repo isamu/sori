@@ -1,0 +1,315 @@
+{
+ "date": "2018-02-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 685,
+ "residence_min": 755,
+ "meetings": 2,
+ "first_work": "07:06",
+ "events": [
+  {
+   "time": "07:06",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:24",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "07:30",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "茂木敏充経済再生担当相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:02",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:28",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:58",
+   "label": "菅義偉官房長官 小野寺五典防衛相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:11",
+   "label": "竹下亘自民党総務会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "18:29",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 426
+  },
+  {
+   "start": "07:06",
+   "end": "07:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "07:23",
+   "end": "07:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:24",
+   "end": "07:26",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "07:26",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "07:30",
+   "end": "07:51",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 21
+  },
+  {
+   "start": "07:51",
+   "end": "07:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:52",
+   "end": "08:47",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 55
+  },
+  {
+   "start": "08:47",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:57",
+   "end": "12:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 184
+  },
+  {
+   "start": "12:01",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:04",
+   "end": "12:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 49
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "国会",
+   "label": "茂木敏充経済再生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "17:00",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 240
+  },
+  {
+   "start": "17:00",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:02",
+   "end": "17:27",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 25
+  },
+  {
+   "start": "17:27",
+   "end": "17:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:28",
+   "end": "17:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:30",
+   "end": "17:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "17:58",
+   "end": "18:08",
+   "category": "面会・会談",
+   "label": "菅義偉官房長官 小野寺五典防衛相",
+   "minutes": 10
+  },
+  {
+   "start": "18:08",
+   "end": "18:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:11",
+   "end": "18:22",
+   "category": "党務",
+   "label": "竹下亘自民党総務会長",
+   "minutes": 11
+  },
+  {
+   "start": "18:22",
+   "end": "18:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "18:29",
+   "end": "18:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 329
+  }
+ ],
+ "alloc_min": {
+  "居所": 755,
+  "移動": 25,
+  "公務（内容未詳）": 62,
+  "取材・会見": 2,
+  "面会・会談": 86,
+  "国会": 425,
+  "官邸執務": 49,
+  "党務": 36
+ }
+}

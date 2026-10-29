@@ -1,0 +1,181 @@
+{
+ "date": "2024-03-23",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 266,
+ "residence_min": 1174,
+ "meetings": 1,
+ "first_work": "09:19",
+ "events": [
+  {
+   "time": "09:19",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:21",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:26",
+   "label": "陸上自衛隊ヘリコプター",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:48",
+   "label": "木原稔防衛相、久保文明防大学校長ら",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:10",
+   "label": "防大卒業式",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:45",
+   "label": "木原防衛相、久保防大学校長らと昼食",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "会食"
+  },
+  {
+   "time": "12:20",
+   "label": "任命・宣誓式",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:33",
+   "label": "移動",
+   "place": "神奈川県横須賀市 防衛大学校",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:19",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 559
+  },
+  {
+   "start": "09:19",
+   "end": "09:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "09:26",
+   "end": "09:42",
+   "category": "移動",
+   "label": "陸上自衛隊ヘリコプター",
+   "minutes": 16
+  },
+  {
+   "start": "09:42",
+   "end": "09:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:48",
+   "end": "09:53",
+   "category": "面会・会談",
+   "label": "木原稔防衛相、久保文明防大学校長ら",
+   "minutes": 5
+  },
+  {
+   "start": "09:53",
+   "end": "10:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "10:10",
+   "end": "11:37",
+   "category": "式典・行事",
+   "label": "防大卒業式",
+   "minutes": 87
+  },
+  {
+   "start": "11:37",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "11:45",
+   "end": "12:10",
+   "category": "会食",
+   "label": "木原防衛相、久保防大学校長らと昼食",
+   "minutes": 25
+  },
+  {
+   "start": "12:10",
+   "end": "12:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "12:20",
+   "end": "12:28",
+   "category": "式典・行事",
+   "label": "任命・宣誓式",
+   "minutes": 8
+  },
+  {
+   "start": "12:28",
+   "end": "12:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:33",
+   "end": "13:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 72
+  },
+  {
+   "start": "13:45",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 615
+  }
+ ],
+ "alloc_min": {
+  "居所": 1174,
+  "移動": 90,
+  "官邸執務": 5,
+  "公務（内容未詳）": 46,
+  "面会・会談": 5,
+  "式典・行事": 95,
+  "会食": 25
+ }
+}

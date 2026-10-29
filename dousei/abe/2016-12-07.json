@@ -1,0 +1,433 @@
+{
+ "date": "2016-12-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 806,
+ "residence_min": 634,
+ "meetings": 11,
+ "first_work": "08:52",
+ "events": [
+  {
+   "time": "08:52",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:35",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:08",
+   "label": "石原伸晃経済再生担当相 西川正郎事務次官 羽深成樹審議官 井野靖久政策統括官 新原浩朗政策統括官 田和宏政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:27",
+   "label": "麻生太郎副総理兼財務相 佐藤慎一事務次官 星野次彦主税局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:58",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:05",
+   "label": "閣僚夫人と懇談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:11",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:12",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "党首討論",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:54",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "16:24",
+   "label": "青木照護日本青年会議所次期会頭。池田佳隆自民党衆院議員同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:54",
+   "label": "塩崎恭久厚生労働相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:15",
+   "label": "高市早苗総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:21",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:04",
+   "label": "世耕弘成経済産業相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:29",
+   "label": "林肇欧州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:41",
+   "label": "沼田幹男交流協会台北事務所代表、金杉憲治外務省アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:18",
+   "label": "茂木敏充自民党政調会長と会食",
+   "place": "東京・雷門 鳥料理店「鷹匠寿」",
+   "category": "会食"
+  },
+  {
+   "time": "21:43",
+   "label": "移動",
+   "place": "東京・雷門 鳥料理店「鷹匠寿」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 532
+  },
+  {
+   "start": "08:52",
+   "end": "09:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "09:08",
+   "end": "09:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "09:35",
+   "end": "10:15",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 40
+  },
+  {
+   "start": "10:15",
+   "end": "11:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "11:08",
+   "end": "11:24",
+   "category": "面会・会談",
+   "label": "石原伸晃経済再生担当相 西川正郎事務次官 羽深成樹審議官 井野靖久政策統括官 新原浩朗政策統括官 田和宏政策統括官",
+   "minutes": 16
+  },
+  {
+   "start": "11:24",
+   "end": "11:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:27",
+   "end": "11:57",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相 佐藤慎一事務次官 星野次彦主税局長",
+   "minutes": 30
+  },
+  {
+   "start": "11:57",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:58",
+   "end": "12:03",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 5
+  },
+  {
+   "start": "12:03",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:04",
+   "end": "12:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:05",
+   "end": "12:11",
+   "category": "面会・会談",
+   "label": "閣僚夫人と懇談",
+   "minutes": 6
+  },
+  {
+   "start": "12:11",
+   "end": "12:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 159
+  },
+  {
+   "start": "14:51",
+   "end": "14:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:53",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "15:00",
+   "end": "15:51",
+   "category": "国会",
+   "label": "党首討論",
+   "minutes": 51
+  },
+  {
+   "start": "15:51",
+   "end": "15:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:54",
+   "end": "15:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:56",
+   "end": "16:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "16:24",
+   "end": "16:53",
+   "category": "面会・会談",
+   "label": "青木照護日本青年会議所次期会頭。池田佳隆自民党衆院議員同席",
+   "minutes": 29
+  },
+  {
+   "start": "16:53",
+   "end": "16:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:54",
+   "end": "17:14",
+   "category": "面会・会談",
+   "label": "塩崎恭久厚生労働相",
+   "minutes": 20
+  },
+  {
+   "start": "17:14",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:15",
+   "end": "17:19",
+   "category": "面会・会談",
+   "label": "高市早苗総務相",
+   "minutes": 4
+  },
+  {
+   "start": "17:19",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:21",
+   "end": "18:02",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 41
+  },
+  {
+   "start": "18:02",
+   "end": "18:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:04",
+   "end": "18:28",
+   "category": "面会・会談",
+   "label": "世耕弘成経済産業相",
+   "minutes": 24
+  },
+  {
+   "start": "18:28",
+   "end": "18:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:29",
+   "end": "18:40",
+   "category": "面会・会談",
+   "label": "林肇欧州局長",
+   "minutes": 11
+  },
+  {
+   "start": "18:40",
+   "end": "18:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:41",
+   "end": "18:53",
+   "category": "面会・会談",
+   "label": "沼田幹男交流協会台北事務所代表、金杉憲治外務省アジア大洋州局長",
+   "minutes": 12
+  },
+  {
+   "start": "18:53",
+   "end": "18:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:55",
+   "end": "19:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "19:18",
+   "end": "21:43",
+   "category": "会食",
+   "label": "茂木敏充自民党政調会長と会食",
+   "minutes": 145
+  },
+  {
+   "start": "21:43",
+   "end": "22:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "22:18",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 102
+  }
+ ],
+ "alloc_min": {
+  "居所": 634,
+  "移動": 80,
+  "公務（内容未詳）": 133,
+  "面会・会談": 197,
+  "官邸執務": 200,
+  "国会": 51,
+  "会食": 145
+ }
+}

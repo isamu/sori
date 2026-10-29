@@ -1,0 +1,83 @@
+{
+ "date": "2012-11-06",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.11.06",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 7,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間6日）午前、ラオス・ビエンチャンの国立会議場でアジア欧州会議（ＡＳＥＭ）首脳会合の第2セッション",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "タイのインラック首相と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "午後、第3〜5セッション",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ベトナムのグエン・タン・ズン首相と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＡＳＥＭ首脳会合の閉会式",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "デンマークのトーニングシュミット首相と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "国家主席府でラオスのチュンマリ国家主席と会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ホテル「ラオ・プラザ」で報道各社のインタビュー",
+   "place": "ホテル「ラオ・プラザ」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "日本大使公邸で在留邦人と懇談",
+   "place": "ホテル「ラオ・プラザ」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "政府宿泊施設「ドンチャン・ビラ」泊",
+   "place": "ホテル「ラオ・プラザ」",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

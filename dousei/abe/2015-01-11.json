@@ -1,0 +1,152 @@
+{
+ "date": "2015-01-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 218,
+ "residence_min": 1211,
+ "meetings": 0,
+ "first_work": "13:30",
+ "events": [
+  {
+   "time": "13:30",
+   "label": "移動",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "移動"
+  },
+  {
+   "time": "14:17",
+   "label": "母親の洋子さんとともに、祖父岸信介元首相、父安倍晋太郎元外相の墓参り",
+   "place": "静岡県小山町 冨士霊園",
+   "category": "個人"
+  },
+  {
+   "time": "14:28",
+   "label": "報道各社のインタビュー",
+   "place": "静岡県小山町 冨士霊園",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:30",
+   "label": "移動",
+   "place": "静岡県小山町 冨士霊園",
+   "category": "移動"
+  },
+  {
+   "time": "15:11",
+   "label": "山梨県鳴沢村 別荘",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "その他"
+  },
+  {
+   "time": "18:00",
+   "label": "移動",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "移動"
+  },
+  {
+   "time": "18:11",
+   "label": "母親の洋子さんや秘書官と食事",
+   "place": "山梨県富士吉田市 「炭火串焼Ｉ．Ｗ」",
+   "category": "会食"
+  },
+  {
+   "time": "19:57",
+   "label": "移動",
+   "place": "山梨県富士吉田市 「炭火串焼Ｉ．Ｗ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "山梨県鳴沢村 別荘",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "その他"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 810
+  },
+  {
+   "start": "13:30",
+   "end": "14:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 47
+  },
+  {
+   "start": "14:17",
+   "end": "14:28",
+   "category": "個人",
+   "label": "母親の洋子さんとともに、祖父岸信介元首相、父安倍晋太郎元外相の墓参り",
+   "minutes": 11
+  },
+  {
+   "start": "14:28",
+   "end": "14:29",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "14:29",
+   "end": "14:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:30",
+   "end": "15:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "15:11",
+   "end": "18:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 169
+  },
+  {
+   "start": "18:00",
+   "end": "18:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:11",
+   "end": "19:57",
+   "category": "会食",
+   "label": "母親の洋子さんや秘書官と食事",
+   "minutes": 106
+  },
+  {
+   "start": "19:57",
+   "end": "20:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "20:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 232
+  }
+ ],
+ "alloc_min": {
+  "居所": 1211,
+  "移動": 110,
+  "個人": 11,
+  "取材・会見": 1,
+  "公務（内容未詳）": 1,
+  "会食": 106
+ }
+}

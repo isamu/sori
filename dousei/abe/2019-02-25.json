@@ -1,0 +1,361 @@
+{
+ "date": "2019-02-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 886,
+ "residence_min": 554,
+ "meetings": 2,
+ "first_work": "07:16",
+ "events": [
+  {
+   "time": "07:16",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:28",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "07:33",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:03",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:04",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:18",
+   "label": "谷内正太郎国家安全保障局長 秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:54",
+   "label": "「天皇陛下御即位３０年宮中茶会」に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:09",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "19:16",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:25",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:36",
+   "label": "時事通信社の大室真生社長、渡辺祐司常務取締役らと会食",
+   "place": "東京・銀座 鉄板焼き店「銀座うかい亭」",
+   "category": "会食"
+  },
+  {
+   "time": "21:45",
+   "label": "移動",
+   "place": "東京・銀座 鉄板焼き店「銀座うかい亭」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 436
+  },
+  {
+   "start": "07:16",
+   "end": "07:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "07:27",
+   "end": "07:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:28",
+   "end": "07:31",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "07:31",
+   "end": "07:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "07:33",
+   "end": "07:51",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 18
+  },
+  {
+   "start": "07:51",
+   "end": "07:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:52",
+   "end": "08:46",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 54
+  },
+  {
+   "start": "08:46",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:55",
+   "end": "08:57",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "minutes": 2
+  },
+  {
+   "start": "08:57",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:58",
+   "end": "12:00",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 182
+  },
+  {
+   "start": "12:00",
+   "end": "12:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:03",
+   "end": "12:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 51
+  },
+  {
+   "start": "12:55",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:03",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 243
+  },
+  {
+   "start": "17:03",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:06",
+   "end": "17:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:08",
+   "end": "17:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:18",
+   "end": "17:38",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 秋葉剛男事務次官",
+   "minutes": 20
+  },
+  {
+   "start": "17:38",
+   "end": "17:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:46",
+   "end": "17:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "17:54",
+   "end": "19:09",
+   "category": "式典・行事",
+   "label": "「天皇陛下御即位３０年宮中茶会」に出席",
+   "minutes": 75
+  },
+  {
+   "start": "19:09",
+   "end": "19:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 9
+  },
+  {
+   "start": "19:25",
+   "end": "19:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "19:36",
+   "end": "21:45",
+   "category": "会食",
+   "label": "時事通信社の大室真生社長、渡辺祐司常務取締役らと会食",
+   "minutes": 129
+  },
+  {
+   "start": "21:45",
+   "end": "22:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "22:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 118
+  }
+ ],
+ "alloc_min": {
+  "居所": 554,
+  "移動": 59,
+  "公務（内容未詳）": 41,
+  "取材・会見": 3,
+  "面会・会談": 92,
+  "国会": 427,
+  "官邸執務": 60,
+  "式典・行事": 75,
+  "会食": 129
+ }
+}

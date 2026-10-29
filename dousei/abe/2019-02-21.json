@@ -1,0 +1,294 @@
+{
+ "date": "2019-02-21",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 689,
+ "residence_min": 751,
+ "meetings": 6,
+ "first_work": "09:30",
+ "events": [
+  {
+   "time": "09:30",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:31",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:01",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:11",
+   "label": "内奏",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:50",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "14:01",
+   "label": "岸田文雄自民党政調会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "15:31",
+   "label": "前田晋太郎山口県下関市長、見原宏下関ふく連盟理事長ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:42",
+   "label": "嶋田隆事務次官 世耕弘成経済産業相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:09",
+   "label": "中南米大使会議出席者の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:27",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:41",
+   "label": "大谷直人最高裁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:01",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 鈴木哲総合外交政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:42",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:44",
+   "label": "荒井広幸参与",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:52",
+   "label": "下村博文自民党憲法改正推進本部長",
+   "place": "公邸",
+   "category": "党務"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 570
+  },
+  {
+   "start": "09:30",
+   "end": "09:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 90
+  },
+  {
+   "start": "11:01",
+   "end": "11:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "11:11",
+   "end": "11:50",
+   "category": "式典・行事",
+   "label": "内奏",
+   "minutes": 39
+  },
+  {
+   "start": "11:50",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "11:56",
+   "end": "14:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 125
+  },
+  {
+   "start": "14:01",
+   "end": "14:24",
+   "category": "党務",
+   "label": "岸田文雄自民党政調会長",
+   "minutes": 23
+  },
+  {
+   "start": "14:24",
+   "end": "15:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "15:31",
+   "end": "15:41",
+   "category": "面会・会談",
+   "label": "前田晋太郎山口県下関市長、見原宏下関ふく連盟理事長ら",
+   "minutes": 10
+  },
+  {
+   "start": "15:41",
+   "end": "15:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:42",
+   "end": "16:15",
+   "category": "面会・会談",
+   "label": "嶋田隆事務次官 世耕弘成経済産業相",
+   "minutes": 33
+  },
+  {
+   "start": "16:15",
+   "end": "17:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "17:09",
+   "end": "17:25",
+   "category": "面会・会談",
+   "label": "中南米大使会議出席者の表敬",
+   "minutes": 16
+  },
+  {
+   "start": "17:25",
+   "end": "17:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:27",
+   "end": "17:39",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 12
+  },
+  {
+   "start": "17:39",
+   "end": "17:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:41",
+   "end": "17:46",
+   "category": "面会・会談",
+   "label": "大谷直人最高裁長官",
+   "minutes": 5
+  },
+  {
+   "start": "17:46",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "18:01",
+   "end": "18:17",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 鈴木哲総合外交政策局長 河野克俊統合幕僚長",
+   "minutes": 16
+  },
+  {
+   "start": "18:17",
+   "end": "18:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "18:42",
+   "end": "18:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:43",
+   "end": "18:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:44",
+   "end": "19:52",
+   "category": "面会・会談",
+   "label": "荒井広幸参与",
+   "minutes": 68
+  },
+  {
+   "start": "19:52",
+   "end": "20:59",
+   "category": "党務",
+   "label": "下村博文自民党憲法改正推進本部長",
+   "minutes": 67
+  },
+  {
+   "start": "20:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 181
+  }
+ ],
+ "alloc_min": {
+  "居所": 751,
+  "移動": 18,
+  "官邸執務": 102,
+  "式典・行事": 39,
+  "公務（内容未詳）": 292,
+  "党務": 90,
+  "面会・会談": 148
+ }
+}

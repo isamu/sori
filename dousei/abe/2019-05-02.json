@@ -1,0 +1,119 @@
+{
+ "date": "2019-05-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 447,
+ "residence_min": 993,
+ "meetings": 1,
+ "first_work": "13:33",
+ "events": [
+  {
+   "time": "13:33",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:37",
+   "label": "成蹊大の友人",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:48",
+   "label": "移動",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "移動"
+  },
+  {
+   "time": "18:05",
+   "label": "成蹊大の友人らと食事",
+   "place": "山梨県富士吉田市 「焼肉バル　秀」",
+   "category": "会食"
+  },
+  {
+   "time": "20:46",
+   "label": "移動",
+   "place": "山梨県富士吉田市 「焼肉バル　秀」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "成蹊大の友人と宿泊",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 813
+  },
+  {
+   "start": "13:33",
+   "end": "15:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 113
+  },
+  {
+   "start": "15:26",
+   "end": "15:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "15:37",
+   "end": "17:47",
+   "category": "面会・会談",
+   "label": "成蹊大の友人",
+   "minutes": 130
+  },
+  {
+   "start": "17:47",
+   "end": "17:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "17:48",
+   "end": "18:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "18:05",
+   "end": "20:46",
+   "category": "会食",
+   "label": "成蹊大の友人らと食事",
+   "minutes": 161
+  },
+  {
+   "start": "20:46",
+   "end": "21:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "21:01",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 179
+  }
+ ],
+ "alloc_min": {
+  "居所": 993,
+  "移動": 145,
+  "公務（内容未詳）": 11,
+  "面会・会談": 130,
+  "会食": 161
+ }
+}

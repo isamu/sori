@@ -1,0 +1,259 @@
+{
+ "date": "2014-12-06",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 843,
+ "residence_min": 597,
+ "meetings": 0,
+ "first_work": "07:21",
+ "events": [
+  {
+   "time": "07:21",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:57",
+   "label": "街頭演説",
+   "place": "兵庫県尼崎市 阪神電鉄尼崎駅前",
+   "category": "党務"
+  },
+  {
+   "time": "10:58",
+   "label": "街頭演説",
+   "place": "神戸市中央区 大丸神戸店前",
+   "category": "党務"
+  },
+  {
+   "time": "12:03",
+   "label": "街頭演説",
+   "place": "同市北区 神戸電鉄岡場駅前",
+   "category": "党務"
+  },
+  {
+   "time": "12:49",
+   "label": "同駅の貴賓室で秘書官と食事",
+   "place": "ＪＲ新神戸駅",
+   "category": "会食"
+  },
+  {
+   "time": "13:39",
+   "label": "のぞみ107号",
+   "place": "ＪＲ新神戸駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:55",
+   "label": "街頭演説",
+   "place": "ＪＲ姫路駅前",
+   "category": "党務"
+  },
+  {
+   "time": "15:30",
+   "label": "街頭演説",
+   "place": "岡山市中区 天満屋ハピータウン原尾島店前",
+   "category": "党務"
+  },
+  {
+   "time": "17:05",
+   "label": "街頭演説",
+   "place": "ＪＲ坂出駅前",
+   "category": "党務"
+  },
+  {
+   "time": "18:13",
+   "label": "街頭演説",
+   "place": "高松市 高松中央公園前",
+   "category": "党務"
+  },
+  {
+   "time": "19:06",
+   "label": "同空港内の飲食店「さぬき麺業」同空港店で浜田恵造香川県知事らと食事",
+   "place": "高松空港",
+   "category": "会食"
+  },
+  {
+   "time": "20:56",
+   "label": "移動",
+   "place": "高松空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 441
+  },
+  {
+   "start": "07:21",
+   "end": "07:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "07:51",
+   "end": "09:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 126
+  },
+  {
+   "start": "09:57",
+   "end": "10:21",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "10:21",
+   "end": "10:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "10:58",
+   "end": "11:23",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 25
+  },
+  {
+   "start": "11:23",
+   "end": "12:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "12:03",
+   "end": "12:25",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "12:25",
+   "end": "12:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "12:49",
+   "end": "13:39",
+   "category": "会食",
+   "label": "同駅の貴賓室で秘書官と食事",
+   "minutes": 50
+  },
+  {
+   "start": "13:39",
+   "end": "13:55",
+   "category": "移動",
+   "label": "のぞみ107号",
+   "minutes": 16
+  },
+  {
+   "start": "13:55",
+   "end": "14:46",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 51
+  },
+  {
+   "start": "14:46",
+   "end": "15:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "15:30",
+   "end": "16:00",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "16:00",
+   "end": "17:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 65
+  },
+  {
+   "start": "17:05",
+   "end": "17:31",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "17:31",
+   "end": "18:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "18:13",
+   "end": "18:37",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "18:37",
+   "end": "19:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "19:06",
+   "end": "19:45",
+   "category": "会食",
+   "label": "同空港内の飲食店「さぬき麺業」同空港店で浜田恵造香川県知事らと食事",
+   "minutes": 39
+  },
+  {
+   "start": "19:45",
+   "end": "20:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "20:56",
+   "end": "21:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "21:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 156
+  }
+ ],
+ "alloc_min": {
+  "居所": 597,
+  "移動": 74,
+  "公務（内容未詳）": 478,
+  "党務": 202,
+  "会食": 89
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "date": "2017-10-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 569,
+ "residence_min": 864,
+ "meetings": 1,
+ "first_work": "09:13",
+ "events": [
+  {
+   "time": "09:13",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:28",
+   "label": "北村滋内閣情報官 鈴木哲総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:47",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:58",
+   "label": "衆院選の不在者投票",
+   "place": "東京・九段南の千代田区役所",
+   "category": "個人"
+  },
+  {
+   "time": "11:05",
+   "label": "報道各社のインタビュー",
+   "place": "東京・九段南の千代田区役所",
+   "category": "取材・会見"
+  },
+  {
+   "time": "11:07",
+   "label": "移動",
+   "place": "東京・九段南の千代田区役所",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "街頭演説",
+   "place": "埼玉県川越市の西武新宿線本川越駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "13:02",
+   "label": "秘書官と食事。利用者と記念撮影",
+   "place": "関越自動車道高坂サービスエリア",
+   "category": "会食"
+  },
+  {
+   "time": "14:04",
+   "label": "街頭演説",
+   "place": "ＪＲ熊谷駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "15:28",
+   "label": "街頭演説",
+   "place": "ＪＲ上尾駅西口",
+   "category": "党務"
+  },
+  {
+   "time": "16:37",
+   "label": "街頭演説",
+   "place": "さいたま市岩槻区の東武野田線岩槻駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "さいたま市岩槻区の東武野田線岩槻駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "街頭演説",
+   "place": "ＪＲ池袋駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "18:27",
+   "label": "移動",
+   "place": "ＪＲ池袋駅東口",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 553
+  },
+  {
+   "start": "09:13",
+   "end": "09:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:14",
+   "end": "09:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "09:28",
+   "end": "09:43",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官 鈴木哲総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "minutes": 15
+  },
+  {
+   "start": "09:43",
+   "end": "10:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 64
+  },
+  {
+   "start": "10:47",
+   "end": "10:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "10:58",
+   "end": "11:05",
+   "category": "個人",
+   "label": "衆院選の不在者投票",
+   "minutes": 7
+  },
+  {
+   "start": "11:05",
+   "end": "11:06",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "11:06",
+   "end": "11:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:07",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 61
+  },
+  {
+   "start": "12:08",
+   "end": "12:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "12:44",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "13:02",
+   "end": "13:24",
+   "category": "会食",
+   "label": "秘書官と食事。利用者と記念撮影",
+   "minutes": 22
+  },
+  {
+   "start": "13:24",
+   "end": "14:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "14:04",
+   "end": "14:34",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "14:34",
+   "end": "15:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "15:28",
+   "end": "16:00",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "16:00",
+   "end": "16:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "16:37",
+   "end": "17:06",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "17:06",
+   "end": "18:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 54
+  },
+  {
+   "start": "18:00",
+   "end": "18:27",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "18:27",
+   "end": "18:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "18:49",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 311
+  }
+ ],
+ "alloc_min": {
+  "居所": 864,
+  "移動": 149,
+  "公務（内容未詳）": 228,
+  "面会・会談": 15,
+  "個人": 7,
+  "取材・会見": 1,
+  "党務": 154,
+  "会食": 22
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "date": "2017-06-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 196,
+ "residence_min": 1146,
+ "meetings": 0,
+ "first_work": "14:43",
+ "events": [
+  {
+   "time": "14:43",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:56",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "16:34",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": "16:53",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:37",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:55",
+   "label": "同ホテル内の宴会場「シェフズ　スタジオ」で母親の洋子さん、昭恵夫人、安倍寛信三菱商事パッケージング社長、牛尾治朗ウシオ電機会長らと会食",
+   "place": "東京・虎ノ門 ホテル「アンダーズ東京」",
+   "category": "会食"
+  },
+  {
+   "time": "20:06",
+   "label": "移動",
+   "place": "東京・虎ノ門 ホテル「アンダーズ東京」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 883
+  },
+  {
+   "start": "14:43",
+   "end": "14:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "14:56",
+   "end": "16:34",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 98
+  },
+  {
+   "start": "16:34",
+   "end": "16:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "16:53",
+   "end": "17:37",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 44
+  },
+  {
+   "start": "17:37",
+   "end": "17:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "17:55",
+   "end": "20:06",
+   "category": "会食",
+   "label": "同ホテル内の宴会場「シェフズ　スタジオ」で母親の洋子さん、昭恵夫人、安倍寛信三菱商事パッケージング社長、牛尾治朗ウシオ電機会長らと会食",
+   "minutes": 131
+  },
+  {
+   "start": "20:06",
+   "end": "20:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "20:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 219
+  }
+ ],
+ "alloc_min": {
+  "居所": 1146,
+  "移動": 65,
+  "個人": 98,
+  "会食": 131
+ }
+}

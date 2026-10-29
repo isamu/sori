@@ -1,0 +1,321 @@
+{
+ "date": "2016-10-12",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 822,
+ "residence_min": 618,
+ "meetings": 3,
+ "first_work": "07:11",
+ "events": [
+  {
+   "time": "07:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:08",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:08",
+   "label": "参院の伊達忠一、郡司彰正副議長、山本順三議院運営委員長、自民党、公明党、日本維新の会、日本のこころを大切にする党にあいさつ回り",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:19",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:29",
+   "label": "谷内正太郎国家安全保障局長 杉山治樹公安調査庁次長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:59",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:35",
+   "label": "ベルギーのフィリップ国王夫妻と懇談",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:01",
+   "label": "安倍晋三首相夫妻主催の夕食会",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "会食"
+  },
+  {
+   "time": "20:37",
+   "label": "移動",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 431
+  },
+  {
+   "start": "07:11",
+   "end": "07:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "07:25",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "07:30",
+   "end": "08:35",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 65
+  },
+  {
+   "start": "08:35",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:59",
+   "end": "12:05",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 186
+  },
+  {
+   "start": "12:05",
+   "end": "12:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:08",
+   "end": "12:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 44
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:04",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 244
+  },
+  {
+   "start": "17:04",
+   "end": "17:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:08",
+   "end": "17:16",
+   "category": "国会",
+   "label": "参院の伊達忠一、郡司彰正副議長、山本順三議院運営委員長、自民党、公明党、日本維新の会、日本のこころを大切にする党にあいさつ回り",
+   "minutes": 8
+  },
+  {
+   "start": "17:16",
+   "end": "17:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:19",
+   "end": "17:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:20",
+   "end": "17:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "17:29",
+   "end": "17:38",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 杉山治樹公安調査庁次長 北村滋内閣情報官",
+   "minutes": 9
+  },
+  {
+   "start": "17:38",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "17:59",
+   "end": "18:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "18:06",
+   "end": "18:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "18:35",
+   "end": "18:58",
+   "category": "面会・会談",
+   "label": "ベルギーのフィリップ国王夫妻と懇談",
+   "minutes": 23
+  },
+  {
+   "start": "18:58",
+   "end": "19:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:01",
+   "end": "20:25",
+   "category": "会食",
+   "label": "安倍晋三首相夫妻主催の夕食会",
+   "minutes": 84
+  },
+  {
+   "start": "20:25",
+   "end": "20:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "20:37",
+   "end": "20:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "20:53",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 187
+  }
+ ],
+ "alloc_min": {
+  "居所": 618,
+  "移動": 42,
+  "公務（内容未詳）": 117,
+  "面会・会談": 97,
+  "国会": 438,
+  "官邸執務": 44,
+  "会食": 84
+ }
+}

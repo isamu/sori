@@ -1,0 +1,158 @@
+{
+ "date": "2019-05-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 164,
+ "residence_min": 844,
+ "meetings": 0,
+ "first_work": "07:42",
+ "events": [
+  {
+   "time": "07:42",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "07:48",
+   "label": "成蹊大の友人、長谷川栄一首相補佐官とゴルフ",
+   "place": "同村 「鳴沢ゴルフ倶楽部」",
+   "category": "個人"
+  },
+  {
+   "time": "14:59",
+   "label": "移動",
+   "place": "同村 「鳴沢ゴルフ倶楽部」",
+   "category": "移動"
+  },
+  {
+   "time": "15:05",
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  },
+  {
+   "time": "17:54",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "18:06",
+   "label": "通行人と握手、写真撮影",
+   "place": "同県富士河口湖町 ハンバーガー店「ムースヒルズバーガー」",
+   "category": "個人"
+  },
+  {
+   "time": "18:08",
+   "label": "昭恵夫人、長谷川首相補佐官、秘書官らと食事",
+   "place": "同県富士河口湖町 ハンバーガー店「ムースヒルズバーガー」",
+   "category": "会食"
+  },
+  {
+   "time": "20:15",
+   "label": "移動",
+   "place": "同県富士河口湖町 ハンバーガー店「ムースヒルズバーガー」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 462
+  },
+  {
+   "start": "07:42",
+   "end": "07:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "07:48",
+   "end": "14:59",
+   "category": "個人",
+   "label": "成蹊大の友人、長谷川栄一首相補佐官とゴルフ",
+   "minutes": 431
+  },
+  {
+   "start": "14:59",
+   "end": "15:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "15:05",
+   "end": "17:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 169
+  },
+  {
+   "start": "17:54",
+   "end": "18:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "18:05",
+   "end": "18:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:06",
+   "end": "18:07",
+   "category": "個人",
+   "label": "通行人と握手、写真撮影",
+   "minutes": 1
+  },
+  {
+   "start": "18:07",
+   "end": "18:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:08",
+   "end": "20:15",
+   "category": "会食",
+   "label": "昭恵夫人、長谷川首相補佐官、秘書官らと食事",
+   "minutes": 127
+  },
+  {
+   "start": "20:15",
+   "end": "20:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "20:27",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 213
+  }
+ ],
+ "alloc_min": {
+  "居所": 844,
+  "移動": 35,
+  "個人": 432,
+  "公務（内容未詳）": 2,
+  "会食": 127
+ }
+}

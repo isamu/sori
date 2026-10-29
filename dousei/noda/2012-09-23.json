@@ -1,0 +1,124 @@
+{
+ "date": "2012-09-23",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.09.23",
+ "work_min": 97,
+ "residence_min": 1299,
+ "meetings": 3,
+ "first_work": "16:39",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "16:39",
+   "label": "東京・横網の両国国技館",
+   "place": "横網",
+   "category": "移動"
+  },
+  {
+   "time": "16:40",
+   "label": "日本相撲協会の北の湖理事長",
+   "place": "横網",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:56",
+   "label": "大相撲秋場所を観戦",
+   "place": "横網",
+   "category": "個人"
+  },
+  {
+   "time": "17:40",
+   "label": "優勝した大関日馬富士に表彰状と内閣総理大臣杯を授与",
+   "place": "横網",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:04",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:40",
+   "label": "民主党の輿石幹事長",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:36",
+   "label": "輿石氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "16:39",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 999
+  },
+  {
+   "start": "16:39",
+   "end": "16:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:40",
+   "end": "16:56",
+   "category": "面会・会談",
+   "label": "日本相撲協会の北の湖理事長",
+   "minutes": 16
+  },
+  {
+   "start": "16:56",
+   "end": "17:40",
+   "category": "個人",
+   "label": "大相撲秋場所を観戦",
+   "minutes": 44
+  },
+  {
+   "start": "17:40",
+   "end": "18:04",
+   "category": "式典・行事",
+   "label": "優勝した大関日馬富士に表彰状と内閣総理大臣杯を授与",
+   "minutes": 24
+  },
+  {
+   "start": "18:04",
+   "end": "18:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 36
+  },
+  {
+   "start": "18:40",
+   "end": "19:36",
+   "category": "面会・会談",
+   "label": "民主党の輿石幹事長",
+   "minutes": 56
+  },
+  {
+   "start": "19:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 264
+  }
+ ],
+ "alloc_min": {
+  "居所": 1299,
+  "公務（内容未詳）": 1,
+  "面会・会談": 72,
+  "個人": 44,
+  "式典・行事": 24
+ }
+}

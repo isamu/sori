@@ -1,0 +1,408 @@
+{
+ "date": "2018-10-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 682,
+ "residence_min": 758,
+ "meetings": 2,
+ "first_work": "09:00",
+ "events": [
+  {
+   "time": "09:00",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:22",
+   "label": "加藤勝信氏ら党新役員呼び込み",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:00",
+   "label": "党総務会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:13",
+   "label": "記念撮影",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:30",
+   "label": "党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:04",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:34",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:05",
+   "label": "山口那津男公明党代表との与党党首会談。菅義偉官房長官、二階俊博自民党幹事長、斉藤鉄夫公明党幹事長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:16",
+   "label": "組閣本部設置",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:24",
+   "label": "新閣僚の呼び込み",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:00",
+   "label": "江藤拓自民党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:15",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:22",
+   "label": "内奏、閣僚認証式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:03",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:31",
+   "label": "各閣僚に補職辞令交付",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:45",
+   "label": "初閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:13",
+   "label": "閣僚と記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:17",
+   "label": "江藤氏に首相補佐官の辞令交付。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:09",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 540
+  },
+  {
+   "start": "09:00",
+   "end": "09:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "09:16",
+   "end": "09:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:22",
+   "end": "10:00",
+   "category": "党務",
+   "label": "加藤勝信氏ら党新役員呼び込み",
+   "minutes": 38
+  },
+  {
+   "start": "10:00",
+   "end": "10:12",
+   "category": "党務",
+   "label": "党総務会",
+   "minutes": 12
+  },
+  {
+   "start": "10:12",
+   "end": "10:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:13",
+   "end": "10:15",
+   "category": "党務",
+   "label": "記念撮影",
+   "minutes": 2
+  },
+  {
+   "start": "10:15",
+   "end": "10:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "10:30",
+   "end": "10:48",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 18
+  },
+  {
+   "start": "10:48",
+   "end": "11:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "11:04",
+   "end": "11:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:07",
+   "end": "11:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "11:34",
+   "end": "11:47",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 13
+  },
+  {
+   "start": "11:47",
+   "end": "13:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 78
+  },
+  {
+   "start": "13:05",
+   "end": "13:14",
+   "category": "面会・会談",
+   "label": "山口那津男公明党代表との与党党首会談。菅義偉官房長官、二階俊博自民党幹事長、斉藤鉄夫公明党幹事長同席",
+   "minutes": 9
+  },
+  {
+   "start": "13:14",
+   "end": "13:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:16",
+   "end": "13:24",
+   "category": "官邸執務",
+   "label": "組閣本部設置",
+   "minutes": 8
+  },
+  {
+   "start": "13:24",
+   "end": "13:52",
+   "category": "官邸執務",
+   "label": "新閣僚の呼び込み",
+   "minutes": 28
+  },
+  {
+   "start": "13:52",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "14:00",
+   "end": "14:20",
+   "category": "面会・会談",
+   "label": "江藤拓自民党衆院議員",
+   "minutes": 20
+  },
+  {
+   "start": "14:20",
+   "end": "15:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "15:15",
+   "end": "15:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "15:22",
+   "end": "17:03",
+   "category": "式典・行事",
+   "label": "内奏、閣僚認証式",
+   "minutes": 101
+  },
+  {
+   "start": "17:03",
+   "end": "17:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "17:09",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "18:00",
+   "end": "18:28",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 28
+  },
+  {
+   "start": "18:28",
+   "end": "18:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:31",
+   "end": "18:39",
+   "category": "式典・行事",
+   "label": "各閣僚に補職辞令交付",
+   "minutes": 8
+  },
+  {
+   "start": "18:39",
+   "end": "18:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:45",
+   "end": "19:03",
+   "category": "官邸執務",
+   "label": "初閣議",
+   "minutes": 18
+  },
+  {
+   "start": "19:03",
+   "end": "19:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "19:13",
+   "end": "19:15",
+   "category": "式典・行事",
+   "label": "閣僚と記念撮影",
+   "minutes": 2
+  },
+  {
+   "start": "19:15",
+   "end": "19:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:17",
+   "end": "19:18",
+   "category": "式典・行事",
+   "label": "江藤氏に首相補佐官の辞令交付。記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "19:18",
+   "end": "20:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "20:09",
+   "end": "20:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 218
+  }
+ ],
+ "alloc_min": {
+  "居所": 758,
+  "移動": 45,
+  "公務（内容未詳）": 331,
+  "党務": 70,
+  "官邸執務": 67,
+  "面会・会談": 29,
+  "式典・行事": 112,
+  "取材・会見": 28
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "date": "2019-03-31",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 75,
+ "residence_min": 1149,
+ "meetings": 0,
+ "first_work": "12:33",
+ "events": [
+  {
+   "time": "12:33",
+   "label": "散歩。花見客と写真撮影",
+   "place": "東京都目黒区の駒場公園や私邸周辺",
+   "category": "個人"
+  },
+  {
+   "time": "13:59",
+   "label": "報道各社のインタビュー",
+   "place": "東京都目黒区の駒場公園や私邸周辺",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:01",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:17",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:27",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "16:04",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": "16:27",
+   "label": "宮田亮平文化庁長官ら出迎え。特別展「両陛下と文化交流－日本美を伝える－」を鑑賞",
+   "place": "東京・上野公園 東京国立博物館",
+   "category": "個人"
+  },
+  {
+   "time": "17:00",
+   "label": "報道各社のインタビュー",
+   "place": "東京・上野公園 東京国立博物館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "東京・上野公園 東京国立博物館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 753
+  },
+  {
+   "start": "12:33",
+   "end": "13:59",
+   "category": "個人",
+   "label": "散歩。花見客と写真撮影",
+   "minutes": 86
+  },
+  {
+   "start": "13:59",
+   "end": "14:00",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "14:00",
+   "end": "14:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "14:01",
+   "end": "14:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 16
+  },
+  {
+   "start": "14:17",
+   "end": "14:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "14:27",
+   "end": "16:04",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 97
+  },
+  {
+   "start": "16:04",
+   "end": "16:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "16:27",
+   "end": "17:00",
+   "category": "個人",
+   "label": "宮田亮平文化庁長官ら出迎え。特別展「両陛下と文化交流－日本美を伝える－」を鑑賞",
+   "minutes": 33
+  },
+  {
+   "start": "17:00",
+   "end": "17:01",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "17:01",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:06",
+   "end": "17:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "17:41",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 379
+  }
+ ],
+ "alloc_min": {
+  "居所": 1149,
+  "個人": 216,
+  "取材・会見": 2,
+  "移動": 68,
+  "公務（内容未詳）": 5
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "date": "2017-07-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 543,
+ "residence_min": 808,
+ "meetings": 0,
+ "first_work": "10:45",
+ "events": [
+  {
+   "time": "10:45",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:57",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "12:26",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": "18:05",
+   "label": "荒井広幸元参院議員と会食。母親の洋子さん同席",
+   "place": "私邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:45",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 645
+  },
+  {
+   "start": "10:45",
+   "end": "10:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "10:57",
+   "end": "12:26",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 89
+  },
+  {
+   "start": "12:26",
+   "end": "12:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "12:39",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 326
+  },
+  {
+   "start": "18:05",
+   "end": "21:17",
+   "category": "会食",
+   "label": "荒井広幸元参院議員と会食。母親の洋子さん同席",
+   "minutes": 192
+  },
+  {
+   "start": "21:17",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 163
+  }
+ ],
+ "alloc_min": {
+  "居所": 808,
+  "移動": 25,
+  "個人": 89,
+  "公務（内容未詳）": 326,
+  "会食": 192
+ }
+}

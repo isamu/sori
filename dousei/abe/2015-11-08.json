@@ -1,0 +1,187 @@
+{
+ "date": "2015-11-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 251,
+ "residence_min": 1189,
+ "meetings": 2,
+ "first_work": "12:12",
+ "events": [
+  {
+   "time": "12:12",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:46",
+   "label": "職員や利用者らと意見交換",
+   "place": "埼玉県和光市 育児支援施設「わこう産前・産後ケアセンター」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:07",
+   "label": "移動",
+   "place": "埼玉県和光市 育児支援施設「わこう産前・産後ケアセンター」",
+   "category": "移動"
+  },
+  {
+   "time": "13:16",
+   "label": "介護予防活動を視察。職員や利用者らと懇談",
+   "place": "同市 高齢者介護施設「日生オアシス和光」",
+   "category": "視察"
+  },
+  {
+   "time": "13:51",
+   "label": "報道各社のインタビュー",
+   "place": "同市 高齢者介護施設「日生オアシス和光」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:57",
+   "label": "移動",
+   "place": "同市 高齢者介護施設「日生オアシス和光」",
+   "category": "移動"
+  },
+  {
+   "time": "15:34",
+   "label": "原子力総合防災訓練",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:52",
+   "label": "高市早苗総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:07",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 732
+  },
+  {
+   "start": "12:12",
+   "end": "12:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "12:46",
+   "end": "13:07",
+   "category": "面会・会談",
+   "label": "職員や利用者らと意見交換",
+   "minutes": 21
+  },
+  {
+   "start": "13:07",
+   "end": "13:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "13:16",
+   "end": "13:51",
+   "category": "視察",
+   "label": "介護予防活動を視察。職員や利用者らと懇談",
+   "minutes": 35
+  },
+  {
+   "start": "13:51",
+   "end": "13:55",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 4
+  },
+  {
+   "start": "13:55",
+   "end": "13:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:57",
+   "end": "14:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "14:29",
+   "end": "15:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 65
+  },
+  {
+   "start": "15:34",
+   "end": "15:51",
+   "category": "官邸執務",
+   "label": "原子力総合防災訓練",
+   "minutes": 17
+  },
+  {
+   "start": "15:51",
+   "end": "15:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:52",
+   "end": "15:55",
+   "category": "面会・会談",
+   "label": "高市早苗総務相",
+   "minutes": 3
+  },
+  {
+   "start": "15:55",
+   "end": "16:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "16:07",
+   "end": "16:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "16:23",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 457
+  }
+ ],
+ "alloc_min": {
+  "居所": 1189,
+  "移動": 91,
+  "面会・会談": 24,
+  "視察": 35,
+  "取材・会見": 4,
+  "公務（内容未詳）": 80,
+  "官邸執務": 17
+ }
+}

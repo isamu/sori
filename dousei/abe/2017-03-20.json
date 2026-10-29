@@ -1,0 +1,83 @@
+{
+ "date": "2017-03-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "メルケル氏と視察",
+   "place": "見本市「ＣｅＢＩＴ（セビット）2017」",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ホテル・ムーリス」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "オランド氏と夕食会",
+   "place": "大統領府",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "大統領府",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "署名式",
+   "place": "大統領府",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "オランド大統領と首脳会談",
+   "place": "大統領府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "フランス・パリのオルリ空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "ドイツのハノーバー空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "共同記者会見",
+   "place": "ヘレンハウゼン庭園",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "メルケル氏と昼食を取りながら首脳会談",
+   "place": "ヘレンハウゼン庭園",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

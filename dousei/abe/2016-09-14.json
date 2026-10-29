@@ -1,0 +1,273 @@
+{
+ "date": "2016-09-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 828,
+ "residence_min": 612,
+ "meetings": 2,
+ "first_work": "07:32",
+ "events": [
+  {
+   "time": "07:32",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:59",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:34",
+   "label": "高橋はるみ北海道知事出迎え",
+   "place": "帯広空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:47",
+   "label": "台風被害状況の上空視察",
+   "place": "陸上自衛隊ヘリコプター",
+   "category": "視察"
+  },
+  {
+   "time": "10:31",
+   "label": "北海道帯広市の陸上自衛隊帯広駐屯地",
+   "place": "北海道帯広市の陸上自衛隊帯広駐屯地",
+   "category": "移動"
+  },
+  {
+   "time": "11:08",
+   "label": "農業関係者と懇談",
+   "place": "同市のＪＡ帯広かわにし別府事業所",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:06",
+   "label": "高橋はるみ北海道知事らと意見交換",
+   "place": "北海道中札内村の十勝農業改良普及センター",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:37",
+   "label": "報道各社のインタビュー",
+   "place": "北海道中札内村の十勝農業改良普及センター",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:55",
+   "label": "帯広空港",
+   "place": "帯広空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:31",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:36",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:06",
+   "label": "葛西敬之ＪＲ東海名誉会長、古森重隆富士フイルムホールディングス会長らと会食",
+   "place": "東京・南麻布 日本料理店「有栖川清水」",
+   "category": "会食"
+  },
+  {
+   "time": "21:01",
+   "label": "移動",
+   "place": "東京・南麻布 日本料理店「有栖川清水」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 452
+  },
+  {
+   "start": "07:32",
+   "end": "07:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "07:59",
+   "end": "08:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:13",
+   "end": "09:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 81
+  },
+  {
+   "start": "09:34",
+   "end": "09:47",
+   "category": "移動",
+   "label": "高橋はるみ北海道知事出迎え",
+   "minutes": 13
+  },
+  {
+   "start": "09:47",
+   "end": "10:31",
+   "category": "視察",
+   "label": "台風被害状況の上空視察",
+   "minutes": 44
+  },
+  {
+   "start": "10:31",
+   "end": "10:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "10:53",
+   "end": "11:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "11:08",
+   "end": "11:36",
+   "category": "面会・会談",
+   "label": "農業関係者と懇談",
+   "minutes": 28
+  },
+  {
+   "start": "11:36",
+   "end": "12:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "12:06",
+   "end": "12:37",
+   "category": "面会・会談",
+   "label": "高橋はるみ北海道知事らと意見交換",
+   "minutes": 31
+  },
+  {
+   "start": "12:37",
+   "end": "12:40",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "12:40",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "12:55",
+   "end": "13:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "13:05",
+   "end": "14:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 86
+  },
+  {
+   "start": "14:31",
+   "end": "14:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "14:36",
+   "end": "15:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 230
+  },
+  {
+   "start": "18:50",
+   "end": "19:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "19:06",
+   "end": "21:01",
+   "category": "会食",
+   "label": "葛西敬之ＪＲ東海名誉会長、古森重隆富士フイルムホールディングス会長らと会食",
+   "minutes": 115
+  },
+  {
+   "start": "21:01",
+   "end": "21:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "21:20",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 160
+  }
+ ],
+ "alloc_min": {
+  "居所": 612,
+  "移動": 150,
+  "公務（内容未詳）": 227,
+  "視察": 44,
+  "面会・会談": 59,
+  "取材・会見": 3,
+  "官邸執務": 230,
+  "会食": 115
+ }
+}

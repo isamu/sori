@@ -1,0 +1,98 @@
+{
+ "date": "2017-07-02",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 193,
+ "residence_min": 1247,
+ "meetings": 1,
+ "first_work": "13:18",
+ "events": [
+  {
+   "time": "13:18",
+   "label": "國村禎夫神田地所代表取締役",
+   "place": "私邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:40",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "麻生太郎副総理兼財務相、菅義偉官房長官、甘利明前経済再生担当相と会食",
+   "place": "東京・若葉 フランス料理店「オテル・ドゥ・ミクニ」",
+   "category": "会食"
+  },
+  {
+   "time": "20:08",
+   "label": "移動",
+   "place": "東京・若葉 フランス料理店「オテル・ドゥ・ミクニ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 798
+  },
+  {
+   "start": "13:18",
+   "end": "13:47",
+   "category": "面会・会談",
+   "label": "國村禎夫神田地所代表取締役",
+   "minutes": 29
+  },
+  {
+   "start": "13:47",
+   "end": "17:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 233
+  },
+  {
+   "start": "17:40",
+   "end": "18:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "18:00",
+   "end": "20:08",
+   "category": "会食",
+   "label": "麻生太郎副総理兼財務相、菅義偉官房長官、甘利明前経済再生担当相と会食",
+   "minutes": 128
+  },
+  {
+   "start": "20:08",
+   "end": "20:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "20:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 216
+  }
+ ],
+ "alloc_min": {
+  "居所": 1247,
+  "面会・会談": 29,
+  "移動": 36,
+  "会食": 128
+ }
+}

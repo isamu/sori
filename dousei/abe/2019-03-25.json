@@ -1,0 +1,333 @@
+{
+ "date": "2019-03-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 799,
+ "residence_min": 641,
+ "meetings": 1,
+ "first_work": "07:11",
+ "events": [
+  {
+   "time": "07:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:27",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:55",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:57",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:59",
+   "label": "麻生太郎副総理兼財務相 岩屋毅防衛相 茂木敏充経済再生担当相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:17",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "15:19",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:58",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:38",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:40",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:42",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:44",
+   "label": "同ホテル内のレストラン『ＯＲＩＧＡＭＩ』で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "20:14",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 431
+  },
+  {
+   "start": "07:11",
+   "end": "07:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "07:22",
+   "end": "07:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "07:27",
+   "end": "08:42",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 75
+  },
+  {
+   "start": "08:42",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:55",
+   "end": "11:53",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 178
+  },
+  {
+   "start": "11:53",
+   "end": "11:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:55",
+   "end": "11:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 57
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "12:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 岩屋毅防衛相 茂木敏充経済再生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "15:14",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 134
+  },
+  {
+   "start": "15:14",
+   "end": "15:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:17",
+   "end": "15:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 99
+  },
+  {
+   "start": "16:58",
+   "end": "16:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:59",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:01",
+   "end": "17:36",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 35
+  },
+  {
+   "start": "17:36",
+   "end": "17:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:38",
+   "end": "17:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 62
+  },
+  {
+   "start": "18:42",
+   "end": "18:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "18:44",
+   "end": "20:14",
+   "category": "会食",
+   "label": "同ホテル内のレストラン『ＯＲＩＧＡＭＩ』で秘書官と食事",
+   "minutes": 90
+  },
+  {
+   "start": "20:14",
+   "end": "20:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "20:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 210
+  }
+ ],
+ "alloc_min": {
+  "居所": 641,
+  "移動": 39,
+  "公務（内容未詳）": 29,
+  "面会・会談": 75,
+  "国会": 313,
+  "官邸執務": 218,
+  "党務": 35,
+  "会食": 90
+ }
+}

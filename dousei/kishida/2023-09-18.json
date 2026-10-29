@@ -1,0 +1,77 @@
+{
+ "date": "2023-09-18",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 35,
+ "residence_min": 1405,
+ "meetings": 1,
+ "first_work": "14:04",
+ "events": [
+  {
+   "time": "14:04",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:19",
+   "label": "眼鏡の調整",
+   "place": "東京・道玄坂 「イワキメガネ渋谷店」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:30",
+   "label": "移動",
+   "place": "東京・道玄坂 「イワキメガネ渋谷店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:04",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 844
+  },
+  {
+   "start": "14:04",
+   "end": "14:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "14:19",
+   "end": "14:30",
+   "category": "面会・会談",
+   "label": "眼鏡の調整",
+   "minutes": 11
+  },
+  {
+   "start": "14:30",
+   "end": "14:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "14:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 561
+  }
+ ],
+ "alloc_min": {
+  "居所": 1405,
+  "移動": 24,
+  "面会・会談": 11
+ }
+}

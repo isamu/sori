@@ -1,0 +1,77 @@
+{
+ "date": "2023-12-24",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 10,
+ "residence_min": 1179,
+ "meetings": 0,
+ "first_work": "08:18",
+ "events": [
+  {
+   "time": "08:18",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:24",
+   "label": "定期健康診断",
+   "place": "東京・元赤坂 元赤坂胃腸科クリニック",
+   "category": "個人"
+  },
+  {
+   "time": "12:35",
+   "label": "移動",
+   "place": "東京・元赤坂 元赤坂胃腸科クリニック",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 498
+  },
+  {
+   "start": "08:18",
+   "end": "08:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "08:24",
+   "end": "12:35",
+   "category": "個人",
+   "label": "定期健康診断",
+   "minutes": 251
+  },
+  {
+   "start": "12:35",
+   "end": "12:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "12:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 681
+  }
+ ],
+ "alloc_min": {
+  "居所": 1179,
+  "移動": 10,
+  "個人": 251
+ }
+}

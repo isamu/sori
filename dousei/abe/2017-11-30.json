@@ -1,0 +1,314 @@
+{
+ "date": "2017-11-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 861,
+ "residence_min": 579,
+ "meetings": 1,
+ "first_work": "07:26",
+ "events": [
+  {
+   "time": "07:26",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:44",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "11:59",
+   "label": "移動",
+   "place": "国会 参院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:01",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "16:27",
+   "label": "移動",
+   "place": "国会 参院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:18",
+   "label": "人生100年時代構想会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:55",
+   "label": "同ホテル内の宴会場「孔雀西の間」で国際交流イベント「アジア・アフリカ２０の集い」に出席し、あいさつ",
+   "place": "東京・内幸町 帝国ホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:06",
+   "label": "移動",
+   "place": "東京・内幸町 帝国ホテル",
+   "category": "移動"
+  },
+  {
+   "time": "19:17",
+   "label": "同ビル内の「紀尾井倶楽部」で新日鉄住金の今井敬名誉会長、秘書官らと会食",
+   "place": "東京・紀尾井町 新日鉄住金紀尾井ビル",
+   "category": "会食"
+  },
+  {
+   "time": "21:29",
+   "label": "移動",
+   "place": "東京・紀尾井町 新日鉄住金紀尾井ビル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 446
+  },
+  {
+   "start": "07:26",
+   "end": "07:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "07:37",
+   "end": "07:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:44",
+   "end": "08:48",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 64
+  },
+  {
+   "start": "08:48",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:54",
+   "end": "08:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:56",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "09:00",
+   "end": "11:56",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 176
+  },
+  {
+   "start": "11:56",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:59",
+   "end": "12:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 53
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "16:24",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 204
+  },
+  {
+   "start": "16:24",
+   "end": "16:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:27",
+   "end": "16:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:29",
+   "end": "17:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "17:18",
+   "end": "17:50",
+   "category": "官邸執務",
+   "label": "人生100年時代構想会議",
+   "minutes": 32
+  },
+  {
+   "start": "17:50",
+   "end": "18:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 58
+  },
+  {
+   "start": "18:48",
+   "end": "18:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "18:55",
+   "end": "19:06",
+   "category": "式典・行事",
+   "label": "同ホテル内の宴会場「孔雀西の間」で国際交流イベント「アジア・アフリカ２０の集い」に出席し、あいさつ",
+   "minutes": 11
+  },
+  {
+   "start": "19:06",
+   "end": "19:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "19:17",
+   "end": "21:29",
+   "category": "会食",
+   "label": "同ビル内の「紀尾井倶楽部」で新日鉄住金の今井敬名誉会長、秘書官らと会食",
+   "minutes": 132
+  },
+  {
+   "start": "21:29",
+   "end": "21:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "21:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 133
+  }
+ ],
+ "alloc_min": {
+  "居所": 579,
+  "移動": 54,
+  "公務（内容未詳）": 134,
+  "面会・会談": 64,
+  "国会": 381,
+  "官邸執務": 85,
+  "式典・行事": 11,
+  "会食": 132
+ }
+}

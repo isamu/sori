@@ -1,0 +1,448 @@
+{
+ "date": "2019-09-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 694,
+ "residence_min": 746,
+ "meetings": 4,
+ "first_work": "09:03",
+ "events": [
+  {
+   "time": "09:03",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:25",
+   "label": "鈴木俊一氏ら党新役員呼び込み",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:01",
+   "label": "党臨時総務会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:14",
+   "label": "党役員と記念撮影",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:31",
+   "label": "党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:00",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:35",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "11:53",
+   "label": "退任閣僚のあいさつ",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:25",
+   "label": "自民党の西村明宏衆院議員、岡田直樹参院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:02",
+   "label": "山口那津男公明党代表と与党党首会談。菅義偉官房長官、二階俊博自民党幹事長、斉藤鉄夫公明党幹事長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:16",
+   "label": "組閣本部設置",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:22",
+   "label": "新閣僚呼び込み",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:03",
+   "label": "自民党の秋葉賢也、木原稔両衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:23",
+   "label": "内奏、閣僚認証式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:12",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:38",
+   "label": "各閣僚に補職辞令交付",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:52",
+   "label": "初閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:22",
+   "label": "閣僚と記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:27",
+   "label": "秋葉、木原、今井尚哉各氏らに首相補佐官の辞令交付。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:22",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 543
+  },
+  {
+   "start": "09:03",
+   "end": "09:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "09:17",
+   "end": "09:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:25",
+   "end": "10:01",
+   "category": "党務",
+   "label": "鈴木俊一氏ら党新役員呼び込み",
+   "minutes": 36
+  },
+  {
+   "start": "10:01",
+   "end": "10:13",
+   "category": "党務",
+   "label": "党臨時総務会",
+   "minutes": 12
+  },
+  {
+   "start": "10:13",
+   "end": "10:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:14",
+   "end": "10:17",
+   "category": "党務",
+   "label": "党役員と記念撮影",
+   "minutes": 3
+  },
+  {
+   "start": "10:17",
+   "end": "10:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "10:31",
+   "end": "10:56",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 25
+  },
+  {
+   "start": "10:56",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:00",
+   "end": "11:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:02",
+   "end": "11:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "11:35",
+   "end": "11:51",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 16
+  },
+  {
+   "start": "11:51",
+   "end": "11:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:53",
+   "end": "12:24",
+   "category": "面会・会談",
+   "label": "退任閣僚のあいさつ",
+   "minutes": 31
+  },
+  {
+   "start": "12:24",
+   "end": "12:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:25",
+   "end": "12:35",
+   "category": "面会・会談",
+   "label": "自民党の西村明宏衆院議員、岡田直樹参院議員",
+   "minutes": 10
+  },
+  {
+   "start": "12:35",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "13:02",
+   "end": "13:14",
+   "category": "面会・会談",
+   "label": "山口那津男公明党代表と与党党首会談。菅義偉官房長官、二階俊博自民党幹事長、斉藤鉄夫公明党幹事長同席",
+   "minutes": 12
+  },
+  {
+   "start": "13:14",
+   "end": "13:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:16",
+   "end": "13:22",
+   "category": "官邸執務",
+   "label": "組閣本部設置",
+   "minutes": 6
+  },
+  {
+   "start": "13:22",
+   "end": "13:48",
+   "category": "官邸執務",
+   "label": "新閣僚呼び込み",
+   "minutes": 26
+  },
+  {
+   "start": "13:48",
+   "end": "14:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "14:03",
+   "end": "14:11",
+   "category": "面会・会談",
+   "label": "自民党の秋葉賢也、木原稔両衆院議員",
+   "minutes": 8
+  },
+  {
+   "start": "14:11",
+   "end": "15:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 66
+  },
+  {
+   "start": "15:17",
+   "end": "15:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "15:23",
+   "end": "17:12",
+   "category": "式典・行事",
+   "label": "内奏、閣僚認証式",
+   "minutes": 109
+  },
+  {
+   "start": "17:12",
+   "end": "17:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "17:20",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "18:00",
+   "end": "18:33",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 33
+  },
+  {
+   "start": "18:33",
+   "end": "18:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "18:38",
+   "end": "18:46",
+   "category": "式典・行事",
+   "label": "各閣僚に補職辞令交付",
+   "minutes": 8
+  },
+  {
+   "start": "18:46",
+   "end": "18:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:52",
+   "end": "19:19",
+   "category": "官邸執務",
+   "label": "初閣議",
+   "minutes": 27
+  },
+  {
+   "start": "19:19",
+   "end": "19:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:22",
+   "end": "19:24",
+   "category": "式典・行事",
+   "label": "閣僚と記念撮影",
+   "minutes": 2
+  },
+  {
+   "start": "19:24",
+   "end": "19:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:27",
+   "end": "19:32",
+   "category": "式典・行事",
+   "label": "秋葉、木原、今井尚哉各氏らに首相補佐官の辞令交付。記念撮影",
+   "minutes": 5
+  },
+  {
+   "start": "19:32",
+   "end": "20:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "20:22",
+   "end": "20:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "20:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 203
+  }
+ ],
+ "alloc_min": {
+  "居所": 746,
+  "移動": 45,
+  "公務（内容未詳）": 280,
+  "党務": 76,
+  "官邸執務": 75,
+  "面会・会談": 61,
+  "式典・行事": 124,
+  "取材・会見": 33
+ }
+}

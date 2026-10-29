@@ -1,0 +1,394 @@
+{
+ "date": "2018-06-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 615,
+ "residence_min": 825,
+ "meetings": 10,
+ "first_work": "08:08",
+ "events": [
+  {
+   "time": "08:08",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:28",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:40",
+   "label": "野田聖子総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:07",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:41",
+   "label": "浜田宏一参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:04",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:06",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:14",
+   "label": "高市早苗自民党衆院議員",
+   "place": "国会 衆院第14控室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:24",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:33",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "14:42",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:00",
+   "label": "薗浦健太郎首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:15",
+   "label": "谷内正太郎国家安全保障局長 木野村謙一内閣衛星情報センター所長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:20",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:34",
+   "label": "福井照沖縄・北方担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:37",
+   "label": "秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:12",
+   "label": "大西倉雄山口県長門市長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:22",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 488
+  },
+  {
+   "start": "08:08",
+   "end": "08:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "08:20",
+   "end": "08:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:28",
+   "end": "08:39",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "08:39",
+   "end": "08:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:40",
+   "end": "09:06",
+   "category": "面会・会談",
+   "label": "野田聖子総務相",
+   "minutes": 26
+  },
+  {
+   "start": "09:06",
+   "end": "09:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:07",
+   "end": "09:37",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 30
+  },
+  {
+   "start": "09:37",
+   "end": "11:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 124
+  },
+  {
+   "start": "11:41",
+   "end": "11:59",
+   "category": "面会・会談",
+   "label": "浜田宏一参与",
+   "minutes": 18
+  },
+  {
+   "start": "11:59",
+   "end": "14:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 125
+  },
+  {
+   "start": "14:04",
+   "end": "14:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:05",
+   "end": "14:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:06",
+   "end": "14:13",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 7
+  },
+  {
+   "start": "14:13",
+   "end": "14:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:14",
+   "end": "14:23",
+   "category": "面会・会談",
+   "label": "高市早苗自民党衆院議員",
+   "minutes": 9
+  },
+  {
+   "start": "14:23",
+   "end": "14:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:24",
+   "end": "14:31",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 7
+  },
+  {
+   "start": "14:31",
+   "end": "14:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:33",
+   "end": "14:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:34",
+   "end": "14:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "14:42",
+   "end": "15:32",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 50
+  },
+  {
+   "start": "15:32",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "16:00",
+   "end": "16:14",
+   "category": "面会・会談",
+   "label": "薗浦健太郎首相補佐官",
+   "minutes": 14
+  },
+  {
+   "start": "16:14",
+   "end": "16:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:15",
+   "end": "16:30",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 木野村謙一内閣衛星情報センター所長 北村滋内閣情報官",
+   "minutes": 15
+  },
+  {
+   "start": "16:30",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "17:20",
+   "end": "17:33",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 13
+  },
+  {
+   "start": "17:33",
+   "end": "17:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:34",
+   "end": "17:36",
+   "category": "面会・会談",
+   "label": "福井照沖縄・北方担当相",
+   "minutes": 2
+  },
+  {
+   "start": "17:36",
+   "end": "17:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:37",
+   "end": "18:11",
+   "category": "面会・会談",
+   "label": "秋葉剛男事務次官",
+   "minutes": 34
+  },
+  {
+   "start": "18:11",
+   "end": "18:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:12",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "大西倉雄山口県長門市長",
+   "minutes": 8
+  },
+  {
+   "start": "18:20",
+   "end": "18:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:22",
+   "end": "18:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:23",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 337
+  }
+ ],
+ "alloc_min": {
+  "居所": 825,
+  "移動": 15,
+  "公務（内容未詳）": 356,
+  "官邸執務": 24,
+  "面会・会談": 206,
+  "国会": 14
+ }
+}

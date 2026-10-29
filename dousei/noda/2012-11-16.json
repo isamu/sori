@@ -1,0 +1,401 @@
+{
+ "date": "2012-11-16",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.11.16",
+ "work_min": 660,
+ "residence_min": 780,
+ "meetings": 6,
+ "first_work": "08:06",
+ "events": [
+  {
+   "time": "08:06",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:07",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:16",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:47",
+   "label": "月例経済報告関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:12",
+   "label": "斎藤官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:10",
+   "label": "大串首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:48",
+   "label": "東京・霞が関の中央合同庁舎4号館",
+   "place": "霞が関",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "「仕分け」を視察",
+   "place": "霞が関",
+   "category": "視察"
+  },
+  {
+   "time": "11:06",
+   "label": "報道各社のインタビュー",
+   "place": "霞が関",
+   "category": "取材・会見"
+  },
+  {
+   "time": "11:10",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:22",
+   "label": "民主党税調の藤井裕久会長、古本伸一郎事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:47",
+   "label": "民主党の一川保夫参院幹事長ら。川上首相補佐官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:54",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:07",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:19",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:09",
+   "label": "斎藤、芝両官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:43",
+   "label": "両氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:39",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "15:49",
+   "label": "衆院本会議",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:50",
+   "label": "衆院解散",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "15:53",
+   "label": "横路、平田衆参両院議長にあいさつ回り。藤村官房長官ら同行",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:01",
+   "label": "与党幹部にあいさつ回り。藤村長官ら同行",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:20",
+   "label": "臨時閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:59",
+   "label": "参院議員会館",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "17:04",
+   "label": "民主党両院議員総会に出席し、あいさつ",
+   "place": "国会",
+   "category": "党務"
+  },
+  {
+   "time": "17:32",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:01",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:31",
+   "label": "終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:06",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 486
+  },
+  {
+   "start": "08:06",
+   "end": "08:07",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "08:07",
+   "end": "08:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:16",
+   "end": "08:47",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 31
+  },
+  {
+   "start": "08:47",
+   "end": "09:12",
+   "category": "官邸執務",
+   "label": "月例経済報告関係閣僚会議",
+   "minutes": 25
+  },
+  {
+   "start": "09:12",
+   "end": "10:10",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官",
+   "minutes": 58
+  },
+  {
+   "start": "10:10",
+   "end": "10:48",
+   "category": "面会・会談",
+   "label": "大串首相補佐官",
+   "minutes": 38
+  },
+  {
+   "start": "10:48",
+   "end": "11:06",
+   "category": "視察",
+   "label": "「仕分け」を視察",
+   "minutes": 18
+  },
+  {
+   "start": "11:06",
+   "end": "11:10",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 4
+  },
+  {
+   "start": "11:10",
+   "end": "11:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "11:22",
+   "end": "11:47",
+   "category": "面会・会談",
+   "label": "民主党税調の藤井裕久会長、古本伸一郎事務局長",
+   "minutes": 25
+  },
+  {
+   "start": "11:47",
+   "end": "11:54",
+   "category": "面会・会談",
+   "label": "民主党の一川保夫参院幹事長ら。川上首相補佐官同席",
+   "minutes": 7
+  },
+  {
+   "start": "11:54",
+   "end": "12:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "12:07",
+   "end": "12:19",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 12
+  },
+  {
+   "start": "12:19",
+   "end": "14:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 110
+  },
+  {
+   "start": "14:09",
+   "end": "14:43",
+   "category": "面会・会談",
+   "label": "斎藤、芝両官房副長官",
+   "minutes": 34
+  },
+  {
+   "start": "14:43",
+   "end": "15:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "15:39",
+   "end": "15:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "15:49",
+   "end": "15:50",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 1
+  },
+  {
+   "start": "15:50",
+   "end": "15:53",
+   "category": "国会",
+   "label": "衆院解散",
+   "minutes": 3
+  },
+  {
+   "start": "15:53",
+   "end": "16:01",
+   "category": "官邸執務",
+   "label": "横路、平田衆参両院議長にあいさつ回り。藤村官房長官ら同行",
+   "minutes": 8
+  },
+  {
+   "start": "16:01",
+   "end": "16:20",
+   "category": "官邸執務",
+   "label": "与党幹部にあいさつ回り。藤村長官ら同行",
+   "minutes": 19
+  },
+  {
+   "start": "16:20",
+   "end": "16:59",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 39
+  },
+  {
+   "start": "16:59",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:04",
+   "end": "17:32",
+   "category": "党務",
+   "label": "民主党両院議員総会に出席し、あいさつ",
+   "minutes": 28
+  },
+  {
+   "start": "17:32",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "18:01",
+   "end": "18:31",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 30
+  },
+  {
+   "start": "18:31",
+   "end": "19:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "19:06",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 294
+  }
+ ],
+ "alloc_min": {
+  "居所": 780,
+  "移動": 1,
+  "公務（内容未詳）": 279,
+  "官邸執務": 122,
+  "面会・会談": 162,
+  "視察": 18,
+  "取材・会見": 34,
+  "国会": 16,
+  "党務": 28
+ }
+}

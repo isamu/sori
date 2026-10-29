@@ -1,0 +1,361 @@
+{
+ "date": "2015-06-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 732,
+ "residence_min": 708,
+ "meetings": 3,
+ "first_work": "06:55",
+ "events": [
+  {
+   "time": "06:55",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:08",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:19",
+   "label": "すべての女性が輝く社会づくり本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:30",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院平和安全法制特別委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:09",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:12",
+   "label": "東京五輪・パラリンピック推進本部事務局の看板掛け。職員への訓示。遠藤利明五輪相同席",
+   "place": "東京・永田町 内閣府本府",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:19",
+   "label": "移動",
+   "place": "東京・永田町 内閣府本府",
+   "category": "移動"
+  },
+  {
+   "time": "12:20",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院平和安全法制特別委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:03",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:09",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:32",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:16",
+   "label": "中谷元防衛相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:05",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 415
+  },
+  {
+   "start": "06:55",
+   "end": "07:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "07:06",
+   "end": "07:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "07:08",
+   "end": "08:18",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 70
+  },
+  {
+   "start": "08:18",
+   "end": "08:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:19",
+   "end": "08:26",
+   "category": "官邸執務",
+   "label": "すべての女性が輝く社会づくり本部",
+   "minutes": 7
+  },
+  {
+   "start": "08:26",
+   "end": "08:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:30",
+   "end": "08:43",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 13
+  },
+  {
+   "start": "08:43",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:00",
+   "end": "12:07",
+   "category": "国会",
+   "label": "衆院平和安全法制特別委",
+   "minutes": 187
+  },
+  {
+   "start": "12:07",
+   "end": "12:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:09",
+   "end": "12:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:10",
+   "end": "12:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:12",
+   "end": "12:18",
+   "category": "式典・行事",
+   "label": "東京五輪・パラリンピック推進本部事務局の看板掛け。職員への訓示。遠藤利明五輪相同席",
+   "minutes": 6
+  },
+  {
+   "start": "12:18",
+   "end": "12:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:19",
+   "end": "12:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 35
+  },
+  {
+   "start": "12:55",
+   "end": "12:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:57",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:00",
+   "end": "17:00",
+   "category": "国会",
+   "label": "衆院平和安全法制特別委",
+   "minutes": 240
+  },
+  {
+   "start": "17:00",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:03",
+   "end": "17:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:05",
+   "end": "17:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:09",
+   "end": "17:27",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 18
+  },
+  {
+   "start": "17:27",
+   "end": "17:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:32",
+   "end": "18:15",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 43
+  },
+  {
+   "start": "18:15",
+   "end": "18:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:16",
+   "end": "18:17",
+   "category": "面会・会談",
+   "label": "中谷元防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "18:17",
+   "end": "19:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "19:05",
+   "end": "19:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "19:07",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 293
+  }
+ ],
+ "alloc_min": {
+  "居所": 708,
+  "移動": 20,
+  "公務（内容未詳）": 92,
+  "面会・会談": 89,
+  "官邸執務": 98,
+  "国会": 427,
+  "式典・行事": 6
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "date": "2016-12-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 296,
+ "residence_min": 573,
+ "meetings": 0,
+ "first_work": "07:02",
+ "events": [
+  {
+   "time": "07:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:08",
+   "label": "昭恵夫人、古森重隆富士フイルムホールディングス会長夫妻とゴルフ",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "個人"
+  },
+  {
+   "time": "15:36",
+   "label": "移動",
+   "place": "神奈川県茅ケ崎市 ゴルフ場「スリーハンドレッドクラブ」",
+   "category": "移動"
+  },
+  {
+   "time": "16:42",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "19:13",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:44",
+   "label": "昭恵夫人の親族らと食事",
+   "place": "東京・玉川田園調布 親族宅",
+   "category": "会食"
+  },
+  {
+   "time": "21:30",
+   "label": "移動",
+   "place": "東京・玉川田園調布 親族宅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・六本木 ホテル「グランドハイアット東京」",
+   "place": "東京・六本木 ホテル「グランドハイアット東京」",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 422
+  },
+  {
+   "start": "07:02",
+   "end": "08:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 66
+  },
+  {
+   "start": "08:08",
+   "end": "15:36",
+   "category": "個人",
+   "label": "昭恵夫人、古森重隆富士フイルムホールディングス会長夫妻とゴルフ",
+   "minutes": 448
+  },
+  {
+   "start": "15:36",
+   "end": "16:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 66
+  },
+  {
+   "start": "16:42",
+   "end": "19:13",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 151
+  },
+  {
+   "start": "19:13",
+   "end": "19:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 31
+  },
+  {
+   "start": "19:44",
+   "end": "21:30",
+   "category": "会食",
+   "label": "昭恵夫人の親族らと食事",
+   "minutes": 106
+  },
+  {
+   "start": "21:30",
+   "end": "21:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "21:57",
+   "end": "24:00",
+   "category": "個人",
+   "label": "滞在",
+   "minutes": 123
+  }
+ ],
+ "alloc_min": {
+  "居所": 573,
+  "移動": 190,
+  "個人": 571,
+  "会食": 106
+ }
+}

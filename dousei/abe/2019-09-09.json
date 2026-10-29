@@ -1,0 +1,192 @@
+{
+ "date": "2019-09-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 525,
+ "residence_min": 915,
+ "meetings": 6,
+ "first_work": "09:43",
+ "events": [
+  {
+   "time": "09:43",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:08",
+   "label": "沖田芳樹内閣危機管理監 関田康雄気象庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:25",
+   "label": "薗浦健太郎首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:51",
+   "label": "河村建夫自民党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:32",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:55",
+   "label": "世耕弘成経済産業相 広瀬直通商政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:33",
+   "label": "森健良審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:05",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 583
+  },
+  {
+   "start": "09:43",
+   "end": "10:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "10:02",
+   "end": "10:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "10:08",
+   "end": "10:13",
+   "category": "面会・会談",
+   "label": "沖田芳樹内閣危機管理監 関田康雄気象庁長官",
+   "minutes": 5
+  },
+  {
+   "start": "10:13",
+   "end": "10:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "10:25",
+   "end": "10:50",
+   "category": "面会・会談",
+   "label": "薗浦健太郎首相補佐官",
+   "minutes": 25
+  },
+  {
+   "start": "10:50",
+   "end": "10:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:51",
+   "end": "11:11",
+   "category": "面会・会談",
+   "label": "河村建夫自民党衆院議員",
+   "minutes": 20
+  },
+  {
+   "start": "11:11",
+   "end": "11:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "11:32",
+   "end": "11:41",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 9
+  },
+  {
+   "start": "11:41",
+   "end": "14:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 194
+  },
+  {
+   "start": "14:55",
+   "end": "15:20",
+   "category": "面会・会談",
+   "label": "世耕弘成経済産業相 広瀬直通商政策局長",
+   "minutes": 25
+  },
+  {
+   "start": "15:20",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 133
+  },
+  {
+   "start": "17:33",
+   "end": "18:04",
+   "category": "面会・会談",
+   "label": "森健良審議官",
+   "minutes": 31
+  },
+  {
+   "start": "18:04",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:05",
+   "end": "18:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "18:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 332
+  }
+ ],
+ "alloc_min": {
+  "居所": 915,
+  "移動": 42,
+  "公務（内容未詳）": 368,
+  "面会・会談": 115
+ }
+}

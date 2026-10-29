@@ -1,0 +1,159 @@
+{
+ "date": "2015-09-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1073,
+ "residence_min": 367,
+ "meetings": 0,
+ "first_work": "02:23",
+ "events": [
+  {
+   "time": "02:23",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "02:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:03",
+   "label": "産経新聞のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:44",
+   "label": "日本テレビのインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:40",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:27",
+   "label": "増岡聡一郎鉄鋼ビルディング専務、秘書官らと食事",
+   "place": "山梨県忍野村 日本料理店「忍野八洲」",
+   "category": "会食"
+  },
+  {
+   "time": "20:19",
+   "label": "移動",
+   "place": "山梨県忍野村 日本料理店「忍野八洲」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "山梨県鳴沢村の別荘",
+   "place": "山梨県鳴沢村の別荘",
+   "category": "その他"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "02:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 143
+  },
+  {
+   "start": "02:23",
+   "end": "02:26",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "02:26",
+   "end": "02:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "02:27",
+   "end": "02:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "02:28",
+   "end": "15:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 755
+  },
+  {
+   "start": "15:03",
+   "end": "15:34",
+   "category": "取材・会見",
+   "label": "産経新聞のインタビュー",
+   "minutes": 31
+  },
+  {
+   "start": "15:34",
+   "end": "15:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 10
+  },
+  {
+   "start": "15:44",
+   "end": "16:27",
+   "category": "取材・会見",
+   "label": "日本テレビのインタビュー",
+   "minutes": 43
+  },
+  {
+   "start": "16:27",
+   "end": "16:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 13
+  },
+  {
+   "start": "16:40",
+   "end": "18:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 107
+  },
+  {
+   "start": "18:27",
+   "end": "20:19",
+   "category": "会食",
+   "label": "増岡聡一郎鉄鋼ビルディング専務、秘書官らと食事",
+   "minutes": 112
+  },
+  {
+   "start": "20:19",
+   "end": "20:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "20:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 201
+  }
+ ],
+ "alloc_min": {
+  "居所": 367,
+  "取材・会見": 77,
+  "公務（内容未詳）": 756,
+  "移動": 128,
+  "会食": 112
+ }
+}

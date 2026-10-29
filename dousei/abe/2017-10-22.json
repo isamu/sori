@@ -1,0 +1,294 @@
+{
+ "date": "2017-10-22",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 397,
+ "residence_min": 939,
+ "meetings": 2,
+ "first_work": "10:40",
+ "events": [
+  {
+   "time": "10:40",
+   "label": "小此木八郎防災担当相 菅義偉官房長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:00",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "11:02",
+   "label": "菅義偉官房長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:47",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:01",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "17:45",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": "17:57",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:28",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:31",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "19:44",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "19:47",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "19:50",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:03",
+   "label": "西村康稔官房副長官",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "22:00",
+   "label": "記者会見場でテレビ各社の報道番組に出演",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:50",
+   "label": "インターネットの動画中継サイト「ニコニコ動画」に出演",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "23:07",
+   "label": "ラジオ各社の報道番組に出演",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 640
+  },
+  {
+   "start": "10:40",
+   "end": "10:59",
+   "category": "面会・会談",
+   "label": "小此木八郎防災担当相 菅義偉官房長官",
+   "minutes": 19
+  },
+  {
+   "start": "10:59",
+   "end": "11:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "11:00",
+   "end": "11:01",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "11:01",
+   "end": "11:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "11:02",
+   "end": "11:24",
+   "category": "面会・会談",
+   "label": "菅義偉官房長官",
+   "minutes": 22
+  },
+  {
+   "start": "11:24",
+   "end": "15:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 263
+  },
+  {
+   "start": "15:47",
+   "end": "16:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "16:01",
+   "end": "17:45",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 104
+  },
+  {
+   "start": "17:45",
+   "end": "17:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "17:57",
+   "end": "18:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 31
+  },
+  {
+   "start": "18:28",
+   "end": "18:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:31",
+   "end": "19:44",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "minutes": 73
+  },
+  {
+   "start": "19:44",
+   "end": "19:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "19:47",
+   "end": "19:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 3
+  },
+  {
+   "start": "19:50",
+   "end": "19:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "19:53",
+   "end": "21:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 70
+  },
+  {
+   "start": "21:03",
+   "end": "21:11",
+   "category": "党務",
+   "label": "西村康稔官房副長官",
+   "minutes": 8
+  },
+  {
+   "start": "21:11",
+   "end": "22:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "22:00",
+   "end": "22:48",
+   "category": "取材・会見",
+   "label": "記者会見場でテレビ各社の報道番組に出演",
+   "minutes": 48
+  },
+  {
+   "start": "22:48",
+   "end": "22:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "22:50",
+   "end": "22:52",
+   "category": "取材・会見",
+   "label": "インターネットの動画中継サイト「ニコニコ動画」に出演",
+   "minutes": 2
+  },
+  {
+   "start": "22:52",
+   "end": "23:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "23:07",
+   "end": "23:22",
+   "category": "取材・会見",
+   "label": "ラジオ各社の報道番組に出演",
+   "minutes": 15
+  },
+  {
+   "start": "23:22",
+   "end": "24:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  }
+ ],
+ "alloc_min": {
+  "居所": 939,
+  "面会・会談": 41,
+  "取材・会見": 66,
+  "移動": 35,
+  "個人": 104,
+  "会食": 73,
+  "公務（内容未詳）": 174,
+  "党務": 8
+ }
+}

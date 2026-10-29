@@ -1,0 +1,83 @@
+{
+ "date": "2023-01-11",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "英国際戦略研究所（ＩＩＳＳ）のチップマン所長の表敬",
+   "place": "ドーチェスターホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「フェアモント・シャトー・ローリエ」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "カナダのオタワ・マクドナルド・カルティエ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "英国・ロンドン郊外のスタンステッド空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "「ドーチェスターホテル」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "視察",
+   "place": "ロンドン塔",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "円滑化協定署名式",
+   "place": "ロンドン塔",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "スナク首相と会談",
+   "place": "ロンドン塔",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "栄誉礼",
+   "place": "ロンドン塔",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "現地日系企業関係者と昼食会",
+   "place": "駐英国大使公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

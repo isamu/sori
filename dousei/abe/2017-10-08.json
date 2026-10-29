@@ -1,0 +1,291 @@
+{
+ "date": "2017-10-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 524,
+ "residence_min": 916,
+ "meetings": 0,
+ "first_work": "06:47",
+ "events": [
+  {
+   "time": "06:47",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:35",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:27",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "報道番組に出演",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:18",
+   "label": "移動",
+   "place": "東京・紀尾井町 ＮＨＫ千代田放送会館",
+   "category": "移動"
+  },
+  {
+   "time": "10:26",
+   "label": "第50回日本薬剤師会学術大会に出席し、あいさつ",
+   "place": "東京・丸の内 東京国際フォーラム",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:38",
+   "label": "移動",
+   "place": "東京・丸の内 東京国際フォーラム",
+   "category": "移動"
+  },
+  {
+   "time": "10:51",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:25",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "日本記者クラブ主催の8党党首討論会",
+   "place": "東京・内幸町 日本プレスセンタービル",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:11",
+   "label": "移動",
+   "place": "東京・内幸町 日本プレスセンタービル",
+   "category": "移動"
+  },
+  {
+   "time": "15:24",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "20:35",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "21:00",
+   "label": "インターネットテレビ局「ＡｂｅｍａＴＶ」番組に出演",
+   "place": "東京・神宮前 スタジオ「シャトーアメーバ」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "22:06",
+   "label": "移動",
+   "place": "東京・神宮前 スタジオ「シャトーアメーバ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:47",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 407
+  },
+  {
+   "start": "06:47",
+   "end": "07:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "07:04",
+   "end": "07:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "07:35",
+   "end": "08:23",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 48
+  },
+  {
+   "start": "08:23",
+   "end": "08:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:27",
+   "end": "08:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "08:45",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "09:00",
+   "end": "10:15",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 75
+  },
+  {
+   "start": "10:15",
+   "end": "10:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:18",
+   "end": "10:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:26",
+   "end": "10:38",
+   "category": "式典・行事",
+   "label": "第50回日本薬剤師会学術大会に出席し、あいさつ",
+   "minutes": 12
+  },
+  {
+   "start": "10:38",
+   "end": "10:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "10:51",
+   "end": "12:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 94
+  },
+  {
+   "start": "12:25",
+   "end": "12:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "12:30",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "13:00",
+   "end": "15:09",
+   "category": "取材・会見",
+   "label": "日本記者クラブ主催の8党党首討論会",
+   "minutes": 129
+  },
+  {
+   "start": "15:09",
+   "end": "15:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:11",
+   "end": "15:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "15:24",
+   "end": "20:35",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 311
+  },
+  {
+   "start": "20:35",
+   "end": "20:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "20:47",
+   "end": "21:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "21:00",
+   "end": "22:01",
+   "category": "取材・会見",
+   "label": "インターネットテレビ局「ＡｂｅｍａＴＶ」番組に出演",
+   "minutes": 61
+  },
+  {
+   "start": "22:01",
+   "end": "22:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "22:06",
+   "end": "22:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "22:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 104
+  }
+ ],
+ "alloc_min": {
+  "居所": 916,
+  "移動": 96,
+  "公務（内容未詳）": 103,
+  "取材・会見": 313,
+  "式典・行事": 12
+ }
+}

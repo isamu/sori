@@ -1,0 +1,130 @@
+{
+ "date": "2017-08-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 149,
+ "residence_min": 1112,
+ "meetings": 0,
+ "first_work": "12:59",
+ "events": [
+  {
+   "time": "12:59",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "13:09",
+   "label": "入浴",
+   "place": "同県富士吉田市の温泉施設「ふじやま温泉」",
+   "category": "個人"
+  },
+  {
+   "time": "16:08",
+   "label": "移動",
+   "place": "同県富士吉田市の温泉施設「ふじやま温泉」",
+   "category": "移動"
+  },
+  {
+   "time": "16:19",
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  },
+  {
+   "time": "17:55",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "18:04",
+   "label": "昭恵夫人、秘書官と食事",
+   "place": "同県富士河口湖町の中国料理店「異彩中国菜館　湖宮」",
+   "category": "会食"
+  },
+  {
+   "time": "19:54",
+   "label": "移動",
+   "place": "同県富士河口湖町の中国料理店「異彩中国菜館　湖宮」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:59",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 779
+  },
+  {
+   "start": "12:59",
+   "end": "13:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "13:09",
+   "end": "16:08",
+   "category": "個人",
+   "label": "入浴",
+   "minutes": 179
+  },
+  {
+   "start": "16:08",
+   "end": "16:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "16:19",
+   "end": "17:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 96
+  },
+  {
+   "start": "17:55",
+   "end": "18:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:04",
+   "end": "19:54",
+   "category": "会食",
+   "label": "昭恵夫人、秘書官と食事",
+   "minutes": 110
+  },
+  {
+   "start": "19:54",
+   "end": "20:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "20:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 237
+  }
+ ],
+ "alloc_min": {
+  "居所": 1112,
+  "移動": 39,
+  "個人": 179,
+  "会食": 110
+ }
+}

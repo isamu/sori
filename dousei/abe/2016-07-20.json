@@ -1,0 +1,77 @@
+{
+ "date": "2016-07-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 7,
+ "residence_min": 964,
+ "meetings": 0,
+ "first_work": "06:55",
+ "events": [
+  {
+   "time": "06:55",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "06:58",
+   "label": "増岡聡一郎鉄鋼ビルディング専務らとゴルフ",
+   "place": "山梨県富士河口湖町のゴルフ場「富士桜カントリー倶楽部」",
+   "category": "個人"
+  },
+  {
+   "time": "14:47",
+   "label": "移動",
+   "place": "山梨県富士河口湖町のゴルフ場「富士桜カントリー倶楽部」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 415
+  },
+  {
+   "start": "06:55",
+   "end": "06:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "06:58",
+   "end": "14:47",
+   "category": "個人",
+   "label": "増岡聡一郎鉄鋼ビルディング専務らとゴルフ",
+   "minutes": 469
+  },
+  {
+   "start": "14:47",
+   "end": "14:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "14:51",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 549
+  }
+ ],
+ "alloc_min": {
+  "居所": 964,
+  "移動": 7,
+  "個人": 469
+ }
+}

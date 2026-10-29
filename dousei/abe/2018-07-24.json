@@ -1,0 +1,425 @@
+{
+ "date": "2018-07-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 600,
+ "residence_min": 840,
+ "meetings": 3,
+ "first_work": "09:02",
+ "events": [
+  {
+   "time": "09:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:32",
+   "label": "自民党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "09:49",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:18",
+   "label": "外国人材の受け入れ・共生に関する関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:36",
+   "label": "猫田孝自民党岐阜県連会長代行ら同党岐阜県議による西日本豪雨に関する申し入れ",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "10:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:03",
+   "label": "同ホテル内の宴会場「ｅｄｏ　ＲＯＯＭ」で東京都議会有志の会の会合に出席し、あいさつ。萩生田光一自民党幹事長代行ら同席",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "党務"
+  },
+  {
+   "time": "11:47",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "11:53",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:09",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:10",
+   "label": "自民党の熊本県議と会食。萩生田同党幹事長代行、西村康稔官房副長官同席",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "13:01",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:28",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:31",
+   "label": "東京都、神奈川県の地方議員らと懇談",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "15:55",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "16:03",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:12",
+   "label": "中川雅治環境相 鈴木秀生地球規模課題審議官 末松広行産業技術環境局長 森下哲地球環境局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:33",
+   "label": "稲田伸夫新検事総長 西川克行旧検事総長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:10",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:18",
+   "label": "同ホテル内の宴会場「孔雀東西の間」で日本医師会の役員就任披露パーティーに出席し、あいさつ",
+   "place": "東京・内幸町 帝国ホテル",
+   "category": "党務"
+  },
+  {
+   "time": "18:34",
+   "label": "移動",
+   "place": "東京・内幸町 帝国ホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 542
+  },
+  {
+   "start": "09:02",
+   "end": "09:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "09:16",
+   "end": "09:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "09:32",
+   "end": "09:48",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 16
+  },
+  {
+   "start": "09:48",
+   "end": "09:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:49",
+   "end": "09:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:51",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:54",
+   "end": "10:15",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 21
+  },
+  {
+   "start": "10:15",
+   "end": "10:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:18",
+   "end": "10:32",
+   "category": "官邸執務",
+   "label": "外国人材の受け入れ・共生に関する関係閣僚会議",
+   "minutes": 14
+  },
+  {
+   "start": "10:32",
+   "end": "10:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:36",
+   "end": "10:53",
+   "category": "党務",
+   "label": "猫田孝自民党岐阜県連会長代行ら同党岐阜県議による西日本豪雨に関する申し入れ",
+   "minutes": 17
+  },
+  {
+   "start": "10:53",
+   "end": "10:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:57",
+   "end": "11:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "11:03",
+   "end": "11:47",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「ｅｄｏ　ＲＯＯＭ」で東京都議会有志の会の会合に出席し、あいさつ。萩生田光一自民党幹事長代行ら同席",
+   "minutes": 44
+  },
+  {
+   "start": "11:47",
+   "end": "11:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 16
+  },
+  {
+   "start": "12:09",
+   "end": "12:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:10",
+   "end": "13:01",
+   "category": "会食",
+   "label": "自民党の熊本県議と会食。萩生田同党幹事長代行、西村康稔官房副長官同席",
+   "minutes": 51
+  },
+  {
+   "start": "13:01",
+   "end": "13:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 146
+  },
+  {
+   "start": "15:28",
+   "end": "15:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:30",
+   "end": "15:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:31",
+   "end": "15:54",
+   "category": "党務",
+   "label": "東京都、神奈川県の地方議員らと懇談",
+   "minutes": 23
+  },
+  {
+   "start": "15:54",
+   "end": "15:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:55",
+   "end": "15:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "15:58",
+   "end": "16:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "16:03",
+   "end": "16:11",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 8
+  },
+  {
+   "start": "16:11",
+   "end": "16:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:12",
+   "end": "16:32",
+   "category": "面会・会談",
+   "label": "中川雅治環境相 鈴木秀生地球規模課題審議官 末松広行産業技術環境局長 森下哲地球環境局長",
+   "minutes": 20
+  },
+  {
+   "start": "16:32",
+   "end": "16:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:33",
+   "end": "16:35",
+   "category": "面会・会談",
+   "label": "稲田伸夫新検事総長 西川克行旧検事総長",
+   "minutes": 2
+  },
+  {
+   "start": "16:35",
+   "end": "18:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 95
+  },
+  {
+   "start": "18:10",
+   "end": "18:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:18",
+   "end": "18:34",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「孔雀東西の間」で日本医師会の役員就任披露パーティーに出席し、あいさつ",
+   "minutes": 16
+  },
+  {
+   "start": "18:34",
+   "end": "19:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "19:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 298
+  }
+ ],
+ "alloc_min": {
+  "居所": 840,
+  "移動": 71,
+  "公務（内容未詳）": 135,
+  "党務": 116,
+  "官邸執務": 197,
+  "会食": 51,
+  "面会・会談": 30
+ }
+}

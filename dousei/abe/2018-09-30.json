@@ -1,0 +1,77 @@
+{
+ "date": "2018-09-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 70,
+ "residence_min": 1370,
+ "meetings": 0,
+ "first_work": "13:22",
+ "events": [
+  {
+   "time": "13:22",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:38",
+   "label": "同ホテル内の宴会場「コスモスホール」で第12回公明党大会に出席し、あいさつ",
+   "place": "東京・平河町 都市センターホテル",
+   "category": "党務"
+  },
+  {
+   "time": "14:16",
+   "label": "移動",
+   "place": "東京・平河町 都市センターホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:22",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 802
+  },
+  {
+   "start": "13:22",
+   "end": "13:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "13:38",
+   "end": "14:16",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「コスモスホール」で第12回公明党大会に出席し、あいさつ",
+   "minutes": 38
+  },
+  {
+   "start": "14:16",
+   "end": "14:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "14:32",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 568
+  }
+ ],
+ "alloc_min": {
+  "居所": 1370,
+  "移動": 32,
+  "党務": 38
+ }
+}

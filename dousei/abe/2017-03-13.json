@@ -1,0 +1,395 @@
+{
+ "date": "2017-03-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 804,
+ "residence_min": 636,
+ "meetings": 6,
+ "first_work": "07:12",
+ "events": [
+  {
+   "time": "07:12",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:27",
+   "label": "柴山昌彦首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "07:33",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:55",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:16",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:20",
+   "label": "自民党の中央政治大学院のインターンシップ生と懇談。岩屋毅同党中央政治大学院長同席",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:26",
+   "label": "移動",
+   "place": "国会 院内大臣室",
+   "category": "移動"
+  },
+  {
+   "time": "17:52",
+   "label": "神津里季生連合会長、榊原定征経団連会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:15",
+   "label": "サウジアラビアのサルマン国王を出迎え",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:18",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:28",
+   "label": "サルマン国王と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:22",
+   "label": "協力覚書署名式",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:29",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:30",
+   "label": "首相主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:35",
+   "label": "サルマン国王を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 432
+  },
+  {
+   "start": "07:12",
+   "end": "07:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:24",
+   "end": "07:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "07:27",
+   "end": "07:32",
+   "category": "面会・会談",
+   "label": "柴山昌彦首相補佐官",
+   "minutes": 5
+  },
+  {
+   "start": "07:32",
+   "end": "07:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:33",
+   "end": "08:21",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 48
+  },
+  {
+   "start": "08:21",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "08:50",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:51",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:58",
+   "end": "11:52",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 174
+  },
+  {
+   "start": "11:52",
+   "end": "11:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:55",
+   "end": "11:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "11:56",
+   "end": "12:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "12:16",
+   "end": "12:21",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 5
+  },
+  {
+   "start": "12:21",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:17",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 257
+  },
+  {
+   "start": "17:17",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:20",
+   "end": "17:24",
+   "category": "面会・会談",
+   "label": "自民党の中央政治大学院のインターンシップ生と懇談。岩屋毅同党中央政治大学院長同席",
+   "minutes": 4
+  },
+  {
+   "start": "17:24",
+   "end": "17:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:26",
+   "end": "17:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:27",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "17:52",
+   "end": "18:02",
+   "category": "面会・会談",
+   "label": "神津里季生連合会長、榊原定征経団連会長",
+   "minutes": 10
+  },
+  {
+   "start": "18:02",
+   "end": "18:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "18:15",
+   "end": "18:16",
+   "category": "式典・行事",
+   "label": "サウジアラビアのサルマン国王を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "18:16",
+   "end": "18:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:18",
+   "end": "18:25",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 7
+  },
+  {
+   "start": "18:25",
+   "end": "18:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:28",
+   "end": "19:09",
+   "category": "面会・会談",
+   "label": "サルマン国王と首脳会談",
+   "minutes": 41
+  },
+  {
+   "start": "19:09",
+   "end": "19:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "19:22",
+   "end": "19:28",
+   "category": "式典・行事",
+   "label": "協力覚書署名式",
+   "minutes": 6
+  },
+  {
+   "start": "19:28",
+   "end": "19:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:29",
+   "end": "19:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:30",
+   "end": "20:35",
+   "category": "会食",
+   "label": "首相主催の夕食会",
+   "minutes": 65
+  },
+  {
+   "start": "20:35",
+   "end": "20:36",
+   "category": "式典・行事",
+   "label": "サルマン国王を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "20:36",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 204
+  }
+ ],
+ "alloc_min": {
+  "居所": 636,
+  "移動": 18,
+  "公務（内容未詳）": 162,
+  "面会・会談": 113,
+  "国会": 431,
+  "式典・行事": 15,
+  "会食": 65
+ }
+}

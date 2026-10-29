@@ -1,0 +1,447 @@
+{
+ "date": "2023-07-21",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 675,
+ "residence_min": 765,
+ "meetings": 3,
+ "first_work": "09:53",
+ "events": [
+  {
+   "time": "09:53",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:01",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:11",
+   "label": "後藤茂之経済再生担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:38",
+   "label": "神田真人財務官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:53",
+   "label": "茂木敏充自民党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:16",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:32",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "12:27",
+   "label": "ＪＲ高崎駅",
+   "place": "ＪＲ高崎駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:33",
+   "label": "移動",
+   "place": "ＪＲ高崎駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:23",
+   "label": "ブドウ畑での作業を視察。昼食",
+   "place": "栃木県足利市 障害者支援施設こころみ学園利用者が従事するワイナリー",
+   "category": "視察"
+  },
+  {
+   "time": "14:31",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "14:33",
+   "label": "利用者らと対話",
+   "place": "栃木県足利市 障害者支援施設こころみ学園",
+   "category": "移動"
+  },
+  {
+   "time": "15:41",
+   "label": "報道各社のインタビュー",
+   "place": "栃木県足利市 障害者支援施設こころみ学園",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:51",
+   "label": "移動",
+   "place": "栃木県足利市 障害者支援施設こころみ学園",
+   "category": "移動"
+  },
+  {
+   "time": "16:46",
+   "label": "ＪＲ高崎駅",
+   "place": "ＪＲ高崎駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:08",
+   "label": "ＪＲ軽井沢駅",
+   "place": "ＪＲ軽井沢駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:13",
+   "label": "移動",
+   "place": "ＪＲ軽井沢駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:20",
+   "label": "十倉雅和経団連会長",
+   "place": "長野県軽井沢町 「軽井沢プリンスホテル　ウエスト」",
+   "category": "移動"
+  },
+  {
+   "time": "17:46",
+   "label": "同ホテル内の「メインバンケットホール　長野」で経団連夏季フォーラムに出席し、講演",
+   "place": "長野県軽井沢町 「軽井沢プリンスホテル　ウエスト」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:39",
+   "label": "同ホテル内の「国際会議場　浅間」で懇親会に出席",
+   "place": "長野県軽井沢町 「軽井沢プリンスホテル　ウエスト」",
+   "category": "会食"
+  },
+  {
+   "time": "19:23",
+   "label": "移動",
+   "place": "長野県軽井沢町 「軽井沢プリンスホテル　ウエスト」",
+   "category": "移動"
+  },
+  {
+   "time": "19:28",
+   "label": "ＪＲ軽井沢駅",
+   "place": "ＪＲ軽井沢駅",
+   "category": "移動"
+  },
+  {
+   "time": "20:52",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "20:56",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 593
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:54",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "10:01",
+   "end": "10:10",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "10:10",
+   "end": "10:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:11",
+   "end": "10:13",
+   "category": "面会・会談",
+   "label": "後藤茂之経済再生担当相",
+   "minutes": 2
+  },
+  {
+   "start": "10:13",
+   "end": "10:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "10:38",
+   "end": "10:52",
+   "category": "面会・会談",
+   "label": "神田真人財務官",
+   "minutes": 14
+  },
+  {
+   "start": "10:52",
+   "end": "10:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:53",
+   "end": "11:09",
+   "category": "面会・会談",
+   "label": "茂木敏充自民党幹事長",
+   "minutes": 16
+  },
+  {
+   "start": "11:09",
+   "end": "11:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "11:16",
+   "end": "11:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "11:32",
+   "end": "11:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "11:40",
+   "end": "12:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 47
+  },
+  {
+   "start": "12:27",
+   "end": "12:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "12:33",
+   "end": "13:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 50
+  },
+  {
+   "start": "13:23",
+   "end": "14:31",
+   "category": "視察",
+   "label": "ブドウ畑での作業を視察。昼食",
+   "minutes": 68
+  },
+  {
+   "start": "14:31",
+   "end": "14:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:33",
+   "end": "15:41",
+   "category": "移動",
+   "label": "利用者らと対話",
+   "minutes": 68
+  },
+  {
+   "start": "15:41",
+   "end": "15:48",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 7
+  },
+  {
+   "start": "15:48",
+   "end": "15:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:51",
+   "end": "16:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 55
+  },
+  {
+   "start": "16:46",
+   "end": "16:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "16:49",
+   "end": "17:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "17:08",
+   "end": "17:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "17:13",
+   "end": "17:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "17:17",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:20",
+   "end": "17:32",
+   "category": "移動",
+   "label": "十倉雅和経団連会長",
+   "minutes": 12
+  },
+  {
+   "start": "17:32",
+   "end": "17:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "17:46",
+   "end": "18:25",
+   "category": "式典・行事",
+   "label": "同ホテル内の「メインバンケットホール　長野」で経団連夏季フォーラムに出席し、講演",
+   "minutes": 39
+  },
+  {
+   "start": "18:25",
+   "end": "18:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "18:39",
+   "end": "19:20",
+   "category": "会食",
+   "label": "同ホテル内の「国際会議場　浅間」で懇親会に出席",
+   "minutes": 41
+  },
+  {
+   "start": "19:20",
+   "end": "19:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:23",
+   "end": "19:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "19:28",
+   "end": "19:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "19:41",
+   "end": "20:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "20:52",
+   "end": "20:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "20:56",
+   "end": "21:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "21:08",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 172
+  }
+ ],
+ "alloc_min": {
+  "居所": 765,
+  "移動": 252,
+  "公務（内容未詳）": 227,
+  "官邸執務": 9,
+  "面会・会談": 32,
+  "視察": 68,
+  "取材・会見": 7,
+  "式典・行事": 39,
+  "会食": 41
+ }
+}

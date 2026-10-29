@@ -1,0 +1,394 @@
+{
+ "date": "2019-07-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 894,
+ "residence_min": 546,
+ "meetings": 1,
+ "first_work": "07:16",
+ "events": [
+  {
+   "time": "07:16",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:43",
+   "label": "利用客らと握手。写真撮影",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "09:59",
+   "label": "利用者らと握手",
+   "place": "ＪＲ新潟駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:00",
+   "label": "移動",
+   "place": "ＪＲ新潟駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:59",
+   "label": "花角英世同県知事、高橋邦芳同市長から山形県沖を震源とする地震に関する要望書受け取り。街頭演説",
+   "place": "新潟県村上市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "11:42",
+   "label": "移動",
+   "place": "新潟県村上市役所前",
+   "category": "移動"
+  },
+  {
+   "time": "11:50",
+   "label": "同市の観光関係者らと意見交換",
+   "place": "同市 温泉旅館「大観荘せなみの湯」",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:05",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "12:07",
+   "label": "同店内のレストラン「海鮮処　番屋」で昼食",
+   "place": "同市 土産物店「岩船港鮮魚センター」",
+   "category": "会食"
+  },
+  {
+   "time": "12:41",
+   "label": "移動",
+   "place": "同市 土産物店「岩船港鮮魚センター」",
+   "category": "移動"
+  },
+  {
+   "time": "13:50",
+   "label": "休憩",
+   "place": "同県三条市 北陸自動車道栄パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:53",
+   "label": "移動",
+   "place": "同県三条市 北陸自動車道栄パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:27",
+   "label": "練り歩き。街頭演説",
+   "place": "同県長岡市 複合施設「アオーレ長岡」",
+   "category": "党務"
+  },
+  {
+   "time": "15:12",
+   "label": "移動",
+   "place": "同県長岡市 複合施設「アオーレ長岡」",
+   "category": "移動"
+  },
+  {
+   "time": "16:00",
+   "label": "休憩",
+   "place": "新潟市西区 北陸自動車道黒埼パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "16:03",
+   "label": "移動",
+   "place": "新潟市西区 北陸自動車道黒埼パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "16:31",
+   "label": "練り歩き。街頭演説",
+   "place": "新潟市中央区 商業施設「万代シテイ」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:07",
+   "label": "徒歩",
+   "place": "新潟市中央区 商業施設「万代シテイ」前",
+   "category": "移動"
+  },
+  {
+   "time": "17:23",
+   "label": "街頭演説",
+   "place": "ＪＲ新潟駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:52",
+   "label": "移動",
+   "place": "ＪＲ新潟駅前",
+   "category": "移動"
+  },
+  {
+   "time": "18:01",
+   "label": "夕食",
+   "place": "同区 とんかつ専門店「とんかつ太郎」",
+   "category": "会食"
+  },
+  {
+   "time": "18:31",
+   "label": "移動",
+   "place": "同区 とんかつ専門店「とんかつ太郎」",
+   "category": "移動"
+  },
+  {
+   "time": "18:46",
+   "label": "ＪＲ新潟駅",
+   "place": "ＪＲ新潟駅",
+   "category": "移動"
+  },
+  {
+   "time": "21:07",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "21:37",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 436
+  },
+  {
+   "start": "07:16",
+   "end": "07:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "07:38",
+   "end": "07:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "07:43",
+   "end": "07:45",
+   "category": "移動",
+   "label": "利用客らと握手。写真撮影",
+   "minutes": 2
+  },
+  {
+   "start": "07:45",
+   "end": "09:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 134
+  },
+  {
+   "start": "09:59",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:00",
+   "end": "10:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 59
+  },
+  {
+   "start": "10:59",
+   "end": "11:42",
+   "category": "党務",
+   "label": "花角英世同県知事、高橋邦芳同市長から山形県沖を震源とする地震に関する要望書受け取り。街頭演説",
+   "minutes": 43
+  },
+  {
+   "start": "11:42",
+   "end": "11:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:50",
+   "end": "12:05",
+   "category": "面会・会談",
+   "label": "同市の観光関係者らと意見交換",
+   "minutes": 15
+  },
+  {
+   "start": "12:05",
+   "end": "12:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:07",
+   "end": "12:41",
+   "category": "会食",
+   "label": "同店内のレストラン「海鮮処　番屋」で昼食",
+   "minutes": 34
+  },
+  {
+   "start": "12:41",
+   "end": "13:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 69
+  },
+  {
+   "start": "13:50",
+   "end": "13:53",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "13:53",
+   "end": "14:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "14:27",
+   "end": "15:12",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 45
+  },
+  {
+   "start": "15:12",
+   "end": "16:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 48
+  },
+  {
+   "start": "16:00",
+   "end": "16:03",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 3
+  },
+  {
+   "start": "16:03",
+   "end": "16:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "16:31",
+   "end": "17:07",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 36
+  },
+  {
+   "start": "17:07",
+   "end": "17:23",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 16
+  },
+  {
+   "start": "17:23",
+   "end": "17:52",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "17:52",
+   "end": "18:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:01",
+   "end": "18:31",
+   "category": "会食",
+   "label": "夕食",
+   "minutes": 30
+  },
+  {
+   "start": "18:31",
+   "end": "18:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "18:46",
+   "end": "19:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "19:07",
+   "end": "21:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 120
+  },
+  {
+   "start": "21:07",
+   "end": "21:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "21:12",
+   "end": "21:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "21:37",
+   "end": "22:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "22:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 110
+  }
+ ],
+ "alloc_min": {
+  "居所": 546,
+  "移動": 372,
+  "公務（内容未詳）": 290,
+  "党務": 153,
+  "面会・会談": 15,
+  "会食": 64
+ }
+}

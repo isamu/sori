@@ -1,0 +1,139 @@
+{
+ "date": "2025-10-20",
+ "pm": "石破茂",
+ "source": null,
+ "work_min": 811,
+ "residence_min": 629,
+ "meetings": 2,
+ "first_work": "09:17",
+ "events": [
+  {
+   "time": "09:17",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:00",
+   "label": "山田憲典不二家会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:55",
+   "label": "中谷元防衛相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:07",
+   "label": "秘書官と食事",
+   "place": "東京・西麻布 焼き肉店「叙々苑游玄亭西麻布本館」",
+   "category": "会食"
+  },
+  {
+   "time": "22:40",
+   "label": "移動",
+   "place": "東京・西麻布 焼き肉店「叙々苑游玄亭西麻布本館」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "東京・赤坂 衆院議員宿舎",
+   "place": "東京・赤坂 衆院議員宿舎",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 557
+  },
+  {
+   "start": "09:17",
+   "end": "09:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:18",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 102
+  },
+  {
+   "start": "11:00",
+   "end": "11:40",
+   "category": "面会・会談",
+   "label": "山田憲典不二家会長",
+   "minutes": 40
+  },
+  {
+   "start": "11:40",
+   "end": "13:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 135
+  },
+  {
+   "start": "13:55",
+   "end": "14:41",
+   "category": "面会・会談",
+   "label": "中谷元防衛相",
+   "minutes": 46
+  },
+  {
+   "start": "14:41",
+   "end": "18:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 251
+  },
+  {
+   "start": "18:52",
+   "end": "19:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "19:07",
+   "end": "22:40",
+   "category": "会食",
+   "label": "秘書官と食事",
+   "minutes": 213
+  },
+  {
+   "start": "22:40",
+   "end": "22:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "22:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 72
+  }
+ ],
+ "alloc_min": {
+  "居所": 629,
+  "移動": 24,
+  "公務（内容未詳）": 488,
+  "面会・会談": 86,
+  "会食": 213
+ }
+}

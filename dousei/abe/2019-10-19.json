@@ -1,0 +1,140 @@
+{
+ "date": "2019-10-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 102,
+ "residence_min": 1246,
+ "meetings": 1,
+ "first_work": "15:21",
+ "events": [
+  {
+   "time": "15:21",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:02",
+   "label": "台風１９号非常災害対策本部会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:18",
+   "label": "赤羽一嘉国土交通相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:50",
+   "label": "散髪",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "個人"
+  },
+  {
+   "time": "18:22",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 921
+  },
+  {
+   "start": "15:21",
+   "end": "15:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "15:33",
+   "end": "16:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "16:02",
+   "end": "16:17",
+   "category": "官邸執務",
+   "label": "台風１９号非常災害対策本部会議",
+   "minutes": 15
+  },
+  {
+   "start": "16:17",
+   "end": "16:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:18",
+   "end": "16:24",
+   "category": "面会・会談",
+   "label": "赤羽一嘉国土交通相",
+   "minutes": 6
+  },
+  {
+   "start": "16:24",
+   "end": "16:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:31",
+   "end": "16:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "16:50",
+   "end": "18:22",
+   "category": "個人",
+   "label": "散髪",
+   "minutes": 92
+  },
+  {
+   "start": "18:22",
+   "end": "18:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "18:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 325
+  }
+ ],
+ "alloc_min": {
+  "居所": 1246,
+  "移動": 44,
+  "公務（内容未詳）": 37,
+  "官邸執務": 15,
+  "面会・会談": 6,
+  "個人": 92
+ }
+}

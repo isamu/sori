@@ -1,0 +1,206 @@
+{
+ "date": "2018-04-28",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 195,
+ "residence_min": 1207,
+ "meetings": 1,
+ "first_work": "13:36",
+ "events": [
+  {
+   "time": "13:36",
+   "label": "散歩",
+   "place": "私邸周辺",
+   "category": "個人"
+  },
+  {
+   "time": "14:14",
+   "label": "報道各社のインタビュー",
+   "place": "私邸周辺",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:15",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:31",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:50",
+   "label": "ジャーナリスト桜井よしこ氏の親族の通夜に参列",
+   "place": "東京・赤坂 赤坂氷川神社",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:56",
+   "label": "移動",
+   "place": "東京・赤坂 赤坂氷川神社",
+   "category": "移動"
+  },
+  {
+   "time": "18:19",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "20:53",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "22:33",
+   "label": "トランプ米大統領と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "23:11",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "23:15",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 816
+  },
+  {
+   "start": "13:36",
+   "end": "14:14",
+   "category": "個人",
+   "label": "散歩",
+   "minutes": 38
+  },
+  {
+   "start": "14:14",
+   "end": "14:15",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "14:15",
+   "end": "17:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 196
+  },
+  {
+   "start": "17:31",
+   "end": "17:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "17:50",
+   "end": "17:56",
+   "category": "式典・行事",
+   "label": "ジャーナリスト桜井よしこ氏の親族の通夜に参列",
+   "minutes": 6
+  },
+  {
+   "start": "17:56",
+   "end": "18:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "18:19",
+   "end": "20:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 154
+  },
+  {
+   "start": "20:53",
+   "end": "21:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "21:05",
+   "end": "22:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 88
+  },
+  {
+   "start": "22:33",
+   "end": "23:03",
+   "category": "面会・会談",
+   "label": "トランプ米大統領と電話会談",
+   "minutes": 30
+  },
+  {
+   "start": "23:03",
+   "end": "23:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 8
+  },
+  {
+   "start": "23:11",
+   "end": "23:14",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "23:14",
+   "end": "23:15",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "23:15",
+   "end": "23:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "23:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 32
+  }
+ ],
+ "alloc_min": {
+  "居所": 1207,
+  "個人": 38,
+  "取材・会見": 4,
+  "移動": 67,
+  "式典・行事": 6,
+  "公務（内容未詳）": 88,
+  "面会・会談": 30
+ }
+}

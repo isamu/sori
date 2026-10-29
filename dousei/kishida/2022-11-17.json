@@ -1,0 +1,71 @@
+{
+ "date": "2022-11-17",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "発",
+   "place": "インドネシア・バリ島のバリ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "コンラッド・バンコク",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "アジア太平洋経済協力会議（ＡＰＥＣ）首脳らと夕食会",
+   "place": "タイ海軍カンファレンスホール",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "コンラッド・バンコク",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "中国の習近平国家主席と会談。林芳正外相、西村康稔経済産業相同席",
+   "place": "ホテル「マンダリン・オリエンタル・バンコク」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "チリのボリッチ大統領と会談",
+   "place": "ホテル「コンラッド・バンコク」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "プラユット首相と会談",
+   "place": "首相府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "タイ・バンコクのドンムアン空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

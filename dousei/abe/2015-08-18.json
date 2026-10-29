@@ -1,0 +1,97 @@
+{
+ "date": "2015-08-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 458,
+ "residence_min": 982,
+ "meetings": 4,
+ "first_work": "12:57",
+ "events": [
+  {
+   "time": "12:57",
+   "label": "小林優鳴沢村長",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:28",
+   "label": "マカーリック米枢機卿",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:30",
+   "label": "北村滋内閣情報官",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:15",
+   "label": "北村内閣情報官、長谷川栄一首相補佐官、秘書官らとバーベキュー （20:18北村氏出る）",
+   "place": "山梨県鳴沢村 別荘",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 777
+  },
+  {
+   "start": "12:57",
+   "end": "13:17",
+   "category": "面会・会談",
+   "label": "小林優鳴沢村長",
+   "minutes": 20
+  },
+  {
+   "start": "13:17",
+   "end": "13:28",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 11
+  },
+  {
+   "start": "13:28",
+   "end": "14:14",
+   "category": "面会・会談",
+   "label": "マカーリック米枢機卿",
+   "minutes": 46
+  },
+  {
+   "start": "14:14",
+   "end": "16:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 136
+  },
+  {
+   "start": "16:30",
+   "end": "18:15",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 105
+  },
+  {
+   "start": "18:15",
+   "end": "23:02",
+   "category": "面会・会談",
+   "label": "北村内閣情報官、長谷川栄一首相補佐官、秘書官らとバーベキュー （20:18北村氏出る）",
+   "minutes": 287
+  },
+  {
+   "start": "23:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 58
+  }
+ ],
+ "alloc_min": {
+  "居所": 982,
+  "面会・会談": 458
+ }
+}

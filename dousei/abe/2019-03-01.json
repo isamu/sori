@@ -1,0 +1,427 @@
+{
+ "date": "2019-03-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1004,
+ "residence_min": 436,
+ "meetings": 7,
+ "first_work": "07:16",
+ "events": [
+  {
+   "time": "07:16",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:25",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:27",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:45",
+   "label": "薗浦健太郎首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:01",
+   "label": "宮川正内閣衛星情報センター所長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:33",
+   "label": "谷内正太郎国家安全保障局長 秋葉剛男事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:11",
+   "label": "玉城デニー沖縄県知事",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:35",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:29",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:10",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "16:34",
+   "label": "河村建夫衆院議員、菅義偉官房長官",
+   "place": "国会 衆院第１委員室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "20:36",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院第１５委員室",
+   "category": "国会"
+  },
+  {
+   "time": "20:40",
+   "label": "衆院財務金融委員会",
+   "place": "国会 衆院第１５委員室",
+   "category": "国会"
+  },
+  {
+   "time": "21:49",
+   "label": "移動",
+   "place": "国会 衆院第１５委員室",
+   "category": "移動"
+  },
+  {
+   "time": "21:53",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "22:44",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "22:46",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "22:52",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "23:52",
+   "label": "菅義偉官房長官",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 436
+  },
+  {
+   "start": "07:16",
+   "end": "07:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "07:18",
+   "end": "07:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:25",
+   "end": "08:15",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 50
+  },
+  {
+   "start": "08:15",
+   "end": "08:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:27",
+   "end": "08:33",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 6
+  },
+  {
+   "start": "08:33",
+   "end": "10:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 132
+  },
+  {
+   "start": "10:45",
+   "end": "10:59",
+   "category": "面会・会談",
+   "label": "薗浦健太郎首相補佐官",
+   "minutes": 14
+  },
+  {
+   "start": "10:59",
+   "end": "11:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:01",
+   "end": "11:11",
+   "category": "面会・会談",
+   "label": "宮川正内閣衛星情報センター所長 北村滋内閣情報官",
+   "minutes": 10
+  },
+  {
+   "start": "11:11",
+   "end": "11:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "11:33",
+   "end": "12:05",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 秋葉剛男事務次官",
+   "minutes": 32
+  },
+  {
+   "start": "12:05",
+   "end": "12:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "12:11",
+   "end": "12:30",
+   "category": "面会・会談",
+   "label": "玉城デニー沖縄県知事",
+   "minutes": 19
+  },
+  {
+   "start": "12:30",
+   "end": "14:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 125
+  },
+  {
+   "start": "14:35",
+   "end": "15:05",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 30
+  },
+  {
+   "start": "15:05",
+   "end": "15:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "15:27",
+   "end": "15:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:28",
+   "end": "15:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:29",
+   "end": "16:02",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 33
+  },
+  {
+   "start": "16:02",
+   "end": "16:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "16:10",
+   "end": "16:11",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 茂木敏充経済再生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "16:11",
+   "end": "16:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "16:34",
+   "end": "16:46",
+   "category": "面会・会談",
+   "label": "河村建夫衆院議員、菅義偉官房長官",
+   "minutes": 12
+  },
+  {
+   "start": "16:46",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "17:00",
+   "end": "20:23",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 203
+  },
+  {
+   "start": "20:23",
+   "end": "20:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "20:36",
+   "end": "20:39",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 3
+  },
+  {
+   "start": "20:39",
+   "end": "20:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:40",
+   "end": "21:47",
+   "category": "国会",
+   "label": "衆院財務金融委員会",
+   "minutes": 67
+  },
+  {
+   "start": "21:47",
+   "end": "21:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "21:49",
+   "end": "21:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 51
+  },
+  {
+   "start": "22:44",
+   "end": "22:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "22:45",
+   "end": "22:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "22:50",
+   "end": "22:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "22:52",
+   "end": "23:49",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 57
+  },
+  {
+   "start": "23:49",
+   "end": "23:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "23:52",
+   "end": "24:00",
+   "category": "国会",
+   "label": "菅義偉官房長官",
+   "minutes": 8
+  }
+ ],
+ "alloc_min": {
+  "居所": 436,
+  "移動": 8,
+  "公務（内容未詳）": 396,
+  "面会・会談": 167,
+  "官邸執務": 57,
+  "国会": 376
+ }
+}

@@ -1,0 +1,292 @@
+{
+ "date": "2014-12-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 827,
+ "residence_min": 613,
+ "meetings": 0,
+ "first_work": "08:29",
+ "events": [
+  {
+   "time": "08:29",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:13",
+   "label": "街頭演説",
+   "place": "ＪＲ沼津駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "13:15",
+   "label": "街頭演説",
+   "place": "愛知県安城市 イトーヨーカドー安城店前",
+   "category": "党務"
+  },
+  {
+   "time": "14:20",
+   "label": "街頭演説",
+   "place": "同県豊田市 豊田スタジアム",
+   "category": "党務"
+  },
+  {
+   "time": "15:24",
+   "label": "街頭演説",
+   "place": "同県日進市 日進竹の山ショッピングセンター前",
+   "category": "党務"
+  },
+  {
+   "time": "16:26",
+   "label": "街頭演説",
+   "place": "名古屋市緑区 自民党衆院選立候補者事務所前",
+   "category": "党務"
+  },
+  {
+   "time": "17:29",
+   "label": "街頭演説",
+   "place": "同市千種区 今池ガスビル前",
+   "category": "党務"
+  },
+  {
+   "time": "18:13",
+   "label": "街頭演説",
+   "place": "同市中村区 ビックカメラ名古屋駅西店前",
+   "category": "党務"
+  },
+  {
+   "time": "18:38",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "ＮＨＫのインタビュー",
+   "place": "新幹線車内",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:37",
+   "label": "移動",
+   "place": "新幹線車内",
+   "category": "移動"
+  },
+  {
+   "time": "20:50",
+   "label": "党選挙対策幹部会議",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "21:44",
+   "label": "茂木敏充同党選対委員長",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "21:59",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 509
+  },
+  {
+   "start": "08:29",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "08:51",
+   "end": "10:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 82
+  },
+  {
+   "start": "10:13",
+   "end": "10:44",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "10:44",
+   "end": "13:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 151
+  },
+  {
+   "start": "13:15",
+   "end": "13:39",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "13:39",
+   "end": "14:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "14:20",
+   "end": "14:41",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 21
+  },
+  {
+   "start": "14:41",
+   "end": "15:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "15:24",
+   "end": "15:53",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "15:53",
+   "end": "16:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "16:26",
+   "end": "16:53",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "16:53",
+   "end": "17:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "17:29",
+   "end": "17:47",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 18
+  },
+  {
+   "start": "17:47",
+   "end": "18:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "18:13",
+   "end": "18:35",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "18:35",
+   "end": "18:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:38",
+   "end": "18:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "18:53",
+   "end": "19:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "19:05",
+   "end": "19:12",
+   "category": "取材・会見",
+   "label": "ＮＨＫのインタビュー",
+   "minutes": 7
+  },
+  {
+   "start": "19:12",
+   "end": "20:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 85
+  },
+  {
+   "start": "20:37",
+   "end": "20:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "20:50",
+   "end": "21:44",
+   "category": "党務",
+   "label": "党選挙対策幹部会議",
+   "minutes": 54
+  },
+  {
+   "start": "21:44",
+   "end": "21:59",
+   "category": "党務",
+   "label": "茂木敏充同党選対委員長",
+   "minutes": 15
+  },
+  {
+   "start": "21:59",
+   "end": "22:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "22:16",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 104
+  }
+ ],
+ "alloc_min": {
+  "居所": 613,
+  "移動": 67,
+  "公務（内容未詳）": 512,
+  "党務": 241,
+  "取材・会見": 7
+ }
+}

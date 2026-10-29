@@ -1,0 +1,83 @@
+{
+ "date": "2019-01-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "子どものラグビー大会を観戦",
+   "place": "ロンドン郊外のトゥイッケナム競技場",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "英国のメイ首相と「ワールド・ラグビー博物館」を視察",
+   "place": "ロンドン郊外のトゥイッケナム競技場",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "英国・ロンドンのヒースロー空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "アムステルダムのスキポール空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "英国・ロンドンのヒースロー空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日英のビジネス関係者とのレセプション",
+   "place": "首相官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "メイ首相と共同記者会見",
+   "place": "首相官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "メイ首相と会談",
+   "place": "首相官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "栄誉礼",
+   "place": "ロンドンの外務省",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "メイ首相主催昼食会",
+   "place": "ロンドン郊外のトゥイッケナム競技場",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

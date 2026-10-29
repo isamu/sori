@@ -1,0 +1,368 @@
+{
+ "date": "2017-03-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 847,
+ "residence_min": 593,
+ "meetings": 4,
+ "first_work": "06:48",
+ "events": [
+  {
+   "time": "06:48",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:22",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:08",
+   "label": "国家安全保障会議の9大臣会合",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:21",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:02",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:32",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:48",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 石兼公博総合外交政策局長 前田哲防衛政策局長 住田和明統合幕僚副長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:25",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "未来投資会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:00",
+   "label": "英国のメイ首相と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:13",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:14",
+   "label": "中川洋ジャックポットプランニング代表取締役、内薗寛仁ＴＫＣ執行役員らと会食",
+   "place": "公邸",
+   "category": "会食"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 408
+  },
+  {
+   "start": "06:48",
+   "end": "07:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "07:02",
+   "end": "07:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "07:22",
+   "end": "08:07",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 45
+  },
+  {
+   "start": "08:07",
+   "end": "08:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:08",
+   "end": "08:15",
+   "category": "官邸執務",
+   "label": "国家安全保障会議の9大臣会合",
+   "minutes": 7
+  },
+  {
+   "start": "08:15",
+   "end": "08:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:21",
+   "end": "08:37",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 16
+  },
+  {
+   "start": "08:37",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:49",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:51",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:57",
+   "end": "09:01",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 4
+  },
+  {
+   "start": "09:01",
+   "end": "09:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:02",
+   "end": "11:53",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 171
+  },
+  {
+   "start": "11:53",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:56",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 56
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "15:32",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 152
+  },
+  {
+   "start": "15:32",
+   "end": "15:47",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 15
+  },
+  {
+   "start": "15:47",
+   "end": "15:48",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 1
+  },
+  {
+   "start": "15:48",
+   "end": "15:56",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 石兼公博総合外交政策局長 前田哲防衛政策局長 住田和明統合幕僚副長",
+   "minutes": 8
+  },
+  {
+   "start": "15:56",
+   "end": "17:22",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 86
+  },
+  {
+   "start": "17:22",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:25",
+   "end": "17:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:28",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "18:00",
+   "end": "18:47",
+   "category": "官邸執務",
+   "label": "未来投資会議",
+   "minutes": 47
+  },
+  {
+   "start": "18:47",
+   "end": "19:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "19:00",
+   "end": "19:10",
+   "category": "面会・会談",
+   "label": "英国のメイ首相と電話会談",
+   "minutes": 10
+  },
+  {
+   "start": "19:10",
+   "end": "19:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:13",
+   "end": "19:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:14",
+   "end": "20:55",
+   "category": "会食",
+   "label": "中川洋ジャックポットプランニング代表取締役、内薗寛仁ＴＫＣ執行役員らと会食",
+   "minutes": 101
+  },
+  {
+   "start": "20:55",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 185
+  }
+ ],
+ "alloc_min": {
+  "居所": 593,
+  "移動": 24,
+  "公務（内容未詳）": 104,
+  "面会・会談": 78,
+  "官邸執務": 126,
+  "国会": 414,
+  "会食": 101
+ }
+}

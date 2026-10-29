@@ -1,0 +1,173 @@
+{
+ "date": "2017-02-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1299,
+ "residence_min": 141,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "18:30",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "18:40",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:02",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:09",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "19:55",
+   "label": "報道番組に出演",
+   "place": "東京・台場のフジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:26",
+   "label": "移動",
+   "place": "東京・台場のフジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": "21:00",
+   "label": "報道番組に出演",
+   "place": "東京・神南のＮＨＫ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:36",
+   "label": "移動",
+   "place": "東京・神南のＮＨＫ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "18:30",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1110
+  },
+  {
+   "start": "18:30",
+   "end": "18:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "18:40",
+   "end": "19:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "19:02",
+   "end": "19:09",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 7
+  },
+  {
+   "start": "19:09",
+   "end": "19:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "19:25",
+   "end": "19:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "19:55",
+   "end": "20:24",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 29
+  },
+  {
+   "start": "20:24",
+   "end": "20:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "20:26",
+   "end": "20:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "20:51",
+   "end": "21:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "21:00",
+   "end": "21:31",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 31
+  },
+  {
+   "start": "21:31",
+   "end": "21:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "21:36",
+   "end": "21:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "21:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 141
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1110,
+  "移動": 76,
+  "式典・行事": 7,
+  "公務（内容未詳）": 46,
+  "取材・会見": 60,
+  "居所": 141
+ }
+}

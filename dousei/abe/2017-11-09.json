@@ -1,0 +1,261 @@
+{
+ "date": "2017-11-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 854,
+ "residence_min": 586,
+ "meetings": 3,
+ "first_work": "09:46",
+ "events": [
+  {
+   "time": "09:46",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:01",
+   "label": "横倉義武日本医師会会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:30",
+   "label": "秋葉剛男審議官 山崎和之審議官 山野内勘二経済局長 真部朗審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:44",
+   "label": "河野太郎外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:50",
+   "label": "山口県の村岡嗣政知事、福田良彦岩国市長、柳居俊学県議会議長ら。岸信夫自民党県連会長同席",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "13:17",
+   "label": "岸信夫自民党県連会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "13:31",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:39",
+   "label": "昭恵夫人とともに秋の園遊会に出席",
+   "place": "東京・元赤坂 赤坂御苑",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:16",
+   "label": "移動",
+   "place": "東京・元赤坂 赤坂御苑",
+   "category": "移動"
+  },
+  {
+   "time": "16:09",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "16:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:29",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "グランド・メルキュール・ダナン",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ベトナム中部ダナンのダナン国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 586
+  },
+  {
+   "start": "09:46",
+   "end": "09:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:59",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:01",
+   "end": "10:29",
+   "category": "面会・会談",
+   "label": "横倉義武日本医師会会長",
+   "minutes": 28
+  },
+  {
+   "start": "10:29",
+   "end": "10:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:30",
+   "end": "11:43",
+   "category": "面会・会談",
+   "label": "秋葉剛男審議官 山崎和之審議官 山野内勘二経済局長 真部朗審議官",
+   "minutes": 73
+  },
+  {
+   "start": "11:43",
+   "end": "11:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:44",
+   "end": "12:07",
+   "category": "面会・会談",
+   "label": "河野太郎外相",
+   "minutes": 23
+  },
+  {
+   "start": "12:07",
+   "end": "12:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "12:50",
+   "end": "13:16",
+   "category": "党務",
+   "label": "山口県の村岡嗣政知事、福田良彦岩国市長、柳居俊学県議会議長ら。岸信夫自民党県連会長同席",
+   "minutes": 26
+  },
+  {
+   "start": "13:16",
+   "end": "13:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:17",
+   "end": "13:19",
+   "category": "党務",
+   "label": "岸信夫自民党県連会長",
+   "minutes": 2
+  },
+  {
+   "start": "13:19",
+   "end": "13:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "13:31",
+   "end": "13:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "13:39",
+   "end": "15:16",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともに秋の園遊会に出席",
+   "minutes": 97
+  },
+  {
+   "start": "15:16",
+   "end": "15:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "15:25",
+   "end": "16:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "16:09",
+   "end": "16:11",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "16:11",
+   "end": "16:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:12",
+   "end": "16:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "16:29",
+   "end": "16:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "16:56",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 424
+  }
+ ],
+ "alloc_min": {
+  "居所": 586,
+  "移動": 74,
+  "公務（内容未詳）": 105,
+  "面会・会談": 124,
+  "党務": 28,
+  "式典・行事": 97,
+  "取材・会見": 2,
+  "外遊": 424
+ }
+}

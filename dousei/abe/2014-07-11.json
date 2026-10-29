@@ -1,0 +1,89 @@
+{
+ "date": "2014-07-11",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.07.11",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 1,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間11日）午前、クラウン・プラザホテルで日・パプアニューギニア投資合同委員会発足会合に出席し、あいさつ",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "政府調達機でポートモレスビーのジャクソン国際空港発",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ウエワク空港着",
+   "place": "ウエワク空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ニューギニア戦没者の碑で黙禱（もくとう）、献花",
+   "place": "ウエワク空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "ウエワク空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "午後、ビレッジ・インでソマレ東セピック州知事主催の昼食会",
+   "place": "ウエワク空港",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ボーイズ・タウンで戦没者慰霊碑の除幕",
+   "place": "ウエワク空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ブランディ・スクールで戦没者慰霊碑の管理に携わる地元ホテルオーナーの川畑静氏と懇談",
+   "place": "ウエワク空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "政府調達機でウエワク空港発",
+   "place": "ウエワク空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "ポートモレスビーのジャクソン国際空港着。ゲートウェイホテルで同行記者団と懇談",
+   "place": "ジャクソン国際空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "エアウェイズホテル泊",
+   "place": "エアウェイズホテル",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

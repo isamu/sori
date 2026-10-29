@@ -1,0 +1,101 @@
+{
+ "date": "2015-06-06",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "大統領府",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "下水処理場改修に関する円借款署名式",
+   "place": "大統領府",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ポロシェンコ大統領と首脳会談",
+   "place": "大統領府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "閲兵式",
+   "place": "大統領府前",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "無名戦士記念碑、大飢饉犠牲者記念碑、独立広場慰霊碑に相次いで献花",
+   "place": "ウクライナ・キエフ市内",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "キエフ郊外のボリスピリ空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "視察",
+   "place": "聖ソフィア大聖堂",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "グロイスマン最高会議議長と会談",
+   "place": "最高会議",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ヤツェニュク首相と会談",
+   "place": "閣僚会議クラブ",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "視察",
+   "place": "交通警察",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "ポロシェンコ大統領主催昼食会",
+   "place": "迎賓施設「キメラズ・ハウス」",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ドイツ・ミュンヘン市内のホテル「バイエリッシャーホフ・ホテル」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ドイツ・ミュンヘンのミュンヘン国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

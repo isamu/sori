@@ -1,0 +1,187 @@
+{
+ "date": "2018-10-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 282,
+ "residence_min": 1158,
+ "meetings": 1,
+ "first_work": "09:21",
+ "events": [
+  {
+   "time": "09:21",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:33",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:38",
+   "label": "陸自ヘリ",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:03",
+   "label": "陸上総隊司令部庁舎で岩屋毅防衛相",
+   "place": "陸上自衛隊朝霞駐屯地（東京・大泉学園町など）",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:30",
+   "label": "朝霞訓練場で自衛隊観閲式に出席し、訓示。隊員の行進、航空機の飛行などを観閲",
+   "place": "陸上自衛隊朝霞駐屯地（東京・大泉学園町など）",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:32",
+   "label": "東部方面総監部庁舎で岩屋防衛相、山口那津男公明党代表らと食事",
+   "place": "陸上自衛隊朝霞駐屯地（東京・大泉学園町など）",
+   "category": "会食"
+  },
+  {
+   "time": "13:35",
+   "label": "陸自ヘリ",
+   "place": "陸上自衛隊朝霞駐屯地（東京・大泉学園町など）",
+   "category": "移動"
+  },
+  {
+   "time": "13:46",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 561
+  },
+  {
+   "start": "09:21",
+   "end": "09:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "09:38",
+   "end": "09:59",
+   "category": "移動",
+   "label": "陸自ヘリ",
+   "minutes": 21
+  },
+  {
+   "start": "09:59",
+   "end": "10:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:03",
+   "end": "10:18",
+   "category": "面会・会談",
+   "label": "陸上総隊司令部庁舎で岩屋毅防衛相",
+   "minutes": 15
+  },
+  {
+   "start": "10:18",
+   "end": "10:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "10:30",
+   "end": "12:08",
+   "category": "式典・行事",
+   "label": "朝霞訓練場で自衛隊観閲式に出席し、訓示。隊員の行進、航空機の飛行などを観閲",
+   "minutes": 98
+  },
+  {
+   "start": "12:08",
+   "end": "12:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "12:32",
+   "end": "13:07",
+   "category": "会食",
+   "label": "東部方面総監部庁舎で岩屋防衛相、山口那津男公明党代表らと食事",
+   "minutes": 35
+  },
+  {
+   "start": "13:07",
+   "end": "13:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "13:35",
+   "end": "13:46",
+   "category": "移動",
+   "label": "陸自ヘリ",
+   "minutes": 11
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "13:50",
+   "end": "14:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "14:03",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 597
+  }
+ ],
+ "alloc_min": {
+  "居所": 1158,
+  "移動": 57,
+  "官邸執務": 9,
+  "公務（内容未詳）": 68,
+  "面会・会談": 15,
+  "式典・行事": 98,
+  "会食": 35
+ }
+}

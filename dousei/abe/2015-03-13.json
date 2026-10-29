@@ -1,0 +1,462 @@
+{
+ "date": "2015-03-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 841,
+ "residence_min": 599,
+ "meetings": 5,
+ "first_work": "07:05",
+ "events": [
+  {
+   "time": "07:05",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:18",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:18",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:59",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:33",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院財務金融委員会",
+   "place": "国会 衆院第１５委員室",
+   "category": "国会"
+  },
+  {
+   "time": "15:01",
+   "label": "移動",
+   "place": "国会 衆院第１５委員室",
+   "category": "移動"
+  },
+  {
+   "time": "15:20",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:32",
+   "label": "山谷えり子拉致問題担当相 石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:03",
+   "label": "バッハ国際オリンピック委員会（ＩＯＣ）会長による表敬。竹田恒和日本オリンピック委員会（ＪＯＣ）会長、下村博文文部科学相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:25",
+   "label": "フランスのファビウス外相、ルドリアン国防相。岸田文雄外相、中谷元防衛相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:55",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:57",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "17:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "18:31",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "18:52",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "19:01",
+   "label": "衆院の町村信孝、川端達夫正副議長、林幹雄議院運営委員長、与野党各会派にあいさつまわり。麻生太郎副総理兼財務相、菅義偉官房長官ら同行",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "19:16",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "19:32",
+   "label": "ケニアのケニヤッタ大統領を歓迎する首相主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:49",
+   "label": "ケニヤッタ大統領を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:51",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 425
+  },
+  {
+   "start": "07:05",
+   "end": "07:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "07:16",
+   "end": "07:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "07:18",
+   "end": "08:00",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 42
+  },
+  {
+   "start": "08:00",
+   "end": "08:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "08:18",
+   "end": "08:29",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "08:29",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "08:50",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:51",
+   "end": "08:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:59",
+   "end": "12:29",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 210
+  },
+  {
+   "start": "12:29",
+   "end": "12:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 19
+  },
+  {
+   "start": "12:52",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:00",
+   "end": "15:00",
+   "category": "国会",
+   "label": "衆院財務金融委員会",
+   "minutes": 120
+  },
+  {
+   "start": "15:00",
+   "end": "15:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:01",
+   "end": "15:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:03",
+   "end": "15:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "15:20",
+   "end": "15:31",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 11
+  },
+  {
+   "start": "15:31",
+   "end": "15:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:32",
+   "end": "15:49",
+   "category": "面会・会談",
+   "label": "山谷えり子拉致問題担当相 石川正一郎拉致問題対策本部事務局長",
+   "minutes": 17
+  },
+  {
+   "start": "15:49",
+   "end": "16:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "16:03",
+   "end": "16:16",
+   "category": "面会・会談",
+   "label": "バッハ国際オリンピック委員会（ＩＯＣ）会長による表敬。竹田恒和日本オリンピック委員会（ＪＯＣ）会長、下村博文文部科学相同席",
+   "minutes": 13
+  },
+  {
+   "start": "16:16",
+   "end": "16:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "16:25",
+   "end": "16:45",
+   "category": "面会・会談",
+   "label": "フランスのファビウス外相、ルドリアン国防相。岸田文雄外相、中谷元防衛相同席",
+   "minutes": 20
+  },
+  {
+   "start": "16:45",
+   "end": "16:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "16:55",
+   "end": "16:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:56",
+   "end": "16:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "16:59",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:02",
+   "end": "18:29",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 87
+  },
+  {
+   "start": "18:29",
+   "end": "18:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 20
+  },
+  {
+   "start": "18:51",
+   "end": "18:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:52",
+   "end": "19:00",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 8
+  },
+  {
+   "start": "19:00",
+   "end": "19:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:01",
+   "end": "19:15",
+   "category": "国会",
+   "label": "衆院の町村信孝、川端達夫正副議長、林幹雄議院運営委員長、与野党各会派にあいさつまわり。麻生太郎副総理兼財務相、菅義偉官房長官ら同行",
+   "minutes": 14
+  },
+  {
+   "start": "19:15",
+   "end": "19:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:16",
+   "end": "19:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:17",
+   "end": "19:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "19:32",
+   "end": "20:49",
+   "category": "会食",
+   "label": "ケニアのケニヤッタ大統領を歓迎する首相主催の夕食会",
+   "minutes": 77
+  },
+  {
+   "start": "20:49",
+   "end": "20:51",
+   "category": "式典・行事",
+   "label": "ケニヤッタ大統領を見送り",
+   "minutes": 2
+  },
+  {
+   "start": "20:51",
+   "end": "21:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "21:06",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 174
+  }
+ ],
+ "alloc_min": {
+  "居所": 599,
+  "移動": 31,
+  "公務（内容未詳）": 137,
+  "面会・会談": 103,
+  "官邸執務": 11,
+  "国会": 480,
+  "会食": 77,
+  "式典・行事": 2
+ }
+}

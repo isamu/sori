@@ -1,0 +1,602 @@
+{
+ "date": "2016-01-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 759,
+ "residence_min": 681,
+ "meetings": 4,
+ "first_work": "08:34",
+ "events": [
+  {
+   "time": "08:34",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:27",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:00",
+   "label": "記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:25",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:31",
+   "label": "党新年仕事始めに出席し、あいさつ",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:02",
+   "label": "党役員会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:28",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "11:31",
+   "label": "党両院議員総会",
+   "place": "国会 衆院第14控室",
+   "category": "党務"
+  },
+  {
+   "time": "11:51",
+   "label": "同党代議士会",
+   "place": "国会 衆院第14控室",
+   "category": "党務"
+  },
+  {
+   "time": "12:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "12:17",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "第190通常国会開会式",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:12",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "13:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:40",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:42",
+   "label": "大島理森、川端達夫正副議長にあいさつ。菅義偉、萩生田光一正副官房長官同席",
+   "place": "国会 衆院議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:50",
+   "label": "山崎正昭議長にあいさつ。菅、世耕弘成正副官房長官同席",
+   "place": "国会 参院議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:51",
+   "label": "輿石東副議長にあいさつ。菅、世耕正副官房長官同席",
+   "place": "国会 参院副議長室",
+   "category": "国会"
+  },
+  {
+   "time": "13:54",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:01",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:22",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "14:31",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:48",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "15:11",
+   "label": "河井克行首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:44",
+   "label": "下村博文自民党総裁特別補佐",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:29",
+   "label": "伊達忠一自民党参院幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:59",
+   "label": "黒江哲郎事務次官 深山延暁人事教育局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:19",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:28",
+   "label": "秘書官ら官邸職員と食事",
+   "place": "東京・赤坂 日本料理店「京都　瓢※（※＝口ヘンに喜）　赤坂店」",
+   "category": "会食"
+  },
+  {
+   "time": "20:59",
+   "label": "移動",
+   "place": "東京・赤坂 日本料理店「京都　瓢※（※＝口ヘンに喜）　赤坂店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:34",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 514
+  },
+  {
+   "start": "08:34",
+   "end": "08:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "08:45",
+   "end": "09:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "09:27",
+   "end": "09:38",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 11
+  },
+  {
+   "start": "09:38",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "10:00",
+   "end": "10:23",
+   "category": "取材・会見",
+   "label": "記者会見",
+   "minutes": 23
+  },
+  {
+   "start": "10:23",
+   "end": "10:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:25",
+   "end": "10:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:28",
+   "end": "10:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:31",
+   "end": "10:51",
+   "category": "党務",
+   "label": "党新年仕事始めに出席し、あいさつ",
+   "minutes": 20
+  },
+  {
+   "start": "10:51",
+   "end": "11:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "11:02",
+   "end": "11:17",
+   "category": "党務",
+   "label": "党役員会",
+   "minutes": 15
+  },
+  {
+   "start": "11:17",
+   "end": "11:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "11:28",
+   "end": "11:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "11:30",
+   "end": "11:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:31",
+   "end": "11:41",
+   "category": "党務",
+   "label": "党両院議員総会",
+   "minutes": 10
+  },
+  {
+   "start": "11:41",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "11:51",
+   "end": "11:55",
+   "category": "党務",
+   "label": "同党代議士会",
+   "minutes": 4
+  },
+  {
+   "start": "11:55",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "12:02",
+   "end": "12:15",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 13
+  },
+  {
+   "start": "12:15",
+   "end": "12:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 35
+  },
+  {
+   "start": "12:52",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:00",
+   "end": "13:08",
+   "category": "国会",
+   "label": "第190通常国会開会式",
+   "minutes": 8
+  },
+  {
+   "start": "13:08",
+   "end": "13:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:12",
+   "end": "13:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 26
+  },
+  {
+   "start": "13:40",
+   "end": "13:41",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:41",
+   "end": "13:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:42",
+   "end": "13:48",
+   "category": "国会",
+   "label": "大島理森、川端達夫正副議長にあいさつ。菅義偉、萩生田光一正副官房長官同席",
+   "minutes": 6
+  },
+  {
+   "start": "13:48",
+   "end": "13:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:50",
+   "end": "13:51",
+   "category": "国会",
+   "label": "山崎正昭議長にあいさつ。菅、世耕弘成正副官房長官同席",
+   "minutes": 1
+  },
+  {
+   "start": "13:51",
+   "end": "13:52",
+   "category": "国会",
+   "label": "輿石東副議長にあいさつ。菅、世耕正副官房長官同席",
+   "minutes": 1
+  },
+  {
+   "start": "13:52",
+   "end": "13:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "14:00",
+   "end": "14:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:01",
+   "end": "14:19",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 18
+  },
+  {
+   "start": "14:19",
+   "end": "14:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 5
+  },
+  {
+   "start": "14:27",
+   "end": "14:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "14:31",
+   "end": "14:45",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 14
+  },
+  {
+   "start": "14:45",
+   "end": "14:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:48",
+   "end": "14:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "14:51",
+   "end": "15:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "15:11",
+   "end": "15:26",
+   "category": "面会・会談",
+   "label": "河井克行首相補佐官",
+   "minutes": 15
+  },
+  {
+   "start": "15:26",
+   "end": "15:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "15:44",
+   "end": "15:52",
+   "category": "面会・会談",
+   "label": "下村博文自民党総裁特別補佐",
+   "minutes": 8
+  },
+  {
+   "start": "15:52",
+   "end": "16:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "16:29",
+   "end": "16:58",
+   "category": "面会・会談",
+   "label": "伊達忠一自民党参院幹事長",
+   "minutes": 29
+  },
+  {
+   "start": "16:58",
+   "end": "16:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:59",
+   "end": "17:13",
+   "category": "面会・会談",
+   "label": "黒江哲郎事務次官 深山延暁人事教育局長",
+   "minutes": 14
+  },
+  {
+   "start": "17:13",
+   "end": "18:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 66
+  },
+  {
+   "start": "18:19",
+   "end": "18:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "18:28",
+   "end": "20:59",
+   "category": "会食",
+   "label": "秘書官ら官邸職員と食事",
+   "minutes": 151
+  },
+  {
+   "start": "20:59",
+   "end": "21:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "21:13",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 167
+  }
+ ],
+ "alloc_min": {
+  "居所": 681,
+  "移動": 45,
+  "公務（内容未詳）": 281,
+  "官邸執務": 37,
+  "取材・会見": 23,
+  "党務": 49,
+  "国会": 107,
+  "面会・会談": 66,
+  "会食": 151
+ }
+}

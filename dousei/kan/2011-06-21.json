@@ -1,0 +1,325 @@
+{
+ "date": "2011-06-21",
+ "pm": "菅直人",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2011.06.21",
+ "work_min": 644,
+ "residence_min": 796,
+ "meetings": 19,
+ "first_work": "09:07",
+ "events": [
+  {
+   "time": "09:07",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:08",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "09:15",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:34",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:11",
+   "label": "民主党の岡田幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:26",
+   "label": "岡田氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:12",
+   "label": "岡田幹事長、同党の輿石参院議員会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:21",
+   "label": "枝野官房長官加わる",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:34",
+   "label": "岡田氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:37",
+   "label": "枝野氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:38",
+   "label": "輿石氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:18",
+   "label": "枝野長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:31",
+   "label": "民主党の安住国対委員長加わる",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:38",
+   "label": "岡田幹事長、同党の玄葉政調会長加わる",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:00",
+   "label": "全員出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:30",
+   "label": "同党の寺田学衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:50",
+   "label": "寺田氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:44",
+   "label": "阿久津内閣府政務官、同党の加藤公一衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:13",
+   "label": "寺田衆院議員加わる",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:54",
+   "label": "全員出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:55",
+   "label": "同党の斎藤国対委員長代理",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:33",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:53",
+   "label": "岡田幹事長、枝野長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:11",
+   "label": "両氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 547
+  },
+  {
+   "start": "09:07",
+   "end": "09:08",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "09:08",
+   "end": "09:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "09:15",
+   "end": "09:34",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 19
+  },
+  {
+   "start": "09:34",
+   "end": "10:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "10:11",
+   "end": "10:26",
+   "category": "面会・会談",
+   "label": "民主党の岡田幹事長",
+   "minutes": 15
+  },
+  {
+   "start": "10:26",
+   "end": "11:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "11:12",
+   "end": "11:21",
+   "category": "面会・会談",
+   "label": "岡田幹事長、同党の輿石参院議員会長",
+   "minutes": 9
+  },
+  {
+   "start": "11:21",
+   "end": "11:38",
+   "category": "面会・会談",
+   "label": "枝野官房長官加わる",
+   "minutes": 17
+  },
+  {
+   "start": "11:38",
+   "end": "12:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "12:18",
+   "end": "12:31",
+   "category": "面会・会談",
+   "label": "枝野長官",
+   "minutes": 13
+  },
+  {
+   "start": "12:31",
+   "end": "12:38",
+   "category": "面会・会談",
+   "label": "民主党の安住国対委員長加わる",
+   "minutes": 7
+  },
+  {
+   "start": "12:38",
+   "end": "14:00",
+   "category": "面会・会談",
+   "label": "岡田幹事長、同党の玄葉政調会長加わる",
+   "minutes": 82
+  },
+  {
+   "start": "14:00",
+   "end": "16:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 150
+  },
+  {
+   "start": "16:30",
+   "end": "16:50",
+   "category": "面会・会談",
+   "label": "同党の寺田学衆院議員",
+   "minutes": 20
+  },
+  {
+   "start": "16:50",
+   "end": "17:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 54
+  },
+  {
+   "start": "17:44",
+   "end": "18:13",
+   "category": "面会・会談",
+   "label": "阿久津内閣府政務官、同党の加藤公一衆院議員",
+   "minutes": 29
+  },
+  {
+   "start": "18:13",
+   "end": "18:54",
+   "category": "面会・会談",
+   "label": "寺田衆院議員加わる",
+   "minutes": 41
+  },
+  {
+   "start": "18:54",
+   "end": "18:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:55",
+   "end": "19:33",
+   "category": "面会・会談",
+   "label": "同党の斎藤国対委員長代理",
+   "minutes": 38
+  },
+  {
+   "start": "19:33",
+   "end": "20:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 80
+  },
+  {
+   "start": "20:53",
+   "end": "21:11",
+   "category": "面会・会談",
+   "label": "岡田幹事長、枝野長官",
+   "minutes": 18
+  },
+  {
+   "start": "21:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 169
+  }
+ ],
+ "alloc_min": {
+  "居所": 796,
+  "移動": 1,
+  "公務（内容未詳）": 335,
+  "官邸執務": 19,
+  "面会・会談": 289
+ }
+}

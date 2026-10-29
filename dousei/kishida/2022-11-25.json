@@ -1,0 +1,422 @@
+{
+ "date": "2022-11-25",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 905,
+ "residence_min": 515,
+ "meetings": 4,
+ "first_work": "06:05",
+ "events": [
+  {
+   "time": "06:05",
+   "label": "木原誠二官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "06:59",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:06",
+   "label": "木原誠二官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:27",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:02",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:07",
+   "label": "同ホテル内の宴会場「鳳凰の間」で裕子夫人とともに自民党衆院議員の夫人でつくる「ＬＤＰワイヴズネットワーク」の会合に出席し、あいさつ",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "党務"
+  },
+  {
+   "time": "12:27",
+   "label": "移動",
+   "place": "東京・紀尾井町 ホテルニューオータニ",
+   "category": "移動"
+  },
+  {
+   "time": "12:34",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:04",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:15",
+   "label": "滝沢裕昭内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:31",
+   "label": "資産所得倍増分科会",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:41",
+   "label": "ブレンデ世界経済フォーラム総裁",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:26",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:38",
+   "label": "自衛隊が運営する新型コロナウイルスワクチン大規模接種会場でワクチン接種",
+   "place": "東京・大手町 大手町合同庁舎３号館",
+   "category": "個人"
+  },
+  {
+   "time": "18:58",
+   "label": "報道各社のインタビュー",
+   "place": "東京・大手町 大手町合同庁舎３号館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:03",
+   "label": "移動",
+   "place": "東京・大手町 大手町合同庁舎３号館",
+   "category": "移動"
+  },
+  {
+   "time": "19:20",
+   "label": "萩生田光一自民党政調会長と会食",
+   "place": "東京・銀座 日本料理店「加賀屋銀座店」",
+   "category": "会食"
+  },
+  {
+   "time": "21:22",
+   "label": "移動",
+   "place": "東京・銀座 日本料理店「加賀屋銀座店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 365
+  },
+  {
+   "start": "06:05",
+   "end": "06:58",
+   "category": "面会・会談",
+   "label": "木原誠二官房副長官",
+   "minutes": 53
+  },
+  {
+   "start": "06:58",
+   "end": "06:59",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "06:59",
+   "end": "07:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:00",
+   "end": "07:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:06",
+   "end": "08:20",
+   "category": "面会・会談",
+   "label": "木原誠二官房副長官",
+   "minutes": 74
+  },
+  {
+   "start": "08:20",
+   "end": "08:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:27",
+   "end": "08:35",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "08:35",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:58",
+   "end": "12:00",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 182
+  },
+  {
+   "start": "12:00",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:02",
+   "end": "12:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "12:07",
+   "end": "12:27",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「鳳凰の間」で裕子夫人とともに自民党衆院議員の夫人でつくる「ＬＤＰワイヴズネットワーク」の会合に出席し、あいさつ",
+   "minutes": 20
+  },
+  {
+   "start": "12:27",
+   "end": "12:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 17
+  },
+  {
+   "start": "12:51",
+   "end": "12:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:52",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:00",
+   "end": "17:01",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 241
+  },
+  {
+   "start": "17:01",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:04",
+   "end": "17:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:05",
+   "end": "17:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "17:15",
+   "end": "17:24",
+   "category": "面会・会談",
+   "label": "滝沢裕昭内閣情報官",
+   "minutes": 9
+  },
+  {
+   "start": "17:24",
+   "end": "17:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "17:31",
+   "end": "17:39",
+   "category": "官邸執務",
+   "label": "資産所得倍増分科会",
+   "minutes": 8
+  },
+  {
+   "start": "17:39",
+   "end": "17:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:41",
+   "end": "18:00",
+   "category": "面会・会談",
+   "label": "ブレンデ世界経済フォーラム総裁",
+   "minutes": 19
+  },
+  {
+   "start": "18:00",
+   "end": "18:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "18:26",
+   "end": "18:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "18:38",
+   "end": "18:58",
+   "category": "個人",
+   "label": "自衛隊が運営する新型コロナウイルスワクチン大規模接種会場でワクチン接種",
+   "minutes": 20
+  },
+  {
+   "start": "18:58",
+   "end": "19:02",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 4
+  },
+  {
+   "start": "19:02",
+   "end": "19:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:03",
+   "end": "19:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "19:20",
+   "end": "21:22",
+   "category": "会食",
+   "label": "萩生田光一自民党政調会長と会食",
+   "minutes": 122
+  },
+  {
+   "start": "21:22",
+   "end": "21:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "21:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 149
+  }
+ ],
+ "alloc_min": {
+  "居所": 515,
+  "面会・会談": 155,
+  "移動": 54,
+  "公務（内容未詳）": 94,
+  "官邸執務": 33,
+  "国会": 423,
+  "党務": 20,
+  "個人": 20,
+  "取材・会見": 4,
+  "会食": 122
+ }
+}

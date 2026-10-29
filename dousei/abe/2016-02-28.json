@@ -1,0 +1,77 @@
+{
+ "date": "2016-02-28",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 140,
+ "residence_min": 1300,
+ "meetings": 0,
+ "first_work": "13:35",
+ "events": [
+  {
+   "time": "13:35",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:46",
+   "label": "1億総活躍社会の実現に向けた対話集会に出席",
+   "place": "東京・霞が関 中央合同庁舎７号館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:41",
+   "label": "移動",
+   "place": "東京・霞が関 中央合同庁舎７号館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:35",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 815
+  },
+  {
+   "start": "13:35",
+   "end": "13:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "13:46",
+   "end": "15:41",
+   "category": "式典・行事",
+   "label": "1億総活躍社会の実現に向けた対話集会に出席",
+   "minutes": 115
+  },
+  {
+   "start": "15:41",
+   "end": "15:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "15:55",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 485
+  }
+ ],
+ "alloc_min": {
+  "居所": 1300,
+  "移動": 25,
+  "式典・行事": 115
+ }
+}

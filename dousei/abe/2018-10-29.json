@@ -1,0 +1,389 @@
+{
+ "date": "2018-10-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 696,
+ "residence_min": 744,
+ "meetings": 3,
+ "first_work": "09:26",
+ "events": [
+  {
+   "time": "09:26",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:38",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "09:45",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "10:05",
+   "label": "西村康稔官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:39",
+   "label": "国会 衆院議長応接室",
+   "place": "国会 衆院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:47",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:11",
+   "label": "国会 院内大臣室",
+   "place": "国会 院内大臣室",
+   "category": "国会"
+  },
+  {
+   "time": "16:16",
+   "label": "熊本市長選立候補予定者に推薦証渡し",
+   "place": "国会 自民党幹事長会議室",
+   "category": "党務"
+  },
+  {
+   "time": "16:24",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "16:43",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:26",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:01",
+   "label": "インドのモディ首相を出迎え。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:02",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:11",
+   "label": "モディ首相と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:18",
+   "label": "日印ビジネス・リーダーズ・フォーラムの出席者と写真撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:22",
+   "label": "モディ首相と署名式、文書交換式、共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:46",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:47",
+   "label": "安倍晋三首相夫妻主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "21:02",
+   "label": "昭恵夫人とともにモディ首相を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 566
+  },
+  {
+   "start": "09:26",
+   "end": "09:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:38",
+   "end": "09:45",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 7
+  },
+  {
+   "start": "09:45",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "09:55",
+   "end": "10:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "10:05",
+   "end": "12:06",
+   "category": "面会・会談",
+   "label": "西村康稔官房副長官",
+   "minutes": 121
+  },
+  {
+   "start": "12:06",
+   "end": "13:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 90
+  },
+  {
+   "start": "13:36",
+   "end": "13:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:37",
+   "end": "13:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "13:45",
+   "end": "13:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:47",
+   "end": "16:09",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 142
+  },
+  {
+   "start": "16:09",
+   "end": "16:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "16:15",
+   "end": "16:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:16",
+   "end": "16:19",
+   "category": "党務",
+   "label": "熊本市長選立候補予定者に推薦証渡し",
+   "minutes": 3
+  },
+  {
+   "start": "16:19",
+   "end": "16:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "16:24",
+   "end": "16:41",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 17
+  },
+  {
+   "start": "16:41",
+   "end": "16:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:43",
+   "end": "16:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:45",
+   "end": "17:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "17:26",
+   "end": "17:30",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 4
+  },
+  {
+   "start": "17:30",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "18:01",
+   "end": "18:02",
+   "category": "式典・行事",
+   "label": "インドのモディ首相を出迎え。記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "18:02",
+   "end": "18:08",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 6
+  },
+  {
+   "start": "18:08",
+   "end": "18:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:11",
+   "end": "19:15",
+   "category": "面会・会談",
+   "label": "モディ首相と首脳会談",
+   "minutes": 64
+  },
+  {
+   "start": "19:15",
+   "end": "19:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:18",
+   "end": "19:21",
+   "category": "式典・行事",
+   "label": "日印ビジネス・リーダーズ・フォーラムの出席者と写真撮影",
+   "minutes": 3
+  },
+  {
+   "start": "19:21",
+   "end": "19:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:22",
+   "end": "19:44",
+   "category": "取材・会見",
+   "label": "モディ首相と署名式、文書交換式、共同記者発表",
+   "minutes": 22
+  },
+  {
+   "start": "19:44",
+   "end": "19:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:46",
+   "end": "19:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:47",
+   "end": "21:02",
+   "category": "会食",
+   "label": "安倍晋三首相夫妻主催の夕食会",
+   "minutes": 75
+  },
+  {
+   "start": "21:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 178
+  }
+ ],
+ "alloc_min": {
+  "居所": 744,
+  "移動": 26,
+  "式典・行事": 17,
+  "公務（内容未詳）": 195,
+  "面会・会談": 189,
+  "国会": 152,
+  "党務": 20,
+  "取材・会見": 22,
+  "会食": 75
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "date": "2019-12-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 470,
+ "residence_min": 970,
+ "meetings": 0,
+ "first_work": "07:23",
+ "events": [
+  {
+   "time": "07:23",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:45",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "09:54",
+   "label": "ＪＲ上越妙高駅",
+   "place": "ＪＲ上越妙高駅",
+   "category": "移動"
+  },
+  {
+   "time": "09:58",
+   "label": "移動",
+   "place": "ＪＲ上越妙高駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:00",
+   "label": "故高鳥修元経済企画庁長官のお別れの会に出席。弔辞、献花",
+   "place": "新潟県上越市 上越文化会館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:59",
+   "label": "移動",
+   "place": "新潟県上越市 上越文化会館",
+   "category": "移動"
+  },
+  {
+   "time": "12:36",
+   "label": "下村博文自民党選対委員長",
+   "place": "ＪＲ上越妙高駅",
+   "category": "党務"
+  },
+  {
+   "time": "14:51",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:55",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 443
+  },
+  {
+   "start": "07:23",
+   "end": "07:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "07:45",
+   "end": "07:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "07:52",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 122
+  },
+  {
+   "start": "09:54",
+   "end": "09:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "09:58",
+   "end": "10:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "10:21",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "11:00",
+   "end": "11:59",
+   "category": "式典・行事",
+   "label": "故高鳥修元経済企画庁長官のお別れの会に出席。弔辞、献花",
+   "minutes": 59
+  },
+  {
+   "start": "11:59",
+   "end": "12:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "12:20",
+   "end": "12:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "12:36",
+   "end": "12:56",
+   "category": "党務",
+   "label": "下村博文自民党選対委員長",
+   "minutes": 20
+  },
+  {
+   "start": "12:56",
+   "end": "14:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 115
+  },
+  {
+   "start": "14:51",
+   "end": "14:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 4
+  },
+  {
+   "start": "14:55",
+   "end": "15:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 22
+  },
+  {
+   "start": "15:17",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 523
+  }
+ ],
+ "alloc_min": {
+  "居所": 970,
+  "移動": 92,
+  "公務（内容未詳）": 299,
+  "式典・行事": 59,
+  "党務": 20
+ }
+}

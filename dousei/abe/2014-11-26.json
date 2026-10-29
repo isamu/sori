@@ -1,0 +1,195 @@
+{
+ "date": "2014-11-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 768,
+ "residence_min": 672,
+ "meetings": 0,
+ "first_work": "08:07",
+ "events": [
+  {
+   "time": "08:07",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:24",
+   "label": "勝部修岩手県一関市長出迎え",
+   "place": "ＪＲ一ノ関駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:52",
+   "label": "視察、住民と対話集会",
+   "place": "同県陸前高田市 仮設団地",
+   "category": "視察"
+  },
+  {
+   "time": "13:49",
+   "label": "すし店「味と人情の鶴亀鮨」で昼食",
+   "place": "同市 仮設商店街「陸前高田未来商店街」",
+   "category": "会食"
+  },
+  {
+   "time": "14:14",
+   "label": "視察",
+   "place": "同市 仮設商店街「陸前高田未来商店街」",
+   "category": "視察"
+  },
+  {
+   "time": "16:26",
+   "label": "街頭演説",
+   "place": "盛岡市 百貨店「パルクアベニューカワトク」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:07",
+   "label": "同社の三浦宏会長、東根千万億社長。同社のインタビュー",
+   "place": "同市 岩手日報社",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:36",
+   "label": "移動",
+   "place": "同市 岩手日報社",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 487
+  },
+  {
+   "start": "08:07",
+   "end": "08:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "08:40",
+   "end": "11:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 164
+  },
+  {
+   "start": "11:24",
+   "end": "11:28",
+   "category": "移動",
+   "label": "勝部修岩手県一関市長出迎え",
+   "minutes": 4
+  },
+  {
+   "start": "11:28",
+   "end": "12:52",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 84
+  },
+  {
+   "start": "12:52",
+   "end": "13:32",
+   "category": "視察",
+   "label": "視察、住民と対話集会",
+   "minutes": 40
+  },
+  {
+   "start": "13:32",
+   "end": "13:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "13:49",
+   "end": "14:13",
+   "category": "会食",
+   "label": "すし店「味と人情の鶴亀鮨」で昼食",
+   "minutes": 24
+  },
+  {
+   "start": "14:13",
+   "end": "14:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:14",
+   "end": "14:17",
+   "category": "視察",
+   "label": "視察",
+   "minutes": 3
+  },
+  {
+   "start": "14:17",
+   "end": "16:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 129
+  },
+  {
+   "start": "16:26",
+   "end": "16:53",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "16:53",
+   "end": "17:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "17:07",
+   "end": "17:36",
+   "category": "取材・会見",
+   "label": "同社の三浦宏会長、東根千万億社長。同社のインタビュー",
+   "minutes": 29
+  },
+  {
+   "start": "17:36",
+   "end": "20:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 180
+  },
+  {
+   "start": "20:36",
+   "end": "20:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "20:55",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 185
+  }
+ ],
+ "alloc_min": {
+  "居所": 672,
+  "移動": 56,
+  "公務（内容未詳）": 505,
+  "視察": 127,
+  "会食": 24,
+  "党務": 27,
+  "取材・会見": 29
+ }
+}

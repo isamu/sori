@@ -1,0 +1,581 @@
+{
+ "date": "2016-04-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 887,
+ "residence_min": 553,
+ "meetings": 15,
+ "first_work": "00:08",
+ "events": [
+  {
+   "time": "00:08",
+   "label": "菅義偉官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "00:34",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "00:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "01:40",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "07:03",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:05",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "07:06",
+   "label": "河野太郎防災担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:08",
+   "label": "地震非常災害対策本部会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:26",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:51",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:55",
+   "label": "衆院環太平洋連携協定(TPP)特別委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "09:00",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "11:09",
+   "label": "河野太郎防災担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:27",
+   "label": "高市早苗総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:38",
+   "label": "中谷元防衛相 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:53",
+   "label": "河野太郎防災担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:26",
+   "label": "石井啓一国土交通相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:57",
+   "label": "塩崎恭久厚生労働相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:27",
+   "label": "黒江哲郎事務次官 前田哲防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:54",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:06",
+   "label": "林幹雄経済産業相 日下部聡資源エネルギー庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:05",
+   "label": "非常災害対策本部会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:45",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 秋葉剛男総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:48",
+   "label": "長嶺安政外務審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:23",
+   "label": "尾身幸次元科学技術担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:06",
+   "label": "菅義偉官房長官 河野防災担当相",
+   "place": "官邸 危機管理センター",
+   "category": "面会・会談"
+  },
+  {
+   "time": "20:15",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "20:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "00:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 8
+  },
+  {
+   "start": "00:08",
+   "end": "00:29",
+   "category": "面会・会談",
+   "label": "菅義偉官房長官",
+   "minutes": 21
+  },
+  {
+   "start": "00:29",
+   "end": "00:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "00:34",
+   "end": "00:35",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "00:35",
+   "end": "00:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "00:36",
+   "end": "00:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "00:37",
+   "end": "01:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 63
+  },
+  {
+   "start": "01:40",
+   "end": "07:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 323
+  },
+  {
+   "start": "07:03",
+   "end": "07:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:04",
+   "end": "07:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:05",
+   "end": "07:06",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "07:06",
+   "end": "07:22",
+   "category": "面会・会談",
+   "label": "河野太郎防災担当相",
+   "minutes": 16
+  },
+  {
+   "start": "07:22",
+   "end": "08:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 46
+  },
+  {
+   "start": "08:08",
+   "end": "08:20",
+   "category": "官邸執務",
+   "label": "地震非常災害対策本部会議",
+   "minutes": 12
+  },
+  {
+   "start": "08:20",
+   "end": "08:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:26",
+   "end": "08:35",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "08:35",
+   "end": "08:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "08:51",
+   "end": "08:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:52",
+   "end": "08:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:55",
+   "end": "08:58",
+   "category": "国会",
+   "label": "衆院環太平洋連携協定(TPP)特別委員会",
+   "minutes": 3
+  },
+  {
+   "start": "08:58",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:00",
+   "end": "09:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:02",
+   "end": "11:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 127
+  },
+  {
+   "start": "11:09",
+   "end": "11:26",
+   "category": "面会・会談",
+   "label": "河野太郎防災担当相",
+   "minutes": 17
+  },
+  {
+   "start": "11:26",
+   "end": "11:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:27",
+   "end": "11:37",
+   "category": "面会・会談",
+   "label": "高市早苗総務相",
+   "minutes": 10
+  },
+  {
+   "start": "11:37",
+   "end": "11:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:38",
+   "end": "11:48",
+   "category": "面会・会談",
+   "label": "中谷元防衛相 河野克俊統合幕僚長",
+   "minutes": 10
+  },
+  {
+   "start": "11:48",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 65
+  },
+  {
+   "start": "12:53",
+   "end": "13:08",
+   "category": "面会・会談",
+   "label": "河野太郎防災担当相",
+   "minutes": 15
+  },
+  {
+   "start": "13:08",
+   "end": "13:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "13:26",
+   "end": "13:38",
+   "category": "面会・会談",
+   "label": "石井啓一国土交通相",
+   "minutes": 12
+  },
+  {
+   "start": "13:38",
+   "end": "13:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "13:57",
+   "end": "14:15",
+   "category": "面会・会談",
+   "label": "塩崎恭久厚生労働相",
+   "minutes": 18
+  },
+  {
+   "start": "14:15",
+   "end": "14:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "14:27",
+   "end": "14:53",
+   "category": "面会・会談",
+   "label": "黒江哲郎事務次官 前田哲防衛政策局長",
+   "minutes": 26
+  },
+  {
+   "start": "14:53",
+   "end": "14:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:54",
+   "end": "15:05",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 11
+  },
+  {
+   "start": "15:05",
+   "end": "15:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:06",
+   "end": "15:14",
+   "category": "面会・会談",
+   "label": "林幹雄経済産業相 日下部聡資源エネルギー庁長官",
+   "minutes": 8
+  },
+  {
+   "start": "15:14",
+   "end": "16:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "16:05",
+   "end": "16:22",
+   "category": "官邸執務",
+   "label": "非常災害対策本部会議",
+   "minutes": 17
+  },
+  {
+   "start": "16:22",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "16:45",
+   "end": "17:06",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 秋葉剛男総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "minutes": 21
+  },
+  {
+   "start": "17:06",
+   "end": "17:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "17:48",
+   "end": "18:22",
+   "category": "面会・会談",
+   "label": "長嶺安政外務審議官",
+   "minutes": 34
+  },
+  {
+   "start": "18:22",
+   "end": "18:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:23",
+   "end": "18:43",
+   "category": "面会・会談",
+   "label": "尾身幸次元科学技術担当相",
+   "minutes": 20
+  },
+  {
+   "start": "18:43",
+   "end": "20:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 83
+  },
+  {
+   "start": "20:06",
+   "end": "20:14",
+   "category": "面会・会談",
+   "label": "菅義偉官房長官 河野防災担当相",
+   "minutes": 8
+  },
+  {
+   "start": "20:14",
+   "end": "20:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:15",
+   "end": "20:16",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "20:16",
+   "end": "20:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "20:17",
+   "end": "20:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "20:18",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 222
+  }
+ ],
+ "alloc_min": {
+  "居所": 553,
+  "面会・会談": 247,
+  "公務（内容未詳）": 590,
+  "取材・会見": 3,
+  "移動": 6,
+  "官邸執務": 38,
+  "国会": 3
+ }
+}

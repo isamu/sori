@@ -1,0 +1,130 @@
+{
+ "date": "2015-04-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 77,
+ "residence_min": 1279,
+ "meetings": 0,
+ "first_work": "13:44",
+ "events": [
+  {
+   "time": "13:44",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:54",
+   "label": "同ホテル内の「村儀理容室」で散髪",
+   "place": "東京・西新宿 ホテル「ヒルトン東京」",
+   "category": "個人"
+  },
+  {
+   "time": "15:18",
+   "label": "移動",
+   "place": "東京・西新宿 ホテル「ヒルトン東京」",
+   "category": "移動"
+  },
+  {
+   "time": "15:28",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "16:51",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:57",
+   "label": "良子さんをしのぶ集いに出席",
+   "place": "東京・青葉台 故盛田昭夫ソニー創業者の妻故良子さん宅",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:40",
+   "label": "移動",
+   "place": "東京・青葉台 故盛田昭夫ソニー創業者の妻故良子さん宅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 824
+  },
+  {
+   "start": "13:44",
+   "end": "13:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "13:54",
+   "end": "15:18",
+   "category": "個人",
+   "label": "同ホテル内の「村儀理容室」で散髪",
+   "minutes": 84
+  },
+  {
+   "start": "15:18",
+   "end": "15:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "15:28",
+   "end": "16:51",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 83
+  },
+  {
+   "start": "16:51",
+   "end": "16:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "16:57",
+   "end": "17:40",
+   "category": "式典・行事",
+   "label": "良子さんをしのぶ集いに出席",
+   "minutes": 43
+  },
+  {
+   "start": "17:40",
+   "end": "17:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "17:48",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 372
+  }
+ ],
+ "alloc_min": {
+  "居所": 1279,
+  "移動": 34,
+  "個人": 84,
+  "式典・行事": 43
+ }
+}

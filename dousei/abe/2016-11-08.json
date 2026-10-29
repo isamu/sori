@@ -1,0 +1,493 @@
+{
+ "date": "2016-11-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 608,
+ "residence_min": 832,
+ "meetings": 6,
+ "first_work": "08:23",
+ "events": [
+  {
+   "time": "08:23",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:29",
+   "label": "杉山治樹公安調査庁次長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:57",
+   "label": "塩崎恭久厚生労働相 蒲原基道老健局長 鈴木康裕保険局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:28",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:00",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:08",
+   "label": "秋の叙勲大綬章親授式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:47",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:45",
+   "label": "ムトゥリ・ケニア国民議会議長の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:09",
+   "label": "高市早苗総務相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:27",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "13:30",
+   "label": "浅川雅嗣財務官 武内良樹国際局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:50",
+   "label": "吹田※（りっしんべんに晃）山口県土地改良事業団体連合会会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:07",
+   "label": "河野雅治政府代表 杉山晋輔事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:43",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:50",
+   "label": "秋の叙勲重光章伝達式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:21",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "15:33",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:09",
+   "label": "カザフスタンのナザルバエフ大統領歓迎会。同大統領国会演説",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:46",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:17",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:12",
+   "label": "「子どもの未来応援国民運動」1周年の集い",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:30",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:23",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 503
+  },
+  {
+   "start": "08:23",
+   "end": "08:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:24",
+   "end": "08:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:29",
+   "end": "08:39",
+   "category": "面会・会談",
+   "label": "杉山治樹公安調査庁次長 北村滋内閣情報官",
+   "minutes": 10
+  },
+  {
+   "start": "08:39",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "08:57",
+   "end": "09:10",
+   "category": "面会・会談",
+   "label": "塩崎恭久厚生労働相 蒲原基道老健局長 鈴木康裕保険局長",
+   "minutes": 13
+  },
+  {
+   "start": "09:10",
+   "end": "09:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "09:28",
+   "end": "09:43",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 15
+  },
+  {
+   "start": "09:43",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "10:00",
+   "end": "10:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:08",
+   "end": "10:47",
+   "category": "式典・行事",
+   "label": "秋の叙勲大綬章親授式",
+   "minutes": 39
+  },
+  {
+   "start": "10:47",
+   "end": "10:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "10:56",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "11:45",
+   "end": "12:04",
+   "category": "面会・会談",
+   "label": "ムトゥリ・ケニア国民議会議長の表敬",
+   "minutes": 19
+  },
+  {
+   "start": "12:04",
+   "end": "12:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 53
+  },
+  {
+   "start": "12:57",
+   "end": "12:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:58",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:02",
+   "end": "13:09",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 7
+  },
+  {
+   "start": "13:09",
+   "end": "13:10",
+   "category": "国会",
+   "label": "高市早苗総務相",
+   "minutes": 1
+  },
+  {
+   "start": "13:10",
+   "end": "13:25",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 15
+  },
+  {
+   "start": "13:25",
+   "end": "13:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:27",
+   "end": "13:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:28",
+   "end": "13:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:30",
+   "end": "13:49",
+   "category": "面会・会談",
+   "label": "浅川雅嗣財務官 武内良樹国際局長",
+   "minutes": 19
+  },
+  {
+   "start": "13:49",
+   "end": "13:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:50",
+   "end": "14:06",
+   "category": "面会・会談",
+   "label": "吹田※（りっしんべんに晃）山口県土地改良事業団体連合会会長",
+   "minutes": 16
+  },
+  {
+   "start": "14:06",
+   "end": "14:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:07",
+   "end": "14:35",
+   "category": "面会・会談",
+   "label": "河野雅治政府代表 杉山晋輔事務次官",
+   "minutes": 28
+  },
+  {
+   "start": "14:35",
+   "end": "14:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "14:43",
+   "end": "14:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:50",
+   "end": "15:21",
+   "category": "式典・行事",
+   "label": "秋の叙勲重光章伝達式",
+   "minutes": 31
+  },
+  {
+   "start": "15:21",
+   "end": "15:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 24
+  },
+  {
+   "start": "15:57",
+   "end": "15:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:58",
+   "end": "16:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "16:09",
+   "end": "16:42",
+   "category": "国会",
+   "label": "カザフスタンのナザルバエフ大統領歓迎会。同大統領国会演説",
+   "minutes": 33
+  },
+  {
+   "start": "16:42",
+   "end": "16:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:46",
+   "end": "16:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:48",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "17:17",
+   "end": "18:08",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 51
+  },
+  {
+   "start": "18:08",
+   "end": "18:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:12",
+   "end": "18:29",
+   "category": "官邸執務",
+   "label": "「子どもの未来応援国民運動」1周年の集い",
+   "minutes": 17
+  },
+  {
+   "start": "18:29",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:30",
+   "end": "18:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:31",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 329
+  }
+ ],
+ "alloc_min": {
+  "居所": 832,
+  "移動": 43,
+  "公務（内容未詳）": 227,
+  "面会・会談": 105,
+  "官邸執務": 107,
+  "式典・行事": 70,
+  "国会": 56
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "date": "2016-08-19",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 81,
+ "residence_min": 1359,
+ "meetings": 0,
+ "first_work": "13:01",
+ "events": [
+  {
+   "time": "13:01",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "13:01",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 781
+  },
+  {
+   "start": "13:01",
+   "end": "14:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 81
+  },
+  {
+   "start": "14:22",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 578
+  }
+ ],
+ "alloc_min": {
+  "居所": 1359,
+  "移動": 81
+ }
+}

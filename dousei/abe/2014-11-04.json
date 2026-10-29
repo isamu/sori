@@ -1,0 +1,449 @@
+{
+ "date": "2014-11-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 787,
+ "residence_min": 653,
+ "meetings": 8,
+ "first_work": "07:11",
+ "events": [
+  {
+   "time": "07:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:30",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:29",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:35",
+   "label": "下村博文文部科学相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:37",
+   "label": "高市早苗総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:39",
+   "label": "塩崎恭久厚生労働相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:41",
+   "label": "山谷えり子拉致問題担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:43",
+   "label": "有村治子女性活躍担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:01",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:58",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:21",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "17:29",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:23",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:32",
+   "label": "谷内正太郎国家安全保障局長 斎木昭隆事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:11",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:12",
+   "label": "ミクロネシアのモリ大統領と首相主催の夕食会。森喜朗元首相、山際大志郎経済産業副大臣同席",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:17",
+   "label": "モリ大統領を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 431
+  },
+  {
+   "start": "07:11",
+   "end": "07:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "07:25",
+   "end": "07:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "07:30",
+   "end": "08:25",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 55
+  },
+  {
+   "start": "08:25",
+   "end": "08:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "08:29",
+   "end": "08:34",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 5
+  },
+  {
+   "start": "08:34",
+   "end": "08:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:35",
+   "end": "08:36",
+   "category": "面会・会談",
+   "label": "下村博文文部科学相",
+   "minutes": 1
+  },
+  {
+   "start": "08:36",
+   "end": "08:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:37",
+   "end": "08:38",
+   "category": "面会・会談",
+   "label": "高市早苗総務相",
+   "minutes": 1
+  },
+  {
+   "start": "08:38",
+   "end": "08:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:39",
+   "end": "08:40",
+   "category": "面会・会談",
+   "label": "塩崎恭久厚生労働相",
+   "minutes": 1
+  },
+  {
+   "start": "08:40",
+   "end": "08:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:41",
+   "end": "08:42",
+   "category": "面会・会談",
+   "label": "山谷えり子拉致問題担当相",
+   "minutes": 1
+  },
+  {
+   "start": "08:42",
+   "end": "08:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:43",
+   "end": "08:44",
+   "category": "面会・会談",
+   "label": "有村治子女性活躍担当相",
+   "minutes": 1
+  },
+  {
+   "start": "08:44",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:58",
+   "end": "09:00",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 2
+  },
+  {
+   "start": "09:00",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:01",
+   "end": "11:56",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 175
+  },
+  {
+   "start": "11:56",
+   "end": "11:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:58",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 54
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "12:58",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:00",
+   "end": "17:18",
+   "category": "国会",
+   "label": "参院予算委",
+   "minutes": 258
+  },
+  {
+   "start": "17:18",
+   "end": "17:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:21",
+   "end": "17:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:22",
+   "end": "17:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "17:29",
+   "end": "18:21",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 52
+  },
+  {
+   "start": "18:21",
+   "end": "18:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:23",
+   "end": "18:31",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 8
+  },
+  {
+   "start": "18:31",
+   "end": "18:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:32",
+   "end": "18:49",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 斎木昭隆事務次官",
+   "minutes": 17
+  },
+  {
+   "start": "18:49",
+   "end": "19:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "19:11",
+   "end": "19:12",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:12",
+   "end": "20:17",
+   "category": "会食",
+   "label": "ミクロネシアのモリ大統領と首相主催の夕食会。森喜朗元首相、山際大志郎経済産業副大臣同席",
+   "minutes": 65
+  },
+  {
+   "start": "20:17",
+   "end": "20:18",
+   "category": "式典・行事",
+   "label": "モリ大統領を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "20:18",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 222
+  }
+ ],
+ "alloc_min": {
+  "居所": 653,
+  "移動": 21,
+  "公務（内容未詳）": 67,
+  "面会・会談": 85,
+  "官邸執務": 113,
+  "国会": 435,
+  "会食": 65,
+  "式典・行事": 1
+ }
+}

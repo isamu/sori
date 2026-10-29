@@ -1,0 +1,174 @@
+{
+ "date": "2019-09-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 851,
+ "residence_min": 589,
+ "meetings": 1,
+ "first_work": "09:49",
+ "events": [
+  {
+   "time": "09:49",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:07",
+   "label": "岸田文雄自民党政調会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "10:27",
+   "label": "細田博之自民党細田派会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "11:36",
+   "label": "舩後靖彦れいわ新選組参院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ウラジオストク市・ルースキー島の極東連邦大学宿泊棟",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ロシアのウラジオストク国際空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:19",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:22",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:40",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:49",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 589
+  },
+  {
+   "start": "09:49",
+   "end": "10:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "10:02",
+   "end": "10:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "10:07",
+   "end": "10:24",
+   "category": "党務",
+   "label": "岸田文雄自民党政調会長",
+   "minutes": 17
+  },
+  {
+   "start": "10:24",
+   "end": "10:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:27",
+   "end": "10:54",
+   "category": "党務",
+   "label": "細田博之自民党細田派会長",
+   "minutes": 27
+  },
+  {
+   "start": "10:54",
+   "end": "11:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "11:36",
+   "end": "11:54",
+   "category": "面会・会談",
+   "label": "舩後靖彦れいわ新選組参院議員",
+   "minutes": 18
+  },
+  {
+   "start": "11:54",
+   "end": "13:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 85
+  },
+  {
+   "start": "13:19",
+   "end": "13:21",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "13:21",
+   "end": "13:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:22",
+   "end": "13:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "13:40",
+   "end": "14:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "14:06",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 594
+  }
+ ],
+ "alloc_min": {
+  "居所": 589,
+  "移動": 57,
+  "公務（内容未詳）": 136,
+  "党務": 44,
+  "面会・会談": 18,
+  "取材・会見": 2,
+  "外遊": 594
+ }
+}

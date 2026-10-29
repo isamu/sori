@@ -1,0 +1,253 @@
+{
+ "date": "2014-12-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 897,
+ "residence_min": 543,
+ "meetings": 0,
+ "first_work": "07:02",
+ "events": [
+  {
+   "time": "07:02",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:06",
+   "label": "街頭演説",
+   "place": "ＪＲ和歌山駅前",
+   "category": "党務"
+  },
+  {
+   "time": "10:56",
+   "label": "街頭演説",
+   "place": "大阪府泉佐野市 泉佐野漁協青空市場前",
+   "category": "党務"
+  },
+  {
+   "time": "13:00",
+   "label": "昼食",
+   "place": "同市西区 自民党衆院選立候補者の事務所",
+   "category": "会食"
+  },
+  {
+   "time": "14:03",
+   "label": "街頭演説",
+   "place": "堺市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "14:45",
+   "label": "街頭演説",
+   "place": "大阪市 西成区役所前",
+   "category": "党務"
+  },
+  {
+   "time": "15:49",
+   "label": "街頭演説",
+   "place": "大阪府八尾市 近鉄八尾駅前",
+   "category": "党務"
+  },
+  {
+   "time": "16:50",
+   "label": "街頭演説",
+   "place": "同府守口市 京阪守口市駅前",
+   "category": "党務"
+  },
+  {
+   "time": "17:40",
+   "label": "街頭演説",
+   "place": "ＪＲ新大阪駅前",
+   "category": "党務"
+  },
+  {
+   "time": "18:40",
+   "label": "街頭演説",
+   "place": "ＪＲ高槻駅前",
+   "category": "党務"
+  },
+  {
+   "time": "21:32",
+   "label": "移動",
+   "place": "ＪＲ高槻駅前",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 422
+  },
+  {
+   "start": "07:02",
+   "end": "07:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "07:30",
+   "end": "10:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 156
+  },
+  {
+   "start": "10:06",
+   "end": "10:20",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 14
+  },
+  {
+   "start": "10:20",
+   "end": "10:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "10:56",
+   "end": "11:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 14
+  },
+  {
+   "start": "11:10",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 110
+  },
+  {
+   "start": "13:00",
+   "end": "13:23",
+   "category": "会食",
+   "label": "昼食",
+   "minutes": 23
+  },
+  {
+   "start": "13:23",
+   "end": "14:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "14:03",
+   "end": "14:21",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 18
+  },
+  {
+   "start": "14:21",
+   "end": "14:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "14:45",
+   "end": "14:58",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 13
+  },
+  {
+   "start": "14:58",
+   "end": "15:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "15:49",
+   "end": "16:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 21
+  },
+  {
+   "start": "16:10",
+   "end": "16:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "16:50",
+   "end": "17:05",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 15
+  },
+  {
+   "start": "17:05",
+   "end": "17:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "17:40",
+   "end": "17:57",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 17
+  },
+  {
+   "start": "17:57",
+   "end": "18:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 43
+  },
+  {
+   "start": "18:40",
+   "end": "19:03",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 23
+  },
+  {
+   "start": "19:03",
+   "end": "21:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 149
+  },
+  {
+   "start": "21:32",
+   "end": "21:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "21:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 121
+  }
+ ],
+ "alloc_min": {
+  "居所": 543,
+  "移動": 55,
+  "公務（内容未詳）": 684,
+  "党務": 135,
+  "会食": 23
+ }
+}

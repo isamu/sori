@@ -1,0 +1,474 @@
+{
+ "date": "2017-02-24",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 797,
+ "residence_min": 509,
+ "meetings": 4,
+ "first_work": "07:33",
+ "events": [
+  {
+   "time": "07:33",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:40",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:31",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "09:01",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "11:59",
+   "label": "西村康稔自民党総裁特別補佐",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:01",
+   "label": "移動",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "12:02",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院財務金融委員会",
+   "place": "国会 衆院第15委員室",
+   "category": "国会"
+  },
+  {
+   "time": "14:41",
+   "label": "移動",
+   "place": "国会 衆院第15委員室",
+   "category": "移動"
+  },
+  {
+   "time": "14:45",
+   "label": "谷内正太郎国家安全保障局長 杉山晋輔事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:10",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:11",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:37",
+   "label": "山本有二農林水産相と座禅",
+   "place": "東京・谷中 全生庵",
+   "category": "個人"
+  },
+  {
+   "time": "16:54",
+   "label": "移動",
+   "place": "東京・谷中 全生庵",
+   "category": "移動"
+  },
+  {
+   "time": "17:01",
+   "label": "イベント「フライデー・ナイト・ミュージアム＠上野」の開会式。ミニコンサートを鑑賞",
+   "place": "東京・上野公園 国立西洋美術館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:25",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "17:28",
+   "label": "同イベントで短編映画を鑑賞",
+   "place": "東京・上野公園 東京国立博物館平成館",
+   "category": "個人"
+  },
+  {
+   "time": "17:50",
+   "label": "映画監督の河瀬直美氏",
+   "place": "東京・上野公園 東京国立博物館平成館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:53",
+   "label": "同館の特別展「春日大社　千年の至宝」を鑑賞",
+   "place": "東京・上野公園 東京国立博物館平成館",
+   "category": "個人"
+  },
+  {
+   "time": "18:30",
+   "label": "報道各社のインタビュー",
+   "place": "東京・上野公園 東京国立博物館平成館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:31",
+   "label": "移動",
+   "place": "東京・上野公園 東京国立博物館平成館",
+   "category": "移動"
+  },
+  {
+   "time": "19:06",
+   "label": "麻生副総理兼財務相、俳優の岡田准一、鈴木亮平両氏と食事",
+   "place": "東京・西麻布 フランス料理店「マルゴット・エ・バッチャーレ」",
+   "category": "会食"
+  },
+  {
+   "time": "22:45",
+   "label": "移動",
+   "place": "東京・西麻布 フランス料理店「マルゴット・エ・バッチャーレ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:33",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 453
+  },
+  {
+   "start": "07:33",
+   "end": "07:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "07:34",
+   "end": "07:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:40",
+   "end": "08:25",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 45
+  },
+  {
+   "start": "08:25",
+   "end": "08:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:31",
+   "end": "08:40",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "08:40",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:49",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:50",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:57",
+   "end": "09:00",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 3
+  },
+  {
+   "start": "09:00",
+   "end": "09:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:01",
+   "end": "11:56",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 175
+  },
+  {
+   "start": "11:56",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:59",
+   "end": "12:00",
+   "category": "面会・会談",
+   "label": "西村康稔自民党総裁特別補佐",
+   "minutes": 1
+  },
+  {
+   "start": "12:00",
+   "end": "12:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:01",
+   "end": "12:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 52
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "14:40",
+   "category": "国会",
+   "label": "衆院財務金融委員会",
+   "minutes": 100
+  },
+  {
+   "start": "14:40",
+   "end": "14:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:41",
+   "end": "14:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:43",
+   "end": "14:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:45",
+   "end": "15:06",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 杉山晋輔事務次官",
+   "minutes": 21
+  },
+  {
+   "start": "15:06",
+   "end": "15:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:10",
+   "end": "15:11",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "15:11",
+   "end": "15:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "15:37",
+   "end": "16:54",
+   "category": "個人",
+   "label": "山本有二農林水産相と座禅",
+   "minutes": 77
+  },
+  {
+   "start": "16:54",
+   "end": "17:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "17:01",
+   "end": "17:25",
+   "category": "式典・行事",
+   "label": "イベント「フライデー・ナイト・ミュージアム＠上野」の開会式。ミニコンサートを鑑賞",
+   "minutes": 24
+  },
+  {
+   "start": "17:25",
+   "end": "17:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "17:28",
+   "end": "17:50",
+   "category": "個人",
+   "label": "同イベントで短編映画を鑑賞",
+   "minutes": 22
+  },
+  {
+   "start": "17:50",
+   "end": "17:51",
+   "category": "面会・会談",
+   "label": "映画監督の河瀬直美氏",
+   "minutes": 1
+  },
+  {
+   "start": "17:51",
+   "end": "17:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:53",
+   "end": "18:28",
+   "category": "個人",
+   "label": "同館の特別展「春日大社　千年の至宝」を鑑賞",
+   "minutes": 35
+  },
+  {
+   "start": "18:28",
+   "end": "18:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:30",
+   "end": "18:31",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "18:31",
+   "end": "19:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "19:06",
+   "end": "22:45",
+   "category": "会食",
+   "label": "麻生副総理兼財務相、俳優の岡田准一、鈴木亮平両氏と食事",
+   "minutes": 219
+  },
+  {
+   "start": "22:45",
+   "end": "23:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "23:04",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 56
+  }
+ ],
+ "alloc_min": {
+  "居所": 509,
+  "移動": 97,
+  "公務（内容未詳）": 48,
+  "面会・会談": 68,
+  "官邸執務": 61,
+  "国会": 278,
+  "取材・会見": 2,
+  "個人": 134,
+  "式典・行事": 24,
+  "会食": 219
+ }
+}

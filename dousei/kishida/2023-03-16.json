@@ -1,0 +1,489 @@
+{
+ "date": "2023-03-16",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 825,
+ "residence_min": 615,
+ "meetings": 7,
+ "first_work": "08:36",
+ "events": [
+  {
+   "time": "08:36",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:38",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "08:51",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:40",
+   "label": "古賀篤自民党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:10",
+   "label": "秋葉剛男国家安全保障局長 山田重夫審議官 中込正志欧州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:10",
+   "label": "柳秀直駐ドイツ大使",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:34",
+   "label": "木原誠二官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:08",
+   "label": "木原誠二官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "15:18",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "16:39",
+   "label": "韓国の尹錫悦大統領を出迎え",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:40",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:48",
+   "label": "尹大統領と首脳会談少人数会合",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:14",
+   "label": "尹大統領と首脳会談全体会合",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:34",
+   "label": "共同記者会見",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:01",
+   "label": "尹大頭領を見送り",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:22",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:38",
+   "label": "裕子夫人と共に尹大統領夫妻を出迎え",
+   "place": "東京・銀座 すき焼き店「吉澤」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "19:40",
+   "label": "岸田文雄首相夫妻主催の夕食会",
+   "place": "東京・銀座 すき焼き店「吉澤」",
+   "category": "会食"
+  },
+  {
+   "time": "21:10",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "21:16",
+   "label": "尹大統領と会食",
+   "place": "東京・銀座 洋食店「煉瓦亭」",
+   "category": "会食"
+  },
+  {
+   "time": "22:05",
+   "label": "尹大統領を見送り",
+   "place": "東京・銀座 洋食店「煉瓦亭」",
+   "category": "式典・行事"
+  },
+  {
+   "time": "22:08",
+   "label": "移動",
+   "place": "東京・銀座 洋食店「煉瓦亭」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 516
+  },
+  {
+   "start": "08:36",
+   "end": "08:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:37",
+   "end": "08:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:38",
+   "end": "08:51",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 13
+  },
+  {
+   "start": "08:51",
+   "end": "09:06",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 15
+  },
+  {
+   "start": "09:06",
+   "end": "09:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "09:40",
+   "end": "10:09",
+   "category": "面会・会談",
+   "label": "古賀篤自民党衆院議員",
+   "minutes": 29
+  },
+  {
+   "start": "10:09",
+   "end": "10:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:10",
+   "end": "10:31",
+   "category": "面会・会談",
+   "label": "秋葉剛男国家安全保障局長 山田重夫審議官 中込正志欧州局長",
+   "minutes": 21
+  },
+  {
+   "start": "10:31",
+   "end": "10:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:34",
+   "end": "10:50",
+   "category": "面会・会談",
+   "label": "木原誠二官房副長官",
+   "minutes": 16
+  },
+  {
+   "start": "10:50",
+   "end": "11:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "11:08",
+   "end": "12:08",
+   "category": "面会・会談",
+   "label": "木原誠二官房副長官",
+   "minutes": 60
+  },
+  {
+   "start": "12:08",
+   "end": "12:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "12:53",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:55",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:02",
+   "end": "15:17",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 135
+  },
+  {
+   "start": "15:17",
+   "end": "15:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:18",
+   "end": "15:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "15:20",
+   "end": "16:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 79
+  },
+  {
+   "start": "16:39",
+   "end": "16:40",
+   "category": "式典・行事",
+   "label": "韓国の尹錫悦大統領を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "16:40",
+   "end": "16:47",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 7
+  },
+  {
+   "start": "16:47",
+   "end": "16:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:48",
+   "end": "17:13",
+   "category": "面会・会談",
+   "label": "尹大統領と首脳会談少人数会合",
+   "minutes": 25
+  },
+  {
+   "start": "17:13",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:14",
+   "end": "18:15",
+   "category": "面会・会談",
+   "label": "尹大統領と首脳会談全体会合",
+   "minutes": 61
+  },
+  {
+   "start": "18:15",
+   "end": "18:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "18:34",
+   "end": "18:59",
+   "category": "取材・会見",
+   "label": "共同記者会見",
+   "minutes": 25
+  },
+  {
+   "start": "18:59",
+   "end": "19:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "19:01",
+   "end": "19:04",
+   "category": "官邸執務",
+   "label": "尹大頭領を見送り",
+   "minutes": 3
+  },
+  {
+   "start": "19:04",
+   "end": "19:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "19:22",
+   "end": "19:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "19:31",
+   "end": "19:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "19:38",
+   "end": "19:39",
+   "category": "式典・行事",
+   "label": "裕子夫人と共に尹大統領夫妻を出迎え",
+   "minutes": 1
+  },
+  {
+   "start": "19:39",
+   "end": "19:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:40",
+   "end": "21:04",
+   "category": "会食",
+   "label": "岸田文雄首相夫妻主催の夕食会",
+   "minutes": 84
+  },
+  {
+   "start": "21:04",
+   "end": "21:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "21:10",
+   "end": "21:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "21:11",
+   "end": "21:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "21:16",
+   "end": "22:04",
+   "category": "会食",
+   "label": "尹大統領と会食",
+   "minutes": 48
+  },
+  {
+   "start": "22:04",
+   "end": "22:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "22:05",
+   "end": "22:07",
+   "category": "式典・行事",
+   "label": "尹大統領を見送り",
+   "minutes": 2
+  },
+  {
+   "start": "22:07",
+   "end": "22:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "22:08",
+   "end": "22:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "22:21",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 99
+  }
+ ],
+ "alloc_min": {
+  "居所": 615,
+  "移動": 28,
+  "公務（内容未詳）": 251,
+  "取材・会見": 38,
+  "官邸執務": 18,
+  "面会・会談": 212,
+  "国会": 135,
+  "式典・行事": 11,
+  "会食": 132
+ }
+}

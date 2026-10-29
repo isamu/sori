@@ -1,0 +1,189 @@
+{
+ "date": "2012-11-12",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.11.12",
+ "work_min": 718,
+ "residence_min": 722,
+ "meetings": 4,
+ "first_work": "07:03",
+ "events": [
+  {
+   "time": "07:03",
+   "label": "斎藤官房副長官、三谷、大串両首相補佐官",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:01",
+   "label": "三谷氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:25",
+   "label": "斎藤、大串両氏出る",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:42",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:43",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:57",
+   "label": "衆院予算委員会",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "12:00",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委",
+   "place": "国会",
+   "category": "国会"
+  },
+  {
+   "time": "17:05",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:00",
+   "label": "国連組織「ＵＮウィメン」のミチェル・バチェレ事務局長が表敬。中塚男女共同参画相同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:17",
+   "label": "終了",
+   "place": "官邸",
+   "category": "公務（内容未詳）"
+  },
+  {
+   "time": "19:18",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 423
+  },
+  {
+   "start": "07:03",
+   "end": "08:25",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官、三谷、大串両首相補佐官",
+   "minutes": 82
+  },
+  {
+   "start": "08:25",
+   "end": "08:42",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 17
+  },
+  {
+   "start": "08:42",
+   "end": "08:43",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 1
+  },
+  {
+   "start": "08:43",
+   "end": "08:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "08:57",
+   "end": "12:00",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 183
+  },
+  {
+   "start": "12:00",
+   "end": "12:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "12:51",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:00",
+   "end": "17:05",
+   "category": "国会",
+   "label": "衆院予算委",
+   "minutes": 245
+  },
+  {
+   "start": "17:05",
+   "end": "18:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 55
+  },
+  {
+   "start": "18:00",
+   "end": "18:17",
+   "category": "面会・会談",
+   "label": "国連組織「ＵＮウィメン」のミチェル・バチェレ事務局長が表敬。中塚男女共同参画相同席",
+   "minutes": 17
+  },
+  {
+   "start": "18:17",
+   "end": "19:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 61
+  },
+  {
+   "start": "19:18",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 282
+  }
+ ],
+ "alloc_min": {
+  "居所": 722,
+  "面会・会談": 99,
+  "移動": 1,
+  "公務（内容未詳）": 190,
+  "国会": 428
+ }
+}

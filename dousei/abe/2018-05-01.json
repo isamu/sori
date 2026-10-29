@@ -1,0 +1,95 @@
+{
+ "date": "2018-05-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "アブドラ国王と会談",
+   "place": "王宮府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "歓迎行事",
+   "place": "王宮府",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "無償資金協力の署名式",
+   "place": "首相府",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ムルキ首相と会談",
+   "place": "首相府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "歓迎式典",
+   "place": "首相府",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "イスラエル・テルアビブ近郊のベングリオン国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "ヨルダン・アンマンのマルカ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "「フォーシーズンズ・ホテル・アンマン」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "同行企業関係者を交え、ワーキングランチ",
+   "place": "王宮府",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "エルサレムの「キング・デービッド・エルサレム」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "同議長主催の夕食会",
+   "place": "パレスチナ自治区ラマラの議長府",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "アッバス議長と会談",
+   "place": "パレスチナ自治区ラマラの議長府",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

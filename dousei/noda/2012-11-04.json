@@ -1,0 +1,128 @@
+{
+ "date": "2012-11-04",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社 2012.11.04",
+ "work_min": 658,
+ "residence_min": 782,
+ "meetings": 3,
+ "first_work": "12:30",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "12:30",
+   "label": "斎藤官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:00",
+   "label": "斎藤氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:32",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:54",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:21",
+   "label": "アジア欧州会議（ＡＳＥＭ）首脳会合のため政府専用機でラオスに向け出発",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "（現地時間4日）午後、ラオス・ビエンチャンのワッタイ国際空港着",
+   "place": "ワッタイ国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "日・ラオス経済協力案件の引き渡し式典",
+   "place": "ワッタイ国際空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "歓迎式典",
+   "place": "ワッタイ国際空港",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ラオスのトンシン首相と首脳会談",
+   "place": "ワッタイ国際空港",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "政府宿泊施設「ドンチャン・ビラ」泊",
+   "place": "ワッタイ国際空港",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 750
+  },
+  {
+   "start": "12:30",
+   "end": "13:00",
+   "category": "面会・会談",
+   "label": "斎藤官房副長官",
+   "minutes": 30
+  },
+  {
+   "start": "13:00",
+   "end": "13:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 32
+  },
+  {
+   "start": "13:32",
+   "end": "13:54",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 22
+  },
+  {
+   "start": "13:54",
+   "end": "14:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "14:21",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊（出国日）",
+   "minutes": 579
+  }
+ ],
+ "alloc_min": {
+  "居所": 782,
+  "面会・会談": 30,
+  "取材・会見": 22,
+  "公務（内容未詳）": 27,
+  "外遊": 579
+ }
+}

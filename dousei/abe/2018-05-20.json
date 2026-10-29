@@ -1,0 +1,118 @@
+{
+ "date": "2018-05-20",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 246,
+ "residence_min": 1194,
+ "meetings": 0,
+ "first_work": "11:53",
+ "events": [
+  {
+   "time": "11:53",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:21",
+   "label": "東京・晴海 晴海埠頭",
+   "place": "東京・晴海 晴海埠頭",
+   "category": "その他"
+  },
+  {
+   "time": "12:45",
+   "label": "秋元司国土交通副大臣、中島敏同庁長官とともに同庁の観閲式に出席。総合訓練を視察し、あいさつ",
+   "place": "海上保安庁の巡視船「やしま」",
+   "category": "視察"
+  },
+  {
+   "time": "15:31",
+   "label": "海保ヘリコプター",
+   "place": "海上保安庁の巡視船「やしま」",
+   "category": "移動"
+  },
+  {
+   "time": "15:40",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:44",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:53",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 713
+  },
+  {
+   "start": "11:53",
+   "end": "12:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "12:21",
+   "end": "12:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "12:45",
+   "end": "15:31",
+   "category": "視察",
+   "label": "秋元司国土交通副大臣、中島敏同庁長官とともに同庁の観閲式に出席。総合訓練を視察し、あいさつ",
+   "minutes": 166
+  },
+  {
+   "start": "15:31",
+   "end": "15:40",
+   "category": "移動",
+   "label": "海保ヘリコプター",
+   "minutes": 9
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 4
+  },
+  {
+   "start": "15:44",
+   "end": "15:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "15:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 481
+  }
+ ],
+ "alloc_min": {
+  "居所": 1194,
+  "移動": 52,
+  "公務（内容未詳）": 24,
+  "視察": 166,
+  "官邸執務": 4
+ }
+}

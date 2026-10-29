@@ -1,0 +1,435 @@
+{
+ "date": "2014-10-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 652,
+ "residence_min": 788,
+ "meetings": 5,
+ "first_work": "08:31",
+ "events": [
+  {
+   "time": "08:31",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:49",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:36",
+   "label": "菅義偉官房長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "和歌山県知事選立候補予定者への推薦証渡し",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "09:58",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "和歌山県知事選立候補予定者への推薦証渡し",
+   "place": "国会 自民党幹事長室",
+   "category": "党務"
+  },
+  {
+   "time": "11:59",
+   "label": "移動",
+   "place": "国会 自民党幹事長室",
+   "category": "移動"
+  },
+  {
+   "time": "12:02",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:38",
+   "label": "鳩山邦夫日・ロシア協会会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:57",
+   "label": "石破茂地方創生担当相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:59",
+   "label": "下村博文文部科学相",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "17:07",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "17:25",
+   "label": "河井克行自民党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:02",
+   "label": "経済財政諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:03",
+   "label": "環境保護イベント向けのビデオメッセージ収録",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "19:09",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:31",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 511
+  },
+  {
+   "start": "08:31",
+   "end": "08:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "09:35",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 46
+  },
+  {
+   "start": "09:35",
+   "end": "09:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:36",
+   "end": "09:50",
+   "category": "面会・会談",
+   "label": "菅義偉官房長官",
+   "minutes": 14
+  },
+  {
+   "start": "09:50",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:54",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:56",
+   "end": "09:57",
+   "category": "国会",
+   "label": "和歌山県知事選立候補予定者への推薦証渡し",
+   "minutes": 1
+  },
+  {
+   "start": "09:57",
+   "end": "09:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:58",
+   "end": "09:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 1
+  },
+  {
+   "start": "09:59",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:01",
+   "end": "11:45",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 104
+  },
+  {
+   "start": "11:45",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "11:56",
+   "end": "11:57",
+   "category": "党務",
+   "label": "和歌山県知事選立候補予定者への推薦証渡し",
+   "minutes": 1
+  },
+  {
+   "start": "11:57",
+   "end": "11:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:59",
+   "end": "12:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:01",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:02",
+   "end": "12:20",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 18
+  },
+  {
+   "start": "12:20",
+   "end": "13:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 78
+  },
+  {
+   "start": "13:38",
+   "end": "13:51",
+   "category": "面会・会談",
+   "label": "鳩山邦夫日・ロシア協会会長",
+   "minutes": 13
+  },
+  {
+   "start": "13:51",
+   "end": "13:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "13:54",
+   "end": "13:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:55",
+   "end": "13:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:57",
+   "end": "13:58",
+   "category": "国会",
+   "label": "石破茂地方創生担当相",
+   "minutes": 1
+  },
+  {
+   "start": "13:58",
+   "end": "13:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:59",
+   "end": "14:01",
+   "category": "国会",
+   "label": "下村博文文部科学相",
+   "minutes": 2
+  },
+  {
+   "start": "14:01",
+   "end": "14:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:02",
+   "end": "17:05",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 183
+  },
+  {
+   "start": "17:05",
+   "end": "17:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:07",
+   "end": "17:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:09",
+   "end": "17:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "17:25",
+   "end": "17:50",
+   "category": "面会・会談",
+   "label": "河井克行自民党衆院議員",
+   "minutes": 25
+  },
+  {
+   "start": "17:50",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "18:02",
+   "end": "18:52",
+   "category": "官邸執務",
+   "label": "経済財政諮問会議",
+   "minutes": 50
+  },
+  {
+   "start": "18:52",
+   "end": "19:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "19:03",
+   "end": "19:08",
+   "category": "官邸執務",
+   "label": "環境保護イベント向けのビデオメッセージ収録",
+   "minutes": 5
+  },
+  {
+   "start": "19:08",
+   "end": "19:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:09",
+   "end": "19:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "19:23",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 277
+  }
+ ],
+ "alloc_min": {
+  "居所": 788,
+  "移動": 37,
+  "公務（内容未詳）": 151,
+  "面会・会談": 116,
+  "国会": 292,
+  "党務": 1,
+  "官邸執務": 55
+ }
+}

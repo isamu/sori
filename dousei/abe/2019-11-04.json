@@ -1,0 +1,119 @@
+{
+ "date": "2019-11-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 13,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "インドのモディ首相と会談",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "中国の李克強首相と会談",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東南アジア諸国連合（ＡＳＥＡＮ）プラス３（日中韓）首脳会議",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "韓国の文在寅大統領と対話",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "タイのプラユット首相と会談",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "アテネホテル・ラグジュアリーコレクションホテル・バンコク",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "メコン地域諸国首脳とのワーキングディナー",
+   "place": "タイ・バンコク近郊",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ベトナムのグエン・スアン・フック首相と会談",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "インドネシアのジョコ大統領と会談",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東アジア地域包括的経済連携（ＲＣＥＰ）首脳会合",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日本・ＡＳＥＡＮ首脳会議",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "フィリピンのドゥテルテ大統領と会談",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "東アジアサミット",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "米国のオブライエン大統領補佐官（国家安全保障担当）と会談",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "各国首脳との昼食会",
+   "place": "タイ・バンコク近郊",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "シンガポールのリー・シェンロン首相と会談",
+   "place": "タイ・バンコク近郊",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

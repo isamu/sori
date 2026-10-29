@@ -1,0 +1,293 @@
+{
+ "date": "2018-07-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 695,
+ "residence_min": 745,
+ "meetings": 1,
+ "first_work": "07:27",
+ "events": [
+  {
+   "time": "07:27",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:50",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:05",
+   "label": "岡山空港",
+   "place": "岡山空港",
+   "category": "移動"
+  },
+  {
+   "time": "09:17",
+   "label": "豪雨で被災した岡山市、岡山県倉敷市などを上空から視察。伊原木隆太同県知事ら同行",
+   "place": "陸上自衛隊ヘリコプター",
+   "category": "視察"
+  },
+  {
+   "time": "10:03",
+   "label": "岡山市の岡南飛行場",
+   "place": "岡山市の岡南飛行場",
+   "category": "移動"
+  },
+  {
+   "time": "11:06",
+   "label": "伊東香織市長ら出迎え。自衛隊の入浴施設を視察。避難所で被災者を激励",
+   "place": "倉敷市の市立第二福田小学校",
+   "category": "視察"
+  },
+  {
+   "time": "12:36",
+   "label": "避難所で被災者を激励",
+   "place": "同市立岡田小学校",
+   "category": "視察"
+  },
+  {
+   "time": "13:37",
+   "label": "浸水現場を視察。献花し、黙とう",
+   "place": "同市の小田川堤防",
+   "category": "視察"
+  },
+  {
+   "time": "14:56",
+   "label": "伊原木知事から要望書受け取り。意見交換",
+   "place": "岡山市の岡山県工業技術センター",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:18",
+   "label": "報道各社のインタビュー",
+   "place": "岡山市の岡山県工業技術センター",
+   "category": "取材・会見"
+  },
+  {
+   "time": "15:38",
+   "label": "岡山空港",
+   "place": "岡山空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:00",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:09",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "17:44",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 447
+  },
+  {
+   "start": "07:27",
+   "end": "07:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "07:50",
+   "end": "08:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:04",
+   "end": "09:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 61
+  },
+  {
+   "start": "09:05",
+   "end": "09:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:17",
+   "end": "10:03",
+   "category": "視察",
+   "label": "豪雨で被災した岡山市、岡山県倉敷市などを上空から視察。伊原木隆太同県知事ら同行",
+   "minutes": 46
+  },
+  {
+   "start": "10:03",
+   "end": "10:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:06",
+   "end": "11:06",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "11:06",
+   "end": "11:39",
+   "category": "視察",
+   "label": "伊東香織市長ら出迎え。自衛隊の入浴施設を視察。避難所で被災者を激励",
+   "minutes": 33
+  },
+  {
+   "start": "11:39",
+   "end": "12:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "12:36",
+   "end": "13:15",
+   "category": "視察",
+   "label": "避難所で被災者を激励",
+   "minutes": 39
+  },
+  {
+   "start": "13:15",
+   "end": "13:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "13:37",
+   "end": "13:42",
+   "category": "視察",
+   "label": "浸水現場を視察。献花し、黙とう",
+   "minutes": 5
+  },
+  {
+   "start": "13:42",
+   "end": "14:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 74
+  },
+  {
+   "start": "14:56",
+   "end": "15:11",
+   "category": "面会・会談",
+   "label": "伊原木知事から要望書受け取り。意見交換",
+   "minutes": 15
+  },
+  {
+   "start": "15:11",
+   "end": "15:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "15:18",
+   "end": "15:21",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "15:21",
+   "end": "15:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "15:38",
+   "end": "15:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "15:49",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "17:00",
+   "end": "17:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "17:09",
+   "end": "17:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 52
+  },
+  {
+   "start": "18:36",
+   "end": "19:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "19:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 298
+  }
+ ],
+ "alloc_min": {
+  "居所": 745,
+  "移動": 133,
+  "公務（内容未詳）": 309,
+  "視察": 183,
+  "面会・会談": 15,
+  "取材・会見": 3,
+  "官邸執務": 52
+ }
+}

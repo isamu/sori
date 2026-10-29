@@ -1,0 +1,77 @@
+{
+ "date": "2018-05-06",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 138,
+ "residence_min": 886,
+ "meetings": 0,
+ "first_work": "06:44",
+ "events": [
+  {
+   "time": "06:44",
+   "label": "移動",
+   "place": "同県鳴沢村の別荘",
+   "category": "移動"
+  },
+  {
+   "time": "06:48",
+   "label": "増岡聡一郎鉄鋼ビルディング専務、籔本雅巳錦秀会グループＣＥＯ、松崎勲森永商事社長とゴルフ",
+   "place": "同県富士河口湖町のゴルフ場「富士桜カントリー倶楽部」",
+   "category": "個人"
+  },
+  {
+   "time": "13:44",
+   "label": "移動",
+   "place": "同県富士河口湖町のゴルフ場「富士桜カントリー倶楽部」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 404
+  },
+  {
+   "start": "06:44",
+   "end": "06:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "06:48",
+   "end": "13:44",
+   "category": "個人",
+   "label": "増岡聡一郎鉄鋼ビルディング専務、籔本雅巳錦秀会グループＣＥＯ、松崎勲森永商事社長とゴルフ",
+   "minutes": 416
+  },
+  {
+   "start": "13:44",
+   "end": "15:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 134
+  },
+  {
+   "start": "15:58",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 482
+  }
+ ],
+ "alloc_min": {
+  "居所": 886,
+  "移動": 138,
+  "個人": 416
+ }
+}

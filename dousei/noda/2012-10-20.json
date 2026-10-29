@@ -1,0 +1,70 @@
+{
+ "date": "2012-10-20",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.10.20",
+ "work_min": 63,
+ "residence_min": 1377,
+ "meetings": 0,
+ "first_work": "11:12",
+ "events": [
+  {
+   "time": "11:12",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:21",
+   "label": "皇居着",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:21",
+   "label": "皇居。仁実夫人とともに皇后陛下誕生日祝賀に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:15",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 672
+  },
+  {
+   "start": "11:12",
+   "end": "11:21",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 9
+  },
+  {
+   "start": "11:21",
+   "end": "12:15",
+   "category": "式典・行事",
+   "label": "皇居。仁実夫人とともに皇后陛下誕生日祝賀に出席",
+   "minutes": 54
+  },
+  {
+   "start": "12:15",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 705
+  }
+ ],
+ "alloc_min": {
+  "居所": 1377,
+  "移動": 9,
+  "式典・行事": 54
+ }
+}

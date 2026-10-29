@@ -1,0 +1,448 @@
+{
+ "date": "2015-01-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 581,
+ "residence_min": 859,
+ "meetings": 8,
+ "first_work": "08:48",
+ "events": [
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:02",
+   "label": "国家安全保障会議の９大臣会合",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:26",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:38",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:40",
+   "label": "西川公也農林水産相 皆川芳嗣事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:33",
+   "label": "斎木昭隆事務次官 石兼公博国際協力局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:23",
+   "label": "本田勝事務次官 田村明比古航空局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:01",
+   "label": "同ホテル内の宴会場「リブラ」で宮永俊一三菱重工業社長、斎藤勝利第一生命保険会長らと食事",
+   "place": "東京・赤坂 ＡＮＡインターコンチネンタルホテル東京",
+   "category": "会食"
+  },
+  {
+   "time": "13:06",
+   "label": "移動",
+   "place": "東京・赤坂 ＡＮＡインターコンチネンタルホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": "13:11",
+   "label": "木村太郎首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:25",
+   "label": "谷垣禎一自民党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:00",
+   "label": "本田悦朗内閣官房参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:34",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:36",
+   "label": "自民党の月刊女性誌「りぶる」掲載用のタレント片岡鶴太郎さんとの対談",
+   "place": "公邸",
+   "category": "党務"
+  },
+  {
+   "time": "15:30",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:34",
+   "label": "下村博文文部科学相 山中伸一事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:43",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:55",
+   "label": "報道番組に出演",
+   "place": "東京・銀座 関西テレビ東京支社",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:32",
+   "label": "移動",
+   "place": "東京・銀座 関西テレビ東京支社",
+   "category": "移動"
+  },
+  {
+   "time": "18:01",
+   "label": "西正典事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:29",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 528
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "09:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "09:02",
+   "end": "09:09",
+   "category": "官邸執務",
+   "label": "国家安全保障会議の９大臣会合",
+   "minutes": 7
+  },
+  {
+   "start": "09:09",
+   "end": "09:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "09:26",
+   "end": "09:35",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 9
+  },
+  {
+   "start": "09:35",
+   "end": "09:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:38",
+   "end": "09:39",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:39",
+   "end": "09:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:40",
+   "end": "09:48",
+   "category": "面会・会談",
+   "label": "西川公也農林水産相 皆川芳嗣事務次官",
+   "minutes": 8
+  },
+  {
+   "start": "09:48",
+   "end": "10:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "10:33",
+   "end": "11:07",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官 石兼公博国際協力局長",
+   "minutes": 34
+  },
+  {
+   "start": "11:07",
+   "end": "11:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "11:23",
+   "end": "11:50",
+   "category": "面会・会談",
+   "label": "本田勝事務次官 田村明比古航空局長",
+   "minutes": 27
+  },
+  {
+   "start": "11:50",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "11:56",
+   "end": "12:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "12:01",
+   "end": "13:06",
+   "category": "会食",
+   "label": "同ホテル内の宴会場「リブラ」で宮永俊一三菱重工業社長、斎藤勝利第一生命保険会長らと食事",
+   "minutes": 65
+  },
+  {
+   "start": "13:06",
+   "end": "13:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "13:10",
+   "end": "13:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:11",
+   "end": "13:16",
+   "category": "面会・会談",
+   "label": "木村太郎首相補佐官",
+   "minutes": 5
+  },
+  {
+   "start": "13:16",
+   "end": "13:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "13:25",
+   "end": "13:55",
+   "category": "面会・会談",
+   "label": "谷垣禎一自民党幹事長",
+   "minutes": 30
+  },
+  {
+   "start": "13:55",
+   "end": "14:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "14:00",
+   "end": "14:15",
+   "category": "面会・会談",
+   "label": "本田悦朗内閣官房参与",
+   "minutes": 15
+  },
+  {
+   "start": "14:15",
+   "end": "14:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "14:34",
+   "end": "14:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "14:35",
+   "end": "14:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:36",
+   "end": "15:29",
+   "category": "党務",
+   "label": "自民党の月刊女性誌「りぶる」掲載用のタレント片岡鶴太郎さんとの対談",
+   "minutes": 53
+  },
+  {
+   "start": "15:29",
+   "end": "15:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "15:30",
+   "end": "15:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:31",
+   "end": "15:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:34",
+   "end": "16:27",
+   "category": "面会・会談",
+   "label": "下村博文文部科学相 山中伸一事務次官",
+   "minutes": 53
+  },
+  {
+   "start": "16:27",
+   "end": "16:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "16:43",
+   "end": "16:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "16:55",
+   "end": "17:32",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 37
+  },
+  {
+   "start": "17:32",
+   "end": "17:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "17:44",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "18:01",
+   "end": "18:22",
+   "category": "面会・会談",
+   "label": "西正典事務次官",
+   "minutes": 21
+  },
+  {
+   "start": "18:22",
+   "end": "18:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "18:29",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:30",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 330
+  }
+ ],
+ "alloc_min": {
+  "居所": 859,
+  "移動": 37,
+  "公務（内容未詳）": 179,
+  "官邸執務": 16,
+  "取材・会見": 38,
+  "面会・会談": 193,
+  "会食": 65,
+  "党務": 53
+ }
+}

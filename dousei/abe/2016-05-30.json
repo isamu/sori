@@ -1,0 +1,460 @@
+{
+ "date": "2016-05-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 749,
+ "residence_min": 691,
+ "meetings": 7,
+ "first_work": "09:21",
+ "events": [
+  {
+   "time": "09:21",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:45",
+   "label": "高村正彦自民党副総裁",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:36",
+   "label": "二階俊博自民党総務会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "10:53",
+   "label": "稲田朋美自民党政調会長",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "12:12",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:22",
+   "label": "拝礼式に参列、献花",
+   "place": "東京・三番町 千鳥ケ淵戦没者墓苑",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:49",
+   "label": "移動",
+   "place": "東京・三番町 千鳥ケ淵戦没者墓苑",
+   "category": "移動"
+  },
+  {
+   "time": "12:56",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "13:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:02",
+   "label": "故堀内光雄元通産相の葬儀に参列",
+   "place": "東京・南青山 青山葬儀所",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:08",
+   "label": "移動",
+   "place": "東京・南青山 青山葬儀所",
+   "category": "移動"
+  },
+  {
+   "time": "14:43",
+   "label": "山口那津男公明党代表と与党党首会談",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "15:35",
+   "label": "岸田文雄外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:53",
+   "label": "茂木敏充自民党選対委員長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:29",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:32",
+   "label": "谷垣禎一自民党幹事長との会談",
+   "place": "国会 院内大臣室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:01",
+   "label": "自民党役員会終了",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:28",
+   "label": "自民党の谷垣幹事長、二階総務会長、稲田政調会長ら",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:38",
+   "label": "木村太郎自民党広報本部長",
+   "place": "国会 自民党政調審議室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:47",
+   "label": "移動",
+   "place": "国会 自民党政調審議室",
+   "category": "移動"
+  },
+  {
+   "time": "17:50",
+   "label": "モンゴルのプレブスレン外相の表敬。外務省の石兼公博アジア大洋州局長、山田滝雄国際協力局長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:33",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:34",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で麻生太郎副総理兼財務相と会食",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "21:35",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 561
+  },
+  {
+   "start": "09:21",
+   "end": "09:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "09:37",
+   "end": "09:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "09:45",
+   "end": "10:35",
+   "category": "面会・会談",
+   "label": "高村正彦自民党副総裁",
+   "minutes": 50
+  },
+  {
+   "start": "10:35",
+   "end": "10:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:36",
+   "end": "10:50",
+   "category": "党務",
+   "label": "二階俊博自民党総務会長",
+   "minutes": 14
+  },
+  {
+   "start": "10:50",
+   "end": "10:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:53",
+   "end": "11:31",
+   "category": "党務",
+   "label": "稲田朋美自民党政調会長",
+   "minutes": 38
+  },
+  {
+   "start": "11:31",
+   "end": "12:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 41
+  },
+  {
+   "start": "12:12",
+   "end": "12:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "12:22",
+   "end": "12:49",
+   "category": "式典・行事",
+   "label": "拝礼式に参列、献花",
+   "minutes": 27
+  },
+  {
+   "start": "12:49",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 52
+  },
+  {
+   "start": "13:48",
+   "end": "14:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "14:02",
+   "end": "14:08",
+   "category": "式典・行事",
+   "label": "故堀内光雄元通産相の葬儀に参列",
+   "minutes": 6
+  },
+  {
+   "start": "14:08",
+   "end": "14:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "14:18",
+   "end": "14:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "14:43",
+   "end": "15:20",
+   "category": "党務",
+   "label": "山口那津男公明党代表と与党党首会談",
+   "minutes": 37
+  },
+  {
+   "start": "15:20",
+   "end": "15:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "15:35",
+   "end": "15:52",
+   "category": "面会・会談",
+   "label": "岸田文雄外相",
+   "minutes": 17
+  },
+  {
+   "start": "15:52",
+   "end": "15:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:53",
+   "end": "16:22",
+   "category": "面会・会談",
+   "label": "茂木敏充自民党選対委員長",
+   "minutes": 29
+  },
+  {
+   "start": "16:22",
+   "end": "16:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:29",
+   "end": "16:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "16:30",
+   "end": "16:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "16:32",
+   "end": "16:47",
+   "category": "面会・会談",
+   "label": "谷垣禎一自民党幹事長との会談",
+   "minutes": 15
+  },
+  {
+   "start": "16:47",
+   "end": "17:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "17:01",
+   "end": "17:27",
+   "category": "党務",
+   "label": "自民党役員会終了",
+   "minutes": 26
+  },
+  {
+   "start": "17:27",
+   "end": "17:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:28",
+   "end": "17:36",
+   "category": "面会・会談",
+   "label": "自民党の谷垣幹事長、二階総務会長、稲田政調会長ら",
+   "minutes": 8
+  },
+  {
+   "start": "17:36",
+   "end": "17:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:38",
+   "end": "17:45",
+   "category": "面会・会談",
+   "label": "木村太郎自民党広報本部長",
+   "minutes": 7
+  },
+  {
+   "start": "17:45",
+   "end": "17:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:47",
+   "end": "17:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:48",
+   "end": "17:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:50",
+   "end": "18:20",
+   "category": "面会・会談",
+   "label": "モンゴルのプレブスレン外相の表敬。外務省の石兼公博アジア大洋州局長、山田滝雄国際協力局長同席",
+   "minutes": 30
+  },
+  {
+   "start": "18:20",
+   "end": "18:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "18:33",
+   "end": "18:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:34",
+   "end": "21:35",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で麻生太郎副総理兼財務相と会食",
+   "minutes": 181
+  },
+  {
+   "start": "21:35",
+   "end": "21:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "21:50",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 130
+  }
+ ],
+ "alloc_min": {
+  "居所": 691,
+  "移動": 75,
+  "公務（内容未詳）": 137,
+  "面会・会談": 156,
+  "党務": 115,
+  "式典・行事": 33,
+  "官邸執務": 52,
+  "会食": 181
+ }
+}

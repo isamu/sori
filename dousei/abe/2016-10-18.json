@@ -1,0 +1,380 @@
+{
+ "date": "2016-10-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 665,
+ "residence_min": 775,
+ "meetings": 7,
+ "first_work": "07:32",
+ "events": [
+  {
+   "time": "07:32",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:45",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:27",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院環太平洋連携協定（ＴＰＰ）特別委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:01",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:02",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:56",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "13:05",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "15:21",
+   "label": "杉山晋輔事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:39",
+   "label": "秋葉剛男審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:14",
+   "label": "加藤勝信働き方改革担当相 新原浩朗政策統括官 岡崎淳一厚生労働審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:39",
+   "label": "宗岡正二日中経済協会会長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:04",
+   "label": "国際会議「スポーツ・文化・ワールド・フォーラム」向けビデオメッセージ収録",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:34",
+   "label": "米国ユダヤ人協会のハリス理事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:05",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:36",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:32",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 452
+  },
+  {
+   "start": "07:32",
+   "end": "07:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "07:43",
+   "end": "07:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "07:45",
+   "end": "08:15",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 30
+  },
+  {
+   "start": "08:15",
+   "end": "08:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:27",
+   "end": "08:37",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 10
+  },
+  {
+   "start": "08:37",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "08:48",
+   "end": "08:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:50",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:58",
+   "end": "11:58",
+   "category": "国会",
+   "label": "衆院環太平洋連携協定（ＴＰＰ）特別委員会",
+   "minutes": 180
+  },
+  {
+   "start": "11:58",
+   "end": "12:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:01",
+   "end": "12:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 54
+  },
+  {
+   "start": "12:56",
+   "end": "12:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:57",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:02",
+   "end": "13:04",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 2
+  },
+  {
+   "start": "13:04",
+   "end": "13:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:05",
+   "end": "13:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "13:07",
+   "end": "15:21",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 134
+  },
+  {
+   "start": "15:21",
+   "end": "15:39",
+   "category": "面会・会談",
+   "label": "杉山晋輔事務次官",
+   "minutes": 18
+  },
+  {
+   "start": "15:39",
+   "end": "16:08",
+   "category": "面会・会談",
+   "label": "秋葉剛男審議官",
+   "minutes": 29
+  },
+  {
+   "start": "16:08",
+   "end": "16:13",
+   "category": "面会・会談",
+   "label": "杉山晋輔事務次官",
+   "minutes": 5
+  },
+  {
+   "start": "16:13",
+   "end": "16:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:14",
+   "end": "16:38",
+   "category": "面会・会談",
+   "label": "加藤勝信働き方改革担当相 新原浩朗政策統括官 岡崎淳一厚生労働審議官",
+   "minutes": 24
+  },
+  {
+   "start": "16:38",
+   "end": "16:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:39",
+   "end": "16:50",
+   "category": "面会・会談",
+   "label": "宗岡正二日中経済協会会長",
+   "minutes": 11
+  },
+  {
+   "start": "16:50",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "17:04",
+   "end": "17:08",
+   "category": "官邸執務",
+   "label": "国際会議「スポーツ・文化・ワールド・フォーラム」向けビデオメッセージ収録",
+   "minutes": 4
+  },
+  {
+   "start": "17:08",
+   "end": "17:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "17:34",
+   "end": "18:04",
+   "category": "面会・会談",
+   "label": "米国ユダヤ人協会のハリス理事長",
+   "minutes": 30
+  },
+  {
+   "start": "18:04",
+   "end": "18:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:05",
+   "end": "18:17",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官",
+   "minutes": 12
+  },
+  {
+   "start": "18:17",
+   "end": "18:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 19
+  },
+  {
+   "start": "18:36",
+   "end": "18:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:37",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 323
+  }
+ ],
+ "alloc_min": {
+  "居所": 775,
+  "移動": 18,
+  "公務（内容未詳）": 238,
+  "面会・会談": 159,
+  "官邸執務": 68,
+  "国会": 182
+ }
+}

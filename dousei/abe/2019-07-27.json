@@ -1,0 +1,77 @@
+{
+ "date": "2019-07-27",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 54,
+ "residence_min": 1018,
+ "meetings": 0,
+ "first_work": "06:27",
+ "events": [
+  {
+   "time": "06:27",
+   "label": "移動",
+   "place": "別荘",
+   "category": "移動"
+  },
+  {
+   "time": "06:52",
+   "label": "高橋精一郎元三井住友銀行副頭取、増岡聡一郎鉄鋼ビルディング専務、松崎勲森永商事社長らとゴルフ",
+   "place": "同県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "個人"
+  },
+  {
+   "time": "13:00",
+   "label": "移動",
+   "place": "同県山中湖村 ゴルフ場「富士ゴルフコース」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 387
+  },
+  {
+   "start": "06:27",
+   "end": "06:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "06:52",
+   "end": "13:00",
+   "category": "個人",
+   "label": "高橋精一郎元三井住友銀行副頭取、増岡聡一郎鉄鋼ビルディング専務、松崎勲森永商事社長らとゴルフ",
+   "minutes": 368
+  },
+  {
+   "start": "13:00",
+   "end": "13:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "13:29",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 631
+  }
+ ],
+ "alloc_min": {
+  "居所": 1018,
+  "移動": 54,
+  "個人": 368
+ }
+}

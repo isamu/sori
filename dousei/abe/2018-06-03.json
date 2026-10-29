@@ -1,0 +1,104 @@
+{
+ "date": "2018-06-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 240,
+ "residence_min": 708,
+ "meetings": 0,
+ "first_work": "06:57",
+ "events": [
+  {
+   "time": "06:57",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:51",
+   "label": "成蹊大の友人らとゴルフ",
+   "place": "東京都昭島市 「昭和の森ゴルフコース」",
+   "category": "個人"
+  },
+  {
+   "time": "16:03",
+   "label": "移動",
+   "place": "東京都昭島市 「昭和の森ゴルフコース」",
+   "category": "移動"
+  },
+  {
+   "time": "17:24",
+   "label": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "その他"
+  },
+  {
+   "time": "18:57",
+   "label": "移動",
+   "place": "東京・渋谷 美容室「ＨＡＩＲ　ＧＵＥＳＴ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 417
+  },
+  {
+   "start": "06:57",
+   "end": "07:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 54
+  },
+  {
+   "start": "07:51",
+   "end": "16:03",
+   "category": "個人",
+   "label": "成蹊大の友人らとゴルフ",
+   "minutes": 492
+  },
+  {
+   "start": "16:03",
+   "end": "17:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 81
+  },
+  {
+   "start": "17:24",
+   "end": "18:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 93
+  },
+  {
+   "start": "18:57",
+   "end": "19:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "19:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 291
+  }
+ ],
+ "alloc_min": {
+  "居所": 708,
+  "移動": 147,
+  "個人": 492,
+  "公務（内容未詳）": 93
+ }
+}

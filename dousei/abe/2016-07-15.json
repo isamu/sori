@@ -1,0 +1,137 @@
+{
+ "date": "2016-07-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 9,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "バングラデシュのハシナ首相と会談",
+   "place": "日本大使公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "日本大使公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "ドイツのメルケル首相と会談",
+   "place": "モンゴル・ウランバートルのシャングリラホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＡＳＥＭ首脳会議、スピーチ",
+   "place": "モンゴル・ウランバートルのシャングリラホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "企業関係者らとの会合に出席",
+   "place": "モンゴル・ウランバートルのシャングリラホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "アジア欧州会議（ＡＳＥＭ）首脳会議開会式",
+   "place": "モンゴル・ウランバートルのシャングリラホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ロシアのメドベージェフ首相らと共にフランスのエロー外相に哀悼の意を伝達",
+   "place": "モンゴル・ウランバートルのシャングリラホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同国のエルベグドルジ大統領による出迎え",
+   "place": "モンゴル・ウランバートルのシャングリラホテル",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "韓国の朴槿恵大統領と対話",
+   "place": "チンギス・フレー",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "エルベグドルジ大統領主催夕食会",
+   "place": "チンギス・フレー",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "フィリピンのヤサイ外相と会談",
+   "place": "チンギス・フレー",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ベトナムのグエン・スアン・フック首相と会談",
+   "place": "チンギス・フレー",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "モンゴルの祭典「ナーダム」観賞",
+   "place": "チンギス・フレー",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "シャングリラホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "欧州連合（ＥＵ）のトゥスク大統領、ユンケル欧州委員長と会談",
+   "place": "シャングリラホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "李氏と会談",
+   "place": "シャングリラホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ＡＳＥＭ首脳と写真撮影",
+   "place": "シャングリラホテル",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "中国の李克強首相と会談",
+   "place": "シャングリラホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ケンピンスキーホテル",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

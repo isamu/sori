@@ -1,0 +1,354 @@
+{
+ "date": "2016-05-09",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 449,
+ "residence_min": 967,
+ "meetings": 6,
+ "first_work": "11:11",
+ "events": [
+  {
+   "time": "11:11",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:24",
+   "label": "帰国の記帳",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:31",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:41",
+   "label": "河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:29",
+   "label": "熊本県の蒲島郁夫知事、松田三郎県議会議長らから要望書受け取り",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:47",
+   "label": "非常災害対策本部会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:09",
+   "label": "岸田文雄外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:50",
+   "label": "和泉洋人首相補佐官 長嶺安政外務審議官 山田滝雄国際協力局長 相星孝一地球規模課題審議官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:06",
+   "label": "知的財産戦略本部",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "15:28",
+   "label": "斎木昭隆事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:04",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:29",
+   "label": "自民党の谷垣禎一幹事長、二階俊博総務会長、稲田朋美政調会長",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:47",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "17:48",
+   "label": "同会館内の歯科診療室で治療",
+   "place": "衆院第1議員会館",
+   "category": "個人"
+  },
+  {
+   "time": "18:12",
+   "label": "移動",
+   "place": "衆院第1議員会館",
+   "category": "移動"
+  },
+  {
+   "time": "18:14",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:44",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "11:11",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 671
+  },
+  {
+   "start": "11:11",
+   "end": "11:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "11:24",
+   "end": "11:31",
+   "category": "式典・行事",
+   "label": "帰国の記帳",
+   "minutes": 7
+  },
+  {
+   "start": "11:31",
+   "end": "11:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:39",
+   "end": "11:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:41",
+   "end": "11:52",
+   "category": "面会・会談",
+   "label": "河野克俊統合幕僚長",
+   "minutes": 11
+  },
+  {
+   "start": "11:52",
+   "end": "13:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 97
+  },
+  {
+   "start": "13:29",
+   "end": "13:40",
+   "category": "面会・会談",
+   "label": "熊本県の蒲島郁夫知事、松田三郎県議会議長らから要望書受け取り",
+   "minutes": 11
+  },
+  {
+   "start": "13:40",
+   "end": "13:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:47",
+   "end": "14:08",
+   "category": "官邸執務",
+   "label": "非常災害対策本部会議",
+   "minutes": 21
+  },
+  {
+   "start": "14:08",
+   "end": "14:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:09",
+   "end": "14:40",
+   "category": "面会・会談",
+   "label": "岸田文雄外相",
+   "minutes": 31
+  },
+  {
+   "start": "14:40",
+   "end": "14:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "14:50",
+   "end": "15:04",
+   "category": "面会・会談",
+   "label": "和泉洋人首相補佐官 長嶺安政外務審議官 山田滝雄国際協力局長 相星孝一地球規模課題審議官",
+   "minutes": 14
+  },
+  {
+   "start": "15:04",
+   "end": "15:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:06",
+   "end": "15:27",
+   "category": "官邸執務",
+   "label": "知的財産戦略本部",
+   "minutes": 21
+  },
+  {
+   "start": "15:27",
+   "end": "15:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:28",
+   "end": "16:08",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官",
+   "minutes": 40
+  },
+  {
+   "start": "16:08",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "17:00",
+   "end": "17:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:01",
+   "end": "17:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:04",
+   "end": "17:28",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 24
+  },
+  {
+   "start": "17:28",
+   "end": "17:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:29",
+   "end": "17:44",
+   "category": "面会・会談",
+   "label": "自民党の谷垣禎一幹事長、二階俊博総務会長、稲田朋美政調会長",
+   "minutes": 15
+  },
+  {
+   "start": "17:44",
+   "end": "17:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:47",
+   "end": "17:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:48",
+   "end": "18:12",
+   "category": "個人",
+   "label": "同会館内の歯科診療室で治療",
+   "minutes": 24
+  },
+  {
+   "start": "18:12",
+   "end": "18:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 30
+  },
+  {
+   "start": "18:44",
+   "end": "19:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "19:04",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 296
+  }
+ ],
+ "alloc_min": {
+  "居所": 967,
+  "移動": 45,
+  "式典・行事": 7,
+  "公務（内容未詳）": 179,
+  "面会・会談": 122,
+  "官邸執務": 72,
+  "党務": 24,
+  "個人": 24
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "date": "2016-12-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 298,
+ "residence_min": 1142,
+ "meetings": 0,
+ "first_work": "12:21",
+ "events": [
+  {
+   "time": "12:21",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:36",
+   "label": "天皇誕生日祝賀の儀・宴会の儀に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:50",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "14:08",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:14",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:31",
+   "label": "安倍寛信三菱商事パッケージング社長、岸信夫外務副大臣、長瀬文男イマジカ・ロボットホールディングス会長らと会食",
+   "place": "東京・西麻布 居酒屋「博多田中田　西麻布店」",
+   "category": "会食"
+  },
+  {
+   "time": "21:15",
+   "label": "移動",
+   "place": "東京・西麻布 居酒屋「博多田中田　西麻布店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "12:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 741
+  },
+  {
+   "start": "12:21",
+   "end": "12:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "12:36",
+   "end": "13:50",
+   "category": "式典・行事",
+   "label": "天皇誕生日祝賀の儀・宴会の儀に出席",
+   "minutes": 74
+  },
+  {
+   "start": "13:50",
+   "end": "14:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "14:08",
+   "end": "18:14",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 246
+  },
+  {
+   "start": "18:14",
+   "end": "18:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "18:31",
+   "end": "21:15",
+   "category": "会食",
+   "label": "安倍寛信三菱商事パッケージング社長、岸信夫外務副大臣、長瀬文男イマジカ・ロボットホールディングス会長らと会食",
+   "minutes": 164
+  },
+  {
+   "start": "21:15",
+   "end": "21:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "21:25",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 155
+  }
+ ],
+ "alloc_min": {
+  "居所": 1142,
+  "移動": 60,
+  "式典・行事": 74,
+  "会食": 164
+ }
+}

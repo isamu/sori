@@ -1,0 +1,307 @@
+{
+ "date": "2024-08-01",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 795,
+ "residence_min": 645,
+ "meetings": 2,
+ "first_work": "09:05",
+ "events": [
+  {
+   "time": "09:05",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:33",
+   "label": "ＧＸ２０４０リーダーズパネル",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:50",
+   "label": "鈴木貴子自民党青年局長から同党再生に向けた提言書受け取り",
+   "place": "官邸",
+   "category": "党務"
+  },
+  {
+   "time": "14:09",
+   "label": "邱勇清華大書記の表敬。",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:25",
+   "label": "神田真人内閣官房参与 林芳正官房長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:35",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:38",
+   "label": "練り歩き。和菓子を試食。冷茶を試飲",
+   "place": "千葉県佐倉市 「佐倉城下町商店会」",
+   "category": "党務"
+  },
+  {
+   "time": "16:04",
+   "label": "移動",
+   "place": "千葉県佐倉市 「佐倉城下町商店会」",
+   "category": "移動"
+  },
+  {
+   "time": "16:09",
+   "label": "視察。地元高校生と交流",
+   "place": "同市 複合施設「夢咲くら館」",
+   "category": "視察"
+  },
+  {
+   "time": "16:22",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "16:31",
+   "label": "視察。園児らと交流。植樹",
+   "place": "同市 幼保連携型認定こども園「千成幼稚園」",
+   "category": "視察"
+  },
+  {
+   "time": "17:05",
+   "label": "報道各社のインタビュー",
+   "place": "同市 幼保連携型認定こども園「千成幼稚園」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "17:14",
+   "label": "移動",
+   "place": "同市 幼保連携型認定こども園「千成幼稚園」",
+   "category": "移動"
+  },
+  {
+   "time": "18:23",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:41",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:49",
+   "label": "同ホテル内の日本料理店「和田倉」で鈴木俊一財務相と会食",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "会食"
+  },
+  {
+   "time": "22:12",
+   "label": "移動",
+   "place": "東京・丸の内 パレスホテル東京",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 545
+  },
+  {
+   "start": "09:05",
+   "end": "09:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:06",
+   "end": "09:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "09:33",
+   "end": "10:40",
+   "category": "官邸執務",
+   "label": "ＧＸ２０４０リーダーズパネル",
+   "minutes": 67
+  },
+  {
+   "start": "10:40",
+   "end": "10:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "10:50",
+   "end": "11:16",
+   "category": "党務",
+   "label": "鈴木貴子自民党青年局長から同党再生に向けた提言書受け取り",
+   "minutes": 26
+  },
+  {
+   "start": "11:16",
+   "end": "14:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 173
+  },
+  {
+   "start": "14:09",
+   "end": "14:23",
+   "category": "面会・会談",
+   "label": "邱勇清華大書記の表敬。",
+   "minutes": 14
+  },
+  {
+   "start": "14:23",
+   "end": "14:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "14:25",
+   "end": "14:29",
+   "category": "面会・会談",
+   "label": "神田真人内閣官房参与 林芳正官房長官同席",
+   "minutes": 4
+  },
+  {
+   "start": "14:29",
+   "end": "14:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "14:35",
+   "end": "15:38",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 63
+  },
+  {
+   "start": "15:38",
+   "end": "16:04",
+   "category": "党務",
+   "label": "練り歩き。和菓子を試食。冷茶を試飲",
+   "minutes": 26
+  },
+  {
+   "start": "16:04",
+   "end": "16:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "16:09",
+   "end": "16:22",
+   "category": "視察",
+   "label": "視察。地元高校生と交流",
+   "minutes": 13
+  },
+  {
+   "start": "16:22",
+   "end": "16:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "16:31",
+   "end": "17:05",
+   "category": "視察",
+   "label": "視察。園児らと交流。植樹",
+   "minutes": 34
+  },
+  {
+   "start": "17:05",
+   "end": "17:10",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 5
+  },
+  {
+   "start": "17:10",
+   "end": "17:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "17:14",
+   "end": "18:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 69
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 18
+  },
+  {
+   "start": "18:41",
+   "end": "18:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:49",
+   "end": "22:12",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「和田倉」で鈴木俊一財務相と会食",
+   "minutes": 203
+  },
+  {
+   "start": "22:12",
+   "end": "22:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "22:20",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 100
+  }
+ ],
+ "alloc_min": {
+  "居所": 645,
+  "移動": 163,
+  "公務（内容未詳）": 222,
+  "官邸執務": 85,
+  "党務": 52,
+  "面会・会談": 18,
+  "視察": 47,
+  "取材・会見": 5,
+  "会食": 203
+ }
+}

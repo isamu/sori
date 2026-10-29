@@ -1,0 +1,65 @@
+{
+ "date": "2015-09-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 3,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "国連の日本人職員らを激励",
+   "place": "日本の国連代表部",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "金融を中心とする経済関係者と意見交換",
+   "place": "米ブルームバーグ本社",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "内外記者会見",
+   "place": "ホテル「ザ・ルーズベルトホテル・ニューヨークシティー」",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "バイデン米副大統領と会談",
+   "place": "ホテル「ザ・キタノ・ニューヨーク」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "国連総会の一般討論演説",
+   "place": "国連本部",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ヨルダンのアブドラ国王と会談。岸田文雄外相同席",
+   "place": "レストラン「アレツキーズ・パトルーン」",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ホテル「ザ・キタノ・ニューヨーク」",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

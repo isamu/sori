@@ -1,0 +1,103 @@
+{
+ "date": "2024-05-26",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 785,
+ "residence_min": 655,
+ "meetings": 2,
+ "first_work": "10:55",
+ "events": [
+  {
+   "time": "10:55",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:24",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ロッテホテル",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "日中韓首脳夕食会",
+   "place": "国立現代美術館",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "報道各社のインタビュー",
+   "place": "国立現代美術館",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "中国の李強首相と会談",
+   "place": "国立現代美術館",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "尹錫悦大統領と会談",
+   "place": "大統領府",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "韓国・ソウル郊外のソウル空軍基地",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:55",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 655
+  },
+  {
+   "start": "10:55",
+   "end": "11:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "11:19",
+   "end": "11:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "11:24",
+   "end": "11:27",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "11:27",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 753
+  }
+ ],
+ "alloc_min": {
+  "居所": 655,
+  "移動": 24,
+  "公務（内容未詳）": 5,
+  "取材・会見": 3,
+  "外遊": 753
+ }
+}

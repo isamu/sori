@@ -1,0 +1,292 @@
+{
+ "date": "2018-09-08",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 410,
+ "residence_min": 1030,
+ "meetings": 4,
+ "first_work": "09:30",
+ "events": [
+  {
+   "time": "09:30",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "高橋清孝内閣危機管理監 海堀安喜政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:02",
+   "label": "北海道胆振東部地震に関する関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:22",
+   "label": "小此木八郎防災担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:18",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "15:24",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:15",
+   "label": "世耕弘成経産相 嶋田隆事務次官 高橋泰三資源エネルギー庁長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:49",
+   "label": "高橋清孝内閣危機管理監 海堀安喜政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:02",
+   "label": "北海道胆振東部地震に関する関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:43",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:44",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "18:27",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:30",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "20:07",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 570
+  },
+  {
+   "start": "09:30",
+   "end": "09:31",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:31",
+   "end": "09:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "09:54",
+   "end": "09:59",
+   "category": "面会・会談",
+   "label": "高橋清孝内閣危機管理監 海堀安喜政策統括官",
+   "minutes": 5
+  },
+  {
+   "start": "09:59",
+   "end": "10:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:02",
+   "end": "10:21",
+   "category": "官邸執務",
+   "label": "北海道胆振東部地震に関する関係閣僚会議",
+   "minutes": 19
+  },
+  {
+   "start": "10:21",
+   "end": "10:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:22",
+   "end": "10:36",
+   "category": "面会・会談",
+   "label": "小此木八郎防災担当相",
+   "minutes": 14
+  },
+  {
+   "start": "10:36",
+   "end": "12:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 101
+  },
+  {
+   "start": "12:17",
+   "end": "12:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:18",
+   "end": "15:24",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 186
+  },
+  {
+   "start": "15:24",
+   "end": "15:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:25",
+   "end": "16:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "16:15",
+   "end": "16:40",
+   "category": "面会・会談",
+   "label": "世耕弘成経産相 嶋田隆事務次官 高橋泰三資源エネルギー庁長官",
+   "minutes": 25
+  },
+  {
+   "start": "16:40",
+   "end": "16:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "16:49",
+   "end": "16:53",
+   "category": "面会・会談",
+   "label": "高橋清孝内閣危機管理監 海堀安喜政策統括官",
+   "minutes": 4
+  },
+  {
+   "start": "16:53",
+   "end": "17:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "17:02",
+   "end": "17:22",
+   "category": "官邸執務",
+   "label": "北海道胆振東部地震に関する関係閣僚会議",
+   "minutes": 20
+  },
+  {
+   "start": "17:22",
+   "end": "17:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "17:43",
+   "end": "17:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:44",
+   "end": "18:27",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 43
+  },
+  {
+   "start": "18:27",
+   "end": "18:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:30",
+   "end": "20:07",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で秘書官と食事",
+   "minutes": 97
+  },
+  {
+   "start": "20:07",
+   "end": "20:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "20:09",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 231
+  }
+ ],
+ "alloc_min": {
+  "居所": 1030,
+  "移動": 9,
+  "公務（内容未詳）": 217,
+  "面会・会談": 48,
+  "官邸執務": 39,
+  "会食": 97
+ }
+}

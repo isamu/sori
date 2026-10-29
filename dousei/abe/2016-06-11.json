@@ -1,0 +1,296 @@
+{
+ "date": "2016-06-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 545,
+ "residence_min": 665,
+ "meetings": 0,
+ "first_work": "08:57",
+ "events": [
+  {
+   "time": "08:57",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:21",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:09",
+   "label": "松山空港",
+   "place": "松山空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:35",
+   "label": "練り歩き。ミカン、ミニトマト購入",
+   "place": "松山市 松山銀天街、大街道両商店街",
+   "category": "党務"
+  },
+  {
+   "time": "11:35",
+   "label": "塩崎恭久厚生労働相ら出迎え",
+   "place": "伊予鉄道松山市駅前",
+   "category": "移動"
+  },
+  {
+   "time": "12:17",
+   "label": "街頭演説",
+   "place": "同市 複合ビル「いよてつ会館」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:46",
+   "label": "徒歩",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "12:51",
+   "label": "同ホテル内の中国料理店「桃園」で昼食",
+   "place": "同市 松山全日空ホテル",
+   "category": "会食"
+  },
+  {
+   "time": "13:25",
+   "label": "同ホテル内の宴会場「ダイヤモンドボールルーム」で自民党参院選立候補予定者の総決起大会に出席し、演説",
+   "place": "同市 松山全日空ホテル",
+   "category": "党務"
+  },
+  {
+   "time": "14:16",
+   "label": "松山空港",
+   "place": "松山空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:45",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:58",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:22",
+   "label": "選挙用ＣＭなどの映像を確認",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "17:11",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "17:32",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:40",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "17:54",
+   "label": "母親の洋子さんの米寿を祝うパーティー。昭恵夫人、牛尾治朗ウシオ電機会長ら同席",
+   "place": "東京・三田 レストラン「ジョエル・ロブション」",
+   "category": "個人"
+  },
+  {
+   "time": "21:44",
+   "label": "移動",
+   "place": "東京・三田 レストラン「ジョエル・ロブション」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:57",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 537
+  },
+  {
+   "start": "08:57",
+   "end": "09:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "09:21",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "09:55",
+   "end": "11:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 74
+  },
+  {
+   "start": "11:09",
+   "end": "11:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "11:18",
+   "end": "11:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "11:35",
+   "end": "12:17",
+   "category": "党務",
+   "label": "練り歩き。ミカン、ミニトマト購入",
+   "minutes": 42
+  },
+  {
+   "start": "12:17",
+   "end": "12:46",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "12:46",
+   "end": "12:51",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 5
+  },
+  {
+   "start": "12:51",
+   "end": "13:25",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「桃園」で昼食",
+   "minutes": 34
+  },
+  {
+   "start": "13:25",
+   "end": "13:58",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「ダイヤモンドボールルーム」で自民党参院選立候補予定者の総決起大会に出席し、演説",
+   "minutes": 33
+  },
+  {
+   "start": "13:58",
+   "end": "14:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 18
+  },
+  {
+   "start": "14:16",
+   "end": "14:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "14:40",
+   "end": "15:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 65
+  },
+  {
+   "start": "15:45",
+   "end": "15:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "15:58",
+   "end": "16:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "16:22",
+   "end": "17:11",
+   "category": "党務",
+   "label": "選挙用ＣＭなどの映像を確認",
+   "minutes": 49
+  },
+  {
+   "start": "17:11",
+   "end": "17:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "17:32",
+   "end": "17:40",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 8
+  },
+  {
+   "start": "17:40",
+   "end": "17:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "17:54",
+   "end": "21:44",
+   "category": "個人",
+   "label": "母親の洋子さんの米寿を祝うパーティー。昭恵夫人、牛尾治朗ウシオ電機会長ら同席",
+   "minutes": 230
+  },
+  {
+   "start": "21:44",
+   "end": "22:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "22:00",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 120
+  }
+ ],
+ "alloc_min": {
+  "居所": 665,
+  "移動": 184,
+  "公務（内容未詳）": 174,
+  "党務": 153,
+  "会食": 34,
+  "個人": 230
+ }
+}

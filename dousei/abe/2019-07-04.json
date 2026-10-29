@@ -1,0 +1,490 @@
+{
+ "date": "2019-07-04",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 899,
+ "residence_min": 541,
+ "meetings": 1,
+ "first_work": "07:30",
+ "events": [
+  {
+   "time": "07:30",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:55",
+   "label": "６月下旬からの大雨に関する関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:08",
+   "label": "根本匠厚生労働相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:23",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:43",
+   "label": "利用客と握手。写真撮影",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:20",
+   "label": "ＪＲ福島駅",
+   "place": "ＪＲ福島駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:24",
+   "label": "移動",
+   "place": "ＪＲ福島駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:42",
+   "label": "桃を試食。街頭演説",
+   "place": "福島市 「あづま果樹園」",
+   "category": "党務"
+  },
+  {
+   "time": "11:21",
+   "label": "移動",
+   "place": "福島市 「あづま果樹園」",
+   "category": "移動"
+  },
+  {
+   "time": "12:09",
+   "label": "街頭演説",
+   "place": "福島県郡山市 「うすい百貨店」前",
+   "category": "党務"
+  },
+  {
+   "time": "12:43",
+   "label": "移動",
+   "place": "福島県郡山市 「うすい百貨店」前",
+   "category": "移動"
+  },
+  {
+   "time": "12:53",
+   "label": "昼食",
+   "place": "同市 焼き肉店「牛豊　朝日店」",
+   "category": "会食"
+  },
+  {
+   "time": "13:23",
+   "label": "移動",
+   "place": "同市 焼き肉店「牛豊　朝日店」",
+   "category": "移動"
+  },
+  {
+   "time": "14:23",
+   "label": "休憩",
+   "place": "宮城県蔵王町 東北自動車道蔵王パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:25",
+   "label": "移動",
+   "place": "宮城県蔵王町 東北自動車道蔵王パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:59",
+   "label": "街頭演説",
+   "place": "同県名取市 閖上体育館前",
+   "category": "党務"
+  },
+  {
+   "time": "15:30",
+   "label": "徒歩",
+   "place": "同県名取市 閖上体育館前",
+   "category": "移動"
+  },
+  {
+   "time": "15:31",
+   "label": "視察し、買い物。利用客らと握手。写真撮影",
+   "place": "同市 商業施設「かわまちてらす閖上」",
+   "category": "視察"
+  },
+  {
+   "time": "16:00",
+   "label": "移動",
+   "place": "同市 商業施設「かわまちてらす閖上」",
+   "category": "移動"
+  },
+  {
+   "time": "16:39",
+   "label": "街頭演説",
+   "place": "仙台市宮城野区 東北福祉大仙台駅東口キャンパス前",
+   "category": "党務"
+  },
+  {
+   "time": "17:10",
+   "label": "移動",
+   "place": "仙台市宮城野区 東北福祉大仙台駅東口キャンパス前",
+   "category": "移動"
+  },
+  {
+   "time": "17:21",
+   "label": "街頭演説",
+   "place": "同市青葉区 複合施設「アエル」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:51",
+   "label": "移動",
+   "place": "同市青葉区 複合施設「アエル」前",
+   "category": "移動"
+  },
+  {
+   "time": "17:59",
+   "label": "夕食",
+   "place": "同 の牛タン専門店「利久　ドン・キホーテ仙台駅前店」",
+   "category": "会食"
+  },
+  {
+   "time": "18:43",
+   "label": "移動",
+   "place": "同 の牛タン専門店「利久　ドン・キホーテ仙台駅前店」",
+   "category": "移動"
+  },
+  {
+   "time": "19:19",
+   "label": "報道番組に出演",
+   "place": "同区のＮＨＫ仙台放送局",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:46",
+   "label": "移動",
+   "place": "同区のＮＨＫ仙台放送局",
+   "category": "移動"
+  },
+  {
+   "time": "19:53",
+   "label": "ＪＲ仙台駅",
+   "place": "ＪＲ仙台駅",
+   "category": "移動"
+  },
+  {
+   "time": "22:03",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "22:08",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 450
+  },
+  {
+   "start": "07:30",
+   "end": "07:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "07:32",
+   "end": "07:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "07:55",
+   "end": "08:05",
+   "category": "官邸執務",
+   "label": "６月下旬からの大雨に関する関係閣僚会議",
+   "minutes": 10
+  },
+  {
+   "start": "08:05",
+   "end": "08:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "08:08",
+   "end": "08:11",
+   "category": "面会・会談",
+   "label": "根本匠厚生労働相",
+   "minutes": 3
+  },
+  {
+   "start": "08:11",
+   "end": "08:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "08:23",
+   "end": "08:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:37",
+   "end": "08:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:43",
+   "end": "08:45",
+   "category": "移動",
+   "label": "利用客と握手。写真撮影",
+   "minutes": 2
+  },
+  {
+   "start": "08:45",
+   "end": "10:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 95
+  },
+  {
+   "start": "10:20",
+   "end": "10:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "10:24",
+   "end": "10:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "10:42",
+   "end": "11:21",
+   "category": "党務",
+   "label": "桃を試食。街頭演説",
+   "minutes": 39
+  },
+  {
+   "start": "11:21",
+   "end": "12:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 48
+  },
+  {
+   "start": "12:09",
+   "end": "12:43",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "12:43",
+   "end": "12:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "12:53",
+   "end": "13:23",
+   "category": "会食",
+   "label": "昼食",
+   "minutes": 30
+  },
+  {
+   "start": "13:23",
+   "end": "14:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 60
+  },
+  {
+   "start": "14:23",
+   "end": "14:25",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "14:25",
+   "end": "14:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 34
+  },
+  {
+   "start": "14:59",
+   "end": "15:30",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "15:30",
+   "end": "15:31",
+   "category": "移動",
+   "label": "徒歩",
+   "minutes": 1
+  },
+  {
+   "start": "15:31",
+   "end": "16:00",
+   "category": "視察",
+   "label": "視察し、買い物。利用客らと握手。写真撮影",
+   "minutes": 29
+  },
+  {
+   "start": "16:00",
+   "end": "16:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "16:39",
+   "end": "17:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 31
+  },
+  {
+   "start": "17:10",
+   "end": "17:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "17:21",
+   "end": "17:51",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "17:51",
+   "end": "17:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "17:59",
+   "end": "18:43",
+   "category": "会食",
+   "label": "夕食",
+   "minutes": 44
+  },
+  {
+   "start": "18:43",
+   "end": "18:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "18:51",
+   "end": "19:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 28
+  },
+  {
+   "start": "19:19",
+   "end": "19:40",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 21
+  },
+  {
+   "start": "19:40",
+   "end": "19:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "19:46",
+   "end": "19:53",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "19:53",
+   "end": "20:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 39
+  },
+  {
+   "start": "20:32",
+   "end": "22:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 91
+  },
+  {
+   "start": "22:03",
+   "end": "22:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "22:08",
+   "end": "22:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "22:29",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 91
+  }
+ ],
+ "alloc_min": {
+  "居所": 541,
+  "移動": 328,
+  "公務（内容未詳）": 269,
+  "官邸執務": 10,
+  "面会・会談": 3,
+  "党務": 165,
+  "会食": 74,
+  "視察": 29,
+  "取材・会見": 21
+ }
+}

@@ -1,0 +1,320 @@
+{
+ "date": "2017-02-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 680,
+ "residence_min": 760,
+ "meetings": 4,
+ "first_work": "07:08",
+ "events": [
+  {
+   "time": "07:08",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:20",
+   "label": "萩生田光一官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:23",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:48",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:58",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:04",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:06",
+   "label": "北方領土返還要求全国大会に出席し、あいさつ",
+   "place": "東京・隼町 国立劇場",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:22",
+   "label": "移動",
+   "place": "東京・隼町 国立劇場",
+   "category": "移動"
+  },
+  {
+   "time": "12:25",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:56",
+   "label": "西村康稔自民党総裁特別補佐",
+   "place": "国会",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:12",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "17:20",
+   "label": "前田哲防衛政策局長 宮川正情報本部長 北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:51",
+   "label": "二階俊博自民党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 428
+  },
+  {
+   "start": "07:08",
+   "end": "07:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "07:18",
+   "end": "07:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "07:20",
+   "end": "08:21",
+   "category": "面会・会談",
+   "label": "萩生田光一官房副長官",
+   "minutes": 61
+  },
+  {
+   "start": "08:21",
+   "end": "08:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:23",
+   "end": "08:32",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 9
+  },
+  {
+   "start": "08:32",
+   "end": "08:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "08:48",
+   "end": "08:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:49",
+   "end": "08:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "08:58",
+   "end": "12:02",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 184
+  },
+  {
+   "start": "12:02",
+   "end": "12:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:04",
+   "end": "12:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:06",
+   "end": "12:22",
+   "category": "式典・行事",
+   "label": "北方領土返還要求全国大会に出席し、あいさつ",
+   "minutes": 16
+  },
+  {
+   "start": "12:22",
+   "end": "12:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 29
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "12:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:56",
+   "end": "13:00",
+   "category": "国会",
+   "label": "西村康稔自民党総裁特別補佐",
+   "minutes": 4
+  },
+  {
+   "start": "13:00",
+   "end": "17:09",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 249
+  },
+  {
+   "start": "17:09",
+   "end": "17:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:12",
+   "end": "17:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:14",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "17:20",
+   "end": "17:27",
+   "category": "面会・会談",
+   "label": "前田哲防衛政策局長 宮川正情報本部長 北村滋内閣情報官",
+   "minutes": 7
+  },
+  {
+   "start": "17:27",
+   "end": "17:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "17:51",
+   "end": "18:19",
+   "category": "面会・会談",
+   "label": "二階俊博自民党幹事長",
+   "minutes": 28
+  },
+  {
+   "start": "18:19",
+   "end": "18:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "18:27",
+   "end": "18:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 332
+  }
+ ],
+ "alloc_min": {
+  "居所": 760,
+  "移動": 20,
+  "公務（内容未詳）": 73,
+  "面会・会談": 96,
+  "官邸執務": 38,
+  "国会": 437,
+  "式典・行事": 16
+ }
+}

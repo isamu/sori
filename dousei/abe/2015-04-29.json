@@ -1,0 +1,71 @@
+{
+ "date": "2015-04-29",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 2,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "米議会上下両院合同会議で演説",
+   "place": "米連邦議会",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "訪問",
+   "place": "第二次世界大戦記念碑",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "米議会上院との懇談",
+   "place": "米連邦議会",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日本テレビのインタビュー",
+   "place": "迎賓館ブレアハウス",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "米議会下院議長主催レセプション",
+   "place": "米連邦議会",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "日米関係者を集めたディナーに出席",
+   "place": "フリーア美術館",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "全米商工会議所との懇談",
+   "place": "米国商工会議所",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "笹川平和財団米国主催のシンポジウムに出席",
+   "place": "フォーシーズンズ・ホテル",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

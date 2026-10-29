@@ -1,0 +1,361 @@
+{
+ "date": "2016-07-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 803,
+ "residence_min": 637,
+ "meetings": 1,
+ "first_work": "08:00",
+ "events": [
+  {
+   "time": "08:00",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:30",
+   "label": "バングラデシュの飲食店襲撃テロ事件に関する関係閣僚会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:51",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:05",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:22",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "11:12",
+   "label": "ＪＲ長岡駅",
+   "place": "ＪＲ長岡駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:19",
+   "label": "新潟県長岡市 多目的施設「シティホールプラザ・アオーレ長岡」",
+   "place": "新潟県長岡市 多目的施設「シティホールプラザ・アオーレ長岡」",
+   "category": "移動"
+  },
+  {
+   "time": "11:28",
+   "label": "練り歩き。街頭演説",
+   "place": "同市 大手通商店街",
+   "category": "党務"
+  },
+  {
+   "time": "12:52",
+   "label": "同所内のレストラン「越後しなのがわバル」で昼食",
+   "place": "同県十日町市 越後妻有里山現代美術館「キナーレ」",
+   "category": "会食"
+  },
+  {
+   "time": "13:17",
+   "label": "同美術館駐車場で街頭演説",
+   "place": "同県十日町市 越後妻有里山現代美術館「キナーレ」",
+   "category": "党務"
+  },
+  {
+   "time": "14:30",
+   "label": "観光客らと記念撮影",
+   "place": "長野県栄村 道の駅「信越さかえ」",
+   "category": "移動"
+  },
+  {
+   "time": "15:31",
+   "label": "街頭演説",
+   "place": "長野電鉄須坂駅前",
+   "category": "党務"
+  },
+  {
+   "time": "16:29",
+   "label": "街頭演説",
+   "place": "同県千曲市 更埴体育館駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "17:50",
+   "label": "街頭演説",
+   "place": "ＪＲ松本駅お城口広場",
+   "category": "党務"
+  },
+  {
+   "time": "18:18",
+   "label": "ＪＲ松本駅",
+   "place": "ＪＲ松本駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:42",
+   "label": "茂木敏充自民党選対委員長",
+   "place": "スーパーあずさ32号",
+   "category": "党務"
+  },
+  {
+   "time": "21:11",
+   "label": "移動",
+   "place": "スーパーあずさ32号",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 480
+  },
+  {
+   "start": "08:00",
+   "end": "08:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "08:15",
+   "end": "08:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "08:30",
+   "end": "08:43",
+   "category": "官邸執務",
+   "label": "バングラデシュの飲食店襲撃テロ事件に関する関係閣僚会議",
+   "minutes": 13
+  },
+  {
+   "start": "08:43",
+   "end": "08:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "08:51",
+   "end": "09:03",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 12
+  },
+  {
+   "start": "09:03",
+   "end": "09:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:05",
+   "end": "09:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "09:22",
+   "end": "09:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:28",
+   "end": "11:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 104
+  },
+  {
+   "start": "11:12",
+   "end": "11:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "11:15",
+   "end": "11:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "11:19",
+   "end": "11:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:27",
+   "end": "11:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:28",
+   "end": "11:55",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "11:55",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "12:52",
+   "end": "13:17",
+   "category": "会食",
+   "label": "同所内のレストラン「越後しなのがわバル」で昼食",
+   "minutes": 25
+  },
+  {
+   "start": "13:17",
+   "end": "13:56",
+   "category": "党務",
+   "label": "同美術館駐車場で街頭演説",
+   "minutes": 39
+  },
+  {
+   "start": "13:56",
+   "end": "14:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 34
+  },
+  {
+   "start": "14:30",
+   "end": "14:35",
+   "category": "移動",
+   "label": "観光客らと記念撮影",
+   "minutes": 5
+  },
+  {
+   "start": "14:35",
+   "end": "15:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "15:31",
+   "end": "16:00",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "16:00",
+   "end": "16:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "16:29",
+   "end": "16:58",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "16:58",
+   "end": "17:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "17:50",
+   "end": "18:12",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 22
+  },
+  {
+   "start": "18:12",
+   "end": "18:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:18",
+   "end": "18:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "18:35",
+   "end": "19:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 67
+  },
+  {
+   "start": "19:42",
+   "end": "19:55",
+   "category": "党務",
+   "label": "茂木敏充自民党選対委員長",
+   "minutes": 13
+  },
+  {
+   "start": "19:55",
+   "end": "21:11",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 76
+  },
+  {
+   "start": "21:11",
+   "end": "21:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "21:23",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 157
+  }
+ ],
+ "alloc_min": {
+  "居所": 637,
+  "移動": 77,
+  "公務（内容未詳）": 517,
+  "官邸執務": 13,
+  "面会・会談": 12,
+  "党務": 159,
+  "会食": 25
+ }
+}

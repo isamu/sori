@@ -1,0 +1,467 @@
+{
+ "date": "2016-01-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 868,
+ "residence_min": 572,
+ "meetings": 7,
+ "first_work": "07:00",
+ "events": [
+  {
+   "time": "07:00",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:37",
+   "label": "オバマ米大統領と電話会談。萩生田光一、世耕弘成両官房副長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:04",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "11:53",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:55",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "13:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:31",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "14:54",
+   "label": "斎木昭隆事務次官 石兼公博アジア大洋州局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:22",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:30",
+   "label": "衆院予算委員会",
+   "place": "国会 衆院第1委員室",
+   "category": "国会"
+  },
+  {
+   "time": "15:38",
+   "label": "移動",
+   "place": "国会 衆院第1委員室",
+   "category": "移動"
+  },
+  {
+   "time": "15:40",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:00",
+   "label": "マレン元米統合参謀本部議長。河野克俊防衛省統合幕僚長同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:40",
+   "label": "韓国の朴槿恵大統領と電話会談。萩生田、世耕両官房副長官同席",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:25",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 秋葉剛男総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:01",
+   "label": "丸川珠代環境相、世耕官房副長官、荒井広幸新党改革代表らと会食",
+   "place": "東京・銀座 日本料理店「新ばし松山」",
+   "category": "会食"
+  },
+  {
+   "time": "21:10",
+   "label": "移動",
+   "place": "東京・銀座 日本料理店「新ばし松山」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 420
+  },
+  {
+   "start": "07:00",
+   "end": "07:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "07:14",
+   "end": "07:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 23
+  },
+  {
+   "start": "07:37",
+   "end": "07:57",
+   "category": "面会・会談",
+   "label": "オバマ米大統領と電話会談。萩生田光一、世耕弘成両官房副長官同席",
+   "minutes": 20
+  },
+  {
+   "start": "07:57",
+   "end": "08:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "08:04",
+   "end": "08:54",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 50
+  },
+  {
+   "start": "08:54",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 58
+  },
+  {
+   "start": "09:52",
+   "end": "09:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:54",
+   "end": "09:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "09:57",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "10:01",
+   "end": "11:51",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 110
+  },
+  {
+   "start": "11:51",
+   "end": "11:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "11:53",
+   "end": "11:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 57
+  },
+  {
+   "start": "12:52",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 2
+  },
+  {
+   "start": "12:57",
+   "end": "13:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:01",
+   "end": "14:09",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 68
+  },
+  {
+   "start": "14:09",
+   "end": "14:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "14:31",
+   "end": "14:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "14:34",
+   "end": "14:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "14:54",
+   "end": "15:21",
+   "category": "面会・会談",
+   "label": "斎木昭隆事務次官 石兼公博アジア大洋州局長",
+   "minutes": 27
+  },
+  {
+   "start": "15:21",
+   "end": "15:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:22",
+   "end": "15:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:23",
+   "end": "15:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "15:30",
+   "end": "15:35",
+   "category": "国会",
+   "label": "衆院予算委員会",
+   "minutes": 5
+  },
+  {
+   "start": "15:35",
+   "end": "15:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "15:38",
+   "end": "15:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:39",
+   "end": "15:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:40",
+   "end": "15:55",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 15
+  },
+  {
+   "start": "15:55",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "16:00",
+   "end": "16:34",
+   "category": "面会・会談",
+   "label": "マレン元米統合参謀本部議長。河野克俊防衛省統合幕僚長同席",
+   "minutes": 34
+  },
+  {
+   "start": "16:34",
+   "end": "16:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "16:40",
+   "end": "16:55",
+   "category": "面会・会談",
+   "label": "韓国の朴槿恵大統領と電話会談。萩生田、世耕両官房副長官同席",
+   "minutes": 15
+  },
+  {
+   "start": "16:55",
+   "end": "18:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 90
+  },
+  {
+   "start": "18:25",
+   "end": "18:45",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 秋葉剛男総合外交政策局長 前田哲防衛政策局長 河野克俊統合幕僚長",
+   "minutes": 20
+  },
+  {
+   "start": "18:45",
+   "end": "18:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "18:49",
+   "end": "19:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "19:01",
+   "end": "21:10",
+   "category": "会食",
+   "label": "丸川珠代環境相、世耕官房副長官、荒井広幸新党改革代表らと会食",
+   "minutes": 129
+  },
+  {
+   "start": "21:10",
+   "end": "21:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "21:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 152
+  }
+ ],
+ "alloc_min": {
+  "居所": 572,
+  "移動": 55,
+  "公務（内容未詳）": 259,
+  "面会・会談": 181,
+  "国会": 187,
+  "官邸執務": 57,
+  "会食": 129
+ }
+}

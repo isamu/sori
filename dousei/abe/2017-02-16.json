@@ -1,0 +1,327 @@
+{
+ "date": "2017-02-16",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 560,
+ "residence_min": 880,
+ "meetings": 6,
+ "first_work": "09:20",
+ "events": [
+  {
+   "time": "09:20",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:13",
+   "label": "丸川珠代五輪担当相 平田竹男東京五輪・パラリンピック推進本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:17",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 前田哲防衛政策局長 住田和明統合幕僚副長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:57",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "山口県物産展に出席し、あいさつ",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "12:22",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "12:26",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:02",
+   "label": "参院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "14:22",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "14:35",
+   "label": "大江博経済協力開発機構（ＯＥＣＤ）代表部大使ら",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:41",
+   "label": "林真琴刑事局長 斎木尚子国際法局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:20",
+   "label": "未来投資会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:56",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:07",
+   "label": "前田哲防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:39",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:20",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 560
+  },
+  {
+   "start": "09:20",
+   "end": "09:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "09:37",
+   "end": "10:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "10:13",
+   "end": "10:46",
+   "category": "面会・会談",
+   "label": "丸川珠代五輪担当相 平田竹男東京五輪・パラリンピック推進本部事務局長",
+   "minutes": 33
+  },
+  {
+   "start": "10:46",
+   "end": "11:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "11:17",
+   "end": "11:54",
+   "category": "面会・会談",
+   "label": "谷内正太郎国家安全保障局長 北村滋内閣情報官 前田哲防衛政策局長 住田和明統合幕僚副長",
+   "minutes": 37
+  },
+  {
+   "start": "11:54",
+   "end": "11:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:57",
+   "end": "12:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "12:00",
+   "end": "12:22",
+   "category": "党務",
+   "label": "山口県物産展に出席し、あいさつ",
+   "minutes": 22
+  },
+  {
+   "start": "12:22",
+   "end": "12:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 27
+  },
+  {
+   "start": "12:53",
+   "end": "12:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:54",
+   "end": "13:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:02",
+   "end": "14:21",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 79
+  },
+  {
+   "start": "14:21",
+   "end": "14:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "14:22",
+   "end": "14:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:24",
+   "end": "14:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "14:35",
+   "end": "14:50",
+   "category": "面会・会談",
+   "label": "大江博経済協力開発機構（ＯＥＣＤ）代表部大使ら",
+   "minutes": 15
+  },
+  {
+   "start": "14:50",
+   "end": "16:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 111
+  },
+  {
+   "start": "16:41",
+   "end": "17:19",
+   "category": "面会・会談",
+   "label": "林真琴刑事局長 斎木尚子国際法局長",
+   "minutes": 38
+  },
+  {
+   "start": "17:19",
+   "end": "17:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:20",
+   "end": "17:53",
+   "category": "官邸執務",
+   "label": "未来投資会議",
+   "minutes": 33
+  },
+  {
+   "start": "17:53",
+   "end": "17:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:56",
+   "end": "18:06",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 10
+  },
+  {
+   "start": "18:06",
+   "end": "18:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:07",
+   "end": "18:17",
+   "category": "面会・会談",
+   "label": "前田哲防衛政策局長",
+   "minutes": 10
+  },
+  {
+   "start": "18:17",
+   "end": "18:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 22
+  },
+  {
+   "start": "18:39",
+   "end": "18:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:40",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 320
+  }
+ ],
+ "alloc_min": {
+  "居所": 880,
+  "移動": 28,
+  "公務（内容未詳）": 228,
+  "面会・会談": 143,
+  "党務": 22,
+  "官邸執務": 60,
+  "国会": 79
+ }
+}

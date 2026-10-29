@@ -1,0 +1,485 @@
+{
+ "date": "2018-11-06",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 718,
+ "residence_min": 722,
+ "meetings": 4,
+ "first_work": "08:54",
+ "events": [
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:16",
+   "label": "岩屋毅防衛相 槌道明宏防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:29",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:06",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:13",
+   "label": "秋の叙勲大綬章親授式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:48",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "11:20",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:25",
+   "label": "マレーシアのマハティール首相を出迎え。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:26",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:35",
+   "label": "マハティール首相と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:10",
+   "label": "共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:27",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:28",
+   "label": "安倍晋三首相夫妻主催の昼食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "14:30",
+   "label": "昭恵夫人とともにマハティール首相夫妻を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:38",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:39",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:45",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:52",
+   "label": "秋の叙勲重光章伝達式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:19",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "16:18",
+   "label": "トルコのチャブシオール外相の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:44",
+   "label": "国家安全保障会議。柴山昌彦文部科学相、世耕弘成経済産業相、平井卓也科学技術担当相同席",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:28",
+   "label": "未来投資会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:32",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:33",
+   "label": "自民党の関口昌一、公明党の石川博崇両参院国対委員長らと会食。菅義偉、野上浩太郎正副官房長官同席",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "19:58",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "20:10",
+   "label": "同所内の宴会場「ジュール」で日本酒のお披露目会に出席し、あいさつ。昭恵夫人同席",
+   "place": "東京・白金台 八芳園",
+   "category": "式典・行事"
+  },
+  {
+   "time": "20:38",
+   "label": "移動",
+   "place": "東京・白金台 八芳園",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:54",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 534
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "09:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "09:16",
+   "end": "09:26",
+   "category": "面会・会談",
+   "label": "岩屋毅防衛相 槌道明宏防衛政策局長",
+   "minutes": 10
+  },
+  {
+   "start": "09:26",
+   "end": "09:29",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:29",
+   "end": "09:46",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 17
+  },
+  {
+   "start": "09:46",
+   "end": "10:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "10:06",
+   "end": "10:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "10:13",
+   "end": "10:48",
+   "category": "式典・行事",
+   "label": "秋の叙勲大綬章親授式",
+   "minutes": 35
+  },
+  {
+   "start": "10:48",
+   "end": "10:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "10:54",
+   "end": "11:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "11:20",
+   "end": "11:54",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 34
+  },
+  {
+   "start": "11:54",
+   "end": "12:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "12:25",
+   "end": "12:26",
+   "category": "式典・行事",
+   "label": "マレーシアのマハティール首相を出迎え。記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "12:26",
+   "end": "12:32",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼、儀仗",
+   "minutes": 6
+  },
+  {
+   "start": "12:32",
+   "end": "12:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:35",
+   "end": "13:06",
+   "category": "面会・会談",
+   "label": "マハティール首相と首脳会談",
+   "minutes": 31
+  },
+  {
+   "start": "13:06",
+   "end": "13:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "13:10",
+   "end": "13:26",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 16
+  },
+  {
+   "start": "13:26",
+   "end": "13:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:27",
+   "end": "13:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "13:28",
+   "end": "14:30",
+   "category": "会食",
+   "label": "安倍晋三首相夫妻主催の昼食会",
+   "minutes": 62
+  },
+  {
+   "start": "14:30",
+   "end": "14:31",
+   "category": "式典・行事",
+   "label": "昭恵夫人とともにマハティール首相夫妻を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "14:31",
+   "end": "14:38",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 7
+  },
+  {
+   "start": "14:38",
+   "end": "14:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 6
+  },
+  {
+   "start": "14:45",
+   "end": "14:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "14:52",
+   "end": "15:19",
+   "category": "式典・行事",
+   "label": "秋の叙勲重光章伝達式",
+   "minutes": 27
+  },
+  {
+   "start": "15:19",
+   "end": "15:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "15:27",
+   "end": "16:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "16:18",
+   "end": "16:39",
+   "category": "面会・会談",
+   "label": "トルコのチャブシオール外相の表敬",
+   "minutes": 21
+  },
+  {
+   "start": "16:39",
+   "end": "16:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "16:44",
+   "end": "17:19",
+   "category": "官邸執務",
+   "label": "国家安全保障会議。柴山昌彦文部科学相、世耕弘成経済産業相、平井卓也科学技術担当相同席",
+   "minutes": 35
+  },
+  {
+   "start": "17:19",
+   "end": "17:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "17:28",
+   "end": "18:17",
+   "category": "官邸執務",
+   "label": "未来投資会議",
+   "minutes": 49
+  },
+  {
+   "start": "18:17",
+   "end": "18:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "18:32",
+   "end": "18:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:33",
+   "end": "19:58",
+   "category": "会食",
+   "label": "自民党の関口昌一、公明党の石川博崇両参院国対委員長らと会食。菅義偉、野上浩太郎正副官房長官同席",
+   "minutes": 85
+  },
+  {
+   "start": "19:58",
+   "end": "20:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "20:10",
+   "end": "20:38",
+   "category": "式典・行事",
+   "label": "同所内の宴会場「ジュール」で日本酒のお披露目会に出席し、あいさつ。昭恵夫人同席",
+   "minutes": 28
+  },
+  {
+   "start": "20:38",
+   "end": "20:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "20:59",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 181
+  }
+ ],
+ "alloc_min": {
+  "居所": 722,
+  "移動": 65,
+  "公務（内容未詳）": 189,
+  "面会・会談": 96,
+  "官邸執務": 107,
+  "式典・行事": 98,
+  "取材・会見": 16,
+  "会食": 147
+ }
+}

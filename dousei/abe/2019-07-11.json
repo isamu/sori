@@ -1,0 +1,347 @@
+{
+ "date": "2019-07-11",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 759,
+ "residence_min": 681,
+ "meetings": 0,
+ "first_work": "09:10",
+ "events": [
+  {
+   "time": "09:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:40",
+   "label": "森喜朗元首相",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:20",
+   "label": "大分空港",
+   "place": "大分空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:27",
+   "label": "移動",
+   "place": "大分空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:18",
+   "label": "街頭演説。聴衆と握手、写真撮影",
+   "place": "大分県別府市 別府公園",
+   "category": "党務"
+  },
+  {
+   "time": "12:50",
+   "label": "移動",
+   "place": "大分県別府市 別府公園",
+   "category": "移動"
+  },
+  {
+   "time": "13:04",
+   "label": "「別府温泉旅館　女将の会」関係者、長野恭紘同市長と昼食",
+   "place": "別府市 郷土料理店「地獄蒸し工房　鉄輪」",
+   "category": "会食"
+  },
+  {
+   "time": "13:31",
+   "label": "移動",
+   "place": "別府市 郷土料理店「地獄蒸し工房　鉄輪」",
+   "category": "移動"
+  },
+  {
+   "time": "14:03",
+   "label": "練り歩き",
+   "place": "同市 商店街「ガレリア竹町」",
+   "category": "党務"
+  },
+  {
+   "time": "14:15",
+   "label": "街頭演説",
+   "place": "同市 商店街「ガレリア竹町」",
+   "category": "党務"
+  },
+  {
+   "time": "14:50",
+   "label": "移動",
+   "place": "同市 商店街「ガレリア竹町」",
+   "category": "移動"
+  },
+  {
+   "time": "16:02",
+   "label": "街頭演説。聴衆と写真撮影",
+   "place": "大分県日田市 市民文化会館「パトリア日田」前",
+   "category": "党務"
+  },
+  {
+   "time": "16:38",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "16:46",
+   "label": "休憩",
+   "place": "大分県日田市 大分自動車道萩尾パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "16:48",
+   "label": "移動",
+   "place": "大分県日田市 大分自動車道萩尾パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "17:43",
+   "label": "街頭演説",
+   "place": "福岡市中央区 警固公園",
+   "category": "党務"
+  },
+  {
+   "time": "18:10",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "18:15",
+   "label": "街頭演説",
+   "place": "福岡市中央区 天神ツインビル前",
+   "category": "党務"
+  },
+  {
+   "time": "18:42",
+   "label": "移動",
+   "place": "福岡市中央区 天神ツインビル前",
+   "category": "移動"
+  },
+  {
+   "time": "18:56",
+   "label": "福岡空港",
+   "place": "福岡空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:12",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:24",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 550
+  },
+  {
+   "start": "09:10",
+   "end": "09:39",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "09:39",
+   "end": "09:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:40",
+   "end": "09:41",
+   "category": "移動",
+   "label": "森喜朗元首相",
+   "minutes": 1
+  },
+  {
+   "start": "09:41",
+   "end": "11:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 99
+  },
+  {
+   "start": "11:20",
+   "end": "11:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "11:27",
+   "end": "12:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 51
+  },
+  {
+   "start": "12:18",
+   "end": "12:50",
+   "category": "党務",
+   "label": "街頭演説。聴衆と握手、写真撮影",
+   "minutes": 32
+  },
+  {
+   "start": "12:50",
+   "end": "13:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "13:04",
+   "end": "13:31",
+   "category": "会食",
+   "label": "「別府温泉旅館　女将の会」関係者、長野恭紘同市長と昼食",
+   "minutes": 27
+  },
+  {
+   "start": "13:31",
+   "end": "14:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "14:03",
+   "end": "14:15",
+   "category": "党務",
+   "label": "練り歩き",
+   "minutes": 12
+  },
+  {
+   "start": "14:15",
+   "end": "14:50",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 35
+  },
+  {
+   "start": "14:50",
+   "end": "16:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 72
+  },
+  {
+   "start": "16:02",
+   "end": "16:38",
+   "category": "党務",
+   "label": "街頭演説。聴衆と写真撮影",
+   "minutes": 36
+  },
+  {
+   "start": "16:38",
+   "end": "16:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "16:46",
+   "end": "16:48",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "16:48",
+   "end": "17:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 55
+  },
+  {
+   "start": "17:43",
+   "end": "18:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "18:10",
+   "end": "18:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "18:15",
+   "end": "18:42",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "18:42",
+   "end": "18:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "18:56",
+   "end": "20:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 64
+  },
+  {
+   "start": "20:00",
+   "end": "21:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 72
+  },
+  {
+   "start": "21:12",
+   "end": "21:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "21:24",
+   "end": "21:49",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "21:49",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 131
+  }
+ ],
+ "alloc_min": {
+  "居所": 681,
+  "移動": 391,
+  "公務（内容未詳）": 172,
+  "党務": 169,
+  "会食": 27
+ }
+}

@@ -1,0 +1,328 @@
+{
+ "date": "2018-03-26",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 840,
+ "residence_min": 600,
+ "meetings": 1,
+ "first_work": "07:10",
+ "events": [
+  {
+   "time": "07:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:28",
+   "label": "野上浩太郎官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:54",
+   "label": "麻生太郎副総理兼財務相 河野太郎外相 小野寺五典防衛相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "09:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "11:56",
+   "label": "移動",
+   "place": "国会 参院第1委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "11:58",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:58",
+   "label": "麻生太郎副総理兼財務相 河野太郎外相 小野寺五典防衛相",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "13:00",
+   "label": "参院予算委員会",
+   "place": "国会 参院第1委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "17:26",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:50",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:07",
+   "label": "国家戦略特区諮問会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "18:37",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:51",
+   "label": "同ホテル内の日本料理店「千代田」で公明党の太田昭宏前代表、岡本三成外務政務官らと会食",
+   "place": "東京・飯田橋 ホテルグランドパレス",
+   "category": "会食"
+  },
+  {
+   "time": "20:53",
+   "label": "移動",
+   "place": "東京・飯田橋 ホテルグランドパレス",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 430
+  },
+  {
+   "start": "07:10",
+   "end": "07:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "07:22",
+   "end": "07:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "07:28",
+   "end": "08:45",
+   "category": "面会・会談",
+   "label": "野上浩太郎官房副長官",
+   "minutes": 77
+  },
+  {
+   "start": "08:45",
+   "end": "08:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "08:50",
+   "end": "08:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "08:52",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "08:54",
+   "end": "08:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 河野太郎外相 小野寺五典防衛相",
+   "minutes": 5
+  },
+  {
+   "start": "08:59",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:00",
+   "end": "11:53",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 173
+  },
+  {
+   "start": "11:53",
+   "end": "11:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "11:56",
+   "end": "11:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 56
+  },
+  {
+   "start": "12:54",
+   "end": "12:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "12:56",
+   "end": "12:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:58",
+   "end": "12:59",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相 河野太郎外相 小野寺五典防衛相",
+   "minutes": 1
+  },
+  {
+   "start": "12:59",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:00",
+   "end": "17:24",
+   "category": "国会",
+   "label": "参院予算委員会",
+   "minutes": 264
+  },
+  {
+   "start": "17:24",
+   "end": "17:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:26",
+   "end": "17:48",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 22
+  },
+  {
+   "start": "17:48",
+   "end": "17:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "17:50",
+   "end": "17:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:51",
+   "end": "18:07",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "18:07",
+   "end": "18:31",
+   "category": "官邸執務",
+   "label": "国家戦略特区諮問会議",
+   "minutes": 24
+  },
+  {
+   "start": "18:31",
+   "end": "18:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "18:37",
+   "end": "18:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "18:51",
+   "end": "20:53",
+   "category": "会食",
+   "label": "同ホテル内の日本料理店「千代田」で公明党の太田昭宏前代表、岡本三成外務政務官らと会食",
+   "minutes": 122
+  },
+  {
+   "start": "20:53",
+   "end": "21:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "21:10",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 170
+  }
+ ],
+ "alloc_min": {
+  "居所": 600,
+  "移動": 50,
+  "公務（内容未詳）": 46,
+  "面会・会談": 77,
+  "国会": 443,
+  "官邸執務": 80,
+  "党務": 22,
+  "会食": 122
+ }
+}

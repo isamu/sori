@@ -1,0 +1,293 @@
+{
+ "date": "2018-07-18",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 534,
+ "residence_min": 906,
+ "meetings": 8,
+ "first_work": "09:41",
+ "events": [
+  {
+   "time": "09:41",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:26",
+   "label": "小野寺五典防衛相 北村滋内閣情報官 前田哲防衛政策局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:40",
+   "label": "片山虎之助日本維新の会共同代表らによる西日本豪雨に関する申し入れ",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:53",
+   "label": "藤井聡参与",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:35",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:37",
+   "label": "衆院本会議",
+   "place": "国会 衆院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "16:05",
+   "label": "移動",
+   "place": "国会 衆院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "16:10",
+   "label": "加藤勝信厚生労働相 吉田学子ども家庭局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:42",
+   "label": "下村博文自民党前幹事長代行",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:03",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:57",
+   "label": "河井克行同党衆院議員",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:08",
+   "label": "高橋清孝内閣危機管理監 海堀安喜政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:34",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:41",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 581
+  },
+  {
+   "start": "09:41",
+   "end": "09:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "09:59",
+   "end": "10:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "10:26",
+   "end": "11:14",
+   "category": "面会・会談",
+   "label": "小野寺五典防衛相 北村滋内閣情報官 前田哲防衛政策局長",
+   "minutes": 48
+  },
+  {
+   "start": "11:14",
+   "end": "11:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "11:40",
+   "end": "11:53",
+   "category": "面会・会談",
+   "label": "片山虎之助日本維新の会共同代表らによる西日本豪雨に関する申し入れ",
+   "minutes": 13
+  },
+  {
+   "start": "11:53",
+   "end": "14:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 180
+  },
+  {
+   "start": "14:53",
+   "end": "15:33",
+   "category": "面会・会談",
+   "label": "藤井聡参与",
+   "minutes": 40
+  },
+  {
+   "start": "15:33",
+   "end": "15:35",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "15:35",
+   "end": "15:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:36",
+   "end": "15:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "15:37",
+   "end": "16:01",
+   "category": "国会",
+   "label": "衆院本会議",
+   "minutes": 24
+  },
+  {
+   "start": "16:01",
+   "end": "16:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:05",
+   "end": "16:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "16:07",
+   "end": "16:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "16:10",
+   "end": "16:41",
+   "category": "面会・会談",
+   "label": "加藤勝信厚生労働相 吉田学子ども家庭局長",
+   "minutes": 31
+  },
+  {
+   "start": "16:41",
+   "end": "16:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "16:42",
+   "end": "17:02",
+   "category": "面会・会談",
+   "label": "下村博文自民党前幹事長代行",
+   "minutes": 20
+  },
+  {
+   "start": "17:02",
+   "end": "17:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:03",
+   "end": "17:56",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局長",
+   "minutes": 53
+  },
+  {
+   "start": "17:56",
+   "end": "17:57",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:57",
+   "end": "18:07",
+   "category": "面会・会談",
+   "label": "河井克行同党衆院議員",
+   "minutes": 10
+  },
+  {
+   "start": "18:07",
+   "end": "18:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:08",
+   "end": "18:19",
+   "category": "面会・会談",
+   "label": "高橋清孝内閣危機管理監 海堀安喜政策統括官",
+   "minutes": 11
+  },
+  {
+   "start": "18:19",
+   "end": "18:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "18:34",
+   "end": "18:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "18:35",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 325
+  }
+ ],
+ "alloc_min": {
+  "居所": 906,
+  "移動": 22,
+  "公務（内容未詳）": 262,
+  "面会・会談": 226,
+  "国会": 24
+ }
+}

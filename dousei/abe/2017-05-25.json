@@ -1,0 +1,79 @@
+{
+ "date": "2017-05-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 850,
+ "residence_min": 590,
+ "meetings": 0,
+ "first_work": "09:50",
+ "events": [
+  {
+   "time": "09:50",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:24",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "イタリア南部シチリア島タオルミナのホテル「ＮＨ・コレクション・タオルミナ」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "イタリア南部シチリア島のシゴネラ空軍基地",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 590
+  },
+  {
+   "start": "09:50",
+   "end": "10:14",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "10:14",
+   "end": "10:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "10:24",
+   "end": "10:26",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "10:26",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 814
+  }
+ ],
+ "alloc_min": {
+  "居所": 590,
+  "移動": 24,
+  "公務（内容未詳）": 10,
+  "取材・会見": 2,
+  "外遊": 814
+ }
+}

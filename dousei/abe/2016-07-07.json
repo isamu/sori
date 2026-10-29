@@ -1,0 +1,274 @@
+{
+ "date": "2016-07-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 662,
+ "residence_min": 778,
+ "meetings": 0,
+ "first_work": "09:05",
+ "events": [
+  {
+   "time": "09:05",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:28",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "09:51",
+   "label": "ＮＨＫのインタビュー",
+   "place": "やまびこ45号",
+   "category": "取材・会見"
+  },
+  {
+   "time": "10:58",
+   "label": "ＪＲ郡山駅",
+   "place": "ＪＲ郡山駅",
+   "category": "移動"
+  },
+  {
+   "time": "12:15",
+   "label": "街頭演説",
+   "place": "福島県喜多方市 押切川公園スポーツ広場",
+   "category": "党務"
+  },
+  {
+   "time": "12:54",
+   "label": "昼食",
+   "place": "同市 ラーメン店「満古登食堂」",
+   "category": "会食"
+  },
+  {
+   "time": "14:27",
+   "label": "街頭演説",
+   "place": "同県田村市 ショッピングセンター「メガステージ田村」",
+   "category": "党務"
+  },
+  {
+   "time": "15:36",
+   "label": "二本松少年隊の墓に献花",
+   "place": "同県二本松市 大隣寺",
+   "category": "式典・行事"
+  },
+  {
+   "time": "15:49",
+   "label": "練り歩き。街頭演説",
+   "place": "同市 本町通り",
+   "category": "党務"
+  },
+  {
+   "time": "16:51",
+   "label": "街頭演説。練り歩き",
+   "place": "福島市 商業施設「ＡＸＣ」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:28",
+   "label": "同駅の「餃子の照井　福島駅東口店」で食事",
+   "place": "ＪＲ福島駅",
+   "category": "会食"
+  },
+  {
+   "time": "19:47",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "19:52",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:05",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 545
+  },
+  {
+   "start": "09:05",
+   "end": "09:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "09:28",
+   "end": "09:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "09:40",
+   "end": "09:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "09:51",
+   "end": "09:58",
+   "category": "取材・会見",
+   "label": "ＮＨＫのインタビュー",
+   "minutes": 7
+  },
+  {
+   "start": "09:58",
+   "end": "10:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "10:58",
+   "end": "11:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "11:03",
+   "end": "12:15",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 72
+  },
+  {
+   "start": "12:15",
+   "end": "12:45",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 30
+  },
+  {
+   "start": "12:45",
+   "end": "12:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "12:54",
+   "end": "13:16",
+   "category": "会食",
+   "label": "昼食",
+   "minutes": 22
+  },
+  {
+   "start": "13:16",
+   "end": "14:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 71
+  },
+  {
+   "start": "14:27",
+   "end": "15:06",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 39
+  },
+  {
+   "start": "15:06",
+   "end": "15:36",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "15:36",
+   "end": "15:45",
+   "category": "式典・行事",
+   "label": "二本松少年隊の墓に献花",
+   "minutes": 9
+  },
+  {
+   "start": "15:45",
+   "end": "15:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:49",
+   "end": "16:22",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "16:22",
+   "end": "16:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "16:51",
+   "end": "17:28",
+   "category": "党務",
+   "label": "街頭演説。練り歩き",
+   "minutes": 37
+  },
+  {
+   "start": "17:28",
+   "end": "18:17",
+   "category": "会食",
+   "label": "同駅の「餃子の照井　福島駅東口店」で食事",
+   "minutes": 49
+  },
+  {
+   "start": "18:17",
+   "end": "19:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 90
+  },
+  {
+   "start": "19:47",
+   "end": "19:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "19:52",
+   "end": "20:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "20:07",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 233
+  }
+ ],
+ "alloc_min": {
+  "居所": 778,
+  "移動": 43,
+  "公務（内容未詳）": 393,
+  "取材・会見": 7,
+  "党務": 139,
+  "会食": 71,
+  "式典・行事": 9
+ }
+}

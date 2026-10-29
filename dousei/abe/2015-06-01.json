@@ -1,0 +1,341 @@
+{
+ "date": "2015-06-01",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 858,
+ "residence_min": 582,
+ "meetings": 2,
+ "first_work": "07:10",
+ "events": [
+  {
+   "time": "07:10",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:24",
+   "label": "加藤勝信官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "08:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:00",
+   "label": "衆院平和安全法制特別委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "12:06",
+   "label": "移動",
+   "place": "国会 衆院第１委員室",
+   "category": "移動"
+  },
+  {
+   "time": "12:08",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "12:54",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "13:00",
+   "label": "衆院平和安全法制特別委",
+   "place": "国会 衆院第１委員室",
+   "category": "国会"
+  },
+  {
+   "time": "17:06",
+   "label": "自民党役員会",
+   "place": "国会 自民党総裁室",
+   "category": "党務"
+  },
+  {
+   "time": "17:24",
+   "label": "同党の谷垣禎一幹事長、二階俊博総務会長、細田博之幹事長代行",
+   "place": "国会 自民党総裁室",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:33",
+   "label": "移動",
+   "place": "国会 自民党総裁室",
+   "category": "移動"
+  },
+  {
+   "time": "18:47",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "18:49",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:52",
+   "label": "同ホテル内の宴会場「プロミネンス」で谷垣自民党幹事長を中心とする党内グループ「有隣会」のパーティーに出席し、あいさつ",
+   "place": "東京・赤坂 ＡＮＡインターコンチネンタルホテル東京",
+   "category": "党務"
+  },
+  {
+   "time": "18:58",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "19:05",
+   "label": "内閣記者会加盟報道各社のキャップと懇談",
+   "place": "東京・赤坂 中国料理店「赤坂飯店」",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:22",
+   "label": "移動",
+   "place": "東京・赤坂 中国料理店「赤坂飯店」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "07:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 430
+  },
+  {
+   "start": "07:10",
+   "end": "07:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "07:23",
+   "end": "07:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "07:24",
+   "end": "08:12",
+   "category": "面会・会談",
+   "label": "加藤勝信官房副長官",
+   "minutes": 48
+  },
+  {
+   "start": "08:12",
+   "end": "08:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "08:54",
+   "end": "08:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "08:55",
+   "end": "09:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:00",
+   "end": "12:03",
+   "category": "国会",
+   "label": "衆院平和安全法制特別委",
+   "minutes": 183
+  },
+  {
+   "start": "12:03",
+   "end": "12:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:06",
+   "end": "12:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 46
+  },
+  {
+   "start": "12:54",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "12:55",
+   "end": "13:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "13:00",
+   "end": "17:01",
+   "category": "国会",
+   "label": "衆院平和安全法制特別委",
+   "minutes": 241
+  },
+  {
+   "start": "17:01",
+   "end": "17:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "17:06",
+   "end": "17:23",
+   "category": "党務",
+   "label": "自民党役員会",
+   "minutes": 17
+  },
+  {
+   "start": "17:23",
+   "end": "17:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:24",
+   "end": "17:30",
+   "category": "面会・会談",
+   "label": "同党の谷垣禎一幹事長、二階俊博総務会長、細田博之幹事長代行",
+   "minutes": 6
+  },
+  {
+   "start": "17:30",
+   "end": "17:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "17:33",
+   "end": "17:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:34",
+   "end": "18:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 73
+  },
+  {
+   "start": "18:47",
+   "end": "18:48",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "18:48",
+   "end": "18:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:49",
+   "end": "18:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "18:52",
+   "end": "18:58",
+   "category": "党務",
+   "label": "同ホテル内の宴会場「プロミネンス」で谷垣自民党幹事長を中心とする党内グループ「有隣会」のパーティーに出席し、あいさつ",
+   "minutes": 6
+  },
+  {
+   "start": "18:58",
+   "end": "19:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "19:05",
+   "end": "20:32",
+   "category": "取材・会見",
+   "label": "内閣記者会加盟報道各社のキャップと懇談",
+   "minutes": 87
+  },
+  {
+   "start": "20:32",
+   "end": "21:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 50
+  },
+  {
+   "start": "21:22",
+   "end": "21:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "21:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 152
+  }
+ ],
+ "alloc_min": {
+  "居所": 582,
+  "移動": 34,
+  "公務（内容未詳）": 189,
+  "面会・会談": 54,
+  "国会": 424,
+  "官邸執務": 46,
+  "党務": 23,
+  "取材・会見": 88
+ }
+}

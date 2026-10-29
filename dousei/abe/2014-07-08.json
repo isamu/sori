@@ -1,0 +1,113 @@
+{
+ "date": "2014-07-08",
+ "pm": "安倍晋三",
+ "source": "朝日新聞社 2014.07.08",
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 4,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "（現地時間8日）午前、オーストラリア・キャンベラの戦争記念館を視察、無名戦士の墓で献花",
+   "place": "—",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "国会議事堂で歓迎式典",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "上下両院議長と懇談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "議会演説",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "午後、連邦総督公邸でコスグローブ連邦総督夫妻への表敬",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "豪国立美術館で日豪経済合同委員会メンバーらとの昼食会",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "国会議事堂で日豪首脳会談",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "日豪ＥＰＡなど署名式",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "共同記者会見",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "豪閣僚・国家安全保障会議メンバーとの懇談",
+   "place": "—",
+   "category": "官邸執務"
+  },
+  {
+   "time": null,
+   "label": "豪国立大の視察",
+   "place": "—",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "国会議事堂でビジネス関係者とのレセプション",
+   "place": "—",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ショーテン野党党首による表敬",
+   "place": "—",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "アボット豪首相主催の晩餐（ばんさん）会",
+   "place": "—",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ハイアットホテル・キャンベラ泊",
+   "place": "ハイアットホテル・キャンベラ",
+   "category": "移動"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "外遊",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

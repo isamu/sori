@@ -1,0 +1,314 @@
+{
+ "date": "2019-07-13",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 738,
+ "residence_min": 702,
+ "meetings": 0,
+ "first_work": "09:16",
+ "events": [
+  {
+   "time": "09:16",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:44",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:03",
+   "label": "青森空港",
+   "place": "青森空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:13",
+   "label": "移動",
+   "place": "青森空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:42",
+   "label": "街頭演説。練り歩き",
+   "place": "青森市 パサージュ広場前",
+   "category": "党務"
+  },
+  {
+   "time": "12:19",
+   "label": "移動",
+   "place": "青森市 パサージュ広場前",
+   "category": "移動"
+  },
+  {
+   "time": "12:35",
+   "label": "利用客らと握手、写真撮影。昼食",
+   "place": "同市 和食レストラン「精養軒　あじ菜」",
+   "category": "会食"
+  },
+  {
+   "time": "13:03",
+   "label": "移動",
+   "place": "同市 和食レストラン「精養軒　あじ菜」",
+   "category": "移動"
+  },
+  {
+   "time": "13:33",
+   "label": "休憩",
+   "place": "青森県大鰐町 東北自動車道阿闍羅パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:35",
+   "label": "移動",
+   "place": "青森県大鰐町 東北自動車道阿闍羅パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:05",
+   "label": "街頭演説",
+   "place": "秋田県大館市 いとく大館ショッピングセンター駐車場",
+   "category": "党務"
+  },
+  {
+   "time": "14:39",
+   "label": "移動",
+   "place": "秋田県大館市 いとく大館ショッピングセンター駐車場",
+   "category": "移動"
+  },
+  {
+   "time": "16:21",
+   "label": "練り歩き",
+   "place": "秋田市 ホテルメトロポリタン秋田前",
+   "category": "党務"
+  },
+  {
+   "time": "16:30",
+   "label": "街頭演説",
+   "place": "ＪＲ秋田駅前アゴラ広場",
+   "category": "党務"
+  },
+  {
+   "time": "17:03",
+   "label": "移動",
+   "place": "ＪＲ秋田駅前アゴラ広場",
+   "category": "移動"
+  },
+  {
+   "time": "18:10",
+   "label": "街頭演説",
+   "place": "秋田県横手市 横手体育館前",
+   "category": "党務"
+  },
+  {
+   "time": "18:48",
+   "label": "移動",
+   "place": "秋田県横手市 横手体育館前",
+   "category": "移動"
+  },
+  {
+   "time": "19:37",
+   "label": "秋田空港",
+   "place": "秋田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:53",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "21:08",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:16",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 556
+  },
+  {
+   "start": "09:16",
+   "end": "09:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "09:44",
+   "end": "10:07",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 23
+  },
+  {
+   "start": "10:07",
+   "end": "11:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 56
+  },
+  {
+   "start": "11:03",
+   "end": "11:13",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "11:13",
+   "end": "11:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 29
+  },
+  {
+   "start": "11:42",
+   "end": "12:19",
+   "category": "党務",
+   "label": "街頭演説。練り歩き",
+   "minutes": 37
+  },
+  {
+   "start": "12:19",
+   "end": "12:35",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "12:35",
+   "end": "13:03",
+   "category": "会食",
+   "label": "利用客らと握手、写真撮影。昼食",
+   "minutes": 28
+  },
+  {
+   "start": "13:03",
+   "end": "13:33",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "13:33",
+   "end": "13:35",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "13:35",
+   "end": "14:05",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 30
+  },
+  {
+   "start": "14:05",
+   "end": "14:39",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 34
+  },
+  {
+   "start": "14:39",
+   "end": "16:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 102
+  },
+  {
+   "start": "16:21",
+   "end": "16:30",
+   "category": "党務",
+   "label": "練り歩き",
+   "minutes": 9
+  },
+  {
+   "start": "16:30",
+   "end": "17:03",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 33
+  },
+  {
+   "start": "17:03",
+   "end": "18:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 67
+  },
+  {
+   "start": "18:10",
+   "end": "18:48",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 38
+  },
+  {
+   "start": "18:48",
+   "end": "19:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 49
+  },
+  {
+   "start": "19:37",
+   "end": "20:04",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 27
+  },
+  {
+   "start": "20:04",
+   "end": "20:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 49
+  },
+  {
+   "start": "20:53",
+   "end": "21:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "21:08",
+   "end": "21:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "21:34",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 146
+  }
+ ],
+ "alloc_min": {
+  "居所": 702,
+  "移動": 454,
+  "公務（内容未詳）": 105,
+  "党務": 151,
+  "会食": 28
+ }
+}

@@ -1,0 +1,325 @@
+{
+ "date": "2016-08-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 590,
+ "residence_min": 850,
+ "meetings": 3,
+ "first_work": "09:17",
+ "events": [
+  {
+   "time": "09:17",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:33",
+   "label": "岸田文雄外相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:05",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:23",
+   "label": "高市早苗総務相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:43",
+   "label": "「ＡＢＵアジア・太平洋ロボットコンテスト」日本代表チームの表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:10",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:18",
+   "label": "献花",
+   "place": "東京・三番町 千鳥ケ淵戦没者墓苑",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:22",
+   "label": "移動",
+   "place": "東京・三番町 千鳥ケ淵戦没者墓苑",
+   "category": "移動"
+  },
+  {
+   "time": "11:51",
+   "label": "全国戦没者追悼式",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:48",
+   "label": "移動",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "移動"
+  },
+  {
+   "time": "12:55",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:01",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:22",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "14:43",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:03",
+   "label": "山梨県鳴沢村の別荘",
+   "place": "山梨県鳴沢村の別荘",
+   "category": "その他"
+  },
+  {
+   "time": "17:52",
+   "label": "移動",
+   "place": "山梨県鳴沢村の別荘",
+   "category": "移動"
+  },
+  {
+   "time": "17:59",
+   "label": "笹川会長、森喜朗元首相、塩崎恭久厚生労働相、山本有二農林水産相、加藤勝信１億総活躍担当相、茂木敏充自民党政調会長、日枝久フジテレビ会長らと会食",
+   "place": "同村の笹川陽平日本財団会長の別荘",
+   "category": "会食"
+  },
+  {
+   "time": "21:11",
+   "label": "移動",
+   "place": "同村の笹川陽平日本財団会長の別荘",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:17",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 557
+  },
+  {
+   "start": "09:17",
+   "end": "09:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "09:28",
+   "end": "09:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:33",
+   "end": "10:02",
+   "category": "面会・会談",
+   "label": "岸田文雄外相",
+   "minutes": 29
+  },
+  {
+   "start": "10:02",
+   "end": "10:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "10:05",
+   "end": "10:17",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 12
+  },
+  {
+   "start": "10:17",
+   "end": "10:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "10:23",
+   "end": "10:32",
+   "category": "面会・会談",
+   "label": "高市早苗総務相",
+   "minutes": 9
+  },
+  {
+   "start": "10:32",
+   "end": "10:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "10:43",
+   "end": "10:50",
+   "category": "面会・会談",
+   "label": "「ＡＢＵアジア・太平洋ロボットコンテスト」日本代表チームの表敬",
+   "minutes": 7
+  },
+  {
+   "start": "10:50",
+   "end": "11:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 20
+  },
+  {
+   "start": "11:10",
+   "end": "11:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:18",
+   "end": "11:22",
+   "category": "式典・行事",
+   "label": "献花",
+   "minutes": 4
+  },
+  {
+   "start": "11:22",
+   "end": "11:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "11:26",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 25
+  },
+  {
+   "start": "11:51",
+   "end": "12:46",
+   "category": "式典・行事",
+   "label": "全国戦没者追悼式",
+   "minutes": 55
+  },
+  {
+   "start": "12:46",
+   "end": "12:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:48",
+   "end": "12:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 66
+  },
+  {
+   "start": "14:01",
+   "end": "14:22",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "14:22",
+   "end": "14:43",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 21
+  },
+  {
+   "start": "14:43",
+   "end": "16:03",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 80
+  },
+  {
+   "start": "16:03",
+   "end": "17:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 109
+  },
+  {
+   "start": "17:52",
+   "end": "17:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "17:59",
+   "end": "21:11",
+   "category": "会食",
+   "label": "笹川会長、森喜朗元首相、塩崎恭久厚生労働相、山本有二農林水産相、加藤勝信１億総活躍担当相、茂木敏充自民党政調会長、日枝久フジテレビ会長らと会食",
+   "minutes": 192
+  },
+  {
+   "start": "21:11",
+   "end": "21:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "21:17",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 163
+  }
+ ],
+ "alloc_min": {
+  "居所": 850,
+  "移動": 144,
+  "公務（内容未詳）": 72,
+  "面会・会談": 45,
+  "官邸執務": 78,
+  "式典・行事": 59,
+  "会食": 192
+ }
+}

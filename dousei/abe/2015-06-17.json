@@ -1,0 +1,389 @@
+{
+ "date": "2015-06-17",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 678,
+ "residence_min": 762,
+ "meetings": 5,
+ "first_work": "09:08",
+ "events": [
+  {
+   "time": "09:08",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:09",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:50",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:55",
+   "label": "全国市議会議長会定期総会に出席し、あいさつ",
+   "place": "東京・日比谷公園 日比谷公会堂",
+   "category": "式典・行事"
+  },
+  {
+   "time": "10:13",
+   "label": "移動",
+   "place": "東京・日比谷公園 日比谷公会堂",
+   "category": "移動"
+  },
+  {
+   "time": "10:23",
+   "label": "世耕弘成官房副長官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:52",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "15:00",
+   "label": "党首討論",
+   "place": "国会 参院第１委員会室",
+   "category": "国会"
+  },
+  {
+   "time": "15:53",
+   "label": "移動",
+   "place": "国会 参院第１委員会室",
+   "category": "移動"
+  },
+  {
+   "time": "16:10",
+   "label": "太田昭宏国土交通相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:45",
+   "label": "古沢満宏国際通貨基金（ＩＭＦ）副専務理事",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:00",
+   "label": "山口俊一内閣府特命担当相 横尾英博知的財産戦略推進事務局長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:23",
+   "label": "国と地方の協議の場",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "17:59",
+   "label": "クロアチアのミラノビッチ首相を出迎え。記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:01",
+   "label": "儀仗隊による儀礼",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:08",
+   "label": "ミラノビッチ首相と首脳会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:53",
+   "label": "共同記者発表",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:05",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:06",
+   "label": "安倍晋三首相主催の夕食会",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:25",
+   "label": "ミラノビッチ首相を見送り",
+   "place": "公邸",
+   "category": "式典・行事"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 548
+  },
+  {
+   "start": "09:08",
+   "end": "09:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "官邸執務",
+   "label": null,
+   "minutes": 41
+  },
+  {
+   "start": "09:50",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "09:55",
+   "end": "10:13",
+   "category": "式典・行事",
+   "label": "全国市議会議長会定期総会に出席し、あいさつ",
+   "minutes": 18
+  },
+  {
+   "start": "10:13",
+   "end": "10:17",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 4
+  },
+  {
+   "start": "10:17",
+   "end": "10:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "10:23",
+   "end": "10:36",
+   "category": "面会・会談",
+   "label": "世耕弘成官房副長官",
+   "minutes": 13
+  },
+  {
+   "start": "10:36",
+   "end": "14:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 256
+  },
+  {
+   "start": "14:52",
+   "end": "14:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "14:54",
+   "end": "15:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "15:00",
+   "end": "15:49",
+   "category": "国会",
+   "label": "党首討論",
+   "minutes": 49
+  },
+  {
+   "start": "15:49",
+   "end": "15:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:53",
+   "end": "15:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "15:54",
+   "end": "16:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "16:10",
+   "end": "16:32",
+   "category": "面会・会談",
+   "label": "太田昭宏国土交通相",
+   "minutes": 22
+  },
+  {
+   "start": "16:32",
+   "end": "16:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "16:45",
+   "end": "16:59",
+   "category": "面会・会談",
+   "label": "古沢満宏国際通貨基金（ＩＭＦ）副専務理事",
+   "minutes": 14
+  },
+  {
+   "start": "16:59",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "17:00",
+   "end": "17:15",
+   "category": "面会・会談",
+   "label": "山口俊一内閣府特命担当相 横尾英博知的財産戦略推進事務局長",
+   "minutes": 15
+  },
+  {
+   "start": "17:15",
+   "end": "17:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "17:23",
+   "end": "17:32",
+   "category": "官邸執務",
+   "label": "国と地方の協議の場",
+   "minutes": 9
+  },
+  {
+   "start": "17:32",
+   "end": "17:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "17:59",
+   "end": "18:00",
+   "category": "式典・行事",
+   "label": "クロアチアのミラノビッチ首相を出迎え。記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "18:00",
+   "end": "18:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:01",
+   "end": "18:07",
+   "category": "式典・行事",
+   "label": "儀仗隊による儀礼",
+   "minutes": 6
+  },
+  {
+   "start": "18:07",
+   "end": "18:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "18:08",
+   "end": "18:51",
+   "category": "面会・会談",
+   "label": "ミラノビッチ首相と首脳会談",
+   "minutes": 43
+  },
+  {
+   "start": "18:51",
+   "end": "18:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "18:53",
+   "end": "19:04",
+   "category": "取材・会見",
+   "label": "共同記者発表",
+   "minutes": 11
+  },
+  {
+   "start": "19:04",
+   "end": "19:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "19:05",
+   "end": "19:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "19:06",
+   "end": "20:25",
+   "category": "会食",
+   "label": "安倍晋三首相主催の夕食会",
+   "minutes": 79
+  },
+  {
+   "start": "20:25",
+   "end": "20:26",
+   "category": "式典・行事",
+   "label": "ミラノビッチ首相を見送り",
+   "minutes": 1
+  },
+  {
+   "start": "20:26",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 214
+  }
+ ],
+ "alloc_min": {
+  "居所": 762,
+  "移動": 14,
+  "官邸執務": 50,
+  "式典・行事": 26,
+  "公務（内容未詳）": 342,
+  "面会・会談": 107,
+  "国会": 49,
+  "取材・会見": 11,
+  "会食": 79
+ }
+}

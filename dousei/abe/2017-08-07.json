@@ -1,0 +1,382 @@
+{
+ "date": "2017-08-07",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 789,
+ "residence_min": 651,
+ "meetings": 3,
+ "first_work": "08:37",
+ "events": [
+  {
+   "time": "08:37",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:04",
+   "label": "臨時閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:12",
+   "label": "小此木八郎防災担当相",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "10:01",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:09",
+   "label": "内奏、副大臣認証式",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:16",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "13:26",
+   "label": "副大臣と記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "13:34",
+   "label": "副大臣会議であいさつ",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "14:33",
+   "label": "政務官に辞令交付",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:46",
+   "label": "政務官と記念撮影",
+   "place": "官邸",
+   "category": "式典・行事"
+  },
+  {
+   "time": "14:54",
+   "label": "政務官会合であいさつ",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "16:00",
+   "label": "韓国の文在寅大統領と電話会談",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:24",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:03",
+   "label": "儀仗（ぎじょう）隊による栄誉礼",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "18:13",
+   "label": "カンボジアのフン・セン首相と首脳会談",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": "19:27",
+   "label": "署名式、共同記者発表",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "19:58",
+   "label": "安倍晋三首相主催の夕食会",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "会食"
+  },
+  {
+   "time": "21:34",
+   "label": "移動",
+   "place": "東京・元赤坂 迎賓館",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:37",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 517
+  },
+  {
+   "start": "08:37",
+   "end": "08:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "08:54",
+   "end": "09:04",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "09:04",
+   "end": "09:10",
+   "category": "官邸執務",
+   "label": "臨時閣議",
+   "minutes": 6
+  },
+  {
+   "start": "09:10",
+   "end": "09:12",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:12",
+   "end": "09:17",
+   "category": "面会・会談",
+   "label": "小此木八郎防災担当相",
+   "minutes": 5
+  },
+  {
+   "start": "09:17",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 44
+  },
+  {
+   "start": "10:01",
+   "end": "10:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:09",
+   "end": "12:16",
+   "category": "式典・行事",
+   "label": "内奏、副大臣認証式",
+   "minutes": 127
+  },
+  {
+   "start": "12:16",
+   "end": "12:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "12:26",
+   "end": "13:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 60
+  },
+  {
+   "start": "13:26",
+   "end": "13:27",
+   "category": "式典・行事",
+   "label": "副大臣と記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "13:27",
+   "end": "13:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "13:34",
+   "end": "13:45",
+   "category": "官邸執務",
+   "label": "副大臣会議であいさつ",
+   "minutes": 11
+  },
+  {
+   "start": "13:45",
+   "end": "14:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 48
+  },
+  {
+   "start": "14:33",
+   "end": "14:43",
+   "category": "式典・行事",
+   "label": "政務官に辞令交付",
+   "minutes": 10
+  },
+  {
+   "start": "14:43",
+   "end": "14:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "14:46",
+   "end": "14:47",
+   "category": "式典・行事",
+   "label": "政務官と記念撮影",
+   "minutes": 1
+  },
+  {
+   "start": "14:47",
+   "end": "14:54",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "14:54",
+   "end": "15:03",
+   "category": "官邸執務",
+   "label": "政務官会合であいさつ",
+   "minutes": 9
+  },
+  {
+   "start": "15:03",
+   "end": "16:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "16:00",
+   "end": "16:25",
+   "category": "面会・会談",
+   "label": "韓国の文在寅大統領と電話会談",
+   "minutes": 25
+  },
+  {
+   "start": "16:25",
+   "end": "17:24",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 59
+  },
+  {
+   "start": "17:24",
+   "end": "17:32",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "17:32",
+   "end": "18:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 31
+  },
+  {
+   "start": "18:03",
+   "end": "18:10",
+   "category": "式典・行事",
+   "label": "儀仗（ぎじょう）隊による栄誉礼",
+   "minutes": 7
+  },
+  {
+   "start": "18:10",
+   "end": "18:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:13",
+   "end": "19:24",
+   "category": "面会・会談",
+   "label": "カンボジアのフン・セン首相と首脳会談",
+   "minutes": 71
+  },
+  {
+   "start": "19:24",
+   "end": "19:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "19:27",
+   "end": "19:52",
+   "category": "取材・会見",
+   "label": "署名式、共同記者発表",
+   "minutes": 25
+  },
+  {
+   "start": "19:52",
+   "end": "19:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "19:58",
+   "end": "21:25",
+   "category": "会食",
+   "label": "安倍晋三首相主催の夕食会",
+   "minutes": 87
+  },
+  {
+   "start": "21:25",
+   "end": "21:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 9
+  },
+  {
+   "start": "21:34",
+   "end": "21:46",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "21:46",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 134
+  }
+ ],
+ "alloc_min": {
+  "居所": 651,
+  "移動": 55,
+  "公務（内容未詳）": 349,
+  "官邸執務": 26,
+  "面会・会談": 101,
+  "式典・行事": 146,
+  "取材・会見": 25,
+  "会食": 87
+ }
+}

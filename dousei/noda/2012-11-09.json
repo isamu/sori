@@ -1,0 +1,256 @@
+{
+ "date": "2012-11-09",
+ "pm": "野田佳彦",
+ "source": "朝日新聞社（移動記録は複数媒体補完） 2012.11.09",
+ "work_min": 738,
+ "residence_min": 702,
+ "meetings": 7,
+ "first_work": "08:18",
+ "events": [
+  {
+   "time": "08:18",
+   "label": "公邸発",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:20",
+   "label": "国会",
+   "place": "国会",
+   "category": "移動"
+  },
+  {
+   "time": "08:26",
+   "label": "閣議",
+   "place": "国会",
+   "category": "官邸執務"
+  },
+  {
+   "time": "08:40",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:20",
+   "label": "岡田副総理",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:59",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "12:00",
+   "label": "民主党の石井一氏ら参院各委員長らと昼食",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "12:40",
+   "label": "官邸",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:56",
+   "label": "大串首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "15:30",
+   "label": "大串氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:27",
+   "label": "河相外務事務次官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:03",
+   "label": "河相氏出る",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:30",
+   "label": "「中央アジア＋日本」対話・第4回外相会合参加者の表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "18:18",
+   "label": "東京・東新橋の共同通信社",
+   "place": "東新橋",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "加盟社編集局長会議の懇親会に出席し、あいさつ",
+   "place": "東新橋",
+   "category": "党務"
+  },
+  {
+   "time": "18:45",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "19:00",
+   "label": "各府省副大臣と会食",
+   "place": "公邸",
+   "category": "会食"
+  },
+  {
+   "time": "20:52",
+   "label": "全員出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:18",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 498
+  },
+  {
+   "start": "08:18",
+   "end": "08:20",
+   "category": "移動",
+   "label": "公邸発",
+   "minutes": 2
+  },
+  {
+   "start": "08:20",
+   "end": "08:26",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "08:26",
+   "end": "08:40",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 14
+  },
+  {
+   "start": "08:40",
+   "end": "11:20",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 160
+  },
+  {
+   "start": "11:20",
+   "end": "11:59",
+   "category": "面会・会談",
+   "label": "岡田副総理",
+   "minutes": 39
+  },
+  {
+   "start": "11:59",
+   "end": "12:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "12:00",
+   "end": "12:40",
+   "category": "会食",
+   "label": "民主党の石井一氏ら参院各委員長らと昼食",
+   "minutes": 40
+  },
+  {
+   "start": "12:40",
+   "end": "14:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 136
+  },
+  {
+   "start": "14:56",
+   "end": "15:30",
+   "category": "面会・会談",
+   "label": "大串首相補佐官",
+   "minutes": 34
+  },
+  {
+   "start": "15:30",
+   "end": "16:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 57
+  },
+  {
+   "start": "16:27",
+   "end": "17:03",
+   "category": "面会・会談",
+   "label": "河相外務事務次官",
+   "minutes": 36
+  },
+  {
+   "start": "17:03",
+   "end": "17:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 27
+  },
+  {
+   "start": "17:30",
+   "end": "18:18",
+   "category": "面会・会談",
+   "label": "「中央アジア＋日本」対話・第4回外相会合参加者の表敬",
+   "minutes": 48
+  },
+  {
+   "start": "18:18",
+   "end": "18:45",
+   "category": "党務",
+   "label": "加盟社編集局長会議の懇親会に出席し、あいさつ",
+   "minutes": 27
+  },
+  {
+   "start": "18:45",
+   "end": "19:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 15
+  },
+  {
+   "start": "19:00",
+   "end": "20:52",
+   "category": "会食",
+   "label": "各府省副大臣と会食",
+   "minutes": 112
+  },
+  {
+   "start": "20:52",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 188
+  }
+ ],
+ "alloc_min": {
+  "居所": 702,
+  "移動": 2,
+  "公務（内容未詳）": 386,
+  "官邸執務": 14,
+  "面会・会談": 157,
+  "会食": 152,
+  "党務": 27
+ }
+}

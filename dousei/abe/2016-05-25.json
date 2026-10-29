@@ -1,0 +1,436 @@
+{
+ "date": "2016-05-25",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 881,
+ "residence_min": 559,
+ "meetings": 3,
+ "first_work": "08:58",
+ "events": [
+  {
+   "time": "08:58",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:13",
+   "label": "谷垣禎一自民党幹事長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:56",
+   "label": "国会 参院議長応接室",
+   "place": "国会 参院議長応接室",
+   "category": "国会"
+  },
+  {
+   "time": "09:58",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "10:01",
+   "label": "参院本会議",
+   "place": "国会 参院本会議場",
+   "category": "国会"
+  },
+  {
+   "time": "10:49",
+   "label": "移動",
+   "place": "国会 参院本会議場",
+   "category": "移動"
+  },
+  {
+   "time": "11:43",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "11:45",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:55",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "13:49",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "13:53",
+   "label": "近鉄名古屋駅",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:32",
+   "label": "鈴木英敬三重県知事が出迎え",
+   "place": "近鉄宇治山田駅",
+   "category": "移動"
+  },
+  {
+   "time": "15:40",
+   "label": "参拝",
+   "place": "三重県伊勢市 伊勢神宮外宮",
+   "category": "式典・行事"
+  },
+  {
+   "time": "16:08",
+   "label": "参拝",
+   "place": "伊勢神宮内宮",
+   "category": "式典・行事"
+  },
+  {
+   "time": "17:49",
+   "label": "主要国首脳会議（伊勢志摩サミット）の会場を視察",
+   "place": "同県志摩市・賢島 志摩観光ホテル",
+   "category": "視察"
+  },
+  {
+   "time": "18:53",
+   "label": "同島 旅館「賢島宝生苑」",
+   "place": "同島 旅館「賢島宝生苑」",
+   "category": "移動"
+  },
+  {
+   "time": "20:32",
+   "label": "英国のキャメロン首相と首脳会談",
+   "place": "志摩観光ホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:40",
+   "label": "米国のオバマ大統領と首脳会談",
+   "place": "志摩観光ホテル",
+   "category": "面会・会談"
+  },
+  {
+   "time": "22:43",
+   "label": "オバマ大統領との共同記者会見",
+   "place": "志摩観光ホテル",
+   "category": "取材・会見"
+  },
+  {
+   "time": "23:39",
+   "label": "泊",
+   "place": "旅館「賢島宝生苑」",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:58",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 538
+  },
+  {
+   "start": "08:58",
+   "end": "09:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 13
+  },
+  {
+   "start": "09:11",
+   "end": "09:13",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "09:13",
+   "end": "09:36",
+   "category": "面会・会談",
+   "label": "谷垣禎一自民党幹事長",
+   "minutes": 23
+  },
+  {
+   "start": "09:36",
+   "end": "09:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "09:53",
+   "end": "09:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:55",
+   "end": "09:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": null,
+   "end": null,
+   "category": "国会",
+   "label": null,
+   "minutes": 1
+  },
+  {
+   "start": "09:57",
+   "end": "09:58",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:58",
+   "end": "10:00",
+   "category": "国会",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 2
+  },
+  {
+   "start": "10:00",
+   "end": "10:01",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:01",
+   "end": "10:48",
+   "category": "国会",
+   "label": "参院本会議",
+   "minutes": 47
+  },
+  {
+   "start": "10:48",
+   "end": "10:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "10:49",
+   "end": "10:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:51",
+   "end": "11:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 52
+  },
+  {
+   "start": "11:43",
+   "end": "11:44",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "11:44",
+   "end": "11:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "11:45",
+   "end": "11:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "11:55",
+   "end": "12:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "12:10",
+   "end": "13:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 99
+  },
+  {
+   "start": "13:49",
+   "end": "13:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "13:52",
+   "end": "13:53",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "13:53",
+   "end": "14:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "14:10",
+   "end": "15:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 82
+  },
+  {
+   "start": "15:32",
+   "end": "15:36",
+   "category": "移動",
+   "label": "鈴木英敬三重県知事が出迎え",
+   "minutes": 4
+  },
+  {
+   "start": "15:36",
+   "end": "15:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "15:40",
+   "end": "16:01",
+   "category": "式典・行事",
+   "label": "参拝",
+   "minutes": 21
+  },
+  {
+   "start": "16:01",
+   "end": "16:08",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "16:08",
+   "end": "17:04",
+   "category": "式典・行事",
+   "label": "参拝",
+   "minutes": 56
+  },
+  {
+   "start": "17:04",
+   "end": "17:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 45
+  },
+  {
+   "start": "17:49",
+   "end": "18:50",
+   "category": "視察",
+   "label": "主要国首脳会議（伊勢志摩サミット）の会場を視察",
+   "minutes": 61
+  },
+  {
+   "start": "18:50",
+   "end": "18:53",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "18:53",
+   "end": "20:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 75
+  },
+  {
+   "start": "20:08",
+   "end": "20:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 24
+  },
+  {
+   "start": "20:32",
+   "end": "21:05",
+   "category": "面会・会談",
+   "label": "英国のキャメロン首相と首脳会談",
+   "minutes": 33
+  },
+  {
+   "start": "21:05",
+   "end": "21:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 35
+  },
+  {
+   "start": "21:40",
+   "end": "22:36",
+   "category": "面会・会談",
+   "label": "米国のオバマ大統領と首脳会談",
+   "minutes": 56
+  },
+  {
+   "start": "22:36",
+   "end": "22:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "22:43",
+   "end": "23:32",
+   "category": "取材・会見",
+   "label": "オバマ大統領との共同記者会見",
+   "minutes": 49
+  },
+  {
+   "start": "23:32",
+   "end": "23:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "23:39",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 21
+  }
+ ],
+ "alloc_min": {
+  "居所": 559,
+  "移動": 126,
+  "公務（内容未詳）": 402,
+  "面会・会談": 112,
+  "国会": 50,
+  "取材・会見": 50,
+  "式典・行事": 77,
+  "視察": 64
+ }
+}

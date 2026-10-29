@@ -1,0 +1,295 @@
+{
+ "date": "2023-04-16",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 649,
+ "residence_min": 791,
+ "meetings": 0,
+ "first_work": "09:21",
+ "events": [
+  {
+   "time": "09:21",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:25",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:44",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:41",
+   "label": "大分空港",
+   "place": "大分空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:50",
+   "label": "移動",
+   "place": "大分空港",
+   "category": "移動"
+  },
+  {
+   "time": "12:50",
+   "label": "街頭演説",
+   "place": "ＪＲ別府駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "13:19",
+   "label": "移動",
+   "place": "ＪＲ別府駅東口",
+   "category": "移動"
+  },
+  {
+   "time": "13:54",
+   "label": "休憩",
+   "place": "大分市 東九州自動車道大分松岡パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "13:56",
+   "label": "移動",
+   "place": "大分市 東九州自動車道大分松岡パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:28",
+   "label": "街頭演説",
+   "place": "大分県佐伯市 「佐伯青果市場」",
+   "category": "党務"
+  },
+  {
+   "time": "14:55",
+   "label": "移動",
+   "place": "大分県佐伯市 「佐伯青果市場」",
+   "category": "移動"
+  },
+  {
+   "time": "15:28",
+   "label": "休憩",
+   "place": "大分市 東九州自動車道大分松岡パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "15:34",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "16:02",
+   "label": "街頭演説",
+   "place": "大分市 商店街「ガレリア竹町」",
+   "category": "党務"
+  },
+  {
+   "time": "16:31",
+   "label": "移動",
+   "place": "大分市 商店街「ガレリア竹町」",
+   "category": "移動"
+  },
+  {
+   "time": "17:34",
+   "label": "大分空港",
+   "place": "大分空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:34",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:51",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:21",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 561
+  },
+  {
+   "start": "09:21",
+   "end": "09:24",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "09:24",
+   "end": "09:25",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "09:25",
+   "end": "09:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "09:44",
+   "end": "10:21",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 37
+  },
+  {
+   "start": "10:21",
+   "end": "11:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 80
+  },
+  {
+   "start": "11:41",
+   "end": "11:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "11:50",
+   "end": "12:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 60
+  },
+  {
+   "start": "12:50",
+   "end": "13:19",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "13:19",
+   "end": "13:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 35
+  },
+  {
+   "start": "13:54",
+   "end": "13:56",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 2
+  },
+  {
+   "start": "13:56",
+   "end": "14:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "14:28",
+   "end": "14:55",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 27
+  },
+  {
+   "start": "14:55",
+   "end": "15:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "15:28",
+   "end": "15:34",
+   "category": "移動",
+   "label": "休憩",
+   "minutes": 6
+  },
+  {
+   "start": "15:34",
+   "end": "16:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 28
+  },
+  {
+   "start": "16:02",
+   "end": "16:31",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 29
+  },
+  {
+   "start": "16:31",
+   "end": "17:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 63
+  },
+  {
+   "start": "17:34",
+   "end": "18:28",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 54
+  },
+  {
+   "start": "18:28",
+   "end": "19:34",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 66
+  },
+  {
+   "start": "19:34",
+   "end": "19:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "19:51",
+   "end": "20:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "20:11",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 229
+  }
+ ],
+ "alloc_min": {
+  "居所": 791,
+  "取材・会見": 3,
+  "移動": 415,
+  "公務（内容未詳）": 146,
+  "党務": 85
+ }
+}

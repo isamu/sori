@@ -1,0 +1,56 @@
+{
+ "date": "2011-08-07",
+ "pm": "菅直人",
+ "source": "朝日新聞社 2011.08.07",
+ "work_min": 86,
+ "residence_min": 1354,
+ "meetings": 2,
+ "first_work": "15:02",
+ "events": [
+  {
+   "time": null,
+   "label": "公邸で過ごす",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "15:02",
+   "label": "福山官房副長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:28",
+   "label": "福山氏出る",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "15:02",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 902
+  },
+  {
+   "start": "15:02",
+   "end": "16:28",
+   "category": "面会・会談",
+   "label": "福山官房副長官",
+   "minutes": 86
+  },
+  {
+   "start": "16:28",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 452
+  }
+ ],
+ "alloc_min": {
+  "居所": 1354,
+  "面会・会談": 86
+ }
+}

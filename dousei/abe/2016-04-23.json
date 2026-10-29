@@ -1,0 +1,405 @@
+{
+ "date": "2016-04-23",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 675,
+ "residence_min": 765,
+ "meetings": 2,
+ "first_work": "06:03",
+ "events": [
+  {
+   "time": "06:03",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "06:27",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "08:37",
+   "label": "地震で被災した同町、同県南阿蘇村を上空から視察",
+   "place": "陸自ヘリ",
+   "category": "視察"
+  },
+  {
+   "time": "09:13",
+   "label": "南阿蘇村の白水運動公園",
+   "place": "南阿蘇村の白水運動公園",
+   "category": "移動"
+  },
+  {
+   "time": "09:19",
+   "label": "警察官を激励",
+   "place": "同村の銀河高原ビール工場跡地",
+   "category": "視察"
+  },
+  {
+   "time": "09:28",
+   "label": "消防隊員を激励",
+   "place": "阿蘇消防本部南部分署",
+   "category": "視察"
+  },
+  {
+   "time": "09:44",
+   "label": "自衛隊員、緊急災害対策派遣隊員を激励。長野敏也同村長同席",
+   "place": "同村役場久木野庁舎",
+   "category": "視察"
+  },
+  {
+   "time": "09:58",
+   "label": "避難所で被災者を激励",
+   "place": "同村総合福祉センター",
+   "category": "視察"
+  },
+  {
+   "time": "10:42",
+   "label": "同村の白水運動公園",
+   "place": "同村の白水運動公園",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "移動",
+   "place": "陸自ヘリ",
+   "category": "移動"
+  },
+  {
+   "time": "11:18",
+   "label": "陸上自衛隊高遊原分屯地",
+   "place": "陸上自衛隊高遊原分屯地",
+   "category": "移動"
+  },
+  {
+   "time": "11:49",
+   "label": "蒲島郁夫知事、大西一史熊本市長らと意見交換",
+   "place": "熊本県庁",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:06",
+   "label": "避難所で被災者を激励",
+   "place": "益城町立第四保育所",
+   "category": "視察"
+  },
+  {
+   "time": "13:40",
+   "label": "避難所で被災者を激励",
+   "place": "益城町の老人ホーム「いこいの里」",
+   "category": "視察"
+  },
+  {
+   "time": "14:05",
+   "label": "周辺の家屋倒壊現場を視察",
+   "place": "益城町文化会館",
+   "category": "視察"
+  },
+  {
+   "time": "14:10",
+   "label": "報道各社のインタビュー",
+   "place": "益城町文化会館",
+   "category": "取材・会見"
+  },
+  {
+   "time": "14:32",
+   "label": "陸上自衛隊高遊原分屯地",
+   "place": "陸上自衛隊高遊原分屯地",
+   "category": "移動"
+  },
+  {
+   "time": "16:06",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:16",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "16:46",
+   "label": "河野太郎防災担当相 西村泰彦内閣危機管理監 加藤久喜内閣府政策統括官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "17:17",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:03",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 363
+  },
+  {
+   "start": "06:03",
+   "end": "06:27",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "06:27",
+   "end": "06:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "06:44",
+   "end": "08:37",
+   "category": "視察",
+   "label": "公務（内容未詳）",
+   "minutes": 113
+  },
+  {
+   "start": "08:37",
+   "end": "09:13",
+   "category": "視察",
+   "label": "地震で被災した同町、同県南阿蘇村を上空から視察",
+   "minutes": 36
+  },
+  {
+   "start": "09:13",
+   "end": "09:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "09:16",
+   "end": "09:19",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:19",
+   "end": "09:25",
+   "category": "視察",
+   "label": "警察官を激励",
+   "minutes": 6
+  },
+  {
+   "start": "09:25",
+   "end": "09:28",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "09:28",
+   "end": "09:32",
+   "category": "視察",
+   "label": "消防隊員を激励",
+   "minutes": 4
+  },
+  {
+   "start": "09:32",
+   "end": "09:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "09:44",
+   "end": "09:58",
+   "category": "視察",
+   "label": "自衛隊員、緊急災害対策派遣隊員を激励。長野敏也同村長同席",
+   "minutes": 14
+  },
+  {
+   "start": "09:58",
+   "end": "10:32",
+   "category": "視察",
+   "label": "避難所で被災者を激励",
+   "minutes": 34
+  },
+  {
+   "start": "10:32",
+   "end": "10:42",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 10
+  },
+  {
+   "start": "10:42",
+   "end": "10:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 3
+  },
+  {
+   "start": "10:45",
+   "end": "11:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 33
+  },
+  {
+   "start": "11:18",
+   "end": "11:23",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "11:23",
+   "end": "11:49",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "11:49",
+   "end": "12:45",
+   "category": "面会・会談",
+   "label": "蒲島郁夫知事、大西一史熊本市長らと意見交換",
+   "minutes": 56
+  },
+  {
+   "start": "12:45",
+   "end": "13:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "13:06",
+   "end": "13:32",
+   "category": "視察",
+   "label": "避難所で被災者を激励",
+   "minutes": 26
+  },
+  {
+   "start": "13:32",
+   "end": "13:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 8
+  },
+  {
+   "start": "13:40",
+   "end": "14:00",
+   "category": "視察",
+   "label": "避難所で被災者を激励",
+   "minutes": 20
+  },
+  {
+   "start": "14:00",
+   "end": "14:05",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "14:05",
+   "end": "14:10",
+   "category": "視察",
+   "label": "周辺の家屋倒壊現場を視察",
+   "minutes": 5
+  },
+  {
+   "start": "14:10",
+   "end": "14:15",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 5
+  },
+  {
+   "start": "14:15",
+   "end": "14:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "14:32",
+   "end": "14:52",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "14:52",
+   "end": "16:06",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 74
+  },
+  {
+   "start": "16:06",
+   "end": "16:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "16:16",
+   "end": "16:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 26
+  },
+  {
+   "start": "16:42",
+   "end": "16:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "16:46",
+   "end": "17:04",
+   "category": "面会・会談",
+   "label": "河野太郎防災担当相 西村泰彦内閣危機管理監 加藤久喜内閣府政策統括官",
+   "minutes": 18
+  },
+  {
+   "start": "17:04",
+   "end": "17:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 13
+  },
+  {
+   "start": "17:17",
+   "end": "17:18",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "17:18",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 402
+  }
+ ],
+ "alloc_min": {
+  "居所": 765,
+  "移動": 142,
+  "視察": 258,
+  "公務（内容未詳）": 196,
+  "面会・会談": 74,
+  "取材・会見": 5
+ }
+}

@@ -1,0 +1,506 @@
+{
+ "date": "2016-06-30",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 791,
+ "residence_min": 649,
+ "meetings": 4,
+ "first_work": "08:26",
+ "events": [
+  {
+   "time": "08:26",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:51",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:40",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:44",
+   "label": "近鉄名古屋駅",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "10:50",
+   "label": "近鉄特急",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "11:00",
+   "label": "ＮＨＫのインタビュー",
+   "place": "—",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:14",
+   "label": "同駅貴賓室で三重県鳥羽市内の旅館おかみら",
+   "place": "近鉄宇治山田駅",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:22",
+   "label": "学生らと昼食",
+   "place": "三重県伊勢市 皇學館大学",
+   "category": "会食"
+  },
+  {
+   "time": "12:52",
+   "label": "街頭演説",
+   "place": "同市 伊勢神宮外宮前",
+   "category": "党務"
+  },
+  {
+   "time": "13:51",
+   "label": "売店でサクランボバニラソフトクリームを購入",
+   "place": "同県松阪市 伊勢自動車道嬉野パーキングエリア",
+   "category": "移動"
+  },
+  {
+   "time": "14:23",
+   "label": "街頭演説",
+   "place": "近鉄久居駅東口",
+   "category": "党務"
+  },
+  {
+   "time": "15:16",
+   "label": "全国農業協同組合中央会（ＪＡ全中）の奥野長衛会長と面会",
+   "place": "津市 ＪＡ三重ビル",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:17",
+   "label": "練り歩き。街頭演説",
+   "place": "同県四日市 四日市一番街商店街",
+   "category": "党務"
+  },
+  {
+   "time": "16:48",
+   "label": "街頭演説",
+   "place": "同市 ホテル「三交イン四日市駅前」前",
+   "category": "党務"
+  },
+  {
+   "time": "17:00",
+   "label": "近鉄四日市駅",
+   "place": "近鉄四日市駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:10",
+   "label": "近鉄特急",
+   "place": "近鉄四日市駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:38",
+   "label": "近鉄名古屋駅",
+   "place": "近鉄名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "17:52",
+   "label": "ＪＲ名古屋駅",
+   "place": "ＪＲ名古屋駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:33",
+   "label": "ＪＲ東京駅",
+   "place": "ＪＲ東京駅",
+   "category": "その他"
+  },
+  {
+   "time": "19:37",
+   "label": "移動",
+   "place": "ＪＲ東京駅",
+   "category": "移動"
+  },
+  {
+   "time": "19:54",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で茂木敏充自民党選対委員長と食事",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "会食"
+  },
+  {
+   "time": "20:32",
+   "label": "移動",
+   "place": "東京・永田町 ザ・キャピトルホテル東急",
+   "category": "移動"
+  },
+  {
+   "time": "20:50",
+   "label": "英国のキャメロン首相と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:10",
+   "label": "ドイツのメルケル首相と電話会談",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:26",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:29",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 506
+  },
+  {
+   "start": "08:26",
+   "end": "08:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "08:51",
+   "end": "09:00",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "09:00",
+   "end": "10:40",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 100
+  },
+  {
+   "start": "10:40",
+   "end": "10:42",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "10:42",
+   "end": "10:44",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "10:44",
+   "end": "10:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "10:50",
+   "end": "11:00",
+   "category": "移動",
+   "label": "近鉄特急",
+   "minutes": 10
+  },
+  {
+   "start": "11:00",
+   "end": "11:15",
+   "category": "取材・会見",
+   "label": "ＮＨＫのインタビュー",
+   "minutes": 15
+  },
+  {
+   "start": "11:15",
+   "end": "12:13",
+   "category": "移動",
+   "label": "近鉄特急",
+   "minutes": 58
+  },
+  {
+   "start": "12:13",
+   "end": "12:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:14",
+   "end": "12:17",
+   "category": "面会・会談",
+   "label": "同駅貴賓室で三重県鳥羽市内の旅館おかみら",
+   "minutes": 3
+  },
+  {
+   "start": "12:17",
+   "end": "12:22",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "12:22",
+   "end": "12:48",
+   "category": "会食",
+   "label": "学生らと昼食",
+   "minutes": 26
+  },
+  {
+   "start": "12:48",
+   "end": "12:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "12:52",
+   "end": "13:18",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "13:18",
+   "end": "13:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 33
+  },
+  {
+   "start": "13:51",
+   "end": "14:07",
+   "category": "移動",
+   "label": "売店でサクランボバニラソフトクリームを購入",
+   "minutes": 16
+  },
+  {
+   "start": "14:07",
+   "end": "14:23",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "14:23",
+   "end": "14:55",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 32
+  },
+  {
+   "start": "14:55",
+   "end": "15:16",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "15:16",
+   "end": "15:26",
+   "category": "面会・会談",
+   "label": "全国農業協同組合中央会（ＪＡ全中）の奥野長衛会長と面会",
+   "minutes": 10
+  },
+  {
+   "start": "15:26",
+   "end": "16:17",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 51
+  },
+  {
+   "start": "16:17",
+   "end": "16:31",
+   "category": "党務",
+   "label": "練り歩き。街頭演説",
+   "minutes": 14
+  },
+  {
+   "start": "16:31",
+   "end": "16:48",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "16:48",
+   "end": "16:53",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 5
+  },
+  {
+   "start": "16:53",
+   "end": "17:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 7
+  },
+  {
+   "start": "17:00",
+   "end": "17:10",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "17:10",
+   "end": "17:38",
+   "category": "移動",
+   "label": "近鉄特急",
+   "minutes": 28
+  },
+  {
+   "start": "17:38",
+   "end": "17:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:40",
+   "end": "17:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 12
+  },
+  {
+   "start": "17:52",
+   "end": "17:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "17:54",
+   "end": "19:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 99
+  },
+  {
+   "start": "19:33",
+   "end": "19:37",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 4
+  },
+  {
+   "start": "19:37",
+   "end": "19:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 17
+  },
+  {
+   "start": "19:54",
+   "end": "20:32",
+   "category": "会食",
+   "label": "同ホテル内のレストラン「ＯＲＩＧＡＭＩ」で茂木敏充自民党選対委員長と食事",
+   "minutes": 38
+  },
+  {
+   "start": "20:32",
+   "end": "20:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "20:34",
+   "end": "20:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 16
+  },
+  {
+   "start": "20:50",
+   "end": "21:05",
+   "category": "面会・会談",
+   "label": "英国のキャメロン首相と電話会談",
+   "minutes": 15
+  },
+  {
+   "start": "21:05",
+   "end": "21:10",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 5
+  },
+  {
+   "start": "21:10",
+   "end": "21:25",
+   "category": "面会・会談",
+   "label": "ドイツのメルケル首相と電話会談",
+   "minutes": 15
+  },
+  {
+   "start": "21:25",
+   "end": "21:26",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "21:26",
+   "end": "21:28",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "21:28",
+   "end": "21:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "21:29",
+   "end": "21:44",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 15
+  },
+  {
+   "start": "21:44",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 136
+  }
+ ],
+ "alloc_min": {
+  "居所": 649,
+  "移動": 202,
+  "公務（内容未詳）": 388,
+  "取材・会見": 17,
+  "面会・会談": 43,
+  "会食": 64,
+  "党務": 77
+ }
+}

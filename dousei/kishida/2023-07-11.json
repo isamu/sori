@@ -1,0 +1,130 @@
+{
+ "date": "2023-07-11",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 1045,
+ "residence_min": 395,
+ "meetings": 2,
+ "first_work": "06:30",
+ "events": [
+  {
+   "time": "06:30",
+   "label": "村田隆内閣危機管理監 高橋謙司政策統括官 広瀬昌由水管理・国土保全局長 大林正典気象庁長官",
+   "place": "公邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "06:44",
+   "label": "報道各社のインタビュー",
+   "place": "公邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "06:48",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "07:09",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "リトアニア・ビリニュスの「ビリニュス・グランド・リゾート」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "リトアニアのカウナス国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "給油地のポーランドのワルシャワ・ショパン空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "給油地のポーランドのワルシャワ・ショパン空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "モラウィエツキ首相と会談",
+   "place": "首相府",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "06:30",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 390
+  },
+  {
+   "start": "06:30",
+   "end": "06:40",
+   "category": "面会・会談",
+   "label": "村田隆内閣危機管理監 高橋謙司政策統括官 広瀬昌由水管理・国土保全局長 大林正典気象庁長官",
+   "minutes": 10
+  },
+  {
+   "start": "06:40",
+   "end": "06:44",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 4
+  },
+  {
+   "start": "06:44",
+   "end": "06:47",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 3
+  },
+  {
+   "start": "06:47",
+   "end": "06:48",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 1
+  },
+  {
+   "start": "06:48",
+   "end": "07:09",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 21
+  },
+  {
+   "start": "07:09",
+   "end": "07:34",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "07:34",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 986
+  }
+ ],
+ "alloc_min": {
+  "居所": 395,
+  "面会・会談": 10,
+  "取材・会見": 3,
+  "移動": 46,
+  "外遊": 986
+ }
+}

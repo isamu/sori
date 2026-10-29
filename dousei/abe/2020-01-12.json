@@ -1,0 +1,83 @@
+{
+ "date": "2020-01-12",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1440,
+ "residence_min": 0,
+ "meetings": 4,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": null,
+   "label": "アブドルアジズ・エネルギー相と会談",
+   "place": "サウジアラビア・リヤド キング・サウード迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ファイサル外相と会談",
+   "place": "サウジアラビア・リヤド キング・サウード迎賓館",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "サウジ北西部ウラー近郊のプリンス・アブドル・マジード・ビン・アブドルアジズ空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "発",
+   "place": "キング・ハーリド国際空港",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同氏と会談",
+   "place": "ヤマーマ宮殿",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "サルマン国王主催昼食会",
+   "place": "ヤマーマ宮殿",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "歓迎行事に出席",
+   "place": "ヤマーマ宮殿",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "ウラーのホテル「シャデン・リゾート」",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "夕食会",
+   "place": "サウジアラビア北西部ウラー近郊のムハンマド皇太子の別荘",
+   "category": "会食"
+  },
+  {
+   "time": null,
+   "label": "ムハンマド皇太子と会談",
+   "place": "サウジアラビア北西部ウラー近郊のムハンマド皇太子の別荘",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 1440
+  }
+ ],
+ "alloc_min": {
+  "外遊": 1440
+ }
+}

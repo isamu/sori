@@ -1,0 +1,318 @@
+{
+ "date": "2018-08-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 652,
+ "residence_min": 788,
+ "meetings": 4,
+ "first_work": "09:36",
+ "events": [
+  {
+   "time": "09:36",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:03",
+   "label": "閣議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "10:43",
+   "label": "「ＡＢＵアジア・太平洋ロボットコンテスト」日本代表チームの表敬",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "11:09",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:16",
+   "label": "献花",
+   "place": "東京・三番町 千鳥ケ淵戦没者墓苑",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:20",
+   "label": "移動",
+   "place": "東京・三番町 千鳥ケ淵戦没者墓苑",
+   "category": "移動"
+  },
+  {
+   "time": "11:51",
+   "label": "全国戦没者追悼式",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:45",
+   "label": "移動",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "移動"
+  },
+  {
+   "time": "13:33",
+   "label": "北村滋内閣情報官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "13:46",
+   "label": "薗浦健太郎首相補佐官",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "14:32",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "14:48",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "15:29",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:57",
+   "label": "山梨県鳴沢村の別荘",
+   "place": "山梨県鳴沢村の別荘",
+   "category": "その他"
+  },
+  {
+   "time": "17:50",
+   "label": "移動",
+   "place": "山梨県鳴沢村の別荘",
+   "category": "移動"
+  },
+  {
+   "time": "17:56",
+   "label": "笹川会長、森喜朗元首相、小泉純一郎元首相、麻生太郎副総理兼財務相、加藤勝信厚生労働相、茂木敏充経済再生担当相",
+   "place": "同村の笹川陽平日本財団会長の別荘",
+   "category": "面会・会談"
+  },
+  {
+   "time": "21:55",
+   "label": "移動",
+   "place": "同村の笹川陽平日本財団会長の別荘",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "別荘",
+   "place": "別荘",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:36",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 576
+  },
+  {
+   "start": "09:36",
+   "end": "09:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "09:48",
+   "end": "10:03",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "10:03",
+   "end": "10:11",
+   "category": "官邸執務",
+   "label": "閣議",
+   "minutes": 8
+  },
+  {
+   "start": "10:11",
+   "end": "10:43",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 32
+  },
+  {
+   "start": "10:43",
+   "end": "10:48",
+   "category": "面会・会談",
+   "label": "「ＡＢＵアジア・太平洋ロボットコンテスト」日本代表チームの表敬",
+   "minutes": 5
+  },
+  {
+   "start": "10:48",
+   "end": "11:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 21
+  },
+  {
+   "start": "11:09",
+   "end": "11:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "11:16",
+   "end": "11:20",
+   "category": "式典・行事",
+   "label": "献花",
+   "minutes": 4
+  },
+  {
+   "start": "11:20",
+   "end": "11:25",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "11:25",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 26
+  },
+  {
+   "start": "11:51",
+   "end": "12:43",
+   "category": "式典・行事",
+   "label": "全国戦没者追悼式",
+   "minutes": 52
+  },
+  {
+   "start": "12:43",
+   "end": "12:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "12:45",
+   "end": "12:51",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "12:51",
+   "end": "13:33",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 42
+  },
+  {
+   "start": "13:33",
+   "end": "13:44",
+   "category": "面会・会談",
+   "label": "北村滋内閣情報官",
+   "minutes": 11
+  },
+  {
+   "start": "13:44",
+   "end": "13:46",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 2
+  },
+  {
+   "start": "13:46",
+   "end": "14:03",
+   "category": "面会・会談",
+   "label": "薗浦健太郎首相補佐官",
+   "minutes": 17
+  },
+  {
+   "start": "14:03",
+   "end": "14:32",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "14:32",
+   "end": "14:48",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 16
+  },
+  {
+   "start": "14:48",
+   "end": "15:29",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 41
+  },
+  {
+   "start": "15:29",
+   "end": "16:57",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 88
+  },
+  {
+   "start": "16:57",
+   "end": "17:50",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 53
+  },
+  {
+   "start": "17:50",
+   "end": "17:56",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "17:56",
+   "end": "21:55",
+   "category": "面会・会談",
+   "label": "笹川会長、森喜朗元首相、小泉純一郎元首相、麻生太郎副総理兼財務相、加藤勝信厚生労働相、茂木敏充経済再生担当相",
+   "minutes": 239
+  },
+  {
+   "start": "21:55",
+   "end": "22:02",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 7
+  },
+  {
+   "start": "22:02",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 118
+  }
+ ],
+ "alloc_min": {
+  "居所": 788,
+  "移動": 147,
+  "公務（内容未詳）": 169,
+  "官邸執務": 8,
+  "面会・会談": 272,
+  "式典・行事": 56
+ }
+}

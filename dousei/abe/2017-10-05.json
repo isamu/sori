@@ -1,0 +1,193 @@
+{
+ "date": "2017-10-05",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 705,
+ "residence_min": 735,
+ "meetings": 1,
+ "first_work": "09:39",
+ "events": [
+  {
+   "time": "09:39",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:10",
+   "label": "産経新聞のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "13:50",
+   "label": "石川正一郎拉致問題対策本部事務局",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "16:14",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "16:55",
+   "label": "街頭演説",
+   "place": "川崎市多摩区の小田急向ケ丘遊園駅南口",
+   "category": "党務"
+  },
+  {
+   "time": "17:37",
+   "label": "移動",
+   "place": "川崎市多摩区の小田急向ケ丘遊園駅南口",
+   "category": "移動"
+  },
+  {
+   "time": "18:29",
+   "label": "同ホテル内の中国料理店「楼蘭」で秘書官と食事",
+   "place": "東京・台場 ホテル「グランドニッコー東京台場」",
+   "category": "会食"
+  },
+  {
+   "time": "19:44",
+   "label": "移動",
+   "place": "—",
+   "category": "移動"
+  },
+  {
+   "time": "19:50",
+   "label": "報道番組に出演",
+   "place": "東京・台場 フジテレビ",
+   "category": "取材・会見"
+  },
+  {
+   "time": "21:00",
+   "label": "移動",
+   "place": "東京・台場 フジテレビ",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:39",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 579
+  },
+  {
+   "start": "09:39",
+   "end": "09:58",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 19
+  },
+  {
+   "start": "09:58",
+   "end": "11:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 72
+  },
+  {
+   "start": "11:10",
+   "end": "11:48",
+   "category": "取材・会見",
+   "label": "産経新聞のインタビュー",
+   "minutes": 38
+  },
+  {
+   "start": "11:48",
+   "end": "13:50",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 122
+  },
+  {
+   "start": "13:50",
+   "end": "14:27",
+   "category": "面会・会談",
+   "label": "石川正一郎拉致問題対策本部事務局",
+   "minutes": 37
+  },
+  {
+   "start": "14:27",
+   "end": "16:14",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 107
+  },
+  {
+   "start": "16:14",
+   "end": "16:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 41
+  },
+  {
+   "start": "16:55",
+   "end": "17:37",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 42
+  },
+  {
+   "start": "17:37",
+   "end": "18:29",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 52
+  },
+  {
+   "start": "18:29",
+   "end": "19:44",
+   "category": "会食",
+   "label": "同ホテル内の中国料理店「楼蘭」で秘書官と食事",
+   "minutes": 75
+  },
+  {
+   "start": "19:44",
+   "end": "19:50",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 6
+  },
+  {
+   "start": "19:50",
+   "end": "21:00",
+   "category": "取材・会見",
+   "label": "報道番組に出演",
+   "minutes": 70
+  },
+  {
+   "start": "21:00",
+   "end": "21:24",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "21:24",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 156
+  }
+ ],
+ "alloc_min": {
+  "居所": 735,
+  "移動": 142,
+  "公務（内容未詳）": 301,
+  "取材・会見": 108,
+  "面会・会談": 37,
+  "党務": 42,
+  "会食": 75
+ }
+}

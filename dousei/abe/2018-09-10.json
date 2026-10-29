@@ -1,0 +1,251 @@
+{
+ "date": "2018-09-10",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 948,
+ "residence_min": 492,
+ "meetings": 4,
+ "first_work": "08:12",
+ "events": [
+  {
+   "time": "08:12",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "08:56",
+   "label": "韓国の徐薫国家情報院長",
+   "place": "官邸",
+   "category": "面会・会談"
+  },
+  {
+   "time": "09:38",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:41",
+   "label": "自民党総裁選出陣式",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "10:00",
+   "label": "所見発表演説会",
+   "place": "自民党本部",
+   "category": "党務"
+  },
+  {
+   "time": "11:00",
+   "label": "候補者共同記者会見",
+   "place": "自民党本部",
+   "category": "取材・会見"
+  },
+  {
+   "time": "12:02",
+   "label": "萩生田光一自民党幹事長代行、宗清皇一同党衆院議員",
+   "place": "自民党本部",
+   "category": "面会・会談"
+  },
+  {
+   "time": "12:10",
+   "label": "移動",
+   "place": "自民党本部",
+   "category": "移動"
+  },
+  {
+   "time": "12:41",
+   "label": "報道各社のインタビュー",
+   "place": "羽田空港",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "泊",
+   "place": "極東連邦大学宿泊棟",
+   "category": "居所"
+  },
+  {
+   "time": null,
+   "label": "プーチン氏との会談",
+   "place": "同市・ルースキー島の極東連邦大学",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "共同記者発表",
+   "place": "同市・ルースキー島の極東連邦大学",
+   "category": "取材・会見"
+  },
+  {
+   "time": null,
+   "label": "文書交換式",
+   "place": "同市・ルースキー島の極東連邦大学",
+   "category": "式典・行事"
+  },
+  {
+   "time": null,
+   "label": "ロシアのプーチン大統領と会談",
+   "place": "同市・ルースキー島の極東連邦大学",
+   "category": "面会・会談"
+  },
+  {
+   "time": null,
+   "label": "ロシアのプーチン大統領とともに視察",
+   "place": "ウラジオストク市の自動車合弁会社「マツダ・ソラーズ」のエンジン工場",
+   "category": "視察"
+  },
+  {
+   "time": null,
+   "label": "着",
+   "place": "ロシアのウラジオストク国際空港",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:12",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 492
+  },
+  {
+   "start": "08:12",
+   "end": "08:26",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "08:26",
+   "end": "08:56",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 30
+  },
+  {
+   "start": "08:56",
+   "end": "09:32",
+   "category": "面会・会談",
+   "label": "韓国の徐薫国家情報院長",
+   "minutes": 36
+  },
+  {
+   "start": "09:32",
+   "end": "09:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 6
+  },
+  {
+   "start": "09:38",
+   "end": "09:40",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 2
+  },
+  {
+   "start": "09:40",
+   "end": "09:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:41",
+   "end": "09:45",
+   "category": "党務",
+   "label": "自民党総裁選出陣式",
+   "minutes": 4
+  },
+  {
+   "start": "09:45",
+   "end": "10:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 15
+  },
+  {
+   "start": "10:00",
+   "end": "10:46",
+   "category": "党務",
+   "label": "所見発表演説会",
+   "minutes": 46
+  },
+  {
+   "start": "10:46",
+   "end": "11:00",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "11:00",
+   "end": "12:01",
+   "category": "取材・会見",
+   "label": "候補者共同記者会見",
+   "minutes": 61
+  },
+  {
+   "start": "12:01",
+   "end": "12:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:02",
+   "end": "12:09",
+   "category": "面会・会談",
+   "label": "萩生田光一自民党幹事長代行、宗清皇一同党衆院議員",
+   "minutes": 7
+  },
+  {
+   "start": "12:09",
+   "end": "12:10",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "12:10",
+   "end": "12:30",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 20
+  },
+  {
+   "start": "12:30",
+   "end": "12:41",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 11
+  },
+  {
+   "start": "12:41",
+   "end": "12:43",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 2
+  },
+  {
+   "start": "12:43",
+   "end": "24:00",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 677
+  }
+ ],
+ "alloc_min": {
+  "居所": 492,
+  "移動": 36,
+  "公務（内容未詳）": 79,
+  "面会・会談": 43,
+  "党務": 50,
+  "取材・会見": 63,
+  "外遊": 677
+ }
+}

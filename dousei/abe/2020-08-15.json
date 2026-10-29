@@ -1,0 +1,133 @@
+{
+ "date": "2020-08-15",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 271,
+ "residence_min": 1169,
+ "meetings": 1,
+ "first_work": "10:52",
+ "events": [
+  {
+   "time": "10:52",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "11:06",
+   "label": "献花",
+   "place": "東京・三番町 千鳥ケ淵戦没者墓苑",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:10",
+   "label": "移動",
+   "place": "東京・三番町 千鳥ケ淵戦没者墓苑",
+   "category": "移動"
+  },
+  {
+   "time": "11:51",
+   "label": "全国戦没者追悼式に参列し、式辞、献花",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "式典・行事"
+  },
+  {
+   "time": "12:47",
+   "label": "移動",
+   "place": "東京・北の丸公園 日本武道館",
+   "category": "移動"
+  },
+  {
+   "time": "14:27",
+   "label": "麻生太郎副総理兼財務相",
+   "place": "私邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "10:52",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 652
+  },
+  {
+   "start": "10:52",
+   "end": "11:06",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 14
+  },
+  {
+   "start": "11:06",
+   "end": "11:10",
+   "category": "式典・行事",
+   "label": "献花",
+   "minutes": 4
+  },
+  {
+   "start": "11:10",
+   "end": "11:15",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 5
+  },
+  {
+   "start": "11:15",
+   "end": "11:51",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 36
+  },
+  {
+   "start": "11:51",
+   "end": "12:44",
+   "category": "式典・行事",
+   "label": "全国戦没者追悼式に参列し、式辞、献花",
+   "minutes": 53
+  },
+  {
+   "start": "12:44",
+   "end": "12:47",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 3
+  },
+  {
+   "start": "12:47",
+   "end": "12:59",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 12
+  },
+  {
+   "start": "12:59",
+   "end": "14:27",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 88
+  },
+  {
+   "start": "14:27",
+   "end": "15:23",
+   "category": "面会・会談",
+   "label": "麻生太郎副総理兼財務相",
+   "minutes": 56
+  },
+  {
+   "start": "15:23",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 517
+  }
+ ],
+ "alloc_min": {
+  "居所": 1169,
+  "移動": 31,
+  "式典・行事": 57,
+  "公務（内容未詳）": 127,
+  "面会・会談": 56
+ }
+}

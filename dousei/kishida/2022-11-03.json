@@ -1,0 +1,187 @@
+{
+ "date": "2022-11-03",
+ "pm": "岸田文雄",
+ "source": null,
+ "work_min": 809,
+ "residence_min": 631,
+ "meetings": 1,
+ "first_work": "09:07",
+ "events": [
+  {
+   "time": "09:07",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:09",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:35",
+   "label": "国家安全保障会議",
+   "place": "官邸",
+   "category": "官邸執務"
+  },
+  {
+   "time": "09:52",
+   "label": "報道各社のインタビュー",
+   "place": "官邸",
+   "category": "取材・会見"
+  },
+  {
+   "time": "09:53",
+   "label": "移動",
+   "place": "官邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:54",
+   "label": "公邸",
+   "place": "公邸",
+   "category": "居所"
+  },
+  {
+   "time": "10:08",
+   "label": "移動",
+   "place": "公邸",
+   "category": "移動"
+  },
+  {
+   "time": "10:16",
+   "label": "文化勲章親授式に出席",
+   "place": "皇居",
+   "category": "式典・行事"
+  },
+  {
+   "time": "11:12",
+   "label": "移動",
+   "place": "皇居",
+   "category": "移動"
+  },
+  {
+   "time": "22:38",
+   "label": "村田隆内閣危機管理監 秋葉剛男国家安全保障局長 高橋憲一官房副長官補 滝沢裕昭内閣情報官 増田和夫防衛政策局長",
+   "place": "公邸",
+   "category": "面会・会談"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "09:07",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 547
+  },
+  {
+   "start": "09:07",
+   "end": "09:08",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:08",
+   "end": "09:09",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 1
+  },
+  {
+   "start": "09:09",
+   "end": "09:35",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 26
+  },
+  {
+   "start": "09:35",
+   "end": "09:47",
+   "category": "官邸執務",
+   "label": "国家安全保障会議",
+   "minutes": 12
+  },
+  {
+   "start": "09:47",
+   "end": "09:52",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 5
+  },
+  {
+   "start": "09:52",
+   "end": "09:53",
+   "category": "取材・会見",
+   "label": "報道各社のインタビュー",
+   "minutes": 1
+  },
+  {
+   "start": "09:53",
+   "end": "09:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 1
+  },
+  {
+   "start": "09:54",
+   "end": "10:08",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 14
+  },
+  {
+   "start": "10:08",
+   "end": "10:16",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "10:16",
+   "end": "11:12",
+   "category": "式典・行事",
+   "label": "文化勲章親授式に出席",
+   "minutes": 56
+  },
+  {
+   "start": "11:12",
+   "end": "11:20",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 8
+  },
+  {
+   "start": "11:20",
+   "end": "22:38",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 678
+  },
+  {
+   "start": "22:38",
+   "end": "22:50",
+   "category": "面会・会談",
+   "label": "村田隆内閣危機管理監 秋葉剛男国家安全保障局長 高橋憲一官房副長官補 滝沢裕昭内閣情報官 増田和夫防衛政策局長",
+   "minutes": 12
+  },
+  {
+   "start": "22:50",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 70
+  }
+ ],
+ "alloc_min": {
+  "居所": 631,
+  "移動": 18,
+  "公務（内容未詳）": 684,
+  "取材・会見": 27,
+  "官邸執務": 12,
+  "式典・行事": 56,
+  "面会・会談": 12
+ }
+}

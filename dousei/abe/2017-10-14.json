@@ -1,0 +1,254 @@
+{
+ "date": "2017-10-14",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 735,
+ "residence_min": 705,
+ "meetings": 0,
+ "first_work": "08:46",
+ "events": [
+  {
+   "time": "08:46",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "09:11",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "10:45",
+   "label": "高松空港",
+   "place": "高松空港",
+   "category": "移動"
+  },
+  {
+   "time": "11:31",
+   "label": "街頭演説",
+   "place": "香川県坂出市のコンビニエンスストア跡地",
+   "category": "党務"
+  },
+  {
+   "time": "12:39",
+   "label": "街頭演説",
+   "place": "高松市役所前",
+   "category": "党務"
+  },
+  {
+   "time": "13:30",
+   "label": "秘書官と食事",
+   "place": "高松市のうどん店「さぬき麺業　いしうす庵　レインボー店」",
+   "category": "会食"
+  },
+  {
+   "time": "15:55",
+   "label": "街頭演説",
+   "place": "神戸市・北区の神戸電鉄三田線岡場駅前",
+   "category": "党務"
+  },
+  {
+   "time": "16:59",
+   "label": "街頭演説",
+   "place": "ＪＲ摂津本山駅北口",
+   "category": "党務"
+  },
+  {
+   "time": "18:02",
+   "label": "伊丹空港",
+   "place": "伊丹空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:25",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "19:36",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "20:18",
+   "label": "ＮＨＫ番組の収録",
+   "place": "私邸",
+   "category": "取材・会見"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "08:46",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 526
+  },
+  {
+   "start": "08:46",
+   "end": "09:11",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "09:11",
+   "end": "09:43",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 32
+  },
+  {
+   "start": "09:43",
+   "end": "10:45",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 62
+  },
+  {
+   "start": "10:45",
+   "end": "10:54",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 9
+  },
+  {
+   "start": "10:54",
+   "end": "11:31",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 37
+  },
+  {
+   "start": "11:31",
+   "end": "12:10",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 39
+  },
+  {
+   "start": "12:10",
+   "end": "12:39",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 29
+  },
+  {
+   "start": "12:39",
+   "end": "13:16",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 37
+  },
+  {
+   "start": "13:16",
+   "end": "13:30",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 14
+  },
+  {
+   "start": "13:30",
+   "end": "13:47",
+   "category": "会食",
+   "label": "秘書官と食事",
+   "minutes": 17
+  },
+  {
+   "start": "13:47",
+   "end": "15:55",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 128
+  },
+  {
+   "start": "15:55",
+   "end": "16:21",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 26
+  },
+  {
+   "start": "16:21",
+   "end": "16:59",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 38
+  },
+  {
+   "start": "16:59",
+   "end": "17:23",
+   "category": "党務",
+   "label": "街頭演説",
+   "minutes": 24
+  },
+  {
+   "start": "17:23",
+   "end": "18:02",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 39
+  },
+  {
+   "start": "18:02",
+   "end": "18:45",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 43
+  },
+  {
+   "start": "18:45",
+   "end": "19:25",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 40
+  },
+  {
+   "start": "19:25",
+   "end": "19:36",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 11
+  },
+  {
+   "start": "19:36",
+   "end": "20:01",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 25
+  },
+  {
+   "start": "20:01",
+   "end": "20:18",
+   "category": "公務（内容未詳）",
+   "label": "公務（内容未詳）",
+   "minutes": 17
+  },
+  {
+   "start": "20:18",
+   "end": "21:01",
+   "category": "取材・会見",
+   "label": "ＮＨＫ番組の収録",
+   "minutes": 43
+  },
+  {
+   "start": "21:01",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 179
+  }
+ ],
+ "alloc_min": {
+  "居所": 705,
+  "移動": 145,
+  "公務（内容未詳）": 404,
+  "党務": 126,
+  "会食": 17,
+  "取材・会見": 43
+ }
+}

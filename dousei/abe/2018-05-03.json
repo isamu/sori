@@ -1,0 +1,117 @@
+{
+ "date": "2018-05-03",
+ "pm": "安倍晋三",
+ "source": null,
+ "work_min": 1140,
+ "residence_min": 300,
+ "meetings": 0,
+ "first_work": "00:00",
+ "events": [
+  {
+   "time": "14:37",
+   "label": "羽田空港",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "14:55",
+   "label": "移動",
+   "place": "羽田空港",
+   "category": "移動"
+  },
+  {
+   "time": "15:19",
+   "label": "私邸",
+   "place": "私邸",
+   "category": "居所"
+  },
+  {
+   "time": "17:06",
+   "label": "移動",
+   "place": "私邸",
+   "category": "移動"
+  },
+  {
+   "time": "18:37",
+   "label": "昭恵夫人、成蹊大の友人らと食事",
+   "place": "山梨県富士吉田市の「炭火串焼Ｉ．Ｗ」",
+   "category": "会食"
+  },
+  {
+   "time": "20:37",
+   "label": "移動",
+   "place": "山梨県富士吉田市の「炭火串焼Ｉ．Ｗ」",
+   "category": "移動"
+  },
+  {
+   "time": null,
+   "label": "同県鳴沢村の別荘",
+   "place": "同県鳴沢村の別荘",
+   "category": "その他"
+  }
+ ],
+ "intervals": [
+  {
+   "start": "00:00",
+   "end": "14:37",
+   "category": "外遊",
+   "label": "海外訪問",
+   "minutes": 877
+  },
+  {
+   "start": "14:37",
+   "end": "14:55",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 18
+  },
+  {
+   "start": "14:55",
+   "end": "15:19",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 24
+  },
+  {
+   "start": "15:19",
+   "end": "17:06",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 107
+  },
+  {
+   "start": "17:06",
+   "end": "18:37",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 91
+  },
+  {
+   "start": "18:37",
+   "end": "20:37",
+   "category": "会食",
+   "label": "昭恵夫人、成蹊大の友人らと食事",
+   "minutes": 120
+  },
+  {
+   "start": "20:37",
+   "end": "20:47",
+   "category": "移動",
+   "label": "移動",
+   "minutes": 10
+  },
+  {
+   "start": "20:47",
+   "end": "24:00",
+   "category": "居所",
+   "label": "滞在",
+   "minutes": 193
+  }
+ ],
+ "alloc_min": {
+  "外遊": 877,
+  "移動": 143,
+  "居所": 300,
+  "会食": 120
+ }
+}
