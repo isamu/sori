@@ -130,6 +130,17 @@
     </ul>
   </section>
 
+  <section class="mt-7 text-[13px] text-muted dark:text-mutedd">
+    <h2 class="text-base font-semibold text-ink dark:text-inkd">色を変えた出来事とその期間</h2>
+    <p class="my-1.5">この一覧とページの数値は AI（Claude Code）が出典を調べて集計しています。間違いがある可能性もあります。</p>
+    <div v-for="k in kinds" :key="k.id" class="my-2">
+      <h3 class="font-semibold text-ink dark:text-inkd"><i class="mr-1.5 inline-block size-[11px] rounded-[2px] align-[-1px]" :class="kindSwatch[k.id]" aria-hidden="true"></i>{{ k.label }}<span class="ml-1.5 font-normal text-muted dark:text-mutedd">{{ kindRule[k.id] }}</span></h3>
+      <ul class="my-1 list-disc pl-5">
+        <li v-for="e in eventsByKind[k.id]" :key="e.start" class="my-0.5">{{ e.name }}: {{ fmtDateShort(e.start) }}〜{{ fmtDateShort(e.end) }} <a class="text-link underline-offset-2 hover:underline dark:text-linkd" :href="e.source" target="_blank" rel="noopener">出典</a></li>
+      </ul>
+    </div>
+  </section>
+
   <footer class="mt-8 border-t border-rule pt-3 text-xs text-muted dark:border-ruled dark:text-mutedd">データ取得日 {{ generated }}。首相動静の著作権は各報道機関に、構造化データは官邸ログにあります。このページは個人の可視化です。</footer>
 </div>
 
@@ -209,6 +220,7 @@ const rampOf = hue => [EMPTY_CELL_CLASS, `bg-${hue}-300 dark:bg-${hue}-950`, `bg
 const KIND_LEVEL_CLASS = Object.fromEntries(Object.entries(KIND_HUE).map(([kind, hue]) => [kind, rampOf(hue)]));
 const SWATCH_LEVEL = 3;
 // A rest day has no colour to change, so the period shows as an emoji instead.
+const KIND_RULE = { election: '公示日から投開票日まで', quake: '震度 7 を観測した日から 1 週間', rain: '大雨特別警報が最初に出た日から 1 週間' };
 const KIND_EMOJI = { election: '\u{1F5F3}\uFE0F', quake: '\u{1F3DA}\uFE0F', rain: '\u2614' };
 
 // Storage can be missing or blocked (private window, cleared site data); every kind stays shown then.
@@ -306,6 +318,7 @@ createApp({
     const cellClass = cell => cell.event && shownKinds[cell.event] ? KIND_LEVEL_CLASS[cell.event][cell.level] : levelClass[cell.level];
     const kindSwatch = Object.fromEntries(data.kinds.map(k => [k.id, KIND_LEVEL_CLASS[k.id][SWATCH_LEVEL]]));
     const cellMark = cell => cell.event && shownKinds[cell.event] && cell.level === 0 ? KIND_EMOJI[cell.event] : '';
+    const eventsByKind = Object.fromEntries(data.kinds.map(k => [k.id, data.events.filter(e => e.kind === k.id)]));
     const dowLabels = DOW.map((t, i) => ({ id: 'dow-' + t, text: i % 2 === 1 ? t : '' }));
 
     const showTip = (event, y, cell) => {
@@ -320,7 +333,7 @@ createApp({
     window.addEventListener('scroll', hideTip, { passive: true });
 
     return { years, until: data.until, generated: data.generated, dowLabels, levelClass, rankClass, rankBadgeClass, pmColor, tip, showTip, hideTip, fmtDateShort, fmtInt,
-      kinds: data.kinds, kindSwatch, kindEmoji: KIND_EMOJI, shownKinds, toggleKind, cellClass, cellMark };
+      kinds: data.kinds, kindSwatch, kindEmoji: KIND_EMOJI, kindRule: KIND_RULE, eventsByKind, shownKinds, toggleKind, cellClass, cellMark };
   },
 }).mount('#app');
 </script>

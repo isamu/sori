@@ -5,7 +5,7 @@
   python3 build_pages.py all      # site/all.html（2011 年以降の全期間を暦年ごとに。dousei/ を直接読む）
 """
 import datetime, json, re, sys
-from by_year import days_in_year, events_in, group_by_year, pm_id_of, segments_in, terms_of, year_span, years_covered
+from by_year import days_in_year, event_list, events_in, group_by_year, pm_id_of, segments_in, terms_of, year_span, years_covered
 from config import PARSED_DIR, PMS, SITE_DIR, TEMPLATE_DIR
 from events import EVENTS, KINDS
 from parse_days import load_dousei
@@ -77,7 +77,7 @@ def build_all():
     render("vue_all_template.html", {
         "pms": [{"id": t["id"], "name": t["name"], "party": t["party"]} for t in terms],
         "years": [year_payload(y, by_year, terms, until) for y in reversed(years_covered(until))],
-        "kinds": KINDS, "until": until, "generated": today,
+        "kinds": KINDS, "events": event_list(EVENTS), "until": until, "generated": today,
     }, "all.html")
 
 

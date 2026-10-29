@@ -52,6 +52,13 @@ def events_in(events, start, end):
             for e, s, t in windows if s <= end and t >= start]
 
 
+def event_list(events):
+    """出来事ごとの窓と出典を新しい順に。ページ下部の一覧用。"""
+    rows = [{"kind": e["kind"], "name": e["name"], "start": s, "end": t, "source": e["source"]}
+            for e in events for s, t in [event_window(e)]]
+    return sorted(rows, key=lambda r: r["start"], reverse=True)
+
+
 def group_by_year(days):
     """date キーで暦年ごとに日付順に並べる。同じ日付が重なったら先のものを残す。"""
     seen, by_year = set(), {}
