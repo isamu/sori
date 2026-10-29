@@ -183,7 +183,7 @@ const buildGrid = (days, gridStart, gridEnd, validStart, validEnd) => {
 // A bar too narrow for its name gets the name right-aligned so it does not spill past the bar on the left.
 const barsOf = (segments, first) => segments.map(seg => {
   const left = colOf(seg.start, first) * CELL_PITCH_PX;
-  const width = (colOf(seg.end, first) + 1) * CELL_PITCH_PX - CELL_GAP_PX;
+  const width = (colOf(seg.end, first) + 1) * CELL_PITCH_PX - CELL_GAP_PX - left;
   const narrow = width < seg.name.length * BAR_LABEL_PX_PER_CHAR;
   const labelStyle = narrow ? { left: (left + width) + 'px', transform: 'translateX(-100%)' } : { left: left + 'px' };
   return { ...seg, left, width, labelStyle };
