@@ -16,7 +16,7 @@
 | `site/og-grass.png` | `build_og.py` が作る代替の OGP 画像（1200×630、7 人分の草を 2 列）。使うなら index の og:image を差し替える |
 | `site/pm-first-year-grass.html` | 歴代総理 1 年目の草を 1 枚に並べたもの |
 | `site/all.html` | 「総理の毎年」。2011-03-11 以降の全期間を暦年ごとに 1 枚の草で並べ、草の下に在任バー、年ごとに 5 タイル。`build_pages.py all` で生成。`parsed/` を経由せず `dousei/` を直接読む |
-| `scripts/` | 取り込み → 解析 → 生成。`by_year.py` は暦年への振り分けと在任区間の純粋関数 |
+| `scripts/` | 取り込み → 解析 → 生成。`by_year.py` は暦年への振り分け・在任区間・出来事の窓の純粋関数。`events.py` は草の色を変える出来事の一覧（選挙・震度 7 の地震・豪雨、出典 URL つき）|
 | `test/` | `python3 -m unittest discover -s test -p 'test_*.py'` |
 
 `<pm>` は `config.py` の `PMS` の id: hatoyama / kan / noda / abe / suga / kishida / ishiba / takaichi。
@@ -32,7 +32,7 @@ python3 parse_all.py                  # dousei/ → parsed/pms-first-year.json
 python3 build_pages.py index          # site/index.html（草だけ）
 python3 build_pages.py multi          # site/pm-first-year-grass.html（比較表と commit log つき）
 python3 build_pages.py all            # site/all.html（全期間を暦年ごとに）
-python3 -m unittest discover -s test -p 'test_*.py'   # by_year.py の検証
+python3 -m unittest discover -s test -p 'test_*.py'   # by_year.py と events.py の検証
 python3 build_og.py                   # site/og-grass.png（代替 OGP 画像。og.png は手製なので触らない）
 python3 parse_days.py <raw/html/.../x.html.gz>   # 1 ページ分の解析結果を眺める（デバッグ用）
 ```
@@ -72,6 +72,7 @@ mulmoclaude の画面に出すときは `~/mulmoclaude/artifacts/html/2026/10/` 
 - 「最も長い一日」は外遊日と空港利用日（ラベルに 空港 / 政府専用機 / チャーター機）を除いた国内の日。
 - 1 年目 = 就任日から 365 日。安倍は第 2 次政権の 1 年目。
 - `all.html` は暦年ごと（1 月〜12 月）。2011 年は収録開始日から、今年は取得済みの最終日まで。範囲外は空白、範囲内で収録のない日は点線。在任は `config.py` の `start`/`end` から（退任日の前日まで）、ツールチップの総理名は各日の `pm` フィールドから。1 位 2 位は 1 月〜12 月そろった年の中だけ。そろっていない年には取得済み日数から 1 年分に引き伸ばした年換算を commit 数と数えるタイルに添える（最長連続稼働は除く）。
+- `all.html` の出来事の色（GitHub のハロウィン配色の要領で、期間中のマスの色相だけ変え、濃さは公務時間のまま）: 選挙は紫で公示日〜投開票日、地震は赤で震度 7 の日から 1 週間（複数日なら最後の日から）、豪雨は青で大雨特別警報が最初に出た日から 1 週間（特定非常災害に指定された 3 件と、名指しの熊本 2025・千葉 2026）。期間中で 0 commit の日は絵文字（🗳️ 🏚️ ☔）。重なる日は地震・豪雨・選挙の順。一覧は `events.py` に手で足す（党首選は入れない、激甚災害の一覧は網羅しない）。上部のボタンで種類ごとに出し入れでき、状態は localStorage の `sori-all-event-kinds`。
 - テンプレートは Composition API、`:key` は日付などの識別子、`<style>` は Tailwind の `@theme` と `v-cloak` だけ。文言は直書き（単一 HTML なので vue-i18n は使っていない）。
 
 ## 状態（2026-10-29 時点）
