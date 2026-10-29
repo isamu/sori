@@ -2,7 +2,7 @@ import sys, unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from by_year import days_in_year, group_by_year, pm_id_of, segments_in, term_of, terms_of, year_span, years_covered
+from by_year import days_in_year, event_list, event_window, events_in, group_by_year, pm_id_of, segments_in, term_of, terms_of, year_span, years_covered
 
 PMS = [
     {"id": "hatoyama", "name": "鳩山由紀夫", "party": "民主党", "start": "2009-09-16", "end": "2010-06-08"},
@@ -54,6 +54,36 @@ class SegmentTest(unittest.TestCase):
 
     def test_no_segment_in_a_gap(self):
         self.assertEqual(segments_in(terms_of(PMS, UNTIL), "2015-01-01", "2015-12-31"), [])
+
+
+ELECTION = {"kind": "election", "name": "第46回衆院選", "start": "2012-12-04", "end": "2012-12-16", "source": "https://example.test/e"}
+QUAKE = {"kind": "quake", "name": "平成28年熊本地震", "start": "2016-04-14", "last": "2016-04-16", "source": "https://example.test/q"}
+NEW_YEAR_QUAKE = {"kind": "quake", "name": "年またぎ", "start": "2023-12-29", "last": "2023-12-29", "source": "https://example.test/n"}
+
+
+class EventTest(unittest.TestCase):
+    def test_election_runs_from_announcement_to_vote(self):
+        self.assertEqual(event_window(ELECTION), ("2012-12-04", "2012-12-16"))
+
+    def test_disaster_window_is_one_week_from_the_last_day(self):
+        self.assertEqual(event_window(QUAKE), ("2016-04-14", "2016-04-22"))
+        self.assertEqual(event_window(NEW_YEAR_QUAKE), ("2023-12-29", "2024-01-04"))
+
+    def test_events_clipped_to_year(self):
+        events = [ELECTION, QUAKE, NEW_YEAR_QUAKE]
+        self.assertEqual(events_in(events, "2024-01-01", "2024-12-31"),
+                         [{"kind": "quake", "name": "年またぎ", "start": "2024-01-01", "end": "2024-01-04"}])
+        self.assertEqual([e["name"] for e in events_in(events, "2023-01-01", "2023-12-31")], ["年またぎ"])
+        self.assertEqual(events_in(events, "2016-01-01", "2016-12-31")[0]["end"], "2016-04-22")
+
+    def test_no_event_outside(self):
+        self.assertEqual(events_in([ELECTION, QUAKE], "2020-01-01", "2020-12-31"), [])
+
+    def test_event_list_is_newest_first_with_window_and_source(self):
+        rows = event_list([ELECTION, QUAKE, NEW_YEAR_QUAKE])
+        self.assertEqual([r["name"] for r in rows], ["年またぎ", QUAKE["name"], ELECTION["name"]])
+        self.assertEqual(rows[1], {"kind": "quake", "name": QUAKE["name"], "start": "2016-04-14", "end": "2016-04-22", "source": QUAKE["source"]})
+        self.assertEqual(rows[2]["end"], "2012-12-16")
 
 
 class GroupTest(unittest.TestCase):

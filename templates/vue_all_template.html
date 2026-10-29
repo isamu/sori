@@ -53,6 +53,16 @@
         <i v-for="lv in [0,1,2,3,4]" :key="'legend-' + lv" class="inline-block size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-black/5 dark:outline-white/5" :class="levelClass[lv]"></i>
       16h+</span>
       <span class="inline-flex items-center gap-1.5"><i class="inline-block size-[11px] rounded-[2px] border" :class="rankClass[1]"></i>1 位 <i class="ml-1 inline-block size-[11px] rounded-[2px] border" :class="rankClass[2]"></i>2 位 <span class="ml-1">（1 月から 12 月までそろっている年の中で、値の大きい順）</span></span>
+      <span class="inline-flex flex-col gap-y-0.5">
+        <span class="inline-flex items-center gap-1.5" role="group" aria-label="出来事の表示">出来事
+          <button v-for="k in kinds" :key="'kind-' + k.id" type="button" :aria-pressed="shownKinds[k.id]" @click="toggleKind(k.id)"
+            class="inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 text-xs"
+            :class="shownKinds[k.id] ? 'border-rule bg-panel text-ink dark:border-ruled dark:bg-paneld dark:text-inkd' : 'border-dashed border-rule text-muted opacity-60 dark:border-ruled dark:text-mutedd'">
+            <i class="inline-block size-[11px] rounded-[2px]" :class="kindSwatch[k.id]"></i>{{ k.label }}<span class="text-[10px]" aria-hidden="true">{{ kindEmoji[k.id] }}</span>
+          </button>
+        </span>
+        <span class="text-[11px]">公務のない日は絵文字、公務のある日はこの色（濃さは公務時間のまま）。押すと種類ごとに出し入れできます</span>
+      </span>
     </span>
   </header>
 
@@ -76,9 +86,9 @@
               <div v-if="cell.kind === 'blank'" class="size-[11px]"></div>
               <div v-else-if="cell.kind === 'missing'" class="size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-dashed outline-rule dark:outline-ruled" :title="cell.date + ' 収録なし'"></div>
               <div v-else role="gridcell" tabindex="0"
-                class="size-[11px] rounded-[2px] outline-1 -outline-offset-1 outline-black/5 focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-link dark:outline-white/5"
-                :class="levelClass[cell.level]" :aria-label="cell.aria"
-                @pointerenter="showTip($event, y, cell)" @pointerleave="hideTip" @focus="showTip($event, y, cell)" @blur="hideTip"></div>
+                class="size-[11px] select-none overflow-hidden rounded-[2px] text-center text-[9px] leading-[11px] outline-1 -outline-offset-1 outline-black/5 focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-link dark:outline-white/5"
+                :class="cellClass(cell)" :aria-label="cell.aria"
+                @pointerenter="showTip($event, y, cell)" @pointerleave="hideTip" @focus="showTip($event, y, cell)" @blur="hideTip">{{ cellMark(cell) }}</div>
             </template>
           </template>
         </div>
@@ -104,7 +114,7 @@
   </section>
 
   <div v-if="tip" class="pointer-events-none fixed z-10 max-w-[280px] -translate-x-1/2 -translate-y-full rounded-md bg-[#25292e] px-2.5 py-1.5 text-xs leading-normal text-white shadow-lg dark:bg-[#3d444d]" :style="{ left: tip.x + 'px', top: tip.y + 'px' }" role="tooltip">
-    <b class="font-semibold">{{ tip.head }}</b> {{ tip.date }} · {{ tip.pm }}<br>{{ tip.detail }}
+    <b class="font-semibold">{{ tip.head }}</b> {{ tip.date }} · {{ tip.pm }}<br>{{ tip.detail }}<template v-if="tip.events"><br>{{ tip.events }}</template>
   </div>
 
   <section class="mt-7 text-[13px] text-muted dark:text-mutedd">
@@ -115,8 +125,20 @@
       <li class="my-1">「終日、公邸で過ごす」と報じられた日は 0 commit。首相動静に載らない私的な活動や、公邸内での執務は数えられません。</li>
       <li class="my-1">1 枚の草が暦年の 1 月から 12 月。官邸ログの収録は 2011-03-11 からなので 2011 年はそこから、今年は取得済みの最終日までで、範囲外は空白にしています。年の途中で総理が替わる箇所は草の下のバーで示し、マスの色は総理によらず公務時間だけで決まります。1 位 2 位の色分けは 1 月から 12 月までそろっている年の中だけで付けています。</li>
       <li class="my-1">1 月から 12 月までそろっていない年には、取得済みの日数から 1 年分に引き伸ばした<strong>年換算</strong>の値を補足として添えています（commit 数・稼働日・休養日・外遊・面会。最長連続稼働は引き伸ばしません）。残りの日も同じ調子で続いたらという目安で、予測ではありません。</li>
+      <li class="my-1">選挙期間と大きな災害の直後は、マスの緑を別の色にしています（GitHub のハロウィン配色の要領で、濃さは公務時間のまま）。<strong>選挙</strong>（紫）は衆院選・参院選の公示日から投開票日まで。<strong>地震</strong>（赤）は気象庁の記録で震度 7 を観測した日から 1 週間（複数日なら最後の日から）。<strong>豪雨</strong>（青）は大雨特別警報が最初に出た日から 1 週間で、特定非常災害に指定された西日本豪雨（2018 年）・東日本台風（2019 年）・令和 2 年 7 月豪雨と、熊本（2025 年 8 月）・千葉（2026 年 8 月）の計 5 件。期間中で 0 commit の日は色が付かないので、代わりに絵文字（選挙 🗳️、地震 🏚️、豪雨 ☔）を置いています。重なる日は地震・豪雨・選挙の順に優先します。上のボタンで種類ごとに出し入れでき、選んだ状態はこのブラウザに保存されます。党首選は入れていません。</li>
       <li class="my-1">出典: <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="https://www.kanteilog.com/pm" target="_blank" rel="noopener">官邸ログ 歴代首相の動静</a>（時事通信社・日本経済新聞社・朝日新聞社の首相動静を構造化）。</li>
     </ul>
+  </section>
+
+  <section class="mt-7 text-[13px] text-muted dark:text-mutedd">
+    <h2 class="text-base font-semibold text-ink dark:text-inkd">色を変えた出来事とその期間</h2>
+    <p class="my-1.5">この一覧とページの数値は AI（Claude Code）が出典を調べて集計しています。間違いがある可能性もあります。</p>
+    <div v-for="k in kinds" :key="k.id" class="my-2">
+      <h3 class="font-semibold text-ink dark:text-inkd"><i class="mr-1.5 inline-block size-[11px] rounded-[2px] align-[-1px]" :class="kindSwatch[k.id]" aria-hidden="true"></i>{{ k.label }}<span class="ml-1.5 font-normal text-muted dark:text-mutedd">{{ kindRule[k.id] }}</span></h3>
+      <ul class="my-1 list-disc pl-5">
+        <li v-for="e in eventsByKind[k.id]" :key="e.start" class="my-0.5">{{ e.name }}: {{ fmtDateShort(e.start) }}〜{{ fmtDateShort(e.end) }} <a class="text-link underline-offset-2 hover:underline dark:text-linkd" :href="e.source" target="_blank" rel="noopener">出典</a></li>
+      </ul>
+    </div>
   </section>
 
   <footer class="mt-8 border-t border-rule pt-3 text-xs text-muted dark:border-ruled dark:text-mutedd">データ取得日 {{ generated }}。首相動静の著作権は各報道機関に、構造化データは官邸ログにあります。このページは個人の可視化です。</footer>
@@ -124,7 +146,7 @@
 
 <script id="data" type="application/json">__DATA__</script>
 <script>
-const { createApp, ref } = Vue;
+const { createApp, ref, reactive } = Vue;
 
 const MIN_PER_COMMIT = 60;
 const HOURS_PER_LEVEL = 4;
@@ -183,11 +205,37 @@ const buildGrid = (days, gridStart, gridEnd, validStart, validEnd) => {
 // A bar too narrow for its name gets the name right-aligned so it does not spill past the bar on the left.
 const barsOf = (segments, first) => segments.map(seg => {
   const left = colOf(seg.start, first) * CELL_PITCH_PX;
-  const width = (colOf(seg.end, first) + 1) * CELL_PITCH_PX - CELL_GAP_PX;
+  const width = (colOf(seg.end, first) + 1) * CELL_PITCH_PX - CELL_GAP_PX - left;
   const narrow = width < seg.name.length * BAR_LABEL_PX_PER_CHAR;
   const labelStyle = narrow ? { left: (left + width) + 'px', transform: 'translateX(-100%)' } : { left: left + 'px' };
   return { ...seg, left, width, labelStyle };
 });
+
+const EVENT_KINDS_STORAGE_KEY = 'sori-all-event-kinds';
+// A disaster outranks an election on the same day; the colour can only say one thing per cell.
+const KIND_PRIORITY = ['quake', 'rain', 'election'];
+const KIND_HUE = { election: 'purple', quake: 'red', rain: 'blue' };
+const EMPTY_CELL_CLASS = 'bg-grass-0 dark:bg-grassd-0';
+const rampOf = hue => [EMPTY_CELL_CLASS, `bg-${hue}-300 dark:bg-${hue}-950`, `bg-${hue}-500 dark:bg-${hue}-800`, `bg-${hue}-700 dark:bg-${hue}-500`, `bg-${hue}-900 dark:bg-${hue}-300`];
+const KIND_LEVEL_CLASS = Object.fromEntries(Object.entries(KIND_HUE).map(([kind, hue]) => [kind, rampOf(hue)]));
+const SWATCH_LEVEL = 3;
+// A rest day has no colour to change, so the period shows as an emoji instead.
+const KIND_RULE = { election: '公示日から投開票日まで', quake: '震度 7 を観測した日から 1 週間', rain: '大雨特別警報が最初に出た日から 1 週間' };
+const KIND_EMOJI = { election: '\u{1F5F3}\uFE0F', quake: '\u{1F3DA}\uFE0F', rain: '\u2614' };
+
+// Storage can be missing or blocked (private window, cleared site data); every kind stays shown then.
+const loadShownKinds = kinds => {
+  const shown = Object.fromEntries(kinds.map(k => [k.id, true]));
+  try {
+    const saved = JSON.parse(localStorage.getItem(EVENT_KINDS_STORAGE_KEY) || '{}');
+    kinds.forEach(k => { if (typeof saved[k.id] === 'boolean') shown[k.id] = saved[k.id]; });
+  } catch (e) { return shown; }
+  return shown;
+};
+const saveShownKinds = shown => { try { localStorage.setItem(EVENT_KINDS_STORAGE_KEY, JSON.stringify(shown)); } catch (e) { return; } };
+const eventsOn = (events, date, shown) => events.filter(e => shown[e.kind] && e.start <= date && date <= e.end).map(e => e.name).join('・');
+const eventKindOn = (events, date) => KIND_PRIORITY.find(kind => events.some(e => e.kind === kind && e.start <= date && date <= e.end)) || null;
+const markEvents = (grid, events) => grid.weeks.forEach(w => w.cells.forEach(c => { if (c.kind === 'day') c.event = eventKindOn(events, c.date); }));
 
 const fmtH = min => (min / 60).toFixed(1);
 const isWeekend = d => { const w = parseDate(d.d).getDay(); return w === 0 || w === 6; };
@@ -254,6 +302,7 @@ createApp({
     const pmColor = Object.fromEntries(data.pms.map((p, i) => [p.id, PM_COLORS[i % PM_COLORS.length]]));
     const years = data.years.map(y => {
       const grid = buildGrid(y.days, `${y.year}-01-01`, `${y.year}-12-31`, y.start, y.end);
+      markEvents(grid, y.events);
       grid.dayCount = Math.round((parseDate(y.end) - parseDate(y.start)) / MS_PER_DAY) + 1;
       return { ...y, byDate: new Map(y.days.map(d => [d.d, d])), grid, bars: barsOf(y.segments, grid.first),
         commits: y.days.reduce((a, d) => a + commitsOf(d), 0), stats: statsOf(y.days) };
@@ -262,8 +311,14 @@ createApp({
     years.forEach(y => { y.tiles = y.stats ? tilesOf(y, ranks) : []; y.note = noteOf(y); y.projectedCommits = annualized(y.commits, y); });
     const rankClass = { 1: 'border-amber-400 bg-amber-50 dark:border-amber-500 dark:bg-amber-950/40', 2: 'border-sky-400 bg-sky-50 dark:border-sky-500 dark:bg-sky-950/40' };
     const rankBadgeClass = { 1: 'bg-amber-400 text-amber-950', 2: 'bg-sky-300 text-sky-950' };
-    const tip = ref(null);
     const levelClass = ['bg-grass-0 dark:bg-grassd-0', 'bg-grass-1 dark:bg-grassd-1', 'bg-grass-2 dark:bg-grassd-2', 'bg-grass-3 dark:bg-grassd-3', 'bg-grass-4 dark:bg-grassd-4'];
+    const tip = ref(null);
+    const shownKinds = reactive(loadShownKinds(data.kinds));
+    const toggleKind = id => { shownKinds[id] = !shownKinds[id]; saveShownKinds(shownKinds); };
+    const cellClass = cell => cell.event && shownKinds[cell.event] ? KIND_LEVEL_CLASS[cell.event][cell.level] : levelClass[cell.level];
+    const kindSwatch = Object.fromEntries(data.kinds.map(k => [k.id, KIND_LEVEL_CLASS[k.id][SWATCH_LEVEL]]));
+    const cellMark = cell => cell.event && shownKinds[cell.event] && cell.level === 0 ? KIND_EMOJI[cell.event] : '';
+    const eventsByKind = Object.fromEntries(data.kinds.map(k => [k.id, data.events.filter(e => e.kind === k.id)]));
     const dowLabels = DOW.map((t, i) => ({ id: 'dow-' + t, text: i % 2 === 1 ? t : '' }));
 
     const showTip = (event, y, cell) => {
@@ -271,13 +326,14 @@ createApp({
       const r = event.currentTarget.getBoundingClientRect();
       const detail = [`公務 ${fmtHM(d.m)}`, d.f && d.f !== '—' ? `最初の公務 ${d.f}` : null, d.k ? `面会 ${d.k} 件` : null].filter(Boolean).join(' · ');
       const TIP_HALF_WIDTH_PX = 140, TIP_GAP_PX = 8;
-      tip.value = { head: cell.commits === 0 ? 'No commits' : `${cell.commits} commit${cell.commits > 1 ? 's' : ''}`, date: fmtDate(d.d), pm: pmName.get(d.p) || d.p, detail,
+      tip.value = { head: cell.commits === 0 ? 'No commits' : `${cell.commits} commit${cell.commits > 1 ? 's' : ''}`, date: fmtDate(d.d), pm: pmName.get(d.p) || d.p, detail, events: eventsOn(y.events, d.d, shownKinds),
         x: Math.min(Math.max(r.left + r.width / 2, TIP_HALF_WIDTH_PX), window.innerWidth - TIP_HALF_WIDTH_PX), y: Math.max(r.top - TIP_GAP_PX, 48) };
     };
     const hideTip = () => { tip.value = null; };
     window.addEventListener('scroll', hideTip, { passive: true });
 
-    return { years, until: data.until, generated: data.generated, dowLabels, levelClass, rankClass, rankBadgeClass, pmColor, tip, showTip, hideTip, fmtDateShort, fmtInt };
+    return { years, until: data.until, generated: data.generated, dowLabels, levelClass, rankClass, rankBadgeClass, pmColor, tip, showTip, hideTip, fmtDateShort, fmtInt,
+      kinds: data.kinds, kindSwatch, kindEmoji: KIND_EMOJI, kindRule: KIND_RULE, eventsByKind, shownKinds, toggleKind, cellClass, cellMark };
   },
 }).mount('#app');
 </script>
