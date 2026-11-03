@@ -59,7 +59,7 @@
 
   <section class="mt-10" aria-labelledby="s3">
     <h2 id="s3" class="text-lg font-semibold">3. 給料明細に出ない負担が大きく増えた</h2>
-    <p class="mt-2">2 の国全体の負担のうち、給料明細には載らない負担を取り出しました（1 とは分母が違うので、1 と 2 の差をそのまま分解したものではありません）。ひとつは買い物のたびに払う消費税。もうひとつは会社が払う社会保険料で、働く人が払うのと同じかそれ以上の額を会社も別に納めていますが、給料の額面にも出てきません。国民所得に対する割合で並べました（縦は 0〜{{ HIDDEN_SCALE_PCT }}%）。</p>
+    <p class="mt-2">2 の国全体の負担のうち、給料明細には載らない負担を取り出しました（1 とは分母が違うので、1 と 2 の差をそのまま分解したものではありません）。ひとつは買い物のたびに払う消費税。もうひとつは会社が払う社会保険料です。会社員の社会保険料は、年金・医療・介護は会社と働く人で半分ずつ、雇用保険などは会社のほうが多く払う仕組みで、会社の分は給料の額面にも出てきません。国民所得に対する割合で並べました（縦は 0〜{{ HIDDEN_SCALE_PCT }}%）。</p>
     <stacked-columns class="mt-3" :years="hiddenYears" :series="hidden" :groups="hiddenGroups" :colors="hiddenColors" :labels="hiddenGroups"
       height-class="h-40" :max="HIDDEN_SCALE_PCT" :gridlines="HIDDEN_GRIDLINES" :tick-every="5"></stacked-columns>
     <legend-row :groups="hiddenGroups" :colors="hiddenColors"></legend-row>
