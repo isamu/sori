@@ -4,7 +4,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 from tedori_payload import (AGE_CLASSES, BURDEN_ESTIMATE_YEARS, DECILES, INDEX_YEAR, age_changes, burden, decile_changes, earners, hidden,
                             national_income, payslip,
-                            real_income, tedori_payload)
+                            real_income, takehome_breakdown, tedori_payload)
 
 SEED = 20261103
 TRIALS = 1000
@@ -164,6 +164,22 @@ class AgeChangesTest(unittest.TestCase):
         self.assertIsNone(age_changes([], []))
 
 
+class TakehomeBreakdownTest(unittest.TestCase):
+    def test_real_takehome_is_real_income_times_the_kept_share(self):
+        rows = household(INDEX_YEAR, 実収入=500000, 可処分所得=425000, 世帯主収入=400000)
+        rows += household(INDEX_YEAR + 10, 実収入=550000, 可処分所得=451000, 世帯主収入=404000)
+        out = takehome_breakdown(rows, price_rows([INDEX_YEAR, INDEX_YEAR + 10]))
+        self.assertEqual((out["first"], out["last"], out["cpi"]), (INDEX_YEAR, INDEX_YEAR + 10, 10.0))
+        self.assertEqual((out["income_nominal"], out["income_real"]), (10.0, 0.0))
+        self.assertEqual(out["kept_share"], round(100 * ((451000 / 550000) / 0.85 - 1), 1))
+        self.assertEqual(out["takehome_real"], round(100 * (451000 / 1.1 / 425000 - 1), 1))
+        self.assertEqual((out["head_nominal"], out["head_real"]), (1.0, round(100 * (1.01 / 1.1 - 1), 1)))
+
+    def test_needs_two_complete_years(self):
+        self.assertIsNone(takehome_breakdown(household(INDEX_YEAR, 実収入=1, 可処分所得=1), price_rows([INDEX_YEAR, INDEX_YEAR + 1])))
+        self.assertIsNone(takehome_breakdown([], []))
+
+
 class PayloadTest(unittest.TestCase):
     def test_empty_inputs_give_empty_sections(self):
         payload = tedori_payload([], [], [], [], [])
@@ -172,6 +188,7 @@ class PayloadTest(unittest.TestCase):
         self.assertEqual(payload["earners"], [])
         self.assertIsNone(payload["deciles"])
         self.assertIsNone(payload["ages"])
+        self.assertIsNone(payload["breakdown"])
 
 
 if __name__ == "__main__":

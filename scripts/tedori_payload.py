@@ -181,6 +181,27 @@ def age_changes(age_rows, price_rows):
                               for key, y in (("first", first), ("last", last))}}
 
 
+def takehome_breakdown(household_rows, price_rows):
+    """勤労者世帯の平均で、物価を差し引いた手取りの変化を「収入の実質の変化」と「手取りの割合の変化」に分ける（%）。"""
+    cells, cpi = household_cells(household_rows), cpi_by_year(price_rows)
+    needed = ("実収入", "可処分所得", "世帯主収入")
+    years = sorted(y for (y, c), v in cells.items() if c == AVERAGE_CLASS and y in cpi and all(k in v for k in needed))
+    if len(years) < 2:
+        return None
+    first, last = cells[(years[0], AVERAGE_CLASS)], cells[(years[-1], AVERAGE_CLASS)]
+    prices = cpi[years[-1]] / cpi[years[0]]
+
+    def change(ratio):
+        return round(100 * (ratio - 1), PCT_DECIMALS) + 0.0
+
+    income = last["実収入"] / first["実収入"]
+    kept = (last["可処分所得"] / last["実収入"]) / (first["可処分所得"] / first["実収入"])
+    head = last["世帯主収入"] / first["世帯主収入"]
+    return {"first": years[0], "last": years[-1], "cpi": change(prices), "income_nominal": change(income),
+            "income_real": change(income / prices), "kept_share": change(kept), "takehome_real": change(income / prices * kept),
+            "head_nominal": change(head), "head_real": change(head / prices)}
+
+
 def tedori_payload(household_rows, burden_rows, contribution_rows, consumption_rows, price_rows, age_rows=()):
     slip = payslip(household_rows)
     first_year = slip[0]["year"] if slip else 0
@@ -189,4 +210,4 @@ def tedori_payload(household_rows, burden_rows, contribution_rows, consumption_r
             "nationalIncome": national_income(burden_rows, first_year),
             "real": real_income(slip, price_rows), "indexYear": INDEX_YEAR,
             "earners": earners(household_rows, price_rows), "deciles": decile_changes(household_rows, price_rows),
-            "ages": age_changes(age_rows, price_rows)}
+            "ages": age_changes(age_rows, price_rows), "breakdown": takehome_breakdown(household_rows, price_rows)}

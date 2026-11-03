@@ -111,9 +111,9 @@
     <ul class="mt-2 list-disc space-y-1.5 pl-5">
       <li><b>世帯主の稼ぎに頼る世帯。</b>世帯主の稼ぎは物価を差し引くと平均 {{ signed(headChange) }}%、年齢構成をそろえても {{ signed(ages.reweighted.head) }}% です。配偶者などの稼ぎが少ない世帯ほど、この減り方がそのまま暮らしに出ると考えられます（このデータは平均なので、世帯ごとの共働きかどうかは分かりません）。</li>
       <li><b>世帯主が 50 代の世帯。</b>世帯主の稼ぎは {{ signed(ageOf('50-59').head) }}%、配偶者の稼ぎが増えても世帯の手取りは {{ signed(ageOf('50-59').takehome) }}% で、図に示した 30〜69 歳の年齢層の中ではいちばん苦しくなっています。教育費や住宅ローンが重なりやすい年代です。</li>
-      <li><b>年収 {{ hardest.low }}〜{{ hardest.high }} 万円の、真ん中より少し上の世帯。</b>物価を差し引いた手取りの減り方が大きかった {{ HARDEST_COUNT }} 段階がここに集まっています。給料から引かれる割合も、おおむね年収が高い段階ほど大きく増えました。年収で区切る支援の対象からは外れやすい層だ、という指摘もあります。</li>
+      <li><b>年収 {{ hardest.low }}〜{{ hardest.high }} 万円の、真ん中より少し上の世帯。</b>物価を差し引いた手取りの減り方が大きかった {{ HARDEST_COUNT }} 段階がここに集まっています。給料から引かれる割合も、おおむね年収が高い段階ほど大きく増えました。</li>
       <li><b>収入の多くを食費や光熱費に使う世帯。</b>物価全体と比べて食べ物とエネルギーの値上がりが大きく、どちらも削りにくい支出です。</li>
-      <li><b>このデータに入っていない人たち。</b>一人暮らしの人、非正規で働く人、年金で暮らす人、自営業の人は、家計調査の勤労者世帯（二人以上）に入っていません。苦しくなったという声の多くは、ここから来ている可能性があります。確かめるには別の統計が要ります。</li>
+      <li><b>このデータに入っていない人たち。</b>一人暮らしの人、非正規で働く人、年金で暮らす人、自営業の人は、家計調査の勤労者世帯（二人以上）に入っていません。この人たちの暮らしがどう変わったかは、このページのデータでは分かりません。確かめるには別の統計が要ります。</li>
     </ul>
 
     <h3 class="mt-6 font-semibold">変わっていないのは誰か</h3>
@@ -144,13 +144,14 @@
         <dd class="mt-1">給料の額面が {{ ages.last - ages.first }} 年ほとんど上がらないあいだに、物価が上がりました。世帯主が 40 代の世帯で比べると、給料の額面は {{ signed(ageOf('40-49').head_nominal) }}%、物価は {{ signed(ages.cpi_change) }}%。物価を差し引いた給料は {{ signed(ageOf('40-49').head) }}% で、同じ年代どうしで比べても 1 割近く目減りしています。平均で見ると、配偶者の稼ぎが増えてこれを埋めています。</dd>
       </div>
     </dl>
-    <h3 class="mt-6 font-semibold">手取りを押し下げたものを、大きい順に</h3>
+    <h3 class="mt-6 font-semibold">2 つの物差しで見ると</h3>
+    <p class="mt-2">何が手取りを押し下げたかは、誰の収入で見るかで答えが変わります（{{ breakdown.first }} 年から {{ breakdown.last }} 年、勤労者世帯の平均）。</p>
     <ol class="mt-2 list-decimal space-y-1.5 pl-5">
-      <li><b>給料が物価に追いつかなかったこと。</b>物価を差し引いた世帯主の給料は、同じ年代で比べて約 1 割減りました。消費税の引き上げ（5% → 8% → 10%）は、この物価の上昇の一部です。</li>
-      <li><b>天引きの増加。</b>主に社会保険料で、手取りをさらに {{ slipDiff }} ポイントほど押し下げました。</li>
-      <li><b>会社負担の社会保険料。</b>給料明細には見えませんが、会社にとっては人件費なので、給料が上がりにくい一因かもしれません。大きさは測れません。</li>
+      <li><b>世帯主 1 人の給料で見ると、いちばん大きいのは「給料が物価に追いつかなかったこと」。</b>給料の額面は {{ signed(breakdown.head_nominal) }}%、物価は {{ signed(breakdown.cpi) }}% で、物価を差し引くと {{ signed(breakdown.head_real) }}% です（同じ年代どうしでも 40 代で {{ signed(ageOf('40-49').head) }}%）。消費税の引き上げ（5% → 8% → 10%）は、この物価の上昇の一部です。</li>
+      <li><b>世帯の手取りで見ると、物価の分は配偶者などの稼ぎでほぼ埋まり、残ったのは「天引きの増加」。</b>世帯の収入（額面）は {{ signed(breakdown.income_nominal) }}% で、物価を差し引くと {{ signed(breakdown.income_real) }}%。一方、天引きの割合が増えたぶんの影響は手取りに対して {{ signed(breakdown.kept_share) }}% で、合わせて物価を差し引いた手取りは {{ signed(breakdown.takehome_real) }}% になりました。</li>
+      <li><b>会社負担の社会保険料は、どちらの物差しにも出てきません。</b>会社にとっては人件費なので、給料が上がりにくい一因かもしれませんが、大きさは測れません。</li>
     </ol>
-    <p class="mt-4">「手取りが激減した」の正体は、天引きの増加よりも、「給料が上がらないこと」と「物価が上がること」の組み合わせでした。平均では配偶者などの稼ぎが増えて暮らしを保っていますが、世帯主の稼ぎは目減りし、埋めきれていない世代（50 代）もあります。働き手を増やせない世帯は、このデータの平均より苦しい可能性があります。どこに重みを置くかで、評価は分かれます。</p>
+    <p class="mt-4">「手取りが激減した」の正体は、1 人の稼ぎで見れば「給料が上がらないあいだに物価が上がったこと」、世帯で見れば「配偶者などの稼ぎで物価の分は埋めたが、天引きの増加が残ったこと」でした。どちらの物差しを使うかで、目立つ原因が変わります。平均では暮らしを保っていても、埋めきれていない世代（50 代）があり、働き手を増やせない世帯は、このデータの平均より苦しい可能性があります。</p>
   </section>
 
   <section class="mt-10 text-sm text-muted dark:text-mutedd" aria-labelledby="notes">
@@ -239,10 +240,10 @@ const LineChart = {
     return { figure, width, CHART_H, PAD, x, y, ticks, points, yearTicks };
   },
   template: `<figure ref="figure" class="m-0">
-    <table class="sr-only">
+    <div class="sr-only"><table>
       <thead><tr><th scope="col">年</th><th v-for="s in series" :key="'th-' + s.key" scope="col">{{ s.label }}</th></tr></thead>
       <tbody><tr v-for="(year, i) in years" :key="'tr-' + year"><th scope="row">{{ year }}</th><td v-for="s in series" :key="'td-' + year + s.key">{{ s.values[i] }}</td></tr></tbody>
-    </table>
+    </table></div>
     <svg :viewBox="'0 0 ' + width + ' ' + CHART_H" :height="CHART_H" class="w-full" aria-hidden="true">
       <g v-for="t in ticks" :key="'y' + t">
         <line :x1="PAD.left" :x2="width - PAD.right" :y1="y(t)" :y2="y(t)" :stroke-dasharray="t === base ? '4 3' : null" :class="t === base ? 'stroke-ink dark:stroke-inkd' : 'stroke-rule dark:stroke-ruled'" />
@@ -266,7 +267,7 @@ const PRICE_YEAR = 2020, EARNER_STEP_MAN_YEN = 10, DECILE_SCALE_PCT = 10, HARDES
 createApp({
   components: { StackedColumns, LegendRow, LineChart, ChangeBars },
   setup() {
-    const { payslip, burden, hidden, real, indexYear, generated, earners, deciles } = DATA;
+    const { payslip, burden, hidden, real, indexYear, generated, earners, deciles, breakdown } = DATA;
     const first = arr => arr[0];
     const last = arr => arr[arr.length - 1];
     const r1 = v => Math.round(v * 10) / 10;
@@ -346,7 +347,7 @@ createApp({
     ];
     const priceTakeaway = `${indexYear} 年から ${realLast.year} 年で、物価全体は ${change(realLast.cpi)} ですが、食べ物は ${change(realLast.food)}、エネルギーは ${change(realLast.energy)} 上がりました。`;
 
-    return { SCALE_PCT, PRICE_YEAR, DECILE_SCALE_PCT, fmtInt, signed,
+    return { breakdown, SCALE_PCT, PRICE_YEAR, DECILE_SCALE_PCT, fmtInt, signed,
              earners, earnerYears: earners.map(e => e.year), earnerGroups, earnerColors, earnersMax, earnerGridlines, earnersTakeaway, headChange,
              ageOf, deciles, decileRows, decileTakeaway, hardest, HARDEST_COUNT, ages, ageRows, ageLegend, ageTakeaway, AGE_SCALE_PCT, priceSeries, priceTakeaway, GRIDLINES, HIDDEN_SCALE_PCT, HIDDEN_GRIDLINES, indexYear, generated,
              payslip, slipYears: payslip.map(s => s.year), slipGroups, slipColors, slipFirst, slipLast, slipDiff, slipTakeaway,
