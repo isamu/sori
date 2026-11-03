@@ -4,12 +4,14 @@
   python3 build_pages.py multi    # site/pm-first-year-grass.html（歴代 1 年目、比較表と commit log つき）
   python3 build_pages.py all      # site/all.html（2011 年以降の全期間を暦年ごとに。dousei/ を直接読む）
   python3 build_pages.py zaisei   # site/zaisei.html（税と保険料の 100 円。zaisei/ の CSV を読む）
+  python3 build_pages.py tedori   # site/tedori.html（記事「手取りは激減したのか」。zaisei/ の CSV を読む）
 """
 import csv, datetime, json, re, sys
 from by_year import days_in_year, event_list, events_in, group_by_year, pm_id_of, segments_in, terms_of, year_span, years_covered
 from config import PARSED_DIR, PMS, ROOT, SITE_DIR, TEMPLATE_DIR
 from events import EVENTS, KINDS
 from parse_days import load_dousei
+from tedori_payload import tedori_payload
 from zaisei_payload import pay_payload, spending_payload
 
 
@@ -20,7 +22,9 @@ def compact_day(d):
 
 def render(template_name, payload, out_name):
     text = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
-    page = (TEMPLATE_DIR / template_name).read_text(encoding="utf-8").replace("__DATA__", text)
+    page = (TEMPLATE_DIR / template_name).read_text(encoding="utf-8")
+    page = page.replace("__STACKED_COLUMNS__\n", (TEMPLATE_DIR / "stacked_columns.js").read_text(encoding="utf-8"))
+    page = page.replace("__DATA__", text)
     SITE_DIR.mkdir(exist_ok=True)
     (SITE_DIR / out_name).write_text(page, encoding="utf-8")
     print("wrote", SITE_DIR / out_name, len(page.encode("utf-8")), "bytes")
@@ -100,5 +104,12 @@ def build_zaisei():
     }, "zaisei.html")
 
 
+def build_tedori():
+    payload = tedori_payload(*(zaisei_rows(f"{name}.csv") for name in
+                               ("household_by_income", "burden_ratio", "social_contributions", "consumption_tax", "prices_wages")))
+    payload["generated"] = datetime.date.today().isoformat()
+    render("vue_tedori_template.html", payload, "tedori.html")
+
+
 if __name__ == "__main__":
-    {"index": build_index, "multi": build_multi, "all": build_all, "zaisei": build_zaisei}[sys.argv[1]]()
+    {"index": build_index, "multi": build_multi, "all": build_all, "zaisei": build_zaisei, "tedori": build_tedori}[sys.argv[1]]()

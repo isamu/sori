@@ -137,7 +137,7 @@ const StackedColumns = {
       year, shares: props.series[i],
       title: `${year}年: ` + props.groups.slice().reverse().map(g => `${nameOf[g.key]} ${props.series[i][g.key].toFixed(1)}%`).join('、'),
     })));
-    const showTick = (year, i) => i === 0 || i === props.years.length - 1 || (props.tickEvery && year % props.tickEvery === 0 && props.years.length - 1 - i >= 2 && i >= 2);
+    const showTick = (year, i) => i === 0 || i === props.years.length - 1 || (props.tickEvery && year % props.tickEvery === 0 && props.years.length - 1 - i >= 2 && i >= 3);
     const tickAlign = i => (i === 0 ? 'left-0' : i === props.years.length - 1 ? 'right-0' : 'left-1/2 -translate-x-1/2');
     const pct = v => (100 * v) / props.max + '%';
     return { columns, showTick, tickAlign, pct };

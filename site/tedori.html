@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>手取りは激減したのか</title>
+<meta name="description" content="「手取りが激減した」は本当か。給料明細で引かれる割合、国民負担率と潜在的国民負担率、消費税と会社負担の社会保険料、物価を差し引いた手取りと実質賃金を、1995年からのデータで確かめます。">
+<link rel="canonical" href="https://isamu.github.io/sori/tedori.html">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="総理の１年">
+<meta property="og:title" content="手取りは激減したのか">
+<meta property="og:description" content="給料明細で引かれる割合は少ししか増えていない。重くなったのは、明細に見えない負担と物価だった。">
+<meta property="og:url" content="https://isamu.github.io/sori/tedori.html">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="手取りは激減したのか">
+<meta name="twitter:description" content="給料明細で引かれる割合は少ししか増えていない。重くなったのは、明細に見えない負担と物価だった。">
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<style type="text/tailwindcss">
+/* Tailwind theme only: paper and ink tokens shared with the other pages, and the typeface. */
+@theme {
+  --color-paper: #ffffff; --color-paperd: #0d1117; --color-panel: #f6f8fa; --color-paneld: #161b22;
+  --color-ink: #1f2328; --color-inkd: #e6edf3; --color-muted: #59636e; --color-mutedd: #8b949e; --color-rule: #d1d9e0; --color-ruled: #30363d;
+  --color-link: #0969da; --color-linkd: #4493f8;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+}
+/* v-cloak cannot be a utility: it must hide the raw template until Vue mounts. */
+@layer base { [v-cloak] { display: none; } }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/vue@3.5.13/dist/vue.global.prod.js"></script>
+</head>
+<body class="m-0 bg-paper font-sans text-[15px] leading-relaxed text-ink dark:bg-paperd dark:text-inkd">
+<div id="app" v-cloak class="mx-auto max-w-[760px] px-4 pt-6 pb-12">
+
+  <header class="border-b border-rule pb-4 dark:border-ruled">
+    <h1 class="text-2xl font-semibold leading-tight">手取りは激減したのか</h1>
+    <p class="mt-2">「手取りがどんどん減っている」「負担が重くなった」とよく言われます。政府の統計で {{ slipFirst.year }} 年からを並べて確かめると、半分は本当で、半分は違いました。</p>
+  </header>
+
+  <section class="mt-8" aria-labelledby="s1">
+    <h2 id="s1" class="text-lg font-semibold">1. 給料明細で引かれる割合は、少ししか増えていない</h2>
+    <p class="mt-2">働く世帯の収入のうち、税と社会保険料に引かれる割合です（勤労者世帯の平均）。1 本の棒が 1 年分で、縦は 0〜{{ SCALE_PCT }}%。次の図と同じ目盛りにしてあります。</p>
+    <stacked-columns class="mt-3" :years="slipYears" :series="payslip" :groups="slipGroups" :colors="slipColors" :labels="slipGroups"
+      height-class="h-48" :max="SCALE_PCT" :gridlines="GRIDLINES" :break-year="2018" :tick-every="5"></stacked-columns>
+    <legend-row :groups="slipGroups" :colors="slipColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ slipTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">年収の高い世帯ほど引かれる割合は高いものの、年収 10 段階のどこを見ても増え方は数ポイントです（<a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="zaisei.html">税と保険料の 100 円</a>）。2018 年の点線は調査の方法が変わった年です。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s2">
+    <h2 id="s2" class="text-lg font-semibold">2. でも、国全体で見た負担は大きく上がった</h2>
+    <p class="mt-2">国民負担率は、国全体の所得（国民所得）のうち、税と社会保険料として納めた割合です。上に積んだ薄い色は財政赤字。いま借金でまかなっている分は将来の税で返すので、それも足した「潜在的国民負担率」が、実質的な負担と言われます。</p>
+    <stacked-columns class="mt-3" :years="burdenYears" :series="burden" :groups="burdenGroups" :colors="burdenColors" :labels="burdenGroups"
+      height-class="h-48" :max="SCALE_PCT" :gridlines="GRIDLINES" :break-year="burdenEstimateYear" :tick-every="5"></stacked-columns>
+    <legend-row :groups="burdenGroups" :colors="burdenColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ burdenTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">{{ burdenEstimateNote }}</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s3">
+    <h2 id="s3" class="text-lg font-semibold">3. 差を生んだのは、給料明細に出ない負担</h2>
+    <p class="mt-2">1 と 2 の差の多くは、給料明細に載らない負担です。ひとつは買い物のたびに払う消費税。もうひとつは会社が払う社会保険料で、働く人が払うのとほぼ同じ額を会社も別に納めていますが、給料の額面にも出てきません。国民所得に対する割合で並べました（縦は 0〜{{ HIDDEN_SCALE_PCT }}%）。</p>
+    <stacked-columns class="mt-3" :years="hiddenYears" :series="hidden" :groups="hiddenGroups" :colors="hiddenColors" :labels="hiddenGroups"
+      height-class="h-40" :max="HIDDEN_SCALE_PCT" :gridlines="HIDDEN_GRIDLINES" :tick-every="5"></stacked-columns>
+    <legend-row :groups="hiddenGroups" :colors="hiddenColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ hiddenTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">会社の負担は、会社にとっては人件費です。その分だけ給料を上げる余地が小さくなるので、結局は働く人が負担しているという見方もあります。もうひとつ、割り算の分母の国民所得があまり伸びなかったことも、負担率を押し上げています（{{ incomeNote }}）。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s4">
+    <h2 id="s4" class="text-lg font-semibold">4. 物価を差し引くと、手取りは増えていない</h2>
+    <p class="mt-2">{{ indexYear }} 年を 100 として、手取りと物価、物価を差し引いた手取り、1 人あたりの実質賃金を線で並べました。100 より下なら {{ indexYear }} 年より少ないということです。</p>
+    <line-chart class="mt-3" :years="realYears" :series="realSeries" :base="100"></line-chart>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ realTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">世帯の手取りが 1 人あたりの賃金ほど落ちていないのは、共働きが増えて世帯の稼ぎ手が増えたためと考えられます。1 人あたりの実質賃金には、パートなど短い時間で働く人が増えて平均が下がった影響も入っています。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s5">
+    <h2 id="s5" class="text-lg font-semibold">まとめ</h2>
+    <dl class="mt-3 space-y-3">
+      <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
+        <dt class="font-semibold">違う部分</dt>
+        <dd class="mt-1">給料明細で引かれる割合が「激増」したわけではありません。{{ slipFirst.year }} 年から {{ slipLast.year }} 年で {{ slipDiff }} ポイントです。</dd>
+      </div>
+      <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
+        <dt class="font-semibold">本当の部分</dt>
+        <dd class="mt-1">国全体の負担は大きく上がりました。その多くは消費税と会社負担の社会保険料で、給料明細には見えません。そして物価を差し引くと、世帯の手取りは {{ indexYear }} 年より少なく、1 人あたりの実質賃金ははっきり下がっています。</dd>
+      </div>
+    </dl>
+    <p class="mt-4">「手取りが激減した」と感じる理由は、明細の数字よりも、明細に見えない負担と、収入の伸びに追いつかない物価にあるようです。どこに重みを置くかで、評価は分かれます。</p>
+  </section>
+
+  <section class="mt-10 text-sm text-muted dark:text-mutedd" aria-labelledby="notes">
+    <h2 id="notes" class="font-semibold text-ink dark:text-inkd">注</h2>
+    <ul class="mt-2 list-disc space-y-1 pl-5">
+      <li>1 と 4 の世帯の数字は、総務省「家計調査」の二人以上の世帯のうち勤労者世帯の平均です。単身の人、自営業の人、年金で暮らす世帯は入っていません。1999 年までは農林漁家世帯を除く集計で、2018 年に調査の方法が変わっています。</li>
+      <li>1 の割合は、実収入（世帯全員の 1 か月の収入）に対する、直接税と社会保険料などの非消費支出の割合です。</li>
+      <li>2 の国民負担率は財務省の公表値です。財政赤字が多い年（2009 年度のリーマン・ショック後、2020 年度のコロナ対策）は潜在的国民負担率が跳ね上がります。</li>
+      <li>3 の社会保険料は内閣府「国民経済計算」の社会保障負担で、「働く人など」には自営業の人や年金生活の人が払う国民健康保険料・国民年金保険料なども入ります。消費税は国（一般会計の決算）と地方消費税の合計で、地方消費税が丸 1 年分そろう 1998 年度から。国民所得は財務省の国民負担率の表の値です。</li>
+      <li>4 の物価は総務省「消費者物価指数」（総合）、実質賃金は厚生労働省「毎月勤労統計」の実質賃金指数（現金給与総額、事業所規模 5 人以上）です。毎月勤労統計は 2004〜2011 年に集計の誤りがあり、その期間は補正した値です。</li>
+    </ul>
+  </section>
+
+  <footer class="mt-12 border-t border-rule pt-4 text-xs text-muted dark:border-ruled dark:text-mutedd">
+    <p>出典: 総務省「家計調査」「消費者物価指数」（e-Stat）、財務省「国民負担率の推移」「税収の推移」、総務省「地方税に関する参考計数資料」、内閣府「国民経済計算」社会保障負担の明細表、厚生労働省「毎月勤労統計調査」（e-Stat）。数値は AI が出典の表を読み取って集計しており、間違いがありうるので、使うときは出典で確かめてください。</p>
+    <p class="mt-2">作成 {{ generated }}。<a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="zaisei.html">税と保険料の 100 円</a> ・ <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="./">総理の１年</a> ・ <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="https://github.com/isamu/sori">ソース（GitHub）</a>。コードとページは MIT ライセンス。</p>
+  </footer>
+</div>
+
+<script>
+const DATA = {"payslip":[{"year":1995,"takehome_yen":482174.0,"deducted_pct":15.5,"tax":7.8,"insurance":7.7,"other":0.0},{"year":1996,"takehome_yen":488537.0,"deducted_pct":15.7,"tax":7.9,"insurance":7.8,"other":0.0},{"year":1997,"takehome_yen":497036.0,"deducted_pct":16.5,"tax":8.4,"insurance":8.0,"other":0.0},{"year":1998,"takehome_yen":495887.0,"deducted_pct":15.8,"tax":7.4,"insurance":8.3,"other":0.0},{"year":1999,"takehome_yen":483910.0,"deducted_pct":15.8,"tax":7.4,"insurance":8.4,"other":0.0},{"year":2000,"takehome_yen":474411.0,"deducted_pct":15.7,"tax":7.1,"insurance":8.5,"other":0.0},{"year":2001,"takehome_yen":466003.0,"deducted_pct":15.7,"tax":6.9,"insurance":8.8,"other":0.0},{"year":2002,"takehome_yen":453716.0,"deducted_pct":16.0,"tax":6.9,"insurance":9.0,"other":0.0},{"year":2003,"takehome_yen":440667.0,"deducted_pct":16.0,"tax":6.7,"insurance":9.3,"other":0.0},{"year":2004,"takehome_yen":446288.0,"deducted_pct":16.1,"tax":7.0,"insurance":9.1,"other":0.0},{"year":2005,"takehome_yen":441156.0,"deducted_pct":15.9,"tax":6.8,"insurance":9.0,"other":0.0},{"year":2006,"takehome_yen":441448.0,"deducted_pct":16.0,"tax":7.1,"insurance":8.9,"other":0.0},{"year":2007,"takehome_yen":442504.0,"deducted_pct":16.3,"tax":7.3,"insurance":8.9,"other":0.0},{"year":2008,"takehome_yen":442749.0,"deducted_pct":17.1,"tax":7.9,"insurance":9.2,"other":0.0},{"year":2009,"takehome_yen":427912.0,"deducted_pct":17.4,"tax":7.9,"insurance":9.5,"other":0.0},{"year":2010,"takehome_yen":429967.0,"deducted_pct":17.4,"tax":7.7,"insurance":9.7,"other":0.0},{"year":2011,"takehome_yen":420538.0,"deducted_pct":17.6,"tax":7.6,"insurance":9.9,"other":0.0},{"year":2012,"takehome_yen":425005.0,"deducted_pct":18.0,"tax":7.8,"insurance":10.3,"other":0.0},{"year":2013,"takehome_yen":426132.0,"deducted_pct":18.6,"tax":8.1,"insurance":10.5,"other":0.0},{"year":2014,"takehome_yen":423541.0,"deducted_pct":18.5,"tax":8.0,"insurance":10.5,"other":0.0},{"year":2015,"takehome_yen":427270.0,"deducted_pct":18.7,"tax":8.0,"insurance":10.7,"other":0.0},{"year":2016,"takehome_yen":428697.0,"deducted_pct":18.6,"tax":8.0,"insurance":10.7,"other":0.0},{"year":2017,"takehome_yen":434415.0,"deducted_pct":18.6,"tax":8.0,"insurance":10.7,"other":0.0},{"year":2018,"takehome_yen":455125.0,"deducted_pct":18.5,"tax":7.8,"insurance":10.8,"other":0.0},{"year":2019,"takehome_yen":476645.0,"deducted_pct":18.7,"tax":7.8,"insurance":10.9,"other":0.0},{"year":2020,"takehome_yen":498639.0,"deducted_pct":18.2,"tax":7.6,"insurance":10.6,"other":0.0},{"year":2021,"takehome_yen":492681.0,"deducted_pct":18.6,"tax":7.8,"insurance":10.8,"other":0.0},{"year":2022,"takehome_yen":500914.0,"deducted_pct":18.9,"tax":8.0,"insurance":10.9,"other":0.0},{"year":2023,"takehome_yen":494668.0,"deducted_pct":18.7,"tax":7.7,"insurance":11.0,"other":0.0},{"year":2024,"takehome_yen":522569.0,"deducted_pct":17.9,"tax":7.0,"insurance":10.9,"other":0.0},{"year":2025,"takehome_yen":532408.0,"deducted_pct":18.6,"tax":7.9,"insurance":10.6,"other":0.0}],"burden":[{"year":1995,"estimate":false,"national_tax":14.2,"local_tax":8.7,"insurance":12.2,"deficit":8.9,"national_burden":35.1,"potential_burden":44.0},{"year":1996,"estimate":false,"national_tax":13.8,"local_tax":8.8,"insurance":12.1,"deficit":8.3,"national_burden":34.6,"potential_burden":42.9},{"year":1997,"estimate":false,"national_tax":14.1,"local_tax":9.1,"insurance":12.7,"deficit":7.4,"national_burden":35.9,"potential_burden":43.3},{"year":1998,"estimate":false,"national_tax":13.5,"local_tax":9.5,"insurance":13.2,"deficit":10.3,"national_burden":36.1,"potential_burden":46.4},{"year":1999,"estimate":false,"national_tax":13.0,"local_tax":9.3,"insurance":13.2,"deficit":12.0,"national_burden":35.5,"potential_burden":47.4},{"year":2000,"estimate":false,"national_tax":13.4,"local_tax":9.1,"insurance":12.9,"deficit":9.5,"national_burden":35.4,"potential_burden":44.9},{"year":2001,"estimate":false,"national_tax":13.2,"local_tax":9.4,"insurance":13.7,"deficit":9.0,"national_burden":36.3,"potential_burden":45.2},{"year":2002,"estimate":false,"national_tax":12.2,"local_tax":8.9,"insurance":13.8,"deficit":10.6,"national_burden":35.0,"potential_burden":45.6},{"year":2003,"estimate":false,"national_tax":11.9,"local_tax":8.6,"insurance":13.7,"deficit":10.1,"national_burden":34.2,"potential_burden":44.3},{"year":2004,"estimate":false,"national_tax":12.5,"local_tax":8.7,"insurance":13.6,"deficit":7.6,"national_burden":34.7,"potential_burden":42.3},{"year":2005,"estimate":false,"national_tax":13.6,"local_tax":9.1,"insurance":13.9,"deficit":5.6,"national_burden":36.7,"potential_burden":42.3},{"year":2006,"estimate":false,"national_tax":13.8,"local_tax":9.3,"insurance":14.2,"deficit":4.1,"national_burden":37.3,"potential_burden":41.4},{"year":2007,"estimate":false,"national_tax":13.4,"local_tax":10.3,"insurance":14.5,"deficit":3.5,"national_burden":38.1,"potential_burden":41.6},{"year":2008,"estimate":false,"national_tax":12.7,"local_tax":11.0,"insurance":15.9,"deficit":6.1,"national_burden":39.6,"potential_burden":45.7},{"year":2009,"estimate":false,"national_tax":11.5,"local_tax":10.1,"insurance":15.9,"deficit":12.6,"national_burden":37.4,"potential_burden":50.0},{"year":2010,"estimate":false,"national_tax":12.1,"local_tax":9.5,"insurance":15.9,"deficit":11.0,"national_burden":37.4,"potential_burden":48.4},{"year":2011,"estimate":false,"national_tax":12.7,"local_tax":9.6,"insurance":16.7,"deficit":11.6,"national_burden":39.0,"potential_burden":50.6},{"year":2012,"estimate":false,"national_tax":13.2,"local_tax":9.6,"insurance":17.1,"deficit":10.6,"national_burden":39.9,"potential_burden":50.5},{"year":2013,"estimate":false,"national_tax":13.7,"local_tax":9.5,"insurance":16.8,"deficit":9.4,"national_burden":40.0,"potential_burden":49.4},{"year":2014,"estimate":false,"national_tax":15.3,"local_tax":9.7,"insurance":17.1,"deficit":7.6,"national_burden":42.1,"potential_burden":49.7},{"year":2015,"estimate":false,"national_tax":15.1,"local_tax":9.9,"insurance":16.9,"deficit":6.1,"national_burden":42.0,"potential_burden":48.1},{"year":2016,"estimate":false,"national_tax":14.9,"local_tax":10.0,"insurance":17.5,"deficit":6.3,"national_burden":42.4,"potential_burden":48.7},{"year":2017,"estimate":false,"national_tax":15.5,"local_tax":9.9,"insurance":17.6,"deficit":5.1,"national_burden":43.0,"potential_burden":48.0},{"year":2018,"estimate":false,"national_tax":15.7,"local_tax":10.0,"insurance":17.9,"deficit":4.4,"national_burden":43.5,"potential_burden":47.9},{"year":2019,"estimate":false,"national_tax":15.4,"local_tax":10.2,"insurance":18.5,"deficit":5.3,"national_burden":44.1,"potential_burden":49.5},{"year":2020,"estimate":false,"national_tax":17.1,"local_tax":10.8,"insurance":19.4,"deficit":15.3,"national_burden":47.3,"potential_burden":62.6},{"year":2021,"estimate":false,"national_tax":17.8,"local_tax":10.5,"insurance":18.8,"deficit":9.8,"national_burden":47.2,"potential_burden":57.0},{"year":2022,"estimate":false,"national_tax":18.2,"local_tax":10.5,"insurance":18.5,"deficit":6.1,"national_burden":47.3,"potential_burden":53.4},{"year":2023,"estimate":false,"national_tax":17.5,"local_tax":10.1,"insurance":18.1,"deficit":4.1,"national_burden":45.7,"potential_burden":49.8},{"year":2024,"estimate":false,"national_tax":17.9,"local_tax":10.2,"insurance":18.5,"deficit":3.6,"national_burden":46.7,"potential_burden":50.3},{"year":2025,"estimate":true,"national_tax":18.2,"local_tax":10.1,"insurance":17.8,"deficit":3.0,"national_burden":46.1,"potential_burden":49.1},{"year":2026,"estimate":true,"national_tax":18.1,"local_tax":9.9,"insurance":17.6,"deficit":2.7,"national_burden":45.7,"potential_burden":48.4}],"hidden":[{"year":1998,"consumption_tax":3.3,"employer":6.0,"household":6.6},{"year":1999,"consumption_tax":3.4,"employer":5.9,"household":6.6},{"year":2000,"consumption_tax":3.1,"employer":5.7,"household":6.5},{"year":2001,"consumption_tax":3.2,"employer":6.0,"household":7.0},{"year":2002,"consumption_tax":3.3,"employer":6.0,"household":7.1},{"year":2003,"consumption_tax":3.2,"employer":5.9,"household":7.0},{"year":2004,"consumption_tax":3.3,"employer":5.8,"household":7.0},{"year":2005,"consumption_tax":3.4,"employer":6.0,"household":7.2},{"year":2006,"consumption_tax":3.3,"employer":6.1,"household":7.3},{"year":2007,"consumption_tax":3.3,"employer":6.2,"household":7.4},{"year":2008,"consumption_tax":3.4,"employer":6.8,"household":8.2},{"year":2009,"consumption_tax":3.5,"employer":6.7,"household":8.2},{"year":2010,"consumption_tax":3.5,"employer":6.8,"household":8.2},{"year":2011,"consumption_tax":3.6,"employer":7.2,"household":8.6},{"year":2012,"consumption_tax":3.6,"employer":7.4,"household":8.9},{"year":2013,"consumption_tax":3.6,"employer":7.3,"household":8.7},{"year":2014,"consumption_tax":5.0,"employer":7.5,"household":8.9},{"year":2015,"consumption_tax":5.7,"employer":7.4,"household":8.8},{"year":2016,"consumption_tax":5.6,"employer":7.7,"household":9.1},{"year":2017,"consumption_tax":5.5,"employer":7.8,"household":9.2},{"year":2018,"consumption_tax":5.5,"employer":8.0,"household":9.3},{"year":2019,"consumption_tax":5.7,"employer":8.3,"household":9.6},{"year":2020,"consumption_tax":7.0,"employer":8.8,"household":10.1},{"year":2021,"consumption_tax":7.0,"employer":8.5,"household":9.8},{"year":2022,"consumption_tax":7.0,"employer":8.4,"household":9.6},{"year":2023,"consumption_tax":6.7,"employer":8.3,"household":9.4},{"year":2024,"consumption_tax":7.1,"employer":8.4,"household":9.6}],"nationalIncome":{"first":{"year":1995,"trillion":386.7},"last":{"year":2024,"trillion":452.0}},"real":[{"year":1995,"nominal":101.6,"real":103.1,"wage":101.1,"cpi":98.6},{"year":1996,"nominal":103.0,"real":104.4,"wage":102.3,"cpi":98.7},{"year":1997,"nominal":104.8,"real":104.3,"wage":102.2,"cpi":100.4},{"year":1998,"nominal":104.5,"real":103.5,"wage":100.2,"cpi":101.0},{"year":1999,"nominal":102.0,"real":101.3,"wage":98.9,"cpi":100.7},{"year":2000,"nominal":100.0,"real":100.0,"wage":100.0,"cpi":100.0},{"year":2001,"nominal":98.2,"real":98.8,"wage":99.4,"cpi":99.4},{"year":2002,"nominal":95.6,"real":97.1,"wage":97.5,"cpi":98.5},{"year":2003,"nominal":92.9,"real":94.6,"wage":97.0,"cpi":98.2},{"year":2004,"nominal":94.1,"real":95.8,"wage":96.6,"cpi":98.2},{"year":2005,"nominal":93.0,"real":95.0,"wage":97.6,"cpi":97.8},{"year":2006,"nominal":93.1,"real":94.8,"wage":97.5,"cpi":98.2},{"year":2007,"nominal":93.3,"real":95.0,"wage":96.5,"cpi":98.2},{"year":2008,"nominal":93.3,"real":93.8,"wage":94.7,"cpi":99.5},{"year":2009,"nominal":90.2,"real":91.9,"wage":92.4,"cpi":98.2},{"year":2010,"nominal":90.6,"real":93.0,"wage":93.8,"cpi":97.4},{"year":2011,"nominal":88.6,"real":91.3,"wage":93.9,"cpi":97.1},{"year":2012,"nominal":89.6,"real":92.2,"wage":93.0,"cpi":97.1},{"year":2013,"nominal":89.8,"real":92.1,"wage":92.3,"cpi":97.5},{"year":2014,"nominal":89.3,"real":89.1,"wage":89.8,"cpi":100.2},{"year":2015,"nominal":90.1,"real":89.2,"wage":88.9,"cpi":100.9},{"year":2016,"nominal":90.4,"real":89.6,"wage":89.6,"cpi":100.8},{"year":2017,"nominal":91.6,"real":90.4,"wage":89.5,"cpi":101.3},{"year":2018,"nominal":95.9,"real":93.8,"wage":89.6,"cpi":102.3},{"year":2019,"nominal":100.5,"real":97.8,"wage":88.8,"cpi":102.8},{"year":2020,"nominal":105.1,"real":102.3,"wage":87.8,"cpi":102.8},{"year":2021,"nominal":103.9,"real":101.2,"wage":88.3,"cpi":102.6},{"year":2022,"nominal":105.6,"real":100.4,"wage":87.4,"cpi":105.1},{"year":2023,"nominal":104.3,"real":96.1,"wage":85.3,"cpi":108.5},{"year":2024,"nominal":110.2,"real":98.8,"wage":87.2,"cpi":111.5},{"year":2025,"nominal":112.2,"real":97.6,"wage":86.0,"cpi":115.0}],"indexYear":2000,"generated":"2026-11-03"};
+const { createApp, computed, ref, onMounted, onBeforeUnmount } = Vue;
+
+// One 100% column per year, stacked bottom-up in `groups` order; the column at breakYear gets a dashed left edge.
+const StackedColumns = {
+  props: { years: Array, series: Array, groups: Array, colors: Object, labels: Array, heightClass: String, breakYear: Number,
+           tickEvery: { type: Number, default: 0 }, max: { type: Number, default: 100 }, gridlines: { type: Array, default: () => [] } },
+  setup(props) {
+    const nameOf = Object.fromEntries(props.labels.map(g => [g.key, g.label]));
+    const columns = computed(() => props.years.map((year, i) => ({
+      year, shares: props.series[i],
+      title: `${year}年: ` + props.groups.slice().reverse().map(g => `${nameOf[g.key]} ${props.series[i][g.key].toFixed(1)}%`).join('、'),
+    })));
+    const showTick = (year, i) => i === 0 || i === props.years.length - 1 || (props.tickEvery && year % props.tickEvery === 0 && props.years.length - 1 - i >= 2 && i >= 3);
+    const tickAlign = i => (i === 0 ? 'left-0' : i === props.years.length - 1 ? 'right-0' : 'left-1/2 -translate-x-1/2');
+    const pct = v => (100 * v) / props.max + '%';
+    return { columns, showTick, tickAlign, pct };
+  },
+  template: `<div>
+    <div class="relative flex items-stretch gap-px" :class="heightClass" role="img" :aria-label="columns[0].title + ' … ' + columns[columns.length - 1].title">
+      <div v-for="col in columns" :key="col.year" :title="col.title" class="flex flex-1 flex-col-reverse"
+        :class="col.year === breakYear ? 'border-l border-dashed border-ink pl-px dark:border-inkd' : ''">
+        <span v-for="g in groups" :key="col.year + g.key" :class="colors[g.key]" :style="{ height: pct(col.shares[g.key]) }"></span>
+      </div>
+      <i v-for="v in gridlines" :key="'grid-' + v" class="pointer-events-none absolute inset-x-0 border-t border-dashed border-ink/40 dark:border-inkd/40" :style="{ bottom: pct(v) }"></i>
+    </div>
+    <div class="mt-1 flex gap-px text-[10px] tabular-nums text-muted dark:text-mutedd">
+      <span v-for="(col, i) in columns" :key="'tick-' + col.year" class="relative flex-1"><span v-if="showTick(col.year, i)" class="absolute whitespace-nowrap" :class="tickAlign(i)">{{ col.year }}</span></span>
+    </div>
+  </div>`,
+};
+
+const LegendRow = {
+  props: { groups: Array, colors: Object },
+  template: `<ul class="mt-6 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+    <li v-for="g in groups.slice().reverse()" :key="g.key" class="flex items-center gap-1.5"><i class="inline-block size-3 rounded-sm" :class="colors[g.key]"></i>{{ g.label }}</li>
+  </ul>`,
+};
+
+const CHART_H = 240, PAD = { left: 36, right: 12, top: 12, bottom: 24 }, Y_STEP = 10;
+
+// Lines over years on a shared y-axis rounded out to Y_STEP, with a dashed line at `base`. Drawn at the figure's real width so labels keep their size on phones.
+const LineChart = {
+  props: { years: Array, series: Array, base: Number },
+  setup(props) {
+    const figure = ref(null);
+    const width = ref(640);
+    const observer = new ResizeObserver(([entry]) => { width.value = Math.max(entry.contentRect.width, 1); });
+    onMounted(() => observer.observe(figure.value));
+    onBeforeUnmount(() => observer.disconnect());
+    const values = computed(() => props.series.flatMap(s => s.values));
+    const yMin = computed(() => Y_STEP * Math.floor(Math.min(props.base, ...values.value) / Y_STEP));
+    const yMax = computed(() => Y_STEP * Math.ceil(Math.max(props.base, ...values.value) / Y_STEP));
+    const x = i => PAD.left + (i * (width.value - PAD.left - PAD.right)) / (props.years.length - 1);
+    const y = v => PAD.top + ((yMax.value - v) * (CHART_H - PAD.top - PAD.bottom)) / (yMax.value - yMin.value);
+    const ticks = computed(() => Array.from({ length: (yMax.value - yMin.value) / Y_STEP + 1 }, (_, i) => yMin.value + i * Y_STEP));
+    const points = s => s.values.map((v, i) => `${x(i)},${y(v)}`).join(' ');
+    const yearTicks = computed(() => props.years.map((year, i) => ({ year, i })).filter(t => t.i === 0 || t.i === props.years.length - 1 || t.year % 5 === 0));
+    const label = computed(() => props.series.map(s => `${s.label}: ${props.years[0]}年 ${s.values[0]} → ${props.years[props.years.length - 1]}年 ${s.values[s.values.length - 1]}`).join('、'));
+    return { figure, width, CHART_H, PAD, x, y, ticks, points, yearTicks, label };
+  },
+  template: `<figure ref="figure" class="m-0">
+    <svg :viewBox="'0 0 ' + width + ' ' + CHART_H" :height="CHART_H" class="w-full" role="img" :aria-label="label">
+      <g v-for="t in ticks" :key="'y' + t">
+        <line :x1="PAD.left" :x2="width - PAD.right" :y1="y(t)" :y2="y(t)" :stroke-dasharray="t === base ? '4 3' : null" :class="t === base ? 'stroke-ink dark:stroke-inkd' : 'stroke-rule dark:stroke-ruled'" />
+        <text :x="PAD.left - 6" :y="y(t) + 4" text-anchor="end" class="fill-muted text-[11px] dark:fill-mutedd">{{ t }}</text>
+      </g>
+      <text v-for="t in yearTicks" :key="'x' + t.year" :x="x(t.i)" :y="CHART_H - 6" :text-anchor="t.i === 0 ? 'start' : t.i === years.length - 1 ? 'end' : 'middle'" class="fill-muted text-[11px] dark:fill-mutedd">{{ t.year }}</text>
+      <polyline v-for="s in series" :key="s.key" :points="points(s)" fill="none" stroke-width="2.5" :stroke-dasharray="s.dashed ? '6 4' : null" :class="s.stroke" />
+    </svg>
+    <ul class="mt-1 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+      <li v-for="s in series" :key="'k' + s.key" class="flex items-center gap-1.5">
+        <svg width="22" height="8" aria-hidden="true"><line x1="0" x2="22" y1="4" y2="4" stroke-width="2.5" :stroke-dasharray="s.dashed ? '6 4' : null" :class="s.stroke" /></svg>{{ s.label }}
+        <span class="tabular-nums text-muted dark:text-mutedd">{{ s.values[s.values.length - 1] }}</span>
+      </li>
+    </ul>
+  </figure>`,
+};
+
+const SCALE_PCT = 70, GRIDLINES = [20, 40, 60], HIDDEN_SCALE_PCT = 30, HIDDEN_GRIDLINES = [10, 20];
+
+createApp({
+  components: { StackedColumns, LegendRow, LineChart },
+  setup() {
+    const { payslip, burden, hidden, real, indexYear, generated } = DATA;
+    const first = arr => arr[0];
+    const last = arr => arr[arr.length - 1];
+    const r1 = v => Math.round(v * 10) / 10;
+    const points = (a, b) => `${r1(b - a)} ポイント`;
+
+    const slipGroups = [{ key: 'insurance', label: '社会保険料' }, { key: 'tax', label: '所得税・住民税など' }, { key: 'other', label: 'その他' }];
+    const slipColors = { insurance: 'bg-sky-500', tax: 'bg-orange-500', other: 'bg-stone-400 dark:bg-stone-500' };
+    const slipFirst = first(payslip), slipLast = last(payslip);
+    const slipDiff = r1(slipLast.deducted_pct - slipFirst.deducted_pct);
+    const slipTakeaway = `引かれる割合は ${slipFirst.year} 年の ${slipFirst.deducted_pct}% から ${slipLast.year} 年の ${slipLast.deducted_pct}% へ、${slipDiff} ポイントの増加。増えたのは主に社会保険料（${slipFirst.insurance}% → ${slipLast.insurance}%）で、税はほぼ横ばい（${slipFirst.tax}% → ${slipLast.tax}%）です。`;
+
+    const burdenGroups = [{ key: 'insurance', label: '社会保険料' }, { key: 'local_tax', label: '地方税' }, { key: 'national_tax', label: '国税' }, { key: 'deficit', label: '財政赤字（将来の税）' }];
+    const burdenColors = { insurance: 'bg-sky-500', local_tax: 'bg-amber-400', national_tax: 'bg-orange-500', deficit: 'bg-rose-200 dark:bg-rose-900' };
+    const actual = burden.filter(b => !b.estimate);
+    const burdenFirst = first(burden), burdenLast = last(actual);
+    const burdenEstimateYear = burden.find(b => b.estimate)?.year;
+    const peak = actual.reduce((a, b) => (b.potential_burden > a.potential_burden ? b : a));
+    const burdenTakeaway = `国民負担率は ${burdenFirst.year} 年度の ${burdenFirst.national_burden}% から ${burdenLast.year} 年度の ${burdenLast.national_burden}% へ、${points(burdenFirst.national_burden, burdenLast.national_burden)}上がりました。財政赤字を足した潜在的国民負担率（実質的な負担）は ${burdenFirst.potential_burden}% から ${burdenLast.potential_burden}% で、${points(burdenFirst.potential_burden, burdenLast.potential_burden)}。赤字が減ったぶん、こちらの伸びは小さめです（いちばん高かったのは ${peak.year} 年度の ${peak.potential_burden}%）。`;
+    const estimates = burden.filter(b => b.estimate);
+    const burdenEstimateNote = estimates.length ? `点線より右の ${estimates.map(b => b.year).join('・')} 年度は財務省の見込み・見通しで、国民負担率は ${estimates.map(b => b.national_burden + '%').join('、')} です。` : '';
+
+    const hiddenGroups = [{ key: 'household', label: '社会保険料（働く人などが払う分）' }, { key: 'employer', label: '社会保険料（会社が払う分）' }, { key: 'consumption_tax', label: '消費税（国と地方）' }];
+    const hiddenColors = { household: 'bg-sky-300 dark:bg-sky-700', employer: 'bg-indigo-500', consumption_tax: 'bg-rose-500' };
+    const hiddenFirst = first(hidden), hiddenLast = last(hidden);
+    const hiddenTakeaway = `${hiddenFirst.year} 年度から ${hiddenLast.year} 年度で、国民所得に対して消費税は ${hiddenFirst.consumption_tax}% → ${hiddenLast.consumption_tax}%、会社が払う社会保険料は ${hiddenFirst.employer}% → ${hiddenLast.employer}% になりました。この 2 つだけで ${points(hiddenFirst.consumption_tax + hiddenFirst.employer, hiddenLast.consumption_tax + hiddenLast.employer)}の増加で、どちらも給料明細には出てきません。`;
+    const incomeOf = DATA.nationalIncome;
+    const incomeNote = `国民所得は ${incomeOf.first.year} 年度 ${incomeOf.first.trillion} 兆円、${incomeOf.last.year} 年度 ${incomeOf.last.trillion} 兆円`;
+
+    const realYears = real.map(r => r.year);
+    const realSeries = [
+      { key: 'nominal', label: '世帯の手取り（そのままの額）', values: real.map(r => r.nominal), stroke: 'stroke-stone-400', dashed: true },
+      { key: 'cpi', label: '物価', values: real.map(r => r.cpi), stroke: 'stroke-rose-500', dashed: true },
+      { key: 'real', label: '世帯の手取り（物価を差し引く）', values: real.map(r => r.real), stroke: 'stroke-emerald-600 dark:stroke-emerald-400' },
+      { key: 'wage', label: '1 人あたりの実質賃金', values: real.map(r => r.wage), stroke: 'stroke-orange-500' },
+    ];
+    const realLast = last(real);
+    const change = v => `${v >= 100 ? '+' : ''}${r1(v - 100)}%`;
+    const realTakeaway = `${indexYear} 年から ${realLast.year} 年で、世帯の手取りは額で ${change(realLast.nominal)}、物価は ${change(realLast.cpi)}。物価を差し引いた手取りは ${change(realLast.real)} です。1 人あたりの実質賃金は ${change(realLast.wage)} と、はっきり下がっています。`;
+
+    return { SCALE_PCT, GRIDLINES, HIDDEN_SCALE_PCT, HIDDEN_GRIDLINES, indexYear, generated,
+             payslip, slipYears: payslip.map(s => s.year), slipGroups, slipColors, slipFirst, slipLast, slipDiff, slipTakeaway,
+             burden, burdenYears: burden.map(b => b.year), burdenGroups, burdenColors, burdenEstimateYear, burdenTakeaway, burdenEstimateNote,
+             hidden, hiddenYears: hidden.map(h => h.year), hiddenGroups, hiddenColors, hiddenTakeaway, incomeNote,
+             realYears, realSeries, realTakeaway };
+  },
+}).mount('#app');
+</script>
+</body>
+</html>

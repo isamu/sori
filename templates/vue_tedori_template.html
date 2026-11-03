@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>手取りは激減したのか</title>
+<meta name="description" content="「手取りが激減した」は本当か。給料明細で引かれる割合、国民負担率と潜在的国民負担率、消費税と会社負担の社会保険料、物価を差し引いた手取りと実質賃金を、1995年からのデータで確かめます。">
+<link rel="canonical" href="https://isamu.github.io/sori/tedori.html">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="総理の１年">
+<meta property="og:title" content="手取りは激減したのか">
+<meta property="og:description" content="給料明細で引かれる割合は少ししか増えていない。重くなったのは、明細に見えない負担と物価だった。">
+<meta property="og:url" content="https://isamu.github.io/sori/tedori.html">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="手取りは激減したのか">
+<meta name="twitter:description" content="給料明細で引かれる割合は少ししか増えていない。重くなったのは、明細に見えない負担と物価だった。">
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<style type="text/tailwindcss">
+/* Tailwind theme only: paper and ink tokens shared with the other pages, and the typeface. */
+@theme {
+  --color-paper: #ffffff; --color-paperd: #0d1117; --color-panel: #f6f8fa; --color-paneld: #161b22;
+  --color-ink: #1f2328; --color-inkd: #e6edf3; --color-muted: #59636e; --color-mutedd: #8b949e; --color-rule: #d1d9e0; --color-ruled: #30363d;
+  --color-link: #0969da; --color-linkd: #4493f8;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+}
+/* v-cloak cannot be a utility: it must hide the raw template until Vue mounts. */
+@layer base { [v-cloak] { display: none; } }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/vue@3.5.13/dist/vue.global.prod.js"></script>
+</head>
+<body class="m-0 bg-paper font-sans text-[15px] leading-relaxed text-ink dark:bg-paperd dark:text-inkd">
+<div id="app" v-cloak class="mx-auto max-w-[760px] px-4 pt-6 pb-12">
+
+  <header class="border-b border-rule pb-4 dark:border-ruled">
+    <h1 class="text-2xl font-semibold leading-tight">手取りは激減したのか</h1>
+    <p class="mt-2">「手取りがどんどん減っている」「負担が重くなった」とよく言われます。政府の統計で {{ slipFirst.year }} 年からを並べて確かめると、半分は本当で、半分は違いました。</p>
+  </header>
+
+  <section class="mt-8" aria-labelledby="s1">
+    <h2 id="s1" class="text-lg font-semibold">1. 給料明細で引かれる割合は、少ししか増えていない</h2>
+    <p class="mt-2">働く世帯の収入のうち、税と社会保険料に引かれる割合です（勤労者世帯の平均）。1 本の棒が 1 年分で、縦は 0〜{{ SCALE_PCT }}%。次の図と同じ目盛りにしてあります。</p>
+    <stacked-columns class="mt-3" :years="slipYears" :series="payslip" :groups="slipGroups" :colors="slipColors" :labels="slipGroups"
+      height-class="h-48" :max="SCALE_PCT" :gridlines="GRIDLINES" :break-year="2018" :tick-every="5"></stacked-columns>
+    <legend-row :groups="slipGroups" :colors="slipColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ slipTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">年収の高い世帯ほど引かれる割合は高いものの、年収 10 段階のどこを見ても増え方は数ポイントです（<a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="zaisei.html">税と保険料の 100 円</a>）。2018 年の点線は調査の方法が変わった年です。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s2">
+    <h2 id="s2" class="text-lg font-semibold">2. でも、国全体で見た負担は大きく上がった</h2>
+    <p class="mt-2">国民負担率は、国全体の所得（国民所得）のうち、税と社会保険料として納めた割合です。上に積んだ薄い色は財政赤字。いま借金でまかなっている分は将来の税で返すので、それも足した「潜在的国民負担率」が、実質的な負担と言われます。</p>
+    <stacked-columns class="mt-3" :years="burdenYears" :series="burden" :groups="burdenGroups" :colors="burdenColors" :labels="burdenGroups"
+      height-class="h-48" :max="SCALE_PCT" :gridlines="GRIDLINES" :break-year="burdenEstimateYear" :tick-every="5"></stacked-columns>
+    <legend-row :groups="burdenGroups" :colors="burdenColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ burdenTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">{{ burdenEstimateNote }}</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s3">
+    <h2 id="s3" class="text-lg font-semibold">3. 差を生んだのは、給料明細に出ない負担</h2>
+    <p class="mt-2">1 と 2 の差の多くは、給料明細に載らない負担です。ひとつは買い物のたびに払う消費税。もうひとつは会社が払う社会保険料で、働く人が払うのとほぼ同じ額を会社も別に納めていますが、給料の額面にも出てきません。国民所得に対する割合で並べました（縦は 0〜{{ HIDDEN_SCALE_PCT }}%）。</p>
+    <stacked-columns class="mt-3" :years="hiddenYears" :series="hidden" :groups="hiddenGroups" :colors="hiddenColors" :labels="hiddenGroups"
+      height-class="h-40" :max="HIDDEN_SCALE_PCT" :gridlines="HIDDEN_GRIDLINES" :tick-every="5"></stacked-columns>
+    <legend-row :groups="hiddenGroups" :colors="hiddenColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ hiddenTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">会社の負担は、会社にとっては人件費です。その分だけ給料を上げる余地が小さくなるので、結局は働く人が負担しているという見方もあります。もうひとつ、割り算の分母の国民所得があまり伸びなかったことも、負担率を押し上げています（{{ incomeNote }}）。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s4">
+    <h2 id="s4" class="text-lg font-semibold">4. 物価を差し引くと、手取りは増えていない</h2>
+    <p class="mt-2">{{ indexYear }} 年を 100 として、手取りと物価、物価を差し引いた手取り、1 人あたりの実質賃金を線で並べました。100 より下なら {{ indexYear }} 年より少ないということです。</p>
+    <line-chart class="mt-3" :years="realYears" :series="realSeries" :base="100"></line-chart>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ realTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">世帯の手取りが 1 人あたりの賃金ほど落ちていないのは、共働きが増えて世帯の稼ぎ手が増えたためと考えられます。1 人あたりの実質賃金には、パートなど短い時間で働く人が増えて平均が下がった影響も入っています。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s5">
+    <h2 id="s5" class="text-lg font-semibold">まとめ</h2>
+    <dl class="mt-3 space-y-3">
+      <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
+        <dt class="font-semibold">違う部分</dt>
+        <dd class="mt-1">給料明細で引かれる割合が「激増」したわけではありません。{{ slipFirst.year }} 年から {{ slipLast.year }} 年で {{ slipDiff }} ポイントです。</dd>
+      </div>
+      <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
+        <dt class="font-semibold">本当の部分</dt>
+        <dd class="mt-1">国全体の負担は大きく上がりました。その多くは消費税と会社負担の社会保険料で、給料明細には見えません。そして物価を差し引くと、世帯の手取りは {{ indexYear }} 年より少なく、1 人あたりの実質賃金ははっきり下がっています。</dd>
+      </div>
+    </dl>
+    <p class="mt-4">「手取りが激減した」と感じる理由は、明細の数字よりも、明細に見えない負担と、収入の伸びに追いつかない物価にあるようです。どこに重みを置くかで、評価は分かれます。</p>
+  </section>
+
+  <section class="mt-10 text-sm text-muted dark:text-mutedd" aria-labelledby="notes">
+    <h2 id="notes" class="font-semibold text-ink dark:text-inkd">注</h2>
+    <ul class="mt-2 list-disc space-y-1 pl-5">
+      <li>1 と 4 の世帯の数字は、総務省「家計調査」の二人以上の世帯のうち勤労者世帯の平均です。単身の人、自営業の人、年金で暮らす世帯は入っていません。1999 年までは農林漁家世帯を除く集計で、2018 年に調査の方法が変わっています。</li>
+      <li>1 の割合は、実収入（世帯全員の 1 か月の収入）に対する、直接税と社会保険料などの非消費支出の割合です。</li>
+      <li>2 の国民負担率は財務省の公表値です。財政赤字が多い年（2009 年度のリーマン・ショック後、2020 年度のコロナ対策）は潜在的国民負担率が跳ね上がります。</li>
+      <li>3 の社会保険料は内閣府「国民経済計算」の社会保障負担で、「働く人など」には自営業の人や年金生活の人が払う国民健康保険料・国民年金保険料なども入ります。消費税は国（一般会計の決算）と地方消費税の合計で、地方消費税が丸 1 年分そろう 1998 年度から。国民所得は財務省の国民負担率の表の値です。</li>
+      <li>4 の物価は総務省「消費者物価指数」（総合）、実質賃金は厚生労働省「毎月勤労統計」の実質賃金指数（現金給与総額、事業所規模 5 人以上）です。毎月勤労統計は 2004〜2011 年に集計の誤りがあり、その期間は補正した値です。</li>
+    </ul>
+  </section>
+
+  <footer class="mt-12 border-t border-rule pt-4 text-xs text-muted dark:border-ruled dark:text-mutedd">
+    <p>出典: 総務省「家計調査」「消費者物価指数」（e-Stat）、財務省「国民負担率の推移」「税収の推移」、総務省「地方税に関する参考計数資料」、内閣府「国民経済計算」社会保障負担の明細表、厚生労働省「毎月勤労統計調査」（e-Stat）。数値は AI が出典の表を読み取って集計しており、間違いがありうるので、使うときは出典で確かめてください。</p>
+    <p class="mt-2">作成 {{ generated }}。<a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="zaisei.html">税と保険料の 100 円</a> ・ <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="./">総理の１年</a> ・ <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="https://github.com/isamu/sori">ソース（GitHub）</a>。コードとページは MIT ライセンス。</p>
+  </footer>
+</div>
+
+<script>
+const DATA = __DATA__;
+const { createApp, computed, ref, onMounted, onBeforeUnmount } = Vue;
+
+__STACKED_COLUMNS__
+
+const LegendRow = {
+  props: { groups: Array, colors: Object },
+  template: `<ul class="mt-6 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+    <li v-for="g in groups.slice().reverse()" :key="g.key" class="flex items-center gap-1.5"><i class="inline-block size-3 rounded-sm" :class="colors[g.key]"></i>{{ g.label }}</li>
+  </ul>`,
+};
+
+const CHART_H = 240, PAD = { left: 36, right: 12, top: 12, bottom: 24 }, Y_STEP = 10;
+
+// Lines over years on a shared y-axis rounded out to Y_STEP, with a dashed line at `base`. Drawn at the figure's real width so labels keep their size on phones.
+const LineChart = {
+  props: { years: Array, series: Array, base: Number },
+  setup(props) {
+    const figure = ref(null);
+    const width = ref(640);
+    const observer = new ResizeObserver(([entry]) => { width.value = Math.max(entry.contentRect.width, 1); });
+    onMounted(() => observer.observe(figure.value));
+    onBeforeUnmount(() => observer.disconnect());
+    const values = computed(() => props.series.flatMap(s => s.values));
+    const yMin = computed(() => Y_STEP * Math.floor(Math.min(props.base, ...values.value) / Y_STEP));
+    const yMax = computed(() => Y_STEP * Math.ceil(Math.max(props.base, ...values.value) / Y_STEP));
+    const x = i => PAD.left + (i * (width.value - PAD.left - PAD.right)) / (props.years.length - 1);
+    const y = v => PAD.top + ((yMax.value - v) * (CHART_H - PAD.top - PAD.bottom)) / (yMax.value - yMin.value);
+    const ticks = computed(() => Array.from({ length: (yMax.value - yMin.value) / Y_STEP + 1 }, (_, i) => yMin.value + i * Y_STEP));
+    const points = s => s.values.map((v, i) => `${x(i)},${y(v)}`).join(' ');
+    const yearTicks = computed(() => props.years.map((year, i) => ({ year, i })).filter(t => t.i === 0 || t.i === props.years.length - 1 || t.year % 5 === 0));
+    const label = computed(() => props.series.map(s => `${s.label}: ${props.years[0]}年 ${s.values[0]} → ${props.years[props.years.length - 1]}年 ${s.values[s.values.length - 1]}`).join('、'));
+    return { figure, width, CHART_H, PAD, x, y, ticks, points, yearTicks, label };
+  },
+  template: `<figure ref="figure" class="m-0">
+    <svg :viewBox="'0 0 ' + width + ' ' + CHART_H" :height="CHART_H" class="w-full" role="img" :aria-label="label">
+      <g v-for="t in ticks" :key="'y' + t">
+        <line :x1="PAD.left" :x2="width - PAD.right" :y1="y(t)" :y2="y(t)" :stroke-dasharray="t === base ? '4 3' : null" :class="t === base ? 'stroke-ink dark:stroke-inkd' : 'stroke-rule dark:stroke-ruled'" />
+        <text :x="PAD.left - 6" :y="y(t) + 4" text-anchor="end" class="fill-muted text-[11px] dark:fill-mutedd">{{ t }}</text>
+      </g>
+      <text v-for="t in yearTicks" :key="'x' + t.year" :x="x(t.i)" :y="CHART_H - 6" :text-anchor="t.i === 0 ? 'start' : t.i === years.length - 1 ? 'end' : 'middle'" class="fill-muted text-[11px] dark:fill-mutedd">{{ t.year }}</text>
+      <polyline v-for="s in series" :key="s.key" :points="points(s)" fill="none" stroke-width="2.5" :stroke-dasharray="s.dashed ? '6 4' : null" :class="s.stroke" />
+    </svg>
+    <ul class="mt-1 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+      <li v-for="s in series" :key="'k' + s.key" class="flex items-center gap-1.5">
+        <svg width="22" height="8" aria-hidden="true"><line x1="0" x2="22" y1="4" y2="4" stroke-width="2.5" :stroke-dasharray="s.dashed ? '6 4' : null" :class="s.stroke" /></svg>{{ s.label }}
+        <span class="tabular-nums text-muted dark:text-mutedd">{{ s.values[s.values.length - 1] }}</span>
+      </li>
+    </ul>
+  </figure>`,
+};
+
+const SCALE_PCT = 70, GRIDLINES = [20, 40, 60], HIDDEN_SCALE_PCT = 30, HIDDEN_GRIDLINES = [10, 20];
+
+createApp({
+  components: { StackedColumns, LegendRow, LineChart },
+  setup() {
+    const { payslip, burden, hidden, real, indexYear, generated } = DATA;
+    const first = arr => arr[0];
+    const last = arr => arr[arr.length - 1];
+    const r1 = v => Math.round(v * 10) / 10;
+    const points = (a, b) => `${r1(b - a)} ポイント`;
+
+    const slipGroups = [{ key: 'insurance', label: '社会保険料' }, { key: 'tax', label: '所得税・住民税など' }, { key: 'other', label: 'その他' }];
+    const slipColors = { insurance: 'bg-sky-500', tax: 'bg-orange-500', other: 'bg-stone-400 dark:bg-stone-500' };
+    const slipFirst = first(payslip), slipLast = last(payslip);
+    const slipDiff = r1(slipLast.deducted_pct - slipFirst.deducted_pct);
+    const slipTakeaway = `引かれる割合は ${slipFirst.year} 年の ${slipFirst.deducted_pct}% から ${slipLast.year} 年の ${slipLast.deducted_pct}% へ、${slipDiff} ポイントの増加。増えたのは主に社会保険料（${slipFirst.insurance}% → ${slipLast.insurance}%）で、税はほぼ横ばい（${slipFirst.tax}% → ${slipLast.tax}%）です。`;
+
+    const burdenGroups = [{ key: 'insurance', label: '社会保険料' }, { key: 'local_tax', label: '地方税' }, { key: 'national_tax', label: '国税' }, { key: 'deficit', label: '財政赤字（将来の税）' }];
+    const burdenColors = { insurance: 'bg-sky-500', local_tax: 'bg-amber-400', national_tax: 'bg-orange-500', deficit: 'bg-rose-200 dark:bg-rose-900' };
+    const actual = burden.filter(b => !b.estimate);
+    const burdenFirst = first(burden), burdenLast = last(actual);
+    const burdenEstimateYear = burden.find(b => b.estimate)?.year;
+    const peak = actual.reduce((a, b) => (b.potential_burden > a.potential_burden ? b : a));
+    const burdenTakeaway = `国民負担率は ${burdenFirst.year} 年度の ${burdenFirst.national_burden}% から ${burdenLast.year} 年度の ${burdenLast.national_burden}% へ、${points(burdenFirst.national_burden, burdenLast.national_burden)}上がりました。財政赤字を足した潜在的国民負担率（実質的な負担）は ${burdenFirst.potential_burden}% から ${burdenLast.potential_burden}% で、${points(burdenFirst.potential_burden, burdenLast.potential_burden)}。赤字が減ったぶん、こちらの伸びは小さめです（いちばん高かったのは ${peak.year} 年度の ${peak.potential_burden}%）。`;
+    const estimates = burden.filter(b => b.estimate);
+    const burdenEstimateNote = estimates.length ? `点線より右の ${estimates.map(b => b.year).join('・')} 年度は財務省の見込み・見通しで、国民負担率は ${estimates.map(b => b.national_burden + '%').join('、')} です。` : '';
+
+    const hiddenGroups = [{ key: 'household', label: '社会保険料（働く人などが払う分）' }, { key: 'employer', label: '社会保険料（会社が払う分）' }, { key: 'consumption_tax', label: '消費税（国と地方）' }];
+    const hiddenColors = { household: 'bg-sky-300 dark:bg-sky-700', employer: 'bg-indigo-500', consumption_tax: 'bg-rose-500' };
+    const hiddenFirst = first(hidden), hiddenLast = last(hidden);
+    const hiddenTakeaway = `${hiddenFirst.year} 年度から ${hiddenLast.year} 年度で、国民所得に対して消費税は ${hiddenFirst.consumption_tax}% → ${hiddenLast.consumption_tax}%、会社が払う社会保険料は ${hiddenFirst.employer}% → ${hiddenLast.employer}% になりました。この 2 つだけで ${points(hiddenFirst.consumption_tax + hiddenFirst.employer, hiddenLast.consumption_tax + hiddenLast.employer)}の増加で、どちらも給料明細には出てきません。`;
+    const incomeOf = DATA.nationalIncome;
+    const incomeNote = `国民所得は ${incomeOf.first.year} 年度 ${incomeOf.first.trillion} 兆円、${incomeOf.last.year} 年度 ${incomeOf.last.trillion} 兆円`;
+
+    const realYears = real.map(r => r.year);
+    const realSeries = [
+      { key: 'nominal', label: '世帯の手取り（そのままの額）', values: real.map(r => r.nominal), stroke: 'stroke-stone-400', dashed: true },
+      { key: 'cpi', label: '物価', values: real.map(r => r.cpi), stroke: 'stroke-rose-500', dashed: true },
+      { key: 'real', label: '世帯の手取り（物価を差し引く）', values: real.map(r => r.real), stroke: 'stroke-emerald-600 dark:stroke-emerald-400' },
+      { key: 'wage', label: '1 人あたりの実質賃金', values: real.map(r => r.wage), stroke: 'stroke-orange-500' },
+    ];
+    const realLast = last(real);
+    const change = v => `${v >= 100 ? '+' : ''}${r1(v - 100)}%`;
+    const realTakeaway = `${indexYear} 年から ${realLast.year} 年で、世帯の手取りは額で ${change(realLast.nominal)}、物価は ${change(realLast.cpi)}。物価を差し引いた手取りは ${change(realLast.real)} です。1 人あたりの実質賃金は ${change(realLast.wage)} と、はっきり下がっています。`;
+
+    return { SCALE_PCT, GRIDLINES, HIDDEN_SCALE_PCT, HIDDEN_GRIDLINES, indexYear, generated,
+             payslip, slipYears: payslip.map(s => s.year), slipGroups, slipColors, slipFirst, slipLast, slipDiff, slipTakeaway,
+             burden, burdenYears: burden.map(b => b.year), burdenGroups, burdenColors, burdenEstimateYear, burdenTakeaway, burdenEstimateNote,
+             hidden, hiddenYears: hidden.map(h => h.year), hiddenGroups, hiddenColors, hiddenTakeaway, incomeNote,
+             realYears, realSeries, realTakeaway };
+  },
+}).mount('#app');
+</script>
+</body>
+</html>
