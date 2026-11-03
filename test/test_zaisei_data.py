@@ -86,6 +86,9 @@ SOURCE_VALUES = {
     ("household_by_income.csv", ("1995", "avg", "実収入"), "yen_per_month"): 570817,
     ("household_by_income.csv", ("2000", "D05", "実収入"), "yen_per_month"): 500650,
     ("household_by_income.csv", ("2025", "avg", "可処分所得"), "yen_per_month"): 532408,
+    # 勤め先収入 matches two labelled rows in the 2000–2017 decile sheets; these come from the separate age table (第 3-2 表).
+    ("household_by_income.csv", ("2000", "avg", "勤め先収入"), "yen_per_month"): 527818,
+    ("household_by_income.csv", ("2010", "avg", "勤め先収入"), "yen_per_month"): 485340,
     ("spending_by_function.csv", ("1995", "2000年基準", "10"), "billion_yen"): 46648.0,
     ("spending_by_function.csv", ("2024", "2020年基準", "10"), "billion_yen"): 99742.8,
     ("spending_by_function.csv", ("2024", "2020年基準", "interest"), "billion_yen"): 9375.1,

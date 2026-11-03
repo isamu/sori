@@ -1,6 +1,7 @@
 """xlsx を標準ライブラリだけで読む。read(path) が (シート名, 行のリスト) を返す。"""
 import re, sys, zipfile
 from xml.etree import ElementTree as ET
+from raw_format import zip_size_problem
 
 NS = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
 REL = "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id"
@@ -14,21 +15,10 @@ def col_index(ref):
     return n - 1
 
 
-MAX_ENTRIES = 10000
-MAX_UNCOMPRESSED_BYTES = 500 * 1024 * 1024
-
-
-def check_size(z, path):
-    """展開後の大きさに上限を置く（壊れた・悪意のある zip でメモリを使い切らないため）。"""
-    infos = z.infolist()
-    total = sum(i.file_size for i in infos)
-    if len(infos) > MAX_ENTRIES or total > MAX_UNCOMPRESSED_BYTES:
-        raise ValueError(f"xlsx が大きすぎる（{len(infos)} 個、展開後 {total} バイト）: {path}")
-
-
 def read(path):
     with zipfile.ZipFile(path) as z:
-        check_size(z, path)
+        if problem := zip_size_problem(z.infolist()):
+            raise ValueError(f"{problem}: {path}")
         yield from read_sheets(z)
 
 

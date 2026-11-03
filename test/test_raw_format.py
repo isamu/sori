@@ -2,7 +2,7 @@ import io, sys, tempfile, unittest, zipfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-import xlsx_read
+import raw_format, xlsx_read
 from raw_format import XLS_MAGIC, content_problem
 
 RAW_DIR = Path(__file__).resolve().parents[1] / "raw" / "zaisei"
@@ -44,19 +44,32 @@ class ContentProblemTest(unittest.TestCase):
             self.assertIsNone(content_problem(p.suffix, p.read_bytes()), p)
 
 
+class CacheTest(unittest.TestCase):
+    def test_a_broken_cached_file_is_not_trusted(self):
+        import zaisei_fetch
+        with tempfile.TemporaryDirectory() as d:
+            good, bad = Path(d) / "good.pdf", Path(d) / "bad.pdf"
+            good.write_bytes(b"%PDF-1.7")
+            bad.write_bytes(HTML_PAGE)
+            self.assertTrue(zaisei_fetch.usable(good))
+            self.assertFalse(zaisei_fetch.usable(bad))
+            self.assertFalse(zaisei_fetch.usable(Path(d) / "missing.pdf"))
+
+
 class XlsxSizeLimitTest(unittest.TestCase):
     def test_too_large_or_too_many_entries_is_refused_before_parsing(self):
         with tempfile.TemporaryDirectory() as d:
             path = Path(d) / "big.xlsx"
             path.write_bytes(zip_bytes({"xl/workbook.xml": "x" * 2000, "a": "1", "b": "2"}))
-            for limit, value in (("MAX_UNCOMPRESSED_BYTES", 1000), ("MAX_ENTRIES", 2)):
-                original = getattr(xlsx_read, limit)
-                setattr(xlsx_read, limit, value)
+            for limit, value in (("MAX_UNCOMPRESSED_BYTES", 1000), ("MAX_ZIP_ENTRIES", 2)):
+                original = getattr(raw_format, limit)
+                setattr(raw_format, limit, value)
                 try:
                     with self.assertRaises(ValueError, msg=limit):
                         list(xlsx_read.read(path))
+                    self.assertIn("大きすぎる", content_problem(".xlsx", path.read_bytes()), limit)
                 finally:
-                    setattr(xlsx_read, limit, original)
+                    setattr(raw_format, limit, original)
 
 
 if __name__ == "__main__":
