@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>手取りは激減したのか</title>
+<meta name="description" content="「手取りが激減した」は本当か。給料明細で引かれる割合、国民負担率と潜在的国民負担率、消費税と会社負担の社会保険料、物価を差し引いた手取りと実質賃金、同じ年代どうしの給料を、1995年からのデータで確かめます。">
+<link rel="canonical" href="https://isamu.github.io/sori/tedori.html">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="総理の１年">
+<meta property="og:title" content="手取りは激減したのか">
+<meta property="og:description" content="給料からの天引きは少ししか増えていない。給料が上がらないあいだに物価が上がり、同じ年代で比べても実質の給料は1割近く目減りしていた。">
+<meta property="og:url" content="https://isamu.github.io/sori/tedori.html">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="手取りは激減したのか">
+<meta name="twitter:description" content="給料からの天引きは少ししか増えていない。給料が上がらないあいだに物価が上がり、同じ年代で比べても実質の給料は1割近く目減りしていた。">
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<style type="text/tailwindcss">
+/* Tailwind theme only: paper and ink tokens shared with the other pages, and the typeface. */
+@theme {
+  --color-paper: #ffffff; --color-paperd: #0d1117; --color-panel: #f6f8fa; --color-paneld: #161b22;
+  --color-ink: #1f2328; --color-inkd: #e6edf3; --color-muted: #59636e; --color-mutedd: #8b949e; --color-rule: #d1d9e0; --color-ruled: #30363d;
+  --color-link: #0969da; --color-linkd: #4493f8;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", "Yu Gothic UI", sans-serif;
+}
+/* v-cloak cannot be a utility: it must hide the raw template until Vue mounts. */
+@layer base { [v-cloak] { display: none; } }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/vue@3.5.13/dist/vue.global.prod.js"></script>
+</head>
+<body class="m-0 bg-paper font-sans text-[15px] leading-relaxed text-ink dark:bg-paperd dark:text-inkd">
+<div id="app" v-cloak class="mx-auto max-w-[760px] px-4 pt-6 pb-12">
+
+  <header class="border-b border-rule pb-4 dark:border-ruled">
+    <h1 class="text-2xl font-semibold leading-tight">手取りは激減したのか</h1>
+    <p class="mt-2">「手取りがどんどん減っている」「負担が重くなった」とよく言われます。政府の統計で {{ slipFirst.year }} 年からを並べて確かめると、半分は本当で、半分は違いました。</p>
+  </header>
+
+  <section class="mt-8" aria-labelledby="s1">
+    <h2 id="s1" class="text-lg font-semibold">1. 給料明細で引かれる割合は、少ししか増えていない</h2>
+    <p class="mt-2">働く世帯の収入のうち、税と社会保険料に引かれる割合です（勤労者世帯の平均）。1 本の棒が 1 年分で、縦は 0〜{{ SCALE_PCT }}%。次の図と同じ目盛りにしてありますが、割り算の分母（世帯の収入と、国全体の所得）が違うので、高さの差はあくまで目安です。</p>
+    <stacked-columns class="mt-3" :years="slipYears" :series="payslip" :groups="slipGroups" :colors="slipColors" :labels="slipGroups"
+      height-class="h-48" :max="SCALE_PCT" :gridlines="GRIDLINES" :break-year="2018" :tick-every="5"></stacked-columns>
+    <legend-row :groups="slipGroups" :colors="slipColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ slipTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">年収の高い世帯ほど引かれる割合は高いものの、年収 10 段階のどこを見ても増え方は数ポイントです（<a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="zaisei.html">税と保険料の 100 円</a>）。2018 年の点線は調査の方法が変わった年です。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s2">
+    <h2 id="s2" class="text-lg font-semibold">2. でも、国全体で見た負担は大きく上がった</h2>
+    <p class="mt-2">国民負担率は、国全体の所得（国民所得）のうち、税と社会保険料として納めた割合です。上に積んだ薄い色は財政赤字。いま借金でまかなっている分は将来の税で返すので、それも足した「潜在的国民負担率」が、実質的な負担と言われます。</p>
+    <stacked-columns class="mt-3" :years="burdenYears" :series="burden" :groups="burdenGroups" :colors="burdenColors" :labels="burdenGroups"
+      height-class="h-48" :max="SCALE_PCT" :gridlines="GRIDLINES" :break-year="burdenEstimateYear" :tick-every="5"></stacked-columns>
+    <legend-row :groups="burdenGroups" :colors="burdenColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ burdenTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">{{ burdenEstimateNote }}</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s3">
+    <h2 id="s3" class="text-lg font-semibold">3. 給料明細に出ない負担が大きく増えた</h2>
+    <p class="mt-2">2 の国全体の負担のうち、給料明細には載らない負担を取り出しました（1 とは分母が違うので、1 と 2 の差をそのまま分解したものではありません）。ひとつは買い物のたびに払う消費税。もうひとつは会社が払う社会保険料です。会社員の社会保険料は、年金・医療・介護は会社と働く人で半分ずつ、雇用保険などは会社のほうが多く払う仕組みで、会社の分は給料の額面にも出てきません。国民所得に対する割合で並べました（縦は 0〜{{ HIDDEN_SCALE_PCT }}%）。</p>
+    <stacked-columns class="mt-3" :years="hiddenYears" :series="hidden" :groups="hiddenGroups" :colors="hiddenColors" :labels="hiddenGroups"
+      height-class="h-40" :max="HIDDEN_SCALE_PCT" :gridlines="HIDDEN_GRIDLINES" :tick-every="5"></stacked-columns>
+    <legend-row :groups="hiddenGroups" :colors="hiddenColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ hiddenTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">会社の負担は、会社にとっては人件費です。その分だけ給料を上げる余地が小さくなるので、結局は働く人が負担しているという見方もあります。もうひとつ、割り算の分母の国民所得があまり伸びなかったことも、負担率を押し上げています（{{ incomeNote }}）。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s4">
+    <h2 id="s4" class="text-lg font-semibold">4. 物価を差し引くと、手取りは増えていない</h2>
+    <p class="mt-2">{{ indexYear }} 年を 100 として、手取りと物価、物価を差し引いた手取り、1 人あたりの実質賃金を線で並べました。100 より下なら {{ indexYear }} 年より少ないということです。</p>
+    <line-chart class="mt-3" :years="realYears" :series="realSeries" :base="100"></line-chart>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ realTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">世帯の手取りが 1 人あたりの賃金ほど落ちていないのは、世帯で働く人が増えたためと考えられます（勤労者世帯の働く人の数は平均 {{ ages.workers.first }} 人から {{ ages.workers.last }} 人）。1 人あたりの実質賃金には、パートなど短い時間で働く人が増えて平均が下がった影響も入っている可能性があります（このページのデータでは確かめていません）。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s5">
+    <h2 id="s5" class="text-lg font-semibold">5. それでも「貧しくなった」と感じるのはなぜか</h2>
+    <p class="mt-2">世帯の平均で見ると、物価を差し引いた手取りはほぼ横ばいでした。それでも暮らしが苦しくなったと感じる人が多いのはなぜか。中身を分けてみます。</p>
+
+    <h3 class="mt-6 font-semibold">世帯主の稼ぎは減り、配偶者の稼ぎが埋めている（平均で見ると）</h3>
+    <p class="mt-1 text-sm text-muted dark:text-mutedd">勤労者世帯の平均で、世帯の稼ぎを誰が稼いだかで分けました。物価を差し引くため、{{ PRICE_YEAR }} 年の値段にそろえた月の金額です（縦は 0〜{{ earnersMax }} 万円）。</p>
+    <stacked-columns class="mt-3" :years="earnerYears" :series="earners" :groups="earnerGroups" :colors="earnerColors" :labels="earnerGroups"
+      height-class="h-48" :max="earnersMax" :gridlines="earnerGridlines" :break-year="2018" :tick-every="5" unit="万円"></stacked-columns>
+    <legend-row :groups="earnerGroups" :colors="earnerColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ earnersTakeaway }}</p>
+
+    <h3 class="mt-8 font-semibold">年齢をそろえても、世帯主の稼ぎは減っている</h3>
+    <p class="mt-1 text-sm text-muted dark:text-mutedd">世帯主の平均年齢は {{ ages.age.first }} 歳から {{ ages.age.last }} 歳に上がり、60 歳以上の世帯主は {{ ages.sixties_share.first }}% から {{ ages.sixties_share.last }}% に増えました。年齢の違いで平均が動いただけではないかを確かめるため、世帯主の年齢層ごとに {{ ages.first }} 年と {{ ages.last }} 年を比べました（物価を差し引いた変化）。世帯の割合が小さい 29 歳以下と 70 歳以上は図から外しています。</p>
+    <change-bars class="mt-3" :rows="ageRows" :scale="AGE_SCALE_PCT" :legend="ageLegend"></change-bars>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ ageTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">厚生労働省の賃金構造基本統計調査（フルタイムで働く人の年齢別の給料）でも、40〜50 代の給料は物価を差し引くと同じように下がっています（この数字はページのデータには入れていません）。</p>
+
+    <h3 class="mt-8 font-semibold">いちばん減ったのは、真ん中より少し上の世帯</h3>
+    <p class="mt-1 text-sm text-muted dark:text-mutedd">年収 10 段階それぞれの、物価を差し引いた手取りの {{ deciles.first }} 年から {{ deciles.last }} 年の変化です。左に伸びるほど減っています。</p>
+    <change-bars class="mt-3" :rows="decileRows" :scale="DECILE_SCALE_PCT"></change-bars>
+    <p class="mt-1 text-xs text-muted dark:text-mutedd">年収は {{ deciles.last }} 年の各段階の平均。</p>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ decileTakeaway }}</p>
+
+    <h3 class="mt-8 font-semibold">よく買う物ほど値上がりした</h3>
+    <p class="mt-1 text-sm text-muted dark:text-mutedd">{{ indexYear }} 年を 100 とした物価。全体と、食べ物、電気・ガス・ガソリンなどのエネルギーを並べました。</p>
+    <line-chart class="mt-3" :years="realYears" :series="priceSeries" :base="100"></line-chart>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ priceTakeaway }}</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s6">
+    <h2 id="s6" class="text-lg font-semibold">考察: だれが、何が変わったのか</h2>
+
+    <h3 class="mt-4 font-semibold">貧しくなったと感じているのは誰か</h3>
+    <ul class="mt-2 list-disc space-y-1.5 pl-5">
+      <li><b>世帯主の稼ぎに頼る世帯。</b>世帯主の稼ぎは物価を差し引くと平均 {{ signed(headChange) }}%、年齢構成をそろえても {{ signed(ages.reweighted.head) }}% です。配偶者などの稼ぎが少ない世帯ほど、この減り方がそのまま暮らしに出ると考えられます（このデータは平均なので、世帯ごとの共働きかどうかは分かりません）。</li>
+      <li><b>世帯主が 50 代の世帯。</b>世帯主の稼ぎは {{ signed(ageOf('50-59').head) }}%、配偶者の稼ぎが増えても世帯の手取りは {{ signed(ageOf('50-59').takehome) }}% で、図に示した 30〜69 歳の年齢層の中ではいちばん苦しくなっています。教育費や住宅ローンが重なりやすい年代です。</li>
+      <li><b>年収 {{ hardest.low }}〜{{ hardest.high }} 万円の、真ん中より少し上の世帯。</b>物価を差し引いた手取りの減り方が大きかった {{ HARDEST_COUNT }} 段階がここに集まっています。給料から引かれる割合も、おおむね年収が高い段階ほど大きく増えました。</li>
+      <li><b>収入の多くを食費や光熱費に使う世帯。</b>物価全体と比べて食べ物とエネルギーの値上がりが大きく、どちらも削りにくい支出です。</li>
+      <li><b>このデータに入っていない人たち。</b>一人暮らしの人、非正規で働く人、年金で暮らす人、自営業の人は、家計調査の勤労者世帯（二人以上）に入っていません。この人たちの暮らしがどう変わったかは、このページのデータでは分かりません。確かめるには別の統計が要ります。</li>
+    </ul>
+
+    <h3 class="mt-6 font-semibold">変わっていないのは誰か</h3>
+    <ul class="mt-2 list-disc space-y-1.5 pl-5">
+      <li><b>勤労者世帯の平均。</b>配偶者の稼ぎが平均で増えたぶん、世帯の実質の手取りはほぼ保たれています。ただし、働く人が増えたぶん、世帯として働く時間は増えていると考えられます（働く時間はこのデータにはありません）。</li>
+      <li><b>年収のいちばん低い段階と、いちばん高い段階。</b>物価を差し引いた手取りはほぼ横ばいか、少し増えています。理由はこのデータからは分かりません。</li>
+      <li><b>60 代で働き続ける世帯主。</b>稼ぎは物価を差し引いても {{ signed(ageOf('60-69').head) }}% で、図に示した 30〜69 歳の年齢層の中で唯一増えました。定年の延長や再雇用で、60 代でもしっかり働く人が増えた可能性があります（このデータだけでは確かめられません）。60 歳以上の世帯主が増えたことが、世帯主の平均年齢を押し上げています。</li>
+    </ul>
+
+    <h3 class="mt-6 font-semibold">世の中はどう変わったのか</h3>
+    <ul class="mt-2 list-disc space-y-1.5 pl-5">
+      <li><b>世帯主の稼ぎから、世帯みんなの稼ぎへ。</b>世帯の手取りはほぼ同じでも、勤労者世帯の働く人の数は平均 {{ ages.workers.first }} 人から {{ ages.workers.last }} 人に増えました。同じ暮らしに、前より多くの働き手が要るようになっています。</li>
+      <li><b>負担は、見えにくいところで増えた。</b>給料明細で増えたのは社会保険料の数ポイントですが、国全体では消費税と会社負担の社会保険料が大きく増えました。政府全体の支出でも、年金・介護・子育てなどと医療の割合が増えています（<a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="zaisei.html">税と保険料の 100 円</a>）。</li>
+      <li><b>生活に欠かせない物ほど高くなった。</b>平均の物価より、毎日買う食べ物とエネルギーの値上がりが大きく、体感の物価は平均より高くなります。</li>
+    </ul>
+    <p class="mt-4">「手取りが激減した」は、平均の数字としては言い過ぎです。けれども、1 人の稼ぎ、真ん中の層、毎日の買い物という、多くの人が自分の暮らしで見ている部分では、たしかに苦しくなっています。不満は数字の平均ではなく、その中身から来ていると考えられます。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s7">
+    <h2 id="s7" class="text-lg font-semibold">まとめ</h2>
+    <dl class="mt-3 space-y-3">
+      <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
+        <dt class="font-semibold">違う部分</dt>
+        <dd class="mt-1">給料からの天引きが「激増」したわけではありません。{{ slipFirst.year }} 年から {{ slipLast.year }} 年で、収入に対して {{ slipDiff }} ポイントの増加です。また、給料の目減りは世帯主の高齢化だけでは説明できません（一部は高齢化の影響ですが、同じ年代どうしで比べても減っています）。</dd>
+      </div>
+      <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
+        <dt class="font-semibold">本当の部分</dt>
+        <dd class="mt-1">給料の額面が {{ ages.last - ages.first }} 年ほとんど上がらないあいだに、物価が上がりました。世帯主が 40 代の世帯で比べると、給料の額面は {{ signed(ageOf('40-49').head_nominal) }}%、物価は {{ signed(ages.cpi_change) }}%。物価を差し引いた給料は {{ signed(ageOf('40-49').head) }}% で、同じ年代どうしで比べても 1 割近く目減りしています。平均で見ると、配偶者の稼ぎが増えてこれを埋めています。</dd>
+      </div>
+    </dl>
+    <h3 class="mt-6 font-semibold">2 つの物差しで見ると</h3>
+    <p class="mt-2">何が手取りを押し下げたかは、誰の収入で見るかで答えが変わります（{{ breakdown.first }} 年から {{ breakdown.last }} 年、勤労者世帯の平均）。</p>
+    <ol class="mt-2 list-decimal space-y-1.5 pl-5">
+      <li><b>世帯主 1 人の給料で見ると、いちばん大きいのは「給料が物価に追いつかなかったこと」。</b>給料の額面は {{ signed(breakdown.head_nominal) }}%、物価は {{ signed(breakdown.cpi) }}% で、物価を差し引くと {{ signed(breakdown.head_real) }}% です（同じ年代どうしでも 40 代で {{ signed(ageOf('40-49').head) }}%）。消費税の引き上げ（5% → 8% → 10%）は、この物価の上昇の一部です。</li>
+      <li><b>世帯の手取りで見ると、物価の分は配偶者などの稼ぎでほぼ埋まり、残ったのは「天引きの増加」。</b>世帯の収入（額面）は {{ signed(breakdown.income_nominal) }}% で、物価を差し引くと {{ signed(breakdown.income_real) }}%。一方、天引きの割合が増えたぶんの影響は手取りに対して {{ signed(breakdown.kept_share) }}% で、合わせて物価を差し引いた手取りは {{ signed(breakdown.takehome_real) }}% になりました。</li>
+      <li><b>会社負担の社会保険料は、どちらの物差しにも出てきません。</b>会社にとっては人件費なので、給料が上がりにくい一因かもしれませんが、大きさは測れません。</li>
+    </ol>
+    <p class="mt-4">「手取りが激減した」の正体は、1 人の稼ぎで見れば「給料が上がらないあいだに物価が上がったこと」、世帯で見れば「配偶者などの稼ぎで物価の分は埋めたが、天引きの増加が残ったこと」でした。どちらの物差しを使うかで、目立つ原因が変わります。平均では暮らしを保っていても、埋めきれていない世代（50 代）があり、働き手を増やせない世帯は、このデータの平均より苦しい可能性があります。</p>
+  </section>
+
+  <section class="mt-10 text-sm text-muted dark:text-mutedd" aria-labelledby="notes">
+    <h2 id="notes" class="font-semibold text-ink dark:text-inkd">注</h2>
+    <ul class="mt-2 list-disc space-y-1 pl-5">
+      <li>1 と 4 の世帯の数字は、総務省「家計調査」の二人以上の世帯のうち勤労者世帯の平均です。単身の人、自営業の人、年金で暮らす世帯は入っていません。1999 年までは農林漁家世帯を除く集計で、2018 年に調査の方法が変わっています。</li>
+      <li>1 の割合は、実収入（世帯全員の 1 か月の収入）に対する、直接税と社会保険料などの非消費支出の割合です。</li>
+      <li>2 の国民負担率は財務省の公表値です。財政赤字が多い年（2009 年度のリーマン・ショック後、2020 年度のコロナ対策）は潜在的国民負担率が跳ね上がります。</li>
+      <li>3 の会社が払う社会保険料は、内閣府「国民経済計算」の社会保障負担のうち雇主（会社）が払う分です。消費税は国（一般会計の決算）と地方消費税の合計で、地方消費税が丸 1 年分そろう 1998 年度から。国民所得は財務省の国民負担率の表の値です。</li>
+      <li>4 の物価は総務省「消費者物価指数」（総合）、実質賃金は厚生労働省「毎月勤労統計」の実質賃金指数（現金給与総額、事業所規模 5 人以上）です。毎月勤労統計は 2004〜2011 年に集計の誤りがあり、その期間は補正した値です。</li>
+      <li>年齢別の比較は家計調査の「世帯主の年齢階級別」の表（勤労者世帯、10 歳刻み）です。年齢構成をそろえた平均は、{{ ages.last }} 年の年齢層ごとの値を {{ ages.first }} 年の世帯の年齢構成で平均し直したものです。年齢構成の重みには表の「世帯数分布」（全体を 10,000 とした割合）を使っています。年齢層ごとの値は標本調査の平均なので、数ポイントの誤差がありえます。</li>
+      <li>5 の世帯の稼ぎは勤め先からの収入（世帯主・配偶者・ほかの家族）で、2000 年からの十分位の表の値です。年収 10 段階は毎年の世帯を 10 等分した各段階の平均なので、同じ世帯を追ったものではありません。エネルギーは消費者物価指数の電気代・ガス代・灯油・ガソリンなどです。</li>
+    </ul>
+  </section>
+
+  <footer class="mt-12 border-t border-rule pt-4 text-xs text-muted dark:border-ruled dark:text-mutedd">
+    <p>出典: 総務省「家計調査」「消費者物価指数」（e-Stat）、財務省「国民負担率の推移」「税収の推移」、総務省「地方税に関する参考計数資料」、内閣府「国民経済計算」社会保障負担の明細表、厚生労働省「毎月勤労統計調査」（e-Stat）。数値は AI が出典の表を読み取って集計しており、間違いがありうるので、使うときは出典で確かめてください。</p>
+    <p class="mt-2">作成 {{ generated }}。<a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="zaisei.html">税と保険料の 100 円</a> ・ <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="./">総理の１年</a> ・ <a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="https://github.com/isamu/sori">ソース（GitHub）</a>。コードとページは MIT ライセンス。</p>
+  </footer>
+</div>
+
+<script>
+const DATA = __DATA__;
+const { createApp, computed, ref, onMounted, onBeforeUnmount } = Vue;
+
+__STACKED_COLUMNS__
+
+const LegendRow = {
+  props: { groups: Array, colors: Object },
+  template: `<ul class="mt-6 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+    <li v-for="g in groups.slice().reverse()" :key="g.key" class="flex items-center gap-1.5"><i class="inline-block size-3 rounded-sm" :class="colors[g.key]"></i>{{ g.label }}</li>
+  </ul>`,
+};
+
+// One row per label; each value is a bar growing left (negative) or right (positive) from the centre line, clipped at ±scale.
+const ChangeBars = {
+  props: { rows: Array, scale: Number, legend: { type: Array, default: () => [] } },
+  setup(props) {
+    const bar = v => {
+      const width = (Math.min(Math.abs(v), props.scale) / props.scale) * 50 + '%';
+      return v < 0 ? { right: '50%', width } : { left: '50%', width };
+    };
+    const signed = v => `${v > 0 ? '+' : ''}${v}`;
+    return { bar, signed };
+  },
+  template: `<div>
+    <ul class="space-y-2">
+      <li v-for="r in rows" :key="r.id" class="grid grid-cols-[7.5rem_1fr_3.5rem] items-center gap-x-2 gap-y-0.5 text-sm">
+        <template v-for="(v, i) in r.values" :key="r.id + v.key">
+          <span class="tabular-nums" :class="i ? 'text-xs text-muted dark:text-mutedd' : ''">{{ i ? '' : r.label }}</span>
+          <span class="relative h-4" aria-hidden="true">
+            <i class="absolute inset-y-0 left-1/2 border-l border-ink dark:border-inkd"></i>
+            <i class="absolute inset-y-0.5 rounded-sm" :class="v.value < 0 ? v.negative : v.positive" :style="bar(v.value)"></i>
+          </span>
+          <span class="text-right tabular-nums" :class="v.value < 0 ? 'text-rose-600 dark:text-rose-400' : ''"><span class="sr-only">{{ r.label }} {{ v.label }} </span>{{ signed(v.value) }}%</span>
+        </template>
+      </li>
+    </ul>
+    <ul v-if="legend.length" class="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+      <li v-for="l in legend" :key="l.key" class="flex items-center gap-1.5"><i class="inline-block size-3 rounded-sm" :class="l.color"></i>{{ l.label }}</li>
+    </ul>
+    <p class="mt-1 text-xs text-muted dark:text-mutedd">棒の端は ±{{ scale }}%。</p>
+  </div>`,
+};
+
+const CHART_H = 240, PAD = { left: 36, right: 12, top: 12, bottom: 24 }, Y_STEP = 10;
+
+// Lines over years on a shared y-axis rounded out to Y_STEP, with a dashed line at `base`. Drawn at the figure's real width so labels keep their size on phones.
+// The SVG is hidden from assistive technology; a visually hidden table carries every year's values.
+const LineChart = {
+  props: { years: Array, series: Array, base: Number },
+  setup(props) {
+    const figure = ref(null);
+    const width = ref(640);
+    const observer = new ResizeObserver(([entry]) => { width.value = Math.max(entry.contentRect.width, 1); });
+    onMounted(() => observer.observe(figure.value));
+    onBeforeUnmount(() => observer.disconnect());
+    const values = computed(() => props.series.flatMap(s => s.values));
+    const yMin = computed(() => Y_STEP * Math.floor(Math.min(props.base, ...values.value) / Y_STEP));
+    const yMax = computed(() => Y_STEP * Math.ceil(Math.max(props.base, ...values.value) / Y_STEP));
+    const x = i => PAD.left + (i * (width.value - PAD.left - PAD.right)) / (props.years.length - 1);
+    const y = v => PAD.top + ((yMax.value - v) * (CHART_H - PAD.top - PAD.bottom)) / (yMax.value - yMin.value);
+    const ticks = computed(() => Array.from({ length: (yMax.value - yMin.value) / Y_STEP + 1 }, (_, i) => yMin.value + i * Y_STEP));
+    const points = s => s.values.map((v, i) => `${x(i)},${y(v)}`).join(' ');
+    const yearTicks = computed(() => props.years.map((year, i) => ({ year, i })).filter(t => t.i === 0 || t.i === props.years.length - 1 || t.year % 5 === 0));
+    return { figure, width, CHART_H, PAD, x, y, ticks, points, yearTicks };
+  },
+  template: `<figure ref="figure" class="m-0">
+    <div class="sr-only"><table>
+      <thead><tr><th scope="col">年</th><th v-for="s in series" :key="'th-' + s.key" scope="col">{{ s.label }}</th></tr></thead>
+      <tbody><tr v-for="(year, i) in years" :key="'tr-' + year"><th scope="row">{{ year }}</th><td v-for="s in series" :key="'td-' + year + s.key">{{ s.values[i] }}</td></tr></tbody>
+    </table></div>
+    <svg :viewBox="'0 0 ' + width + ' ' + CHART_H" :height="CHART_H" class="w-full" aria-hidden="true">
+      <g v-for="t in ticks" :key="'y' + t">
+        <line :x1="PAD.left" :x2="width - PAD.right" :y1="y(t)" :y2="y(t)" :stroke-dasharray="t === base ? '4 3' : null" :class="t === base ? 'stroke-ink dark:stroke-inkd' : 'stroke-rule dark:stroke-ruled'" />
+        <text :x="PAD.left - 6" :y="y(t) + 4" text-anchor="end" class="fill-muted text-[11px] dark:fill-mutedd">{{ t }}</text>
+      </g>
+      <text v-for="t in yearTicks" :key="'x' + t.year" :x="x(t.i)" :y="CHART_H - 6" :text-anchor="t.i === 0 ? 'start' : t.i === years.length - 1 ? 'end' : 'middle'" class="fill-muted text-[11px] dark:fill-mutedd">{{ t.year }}</text>
+      <polyline v-for="s in series" :key="s.key" :points="points(s)" fill="none" stroke-width="2.5" :stroke-dasharray="s.dashed ? '6 4' : null" :class="s.stroke" />
+    </svg>
+    <ul class="mt-1 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+      <li v-for="s in series" :key="'k' + s.key" class="flex items-center gap-1.5">
+        <svg width="22" height="8" aria-hidden="true"><line x1="0" x2="22" y1="4" y2="4" stroke-width="2.5" :stroke-dasharray="s.dashed ? '6 4' : null" :class="s.stroke" /></svg>{{ s.label }}
+        <span class="tabular-nums text-muted dark:text-mutedd">{{ s.values[s.values.length - 1] }}</span>
+      </li>
+    </ul>
+  </figure>`,
+};
+
+const SCALE_PCT = 70, GRIDLINES = [20, 40, 60], HIDDEN_SCALE_PCT = 20, HIDDEN_GRIDLINES = [10];
+const PRICE_YEAR = 2020, EARNER_STEP_MAN_YEN = 10, DECILE_SCALE_PCT = 10, HARDEST_COUNT = 4, AGE_SCALE_PCT = 15;
+
+createApp({
+  components: { StackedColumns, LegendRow, LineChart, ChangeBars },
+  setup() {
+    const { payslip, burden, hidden, real, indexYear, generated, earners, deciles, breakdown } = DATA;
+    const first = arr => arr[0];
+    const last = arr => arr[arr.length - 1];
+    const r1 = v => Math.round(v * 10) / 10;
+    const points = (a, b) => `${r1(b - a)} ポイント`;
+
+    const slipGroups = [{ key: 'insurance', label: '社会保険料' }, { key: 'tax', label: '所得税・住民税など' }, { key: 'other', label: 'その他' }];
+    const slipColors = { insurance: 'bg-sky-500', tax: 'bg-orange-500', other: 'bg-stone-400 dark:bg-stone-500' };
+    const slipFirst = first(payslip), slipLast = last(payslip);
+    const slipDiff = r1(slipLast.deducted_pct - slipFirst.deducted_pct);
+    const slipTakeaway = `引かれる割合は ${slipFirst.year} 年の ${slipFirst.deducted_pct}% から ${slipLast.year} 年の ${slipLast.deducted_pct}% へ、${slipDiff} ポイントの増加。増えたのは主に社会保険料（${slipFirst.insurance}% → ${slipLast.insurance}%）で、税はほぼ横ばい（${slipFirst.tax}% → ${slipLast.tax}%）です。`;
+
+    const burdenGroups = [{ key: 'insurance', label: '社会保険料' }, { key: 'local_tax', label: '地方税' }, { key: 'national_tax', label: '国税' }, { key: 'deficit', label: '財政赤字（将来の税）' }];
+    const burdenColors = { insurance: 'bg-sky-500', local_tax: 'bg-amber-400', national_tax: 'bg-orange-500', deficit: 'bg-rose-200 dark:bg-rose-900' };
+    const actual = burden.filter(b => !b.estimate);
+    const burdenFirst = first(burden), burdenLast = last(actual);
+    const burdenEstimateYear = burden.find(b => b.estimate)?.year;
+    const peak = actual.reduce((a, b) => (b.potential_burden > a.potential_burden ? b : a));
+    const burdenTakeaway = `国民負担率は ${burdenFirst.year} 年度の ${burdenFirst.national_burden}% から ${burdenLast.year} 年度の ${burdenLast.national_burden}% へ、${points(burdenFirst.national_burden, burdenLast.national_burden)}上がりました。財政赤字を足した潜在的国民負担率（実質的な負担）は ${burdenFirst.potential_burden}% から ${burdenLast.potential_burden}% で、${points(burdenFirst.potential_burden, burdenLast.potential_burden)}。赤字が減ったぶん、こちらの伸びは小さめです（いちばん高かったのは ${peak.year} 年度の ${peak.potential_burden}%）。`;
+    const estimates = burden.filter(b => b.estimate);
+    const burdenEstimateNote = estimates.length ? `点線より右の ${estimates.map(b => b.year).join('・')} 年度は財務省の見込み・見通しで、国民負担率は ${estimates.map(b => b.national_burden + '%').join('、')} です。` : '';
+
+    const hiddenGroups = [{ key: 'employer', label: '社会保険料（会社が払う分）' }, { key: 'consumption_tax', label: '消費税（国と地方）' }];
+    const hiddenColors = { employer: 'bg-indigo-500', consumption_tax: 'bg-rose-500' };
+    const hiddenFirst = first(hidden), hiddenLast = last(hidden);
+    const hiddenTakeaway = `${hiddenFirst.year} 年度から ${hiddenLast.year} 年度で、国民所得に対して消費税は ${hiddenFirst.consumption_tax}% → ${hiddenLast.consumption_tax}%、会社が払う社会保険料は ${hiddenFirst.employer}% → ${hiddenLast.employer}% になりました。国民所得に対して、この 2 つを合わせて ${points(hiddenFirst.consumption_tax + hiddenFirst.employer, hiddenLast.consumption_tax + hiddenLast.employer)}の増加で、どちらも給料明細には出てきません。`;
+    const incomeOf = DATA.nationalIncome;
+    const incomeNote = `国民所得は ${incomeOf.first.year} 年度 ${incomeOf.first.trillion} 兆円、${incomeOf.last.year} 年度 ${incomeOf.last.trillion} 兆円`;
+
+    const realYears = real.map(r => r.year);
+    const realSeries = [
+      { key: 'nominal', label: '世帯の手取り（そのままの額）', values: real.map(r => r.nominal), stroke: 'stroke-stone-400', dashed: true },
+      { key: 'cpi', label: '物価', values: real.map(r => r.cpi), stroke: 'stroke-rose-500', dashed: true },
+      { key: 'real', label: '世帯の手取り（物価を差し引く）', values: real.map(r => r.real), stroke: 'stroke-emerald-600 dark:stroke-emerald-400' },
+      { key: 'wage', label: '1 人あたりの実質賃金', values: real.map(r => r.wage), stroke: 'stroke-orange-500' },
+    ];
+    const realLast = last(real);
+    const change = v => `${v >= 100 ? '+' : ''}${r1(v - 100)}%`;
+    const realTakeaway = `${indexYear} 年から ${realLast.year} 年で、世帯の手取りは額で ${change(realLast.nominal)}、物価は ${change(realLast.cpi)}。物価を差し引いた手取りは ${change(realLast.real)} です。1 人あたりの実質賃金は ${change(realLast.wage)} と、はっきり下がっています。`;
+
+    const fmtInt = n => (n == null ? '—' : Math.round(n).toLocaleString('ja-JP'));
+    const signed = v => `${v > 0 ? '+' : ''}${v}`;
+    const earnerGroups = [{ key: 'head', label: '世帯主' }, { key: 'spouse', label: '配偶者' }, { key: 'others', label: 'ほかの家族' }];
+    const earnerColors = { head: 'bg-sky-600', spouse: 'bg-amber-400', others: 'bg-stone-400 dark:bg-stone-500' };
+    const earnerTotal = e => e.head + e.spouse + e.others;
+    const earnersMax = EARNER_STEP_MAN_YEN * Math.ceil(Math.max(...earners.map(earnerTotal)) / EARNER_STEP_MAN_YEN);
+    const earnerGridlines = Array.from({ length: earnersMax / EARNER_STEP_MAN_YEN - 1 }, (_, i) => (i + 1) * EARNER_STEP_MAN_YEN);
+    const earnFirst = first(earners), earnLast = last(earners);
+    const headChange = r1(100 * (earnLast.head / earnFirst.head - 1));
+    const earnersTakeaway = `世帯主の稼ぎは ${earnFirst.year} 年の月 ${earnFirst.head} 万円から ${earnLast.year} 年の ${earnLast.head} 万円へ（${signed(headChange)}%）。配偶者の稼ぎは ${earnFirst.spouse} 万円から ${earnLast.spouse} 万円に増え、世帯の合計は ${r1(earnerTotal(earnFirst))} 万円から ${r1(earnerTotal(earnLast))} 万円です。`;
+
+    const decileRows = deciles.classes.map(c => ({ id: c.id, label: `年収 ${fmtInt(c.income_last)} 万円`,
+      values: [{ key: 'takehome', label: '物価を差し引いた手取り', value: c.real_change, negative: 'bg-rose-500', positive: 'bg-emerald-500' }] }));
+
+    const { ages } = DATA;
+    const ageLabel = id => (id.endsWith('-') ? `${id.slice(0, -1)} 歳以上` : `${id.replace('-', '〜')} 歳`);
+    const ageValues = a => [
+      { key: 'head', label: '世帯主の稼ぎ', value: a.head, negative: 'bg-rose-500', positive: 'bg-emerald-500' },
+      { key: 'takehome', label: '世帯の手取り', value: a.takehome, negative: 'bg-rose-300 dark:bg-rose-800', positive: 'bg-emerald-300 dark:bg-emerald-800' },
+    ];
+    const ageRows = [
+      ...ages.classes.map(c => ({ id: c.id, label: `世帯主 ${ageLabel(c.id)}`, values: ageValues(c) })),
+      { id: 'average', label: '全体の平均', values: ageValues(ages.average) },
+      { id: 'reweighted', label: `年齢構成を ${ages.first} 年にそろえた平均`, values: ageValues(ages.reweighted) },
+    ];
+    const ageLegend = [{ key: 'head', label: '世帯主の稼ぎ（濃い色）', color: 'bg-rose-500' }, { key: 'takehome', label: '世帯の手取り（薄い色）', color: 'bg-rose-300 dark:bg-rose-800' }];
+    const ageOf = id => ages.classes.find(c => c.id === id);
+    const ageTakeaway = `世帯主が 40 代の世帯で比べても、世帯主の稼ぎは ${signed(ageOf('40-49').head)}%、50 代でも ${signed(ageOf('50-59').head)}% です。全体の平均の ${signed(ages.average.head)}% のうち一部は世帯主の年齢が上がった影響で、年齢構成を ${ages.first} 年にそろえると ${signed(ages.reweighted.head)}% になります。それでも、年齢の違いだけでは説明できない分の減り方が残ります。50 代の世帯は配偶者の稼ぎが増えても、世帯の手取りが ${signed(ageOf('50-59').takehome)}% でした。`;
+    const worst = deciles.classes.reduce((a, b) => (b.real_change < a.real_change ? b : a));
+    const hardestIncomes = deciles.classes.slice().sort((a, b) => a.real_change - b.real_change).slice(0, HARDEST_COUNT).map(c => c.income_last);
+    const hardest = { low: fmtInt(Math.min(...hardestIncomes)), high: fmtInt(Math.max(...hardestIncomes)) };
+    const decileTakeaway = `いちばん減ったのは年収 ${fmtInt(worst.income_last)} 万円の段階で ${signed(worst.real_change)}%。いちばん低い段階は ${signed(first(deciles.classes).real_change)}%、いちばん高い段階は ${signed(last(deciles.classes).real_change)}% でした。`;
+
+    const priceSeries = [
+      { key: 'cpi', label: '物価全体', values: real.map(r => r.cpi), stroke: 'stroke-stone-500 dark:stroke-stone-300' },
+      { key: 'food', label: '食べ物', values: real.map(r => r.food), stroke: 'stroke-orange-500' },
+      { key: 'energy', label: 'エネルギー', values: real.map(r => r.energy), stroke: 'stroke-rose-600 dark:stroke-rose-400' },
+    ];
+    const priceTakeaway = `${indexYear} 年から ${realLast.year} 年で、物価全体は ${change(realLast.cpi)} ですが、食べ物は ${change(realLast.food)}、エネルギーは ${change(realLast.energy)} 上がりました。`;
+
+    return { breakdown, SCALE_PCT, PRICE_YEAR, DECILE_SCALE_PCT, fmtInt, signed,
+             earners, earnerYears: earners.map(e => e.year), earnerGroups, earnerColors, earnersMax, earnerGridlines, earnersTakeaway, headChange,
+             ageOf, deciles, decileRows, decileTakeaway, hardest, HARDEST_COUNT, ages, ageRows, ageLegend, ageTakeaway, AGE_SCALE_PCT, priceSeries, priceTakeaway, GRIDLINES, HIDDEN_SCALE_PCT, HIDDEN_GRIDLINES, indexYear, generated,
+             payslip, slipYears: payslip.map(s => s.year), slipGroups, slipColors, slipFirst, slipLast, slipDiff, slipTakeaway,
+             burden, burdenYears: burden.map(b => b.year), burdenGroups, burdenColors, burdenEstimateYear, burdenTakeaway, burdenEstimateNote,
+             hidden, hiddenYears: hidden.map(h => h.year), hiddenGroups, hiddenColors, hiddenTakeaway, incomeNote,
+             realYears, realSeries, realTakeaway };
+  },
+}).mount('#app');
+</script>
+</body>
+</html>

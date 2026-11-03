@@ -13,6 +13,7 @@ CONV_DIR = RAW_DIR / "conv"
 MAX_DOWNLOAD_BYTES = 100 * 1024 * 1024
 ESRI = "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files"
 ESTAT = "https://www.e-stat.go.jp/stat-search/file-download?statInfId={}&fileKind=0"
+ESTAT_CSV = "https://www.e-stat.go.jp/stat-search/file-download?statInfId={}&fileKind=1"
 
 # 家計調査 年次 第 2-8 表（2018 年から第 2-5 表）: 二人以上の世帯のうち勤労者世帯、年間収入十分位階級別
 KAKEI_DECILE_IDS = {
@@ -25,6 +26,16 @@ KAKEI_DECILE_IDS = {
     2024: "000040247071", 2025: "000040409528",
 }
 KAKEI_XLSX_YEARS = {2000} | set(range(2020, 2026))
+# 家計調査 年次 第 3-2 表: 世帯主の年齢階級別（勤労者世帯のシートを使う）
+KAKEI_AGE_IDS = {
+    2000: "0000003319E0", 2001: "000000331A1B", 2002: "000000331A58", 2003: "000000331A91",
+    2004: "000000331ACA", 2005: "000000331B03", 2006: "000000331D55", 2007: "000001158891",
+    2008: "000002209380", 2009: "000007370316", 2010: "000008635815", 2011: "000012687856",
+    2012: "000019023706", 2013: "000023621361", 2014: "000028352450", 2015: "000031370116",
+    2016: "000031534679", 2017: "000031674321", 2018: "000031795455", 2019: "000031909542",
+    2020: "000032048822", 2021: "000032167618", 2022: "000040015248", 2023: "000040140545",
+    2024: "000040247076", 2025: "000040409533",
+}
 
 
 def sources():
@@ -35,8 +46,17 @@ def sources():
     for year, stat_id in KAKEI_DECILE_IDS.items():
         ext = "xlsx" if year in KAKEI_XLSX_YEARS else "xls"
         yield f"kakei/kakei_decile_worker_{year}.{ext}", ESTAT.format(stat_id)
+    for year, stat_id in KAKEI_AGE_IDS.items():
+        ext = "xlsx" if year in KAKEI_XLSX_YEARS else "xls"
+        yield f"kakei/kakei_age_worker_{year}.{ext}", ESTAT.format(stat_id)
     yield ("kakei/kakei_quintile_worker_nonfarm_1976-2007_20-07-c.xls",
            "https://www.stat.go.jp/data/kakei/longtime/zuhyou/20-07-c.xls")
+    yield "esri/social_contributions_2020base_2024.xlsx", f"{ESRI}/2024/tables/2024s10_jp.xlsx"
+    yield "cpi/cpi_2020base_calendar_year.csv", ESTAT_CSV.format("000032103936")
+    yield "mof/tax_revenue_general_account.xls", "https://www.mof.go.jp/tax_policy/summary/condition/zeisyu.xls"
+    yield ("soumu/local_tax_by_item_r08.xlsx",
+           "https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/xls/ichiran06_r08/10.xlsx")
+    yield "maikin/real_wage_index_hon-t25.xls", ESTAT.format("000032189738").replace("fileKind=0", "fileKind=4")
 
 
 def usable(path):

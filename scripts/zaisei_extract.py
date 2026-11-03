@@ -3,6 +3,10 @@
   spending_by_function.csv  一般政府（国・地方・社会保障基金）の機能別支出（COFOG）と利払い、10 億円
   burden_ratio.csv          国民負担率（対国民所得比）の推移、%
   household_by_income.csv   家計調査 勤労者世帯の年間収入階級別、円/月
+  social_contributions.csv  社会保障負担の雇主（会社）と家計の分、10 億円、年度
+  consumption_tax.csv       消費税収（国の一般会計と地方消費税）、億円、年度
+  prices_wages.csv          消費者物価指数（総合・食料・エネルギー）と実質賃金指数、2020 年＝100、暦年
+  household_by_age.csv      家計調査 勤労者世帯の世帯主の年齢階級別（10 歳刻み）、円/月など
 """
 import csv, re, subprocess, unicodedata
 from config import ROOT
@@ -89,7 +93,7 @@ def burden():
     return BURDEN_HEADER, rows
 
 
-KAKEI_ITEMS = ["年間収入_万円", "実収入", "勤め先収入", "非消費支出", "直接税", "勤労所得税", "個人住民税", "他の税",
+KAKEI_ITEMS = ["年間収入_万円", "実収入", "勤め先収入", "世帯主収入", "世帯主の配偶者の収入", "他の世帯員収入", "非消費支出", "直接税", "勤労所得税", "個人住民税", "他の税",
                "社会保険料", "公的年金保険料", "健康保険料", "介護保険料", "他の社会保険料", "他の非消費支出",
                "可処分所得", "消費支出"]
 DECILE_CLASSES = ["avg"] + [f"D{i:02d}" for i in range(1, 11)]
@@ -175,6 +179,131 @@ def household():
     return ["year", "income_class", "item", "yen_per_month"], [[y, c, i, int(v) if float(v).is_integer() else v] for y, c, i, v in rows]
 
 
+def social_contributions():
+    _, rows = next(iter(read(RAW_DIR / "esri" / "social_contributions_2020base_2024.xlsx")))
+    total = next(r for r in rows if squeeze(str(r[0])) == "合計")
+    out = [[year, total[j - 1], total[j], total[j + 1]] for j, c in enumerate(rows[2]) if (year := fiscal_year_of(c))]
+    return ["fiscal_year", "employer_billion_yen", "household_billion_yen", "total_billion_yen"], out
+
+
+ERA_START = {"昭和": 1925, "平成": 1988, "令和": 2018}
+FIRST_LOCAL_CONSUMPTION_TAX_FULL_YEAR = 1998
+
+
+def era_year(cell):
+    m = re.match(r"(昭和|平成|令和)(\d+|元)年度", nfkc(squeeze(str(cell or ""))))
+    return ERA_START[m.group(1)] + (1 if m.group(2) == "元" else int(m.group(2))) if m else None
+
+
+def local_consumption_tax():
+    """地方消費税（道府県の収入額、交付金を控除する前）、億円。"""
+    out = {}
+    for _, rows in read(RAW_DIR / "soumu" / "local_tax_by_item_r08.xlsx"):
+        row = next((r for r in rows if len(r) > 1 and squeeze(str(r[1])) == "地方消費税"), None)
+        if row is None:
+            continue
+        for j, c in enumerate(rows[2]):
+            if (year := era_year(c)) and isinstance(row[j], float):
+                out[year] = round(row[j] / 100, 1)
+    return out
+
+
+def consumption_tax():
+    _, rows = next(iter(read(CONV_DIR / "tax_revenue_general_account.xlsx")))
+    national = {int(r[3]): r[7] for r in rows if len(r) > 7 and isinstance(r[3], float) and isinstance(r[7], float)}
+    local = local_consumption_tax()
+    out = [[y, national[y], local.get(y, "") if y >= FIRST_LOCAL_CONSUMPTION_TAX_FULL_YEAR else ""] for y in sorted(national) if y >= OLD_BASE_YEARS[0]]
+    return ["fiscal_year", "national_100m_yen", "local_100m_yen"], out
+
+
+CPI_COLUMNS = {"cpi_2020base": "総合", "cpi_food_2020base": "食料", "cpi_energy_2020base": "エネルギー"}
+
+
+def cpi():
+    """{年: {列名: 指数}}。列は見出しの名前で探す。"""
+    text = (RAW_DIR / "cpi" / "cpi_2020base_calendar_year.csv").read_bytes().decode("shift_jis")
+    lines = list(csv.reader(text.splitlines()))
+    header = [c.strip() for c in lines[0]]
+    cols = {key: header.index(name) for key, name in CPI_COLUMNS.items()}
+    return {int(line[0]): {key: float(line[j]) for key, j in cols.items()}
+            for line in lines if line and re.fullmatch(r"\d{4}", line[0].strip())}
+
+
+def real_wage():
+    rows = next(rows for name, rows in read(CONV_DIR / "real_wage_index_hon-t25.xlsx") if name == "TL")
+    out = {}
+    for r in rows:
+        if isinstance(r[0], float) and isinstance(r[1], float):
+            out.setdefault(int(r[0]), r[1])
+    return out
+
+
+def prices_wages():
+    prices, wages = cpi(), real_wage()
+    years = [y for y in sorted(prices) if y >= OLD_BASE_YEARS[0]]
+    return (["year", *CPI_COLUMNS, "real_wage_index_2020base"],
+            [[y, *(prices[y][k] for k in CPI_COLUMNS), wages.get(y, "")] for y in years])
+
+
+AGE_ITEMS = ["世帯数分布", "世帯主の年齢", "有業人員", "実収入", "勤め先収入", "世帯主収入", "世帯主の配偶者の収入", "可処分所得"]
+AGE_CLASSES = {"平均": "avg", "～29": "-29", "30～39": "30-39", "40～49": "40-49", "50～59": "50-59", "60～69": "60-69", "70～": "70-"}
+AGE_LABEL = re.compile(r"(\d+歳～|～?\d+(?:～\d+)?)")
+
+
+def age_class(cell):
+    text = nfkc(squeeze(str(cell or ""))).replace("(再掲)", "").replace("~", "～")
+    if text == "平均":
+        return "avg"
+    m = AGE_LABEL.match(text)
+    return AGE_CLASSES.get(m.group(1).replace("歳", "")) if m else None
+
+
+def age_sheet(path):
+    for name, rows in read(path):
+        if "勤労" in name and "万" not in name:
+            return rows
+    raise ValueError(f"勤労者世帯のシートがない: {path}")
+
+
+def age_item(row, label_end):
+    for c in row[:label_end]:
+        base = re.sub(r"[(（].*?[)）]", "", FURIGANA_TAIL.sub("", squeeze(c))) if isinstance(c, str) else ""
+        for item in AGE_ITEMS:
+            if base == item or (item == "世帯数分布" and base.startswith(item)):
+                return item
+    return None
+
+
+def age_year(year, path):
+    rows = age_sheet(path)
+    header = next(r for r in rows[:15] if any(squeeze(str(c)) == "平均" for c in r if isinstance(c, str)))
+    cols = {}
+    for j, c in enumerate(header):
+        if (cls := age_class(c)) and cls not in cols:
+            cols[cls] = j
+    label_end = cols["avg"]
+    found = {}
+    for r in rows:
+        if (item := age_item(r, label_end)) and item not in found:
+            found[item] = r
+    return [(year, cls, item, found[item][j]) for item in AGE_ITEMS if item in found for cls, j in cols.items()]
+
+
+def age_paths():
+    paths = {}
+    for directory in (RAW_DIR / "kakei", CONV_DIR):
+        for p in sorted(directory.glob("kakei_age_worker_*.xlsx")):
+            paths.setdefault(int(p.stem.rsplit("_", 1)[1]), p)
+    return dict(sorted(paths.items()))
+
+
+def household_by_age():
+    rows = [row for year, path in age_paths().items() for row in age_year(year, path)]
+    order = list(AGE_CLASSES.values())
+    rows.sort(key=lambda x: (x[0], order.index(x[1]), AGE_ITEMS.index(x[2])))
+    return ["year", "age_class", "item", "value"], [[y, c, i, int(v) if float(v).is_integer() else v] for y, c, i, v in rows]
+
+
 def write(name, header, rows):
     OUT_DIR.mkdir(exist_ok=True)
     with open(OUT_DIR / name, "w", newline="", encoding="utf-8") as f:
@@ -188,6 +317,10 @@ def main():
     write("spending_by_function.csv", *spending())
     write("burden_ratio.csv", *burden())
     write("household_by_income.csv", *household())
+    write("social_contributions.csv", *social_contributions())
+    write("consumption_tax.csv", *consumption_tax())
+    write("prices_wages.csv", *prices_wages())
+    write("household_by_age.csv", *household_by_age())
 
 
 if __name__ == "__main__":
