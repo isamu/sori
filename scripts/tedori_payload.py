@@ -176,6 +176,7 @@ def age_changes(age_rows, price_rows):
             "average": change(AVERAGE_CLASS),
             "reweighted": {key: reweighted_change(cells, cpi, first, last, item) for key, item in AGE_VALUES.items()},
             "age": {"first": cells[(first, AVERAGE_CLASS)]["世帯主の年齢"], "last": cells[(last, AVERAGE_CLASS)]["世帯主の年齢"]},
+            "workers": {"first": cells[(first, AVERAGE_CLASS)]["有業人員"], "last": cells[(last, AVERAGE_CLASS)]["有業人員"]},
             "sixties_share": {key: round(sum(cells[(y, c)][SHARE_ITEM] for c in ("60-69", "70-")) / 100, PCT_DECIMALS)
                               for key, y in (("first", first), ("last", last))}}
 

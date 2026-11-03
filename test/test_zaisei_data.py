@@ -164,9 +164,22 @@ SOURCE_VALUES = {
     ("spending_by_function.csv", ("1995", "2000年基準", "10"), "billion_yen"): 46648.0,
     ("spending_by_function.csv", ("2024", "2020年基準", "10"), "billion_yen"): 99742.8,
     ("spending_by_function.csv", ("2024", "2020年基準", "interest"), "billion_yen"): 9375.1,
+    ("household_by_income.csv", ("2025", "avg", "世帯主収入"), "yen_per_month"): 470986,
+    ("household_by_income.csv", ("2025", "avg", "世帯主の配偶者の収入"), "yen_per_month"): 107549,
+    ("social_contributions.csv", ("2000",), "employer_billion_yen"): 22458.2,
+    ("social_contributions.csv", ("2000",), "household_billion_yen"): 25512.8,
+    ("consumption_tax.csv", ("2000",), "national_100m_yen"): 98221.0,
+    # 地方消費税 is in 百万円 in the source (2,528,247), stored in 億円.
+    ("consumption_tax.csv", ("2000",), "local_100m_yen"): 25282.5,
+    ("prices_wages.csv", ("2025",), "cpi_2020base"): 111.9,
+    ("prices_wages.csv", ("2025",), "cpi_food_2020base"): 125.8,
+    ("prices_wages.csv", ("2025",), "cpi_energy_2020base"): 123.0,
+    ("prices_wages.csv", ("2000",), "real_wage_index_2020base"): 113.9,
+    ("household_by_age.csv", ("2025", "40-49", "世帯主収入"), "value"): 538091,
 }
 KEY_COLUMNS = {"burden_ratio.csv": ["fiscal_year"], "household_by_income.csv": ["year", "income_class", "item"],
-               "spending_by_function.csv": ["fiscal_year", "sna_base", "cofog_code"]}
+               "spending_by_function.csv": ["fiscal_year", "sna_base", "cofog_code"], "social_contributions.csv": ["fiscal_year"],
+               "consumption_tax.csv": ["fiscal_year"], "prices_wages.csv": ["year"], "household_by_age.csv": ["year", "age_class", "item"]}
 
 
 class SourceValueTest(unittest.TestCase):

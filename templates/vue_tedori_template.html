@@ -39,7 +39,7 @@
 
   <section class="mt-8" aria-labelledby="s1">
     <h2 id="s1" class="text-lg font-semibold">1. 給料明細で引かれる割合は、少ししか増えていない</h2>
-    <p class="mt-2">働く世帯の収入のうち、税と社会保険料に引かれる割合です（勤労者世帯の平均）。1 本の棒が 1 年分で、縦は 0〜{{ SCALE_PCT }}%。次の図と同じ目盛りにしてあります。</p>
+    <p class="mt-2">働く世帯の収入のうち、税と社会保険料に引かれる割合です（勤労者世帯の平均）。1 本の棒が 1 年分で、縦は 0〜{{ SCALE_PCT }}%。次の図と同じ目盛りにしてありますが、割り算の分母（世帯の収入と、国全体の所得）が違うので、高さの差はあくまで目安です。</p>
     <stacked-columns class="mt-3" :years="slipYears" :series="payslip" :groups="slipGroups" :colors="slipColors" :labels="slipGroups"
       height-class="h-48" :max="SCALE_PCT" :gridlines="GRIDLINES" :break-year="2018" :tick-every="5"></stacked-columns>
     <legend-row :groups="slipGroups" :colors="slipColors"></legend-row>
@@ -58,8 +58,8 @@
   </section>
 
   <section class="mt-10" aria-labelledby="s3">
-    <h2 id="s3" class="text-lg font-semibold">3. 差を生んだのは、給料明細に出ない負担</h2>
-    <p class="mt-2">1 と 2 の差の多くは、給料明細に載らない負担です。ひとつは買い物のたびに払う消費税。もうひとつは会社が払う社会保険料で、働く人が払うのとほぼ同じ額を会社も別に納めていますが、給料の額面にも出てきません。国民所得に対する割合で並べました（縦は 0〜{{ HIDDEN_SCALE_PCT }}%）。</p>
+    <h2 id="s3" class="text-lg font-semibold">3. 給料明細に出ない負担が大きく増えた</h2>
+    <p class="mt-2">2 の国全体の負担のうち、給料明細には載らない負担を取り出しました（1 とは分母が違うので、1 と 2 の差をそのまま分解したものではありません）。ひとつは買い物のたびに払う消費税。もうひとつは会社が払う社会保険料で、働く人が払うのとほぼ同じ額を会社も別に納めていますが、給料の額面にも出てきません。国民所得に対する割合で並べました（縦は 0〜{{ HIDDEN_SCALE_PCT }}%）。</p>
     <stacked-columns class="mt-3" :years="hiddenYears" :series="hidden" :groups="hiddenGroups" :colors="hiddenColors" :labels="hiddenGroups"
       height-class="h-40" :max="HIDDEN_SCALE_PCT" :gridlines="HIDDEN_GRIDLINES" :tick-every="5"></stacked-columns>
     <legend-row :groups="hiddenGroups" :colors="hiddenColors"></legend-row>
@@ -72,7 +72,7 @@
     <p class="mt-2">{{ indexYear }} 年を 100 として、手取りと物価、物価を差し引いた手取り、1 人あたりの実質賃金を線で並べました。100 より下なら {{ indexYear }} 年より少ないということです。</p>
     <line-chart class="mt-3" :years="realYears" :series="realSeries" :base="100"></line-chart>
     <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ realTakeaway }}</p>
-    <p class="mt-3 text-sm text-muted dark:text-mutedd">世帯の手取りが 1 人あたりの賃金ほど落ちていないのは、共働きが増えて世帯の稼ぎ手が増えたためと考えられます。1 人あたりの実質賃金には、パートなど短い時間で働く人が増えて平均が下がった影響も入っています。</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">世帯の手取りが 1 人あたりの賃金ほど落ちていないのは、世帯で働く人が増えたためと考えられます（勤労者世帯の働く人の数は平均 {{ ages.workers.first }} 人から {{ ages.workers.last }} 人）。1 人あたりの実質賃金には、パートなど短い時間で働く人が増えて平均が下がった影響も入っている可能性があります（このページのデータでは確かめていません）。</p>
   </section>
 
   <section class="mt-10" aria-labelledby="s5">
@@ -118,14 +118,14 @@
 
     <h3 class="mt-6 font-semibold">変わっていないのは誰か</h3>
     <ul class="mt-2 list-disc space-y-1.5 pl-5">
-      <li><b>共働きの世帯全体。</b>配偶者の稼ぎが増えたぶんで、世帯の実質の手取りはほぼ保たれています。ただし、そのぶん働く時間は増えています。</li>
+      <li><b>共働きの世帯全体。</b>配偶者の稼ぎが増えたぶんで、世帯の実質の手取りはほぼ保たれています。ただし、働く人が増えたぶん、世帯として働く時間は増えていると考えられます（働く時間はこのデータにはありません）。</li>
       <li><b>年収のいちばん低い段階と、いちばん高い段階。</b>物価を差し引いた手取りはほぼ横ばいか、少し増えています。理由はこのデータからは分かりません。</li>
-      <li><b>60 代で働き続ける世帯主。</b>稼ぎは物価を差し引いても {{ signed(ageOf('60-69').head) }}% で、年齢層の中で唯一増えました。定年の延長や再雇用で、60 代もしっかり働く人が増えたためと考えられます。世帯主の平均年齢を押し上げているのも、この層です。</li>
+      <li><b>60 代で働き続ける世帯主。</b>稼ぎは物価を差し引いても {{ signed(ageOf('60-69').head) }}% で、年齢層の中で唯一増えました。定年の延長や再雇用で、60 代でもしっかり働く人が増えた可能性があります（このデータだけでは確かめられません）。60 歳以上の世帯主が増えたことが、世帯主の平均年齢を押し上げています。</li>
     </ul>
 
     <h3 class="mt-6 font-semibold">世の中はどう変わったのか</h3>
     <ul class="mt-2 list-disc space-y-1.5 pl-5">
-      <li><b>「1 人の稼ぎで家族を養う」から「共働きで同じ暮らしを保つ」へ。</b>世帯の収入は同じでも、同じ暮らしに前より多くの働き手と時間が要るようになりました。</li>
+      <li><b>「1 人の稼ぎで家族を養う」から「共働きで同じ暮らしを保つ」へ。</b>世帯の手取りはほぼ同じでも、勤労者世帯の働く人の数は平均 {{ ages.workers.first }} 人から {{ ages.workers.last }} 人に増えました。同じ暮らしに、前より多くの働き手が要るようになっています。</li>
       <li><b>負担は、見えにくいところで増えた。</b>給料明細で増えたのは社会保険料の数ポイントですが、国全体では消費税と会社負担の社会保険料が大きく増えました。社会保険料の多くは、高齢化で増える年金・医療・介護に回っています（<a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="zaisei.html">税と保険料の 100 円</a>）。</li>
       <li><b>生活に欠かせない物ほど高くなった。</b>平均の物価より、毎日買う食べ物とエネルギーの値上がりが大きく、体感の物価は平均より高くなります。</li>
     </ul>
@@ -137,7 +137,7 @@
     <dl class="mt-3 space-y-3">
       <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
         <dt class="font-semibold">違う部分</dt>
-        <dd class="mt-1">給料からの天引きが「激増」したわけではありません。{{ slipFirst.year }} 年から {{ slipLast.year }} 年で、収入に対して {{ slipDiff }} ポイントの増加です。また、給料の目減りは世帯主の高齢化のせいではありません（同じ年代どうしで比べても減っています）。</dd>
+        <dd class="mt-1">給料からの天引きが「激増」したわけではありません。{{ slipFirst.year }} 年から {{ slipLast.year }} 年で、収入に対して {{ slipDiff }} ポイントの増加です。また、給料の目減りは世帯主の高齢化だけでは説明できません（一部は高齢化の影響ですが、同じ年代どうしで比べても減っています）。</dd>
       </div>
       <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
         <dt class="font-semibold">本当の部分</dt>
@@ -291,7 +291,7 @@ createApp({
     const hiddenGroups = [{ key: 'household', label: '社会保険料（働く人などが払う分）' }, { key: 'employer', label: '社会保険料（会社が払う分）' }, { key: 'consumption_tax', label: '消費税（国と地方）' }];
     const hiddenColors = { household: 'bg-sky-300 dark:bg-sky-700', employer: 'bg-indigo-500', consumption_tax: 'bg-rose-500' };
     const hiddenFirst = first(hidden), hiddenLast = last(hidden);
-    const hiddenTakeaway = `${hiddenFirst.year} 年度から ${hiddenLast.year} 年度で、国民所得に対して消費税は ${hiddenFirst.consumption_tax}% → ${hiddenLast.consumption_tax}%、会社が払う社会保険料は ${hiddenFirst.employer}% → ${hiddenLast.employer}% になりました。この 2 つだけで ${points(hiddenFirst.consumption_tax + hiddenFirst.employer, hiddenLast.consumption_tax + hiddenLast.employer)}の増加で、どちらも給料明細には出てきません。`;
+    const hiddenTakeaway = `${hiddenFirst.year} 年度から ${hiddenLast.year} 年度で、国民所得に対して消費税は ${hiddenFirst.consumption_tax}% → ${hiddenLast.consumption_tax}%、会社が払う社会保険料は ${hiddenFirst.employer}% → ${hiddenLast.employer}% になりました。国民所得に対して、この 2 つを合わせて ${points(hiddenFirst.consumption_tax + hiddenFirst.employer, hiddenLast.consumption_tax + hiddenLast.employer)}の増加で、どちらも給料明細には出てきません。`;
     const incomeOf = DATA.nationalIncome;
     const incomeNote = `国民所得は ${incomeOf.first.year} 年度 ${incomeOf.first.trillion} 兆円、${incomeOf.last.year} 年度 ${incomeOf.last.trillion} 兆円`;
 

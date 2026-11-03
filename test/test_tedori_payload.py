@@ -135,7 +135,7 @@ def age_rows(year, head_by_class, shares):
     rows = []
     for cls in ["avg"] + AGE_CLASSES:
         head = head_by_class[cls]
-        items = {"世帯数分布": shares.get(cls, 10000), "世帯主の年齢": 50, "世帯主収入": head, "世帯主の配偶者の収入": head / 10, "可処分所得": head}
+        items = {"世帯数分布": shares.get(cls, 10000), "世帯主の年齢": 50, "有業人員": 1.5 + (year - INDEX_YEAR) / 100, "世帯主収入": head, "世帯主の配偶者の収入": head / 10, "可処分所得": head}
         rows += [{"year": str(year), "age_class": cls, "item": k, "value": str(v)} for k, v in items.items()]
     return rows
 
@@ -158,6 +158,7 @@ class AgeChangesTest(unittest.TestCase):
         self.assertEqual(out["average"]["head"], 0.0)
         self.assertEqual(out["reweighted"]["takehome"], 0.0)
         self.assertEqual(out["cpi_change"], 10.0)
+        self.assertEqual(out["workers"], {"first": 1.5, "last": 1.6})
         self.assertEqual({c["head_nominal"] for c in out["classes"]}, {10.0})
         self.assertIsNone(age_changes(age_rows(INDEX_YEAR, {c: 1 for c in ["avg"] + AGE_CLASSES}, {}), price_rows([INDEX_YEAR])))
         self.assertIsNone(age_changes([], []))
