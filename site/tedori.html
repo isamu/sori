@@ -177,11 +177,13 @@ const DATA = {"payslip":[{"year":1995,"takehome_yen":482174.0,"deducted_pct":15.
 const { createApp, computed, ref, onMounted, onBeforeUnmount } = Vue;
 
 // One 100% column per year, stacked bottom-up in `groups` order; the column at breakYear gets a dashed left edge.
+// The bars are hidden from assistive technology; a visually hidden table carries every year's values instead.
 const StackedColumns = {
   props: { years: Array, series: Array, groups: Array, colors: Object, labels: Array, heightClass: String, breakYear: Number,
            tickEvery: { type: Number, default: 0 }, max: { type: Number, default: 100 }, gridlines: { type: Array, default: () => [] }, unit: { type: String, default: '%' } },
   setup(props) {
     const nameOf = Object.fromEntries(props.labels.map(g => [g.key, g.label]));
+    const tableGroups = computed(() => props.groups.slice().reverse());
     const columns = computed(() => props.years.map((year, i) => ({
       year, shares: props.series[i],
       title: `${year}年: ` + props.groups.slice().reverse().map(g => `${nameOf[g.key]} ${props.series[i][g.key].toFixed(1)}${props.unit}`).join('、'),
@@ -189,17 +191,21 @@ const StackedColumns = {
     const showTick = (year, i) => i === 0 || i === props.years.length - 1 || (props.tickEvery && year % props.tickEvery === 0 && props.years.length - 1 - i >= 2 && i >= 3);
     const tickAlign = i => (i === 0 ? 'left-0' : i === props.years.length - 1 ? 'right-0' : 'left-1/2 -translate-x-1/2');
     const pct = v => (100 * v) / props.max + '%';
-    return { columns, showTick, tickAlign, pct };
+    return { columns, showTick, tickAlign, pct, nameOf, tableGroups };
   },
   template: `<div>
-    <div class="relative flex items-stretch gap-px" :class="heightClass" role="img" :aria-label="columns[0].title + ' … ' + columns[columns.length - 1].title">
+    <table class="sr-only">
+      <thead><tr><th scope="col">年</th><th v-for="g in tableGroups" :key="'th-' + g.key" scope="col">{{ nameOf[g.key] }}</th></tr></thead>
+      <tbody><tr v-for="col in columns" :key="'tr-' + col.year"><th scope="row">{{ col.year }}</th><td v-for="g in tableGroups" :key="'td-' + col.year + g.key">{{ col.shares[g.key].toFixed(1) }}{{ unit }}</td></tr></tbody>
+    </table>
+    <div class="relative flex items-stretch gap-px" :class="heightClass" aria-hidden="true">
       <div v-for="col in columns" :key="col.year" :title="col.title" class="flex flex-1 flex-col-reverse"
         :class="col.year === breakYear ? 'border-l border-dashed border-ink pl-px dark:border-inkd' : ''">
         <span v-for="g in groups" :key="col.year + g.key" :class="colors[g.key]" :style="{ height: pct(col.shares[g.key]) }"></span>
       </div>
       <i v-for="v in gridlines" :key="'grid-' + v" class="pointer-events-none absolute inset-x-0 border-t border-dashed border-ink/40 dark:border-inkd/40" :style="{ bottom: pct(v) }"></i>
     </div>
-    <div class="mt-1 flex gap-px text-[10px] tabular-nums text-muted dark:text-mutedd">
+    <div class="mt-1 flex gap-px text-[10px] tabular-nums text-muted dark:text-mutedd" aria-hidden="true">
       <span v-for="(col, i) in columns" :key="'tick-' + col.year" class="relative flex-1"><span v-if="showTick(col.year, i)" class="absolute whitespace-nowrap" :class="tickAlign(i)">{{ col.year }}</span></span>
     </div>
   </div>`,
@@ -228,11 +234,11 @@ const ChangeBars = {
       <li v-for="r in rows" :key="r.id" class="grid grid-cols-[7.5rem_1fr_3.5rem] items-center gap-x-2 gap-y-0.5 text-sm">
         <template v-for="(v, i) in r.values" :key="r.id + v.key">
           <span class="tabular-nums" :class="i ? 'text-xs text-muted dark:text-mutedd' : ''">{{ i ? '' : r.label }}</span>
-          <span class="relative h-4">
+          <span class="relative h-4" aria-hidden="true">
             <i class="absolute inset-y-0 left-1/2 border-l border-ink dark:border-inkd"></i>
             <i class="absolute inset-y-0.5 rounded-sm" :class="v.value < 0 ? v.negative : v.positive" :style="bar(v.value)"></i>
           </span>
-          <span class="text-right tabular-nums" :class="v.value < 0 ? 'text-rose-600 dark:text-rose-400' : ''">{{ signed(v.value) }}%</span>
+          <span class="text-right tabular-nums" :class="v.value < 0 ? 'text-rose-600 dark:text-rose-400' : ''"><span class="sr-only">{{ r.label }} {{ v.label }} </span>{{ signed(v.value) }}%</span>
         </template>
       </li>
     </ul>
@@ -246,6 +252,7 @@ const ChangeBars = {
 const CHART_H = 240, PAD = { left: 36, right: 12, top: 12, bottom: 24 }, Y_STEP = 10;
 
 // Lines over years on a shared y-axis rounded out to Y_STEP, with a dashed line at `base`. Drawn at the figure's real width so labels keep their size on phones.
+// The SVG is hidden from assistive technology; a visually hidden table carries every year's values.
 const LineChart = {
   props: { years: Array, series: Array, base: Number },
   setup(props) {
@@ -262,11 +269,14 @@ const LineChart = {
     const ticks = computed(() => Array.from({ length: (yMax.value - yMin.value) / Y_STEP + 1 }, (_, i) => yMin.value + i * Y_STEP));
     const points = s => s.values.map((v, i) => `${x(i)},${y(v)}`).join(' ');
     const yearTicks = computed(() => props.years.map((year, i) => ({ year, i })).filter(t => t.i === 0 || t.i === props.years.length - 1 || t.year % 5 === 0));
-    const label = computed(() => props.series.map(s => `${s.label}: ${props.years[0]}年 ${s.values[0]} → ${props.years[props.years.length - 1]}年 ${s.values[s.values.length - 1]}`).join('、'));
-    return { figure, width, CHART_H, PAD, x, y, ticks, points, yearTicks, label };
+    return { figure, width, CHART_H, PAD, x, y, ticks, points, yearTicks };
   },
   template: `<figure ref="figure" class="m-0">
-    <svg :viewBox="'0 0 ' + width + ' ' + CHART_H" :height="CHART_H" class="w-full" role="img" :aria-label="label">
+    <table class="sr-only">
+      <thead><tr><th scope="col">年</th><th v-for="s in series" :key="'th-' + s.key" scope="col">{{ s.label }}</th></tr></thead>
+      <tbody><tr v-for="(year, i) in years" :key="'tr-' + year"><th scope="row">{{ year }}</th><td v-for="s in series" :key="'td-' + year + s.key">{{ s.values[i] }}</td></tr></tbody>
+    </table>
+    <svg :viewBox="'0 0 ' + width + ' ' + CHART_H" :height="CHART_H" class="w-full" aria-hidden="true">
       <g v-for="t in ticks" :key="'y' + t">
         <line :x1="PAD.left" :x2="width - PAD.right" :y1="y(t)" :y2="y(t)" :stroke-dasharray="t === base ? '4 3' : null" :class="t === base ? 'stroke-ink dark:stroke-inkd' : 'stroke-rule dark:stroke-ruled'" />
         <text :x="PAD.left - 6" :y="y(t) + 4" text-anchor="end" class="fill-muted text-[11px] dark:fill-mutedd">{{ t }}</text>
@@ -341,13 +351,13 @@ createApp({
     const earnersTakeaway = `世帯主の稼ぎは ${earnFirst.year} 年の月 ${earnFirst.head} 万円から ${earnLast.year} 年の ${earnLast.head} 万円へ（${signed(headChange)}%）。配偶者の稼ぎは ${earnFirst.spouse} 万円から ${earnLast.spouse} 万円に増え、世帯の合計は ${r1(earnerTotal(earnFirst))} 万円から ${r1(earnerTotal(earnLast))} 万円です。`;
 
     const decileRows = deciles.classes.map(c => ({ id: c.id, label: `年収 ${fmtInt(c.income_last)} 万円`,
-      values: [{ key: 'takehome', value: c.real_change, negative: 'bg-rose-500', positive: 'bg-emerald-500' }] }));
+      values: [{ key: 'takehome', label: '物価を差し引いた手取り', value: c.real_change, negative: 'bg-rose-500', positive: 'bg-emerald-500' }] }));
 
     const { ages } = DATA;
     const ageLabel = id => (id.endsWith('-') ? `${id.slice(0, -1)} 歳以上` : `${id.replace('-', '〜')} 歳`);
     const ageValues = a => [
-      { key: 'head', value: a.head, negative: 'bg-rose-500', positive: 'bg-emerald-500' },
-      { key: 'takehome', value: a.takehome, negative: 'bg-rose-300 dark:bg-rose-800', positive: 'bg-emerald-300 dark:bg-emerald-800' },
+      { key: 'head', label: '世帯主の稼ぎ', value: a.head, negative: 'bg-rose-500', positive: 'bg-emerald-500' },
+      { key: 'takehome', label: '世帯の手取り', value: a.takehome, negative: 'bg-rose-300 dark:bg-rose-800', positive: 'bg-emerald-300 dark:bg-emerald-800' },
     ];
     const ageRows = [
       ...ages.classes.map(c => ({ id: c.id, label: `世帯主 ${ageLabel(c.id)}`, values: ageValues(c) })),

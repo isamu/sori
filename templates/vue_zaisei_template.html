@@ -9,12 +9,12 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="総理の１年">
 <meta property="og:title" content="税と保険料の100円">
-<meta property="og:description" content="給料100円から引かれるものと、集めた100円の使い道を、100個のマスで。">
+<meta property="og:description" content="給料100円から引かれるものと、政府全体が使った100円の内訳を、100個のマスで。">
 <meta property="og:url" content="https://isamu.github.io/sori/zaisei.html">
 <meta property="og:locale" content="ja_JP">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="税と保険料の100円">
-<meta name="twitter:description" content="給料100円から引かれるものと、集めた100円の使い道を、100個のマスで。">
+<meta name="twitter:description" content="給料100円から引かれるものと、政府全体が使った100円の内訳を、100個のマスで。">
 <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 <style type="text/tailwindcss">
 /* Tailwind theme only: paper and ink tokens shared with the other pages, and the typeface. */
@@ -34,7 +34,7 @@
 
   <header class="border-b border-rule pb-4 dark:border-ruled">
     <h1 class="text-2xl font-semibold leading-tight">税と保険料の 100 円</h1>
-    <p class="mt-2 text-muted dark:text-mutedd">働く世帯の収入 100 円から、税と社会保険料にいくら引かれるか。そして、国・地方・年金や医療の保険を合わせた政府全体に集まったお金を 100 円とすると、何に使われているか。最新の年は 100 個のマスで数え、昔からの変化は 1 年 1 本の棒で見比べられるようにしました。</p>
+    <p class="mt-2 text-muted dark:text-mutedd">働く世帯の収入 100 円から、税と社会保険料にいくら引かれるか。そして、国・地方・年金や医療の保険を合わせた政府全体が使ったお金（借金の利子を含む）を 100 円とすると、何に使われているか。最新の年は 100 個のマスで数え、昔からの変化は 1 年 1 本の棒で見比べられるようにしました。</p>
   </header>
 
   <section class="mt-8" aria-labelledby="pay-title">
@@ -67,7 +67,8 @@
     <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ payTrendTakeaway }}</p>
 
     <ul class="mt-4 list-disc space-y-1 pl-5 text-sm text-muted dark:text-mutedd">
-      <li>社会保険料は、会社も同じくらいの額を別に払っています。ここに入っているのは働く人の給料から引かれる分だけです。</li>
+      <li>社会保険料は、会社も同じかそれ以上の額を別に払っています（年金・医療・介護は折半、雇用保険などは会社のほうが多い）。ここに入っているのは働く人の給料から引かれる分だけです。</li>
+      <li>「医療・介護などの保険料」には、雇用保険料などの「他の社会保険料」も含めています。</li>
       <li>買い物のたびにかかる消費税は入っていません。</li>
       <li>総務省「家計調査」の、二人以上の世帯のうち働く人のいる世帯（勤労者世帯）。年収は世帯の 1 年間の収入で、毎年、全体を 10 段階に分けた各段階の平均です。収入は世帯全員の 1 か月の収入（実収入）。100 マスの図は、合計が 100 円になるように 1 円単位で丸めています。</li>
       <li>2018 年に調査の方法が変わったので、棒のあいだに点線を引いています。それより前と後は厳密には比べられません。2024 年は所得税と住民税の定額減税があった年です。</li>
@@ -75,7 +76,7 @@
   </section>
 
   <section class="mt-12" aria-labelledby="spend-title">
-    <h2 id="spend-title" class="text-xl font-semibold">使う: 集めた 100 円は何に使われる？</h2>
+    <h2 id="spend-title" class="text-xl font-semibold">使う: 政府全体が使った 100 円の内訳</h2>
     <p class="mt-1 text-sm text-muted dark:text-mutedd">{{ spendLast.year }} 年度。使ったお金は全部で約 <span class="tabular-nums">{{ fmtInt(spendLast.total_trillion) }}</span> 兆円</p>
     <div class="mt-3 flex flex-wrap items-start gap-6">
       <hundred-grid :cells="spendLast.cells" :groups="spend.groups" :colors="spendColors" :label="spendGridLabel"></hundred-grid>

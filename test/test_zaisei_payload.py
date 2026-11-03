@@ -2,10 +2,12 @@ import random, sys, unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from zaisei_payload import (CELLS, LINK_YEAR, NEW_BASE, OLD_BASE, SPEND_GROUPS, pay_amounts, pay_payload, pay_years, shares_pct,
-                            household_cells, link_ratios, spending_amounts, spending_tables, spending_years, to_hundred)
+from zaisei_payload import (CELLS, LINK_YEAR, NEW_BASE, OLD_BASE, PAY_GROUPS, SPEND_GROUPS, pay_amounts, pay_payload, pay_years, shares_pct,
+                            household_cells, link_ratios, spending_amounts, spending_payload, spending_tables, spending_years, to_hundred)
 
 SEED = 20261103
+DATA_FILE = Path(__file__).resolve().parents[1] / "zaisei" / "spending_by_function.csv"
+FIRST_SPENDING_YEAR = 1995
 TRIALS = 2000
 
 
@@ -82,6 +84,11 @@ class SpendingTest(unittest.TestCase):
         self.assertEqual(old["interest"], 5.0)
         self.assertEqual(new["interest"], 7.0)
 
+    def test_year_missing_any_function_is_skipped(self):
+        rows = full_year(LINK_YEAR, NEW_BASE, 1.0, with_interest=True) + full_year(LINK_YEAR + 1, NEW_BASE, 1.0, with_interest=True)
+        rows = [r for r in rows if not (r["fiscal_year"] == str(LINK_YEAR + 1) and r["cofog_code"] == "4")]
+        self.assertEqual(spending_years(spending_tables(rows)), [LINK_YEAR])
+
     def test_year_without_interest_or_functions_is_skipped(self):
         self.assertEqual(spending_years(self.tables), [LINK_YEAR - 1, LINK_YEAR])
         tables = spending_tables(full_year(LINK_YEAR + 1, NEW_BASE, 1.0))
@@ -89,16 +96,50 @@ class SpendingTest(unittest.TestCase):
         self.assertEqual(spending_years(spending_tables([])), [])
 
 
+class SpendingPayloadTest(unittest.TestCase):
+    def test_payload_links_old_years_and_every_year_fills_100_cells(self):
+        rows = full_year(LINK_YEAR - 1, OLD_BASE, 1.0) + full_year(LINK_YEAR, OLD_BASE, 1.0)
+        rows += full_year(LINK_YEAR, NEW_BASE, 2.0, with_interest=True) + full_year(LINK_YEAR + 1, NEW_BASE, 3.0, with_interest=True)
+        rows.append(spending_row(LINK_YEAR - 1, NEW_BASE, "interest", 5.0))
+        payload = spending_payload(rows)
+        self.assertEqual([g["key"] for g in payload["groups"]], [k for k, _, _, _ in SPEND_GROUPS])
+        self.assertEqual(payload["linkYear"], LINK_YEAR)
+        self.assertEqual([(y["year"], y["linked"]) for y in payload["years"]], [(LINK_YEAR - 1, True), (LINK_YEAR, False), (LINK_YEAR + 1, False)])
+        for y in payload["years"]:
+            self.assertEqual(sum(y["cells"].values()), CELLS, y["year"])
+            self.assertAlmostEqual(sum(y["shares"].values()), 100, delta=0.1, msg=y["year"])
+            self.assertEqual(set(y["cells"]), {k for k, _, _, _ in SPEND_GROUPS}, y["year"])
+        self.assertEqual(payload["years"][1]["total_trillion"], round((2.0 * 55 + 7.0) / 1000, 1))
+
+    @unittest.skipUnless(DATA_FILE.exists(), "zaisei/spending_by_function.csv is missing")
+    def test_committed_data_gives_consecutive_years_from_1995(self):
+        import csv
+        with open(DATA_FILE, encoding="utf-8") as f:
+            payload = spending_payload(list(csv.DictReader(f)))
+        years = [y["year"] for y in payload["years"]]
+        self.assertEqual(years[0], FIRST_SPENDING_YEAR)
+        self.assertEqual(years, list(range(years[0], years[-1] + 1)))
+        self.assertTrue(all(sum(y["cells"].values()) == CELLS for y in payload["years"]))
+
+
 class PayTest(unittest.TestCase):
     def test_amounts_group_items_and_missing_items_count_as_zero(self):
         cell = {"公的年金保険料": 10, "健康保険料": 5, "介護保険料": 1, "個人住民税": 3, "勤労所得税": 2, "可処分所得": 79}
         self.assertEqual(pay_amounts(cell), {"pension": 10, "medical": 6, "resident": 3, "income": 2, "other": 0, "takehome": 79})
+        self.assertEqual(pay_amounts({**cell, "他の社会保険料": 2})["medical"], 8)
+        self.assertEqual(dict((k, label) for k, label, _ in PAY_GROUPS)["medical"], "医療・介護などの保険料")
 
-    def test_years_need_deciles_with_insurance_breakdown(self):
-        rows = [{"year": y, "income_class": c, "item": i, "yen_per_month": "1"}
-                for y, c, i in [("1999", "Q1", "実収入"), ("2000", "D01", "公的年金保険料"), ("2025", "D01", "公的年金保険料"),
-                                ("2010", "D01", "公的年金保険料"), ("2026", "avg", "公的年金保険料")]]
+    def test_years_need_every_decile_with_insurance_breakdown(self):
+        items = ["実収入", "可処分所得", "公的年金保険料"]
+        rows = [{"year": str(y), "income_class": f"D{i:02d}", "item": k, "yen_per_month": "1"}
+                for y in (2000, 2010, 2025) for i in range(1, 11) for k in items]
+        rows += [{"year": "1999", "income_class": "Q1", "item": "実収入", "yen_per_month": "1"},
+                 {"year": "2026", "income_class": "avg", "item": "公的年金保険料", "yen_per_month": "1"}]
         self.assertEqual(pay_years(household_cells(rows)), [2000, 2010, 2025])
+        missing_decile = [r for r in rows if not (r["year"] == "2010" and r["income_class"] == "D07")]
+        self.assertEqual(pay_years(household_cells(missing_decile)), [2000, 2025])
+        missing_item = [r for r in rows if not (r["year"] == "2025" and r["income_class"] == "D10" and r["item"] == "公的年金保険料")]
+        self.assertEqual(pay_years(household_cells(missing_item)), [2000, 2010])
         self.assertEqual(pay_years(household_cells([])), [])
 
     def test_payload_has_a_series_per_decile_and_a_grid_for_the_latest_year(self):

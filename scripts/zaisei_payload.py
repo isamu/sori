@@ -25,7 +25,7 @@ SPEND_GROUPS = [
 # (key, ページの名前, 足す家計調査の項目)。手取りを最後に置く
 PAY_GROUPS = [
     ("pension", "年金の保険料", ["公的年金保険料"]),
-    ("medical", "医療・介護の保険料", ["健康保険料", "介護保険料", "他の社会保険料"]),
+    ("medical", "医療・介護などの保険料", ["健康保険料", "介護保険料", "他の社会保険料"]),
     ("resident", "住民税", ["個人住民税"]),
     ("income", "所得税", ["勤労所得税"]),
     ("other", "その他の税など", ["他の税", "他の非消費支出"]),
@@ -91,11 +91,15 @@ def spending_amounts(tables, year, ratios):
     return {key: sum(value(c) for c in codes) for key, _, codes, _ in SPEND_GROUPS}
 
 
+FUNCTION_CODES = [c for _, _, codes, _ in SPEND_GROUPS for c in codes if c != "interest"]
+
+
 def spending_years(tables):
-    """利払いがあり、その年度に使う基準の表に 10 分類がそろう年度。"""
+    """利払いがあり、その年度に使う基準の表に使い道の分類が全部そろう年度。"""
     def complete(year):
         base = OLD_BASE if year < LINK_YEAR else NEW_BASE
-        return "interest" in tables.get((NEW_BASE, year), {}) and "10" in tables.get((base, year), {})
+        return ("interest" in tables.get((NEW_BASE, year), {})
+                and all(c in tables.get((base, year), {}) for c in FUNCTION_CODES))
 
     return sorted(y for y in {y for _, y in tables} if complete(y))
 
@@ -124,9 +128,13 @@ def pay_amounts(cell):
     return {key: sum(cell.get(item, 0.0) for item in items) for key, _, items in PAY_GROUPS}
 
 
+REQUIRED_PAY_ITEMS = ["実収入", "可処分所得", "公的年金保険料"]
+
+
 def pay_years(cells):
-    """十分位があり、社会保険料の内訳もそろう年。"""
-    return sorted({y for (y, c), v in cells.items() if c == DECILES[0] and "公的年金保険料" in v})
+    """十分位が 10 段階とも、社会保険料の内訳まで含めてそろう年。"""
+    years = {y for (y, _) in cells}
+    return sorted(y for y in years if all(all(item in cells.get((y, d), {}) for item in REQUIRED_PAY_ITEMS) for d in DECILES))
 
 
 def pay_class(cells, years, decile):
