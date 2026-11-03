@@ -1,6 +1,7 @@
 """xlsx を標準ライブラリだけで読む。read(path) が (シート名, 行のリスト) を返す。"""
 import re, sys, zipfile
 from xml.etree import ElementTree as ET
+from raw_format import zip_size_problem
 
 NS = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
 REL = "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id"
@@ -15,7 +16,13 @@ def col_index(ref):
 
 
 def read(path):
-    z = zipfile.ZipFile(path)
+    with zipfile.ZipFile(path) as z:
+        if problem := zip_size_problem(z.infolist()):
+            raise ValueError(f"{problem}: {path}")
+        yield from read_sheets(z)
+
+
+def read_sheets(z):
     shared = []
     if "xl/sharedStrings.xml" in z.namelist():
         root = ET.fromstring(z.read("xl/sharedStrings.xml"))
@@ -48,4 +55,3 @@ def read(path):
             if cells:
                 rows.append([cells.get(i) for i in range(max(cells) + 1)])
         yield name, rows
-
