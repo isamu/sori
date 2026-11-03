@@ -146,10 +146,10 @@ const StackedColumns = {
     return { columns, showTick, tickAlign, pct, nameOf, tableGroups };
   },
   template: `<div>
-    <table class="sr-only">
+    <div class="sr-only"><table>
       <thead><tr><th scope="col">年</th><th v-for="g in tableGroups" :key="'th-' + g.key" scope="col">{{ nameOf[g.key] }}</th></tr></thead>
       <tbody><tr v-for="col in columns" :key="'tr-' + col.year"><th scope="row">{{ col.year }}</th><td v-for="g in tableGroups" :key="'td-' + col.year + g.key">{{ col.shares[g.key].toFixed(1) }}%</td></tr></tbody>
-    </table>
+    </table></div>
     <div class="relative flex items-stretch gap-px" :class="heightClass" aria-hidden="true">
       <div v-for="col in columns" :key="col.year" :title="col.title" class="flex flex-1 flex-col-reverse"
         :class="col.year === breakYear ? 'border-l border-dashed border-ink pl-px dark:border-inkd' : ''">
