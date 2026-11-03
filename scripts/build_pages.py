@@ -106,7 +106,7 @@ def build_zaisei():
 
 def build_tedori():
     payload = tedori_payload(*(zaisei_rows(f"{name}.csv") for name in
-                               ("household_by_income", "burden_ratio", "social_contributions", "consumption_tax", "prices_wages")))
+                               ("household_by_income", "burden_ratio", "social_contributions", "consumption_tax", "prices_wages", "household_by_age")))
     payload["generated"] = datetime.date.today().isoformat()
     render("vue_tedori_template.html", payload, "tedori.html")
 

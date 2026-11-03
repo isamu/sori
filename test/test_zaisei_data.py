@@ -120,5 +120,36 @@ class PricesWagesTest(unittest.TestCase):
             self.assertEqual(float(data[INDEX_BASE_YEAR][column]), 100.0, column)
 
 
+AGE_CLASSES = ["-29", "30-39", "40-49", "50-59", "60-69", "70-"]
+AGE_ITEMS = ["世帯数分布", "世帯主の年齢", "有業人員", "実収入", "勤め先収入", "世帯主収入", "世帯主の配偶者の収入", "可処分所得"]
+SHARE_TOTAL = 10000
+AGE_FIRST_YEAR = 2000
+SHARE_ROUNDING = 3
+
+
+class HouseholdByAgeTest(unittest.TestCase):
+    def setUp(self):
+        self.cells = defaultdict(dict)
+        for r in rows("household_by_age.csv"):
+            self.cells[(int(r["year"]), r["age_class"])][r["item"]] = float(r["value"])
+
+    def test_every_year_has_every_class_and_item(self):
+        years = sorted({y for y, _ in self.cells})
+        consecutive_from(self, years, AGE_FIRST_YEAR)
+        for y in years:
+            for cls in ["avg"] + AGE_CLASSES:
+                self.assertEqual(set(self.cells[(y, cls)]), set(AGE_ITEMS), (y, cls))
+
+    def test_class_shares_add_up_and_ages_fall_in_their_class(self):
+        for y in sorted({y for y, _ in self.cells}):
+            self.assertAlmostEqual(sum(self.cells[(y, c)]["世帯数分布"] for c in AGE_CLASSES), SHARE_TOTAL, delta=SHARE_ROUNDING, msg=y)
+            for cls in AGE_CLASSES[1:-1]:
+                low, high = map(int, cls.split("-"))
+                self.assertTrue(low <= self.cells[(y, cls)]["世帯主の年齢"] <= high, (y, cls))
+            for cls in ["avg"] + AGE_CLASSES:
+                c = self.cells[(y, cls)]
+                self.assertGreaterEqual(c["勤め先収入"] + YEN_ROUNDING, c["世帯主収入"] + c["世帯主の配偶者の収入"], (y, cls))
+
+
 if __name__ == "__main__":
     unittest.main()

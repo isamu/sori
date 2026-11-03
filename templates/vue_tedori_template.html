@@ -86,19 +86,16 @@
     <legend-row :groups="earnerGroups" :colors="earnerColors"></legend-row>
     <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ earnersTakeaway }}</p>
 
+    <h3 class="mt-8 font-semibold">年齢をそろえても、世帯主の稼ぎは減っている</h3>
+    <p class="mt-1 text-sm text-muted dark:text-mutedd">世帯主の平均年齢は {{ ages.age.first }} 歳から {{ ages.age.last }} 歳に上がり、60 歳以上の世帯主は {{ ages.sixties_share.first }}% から {{ ages.sixties_share.last }}% に増えました。年齢の違いで平均が動いただけではないかを確かめるため、世帯主の年齢層ごとに {{ ages.first }} 年と {{ ages.last }} 年を比べました（物価を差し引いた変化）。</p>
+    <change-bars class="mt-3" :rows="ageRows" :scale="AGE_SCALE_PCT" :legend="ageLegend"></change-bars>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ ageTakeaway }}</p>
+    <p class="mt-3 text-sm text-muted dark:text-mutedd">厚生労働省の賃金構造基本統計調査（フルタイムで働く人の年齢別の給料）でも、40〜50 代の給料は物価を差し引くと同じように下がっています（この数字はページのデータには入れていません）。</p>
+
     <h3 class="mt-8 font-semibold">いちばん減ったのは、真ん中より少し上の世帯</h3>
     <p class="mt-1 text-sm text-muted dark:text-mutedd">年収 10 段階それぞれの、物価を差し引いた手取りの {{ deciles.first }} 年から {{ deciles.last }} 年の変化です。左に伸びるほど減っています。</p>
-    <ul class="mt-3 space-y-1.5">
-      <li v-for="c in deciles.classes" :key="c.id" class="grid grid-cols-[7.5rem_1fr_3.5rem] items-center gap-2 text-sm">
-        <span class="tabular-nums">年収 {{ fmtInt(c.income_last) }} 万円</span>
-        <span class="relative h-4">
-          <i class="absolute inset-y-0 left-1/2 border-l border-ink dark:border-inkd"></i>
-          <i class="absolute inset-y-0.5 rounded-sm" :class="c.real_change < 0 ? 'bg-rose-500' : 'bg-emerald-500'" :style="decileBar(c.real_change)"></i>
-        </span>
-        <span class="text-right tabular-nums" :class="c.real_change < 0 ? 'text-rose-600 dark:text-rose-400' : ''">{{ signed(c.real_change) }}%</span>
-      </li>
-    </ul>
-    <p class="mt-1 text-xs text-muted dark:text-mutedd">年収は {{ deciles.last }} 年の各段階の平均。棒の端は ±{{ DECILE_SCALE_PCT }}%。</p>
+    <change-bars class="mt-3" :rows="decileRows" :scale="DECILE_SCALE_PCT"></change-bars>
+    <p class="mt-1 text-xs text-muted dark:text-mutedd">年収は {{ deciles.last }} 年の各段階の平均。</p>
     <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ decileTakeaway }}</p>
 
     <h3 class="mt-8 font-semibold">よく買う物ほど値上がりした</h3>
@@ -112,7 +109,8 @@
 
     <h3 class="mt-4 font-semibold">貧しくなったと感じているのは誰か</h3>
     <ul class="mt-2 list-disc space-y-1.5 pl-5">
-      <li><b>1 人で家計を支える人。</b>世帯主の稼ぎは物価を差し引くと {{ signed(headChange) }}% です。共働きでない世帯は、この減り方がそのまま暮らしに出ます。</li>
+      <li><b>1 人で家計を支える人。</b>世帯主の稼ぎは物価を差し引くと {{ signed(headChange) }}%、年齢構成をそろえても {{ signed(ages.reweighted.head) }}% です。共働きでない世帯は、この減り方がそのまま暮らしに出ます。</li>
+      <li><b>世帯主が 50 代の世帯。</b>世帯主の稼ぎは {{ signed(ageOf('50-59').head) }}%、配偶者の稼ぎが増えても世帯の手取りは {{ signed(ageOf('50-59').takehome) }}% で、年齢層の中でいちばん苦しくなっています。教育費や住宅ローンが重なりやすい年代です。</li>
       <li><b>年収 {{ hardest.low }}〜{{ hardest.high }} 万円の、真ん中より少し上の世帯。</b>物価を差し引いた手取りの減り方が大きかった {{ HARDEST_COUNT }} 段階がここに集まっています。給料から引かれる割合も年収が高い段階ほど大きく増えました。年収で区切る支援の対象からは外れやすい層だ、という指摘もあります。</li>
       <li><b>収入の多くを食費や光熱費に使う世帯。</b>値上がりがいちばん大きかったのは食べ物とエネルギーで、削りにくい支出です。</li>
       <li><b>このデータに入っていない人たち。</b>一人暮らしの人、非正規で働く人、年金で暮らす人、自営業の人は、家計調査の勤労者世帯（二人以上）に入っていません。苦しくなったという声の多くは、ここから来ている可能性があります。確かめるには別の統計が要ります。</li>
@@ -122,6 +120,7 @@
     <ul class="mt-2 list-disc space-y-1.5 pl-5">
       <li><b>共働きの世帯全体。</b>配偶者の稼ぎが増えたぶんで、世帯の実質の手取りはほぼ保たれています。ただし、そのぶん働く時間は増えています。</li>
       <li><b>年収のいちばん低い段階と、いちばん高い段階。</b>物価を差し引いた手取りはほぼ横ばいか、少し増えています。理由はこのデータからは分かりません。</li>
+      <li><b>60 代で働き続ける世帯主。</b>稼ぎは物価を差し引いても {{ signed(ageOf('60-69').head) }}% で、年齢層の中で唯一増えました。定年の延長や再雇用で、60 代もしっかり働く人が増えたためと考えられます。世帯主の平均年齢を押し上げているのも、この層です。</li>
     </ul>
 
     <h3 class="mt-6 font-semibold">世の中はどう変わったのか</h3>
@@ -142,7 +141,7 @@
       </div>
       <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
         <dt class="font-semibold">本当の部分</dt>
-        <dd class="mt-1">国全体の負担は大きく上がりました。その多くは消費税と会社負担の社会保険料で、給料明細には見えません。物価を差し引くと、世帯の手取りは {{ indexYear }} 年より少なく、世帯主 1 人の稼ぎと 1 人あたりの実質賃金ははっきり下がっています。共働きで埋めているのが今の姿です。</dd>
+        <dd class="mt-1">国全体の負担は大きく上がりました。その多くは消費税と会社負担の社会保険料で、給料明細には見えません。物価を差し引くと、世帯の手取りは {{ indexYear }} 年より少なく、世帯主 1 人の稼ぎと 1 人あたりの実質賃金ははっきり下がっています。世帯主の年齢をそろえても下がっていて、高齢化だけでは説明できません。共働きで埋めているのが今の姿です。</dd>
       </div>
     </dl>
     <p class="mt-4">「手取りが激減した」と感じる理由は、明細の数字よりも、明細に見えない負担、1 人の稼ぎの目減り、そして毎日の買い物の値上がりにあるようです。どこに重みを置くかで、評価は分かれます。</p>
@@ -156,6 +155,7 @@
       <li>2 の国民負担率は財務省の公表値です。財政赤字が多い年（2009 年度のリーマン・ショック後、2020 年度のコロナ対策）は潜在的国民負担率が跳ね上がります。</li>
       <li>3 の社会保険料は内閣府「国民経済計算」の社会保障負担で、「働く人など」には自営業の人や年金生活の人が払う国民健康保険料・国民年金保険料なども入ります。消費税は国（一般会計の決算）と地方消費税の合計で、地方消費税が丸 1 年分そろう 1998 年度から。国民所得は財務省の国民負担率の表の値です。</li>
       <li>4 の物価は総務省「消費者物価指数」（総合）、実質賃金は厚生労働省「毎月勤労統計」の実質賃金指数（現金給与総額、事業所規模 5 人以上）です。毎月勤労統計は 2004〜2011 年に集計の誤りがあり、その期間は補正した値です。</li>
+      <li>年齢別の比較は家計調査の「世帯主の年齢階級別」の表（勤労者世帯、10 歳刻み）です。年齢構成をそろえた平均は、{{ ages.last }} 年の年齢層ごとの値を {{ ages.first }} 年の世帯の年齢構成で平均し直したものです。1 つの年齢層の世帯は数百〜千世帯ほどの標本なので、数ポイントの誤差がありえます。</li>
       <li>5 の世帯の稼ぎは勤め先からの収入（世帯主・配偶者・ほかの家族）で、2000 年からの十分位の表の値です。年収 10 段階は毎年の世帯を 10 等分した各段階の平均なので、同じ世帯を追ったものではありません。エネルギーは消費者物価指数の電気代・ガス代・灯油・ガソリンなどです。</li>
     </ul>
   </section>
@@ -177,6 +177,37 @@ const LegendRow = {
   template: `<ul class="mt-6 flex flex-wrap gap-x-4 gap-y-1 text-sm">
     <li v-for="g in groups.slice().reverse()" :key="g.key" class="flex items-center gap-1.5"><i class="inline-block size-3 rounded-sm" :class="colors[g.key]"></i>{{ g.label }}</li>
   </ul>`,
+};
+
+// One row per label; each value is a bar growing left (negative) or right (positive) from the centre line, clipped at ±scale.
+const ChangeBars = {
+  props: { rows: Array, scale: Number, legend: { type: Array, default: () => [] } },
+  setup(props) {
+    const bar = v => {
+      const width = (Math.min(Math.abs(v), props.scale) / props.scale) * 50 + '%';
+      return v < 0 ? { right: '50%', width } : { left: '50%', width };
+    };
+    const signed = v => `${v > 0 ? '+' : ''}${v}`;
+    return { bar, signed };
+  },
+  template: `<div>
+    <ul class="space-y-2">
+      <li v-for="r in rows" :key="r.id" class="grid grid-cols-[7.5rem_1fr_3.5rem] items-center gap-x-2 gap-y-0.5 text-sm">
+        <template v-for="(v, i) in r.values" :key="r.id + v.key">
+          <span class="tabular-nums" :class="i ? 'text-xs text-muted dark:text-mutedd' : ''">{{ i ? '' : r.label }}</span>
+          <span class="relative h-4">
+            <i class="absolute inset-y-0 left-1/2 border-l border-ink dark:border-inkd"></i>
+            <i class="absolute inset-y-0.5 rounded-sm" :class="v.value < 0 ? v.negative : v.positive" :style="bar(v.value)"></i>
+          </span>
+          <span class="text-right tabular-nums" :class="v.value < 0 ? 'text-rose-600 dark:text-rose-400' : ''">{{ signed(v.value) }}%</span>
+        </template>
+      </li>
+    </ul>
+    <ul v-if="legend.length" class="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+      <li v-for="l in legend" :key="l.key" class="flex items-center gap-1.5"><i class="inline-block size-3 rounded-sm" :class="l.color"></i>{{ l.label }}</li>
+    </ul>
+    <p class="mt-1 text-xs text-muted dark:text-mutedd">棒の端は ±{{ scale }}%。</p>
+  </div>`,
 };
 
 const CHART_H = 240, PAD = { left: 36, right: 12, top: 12, bottom: 24 }, Y_STEP = 10;
@@ -220,10 +251,10 @@ const LineChart = {
 };
 
 const SCALE_PCT = 70, GRIDLINES = [20, 40, 60], HIDDEN_SCALE_PCT = 30, HIDDEN_GRIDLINES = [10, 20];
-const PRICE_YEAR = 2020, EARNER_STEP_MAN_YEN = 10, DECILE_SCALE_PCT = 10, HARDEST_COUNT = 4;
+const PRICE_YEAR = 2020, EARNER_STEP_MAN_YEN = 10, DECILE_SCALE_PCT = 10, HARDEST_COUNT = 4, AGE_SCALE_PCT = 15;
 
 createApp({
-  components: { StackedColumns, LegendRow, LineChart },
+  components: { StackedColumns, LegendRow, LineChart, ChangeBars },
   setup() {
     const { payslip, burden, hidden, real, indexYear, generated, earners, deciles } = DATA;
     const first = arr => arr[0];
@@ -276,10 +307,23 @@ createApp({
     const headChange = r1(100 * (earnLast.head / earnFirst.head - 1));
     const earnersTakeaway = `世帯主の稼ぎは ${earnFirst.year} 年の月 ${earnFirst.head} 万円から ${earnLast.year} 年の ${earnLast.head} 万円へ（${signed(headChange)}%）。配偶者の稼ぎは ${earnFirst.spouse} 万円から ${earnLast.spouse} 万円に増え、世帯の合計は ${r1(earnerTotal(earnFirst))} 万円から ${r1(earnerTotal(earnLast))} 万円です。`;
 
-    const decileBar = v => {
-      const width = Math.min(Math.abs(v), DECILE_SCALE_PCT) / DECILE_SCALE_PCT * 50;
-      return v < 0 ? { right: '50%', width: width + '%' } : { left: '50%', width: width + '%' };
-    };
+    const decileRows = deciles.classes.map(c => ({ id: c.id, label: `年収 ${fmtInt(c.income_last)} 万円`,
+      values: [{ key: 'takehome', value: c.real_change, negative: 'bg-rose-500', positive: 'bg-emerald-500' }] }));
+
+    const { ages } = DATA;
+    const ageLabel = id => (id.endsWith('-') ? `${id.slice(0, -1)} 歳以上` : `${id.replace('-', '〜')} 歳`);
+    const ageValues = a => [
+      { key: 'head', value: a.head, negative: 'bg-rose-500', positive: 'bg-emerald-500' },
+      { key: 'takehome', value: a.takehome, negative: 'bg-rose-300 dark:bg-rose-800', positive: 'bg-emerald-300 dark:bg-emerald-800' },
+    ];
+    const ageRows = [
+      ...ages.classes.map(c => ({ id: c.id, label: `世帯主 ${ageLabel(c.id)}`, values: ageValues(c) })),
+      { id: 'average', label: '全体の平均', values: ageValues(ages.average) },
+      { id: 'reweighted', label: `年齢構成を ${ages.first} 年にそろえた平均`, values: ageValues(ages.reweighted) },
+    ];
+    const ageLegend = [{ key: 'head', label: '世帯主の稼ぎ（濃い色）', color: 'bg-rose-500' }, { key: 'takehome', label: '世帯の手取り（薄い色）', color: 'bg-rose-300 dark:bg-rose-800' }];
+    const ageOf = id => ages.classes.find(c => c.id === id);
+    const ageTakeaway = `世帯主が 40 代の世帯で比べても、世帯主の稼ぎは ${signed(ageOf('40-49').head)}%、50 代でも ${signed(ageOf('50-59').head)}% です。全体の平均の ${signed(ages.average.head)}% のうち一部は世帯主の年齢が上がった影響で、年齢構成を ${ages.first} 年にそろえると ${signed(ages.reweighted.head)}% になります。それでも、年齢の違いだけでは説明できない分の減り方が残ります。50 代の世帯は配偶者の稼ぎが増えても、世帯の手取りが ${signed(ageOf('50-59').takehome)}% でした。`;
     const worst = deciles.classes.reduce((a, b) => (b.real_change < a.real_change ? b : a));
     const hardestIncomes = deciles.classes.slice().sort((a, b) => a.real_change - b.real_change).slice(0, HARDEST_COUNT).map(c => c.income_last);
     const hardest = { low: fmtInt(Math.min(...hardestIncomes)), high: fmtInt(Math.max(...hardestIncomes)) };
@@ -294,7 +338,7 @@ createApp({
 
     return { SCALE_PCT, PRICE_YEAR, DECILE_SCALE_PCT, fmtInt, signed,
              earners, earnerYears: earners.map(e => e.year), earnerGroups, earnerColors, earnersMax, earnerGridlines, earnersTakeaway, headChange,
-             deciles, decileBar, decileTakeaway, hardest, HARDEST_COUNT, priceSeries, priceTakeaway, GRIDLINES, HIDDEN_SCALE_PCT, HIDDEN_GRIDLINES, indexYear, generated,
+             ageOf, deciles, decileRows, decileTakeaway, hardest, HARDEST_COUNT, ages, ageRows, ageLegend, ageTakeaway, AGE_SCALE_PCT, priceSeries, priceTakeaway, GRIDLINES, HIDDEN_SCALE_PCT, HIDDEN_GRIDLINES, indexYear, generated,
              payslip, slipYears: payslip.map(s => s.year), slipGroups, slipColors, slipFirst, slipLast, slipDiff, slipTakeaway,
              burden, burdenYears: burden.map(b => b.year), burdenGroups, burdenColors, burdenEstimateYear, burdenTakeaway, burdenEstimateNote,
              hidden, hiddenYears: hidden.map(h => h.year), hiddenGroups, hiddenColors, hiddenTakeaway, incomeNote,

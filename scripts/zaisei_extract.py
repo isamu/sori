@@ -5,7 +5,8 @@
   household_by_income.csv   家計調査 勤労者世帯の年間収入階級別、円/月
   social_contributions.csv  社会保障負担の雇主（会社）と家計の分、10 億円、年度
   consumption_tax.csv       消費税収（国の一般会計と地方消費税）、億円、年度
-  prices_wages.csv          消費者物価指数（総合）と実質賃金指数、2020 年＝100、暦年
+  prices_wages.csv          消費者物価指数（総合・食料・エネルギー）と実質賃金指数、2020 年＝100、暦年
+  household_by_age.csv      家計調査 勤労者世帯の世帯主の年齢階級別（10 歳刻み）、円/月など
 """
 import csv, re, subprocess, unicodedata
 from config import ROOT
@@ -244,6 +245,65 @@ def prices_wages():
             [[y, *(prices[y][k] for k in CPI_COLUMNS), wages.get(y, "")] for y in years])
 
 
+AGE_ITEMS = ["世帯数分布", "世帯主の年齢", "有業人員", "実収入", "勤め先収入", "世帯主収入", "世帯主の配偶者の収入", "可処分所得"]
+AGE_CLASSES = {"平均": "avg", "～29": "-29", "30～39": "30-39", "40～49": "40-49", "50～59": "50-59", "60～69": "60-69", "70～": "70-"}
+AGE_LABEL = re.compile(r"(\d+歳～|～?\d+(?:～\d+)?)")
+
+
+def age_class(cell):
+    text = nfkc(squeeze(str(cell or ""))).replace("(再掲)", "").replace("~", "～")
+    if text == "平均":
+        return "avg"
+    m = AGE_LABEL.match(text)
+    return AGE_CLASSES.get(m.group(1).replace("歳", "")) if m else None
+
+
+def age_sheet(path):
+    for name, rows in read(path):
+        if "勤労" in name and "万" not in name:
+            return rows
+    raise ValueError(f"勤労者世帯のシートがない: {path}")
+
+
+def age_item(row, label_end):
+    for c in row[:label_end]:
+        base = re.sub(r"[(（].*?[)）]", "", FURIGANA_TAIL.sub("", squeeze(c))) if isinstance(c, str) else ""
+        for item in AGE_ITEMS:
+            if base == item or (item == "世帯数分布" and base.startswith(item)):
+                return item
+    return None
+
+
+def age_year(year, path):
+    rows = age_sheet(path)
+    header = next(r for r in rows[:15] if any(squeeze(str(c)) == "平均" for c in r if isinstance(c, str)))
+    cols = {}
+    for j, c in enumerate(header):
+        if (cls := age_class(c)) and cls not in cols:
+            cols[cls] = j
+    label_end = cols["avg"]
+    found = {}
+    for r in rows:
+        if (item := age_item(r, label_end)) and item not in found:
+            found[item] = r
+    return [(year, cls, item, found[item][j]) for item in AGE_ITEMS if item in found for cls, j in cols.items()]
+
+
+def age_paths():
+    paths = {}
+    for directory in (RAW_DIR / "kakei", CONV_DIR):
+        for p in sorted(directory.glob("kakei_age_worker_*.xlsx")):
+            paths.setdefault(int(p.stem.rsplit("_", 1)[1]), p)
+    return dict(sorted(paths.items()))
+
+
+def household_by_age():
+    rows = [row for year, path in age_paths().items() for row in age_year(year, path)]
+    order = list(AGE_CLASSES.values())
+    rows.sort(key=lambda x: (x[0], order.index(x[1]), AGE_ITEMS.index(x[2])))
+    return ["year", "age_class", "item", "value"], [[y, c, i, int(v) if float(v).is_integer() else v] for y, c, i, v in rows]
+
+
 def write(name, header, rows):
     OUT_DIR.mkdir(exist_ok=True)
     with open(OUT_DIR / name, "w", newline="", encoding="utf-8") as f:
@@ -260,6 +320,7 @@ def main():
     write("social_contributions.csv", *social_contributions())
     write("consumption_tax.csv", *consumption_tax())
     write("prices_wages.csv", *prices_wages())
+    write("household_by_age.csv", *household_by_age())
 
 
 if __name__ == "__main__":

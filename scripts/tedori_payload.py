@@ -130,11 +130,60 @@ def decile_changes(household_rows, price_rows):
          "real_change": round(100 * (real(last, d) / real(first, d) - 1), PCT_DECIMALS)} for d in DECILES]}
 
 
-def tedori_payload(household_rows, burden_rows, contribution_rows, consumption_rows, price_rows):
+AGE_CLASSES = ["-29", "30-39", "40-49", "50-59", "60-69", "70-"]
+WORKING_AGE_CLASSES = ["30-39", "40-49", "50-59", "60-69"]
+AGE_VALUES = {"head": "世帯主収入", "spouse": "世帯主の配偶者の収入", "takehome": "可処分所得"}
+SHARE_ITEM = "世帯数分布"
+
+
+def age_cells(age_rows):
+    cells = {}
+    for r in age_rows:
+        cells.setdefault((int(r["year"]), r["age_class"]), {})[r["item"]] = float(r["value"])
+    return cells
+
+
+def real_change(cells, cpi, first, last, cls, item):
+    before, after = cells[(first, cls)][item] / cpi[first], cells[(last, cls)][item] / cpi[last]
+    return round(100 * (after / before - 1), PCT_DECIMALS) + 0.0
+
+
+def reweighted_change(cells, cpi, first, last, item):
+    """最新年の年齢階級ごとの値を、最初の年の世帯の年齢構成で平均し直したときの実質の変化（%）。"""
+    shares = {c: cells[(first, c)][SHARE_ITEM] for c in AGE_CLASSES}
+
+    def average(y):
+        return sum(shares[c] * cells[(y, c)][item] for c in AGE_CLASSES) / sum(shares.values())
+
+    return round(100 * (average(last) / cpi[last] / (average(first) / cpi[first]) - 1), PCT_DECIMALS)
+
+
+def age_changes(age_rows, price_rows):
+    """世帯主の年齢をそろえた、最初の年から最新の年までの実質の変化。"""
+    cells, cpi = age_cells(age_rows), cpi_by_year(price_rows)
+    years = sorted({y for (y, c) in cells if c == AVERAGE_CLASS and y in cpi})
+    if len(years) < 2:
+        return None
+    first, last = years[0], years[-1]
+
+    def change(cls):
+        return {key: real_change(cells, cpi, first, last, cls, item) for key, item in AGE_VALUES.items()}
+
+    return {"first": first, "last": last,
+            "classes": [{"id": c, "age_first": cells[(first, c)]["世帯主の年齢"], **change(c)} for c in WORKING_AGE_CLASSES],
+            "average": change(AVERAGE_CLASS),
+            "reweighted": {key: reweighted_change(cells, cpi, first, last, item) for key, item in AGE_VALUES.items()},
+            "age": {"first": cells[(first, AVERAGE_CLASS)]["世帯主の年齢"], "last": cells[(last, AVERAGE_CLASS)]["世帯主の年齢"]},
+            "sixties_share": {key: round(sum(cells[(y, c)][SHARE_ITEM] for c in ("60-69", "70-")) / 100, PCT_DECIMALS)
+                              for key, y in (("first", first), ("last", last))}}
+
+
+def tedori_payload(household_rows, burden_rows, contribution_rows, consumption_rows, price_rows, age_rows=()):
     slip = payslip(household_rows)
     first_year = slip[0]["year"] if slip else 0
     return {"payslip": slip, "burden": burden(burden_rows, first_year),
             "hidden": hidden(burden_rows, contribution_rows, consumption_rows),
             "nationalIncome": national_income(burden_rows, first_year),
             "real": real_income(slip, price_rows), "indexYear": INDEX_YEAR,
-            "earners": earners(household_rows, price_rows), "deciles": decile_changes(household_rows, price_rows)}
+            "earners": earners(household_rows, price_rows), "deciles": decile_changes(household_rows, price_rows),
+            "ages": age_changes(age_rows, price_rows)}

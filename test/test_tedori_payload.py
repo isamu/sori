@@ -2,7 +2,8 @@ import random, sys, unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from tedori_payload import (BURDEN_ESTIMATE_YEARS, DECILES, INDEX_YEAR, burden, decile_changes, earners, hidden, national_income, payslip,
+from tedori_payload import (AGE_CLASSES, BURDEN_ESTIMATE_YEARS, DECILES, INDEX_YEAR, age_changes, burden, decile_changes, earners, hidden,
+                            national_income, payslip,
                             real_income, tedori_payload)
 
 SEED = 20261103
@@ -130,6 +131,36 @@ class DecileChangesTest(unittest.TestCase):
         self.assertIsNone(decile_changes([], []))
 
 
+def age_rows(year, head_by_class, shares):
+    rows = []
+    for cls in ["avg"] + AGE_CLASSES:
+        head = head_by_class[cls]
+        items = {"世帯数分布": shares.get(cls, 10000), "世帯主の年齢": 50, "世帯主収入": head, "世帯主の配偶者の収入": head / 10, "可処分所得": head}
+        rows += [{"year": str(year), "age_class": cls, "item": k, "value": str(v)} for k, v in items.items()]
+    return rows
+
+
+class AgeChangesTest(unittest.TestCase):
+    def test_a_shift_toward_lower_paid_classes_lowers_the_average_but_not_the_reweighted_one(self):
+        flat = {c: 400000 for c in AGE_CLASSES}
+        first = age_rows(INDEX_YEAR, {**flat, "avg": 400000}, {c: 10000 / len(AGE_CLASSES) for c in AGE_CLASSES})
+        older = {c: (5000 if c == "60-69" else 1000) for c in AGE_CLASSES}
+        last = age_rows(INDEX_YEAR + 10, {**flat, "60-69": 200000, "avg": 300000}, older)
+        out = age_changes(first + last, price_rows([INDEX_YEAR, INDEX_YEAR + 10], cpi_step=0))
+        self.assertEqual(out["average"]["head"], -25.0)
+        self.assertEqual({c["id"]: c["head"] for c in out["classes"]}, {"30-39": 0.0, "40-49": 0.0, "50-59": 0.0, "60-69": -50.0})
+        self.assertAlmostEqual(out["reweighted"]["head"], -50 / len(AGE_CLASSES), places=1)
+
+    def test_prices_are_taken_out_and_one_year_is_not_enough(self):
+        rows = age_rows(INDEX_YEAR, {c: 100 for c in ["avg"] + AGE_CLASSES}, {})
+        rows += age_rows(INDEX_YEAR + 10, {c: 110 for c in ["avg"] + AGE_CLASSES}, {})
+        out = age_changes(rows, price_rows([INDEX_YEAR, INDEX_YEAR + 10]))
+        self.assertEqual(out["average"]["head"], 0.0)
+        self.assertEqual(out["reweighted"]["takehome"], 0.0)
+        self.assertIsNone(age_changes(age_rows(INDEX_YEAR, {c: 1 for c in ["avg"] + AGE_CLASSES}, {}), price_rows([INDEX_YEAR])))
+        self.assertIsNone(age_changes([], []))
+
+
 class PayloadTest(unittest.TestCase):
     def test_empty_inputs_give_empty_sections(self):
         payload = tedori_payload([], [], [], [], [])
@@ -137,6 +168,7 @@ class PayloadTest(unittest.TestCase):
         self.assertIsNone(payload["nationalIncome"])
         self.assertEqual(payload["earners"], [])
         self.assertIsNone(payload["deciles"])
+        self.assertIsNone(payload["ages"])
 
 
 if __name__ == "__main__":
