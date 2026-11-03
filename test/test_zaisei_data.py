@@ -151,5 +151,31 @@ class HouseholdByAgeTest(unittest.TestCase):
                 self.assertGreaterEqual(c["勤め先収入"] + YEN_ROUNDING, c["世帯主収入"] + c["世帯主の配偶者の収入"], (y, cls))
 
 
+# Read by hand from the raw files in raw/zaisei/, not from the extraction code, so a wrong cell mapping goes red.
+SOURCE_VALUES = {
+    ("burden_ratio.csv", ("1995",), "national_burden_pct"): 35.1,
+    ("burden_ratio.csv", ("2024",), "potential_burden_pct"): 50.3,
+    ("household_by_income.csv", ("1995", "avg", "実収入"), "yen_per_month"): 570817,
+    ("household_by_income.csv", ("2000", "D05", "実収入"), "yen_per_month"): 500650,
+    ("household_by_income.csv", ("2025", "avg", "可処分所得"), "yen_per_month"): 532408,
+    # 勤め先収入 matches two labelled rows in the 2000–2017 decile sheets; these come from the separate age table (第 3-2 表).
+    ("household_by_income.csv", ("2000", "avg", "勤め先収入"), "yen_per_month"): 527818,
+    ("household_by_income.csv", ("2010", "avg", "勤め先収入"), "yen_per_month"): 485340,
+    ("spending_by_function.csv", ("1995", "2000年基準", "10"), "billion_yen"): 46648.0,
+    ("spending_by_function.csv", ("2024", "2020年基準", "10"), "billion_yen"): 99742.8,
+    ("spending_by_function.csv", ("2024", "2020年基準", "interest"), "billion_yen"): 9375.1,
+}
+KEY_COLUMNS = {"burden_ratio.csv": ["fiscal_year"], "household_by_income.csv": ["year", "income_class", "item"],
+               "spending_by_function.csv": ["fiscal_year", "sna_base", "cofog_code"]}
+
+
+class SourceValueTest(unittest.TestCase):
+    def test_values_match_the_source_tables(self):
+        for (name, key, column), expected in SOURCE_VALUES.items():
+            matches = [r for r in rows(name) if tuple(r[k] for k in KEY_COLUMNS[name]) == key]
+            self.assertEqual(len(matches), 1, (name, key))
+            self.assertEqual(float(matches[0][column]), expected, (name, key, column))
+
+
 if __name__ == "__main__":
     unittest.main()

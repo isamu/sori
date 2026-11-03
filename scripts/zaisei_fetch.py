@@ -3,11 +3,14 @@
 使い方:
   python3 zaisei_fetch.py        # 取得済みは飛ばす。xls は soffice で xlsx に変換して raw/zaisei/conv/ へ
 """
-import subprocess, sys
+import subprocess, sys, tempfile
+from pathlib import Path
 from config import ROOT
+from raw_format import content_problem
 
 RAW_DIR = ROOT / "raw" / "zaisei"
 CONV_DIR = RAW_DIR / "conv"
+MAX_DOWNLOAD_BYTES = 100 * 1024 * 1024
 ESRI = "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files"
 ESTAT = "https://www.e-stat.go.jp/stat-search/file-download?statInfId={}&fileKind=0"
 ESTAT_CSV = "https://www.e-stat.go.jp/stat-search/file-download?statInfId={}&fileKind=1"
@@ -56,25 +59,43 @@ def sources():
     yield "maikin/real_wage_index_hon-t25.xls", ESTAT.format("000032189738").replace("fileKind=0", "fileKind=4")
 
 
+def usable(path):
+    """取得済み・変換済みとして飛ばしてよいのは、形式の確認を通ったファイルだけ。"""
+    return path.exists() and content_problem(path.suffix, path.read_bytes()) is None
+
+
 def fetch(rel, url):
+    """確認を通らないファイルは最終の名前で置かない。前の実行で残った壊れたファイルは取り直す。"""
     path = RAW_DIR / rel
-    if path.exists():
+    if usable(path):
         return
     path.parent.mkdir(parents=True, exist_ok=True)
-    r = subprocess.run(["curl", "-sSfL", "-m", "120", "-o", str(path), url], capture_output=True, text=True)
-    if r.returncode != 0:
-        sys.exit(f"取得に失敗: {url} → {path}: {r.stderr.strip()}")
+    part = path.with_name(path.name + ".part")
+    r = subprocess.run(["curl", "-sSfL", "-m", "120", "--max-filesize", str(MAX_DOWNLOAD_BYTES), "-o", str(part), url], capture_output=True, text=True)
+    problem = r.stderr.strip() if r.returncode != 0 else content_problem(path.suffix, part.read_bytes())
+    if problem:
+        part.unlink(missing_ok=True)
+        sys.exit(f"取得に失敗: {url} → {path}: {problem}")
+    part.replace(path)
     print("取得", rel)
 
 
 def convert_xls(rel):
+    """変換済みは飛ばすので、作業用のディレクトリで変換してから置く。"""
     src = RAW_DIR / rel
     dest = CONV_DIR / (src.stem + ".xlsx")
-    if src.suffix != ".xls" or dest.exists():
+    if src.suffix != ".xls" or usable(dest):
         return
+    if problem := content_problem(src.suffix, src.read_bytes()):
+        sys.exit(f"変換しない（{problem}。エラーページを取得した可能性）: {src}")
     CONV_DIR.mkdir(parents=True, exist_ok=True)
-    subprocess.run(["soffice", "--headless", "--convert-to", "xlsx", "--outdir", str(CONV_DIR), str(src)],
-                   check=True, capture_output=True)
+    with tempfile.TemporaryDirectory(dir=CONV_DIR) as work:
+        r = subprocess.run(["soffice", "--headless", "--convert-to", "xlsx", "--outdir", work, str(src)], capture_output=True, text=True)
+        out = Path(work) / dest.name
+        problem = r.stderr.strip() or "出力がない" if r.returncode != 0 or not out.exists() else content_problem(out.suffix, out.read_bytes())
+        if problem:
+            sys.exit(f"変換に失敗: {src} → {dest}: {problem}")
+        out.replace(dest)
     print("変換", dest.name)
 
 
