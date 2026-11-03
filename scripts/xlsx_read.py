@@ -48,4 +48,3 @@ def read(path):
             if cells:
                 rows.append([cells.get(i) for i in range(max(cells) + 1)])
         yield name, rows
-

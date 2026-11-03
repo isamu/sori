@@ -3,11 +3,13 @@
 使い方:
   python3 zaisei_fetch.py        # 取得済みは飛ばす。xls は soffice で xlsx に変換して raw/zaisei/conv/ へ
 """
-import subprocess, sys
+import subprocess, sys, tempfile
+from pathlib import Path
 from config import ROOT
 
 RAW_DIR = ROOT / "raw" / "zaisei"
 CONV_DIR = RAW_DIR / "conv"
+XLS_MAGIC = bytes.fromhex("d0cf11e0a1b11ae1")
 ESRI = "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files"
 ESTAT = "https://www.e-stat.go.jp/stat-search/file-download?statInfId={}&fileKind=0"
 
@@ -37,24 +39,35 @@ def sources():
 
 
 def fetch(rel, url):
+    """取得済みは飛ばすので、途中で失敗した書きかけを最終の名前で残さない。"""
     path = RAW_DIR / rel
     if path.exists():
         return
     path.parent.mkdir(parents=True, exist_ok=True)
-    r = subprocess.run(["curl", "-sSfL", "-m", "120", "-o", str(path), url], capture_output=True, text=True)
+    part = path.with_name(path.name + ".part")
+    r = subprocess.run(["curl", "-sSfL", "-m", "120", "-o", str(part), url], capture_output=True, text=True)
     if r.returncode != 0:
+        part.unlink(missing_ok=True)
         sys.exit(f"取得に失敗: {url} → {path}: {r.stderr.strip()}")
+    part.replace(path)
     print("取得", rel)
 
 
 def convert_xls(rel):
+    """変換済みは飛ばすので、作業用のディレクトリで変換してから置く。"""
     src = RAW_DIR / rel
     dest = CONV_DIR / (src.stem + ".xlsx")
     if src.suffix != ".xls" or dest.exists():
         return
+    if src.read_bytes()[:len(XLS_MAGIC)] != XLS_MAGIC:
+        sys.exit(f"xls ではない（エラーページを取得した可能性）: {src}")
     CONV_DIR.mkdir(parents=True, exist_ok=True)
-    subprocess.run(["soffice", "--headless", "--convert-to", "xlsx", "--outdir", str(CONV_DIR), str(src)],
-                   check=True, capture_output=True)
+    with tempfile.TemporaryDirectory(dir=CONV_DIR) as work:
+        r = subprocess.run(["soffice", "--headless", "--convert-to", "xlsx", "--outdir", work, str(src)], capture_output=True, text=True)
+        out = Path(work) / dest.name
+        if r.returncode != 0 or not out.exists():
+            sys.exit(f"変換に失敗: {src} → {dest}: {r.stderr.strip()}")
+        out.replace(dest)
     print("変換", dest.name)
 
 
