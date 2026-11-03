@@ -2,7 +2,8 @@ import random, sys, unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from tedori_payload import BURDEN_ESTIMATE_YEARS, INDEX_YEAR, burden, hidden, national_income, payslip, real_income, tedori_payload
+from tedori_payload import (BURDEN_ESTIMATE_YEARS, DECILES, INDEX_YEAR, burden, decile_changes, earners, hidden, national_income, payslip,
+                            real_income, tedori_payload)
 
 SEED = 20261103
 TRIALS = 1000
@@ -21,6 +22,13 @@ def burden_row(year, deficit=5.0, income=400.0):
     return {"fiscal_year": str(year), "national_tax_pct": "14", "local_tax_pct": "9", "social_security_burden_pct": "13",
             "national_burden_pct": "36", "fiscal_deficit_pct": str(deficit), "potential_burden_pct": str(36 + deficit),
             "national_income_trillion_yen": str(income)}
+
+
+def price_rows(years, cpi_step=1.0):
+    def row(y):
+        cpi = str(100 + cpi_step * (y - INDEX_YEAR))
+        return {"year": str(y), "cpi_2020base": cpi, "cpi_food_2020base": cpi, "cpi_energy_2020base": cpi, "real_wage_index_2020base": "90"}
+    return [row(y) for y in years]
 
 
 class PayslipTest(unittest.TestCase):
@@ -70,7 +78,7 @@ class HiddenTest(unittest.TestCase):
 
 class RealIncomeTest(unittest.TestCase):
     def prices(self, years, cpi_step=1.0):
-        return [{"year": str(y), "cpi_2020base": str(100 + cpi_step * (y - INDEX_YEAR)), "real_wage_index_2020base": "90"} for y in years]
+        return price_rows(years, cpi_step)
 
     def test_index_year_is_100_and_flat_takehome_falls_with_prices(self):
         slip = payslip([r for y in (INDEX_YEAR, INDEX_YEAR + 10) for r in full_household(y)])
@@ -93,11 +101,42 @@ class RealIncomeTest(unittest.TestCase):
         self.assertEqual(real_income([], []), [])
 
 
+class EarnersTest(unittest.TestCase):
+    def test_earnings_are_in_index_year_prices_and_incomplete_years_are_dropped(self):
+        rows = household(INDEX_YEAR, 世帯主収入=400000, 世帯主の配偶者の収入=50000, 他の世帯員収入=10000)
+        rows += household(INDEX_YEAR + 10, 世帯主収入=440000, 世帯主の配偶者の収入=110000, 他の世帯員収入=11000)
+        rows += household(INDEX_YEAR + 11, 世帯主収入=1)
+        out = earners(rows, price_rows([INDEX_YEAR, INDEX_YEAR + 10, INDEX_YEAR + 11]))
+        self.assertEqual(out, [{"year": INDEX_YEAR, "head": 40.0, "spouse": 5.0, "others": 1.0},
+                               {"year": INDEX_YEAR + 10, "head": 40.0, "spouse": 10.0, "others": 1.0}])
+        self.assertEqual(earners([], []), [])
+
+
+class DecileChangesTest(unittest.TestCase):
+    def test_real_change_from_first_to_last_year_for_each_decile(self):
+        rows = []
+        for i, d in enumerate(DECILES):
+            rows += household(INDEX_YEAR, d, 可処分所得=100000, 年間収入_万円=300 + i)
+            rows += household(INDEX_YEAR + 10, d, 可処分所得=110000 + 1000 * i, 年間収入_万円=330 + i)
+        out = decile_changes(rows, price_rows([INDEX_YEAR, INDEX_YEAR + 10]))
+        self.assertEqual((out["first"], out["last"]), (INDEX_YEAR, INDEX_YEAR + 10))
+        self.assertEqual([c["id"] for c in out["classes"]], DECILES)
+        self.assertEqual(out["classes"][0]["real_change"], 0.0)
+        self.assertEqual(out["classes"][9]["real_change"], round(100 * (119000 / 110 / 1000 - 1), 1))
+        self.assertEqual(out["classes"][9]["income_last"], 339)
+
+    def test_one_year_is_not_enough(self):
+        self.assertIsNone(decile_changes(household(INDEX_YEAR, "D01", 可処分所得=1), price_rows([INDEX_YEAR])))
+        self.assertIsNone(decile_changes([], []))
+
+
 class PayloadTest(unittest.TestCase):
     def test_empty_inputs_give_empty_sections(self):
         payload = tedori_payload([], [], [], [], [])
         self.assertEqual((payload["payslip"], payload["burden"], payload["hidden"], payload["real"]), ([], [], [], []))
         self.assertIsNone(payload["nationalIncome"])
+        self.assertEqual(payload["earners"], [])
+        self.assertIsNone(payload["deciles"])
 
 
 if __name__ == "__main__":

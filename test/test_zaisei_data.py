@@ -45,6 +45,8 @@ class HouseholdTest(unittest.TestCase):
             self.assert_sum(c, "非消費支出", ["直接税", "社会保険料", "他の非消費支出"], key)
             self.assert_sum(c, "直接税", ["勤労所得税", "個人住民税", "他の税"], key)
             self.assertAlmostEqual(c["可処分所得"], c["実収入"] - c["非消費支出"], delta=YEN_ROUNDING, msg=key)
+            if "世帯主収入" in c:
+                self.assert_sum(c, "勤め先収入", ["世帯主収入", "世帯主の配偶者の収入", "他の世帯員収入"], key)
             if "公的年金保険料" in c:
                 self.assert_sum(c, "社会保険料", ["公的年金保険料", "健康保険料", "介護保険料", "他の社会保険料"], key)
 
@@ -113,7 +115,9 @@ class PricesWagesTest(unittest.TestCase):
         self.assertEqual(float(data[INDEX_BASE_YEAR]["cpi_2020base"]), 100.0)
         self.assertEqual(float(data[INDEX_BASE_YEAR]["real_wage_index_2020base"]), 100.0)
         for y, r in data.items():
-            self.assertTrue(r["cpi_2020base"] and r["real_wage_index_2020base"], y)
+            self.assertTrue(all(r.values()), y)
+        for column in ("cpi_food_2020base", "cpi_energy_2020base"):
+            self.assertEqual(float(data[INDEX_BASE_YEAR][column]), 100.0, column)
 
 
 if __name__ == "__main__":

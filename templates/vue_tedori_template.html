@@ -76,7 +76,65 @@
   </section>
 
   <section class="mt-10" aria-labelledby="s5">
-    <h2 id="s5" class="text-lg font-semibold">まとめ</h2>
+    <h2 id="s5" class="text-lg font-semibold">5. それでも「貧しくなった」と感じるのはなぜか</h2>
+    <p class="mt-2">世帯の平均で見ると、物価を差し引いた手取りはほぼ横ばいでした。それでも暮らしが苦しくなったと感じる人が多いのはなぜか。中身を分けてみます。</p>
+
+    <h3 class="mt-6 font-semibold">1 人の稼ぎは減り、共働きで埋めている</h3>
+    <p class="mt-1 text-sm text-muted dark:text-mutedd">勤労者世帯の平均で、世帯の稼ぎを誰が稼いだかで分けました。物価を差し引くため、{{ PRICE_YEAR }} 年の値段にそろえた月の金額です（縦は 0〜{{ earnersMax }} 万円）。</p>
+    <stacked-columns class="mt-3" :years="earnerYears" :series="earners" :groups="earnerGroups" :colors="earnerColors" :labels="earnerGroups"
+      height-class="h-48" :max="earnersMax" :gridlines="earnerGridlines" :break-year="2018" :tick-every="5" unit="万円"></stacked-columns>
+    <legend-row :groups="earnerGroups" :colors="earnerColors"></legend-row>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ earnersTakeaway }}</p>
+
+    <h3 class="mt-8 font-semibold">いちばん減ったのは、真ん中より少し上の世帯</h3>
+    <p class="mt-1 text-sm text-muted dark:text-mutedd">年収 10 段階それぞれの、物価を差し引いた手取りの {{ deciles.first }} 年から {{ deciles.last }} 年の変化です。左に伸びるほど減っています。</p>
+    <ul class="mt-3 space-y-1.5">
+      <li v-for="c in deciles.classes" :key="c.id" class="grid grid-cols-[7.5rem_1fr_3.5rem] items-center gap-2 text-sm">
+        <span class="tabular-nums">年収 {{ fmtInt(c.income_last) }} 万円</span>
+        <span class="relative h-4">
+          <i class="absolute inset-y-0 left-1/2 border-l border-ink dark:border-inkd"></i>
+          <i class="absolute inset-y-0.5 rounded-sm" :class="c.real_change < 0 ? 'bg-rose-500' : 'bg-emerald-500'" :style="decileBar(c.real_change)"></i>
+        </span>
+        <span class="text-right tabular-nums" :class="c.real_change < 0 ? 'text-rose-600 dark:text-rose-400' : ''">{{ signed(c.real_change) }}%</span>
+      </li>
+    </ul>
+    <p class="mt-1 text-xs text-muted dark:text-mutedd">年収は {{ deciles.last }} 年の各段階の平均。棒の端は ±{{ DECILE_SCALE_PCT }}%。</p>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ decileTakeaway }}</p>
+
+    <h3 class="mt-8 font-semibold">よく買う物ほど値上がりした</h3>
+    <p class="mt-1 text-sm text-muted dark:text-mutedd">{{ indexYear }} 年を 100 とした物価。全体と、食べ物、電気・ガス・ガソリンなどのエネルギーを並べました。</p>
+    <line-chart class="mt-3" :years="realYears" :series="priceSeries" :base="100"></line-chart>
+    <p class="mt-4 rounded-md bg-panel px-4 py-3 dark:bg-paneld">{{ priceTakeaway }}</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s6">
+    <h2 id="s6" class="text-lg font-semibold">考察: だれが、何が変わったのか</h2>
+
+    <h3 class="mt-4 font-semibold">貧しくなったと感じているのは誰か</h3>
+    <ul class="mt-2 list-disc space-y-1.5 pl-5">
+      <li><b>1 人で家計を支える人。</b>世帯主の稼ぎは物価を差し引くと {{ signed(headChange) }}% です。共働きでない世帯は、この減り方がそのまま暮らしに出ます。</li>
+      <li><b>年収 {{ hardest.low }}〜{{ hardest.high }} 万円の、真ん中より少し上の世帯。</b>物価を差し引いた手取りの減り方が大きかった {{ HARDEST_COUNT }} 段階がここに集まっています。給料から引かれる割合も年収が高い段階ほど大きく増えました。年収で区切る支援の対象からは外れやすい層だ、という指摘もあります。</li>
+      <li><b>収入の多くを食費や光熱費に使う世帯。</b>値上がりがいちばん大きかったのは食べ物とエネルギーで、削りにくい支出です。</li>
+      <li><b>このデータに入っていない人たち。</b>一人暮らしの人、非正規で働く人、年金で暮らす人、自営業の人は、家計調査の勤労者世帯（二人以上）に入っていません。苦しくなったという声の多くは、ここから来ている可能性があります。確かめるには別の統計が要ります。</li>
+    </ul>
+
+    <h3 class="mt-6 font-semibold">変わっていないのは誰か</h3>
+    <ul class="mt-2 list-disc space-y-1.5 pl-5">
+      <li><b>共働きの世帯全体。</b>配偶者の稼ぎが増えたぶんで、世帯の実質の手取りはほぼ保たれています。ただし、そのぶん働く時間は増えています。</li>
+      <li><b>年収のいちばん低い段階と、いちばん高い段階。</b>物価を差し引いた手取りはほぼ横ばいか、少し増えています。理由はこのデータからは分かりません。</li>
+    </ul>
+
+    <h3 class="mt-6 font-semibold">世の中はどう変わったのか</h3>
+    <ul class="mt-2 list-disc space-y-1.5 pl-5">
+      <li><b>「1 人の稼ぎで家族を養う」から「共働きで同じ暮らしを保つ」へ。</b>世帯の収入は同じでも、同じ暮らしに前より多くの働き手と時間が要るようになりました。</li>
+      <li><b>負担は、見えにくいところで増えた。</b>給料明細で増えたのは社会保険料の数ポイントですが、国全体では消費税と会社負担の社会保険料が大きく増えました。社会保険料の多くは、高齢化で増える年金・医療・介護に回っています（<a class="text-link underline-offset-2 hover:underline dark:text-linkd" href="zaisei.html">税と保険料の 100 円</a>）。</li>
+      <li><b>生活に欠かせない物ほど高くなった。</b>平均の物価より、毎日買う食べ物とエネルギーの値上がりが大きく、体感の物価は平均より高くなります。</li>
+    </ul>
+    <p class="mt-4">「手取りが激減した」は、平均の数字としては言い過ぎです。けれども、1 人の稼ぎ、真ん中の層、毎日の買い物という、多くの人が自分の暮らしで見ている部分では、たしかに苦しくなっています。不満は数字の平均ではなく、その中身から来ていると考えられます。</p>
+  </section>
+
+  <section class="mt-10" aria-labelledby="s7">
+    <h2 id="s7" class="text-lg font-semibold">まとめ</h2>
     <dl class="mt-3 space-y-3">
       <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
         <dt class="font-semibold">違う部分</dt>
@@ -84,10 +142,10 @@
       </div>
       <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
         <dt class="font-semibold">本当の部分</dt>
-        <dd class="mt-1">国全体の負担は大きく上がりました。その多くは消費税と会社負担の社会保険料で、給料明細には見えません。そして物価を差し引くと、世帯の手取りは {{ indexYear }} 年より少なく、1 人あたりの実質賃金ははっきり下がっています。</dd>
+        <dd class="mt-1">国全体の負担は大きく上がりました。その多くは消費税と会社負担の社会保険料で、給料明細には見えません。物価を差し引くと、世帯の手取りは {{ indexYear }} 年より少なく、世帯主 1 人の稼ぎと 1 人あたりの実質賃金ははっきり下がっています。共働きで埋めているのが今の姿です。</dd>
       </div>
     </dl>
-    <p class="mt-4">「手取りが激減した」と感じる理由は、明細の数字よりも、明細に見えない負担と、収入の伸びに追いつかない物価にあるようです。どこに重みを置くかで、評価は分かれます。</p>
+    <p class="mt-4">「手取りが激減した」と感じる理由は、明細の数字よりも、明細に見えない負担、1 人の稼ぎの目減り、そして毎日の買い物の値上がりにあるようです。どこに重みを置くかで、評価は分かれます。</p>
   </section>
 
   <section class="mt-10 text-sm text-muted dark:text-mutedd" aria-labelledby="notes">
@@ -98,6 +156,7 @@
       <li>2 の国民負担率は財務省の公表値です。財政赤字が多い年（2009 年度のリーマン・ショック後、2020 年度のコロナ対策）は潜在的国民負担率が跳ね上がります。</li>
       <li>3 の社会保険料は内閣府「国民経済計算」の社会保障負担で、「働く人など」には自営業の人や年金生活の人が払う国民健康保険料・国民年金保険料なども入ります。消費税は国（一般会計の決算）と地方消費税の合計で、地方消費税が丸 1 年分そろう 1998 年度から。国民所得は財務省の国民負担率の表の値です。</li>
       <li>4 の物価は総務省「消費者物価指数」（総合）、実質賃金は厚生労働省「毎月勤労統計」の実質賃金指数（現金給与総額、事業所規模 5 人以上）です。毎月勤労統計は 2004〜2011 年に集計の誤りがあり、その期間は補正した値です。</li>
+      <li>5 の世帯の稼ぎは勤め先からの収入（世帯主・配偶者・ほかの家族）で、2000 年からの十分位の表の値です。年収 10 段階は毎年の世帯を 10 等分した各段階の平均なので、同じ世帯を追ったものではありません。エネルギーは消費者物価指数の電気代・ガス代・灯油・ガソリンなどです。</li>
     </ul>
   </section>
 
@@ -161,11 +220,12 @@ const LineChart = {
 };
 
 const SCALE_PCT = 70, GRIDLINES = [20, 40, 60], HIDDEN_SCALE_PCT = 30, HIDDEN_GRIDLINES = [10, 20];
+const PRICE_YEAR = 2020, EARNER_STEP_MAN_YEN = 10, DECILE_SCALE_PCT = 10, HARDEST_COUNT = 4;
 
 createApp({
   components: { StackedColumns, LegendRow, LineChart },
   setup() {
-    const { payslip, burden, hidden, real, indexYear, generated } = DATA;
+    const { payslip, burden, hidden, real, indexYear, generated, earners, deciles } = DATA;
     const first = arr => arr[0];
     const last = arr => arr[arr.length - 1];
     const r1 = v => Math.round(v * 10) / 10;
@@ -205,7 +265,36 @@ createApp({
     const change = v => `${v >= 100 ? '+' : ''}${r1(v - 100)}%`;
     const realTakeaway = `${indexYear} 年から ${realLast.year} 年で、世帯の手取りは額で ${change(realLast.nominal)}、物価は ${change(realLast.cpi)}。物価を差し引いた手取りは ${change(realLast.real)} です。1 人あたりの実質賃金は ${change(realLast.wage)} と、はっきり下がっています。`;
 
-    return { SCALE_PCT, GRIDLINES, HIDDEN_SCALE_PCT, HIDDEN_GRIDLINES, indexYear, generated,
+    const fmtInt = n => (n == null ? '—' : Math.round(n).toLocaleString('ja-JP'));
+    const signed = v => `${v > 0 ? '+' : ''}${v}`;
+    const earnerGroups = [{ key: 'head', label: '世帯主' }, { key: 'spouse', label: '配偶者' }, { key: 'others', label: 'ほかの家族' }];
+    const earnerColors = { head: 'bg-sky-600', spouse: 'bg-amber-400', others: 'bg-stone-400 dark:bg-stone-500' };
+    const earnerTotal = e => e.head + e.spouse + e.others;
+    const earnersMax = EARNER_STEP_MAN_YEN * Math.ceil(Math.max(...earners.map(earnerTotal)) / EARNER_STEP_MAN_YEN);
+    const earnerGridlines = Array.from({ length: earnersMax / EARNER_STEP_MAN_YEN - 1 }, (_, i) => (i + 1) * EARNER_STEP_MAN_YEN);
+    const earnFirst = first(earners), earnLast = last(earners);
+    const headChange = r1(100 * (earnLast.head / earnFirst.head - 1));
+    const earnersTakeaway = `世帯主の稼ぎは ${earnFirst.year} 年の月 ${earnFirst.head} 万円から ${earnLast.year} 年の ${earnLast.head} 万円へ（${signed(headChange)}%）。配偶者の稼ぎは ${earnFirst.spouse} 万円から ${earnLast.spouse} 万円に増え、世帯の合計は ${r1(earnerTotal(earnFirst))} 万円から ${r1(earnerTotal(earnLast))} 万円です。`;
+
+    const decileBar = v => {
+      const width = Math.min(Math.abs(v), DECILE_SCALE_PCT) / DECILE_SCALE_PCT * 50;
+      return v < 0 ? { right: '50%', width: width + '%' } : { left: '50%', width: width + '%' };
+    };
+    const worst = deciles.classes.reduce((a, b) => (b.real_change < a.real_change ? b : a));
+    const hardestIncomes = deciles.classes.slice().sort((a, b) => a.real_change - b.real_change).slice(0, HARDEST_COUNT).map(c => c.income_last);
+    const hardest = { low: fmtInt(Math.min(...hardestIncomes)), high: fmtInt(Math.max(...hardestIncomes)) };
+    const decileTakeaway = `いちばん減ったのは年収 ${fmtInt(worst.income_last)} 万円の段階で ${signed(worst.real_change)}%。いちばん低い段階は ${signed(first(deciles.classes).real_change)}%、いちばん高い段階は ${signed(last(deciles.classes).real_change)}% でした。`;
+
+    const priceSeries = [
+      { key: 'cpi', label: '物価全体', values: real.map(r => r.cpi), stroke: 'stroke-stone-500 dark:stroke-stone-300' },
+      { key: 'food', label: '食べ物', values: real.map(r => r.food), stroke: 'stroke-orange-500' },
+      { key: 'energy', label: 'エネルギー', values: real.map(r => r.energy), stroke: 'stroke-rose-600 dark:stroke-rose-400' },
+    ];
+    const priceTakeaway = `${indexYear} 年から ${realLast.year} 年で、物価全体は ${change(realLast.cpi)} ですが、食べ物は ${change(realLast.food)}、エネルギーは ${change(realLast.energy)} 上がりました。`;
+
+    return { SCALE_PCT, PRICE_YEAR, DECILE_SCALE_PCT, fmtInt, signed,
+             earners, earnerYears: earners.map(e => e.year), earnerGroups, earnerColors, earnersMax, earnerGridlines, earnersTakeaway, headChange,
+             deciles, decileBar, decileTakeaway, hardest, HARDEST_COUNT, priceSeries, priceTakeaway, GRIDLINES, HIDDEN_SCALE_PCT, HIDDEN_GRIDLINES, indexYear, generated,
              payslip, slipYears: payslip.map(s => s.year), slipGroups, slipColors, slipFirst, slipLast, slipDiff, slipTakeaway,
              burden, burdenYears: burden.map(b => b.year), burdenGroups, burdenColors, burdenEstimateYear, burdenTakeaway, burdenEstimateNote,
              hidden, hiddenYears: hidden.map(h => h.year), hiddenGroups, hiddenColors, hiddenTakeaway, incomeNote,

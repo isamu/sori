@@ -1,12 +1,12 @@
 // One 100% column per year, stacked bottom-up in `groups` order; the column at breakYear gets a dashed left edge.
 const StackedColumns = {
   props: { years: Array, series: Array, groups: Array, colors: Object, labels: Array, heightClass: String, breakYear: Number,
-           tickEvery: { type: Number, default: 0 }, max: { type: Number, default: 100 }, gridlines: { type: Array, default: () => [] } },
+           tickEvery: { type: Number, default: 0 }, max: { type: Number, default: 100 }, gridlines: { type: Array, default: () => [] }, unit: { type: String, default: '%' } },
   setup(props) {
     const nameOf = Object.fromEntries(props.labels.map(g => [g.key, g.label]));
     const columns = computed(() => props.years.map((year, i) => ({
       year, shares: props.series[i],
-      title: `${year}年: ` + props.groups.slice().reverse().map(g => `${nameOf[g.key]} ${props.series[i][g.key].toFixed(1)}%`).join('、'),
+      title: `${year}年: ` + props.groups.slice().reverse().map(g => `${nameOf[g.key]} ${props.series[i][g.key].toFixed(1)}${props.unit}`).join('、'),
     })));
     const showTick = (year, i) => i === 0 || i === props.years.length - 1 || (props.tickEvery && year % props.tickEvery === 0 && props.years.length - 1 - i >= 2 && i >= 3);
     const tickAlign = i => (i === 0 ? 'left-0' : i === props.years.length - 1 ? 'right-0' : 'left-1/2 -translate-x-1/2');

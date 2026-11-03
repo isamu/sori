@@ -92,7 +92,7 @@ def burden():
     return BURDEN_HEADER, rows
 
 
-KAKEI_ITEMS = ["年間収入_万円", "実収入", "勤め先収入", "非消費支出", "直接税", "勤労所得税", "個人住民税", "他の税",
+KAKEI_ITEMS = ["年間収入_万円", "実収入", "勤め先収入", "世帯主収入", "世帯主の配偶者の収入", "他の世帯員収入", "非消費支出", "直接税", "勤労所得税", "個人住民税", "他の税",
                "社会保険料", "公的年金保険料", "健康保険料", "介護保険料", "他の社会保険料", "他の非消費支出",
                "可処分所得", "消費支出"]
 DECILE_CLASSES = ["avg"] + [f"D{i:02d}" for i in range(1, 11)]
@@ -215,13 +215,17 @@ def consumption_tax():
     return ["fiscal_year", "national_100m_yen", "local_100m_yen"], out
 
 
+CPI_COLUMNS = {"cpi_2020base": "総合", "cpi_food_2020base": "食料", "cpi_energy_2020base": "エネルギー"}
+
+
 def cpi():
+    """{年: {列名: 指数}}。列は見出しの名前で探す。"""
     text = (RAW_DIR / "cpi" / "cpi_2020base_calendar_year.csv").read_bytes().decode("shift_jis")
-    out = {}
-    for line in csv.reader(text.splitlines()):
-        if line and re.fullmatch(r"\d{4}", line[0].strip()):
-            out[int(line[0])] = float(line[1])
-    return out
+    lines = list(csv.reader(text.splitlines()))
+    header = [c.strip() for c in lines[0]]
+    cols = {key: header.index(name) for key, name in CPI_COLUMNS.items()}
+    return {int(line[0]): {key: float(line[j]) for key, j in cols.items()}
+            for line in lines if line and re.fullmatch(r"\d{4}", line[0].strip())}
 
 
 def real_wage():
@@ -236,7 +240,8 @@ def real_wage():
 def prices_wages():
     prices, wages = cpi(), real_wage()
     years = [y for y in sorted(prices) if y >= OLD_BASE_YEARS[0]]
-    return ["year", "cpi_2020base", "real_wage_index_2020base"], [[y, prices[y], wages.get(y, "")] for y in years]
+    return (["year", *CPI_COLUMNS, "real_wage_index_2020base"],
+            [[y, *(prices[y][k] for k in CPI_COLUMNS), wages.get(y, "")] for y in years])
 
 
 def write(name, header, rows):

@@ -84,8 +84,50 @@ def real_income(slip, price_rows):
     def index(series, y):
         return round(100 * series[y] / series[INDEX_YEAR], PCT_DECIMALS)
 
+    food = {y: float(prices[y]["cpi_food_2020base"]) for y in years}
+    energy = {y: float(prices[y]["cpi_energy_2020base"]) for y in years}
     return [{"year": y, "nominal": index(takehome, y), "real": index(real, y), "wage": index(wage, y),
-             "cpi": index(cpi, y)} for y in years]
+             "cpi": index(cpi, y), "food": index(food, y), "energy": index(energy, y)} for y in years]
+
+
+DECILES = [f"D{i:02d}" for i in range(1, 11)]
+EARNERS = [("head", "世帯主収入"), ("spouse", "世帯主の配偶者の収入"), ("others", "他の世帯員収入")]
+MAN_YEN = 10000
+
+
+def household_cells(household_rows):
+    cells = {}
+    for r in household_rows:
+        cells.setdefault((int(r["year"]), r["income_class"]), {})[r["item"]] = float(r["yen_per_month"])
+    return cells
+
+
+def cpi_by_year(price_rows):
+    return {y: float(r["cpi_2020base"]) for y, r in by_key(price_rows, "year").items()}
+
+
+def earners(household_rows, price_rows):
+    """勤労者世帯の平均の稼ぎ（世帯主・配偶者・ほかの家族）を、2020 年の物価にそろえた万円/月で。"""
+    cells, cpi = household_cells(household_rows), cpi_by_year(price_rows)
+    years = sorted(y for (y, c), v in cells.items() if c == AVERAGE_CLASS and y in cpi and all(item in v for _, item in EARNERS))
+    return [{"year": y, **{key: round(cells[(y, AVERAGE_CLASS)][item] / cpi[y] * 100 / MAN_YEN, PCT_DECIMALS) for key, item in EARNERS}}
+            for y in years]
+
+
+def decile_changes(household_rows, price_rows):
+    """年収 10 段階それぞれの、最初の年から最新の年までの、物価を差し引いた手取りの変化（%）。"""
+    cells, cpi = household_cells(household_rows), cpi_by_year(price_rows)
+    years = sorted({y for (y, c) in cells if c == DECILES[0] and y in cpi})
+    if len(years) < 2:
+        return None
+    first, last = years[0], years[-1]
+
+    def real(y, d):
+        return cells[(y, d)]["可処分所得"] / cpi[y]
+
+    return {"first": first, "last": last, "classes": [
+        {"id": d, "income_first": cells[(first, d)].get("年間収入_万円"), "income_last": cells[(last, d)].get("年間収入_万円"),
+         "real_change": round(100 * (real(last, d) / real(first, d) - 1), PCT_DECIMALS)} for d in DECILES]}
 
 
 def tedori_payload(household_rows, burden_rows, contribution_rows, consumption_rows, price_rows):
@@ -94,4 +136,5 @@ def tedori_payload(household_rows, burden_rows, contribution_rows, consumption_r
     return {"payslip": slip, "burden": burden(burden_rows, first_year),
             "hidden": hidden(burden_rows, contribution_rows, consumption_rows),
             "nationalIncome": national_income(burden_rows, first_year),
-            "real": real_income(slip, price_rows), "indexYear": INDEX_YEAR}
+            "real": real_income(slip, price_rows), "indexYear": INDEX_YEAR,
+            "earners": earners(household_rows, price_rows), "deciles": decile_changes(household_rows, price_rows)}
