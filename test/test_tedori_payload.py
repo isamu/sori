@@ -73,7 +73,7 @@ class HiddenTest(unittest.TestCase):
         taxes = [{"fiscal_year": "1997", "national_100m_yen": "90000", "local_100m_yen": ""},
                  {"fiscal_year": "1998", "national_100m_yen": "100000", "local_100m_yen": "30000"}]
         out = hidden([burden_row(1997), burden_row(1998)], contributions, taxes)
-        self.assertEqual(out, [{"year": 1998, "consumption_tax": 3.2, "employer": 5.0, "household": 7.5}])
+        self.assertEqual(out, [{"year": 1998, "consumption_tax": 3.2, "employer": 5.0}])
         self.assertEqual(hidden([], [], []), [])
 
 

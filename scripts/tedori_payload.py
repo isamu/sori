@@ -59,15 +59,14 @@ def national_income(burden_rows, first_year):
 
 
 def hidden(burden_rows, contribution_rows, consumption_rows):
-    """給料明細に出ない負担: 消費税（国＋地方）と会社負担の社会保険料、それと働く人などが払う社会保険料（対国民所得比、%）。"""
+    """給料明細に出ない負担: 消費税（国＋地方）と会社負担の社会保険料（対国民所得比、%）。"""
     income = {y: float(r["national_income_trillion_yen"]) for y, r in by_key(burden_rows, "fiscal_year").items()}
     contributions = by_key(contribution_rows, "fiscal_year")
     taxes = by_key(consumption_rows, "fiscal_year")
     years = sorted(y for y in income.keys() & contributions.keys() & taxes.keys() if number(taxes[y]["local_100m_yen"]))
     return [{"year": y,
              "consumption_tax": pct((float(taxes[y]["national_100m_yen"]) + float(taxes[y]["local_100m_yen"])) / 1e4, income[y]),
-             "employer": pct(float(contributions[y]["employer_billion_yen"]) / 1e3, income[y]),
-             "household": pct(float(contributions[y]["household_billion_yen"]) / 1e3, income[y])} for y in years]
+             "employer": pct(float(contributions[y]["employer_billion_yen"]) / 1e3, income[y])} for y in years]
 
 
 def real_income(slip, price_rows):
