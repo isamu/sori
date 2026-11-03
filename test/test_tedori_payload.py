@@ -157,6 +157,8 @@ class AgeChangesTest(unittest.TestCase):
         out = age_changes(rows, price_rows([INDEX_YEAR, INDEX_YEAR + 10]))
         self.assertEqual(out["average"]["head"], 0.0)
         self.assertEqual(out["reweighted"]["takehome"], 0.0)
+        self.assertEqual(out["cpi_change"], 10.0)
+        self.assertEqual({c["head_nominal"] for c in out["classes"]}, {10.0})
         self.assertIsNone(age_changes(age_rows(INDEX_YEAR, {c: 1 for c in ["avg"] + AGE_CLASSES}, {}), price_rows([INDEX_YEAR])))
         self.assertIsNone(age_changes([], []))
 

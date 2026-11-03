@@ -170,7 +170,9 @@ def age_changes(age_rows, price_rows):
         return {key: real_change(cells, cpi, first, last, cls, item) for key, item in AGE_VALUES.items()}
 
     return {"first": first, "last": last,
-            "classes": [{"id": c, "age_first": cells[(first, c)]["世帯主の年齢"], **change(c)} for c in WORKING_AGE_CLASSES],
+            "classes": [{"id": c, "age_first": cells[(first, c)]["世帯主の年齢"], **change(c),
+                         "head_nominal": real_change(cells, {first: 1, last: 1}, first, last, c, AGE_VALUES["head"])} for c in WORKING_AGE_CLASSES],
+            "cpi_change": round(100 * (cpi[last] / cpi[first] - 1), PCT_DECIMALS),
             "average": change(AVERAGE_CLASS),
             "reweighted": {key: reweighted_change(cells, cpi, first, last, item) for key, item in AGE_VALUES.items()},
             "age": {"first": cells[(first, AVERAGE_CLASS)]["世帯主の年齢"], "last": cells[(last, AVERAGE_CLASS)]["世帯主の年齢"]},

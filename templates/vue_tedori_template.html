@@ -4,17 +4,17 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>手取りは激減したのか</title>
-<meta name="description" content="「手取りが激減した」は本当か。給料明細で引かれる割合、国民負担率と潜在的国民負担率、消費税と会社負担の社会保険料、物価を差し引いた手取りと実質賃金を、1995年からのデータで確かめます。">
+<meta name="description" content="「手取りが激減した」は本当か。給料明細で引かれる割合、国民負担率と潜在的国民負担率、消費税と会社負担の社会保険料、物価を差し引いた手取りと実質賃金、同じ年代どうしの給料を、1995年からのデータで確かめます。">
 <link rel="canonical" href="https://isamu.github.io/sori/tedori.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="総理の１年">
 <meta property="og:title" content="手取りは激減したのか">
-<meta property="og:description" content="給料明細で引かれる割合は少ししか増えていない。重くなったのは、明細に見えない負担と物価だった。">
+<meta property="og:description" content="給料からの天引きは少ししか増えていない。給料が上がらないあいだに物価が上がり、同じ年代で比べても実質の給料は1割近く目減りしていた。">
 <meta property="og:url" content="https://isamu.github.io/sori/tedori.html">
 <meta property="og:locale" content="ja_JP">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="手取りは激減したのか">
-<meta name="twitter:description" content="給料明細で引かれる割合は少ししか増えていない。重くなったのは、明細に見えない負担と物価だった。">
+<meta name="twitter:description" content="給料からの天引きは少ししか増えていない。給料が上がらないあいだに物価が上がり、同じ年代で比べても実質の給料は1割近く目減りしていた。">
 <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 <style type="text/tailwindcss">
 /* Tailwind theme only: paper and ink tokens shared with the other pages, and the typeface. */
@@ -137,14 +137,20 @@
     <dl class="mt-3 space-y-3">
       <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
         <dt class="font-semibold">違う部分</dt>
-        <dd class="mt-1">給料明細で引かれる割合が「激増」したわけではありません。{{ slipFirst.year }} 年から {{ slipLast.year }} 年で {{ slipDiff }} ポイントです。</dd>
+        <dd class="mt-1">給料からの天引きが「激増」したわけではありません。{{ slipFirst.year }} 年から {{ slipLast.year }} 年で、収入に対して {{ slipDiff }} ポイントの増加です。また、給料の目減りは世帯主の高齢化のせいではありません（同じ年代どうしで比べても減っています）。</dd>
       </div>
       <div class="rounded-md border border-rule px-4 py-3 dark:border-ruled">
         <dt class="font-semibold">本当の部分</dt>
-        <dd class="mt-1">国全体の負担は大きく上がりました。その多くは消費税と会社負担の社会保険料で、給料明細には見えません。物価を差し引くと、世帯の手取りは {{ indexYear }} 年より少なく、世帯主 1 人の稼ぎと 1 人あたりの実質賃金ははっきり下がっています。世帯主の年齢をそろえても下がっていて、高齢化だけでは説明できません。共働きで埋めているのが今の姿です。</dd>
+        <dd class="mt-1">給料の額面が {{ ages.last - ages.first }} 年ほとんど上がらないあいだに、物価が上がりました。世帯主が 40 代の世帯で比べると、給料の額面は {{ signed(ageOf('40-49').head_nominal) }}%、物価は {{ signed(ages.cpi_change) }}%。物価を差し引いた給料は {{ signed(ageOf('40-49').head) }}% で、同じ年代どうしで比べても 1 割近く目減りしています。結婚している世帯は、配偶者が働いてこれを埋めています。</dd>
       </div>
     </dl>
-    <p class="mt-4">「手取りが激減した」と感じる理由は、明細の数字よりも、明細に見えない負担、1 人の稼ぎの目減り、そして毎日の買い物の値上がりにあるようです。どこに重みを置くかで、評価は分かれます。</p>
+    <h3 class="mt-6 font-semibold">手取りを押し下げたものを、大きい順に</h3>
+    <ol class="mt-2 list-decimal space-y-1.5 pl-5">
+      <li><b>給料が物価に追いつかなかったこと。</b>物価を差し引いた世帯主の給料は、同じ年代で比べて約 1 割減りました。消費税の引き上げ（5% → 8% → 10%）は、この物価の上昇の一部です。</li>
+      <li><b>天引きの増加。</b>主に社会保険料で、手取りをさらに {{ slipDiff }} ポイントほど押し下げました。</li>
+      <li><b>会社負担の社会保険料。</b>給料明細には見えませんが、会社にとっては人件費なので、給料が上がりにくい一因かもしれません。大きさは測れません。</li>
+    </ol>
+    <p class="mt-4">「手取りが激減した」の正体は、天引きの増加よりも、「給料が上がらないこと」と「物価が上がること」の組み合わせでした。世帯では共働きで暮らしを保っていますが、1 人の稼ぎは目減りし、埋めきれていない世代（50 代）や、埋める手段のない世帯もあります。どこに重みを置くかで、評価は分かれます。</p>
   </section>
 
   <section class="mt-10 text-sm text-muted dark:text-mutedd" aria-labelledby="notes">
