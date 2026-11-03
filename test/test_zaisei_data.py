@@ -7,6 +7,8 @@ PCT_ROUNDING = 0.15
 YEN_ROUNDING = 2
 BILLION_YEN_ROUNDING = 1.0
 FIRST_YEAR = 1995
+INDEX_BASE_YEAR = 2020
+LOCAL_CONSUMPTION_TAX_FIRST_FULL_YEAR = 1998
 
 
 def rows(name):
@@ -77,6 +79,41 @@ class SpendingTest(unittest.TestCase):
                 subs = [v for c, v in codes.items() if c.startswith(top + ".")]
                 if subs:
                     self.assertAlmostEqual(sum(subs), codes[top], delta=BILLION_YEN_ROUNDING, msg=(y, top))
+
+
+def consecutive_from(test, years, first):
+    test.assertEqual(years, list(range(years[0], years[-1] + 1)))
+    test.assertLessEqual(years[0], first)
+
+
+class SocialContributionsTest(unittest.TestCase):
+    def test_employer_and_household_add_up_and_years_are_consecutive(self):
+        data = rows("social_contributions.csv")
+        consecutive_from(self, [int(r["fiscal_year"]) for r in data], FIRST_YEAR)
+        for r in data:
+            v = {k: float(x) for k, x in r.items()}
+            self.assertAlmostEqual(v["employer_billion_yen"] + v["household_billion_yen"], v["total_billion_yen"], delta=BILLION_YEN_ROUNDING, msg=r)
+            self.assertGreater(v["employer_billion_yen"], 0, r)
+
+
+class ConsumptionTaxTest(unittest.TestCase):
+    def test_national_every_year_and_local_from_its_first_full_year(self):
+        data = rows("consumption_tax.csv")
+        consecutive_from(self, [int(r["fiscal_year"]) for r in data], FIRST_YEAR)
+        for r in data:
+            self.assertGreater(float(r["national_100m_yen"]), 0, r)
+        local_years = [int(r["fiscal_year"]) for r in data if r["local_100m_yen"]]
+        self.assertEqual(local_years, list(range(LOCAL_CONSUMPTION_TAX_FIRST_FULL_YEAR, local_years[-1] + 1)))
+
+
+class PricesWagesTest(unittest.TestCase):
+    def test_both_indices_are_100_in_the_base_year_and_cover_every_year(self):
+        data = {int(r["year"]): r for r in rows("prices_wages.csv")}
+        consecutive_from(self, sorted(data), FIRST_YEAR)
+        self.assertEqual(float(data[INDEX_BASE_YEAR]["cpi_2020base"]), 100.0)
+        self.assertEqual(float(data[INDEX_BASE_YEAR]["real_wage_index_2020base"]), 100.0)
+        for y, r in data.items():
+            self.assertTrue(r["cpi_2020base"] and r["real_wage_index_2020base"], y)
 
 
 if __name__ == "__main__":

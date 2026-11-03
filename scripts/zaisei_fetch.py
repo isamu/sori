@@ -10,6 +10,7 @@ RAW_DIR = ROOT / "raw" / "zaisei"
 CONV_DIR = RAW_DIR / "conv"
 ESRI = "https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files"
 ESTAT = "https://www.e-stat.go.jp/stat-search/file-download?statInfId={}&fileKind=0"
+ESTAT_CSV = "https://www.e-stat.go.jp/stat-search/file-download?statInfId={}&fileKind=1"
 
 # 家計調査 年次 第 2-8 表（2018 年から第 2-5 表）: 二人以上の世帯のうち勤労者世帯、年間収入十分位階級別
 KAKEI_DECILE_IDS = {
@@ -34,6 +35,12 @@ def sources():
         yield f"kakei/kakei_decile_worker_{year}.{ext}", ESTAT.format(stat_id)
     yield ("kakei/kakei_quintile_worker_nonfarm_1976-2007_20-07-c.xls",
            "https://www.stat.go.jp/data/kakei/longtime/zuhyou/20-07-c.xls")
+    yield "esri/social_contributions_2020base_2024.xlsx", f"{ESRI}/2024/tables/2024s10_jp.xlsx"
+    yield "cpi/cpi_2020base_calendar_year.csv", ESTAT_CSV.format("000032103936")
+    yield "mof/tax_revenue_general_account.xls", "https://www.mof.go.jp/tax_policy/summary/condition/zeisyu.xls"
+    yield ("soumu/local_tax_by_item_r08.xlsx",
+           "https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/xls/ichiran06_r08/10.xlsx")
+    yield "maikin/real_wage_index_hon-t25.xls", ESTAT.format("000032189738").replace("fileKind=0", "fileKind=4")
 
 
 def fetch(rel, url):
