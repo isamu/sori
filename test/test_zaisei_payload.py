@@ -2,7 +2,7 @@ import random, sys, unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from zaisei_payload import (CELLS, LINK_YEAR, NEW_BASE, OLD_BASE, SPEND_GROUPS, pay_amounts, pay_payload, pay_years, shares_pct,
+from zaisei_payload import (CELLS, LINK_YEAR, NEW_BASE, OLD_BASE, PAY_GROUPS, SPEND_GROUPS, pay_amounts, pay_payload, pay_years, shares_pct,
                             household_cells, link_ratios, spending_amounts, spending_payload, spending_tables, spending_years, to_hundred)
 
 SEED = 20261103
@@ -126,6 +126,8 @@ class PayTest(unittest.TestCase):
     def test_amounts_group_items_and_missing_items_count_as_zero(self):
         cell = {"公的年金保険料": 10, "健康保険料": 5, "介護保険料": 1, "個人住民税": 3, "勤労所得税": 2, "可処分所得": 79}
         self.assertEqual(pay_amounts(cell), {"pension": 10, "medical": 6, "resident": 3, "income": 2, "other": 0, "takehome": 79})
+        self.assertEqual(pay_amounts({**cell, "他の社会保険料": 2})["medical"], 8)
+        self.assertEqual(dict((k, label) for k, label, _ in PAY_GROUPS)["medical"], "医療・介護などの保険料")
 
     def test_years_need_every_decile_with_insurance_breakdown(self):
         items = ["実収入", "可処分所得", "公的年金保険料"]
