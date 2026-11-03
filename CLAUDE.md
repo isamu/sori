@@ -18,6 +18,7 @@
 | `site/og-grass.png` | `build_og.py` が作る代替の OGP 画像（1200×630、7 人分の草を 2 列）。使うなら index の og:image を差し替える |
 | `site/pm-first-year-grass.html` | 歴代総理 1 年目の草を 1 枚に並べたもの |
 | `site/all.html` | 「総理の毎年」。2011-03-11 以降の全期間を暦年ごとに 1 枚の草で並べ、草の下に在任バー、年ごとに 5 タイル。`build_pages.py all` で生成。`parsed/` を経由せず `dousei/` を直接読む |
+| `site/zaisei.html` | 「税と保険料の 100 円」。払う（勤労者世帯の収入 100 円から引かれる税と社会保険料、年収 10 段階）と使う（政府全体の支出＋利払いを 100 円とした使い道、1995 年度〜）を、最新年は 10×10 のマス、年ごとの変化は 1 年 1 本の積み上げ棒で（切り替えのボタンなし）。`build_pages.py zaisei` で生成。計画は `plans/feat-zaisei-page.md` |
 | `scripts/` | 取り込み → 解析 → 生成。`by_year.py` は暦年への振り分け・在任区間・出来事の窓の純粋関数。`events.py` は草の色を変える出来事の一覧（選挙・震度 7 の地震・豪雨、出典 URL つき）|
 | `test/` | `python3 -m unittest discover -s test -p 'test_*.py'` |
 
@@ -34,6 +35,7 @@ python3 parse_all.py                  # dousei/ → parsed/pms-first-year.json
 python3 build_pages.py index          # site/index.html（草だけ）
 python3 build_pages.py multi          # site/pm-first-year-grass.html（比較表と commit log つき）
 python3 build_pages.py all            # site/all.html（全期間を暦年ごとに）
+python3 build_pages.py zaisei         # site/zaisei.html（税と保険料の 100 円。zaisei/*.csv を読む）
 python3 -m unittest discover -s test -p 'test_*.py'   # by_year.py と events.py の検証
 python3 build_og.py                   # site/og-grass.png（代替 OGP 画像。og.png は手製なので触らない）
 python3 parse_days.py <raw/html/.../x.html.gz>   # 1 ページ分の解析結果を眺める（デバッグ用）
@@ -55,7 +57,7 @@ mulmoclaude の画面に出すときは `~/mulmoclaude/artifacts/html/2026/10/` 
 
 ## 財政データ（`zaisei/`）
 
-税金と社会保険料の使い道と負担を見せるページの材料。ページは大人向けだが、グラフと数値は子どもでも読める難しさにする（1 つの図で言うことは 1 つ、「100 円のうち何円」の丸めた数、棒やマスを数える図、専門用語は言い換えて注に）。ページはまだない。計画は `plans/feat-zaisei-data.md`。
+税金と社会保険料の使い道と負担を見せるページの材料。ページは大人向けだが、グラフと数値は子どもでも読める難しさにする（1 つの図で言うことは 1 つ、「100 円のうち何円」の丸めた数、棒やマスを数える図、専門用語は言い換えて注に）。ページは `site/zaisei.html`。計画は `plans/feat-zaisei-data.md`。
 
 | ファイル | 中身 | 出典 |
 |---|---|---|

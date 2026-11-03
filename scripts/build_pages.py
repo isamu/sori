@@ -3,12 +3,14 @@
   python3 build_pages.py index    # site/index.html（歴代 1 年目の草だけ。時系列は埋めない）
   python3 build_pages.py multi    # site/pm-first-year-grass.html（歴代 1 年目、比較表と commit log つき）
   python3 build_pages.py all      # site/all.html（2011 年以降の全期間を暦年ごとに。dousei/ を直接読む）
+  python3 build_pages.py zaisei   # site/zaisei.html（税と保険料の 100 円。zaisei/ の CSV を読む）
 """
-import datetime, json, re, sys
+import csv, datetime, json, re, sys
 from by_year import days_in_year, event_list, events_in, group_by_year, pm_id_of, segments_in, terms_of, year_span, years_covered
-from config import PARSED_DIR, PMS, SITE_DIR, TEMPLATE_DIR
+from config import PARSED_DIR, PMS, ROOT, SITE_DIR, TEMPLATE_DIR
 from events import EVENTS, KINDS
 from parse_days import load_dousei
+from zaisei_payload import pay_payload, spending_payload
 
 
 def compact_day(d):
@@ -81,5 +83,22 @@ def build_all():
     }, "all.html")
 
 
+def zaisei_rows(name):
+    path = ROOT / "zaisei" / name
+    try:
+        with open(path, encoding="utf-8") as f:
+            return list(csv.DictReader(f))
+    except OSError as e:
+        sys.exit(f"{path} を読めない（先に zaisei_extract.py を回す）: {e}")
+
+
+def build_zaisei():
+    render("vue_zaisei_template.html", {
+        "pay": pay_payload(zaisei_rows("household_by_income.csv")),
+        "spend": spending_payload(zaisei_rows("spending_by_function.csv")),
+        "generated": datetime.date.today().isoformat(),
+    }, "zaisei.html")
+
+
 if __name__ == "__main__":
-    {"index": build_index, "multi": build_multi, "all": build_all}[sys.argv[1]]()
+    {"index": build_index, "multi": build_multi, "all": build_all, "zaisei": build_zaisei}[sys.argv[1]]()
